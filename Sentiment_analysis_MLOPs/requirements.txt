@@ -6,4 +6,5 @@ numpy>=1.21
 pandas>=1.4
 gensim>=4.0.0    # only if using Word2Vec artifacts
 nltk>=3.7
-prometheus-client>=0.14.1  # optional for metrics
+prometheus-client>=0.14.1 
+flask-cors

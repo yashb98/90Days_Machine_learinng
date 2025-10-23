@@ -1,10 +1,12 @@
 # app.py
+from flask_cors import CORS
 import pickle
 import joblib
 import re
 import numpy as np
 from flask import Flask, request, jsonify
 from gensim.models import Word2Vec
+from flask_cors import CORS
 
 # -----------------------------
 #  Load Saved Models
@@ -62,7 +64,9 @@ def vectorize_text(tokens):
 # -----------------------------
 #  Create Flask App
 # -----------------------------
+
 app = Flask(__name__)
+CORS(app)
 
 
 @app.route('/')
