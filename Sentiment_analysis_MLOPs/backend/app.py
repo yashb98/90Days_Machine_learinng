@@ -1,106 +1,71 @@
-# app.py
 from flask_cors import CORS
 import pickle
 import joblib
 import re
 import numpy as np
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from gensim.models import Word2Vec
-from flask_cors import CORS
+import os
 
 # -----------------------------
-#  Load Saved Models
+# Load Saved Models
 # -----------------------------
-
-# Load Word2Vec model
 w2v_model = Word2Vec.load("fast_word2vec.model")
-
-# Load classifier (e.g., LogisticRegression)
 classifier = joblib.load("classifier.pkl")
 
-# Load TF-IDF vectorizer
 with open("tfidf_vector.pkl", "rb") as f:
-    tfidf_vectorizer = pickle.load(f)  # must be TfidfVectorizer object
+    tfidf_vectorizer = pickle.load(f)
 
 # -----------------------------
-#  Utility Functions
+# Utility Functions
 # -----------------------------
 
 
 def clean_text(text):
-    """
-    Clean input text by lowercasing and removing non-alphabetic characters.
-    Returns a list of tokens.
-    """
     text = re.sub(r"[^a-zA-Z\s]", "", text.lower())
-    tokens = text.split()
-    return tokens
+    return text.split()
 
 
 def vectorize_text(tokens):
-    """
-    Convert tokens into a TF-IDF weighted Word2Vec vector.
-    Returns a single vector for the text.
-    """
     vectors = []
     for word in tokens:
         if word in w2v_model.wv:
-            # Use TF-IDF weight if the word exists, else weight=1
-            if hasattr(tfidf_vectorizer, "vocabulary_") and word in tfidf_vectorizer.vocabulary_:
-                weight = tfidf_vectorizer.idf_[
-                    tfidf_vectorizer.vocabulary_[word]]
-            else:
-                weight = 1
+            weight = tfidf_vectorizer.idf_[tfidf_vectorizer.vocabulary_[
+                word]] if word in tfidf_vectorizer.vocabulary_ else 1
             vectors.append(w2v_model.wv[word] * weight)
-
-    if vectors:
-        # Compute mean vector for all words
-        return np.mean(vectors, axis=0).reshape(1, -1)
-    else:
-        # If no words matched, return zero vector
-        return np.zeros((1, w2v_model.vector_size))
+    return np.mean(vectors, axis=0).reshape(1, -1) if vectors else np.zeros((1, w2v_model.vector_size))
 
 
 # -----------------------------
-#  Create Flask App
+# Flask App
 # -----------------------------
-
-app = Flask(__name__)
+app = Flask(__name__, static_folder="../frontend/dist", static_url_path="")
 CORS(app)
-
-
-@app.route('/')
-def home():
-    return "Flask API for Sentiment Analysis is running!"
 
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    """
-    Predict sentiment for input text.
-    Expects JSON: {"text": "Your text here"}
-    """
     data = request.get_json(force=True)
     text = data.get("text", "")
-
     if not text:
         return jsonify({"error": "No text provided"}), 400
-
     tokens = clean_text(text)
     vector = vectorize_text(tokens)
-
-    # Predict sentiment
     prediction = classifier.predict(vector)[0]
     sentiment = "positive" if prediction == 1 else "negative"
+    return jsonify({"text": text, "predicted_sentiment": sentiment})
 
-    return jsonify({
-        "text": text,
-        "predicted_sentiment": sentiment
-    })
+# Serve React frontend
 
 
-# -----------------------------
-#  Run the Flask API
-# -----------------------------
+@app.route("/", defaults={"path": ""})
+@app.route("/<path:path>")
+def serve_frontend(path):
+    if path != "" and os.path.exists(os.path.join(app.static_folder, path)):
+        return send_from_directory(app.static_folder, path)
+    else:
+        return send_from_directory(app.static_folder, "index.html")
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000, debug=True)

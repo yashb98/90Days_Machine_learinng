@@ -1,0 +1,44 @@
+# -----------------------------
+# Stage 1: Build Frontend
+# -----------------------------
+# -----------------------------
+# Stage 1: Build Frontend
+# -----------------------------
+FROM node:20 AS frontend-build
+
+WORKDIR /app/frontend
+
+# Copy package.json and package-lock.json
+COPY frontend/package*.json ./
+
+# Install dependencies using npm
+RUN npm install
+
+# Copy all frontend code
+COPY frontend/ ./
+
+# Build the frontend
+RUN npm run build
+# -----------------------------
+# Stage 2: Backend + Serve Frontend
+# -----------------------------
+FROM python:3.11-slim
+
+# Set working directory
+WORKDIR /app
+
+# Install Python dependencies
+COPY backend/ ./backend
+WORKDIR /app/backend
+RUN pip install --no-cache-dir --upgrade pip
+RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir flask-cors gensim numpy joblib
+
+# Copy frontend build
+COPY --from=frontend-build /app/frontend/dist /app/frontend/dist
+
+# Expose port
+EXPOSE 8000
+
+# Start Flask
+CMD ["python", "app.py"]
