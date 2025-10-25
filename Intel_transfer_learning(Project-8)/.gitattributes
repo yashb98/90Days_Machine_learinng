@@ -1,0 +1,2 @@
+Intel_transfer_learning(Project-8)/resnet50_intel_best.pth filter=lfs diff=lfs merge=lfs -text
+Intel_transfer_learning(Project-8)/venv/lib/python3.12/site-packages/torch/lib/libtorch_cpu.dylib filter=lfs diff=lfs merge=lfs -text
