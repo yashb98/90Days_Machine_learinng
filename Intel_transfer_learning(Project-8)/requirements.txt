@@ -1,0 +1,19 @@
+# Core ML + Deep Learning
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+
+# Image processing
+Pillow==10.3.0
+
+# Data handling
+numpy==1.26.4
+
+# Visualization (optional but useful)
+matplotlib==3.9.0
+
+# Progress bar
+tqdm==4.66.4
+
+# Optional: Kaggle API (for dataset download)
+kaggle==1.6.6
