@@ -1,74 +1,126 @@
-# ============================================================
-# Day 19 - Transfer Learning with ResNet50 on Intel Dataset
-# Author: Yash Bishnoi
-# macOS Compatible (Fix for multiprocessing issue)
-# ============================================================
+"""
+Day 20 — Fine-Tuning ResNet50 on Intel Image Classification Dataset
+Author: Yash Bishnoi
+Goal: Fine-tune deeper layers of a pre-trained ResNet50 to achieve >94% accuracy
+"""
 
 import torch
 import torch.nn as nn
-import torch.optim as optim
-from torchvision import datasets, models, transforms
 from torch.utils.data import DataLoader
-from tqdm import tqdm
-import os
-import copy
+from torchvision import datasets, models, transforms
+import matplotlib.pyplot as plt
+import numpy as np
 import time
-from PIL import Image
+import copy
+from tqdm import tqdm
 
-# ------------------------------------------------------------
-# 1  Dataset Path Setup
-# ------------------------------------------------------------
+# ---------------------------
+# Device setup
+# ---------------------------
+device = torch.device("mps" if torch.backends.mps.is_available(
+) else "cuda" if torch.cuda.is_available() else "cpu")
+print(f"💻 Using device: {device}")
+
+# ---------------------------
+# Data Preparation
+# ---------------------------
 data_dir = "Intel_transfer_learning"
-train_dir = os.path.join(data_dir, "seg_train")
-val_dir = os.path.join(data_dir, "seg_test")
+train_dir = f"{data_dir}/seg_train"
+val_dir = f"{data_dir}/seg_test"
 
-# ------------------------------------------------------------
-# 2  Data Transformations
-# ------------------------------------------------------------
-data_transforms = {
-    'train': transforms.Compose([
-        transforms.RandomResizedCrop(224),
-        transforms.RandomHorizontalFlip(),
-        transforms.RandomRotation(15),
-        transforms.ToTensor(),
-        transforms.Normalize([0.485, 0.456, 0.406],
-                             [0.229, 0.224, 0.225])
-    ]),
-    'val': transforms.Compose([
-        transforms.Resize((224, 224)),
-        transforms.ToTensor(),
-        transforms.Normalize([0.485, 0.456, 0.406],
-                             [0.229, 0.224, 0.225])
-    ])
-}
+# Data augmentation and normalization
+train_transforms = transforms.Compose([
+    transforms.Resize((224, 224)),
+    transforms.RandomHorizontalFlip(),
+    transforms.RandomRotation(15),
+    transforms.ColorJitter(brightness=0.2, contrast=0.2),
+    transforms.ToTensor(),
+    transforms.Normalize([0.485, 0.456, 0.406],
+                         [0.229, 0.224, 0.225])
+])
 
-# ------------------------------------------------------------
-# 3 Training Function
-# ------------------------------------------------------------
+val_transforms = transforms.Compose([
+    transforms.Resize((224, 224)),
+    transforms.ToTensor(),
+    transforms.Normalize([0.485, 0.456, 0.406],
+                         [0.229, 0.224, 0.225])
+])
+
+train_dataset = datasets.ImageFolder(train_dir, transform=train_transforms)
+val_dataset = datasets.ImageFolder(val_dir, transform=val_transforms)
+
+train_loader = DataLoader(train_dataset, batch_size=32,
+                          shuffle=True, num_workers=0)
+val_loader = DataLoader(val_dataset, batch_size=32,
+                        shuffle=False, num_workers=0)
+
+class_names = train_dataset.classes
+print(f" Classes: {class_names}")
+print(
+    f"Training samples: {len(train_dataset)}, Validation samples: {len(val_dataset)}")
+
+# ---------------------------
+#  Model Setup: Fine-Tuning ResNet50
+# ---------------------------
+model = models.resnet50(pretrained=True)
+
+# Freeze all layers first
+for param in model.parameters():
+    param.requires_grad = False
+
+# Unfreeze deeper layers (layer3, layer4)
+for name, param in model.named_parameters():
+    if "layer3" in name or "layer4" in name or "fc" in name:
+        param.requires_grad = True
+
+# Replace classifier
+num_features = model.fc.in_features
+model.fc = nn.Linear(num_features, len(class_names))
+
+model = model.to(device)
+
+# ---------------------------
+#  Loss, Optimizer, Scheduler
+# ---------------------------
+criterion = nn.CrossEntropyLoss()
+optimizer = torch.optim.Adam(
+    filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4)
+scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=3, gamma=0.1)
+
+# ---------------------------
+#  Training Function with Early Stopping
+# ---------------------------
 
 
-def train_model(model, dataloaders, dataset_sizes, criterion, optimizer, device, num_epochs=10):
-    start_time = time.time()
+def train_model(model, criterion, optimizer, scheduler, num_epochs=10, patience=3):
+    since = time.time()
     best_model_wts = copy.deepcopy(model.state_dict())
     best_acc = 0.0
+    patience_counter = 0
+
+    train_loss_history, val_loss_history = [], []
+    train_acc_history, val_acc_history = [], []
 
     for epoch in range(num_epochs):
         print(f"\nEpoch {epoch+1}/{num_epochs}")
         print("-" * 40)
 
+        # Each epoch has a training and validation phase
         for phase in ['train', 'val']:
             if phase == 'train':
                 model.train()
+                dataloader = train_loader
             else:
                 model.eval()
+                dataloader = val_loader
 
             running_loss = 0.0
             running_corrects = 0
 
-            loop = tqdm(dataloaders[phase], desc=f"{phase} phase", leave=False)
-
-            for inputs, labels in loop:
+            # Iterate over data
+            for inputs, labels in tqdm(dataloader, desc=f"{phase.capitalize()} Epoch {epoch+1}"):
                 inputs, labels = inputs.to(device), labels.to(device)
+
                 optimizer.zero_grad()
 
                 with torch.set_grad_enabled(phase == 'train'):
@@ -83,103 +135,78 @@ def train_model(model, dataloaders, dataset_sizes, criterion, optimizer, device,
                 running_loss += loss.item() * inputs.size(0)
                 running_corrects += torch.sum(preds == labels.data)
 
-                loop.set_postfix(loss=loss.item())
+            epoch_loss = running_loss / len(dataloader.dataset)
+            epoch_acc = running_corrects.float() / len(dataloader.dataset)
 
-            epoch_loss = running_loss / dataset_sizes[phase]
-            epoch_acc = running_corrects.float() / dataset_sizes[phase]
+            if phase == 'train':
+                scheduler.step()
+                train_loss_history.append(epoch_loss)
+                train_acc_history.append(epoch_acc.item())
+            else:
+                val_loss_history.append(epoch_loss)
+                val_acc_history.append(epoch_acc.item())
 
             print(
                 f"{phase.capitalize()} | Loss: {epoch_loss:.4f} | Accuracy: {epoch_acc:.4f}")
 
-            if phase == 'val' and epoch_acc > best_acc:
-                best_acc = epoch_acc
-                best_model_wts = copy.deepcopy(model.state_dict())
+            # deep copy the model if it improves
+            if phase == 'val':
+                if epoch_acc > best_acc:
+                    best_acc = epoch_acc
+                    best_model_wts = copy.deepcopy(model.state_dict())
+                    patience_counter = 0
+                else:
+                    patience_counter += 1
 
-    total_time = time.time() - start_time
+        # Early stopping
+        if patience_counter >= patience:
+            print(" Early stopping triggered.")
+            break
+
+    time_elapsed = time.time() - since
     print(
-        f"\n Training complete in {total_time//60:.0f}m {total_time%60:.0f}s")
+        f"\n Training complete in {time_elapsed // 60:.0f}m {time_elapsed % 60:.0f}s")
     print(f" Best Validation Accuracy: {best_acc:.4f}")
 
     model.load_state_dict(best_model_wts)
-    return model
+    torch.save(model.state_dict(), "resnet50_intel_finetuned.pth")
+    print(" Model saved as resnet50_intel_finetuned.pth")
+
+    return model, (train_loss_history, val_loss_history, train_acc_history, val_acc_history)
 
 
-# ------------------------------------------------------------
-# 4 Main Entry Point (Fix for macOS multiprocessing)
-# ------------------------------------------------------------
-if __name__ == "__main__":
-    print(" Starting Transfer Learning on Intel Dataset...")
+# ---------------------------
+# Train the Model
+# ---------------------------
+model, history = train_model(
+    model, criterion, optimizer, scheduler, num_epochs=10)
 
-    # Load dataset
-    image_datasets = {
-        'train': datasets.ImageFolder(train_dir, transform=data_transforms['train']),
-        'val': datasets.ImageFolder(val_dir, transform=data_transforms['val'])
-    }
+# ---------------------------
+# Visualization
+# ---------------------------
+train_loss, val_loss, train_acc, val_acc = history
 
-    dataloaders = {
-        # 👈 num_workers=0 fixes macOS issue
-        x: DataLoader(image_datasets[x], batch_size=32,
-                      shuffle=True, num_workers=0)
-        for x in ['train', 'val']
-    }
+epochs = range(1, len(train_loss) + 1)
 
-    dataset_sizes = {x: len(image_datasets[x]) for x in ['train', 'val']}
-    class_names = image_datasets['train'].classes
+plt.figure(figsize=(12, 5))
 
-    # Device configuration
-    device = torch.device("cuda:0" if torch.cuda.is_available(
-    ) else "mps" if torch.backends.mps.is_available() else "cpu")
+# Loss
+plt.subplot(1, 2, 1)
+plt.plot(epochs, train_loss, 'o-', label='Train Loss')
+plt.plot(epochs, val_loss, 'o-', label='Validation Loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.title('Training vs Validation Loss')
+plt.legend()
 
-    print(f" Classes: {class_names}")
-    print(
-        f" Training samples: {dataset_sizes['train']}, Validation samples: {dataset_sizes['val']}")
-    print(f" Using device: {device}")
+# Accuracy
+plt.subplot(1, 2, 2)
+plt.plot(epochs, train_acc, 'o-', label='Train Accuracy')
+plt.plot(epochs, val_acc, 'o-', label='Validation Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy')
+plt.title('Training vs Validation Accuracy')
+plt.legend()
 
-    # Load pretrained model
-    from torchvision.models import ResNet50_Weights
-    model = models.resnet50(weights=ResNet50_Weights.DEFAULT)
-
-    # Freeze layers
-    for param in model.parameters():
-        param.requires_grad = False
-
-    # Replace final layer
-    num_features = model.fc.in_features
-    model.fc = nn.Sequential(
-        nn.Linear(num_features, 256),
-        nn.ReLU(),
-        nn.Dropout(0.4),
-        nn.Linear(256, len(class_names))
-    )
-
-    model = model.to(device)
-
-    # Loss and optimizer
-    criterion = nn.CrossEntropyLoss()
-    optimizer = optim.Adam(model.fc.parameters(), lr=0.001)
-
-    # Train model
-    trained_model = train_model(
-        model, dataloaders, dataset_sizes, criterion, optimizer, device, num_epochs=10)
-
-    # Save model
-    torch.save(trained_model.state_dict(), "resnet50_intel_best.pth")
-    print("\n Model saved as resnet50_intel_best.pth")
-
-    # Optional test
-    def predict_image(model, image_path):
-        model.eval()
-        img = Image.open(image_path).convert("RGB")
-        transform = data_transforms['val']
-        img_t = transform(img).unsqueeze(0).to(device)
-
-        with torch.no_grad():
-            outputs = model(img_t)
-            _, preds = torch.max(outputs, 1)
-            pred_class = class_names[preds[0]]
-
-        print(
-            f" Image: {os.path.basename(image_path)} → 🔍 Predicted class: {pred_class}")
-
-    # Example:
-    # predict_image(trained_model, "Intel_transfer_learning/seg_test/mountain/12345.jpg")
+plt.tight_layout()
+plt.show()
