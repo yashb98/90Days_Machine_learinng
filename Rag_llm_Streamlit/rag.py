@@ -54,26 +54,29 @@ def load_pdf(file_path: str) -> List[Dict[str, Any]]:
 # -------------------------------
 #  VECTORSTORE SETUP
 # -------------------------------
-
 def create_vectorstore(chunks: List[Dict[str, Any]]):
     """Create or refresh a ChromaDB collection from chunks."""
     client = chromadb.Client()
     embedding_fn = embedding_functions.DefaultEmbeddingFunction()
-    collection = client.get_or_create_collection(
-        "pdf_chunks", embedding_function=embedding_fn)
 
-    # Clear existing if reloading
-    existing = collection.count()
-    if existing > 0:
-        collection.delete(where={})
+    # Drop existing collection if it exists
+    if "pdf_chunks" in [c.name for c in client.list_collections()]:
+        client.delete_collection("pdf_chunks")
 
-    # Add new
+    # Create a new collection
+    collection = client.create_collection(
+        name="pdf_chunks",
+        embedding_function=embedding_fn
+    )
+
+    # Add new chunks
     collection.add(
         ids=[str(c["chunk_id"]) for c in chunks],
         documents=[c["text"] for c in chunks],
         metadatas=[{"page": c["page"], "chunk_id": c["chunk_id"]}
                    for c in chunks]
     )
+
     print(f" Loaded {len(chunks)} chunks into Chroma vectorstore.")
     return collection
 
