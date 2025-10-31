@@ -2,9 +2,9 @@
 import os
 import re
 from typing import List, Dict, Any, Tuple
-
+from dotenv import load_dotenv
 import google.generativeai as genai
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 import chromadb
 from chromadb.utils import embedding_functions
 from PyPDF2 import PdfReader
@@ -15,6 +15,7 @@ from PyPDF2 import PdfReader
 # -------------------------------
 
 # Make sure to set GOOGLE_API_KEY in environment
+load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 CHROMA_DB_PATH = "rag_vectorstore"  # can be in-memory or disk-persisted
@@ -28,7 +29,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 def load_pdf(file_path: str) -> List[Dict[str, Any]]:
     """Extract text from PDF and split into chunks."""
-    file_path = "Rag_llm_Streamlit/_OceanofPDF.com_AI_Engineering_Building_Applications_-_Chip_Huyen.pdf"
+
     reader = PdfReader(file_path)
     all_chunks = []
     chunk_id = 1
@@ -73,7 +74,7 @@ def create_vectorstore(chunks: List[Dict[str, Any]]):
         metadatas=[{"page": c["page"], "chunk_id": c["chunk_id"]}
                    for c in chunks]
     )
-    print(f"✅ Loaded {len(chunks)} chunks into Chroma vectorstore.")
+    print(f" Loaded {len(chunks)} chunks into Chroma vectorstore.")
     return collection
 
 
@@ -112,7 +113,7 @@ def build_prompt(query: str, retrieved_chunks: List[Dict[str, Any]]) -> str:
     ])
     return f"""
 You are a helpful assistant. Use the provided context to answer the user's question.
-If not found, say "I don't know."
+If not found, then look for it again."
 
 Context:
 {context}
@@ -123,8 +124,9 @@ Answer:
 """
 
 
-def generate_answer(prompt: str, model_name: str = "gemini-2.0-flash") -> str:
+def generate_answer(prompt: str, model_name: str = "gemini-2.5-flash") -> str:
     model = genai.GenerativeModel(model_name)
+    print(model.generate_content("Hello from Gemini!").text)
     response = model.generate_content([{"text": prompt}])
     return getattr(response, "text", str(response))
 

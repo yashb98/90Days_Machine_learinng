@@ -9,7 +9,7 @@ def upload_and_index(pdf_file):
     global collection
     chunks = load_pdf(pdf_file.name)
     collection = create_vectorstore(chunks)
-    return f"✅ PDF loaded with {len(chunks)} chunks."
+    return f" PDF loaded with {len(chunks)} chunks."
 
 
 def ask_question(query, k):

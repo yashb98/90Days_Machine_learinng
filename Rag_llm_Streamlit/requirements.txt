@@ -5,3 +5,5 @@ chromadb>=0.4.22
 PyPDF2>=3.0.0
 pandas
 numpy
+python-dotenv
+langchain-text-splitters
