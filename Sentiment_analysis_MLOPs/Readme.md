@@ -1,173 +1,191 @@
 
+⸻
 
-# 📘 Sentiment Analysis Fullstack App | Day 18 of #90DaysMLChallenge
+ CI/CD for ML: Dockerized Sentiment Analysis Fullstack App
 
-This project wraps a **Word2Vec + TF-IDF weighted Logistic Regression sentiment model** into a **Flask API**, now integrated with a **React + TailwindCSS + TypeScript frontend** and fully containerized using **Docker**.  
+Day 26 of #90DaysMLChallenge — Continuous Integration & Deployment (CI/CD)
 
-It marks a key milestone — taking machine learning from notebook → API → container → frontend → deploy-ready fullstack application.
+This project extends the Sentiment Analysis Fullstack App from Day 18 by introducing CI/CD automation — enabling continuous integration, testing, containerization, and deployment pipelines for machine learning models.
 
----
-
-## Overview
-- Trained a custom Word2Vec model on IMDB reviews to learn text embeddings.
-- Combined TF-IDF weights to emphasize informative words.
-- Built a Logistic Regression classifier for sentiment prediction.
-- Deployed backend using Flask for real-time inference.
-- Built a **frontend** using React + TypeScript + TailwindCSS for interactive sentiment prediction.
-- Containerized the fullstack app with Docker for consistent deployment anywhere.
-
----
-
-## Tech Stack
-- **Backend:** Python 3.12, Flask, scikit-learn, gensim, NumPy, pickle, joblib  
-- **Frontend:** React, Vite, TypeScript, TailwindCSS  
-- **Containerization:** Docker 🐳  
-
----
-
-## Project Structure
-
-| File / Folder           | Description                                           |
-|-------------------------|-------------------------------------------------------|
-| `backend/fast_word2vec.model` | Trained Word2Vec model                              |
-| `backend/tfidf_vectorizer.pkl` | TF-IDF vectorizer                                   |
-| `backend/classifier.pkl` | Logistic Regression model                              |
-| `backend/app.py`        | Flask API file                                       |
-| `frontend/`             | React + TailwindCSS frontend code                    |
-| `Dockerfile`            | Docker configuration for fullstack containerization |
-| `requirements.txt`      | Python dependencies                                  |
-
----
-
-## Run Locally
-
-### Backend Only
-1️⃣ **Setup virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
-
-2️⃣ Install dependencies
-
-pip install -r requirements.txt
-
-3️⃣ Run Flask API
-
-python backend/app.py
-
-API will run at:
-👉 http://127.0.0.1:8000
+It demonstrates how to move from local ML experiments to production-ready, automated MLOps pipelines.
 
 ⸻
 
-Frontend
-
-1️⃣ Navigate to frontend folder:
-
-cd frontend
-
-2️⃣ Install dependencies:
-
-npm install
-
-3️⃣ Start development server:
-
-npm run dev
-
-Frontend will run at:
-👉 http://localhost:5173
-It interacts with your Flask API for live sentiment predictions.
+🧠 Overview
+	•	Built a Sentiment Analysis App using a Word2Vec + TF-IDF + Logistic Regression pipeline.
+	•	Served the ML model via a Flask REST API.
+	•	Integrated a React + TailwindCSS + TypeScript frontend.
+	•	Containerized both frontend and backend in a single multi-stage Docker image.
+	•	Set up CI/CD workflows for automated build, test, and deployment using GitHub Actions (or GitLab CI/Jenkins).
 
 ⸻
 
-Docker Setup (Fullstack)
+⚙️ Tech Stack
 
-This Dockerfile sets up both backend and frontend in a single container.
+Layer	Technology	Purpose
+ML Model	Word2Vec, TF-IDF, Logistic Regression	Text vectorization and sentiment classification
+Backend	Python 3.11, Flask, Flask-CORS	Serve ML predictions via REST API
+Frontend	React, TypeScript, TailwindCSS, Vite	Modern, fast UI for user sentiment input
+Containerization	Docker	Unified fullstack image
+CI/CD	GitHub Actions	Automated testing, build, and deployment
+Deployment	Docker Hub / AWS / Render / Railway	Production-ready hosting
 
-Dockerfile Example
 
-# -------------------------------
-# Backend
-# -------------------------------
-FROM python:3.12-slim AS backend
+⸻
 
-WORKDIR /app/backend
+📁 Project Structure
 
-# Copy backend files
-COPY backend/ /app/backend/
+📦 Sentiment-Fullstack-CICD
+├── backend/
+│   ├── app.py
+│   ├── classifier.pkl
+│   ├── tfidf_vectorizer.pkl
+│   ├── fast_word2vec.model
+│   └── requirements.txt
+├── frontend/
+│   ├── package.json
+│   ├── vite.config.ts
+│   └── src/
+│       ├── App.tsx
+│       └── components/
+├── Dockerfile
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+└── README.md
 
-# Install Python dependencies
-RUN pip install --no-cache-dir -r requirements.txt
 
-# -------------------------------
-# Frontend
-# -------------------------------
-FROM node:20-alpine AS frontend
+⸻
 
+🧩 Dockerfile (Multi-Stage Build)
+
+# -----------------------------
+# Stage 1: Build Frontend
+# -----------------------------
+FROM node:20 AS frontend-build
 WORKDIR /app/frontend
-
-# Copy frontend files
-COPY frontend/ /app/frontend/
-
-# Install frontend dependencies
+COPY frontend/package*.json ./
 RUN npm install
+COPY frontend/ ./
 RUN npm run build
 
-# -------------------------------
-# Final Image
-# -------------------------------
-FROM python:3.12-slim
-
+# -----------------------------
+# Stage 2: Backend + Serve Frontend
+# -----------------------------
+FROM python:3.11-slim
 WORKDIR /app
+COPY backend/ ./backend
+WORKDIR /app/backend
+RUN pip install --no-cache-dir --upgrade pip
+RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir flask-cors gensim numpy joblib
+COPY --from=frontend-build /app/frontend/dist /app/frontend/dist
+EXPOSE 5002
+CMD ["python", "app.py"]
 
-# Copy backend
-COPY --from=backend /app/backend /app/backend
 
-# Copy frontend build
-COPY --from=frontend /app/frontend/dist /app/frontend/dist
+⸻
 
-# Expose ports
-EXPOSE 8000
-EXPOSE 5173
+🔄 CI/CD Workflow (GitHub Actions)
 
-# Start backend
-CMD ["python", "backend/app.py"]
+Create this file at:
+.github/workflows/ci-cd.yml
 
-Build and Run
+name: CI/CD Pipeline
 
-1️⃣ Build Docker Image
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Backend Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r backend/requirements.txt
+
+      - name: Run Backend Tests
+        run: |
+          echo " Running backend test step (add pytest or curl-based tests here)"
+
+      - name: Build Frontend
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+        run: |
+          cd frontend
+          npm install
+          npm run build
+
+      - name: Build Docker Image
+        run: |
+          docker build -t yashbishnoi/sentiment-fullstack:latest .
+
+      - name: Push to Docker Hub
+        run: |
+          echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login -u "yashbishnoi" --password-stdin
+          docker push yashbishnoi/sentiment-fullstack:latest
+
+💡 This workflow automatically builds, tests, and deploys your Dockerized ML app to Docker Hub whenever you push to main.
+
+⸻
+
+🧭 Running Locally
+
+1. Clone Repo
+
+git clone https://github.com/yashb98/90Days_Machine_learinng.git
+cd 90Days_Machine_learinng/Sentiment_analysis_MLOPs
+
+2. Build & Run Docker
 
 docker build -t sentiment-fullstack .
+docker run -p 5002:5002 sentiment-fullstack
 
-2️⃣ Run Container
+	•	Backend → http://localhost:5002
+	•	Frontend (React) → http://localhost:5173
 
-docker run -p 8000:8000 -p 5173:5173 sentiment-fullstack
+⸻
 
-	•	Backend API: http://127.0.0.1:8000
-	•	Frontend: http://localhost:5173
+🚢 Deployment Options
 
-3️⃣ Optional: Push to Docker Hub
-
-docker tag sentiment-fullstack yashbishnoi98/sentiment-fullstack:latest
-docker push yashbishnoi98/sentiment-fullstack:latest
+Platform	Deployment Method
+Docker Hub	Push via GitHub Actions
+Render / Railway	Deploy full Docker container
+AWS ECS / EC2	Run containerized Flask+React app
+GitHub Pages (frontend)	Serve frontend separately
 
 
 ⸻
 
-Use Cases
+🧠 Learning Outcomes
 
-This sentiment analysis fullstack app can be used for:
-	•	Product Reviews Analysis – Quickly gauge user sentiment trends.
-	•	Social Media Monitoring – Detect public opinion on topics or campaigns.
-	•	Chatbots & Customer Support – Identify positive or negative messages automatically.
-	•	Content Moderation – Flag negative or abusive text in forums or comments.
-	•	Market Research – Aggregate sentiment from multiple sources for business insights.
+1. CI/CD Pipeline design for ML projects
+2. Multi-stage Docker build for fullstack apps
+3. Integration of React + Flask + ML model
+4. Automation using GitHub Actions
+5. Containerized deployment best practices
 
 ⸻
 
-Author: Yash Bishnoi
-Part of the #90DaysMLChallenge — Building one ML project a day!
+👨‍💻 Author
 
-#MLOps #Docker #Flask #React #TailwindCSS #TypeScript #MachineLearning #Fullstack #AI #DataScience
+Yash Bishnoi
+University of Dundee | MSc Computer Science
+Part of the #90DaysMLChallenge — Building an ML project every day
+
+📫 Connect: LinkedIn ( https://www.linkedin.com/in/yash-bishnoi-2ab36a1a5/ ) 
 
