@@ -1,4 +1,6 @@
-#!/Users/yashbishnoi/Desktop/Sentiment_analysis_MLOPs/venv/bin/python
+#!/bin/sh
+'''exec' "/Users/yashbishnoi/Downloads/Dundee university/90Days_Machine_learinng/Sentiment_analysis_MLOPs/venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

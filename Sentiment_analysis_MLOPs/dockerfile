@@ -38,7 +38,7 @@ RUN pip install --no-cache-dir flask-cors gensim numpy joblib
 COPY --from=frontend-build /app/frontend/dist /app/frontend/dist
 
 # Expose port
-EXPOSE 8000
+EXPOSE 5002
 
 # Start Flask
 CMD ["python", "app.py"]

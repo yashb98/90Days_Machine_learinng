@@ -10,7 +10,7 @@ const SentimentForm: React.FC = () => {
     e.preventDefault();
     setLoading(true);
     try {
-      const res = await axios.post("http://127.0.0.1:8000/predict", { text });
+      const res = await axios.post("http://127.0.0.1:5002/predict", { text });
       setResult(res.data.predicted_sentiment);
     } catch (err) {
       console.error(err);
@@ -28,7 +28,7 @@ const SentimentForm: React.FC = () => {
           Sentiment Analyser
         </h1>
         <p className="text-gray-600 text-lg mb-8 text-center">
-          Analyse emotions in text using Machine Learning — right from your browser!
+          Analyse emotions in IMDB reviews using Machine Learning — right from your browser!
         </p>
 
         {/* Form */}
