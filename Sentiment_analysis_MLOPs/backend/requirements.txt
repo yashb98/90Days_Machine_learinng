@@ -8,3 +8,4 @@ gensim>=4.0.0    # only if using Word2Vec artifacts
 nltk>=3.7
 prometheus-client>=0.14.1 
 flask-cors
+pytest
