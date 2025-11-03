@@ -1,7 +1,10 @@
-# tests/test_app.py
 
-import pytest
 from backend.app import app
+import sys
+import os
+import pytest
+sys.path.insert(0, os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..")))
 
 
 @pytest.fixture
@@ -27,5 +30,6 @@ def test_predict_endpoint(client):
     assert response.status_code == 200
 
     data = response.get_json()
-    assert "prediction" in data
-    assert data["prediction"] in ["positive", "negative", "neutral"]
+    assert "predicted_sentiment" in data  # ✅ match actual key
+    assert data["predicted_sentiment"] in ["positive", "negative"]
+    assert data["text"] == payload["text"]

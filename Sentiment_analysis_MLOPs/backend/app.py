@@ -6,15 +6,45 @@ import numpy as np
 from flask import Flask, request, jsonify, send_from_directory
 from gensim.models import Word2Vec
 import os
+import sys
+
 
 # -----------------------------
-# Load Saved Models
+# Load Saved Models (Fixed Path)
 # -----------------------------
-w2v_model = Word2Vec.load("fast_word2vec.model")
-classifier = joblib.load("classifier.pkl")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open("tfidf_vector.pkl", "rb") as f:
-    tfidf_vectorizer = pickle.load(f)
+
+def identity_tokenizer(text):
+    """Tokenizer use during TF-IDF training"""
+    return text
+
+
+sys.modules['__main__'].identity_tokenizer = identity_tokenizer
+sys.modules['backend.app'] = sys.modules[__name__]
+
+
+def load_model_safely(path):
+    """Try both pickle and joblib for compatibility"""
+
+    try:
+        with open(path, "rb") as f:
+            return pickle.load(f)
+    except Exception:
+        try:
+            return joblib.load(path)
+        except Exception as e:
+            raise RuntimeError(f"Failed to load model {path}: {e}")
+
+
+try:
+    w2v_model = Word2Vec.load(os.path.join(BASE_DIR, "fast_word2vec.model"))
+    classifier = joblib.load(os.path.join(BASE_DIR, "classifier.pkl"))
+    tfidf_vectorizer = load_model_safely(
+        os.path.join(BASE_DIR, "tfidf_vectorizer.pkl"))
+except Exception as e:
+    raise RuntimeError(f"Error loading models: {e}")
+
 
 # -----------------------------
 # Utility Functions
