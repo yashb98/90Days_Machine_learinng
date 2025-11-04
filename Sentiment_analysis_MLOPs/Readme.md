@@ -179,7 +179,180 @@ GitHub Pages (frontend)	Serve frontend separately
 4. Automation using GitHub Actions
 5. Containerized deployment best practices
 
-⸻
+
+
+
+
+
+````markdown
+# Project 11: End-to-End Sentiment Analysis API
+
+This project is a complete MLOps demonstration, deploying a sentiment analysis model as a unified, full-stack application.
+
+It features a Python/Flask backend that serves both a pre-trained Scikit-learn model and a production-built React frontend. The entire application is containerized with Docker and deployed as a single, scalable service on AWS Elastic Beanstalk.
+
+### 🚀 Live Application
+
+* **Live URL:** `http://imdbsentiment-env.eba-pnikujcp.eu-west-2.elasticbeanstalk.com/`
+
+The single URL serves both the interactive React UI and the backend API.
+
+---
+
+## 🏗️ Project Architecture
+
+A single Docker container runs a Flask server (likely via Gunicorn) on AWS Elastic Beanstalk.
+
+1.  **Frontend:** The Flask server is configured to serve the static files (HTML, CSS, JS) from the React `build` folder.
+2.  **Backend:** The same Flask server exposes the `/predict` API endpoint.
+3.  **Data Flow:**
+    * A user visits the root URL, which loads the React app.
+    * The React app makes a request to the **relative path** (`/predict`).
+    * Because the request is to the same origin, it's routed to the Flask API, which loads the model, makes a prediction, and returns the JSON result.
+
+
+
+## 🛠️ Tech Stack
+
+| Area | Technology |
+| :--- | :--- |
+| **Machine Learning** | Scikit-learn, Pandas, NLTK |
+| **Backend & Serving** | Python, Flask, Gunicorn |
+| **Frontend** | React, TypeScript, Axios, TailwindCSS |
+| **Deployment** | Docker, AWS Elastic Beanstalk |
+
+---
+
+## 🚀 Using the Live API
+
+You can test the live endpoint directly using `curl` or any API client (like Postman).
+
+### Test: Positive Sentiment
+
+**Request:**
+```bash
+curl -X POST "http://imdbsentiment-env.eba-pnikujcp.eu-west-2.elasticbeanstalk.com/predict)" \
+     -H "Content-Type: application/json" \
+     -d '{"text": "This movie was absolutely fantastic and I loved it!"}'
+````
+
+**Response:**
+
+```json
+{
+  "predicted_sentiment": "positive"
+}
+```
+
+### Test: Negative Sentiment
+
+**Request:**
+
+```bash
+curl -X POST "http://imdbsentiment-env.eba-pnikujcp.eu-west-2.elasticbeanstalk.com/predict)" \
+     -H "Content-Type: application/json" \
+     -d '{"text": "A complete waste of time. The acting was terrible."}'
+```
+
+**Response:**
+
+```json
+{
+  "predicted_sentiment": "negative"
+}
+```
+
+-----
+
+## 🖥️ How to Run Locally
+
+In production, one server does everything. For local development, it's easier to run two separate servers and use Vite's built-in proxy to connect them.
+
+### 1\. Backend (Flask API)
+
+1.  **Navigate to the backend directory:**
+    ```bash
+    cd /path/to/your/backend_folder
+    ```
+2.  **Create and activate a virtual environment:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+3.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4.  **Run the Flask app:**
+    ```bash
+    python app.py
+    ```
+    The API will be running at `http://127.0.0.1:5002`.
+
+### 2\. Frontend (React App)
+
+1.  **Navigate to the frontend directory:**
+    ```bash
+    cd /path/to/your/frontend_folder
+    ```
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Configure the Vite Proxy:**
+      * Create a `vite.config.ts` file in the root of the frontend folder.
+      * Add the following configuration to proxy `/predict` requests to your local Flask server:
+        ```typescript
+        // vite.config.ts
+        import { defineConfig } from 'vite'
+        import react from '@vitejs/plugin-react'
+
+        export default defineConfig({
+          plugins: [react()],
+          server: {
+            proxy: {
+              '/predict': {
+                target: '[http://127.0.0.1:5002](http://127.0.0.1:5002)', // Your local Flask server
+                changeOrigin: true,
+              },
+            },
+          },
+        })
+        ```
+4.  **Verify your React Code:**
+      * In `SentimentForm.tsx`, make sure your `axios` call uses the **relative path**:
+        ```typescript
+        // This will now work for both dev and production!
+        const res = await axios.post("/predict", { text });
+        ```
+5.  **Run the React app:**
+    ```bash
+    npm run dev
+    ```
+    The frontend will be running at `http://localhost:5173`. You can now use the app, and any "Predict" clicks will be correctly proxied to your Flask API.
+
+-----
+
+## ☁️ Deployment: AWS Elastic Beanstalk
+
+This project is deployed to AWS Elastic Beanstalk using its "Docker" platform. The `Dockerfile` is responsible for building the React app, installing the Python dependencies, and starting the Flask server.
+
+### Key `Dockerfile` Concepts
+
+A production `Dockerfile` for this architecture would perform these steps:
+
+1.  **Build Stage:** Use a `node` base image to `npm install` and `npm run build` the React app.
+2.  **Final Stage:** Use a `python` base image.
+3.  Install Python dependencies from `requirements.txt`.
+4.  **Copy** the built React app (from the `build` folder) into the Flask server's `static` folder.
+5.  **Copy** the Flask app code (`app.py`), model, and vectorizer.
+6.  Set the `CMD` to run the production server (e.g., `gunicorn -w 4 'app:app'`).
+
+*(Your Flask `app.py` must also be configured to serve the `index.html` from the static folder for any routes it doesn't recognize.)*
+
+-----
+
+
 
 👨‍💻 Author
 
