@@ -1,5 +1,5 @@
 
-from backend.app import app
+from app import app
 import sys
 import os
 import pytest
@@ -30,6 +30,6 @@ def test_predict_endpoint(client):
     assert response.status_code == 200
 
     data = response.get_json()
-    assert "predicted_sentiment" in data  # ✅ match actual key
+    assert "predicted_sentiment" in data
     assert data["predicted_sentiment"] in ["positive", "negative"]
     assert data["text"] == payload["text"]

@@ -41,8 +41,8 @@ const SentimentForm: React.FC = () => {
             onChange={(e) => setText(e.target.value)}
             placeholder="Type your thoughts here..."
             rows={5}
-            className="w-full border border-gray-300 p-4 text-lg rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
-          />
+            className="w-full border border-gray-300 p-4 text-lg rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none bg-white !text-gray-900 placeholder-gray-500"
+/>
 
           <button
             type="submit"

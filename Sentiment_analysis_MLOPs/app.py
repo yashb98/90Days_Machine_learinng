@@ -13,6 +13,7 @@ import sys
 # Load Saved Models (Fixed Path)
 # -----------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = os.path.join(BASE_DIR, "backend")
 
 
 def identity_tokenizer(text):
@@ -38,10 +39,12 @@ def load_model_safely(path):
 
 
 try:
-    w2v_model = Word2Vec.load(os.path.join(BASE_DIR, "fast_word2vec.model"))
-    classifier = joblib.load(os.path.join(BASE_DIR, "classifier.pkl"))
+    w2v_model = Word2Vec.load(os.path.join(
+        MODEL_DIR, "fast_word2vec.model"))
+    classifier = joblib.load(os.path.join(
+        MODEL_DIR,  "classifier.pkl"))
     tfidf_vectorizer = load_model_safely(
-        os.path.join(BASE_DIR, "tfidf_vectorizer.pkl"))
+        os.path.join(MODEL_DIR,  "tfidf_vectorizer.pkl"))
 except Exception as e:
     raise RuntimeError(f"Error loading models: {e}")
 
@@ -69,7 +72,8 @@ def vectorize_text(tokens):
 # -----------------------------
 # Flask App
 # -----------------------------
-app = Flask(__name__, static_folder="../frontend/dist", static_url_path="")
+app = Flask(__name__, static_folder=os.path.join(
+    BASE_DIR, "frontend", "dist"), static_url_path="")
 CORS(app)
 
 
