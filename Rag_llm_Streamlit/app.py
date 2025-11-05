@@ -25,7 +25,7 @@ def ask_question(query, k):
 demo = gr.Blocks()
 
 with demo:
-    gr.Markdown("# 📘 Gemini RAG System — PDF Q&A")
+    gr.Markdown("#  Gemini RAG System — PDF Q&A")
 
     with gr.Row():
         pdf_file = gr.File(label="Upload your PDF")
