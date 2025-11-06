@@ -20,6 +20,7 @@ resource "aws_elastic_beanstalk_environment" "sentiment_env" {
   name                = "sentiment-prod-env" # The public URL will be based on this
   application         = aws_elastic_beanstalk_application.sentiment_app.name
   solution_stack_name = data.aws_elastic_beanstalk_solution_stack.docker_stack.name
+   
 
   # Configuration for the environment
   setting {
@@ -34,6 +35,16 @@ resource "aws_elastic_beanstalk_environment" "sentiment_env" {
     value     = "SingleInstance" # "LoadBalanced" is the default, but this is cheaper for a demo
   }
 
+  setting {
+    namespace = "aws:autoscaling:launchconfiguration"
+    name      = "IamInstanceProfile"
+    value     = "aws-elasticbeanstalk-ec2-role"
+}
+setting {
+    namespace = "aws:autoscaling:launchconfiguration"
+    name      = "RootVolumeSize"
+    value     = "30" # 30 GB should be plenty for your ML packages
+  }
   tags = {
     Project = "Sentiment Analysis"
   }
