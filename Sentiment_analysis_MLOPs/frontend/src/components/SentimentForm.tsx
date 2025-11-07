@@ -10,7 +10,7 @@ const SentimentForm: React.FC = () => {
     e.preventDefault();
     setLoading(true);
     try {
-      const res = await axios.post("http://127.0.0.1:5002/predict", { text });
+      const res = await axios.post("/predict", { text });
       setResult(res.data.predicted_sentiment);
     } catch (err) {
       console.error(err);

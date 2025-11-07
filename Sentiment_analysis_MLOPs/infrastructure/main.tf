@@ -45,6 +45,17 @@ setting {
     name      = "RootVolumeSize"
     value     = "30" # 30 GB should be plenty for your ML packages
   }
+  setting {
+    namespace = "aws:elasticbeanstalk:cloudwatch:logs"
+    name      = "StreamLogs"
+    value     = "true"
+  }
+  
+  setting {
+    namespace = "aws:elasticbeanstalk:cloudwatch:logs"
+    name      = "DeleteOnTerminate"
+    value     = "true" # Set to false if you want to keep logs after deleting the env
+  }
   tags = {
     Project = "Sentiment Analysis"
   }
