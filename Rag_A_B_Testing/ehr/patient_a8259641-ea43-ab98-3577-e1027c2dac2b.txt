@@ -1,0 +1,108 @@
+== PATIENT RECORD: Ina660 Oberbrunner298 (ID: a8259641-ea43-ab98-3577-e1027c2dac2b) ==
+
+== Demographics ==
+Patient ID: a8259641-ea43-ab98-3577-e1027c2dac2b
+Name: Ina660 Oberbrunner298
+Gender: F
+Birthdate: 2001-07-01
+Address: 793 Fahey Byway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Fracture of ankle
+- Chronic low back pain (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Errin 28 Day Pack
+- Trinessa 28 Day Pack
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2013-07-21T13:05:41Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-27T13:05:41Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-27T13:05:41Z)
+- Depression screening (procedure) (Date: 2014-07-27T13:25:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-27T13:40:01Z)
+- Depression screening (procedure) (Date: 2015-08-02T13:05:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-02T13:20:32Z)
+- Assessment of substance use (procedure) (Date: 2015-08-02T13:49:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-08-02T14:02:57Z)
+- Health risks education (procedure) (Date: 2015-08-02T14:25:15Z)
+- Ankle X-ray (Date: 2016-02-21T13:41:23Z)
+- Bone immobilization (Date: 2016-02-21T13:41:23Z)
+- Assessment of substance use (procedure) (Date: 2016-08-07T13:05:41Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-07T13:05:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-08-07T13:19:38Z)
+- Anticipatory guidance (procedure) (Date: 2016-08-07T13:34:06Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-13T13:05:41Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-13T13:05:41Z)
+- Depression screening (procedure) (Date: 2017-08-13T13:27:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-13T13:39:42Z)
+- Assessment of substance use (procedure) (Date: 2017-08-13T14:00:25Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-08-13T14:13:25Z)
+- Anticipatory guidance (procedure) (Date: 2017-08-13T14:30:20Z)
+- Depression screening (procedure) (Date: 2018-08-19T13:05:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-19T13:16:35Z)
+- Assessment of substance use (procedure) (Date: 2018-08-19T13:38:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-19T13:52:38Z)
+- Health risks education (procedure) (Date: 2018-08-19T14:20:00Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-09T13:05:41Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-12T13:54:47Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-15T14:43:34Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-18T15:37:50Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-21T16:34:11Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-24T17:33:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-25T13:05:41Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-27T18:31:14Z)
+- Movement therapy (regime/therapy) (Date: 2019-08-30T19:30:00Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-25T13:57:13Z)
+- Depression screening (procedure) (Date: 2019-08-25T14:13:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-25T14:26:01Z)
+- Movement therapy (regime/therapy) (Date: 2019-09-02T20:18:26Z)
+- Movement therapy (regime/therapy) (Date: 2019-09-05T21:09:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-30T13:05:41Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-30T14:00:17Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-30T14:25:22Z)
+- Depression screening (procedure) (Date: 2020-08-30T14:53:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-30T15:05:13Z)
+- Assessment of substance use (procedure) (Date: 2020-08-30T15:32:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-30T15:42:27Z)
+- Intramuscular injection (Date: 2021-05-30T13:05:41Z)
+- Intramuscular injection (Date: 2021-09-05T13:05:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-05T13:05:41Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-05T14:04:04Z)
+- Screening for domestic abuse (procedure) (Date: 2021-09-05T14:21:16Z)
+- Assessment of substance use (procedure) (Date: 2021-09-05T15:00:15Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-05T15:11:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-05T13:05:41Z: Patient encounter procedure
+- 2021-09-05T13:05:41Z: General examination of patient (procedure)
+- 2021-05-30T13:05:41Z: Consultation for treatment
+- 2021-05-16T13:05:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-25T13:05:41Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-05T15:32:07Z Total score [DAST-10]: 1.0 {score}
+- 2021-09-05T15:00:15Z Total score [HARK]: 0.0 {score}
+- 2021-09-05T14:21:16Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-09-05T14:04:04Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-09-05T14:04:04Z What is your current work situation?: Full-time work nan
+- 2021-09-05T14:04:04Z What is your main insurance?: Private insurance nan
+- 2021-09-05T14:04:04Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 92373 /a
+- 2021-09-05T14:04:04Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-09-05T14:04:04Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-09-05T14:04:04Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan

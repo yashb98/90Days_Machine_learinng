@@ -1,0 +1,107 @@
+== PATIENT RECORD: Son314 Lehner980 (ID: f1b34fb1-f5e8-f45d-109d-99258979e7c6) ==
+
+== Demographics ==
+Patient ID: f1b34fb1-f5e8-f45d-109d-99258979e7c6
+Name: Son314 Lehner980
+Gender: M
+Birthdate: 1973-09-22
+Address: 976 Steuber Landing Apt 27
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Chronic intractable migraine without aura
+- Chronic pain
+- Impacted molars
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Transport problems (finding)
+- Drug overdose
+- Social isolation (finding)
+- Streptococcal sore throat (disorder)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Homeless (finding)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-01-16T19:23:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-28T05:23:31Z)
+- Depression screening (procedure) (Date: 2012-01-28T05:58:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-28T06:09:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-03-10T05:23:31Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-10T05:23:31Z)
+- Screening for domestic abuse (procedure) (Date: 2012-03-10T06:17:06Z)
+- Depression screening (procedure) (Date: 2012-03-10T06:49:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-10T07:02:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-16T05:23:31Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-16T05:23:31Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-16T06:10:33Z)
+- Depression screening (procedure) (Date: 2013-03-16T06:27:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-16T06:42:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-22T05:23:31Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-22T05:23:31Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-22T05:56:59Z)
+- Depression screening (procedure) (Date: 2014-03-22T06:18:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-22T06:32:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-28T05:23:31Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-28T06:12:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-02T05:23:31Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-02T06:16:58Z)
+- Depression screening (procedure) (Date: 2016-04-02T06:39:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-02T06:53:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-08T05:23:31Z)
+- Depression screening (procedure) (Date: 2017-04-08T06:02:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-08T06:13:03Z)
+- Information gathering (procedure) (Date: 2018-04-09T05:23:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-14T05:23:31Z)
+- Depression screening (procedure) (Date: 2018-04-14T06:04:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-14T06:18:11Z)
+- Information gathering (procedure) (Date: 2018-08-07T05:23:31Z)
+- Information gathering (procedure) (Date: 2018-09-06T05:23:31Z)
+- Information gathering (procedure) (Date: 2018-11-05T05:23:31Z)
+- Information gathering (procedure) (Date: 2019-02-03T05:23:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-20T05:23:31Z)
+- Depression screening (procedure) (Date: 2019-04-20T06:14:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-20T06:26:09Z)
+- Information gathering (procedure) (Date: 2019-05-04T05:23:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-25T05:23:31Z)
+- Screening for domestic abuse (procedure) (Date: 2020-04-25T06:10:00Z)
+- Depression screening (procedure) (Date: 2020-04-25T06:50:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-25T07:04:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-01T05:23:31Z)
+- Depression screening (procedure) (Date: 2021-05-01T06:16:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-01T06:30:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-01T06:50:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-17T05:23:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-19T05:23:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-01T05:23:31Z: General examination of patient (procedure)
+- 2020-09-11T05:23:31Z: Encounter for problem (procedure)
+- 2020-08-12T05:23:31Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-22T05:23:31Z QOLS: 0.0 {score}
+- 2021-09-22T05:23:31Z QALY: 16.1 a
+- 2021-09-22T05:23:31Z DALY: 30.9 a
+- 2021-05-01T07:14:19Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 18.0 {score}
+- 2021-05-01T06:50:48Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2021-05-01T06:16:24Z What is your housing situation today?: I have housing nan
+- 2021-05-01T06:16:24Z Are you worried about losing your housing?: No nan
+- 2021-05-01T06:16:24Z What address do you live at?: 976 Steuber Landing Apt 27 nan
+- 2021-05-01T06:16:24Z What is your current work situation?: Full-time work nan
+- 2021-05-01T06:16:24Z What is your main insurance?: Private insurance nan

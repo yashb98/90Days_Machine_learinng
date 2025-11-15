@@ -1,0 +1,145 @@
+== PATIENT RECORD: Kieth891 Hermann103 (ID: 6fc7b50b-61ff-9237-bcac-7b7b1d8606ab) ==
+
+== Demographics ==
+Patient ID: 6fc7b50b-61ff-9237-bcac-7b7b1d8606ab
+Name: Kieth891 Hermann103
+Gender: M
+Birthdate: 1968-10-10
+Address: 761 Mitchell Branch Suite 90
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Sepsis (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Chronic neck pain (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Acute Cholecystitis
+- Cholelithiasis
+- Cough (finding)
+- Sputum finding (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute respiratory failure (disorder)
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- 1 ML heparin sodium  porcine 5000 UNT/ML Injection
+- Sodium Chloride 9 MG/ML Injectable Solution
+- 2 ML Ondansetron 2 MG/ML Injection
+- 1 ML Morphine Sulfate 5 MG/ML Injection
+- Piperacillin 4000 MG / tazobactam 500 MG Injection
+- Midazolam 1 MG/ML Injectable Solution
+- 100 ML Propofol 10 MG/ML Injection
+- Rocuronium bromide 10 MG/ML Injectable Solution
+- Isoflurane 999 MG/ML Inhalant Solution
+- 10 ML Fentanyl 0.05 MG/ML Injection
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+- baricitinib 2 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-25T22:56:35Z)
+- Depression screening (procedure) (Date: 2012-10-25T23:28:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-25T23:41:50Z)
+- Assessment of substance use (procedure) (Date: 2012-10-26T00:06:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-26T00:19:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-13T22:56:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-13T22:56:35Z)
+- Assessment of substance use (procedure) (Date: 2014-02-13T23:43:19Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-13T23:55:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-19T22:56:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-25T22:56:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-25T23:42:57Z)
+- Depression screening (procedure) (Date: 2016-02-26T00:07:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-26T00:18:47Z)
+- Assessment of substance use (procedure) (Date: 2016-02-26T00:38:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-26T00:51:13Z)
+- Electrocardiographic procedure (Date: 2016-05-07T12:56:35Z)
+- Ultrasonography of abdomen  right upper quadrant and epigastrium (Date: 2016-05-07T13:02:08Z)
+- Intubation (Date: 2016-05-07T14:06:08Z)
+- Laparoscopic Removal of Gall Bladder (Date: 2016-05-07T14:13:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-02T22:56:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-02T22:56:35Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-02T23:43:24Z)
+- Depression screening (procedure) (Date: 2017-03-03T00:11:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-03T00:23:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-08T22:56:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-08T22:56:35Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-08T23:36:49Z)
+- Depression screening (procedure) (Date: 2018-03-09T00:04:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-09T00:16:52Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-09T00:46:05Z)
+- Assessment of substance use (procedure) (Date: 2018-03-09T01:10:31Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-09T01:24:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-14T22:56:35Z)
+- Assessment of substance use (procedure) (Date: 2019-03-14T23:40:25Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-14T23:52:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-19T22:56:35Z)
+- Assessment of substance use (procedure) (Date: 2020-03-19T23:45:45Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-19T23:55:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-25T22:56:35Z)
+- Face mask (physical object) (Date: 2021-04-07T22:56:35Z)
+- Plain chest X-ray (procedure) (Date: 2021-04-08T00:20:44Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-08T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-08T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-09T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-09T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-10T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-10T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-11T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-11T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-12T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-12T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-13T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-13T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-14T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-14T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-15T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-15T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-16T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-16T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-17T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-17T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-18T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-18T00:45:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-19T00:45:12Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-19T00:45:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-20T22:56:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-08T00:20:44Z: Hospital admission for isolation (procedure)
+- 2021-04-07T22:56:35Z: Encounter for symptom (procedure)
+- 2021-03-25T22:56:35Z: General examination of patient (procedure)
+- 2020-03-19T22:56:35Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T22:56:35Z QOLS: 1.0 {score}
+- 2021-10-10T22:56:35Z DALY: 0.2 a
+- 2021-10-10T22:56:35Z QALY: 51.8 a
+- 2021-04-19T19:58:12Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Not detected (qualifier value) nan
+- 2021-04-19T19:58:12Z Body temperature: 36.4 Cel
+- 2021-04-19T00:45:12Z MCV [Entitic volume] by Automated count: 83.3 fL
+- 2021-04-19T00:45:12Z Lymphocytes [#/volume] in Blood by Automated count: 1.1 10*3/uL
+- 2021-04-19T00:45:12Z Neutrophils [#/volume] in Blood by Automated count: 2.1 10*3/uL
+- 2021-04-19T00:45:12Z Basophils/100 leukocytes in Blood by Automated count: 3.9 %
+- 2021-04-19T00:45:12Z Eosinophils/100 leukocytes in Blood by Automated count: 3.2 %

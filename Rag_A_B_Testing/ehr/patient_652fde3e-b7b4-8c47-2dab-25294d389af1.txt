@@ -1,0 +1,143 @@
+== PATIENT RECORD: Alysha630 Corwin846 (ID: 652fde3e-b7b4-8c47-2dab-25294d389af1) ==
+
+== Demographics ==
+Patient ID: 652fde3e-b7b4-8c47-2dab-25294d389af1
+Name: Alysha630 Corwin846
+Gender: F
+Birthdate: 1926-10-13
+Address: 873 Lang Mill
+Marital Status: M
+
+== Allergies ==
+- Aspirin
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Sepsis (disorder)
+- Limited social contact (finding)
+- Pulmonary emphysema (disorder)
+- Miscarriage in first trimester
+- Prediabetes
+- Anemia (disorder)
+- Sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Polyp of colon
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+- Recurrent rectal polyp
+- Part-time employment (finding)
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 1973-03-07T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1973-03-07T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1973-03-07T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1973-03-07T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1973-03-07T19:38:00Z)
+- Depression screening (procedure) (Date: 1973-03-07T20:05:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1973-03-07T20:16:55Z)
+- Assessment of substance use (procedure) (Date: 1973-03-07T20:38:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1973-03-07T20:50:00Z)
+- Spirometry (procedure) (Date: 1974-03-13T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1974-03-13T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1974-03-13T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1974-03-13T19:27:21Z)
+- Depression screening (procedure) (Date: 1974-03-13T19:49:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1974-03-13T20:01:25Z)
+- Assessment of substance use (procedure) (Date: 1974-03-13T20:26:34Z)
+- Screening for drug abuse (procedure) (Date: 1974-03-13T20:38:45Z)
+- Spirometry (procedure) (Date: 1975-03-19T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1975-03-19T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1975-03-19T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1975-03-19T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1975-03-19T19:16:22Z)
+- Assessment of substance use (procedure) (Date: 1975-03-19T19:42:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1975-03-19T19:55:47Z)
+- Spirometry (procedure) (Date: 1976-03-24T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1976-03-24T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1976-03-24T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1976-03-24T19:17:39Z)
+- Depression screening (procedure) (Date: 1976-03-24T19:42:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-03-24T19:53:58Z)
+- Assessment of substance use (procedure) (Date: 1976-03-24T20:21:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1976-03-24T20:33:10Z)
+- Colonoscopy (Date: 1976-10-13T18:44:36Z)
+- Screening for occult blood in feces (procedure) (Date: 1976-10-13T19:21:44Z)
+- Rectal polypectomy (Date: 1976-10-13T19:21:44Z)
+- Spirometry (procedure) (Date: 1977-03-30T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1977-03-30T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-03-30T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1977-03-30T19:20:38Z)
+- Assessment of substance use (procedure) (Date: 1977-03-30T19:37:11Z)
+- Screening for drug abuse (procedure) (Date: 1977-03-30T19:48:13Z)
+- Spirometry (procedure) (Date: 1977-04-13T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1977-04-13T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-04-13T18:44:36Z)
+- Depression screening (procedure) (Date: 1977-04-13T19:27:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1977-04-13T19:38:20Z)
+- Assessment of substance use (procedure) (Date: 1977-04-13T20:04:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1977-04-13T20:16:46Z)
+- Colonoscopy (Date: 1977-12-23T19:21:44Z)
+- Rectal polypectomy (Date: 1977-12-23T19:54:15Z)
+- Spirometry (procedure) (Date: 1978-04-05T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1978-04-05T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-04-05T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1978-04-05T19:36:42Z)
+- Depression screening (procedure) (Date: 1978-04-05T19:56:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1978-04-05T20:09:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1978-04-05T20:31:39Z)
+- Assessment of substance use (procedure) (Date: 1978-04-05T20:55:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1978-04-05T21:05:55Z)
+- Colonoscopy (Date: 1979-03-14T19:54:15Z)
+- Spirometry (procedure) (Date: 1979-04-11T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1979-04-11T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-04-11T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1979-04-11T18:44:36Z)
+- Screening for domestic abuse (procedure) (Date: 1979-04-11T19:41:24Z)
+- Depression screening (procedure) (Date: 1979-04-11T20:19:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1979-04-11T20:31:11Z)
+- Assessment of substance use (procedure) (Date: 1979-04-11T20:58:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1979-04-11T21:10:13Z)
+- Spirometry (procedure) (Date: 1980-04-16T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1980-04-16T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1980-04-16T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1980-04-16T19:24:05Z)
+- Screening for domestic abuse (procedure) (Date: 1980-04-16T19:50:56Z)
+- Spirometry (procedure) (Date: 1981-04-22T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1981-04-22T18:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-04-22T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1981-04-22T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1981-04-22T19:35:31Z)
+- Depression screening (procedure) (Date: 1981-04-22T19:58:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-04-22T20:09:25Z)
+- Assessment of substance use (procedure) (Date: 1981-04-22T20:33:33Z)
+- Screening for drug abuse (procedure) (Date: 1981-04-22T20:44:03Z)
+- Spirometry (procedure) (Date: 1982-04-28T18:44:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1982-04-28T18:44:36Z)
+
+== Recent Encounters (Last 5) ==
+- 1982-05-05T18:44:36Z: Death Certification
+- 1982-04-28T18:44:36Z: General examination of patient (procedure)
+- 1981-04-22T18:44:36Z: General examination of patient (procedure)
+- 1980-04-16T18:44:36Z: General examination of patient (procedure)
+- 1979-04-11T18:44:36Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1982-05-05T18:44:36Z Cause of Death [US Standard Certificate of Death]: Pulmonary emphysema (disorder) nan
+- 1982-04-28T18:44:36Z FEV1/FVC: 14.1 %
+- 1981-04-22T21:09:07Z Total score [DAST-10]: 1.0 {score}
+- 1981-04-22T20:33:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 1981-04-22T19:58:18Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 1981-04-22T19:35:31Z What is your current work situation?: Full-time work nan
+- 1981-04-22T19:35:31Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1981-04-22T19:35:31Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1981-04-22T19:35:31Z Are you a refugee?: No nan
+- 1981-04-22T19:35:31Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

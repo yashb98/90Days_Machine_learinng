@@ -1,0 +1,117 @@
+== PATIENT RECORD: Betsey110 Funk324 (ID: 08d4ab09-5ba6-e114-3dbc-cfd6493146c5) ==
+
+== Demographics ==
+Patient ID: 08d4ab09-5ba6-e114-3dbc-cfd6493146c5
+Name: Betsey110 Funk324
+Gender: F
+Birthdate: 1918-12-21
+Address: 165 Kling Run Apt 23
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Transport problems (finding)
+- Has a criminal record (finding)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Stroke
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Alzheimer's disease (disorder)
+- Facial laceration
+- Reports of violence in the environment (finding)
+- Sprain of ankle
+- Pneumonia
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2006-07-22T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2006-07-22T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2006-07-22T08:03:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-07-28T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2007-07-28T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-07-28T08:13:36Z)
+- Depression screening (procedure) (Date: 2007-07-28T08:36:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-07-28T08:49:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-05-10T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2008-05-10T08:03:08Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-05-10T08:30:59Z)
+- Screening for domestic abuse (procedure) (Date: 2008-05-10T08:54:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-08-02T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2008-08-02T07:30:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-08-08T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-08-08T08:08:17Z)
+- Depression screening (procedure) (Date: 2009-08-08T08:31:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-08-08T08:44:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2009-08-08T09:10:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-08-14T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2010-08-14T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-08-14T08:19:14Z)
+- Depression screening (procedure) (Date: 2010-08-14T08:37:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-08-14T08:49:05Z)
+- Assessment of substance use (procedure) (Date: 2010-08-14T09:16:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-08-14T09:29:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-08-20T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2011-08-20T08:18:46Z)
+- Depression screening (procedure) (Date: 2011-08-20T08:45:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-08-20T08:56:58Z)
+- Assessment of substance use (procedure) (Date: 2011-08-20T09:22:26Z)
+- Screening for drug abuse (procedure) (Date: 2011-08-20T09:36:49Z)
+- Suture open wound (Date: 2012-08-09T07:54:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-25T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-25T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-08-25T08:05:52Z)
+- Depression screening (procedure) (Date: 2012-08-25T08:21:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-25T08:32:37Z)
+- Assessment of substance use (procedure) (Date: 2012-08-25T08:54:48Z)
+- Screening for drug abuse (procedure) (Date: 2012-08-25T09:06:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-31T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-31T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-08-31T08:10:16Z)
+- Screening for domestic abuse (procedure) (Date: 2013-08-31T08:30:37Z)
+- Depression screening (procedure) (Date: 2013-08-31T09:00:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-31T09:12:45Z)
+- Assessment of substance use (procedure) (Date: 2013-08-31T09:34:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-08-31T09:48:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-06T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-06T08:01:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-09-06T08:29:43Z)
+- Depression screening (procedure) (Date: 2014-09-06T08:46:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-06T09:00:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2015-08-29T07:30:25Z: Death Certification
+- 2015-08-17T07:30:25Z: Hospital admission
+- 2015-07-10T08:11:48Z: Emergency room admission (procedure)
+- 2014-09-06T07:30:25Z: General examination of patient (procedure)
+- 2014-02-21T07:30:25Z: Office Visit
+
+== Recent Observations (Last 10) ==
+- 2015-12-21T07:30:25Z QOLS: 0.9 {score}
+- 2015-12-21T07:30:25Z DALY: 3.5 a
+- 2015-12-21T07:30:25Z QALY: 92.5 a
+- 2015-08-29T07:30:25Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2014-12-21T07:30:25Z QOLS: 0.9 {score}
+- 2014-12-21T07:30:25Z DALY: 3.4 a
+- 2014-12-21T07:30:25Z QALY: 91.6 a
+- 2014-09-06T09:25:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2014-09-06T08:46:42Z Fall risk total [Morse Fall Scale]: 69.0 {#}
+- 2014-09-06T08:46:42Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan

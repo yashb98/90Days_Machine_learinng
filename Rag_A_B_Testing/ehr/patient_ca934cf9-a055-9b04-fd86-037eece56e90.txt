@@ -1,0 +1,53 @@
+== PATIENT RECORD: Daniela614 Hagenes547 (ID: ca934cf9-a055-9b04-fd86-037eece56e90) ==
+
+== Demographics ==
+Patient ID: ca934cf9-a055-9b04-fd86-037eece56e90
+Name: Daniela614 Hagenes547
+Gender: F
+Birthdate: 2014-07-07
+Address: 425 Corwin Heights
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Laceration of forearm
+- Otitis media
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-08-11T18:54:29Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-15T18:54:29Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-14T18:54:29Z)
+- Suture open wound (Date: 2016-06-04T18:54:29Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-13T18:54:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-12T18:54:29Z)
+- Throat culture (procedure) (Date: 2017-11-23T03:54:29Z)
+- Suture open wound (Date: 2018-05-18T19:13:01Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-28T18:54:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-28T18:54:29Z: Well child visit (procedure)
+- 2020-06-22T18:54:29Z: Well child visit (procedure)
+- 2019-07-02T18:54:29Z: Encounter for symptom
+- 2019-06-17T18:54:29Z: Well child visit (procedure)
+- 2018-06-11T18:54:29Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-07T18:54:29Z QOLS: 1.0 {score}
+- 2021-07-07T18:54:29Z DALY: 0.0 a
+- 2021-07-07T18:54:29Z QALY: 6.0 a
+- 2021-06-28T18:54:29Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-28T18:54:29Z Body Height: 123.1 cm
+- 2021-06-28T18:54:29Z Body Weight: 21.2 kg
+- 2021-06-28T18:54:29Z Body Mass Index: 14.0 kg/m2
+- 2021-06-28T18:54:29Z Body mass index (BMI) [Percentile] Per age and gender: 14.6 %
+- 2021-06-28T18:54:29Z Diastolic Blood Pressure: 71.0 mm[Hg]
+- 2021-06-28T18:54:29Z Systolic Blood Pressure: 106.0 mm[Hg]

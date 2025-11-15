@@ -1,0 +1,60 @@
+== PATIENT RECORD: Louis204 Wintheiser220 (ID: 5fe0db77-0fe4-4472-ce22-b6e860ec103a) ==
+
+== Demographics ==
+Patient ID: 5fe0db77-0fe4-4472-ce22-b6e860ec103a
+Name: Louis204 Wintheiser220
+Gender: F
+Birthdate: 2010-09-18
+Address: 266 Hermiston Forge
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Otitis media
+- Child attention deficit disorder
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-26T02:05:54Z)
+- Sputum examination (procedure) (Date: 2012-10-09T20:05:54Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-23T02:05:54Z)
+- Throat culture (procedure) (Date: 2015-08-12T21:05:54Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-16T02:05:54Z)
+- Cognitive and behavioral therapy (Date: 2020-11-09T02:05:54Z)
+- Cognitive and behavioral therapy (Date: 2020-12-14T03:05:54Z)
+- Cognitive and behavioral therapy (Date: 2021-01-11T04:05:54Z)
+- Cognitive and behavioral therapy (Date: 2021-02-08T05:05:54Z)
+- Cognitive and behavioral therapy (Date: 2021-03-17T06:05:54Z)
+- Cognitive and behavioral therapy (Date: 2021-04-26T07:05:54Z)
+- Cognitive and behavioral therapy (Date: 2021-05-25T08:05:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T02:05:54Z: Well child visit (procedure)
+- 2021-06-21T14:05:54Z: Encounter for symptom
+- 2021-05-25T08:05:54Z: Encounter for problem
+- 2021-04-26T07:05:54Z: Encounter for problem
+- 2021-03-17T06:05:54Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-10-03T02:05:54Z Body Mass Index: 21.1 kg/m2
+- 2021-10-03T02:05:54Z MCH [Entitic mass] by Automated count: 29.5 pg
+- 2021-10-03T02:05:54Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-03T02:05:54Z Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- 2021-10-03T02:05:54Z Platelet distribution width [Entitic volume] in Blood by Automated count: 432.1 fL
+- 2021-10-03T02:05:54Z Platelets [#/volume] in Blood by Automated count: 181.6 10*3/uL
+- 2021-10-03T02:05:54Z Erythrocyte distribution width [Entitic volume] by Automated count: 44.7 fL
+- 2021-10-03T02:05:54Z MCHC [Mass/volume] by Automated count: 35.1 g/dL
+- 2021-10-03T02:05:54Z MCV [Entitic volume] by Automated count: 88.2 fL
+- 2021-10-03T02:05:54Z Diastolic Blood Pressure: 88.0 mm[Hg]

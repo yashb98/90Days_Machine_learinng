@@ -1,0 +1,145 @@
+== PATIENT RECORD: Scarlett814 Breitenberg711 (ID: 0354da61-b0c8-3469-d3f6-c2fd0f508b7a) ==
+
+== Demographics ==
+Patient ID: 0354da61-b0c8-3469-d3f6-c2fd0f508b7a
+Name: Scarlett814 Breitenberg711
+Gender: F
+Birthdate: 1974-12-31
+Address: 383 Kozey Drive
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Hypertension
+- Social isolation (finding)
+- Part-time employment (finding)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Tubal pregnancy
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Concussion with no loss of consciousness
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Stress (finding)
+- Injury of medial collateral ligament of knee
+- Victim of intimate partner abuse (finding)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Nasal congestion (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Etonogestrel 68 MG Drug Implant
+- Seasonique 91 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Liletta 52 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-12T07:36:01Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-12T07:36:01Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-12T08:21:24Z)
+- Screening for domestic abuse (procedure) (Date: 2012-06-12T08:49:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-18T07:36:01Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-18T07:36:01Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-18T08:31:00Z)
+- Depression screening (procedure) (Date: 2013-06-18T08:46:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-18T09:00:40Z)
+- Standard pregnancy test (Date: 2014-02-18T07:36:01Z)
+- Ultrasound scan for fetal viability (Date: 2014-02-18T07:36:01Z)
+- Counseling for termination of pregnancy (Date: 2014-03-09T07:36:01Z)
+- Induced termination of pregnancy (Date: 2014-03-09T07:36:01Z)
+- RhD passive immunization (Date: 2014-03-29T07:36:01Z)
+- Pregnancy termination care (Date: 2014-03-29T07:36:01Z)
+- Physical exam following abortion (Date: 2014-03-29T07:36:01Z)
+- Depression screening (Date: 2014-03-29T07:36:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-24T07:36:01Z)
+- Depression screening (procedure) (Date: 2014-06-24T08:11:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-24T08:25:24Z)
+- Insertion of subcutaneous contraceptive (Date: 2014-10-08T07:36:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-30T07:36:01Z)
+- Depression screening (procedure) (Date: 2015-06-30T08:12:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-30T08:27:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-30T08:55:57Z)
+- Assessment of substance use (procedure) (Date: 2015-06-30T09:24:24Z)
+- Screening for drug abuse (procedure) (Date: 2015-06-30T09:36:43Z)
+- Knee X-ray (Date: 2015-12-03T08:24:46Z)
+- Surgical manipulation of joint of knee (Date: 2015-12-10T08:24:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-05T07:36:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-05T07:36:01Z)
+- Assessment of substance use (procedure) (Date: 2016-07-05T08:19:43Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-05T08:31:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-11T07:36:01Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-11T07:36:01Z)
+- Depression screening (procedure) (Date: 2017-07-11T08:22:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-11T08:34:54Z)
+- Assessment of substance use (procedure) (Date: 2017-07-11T08:59:42Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-11T09:09:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-17T07:36:01Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-17T08:18:42Z)
+- Depression screening (procedure) (Date: 2018-07-17T08:49:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-17T09:00:47Z)
+- Assessment of substance use (procedure) (Date: 2018-07-17T09:22:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-07-17T09:34:56Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-09-20T20:13:22Z)
+- Removal of subcutaneous contraceptive (Date: 2018-10-23T07:36:01Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-10-23T08:03:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-02T07:36:01Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-02T08:14:10Z)
+- Depression screening (procedure) (Date: 2019-04-02T08:43:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-02T08:54:48Z)
+- Assessment of substance use (procedure) (Date: 2019-04-02T09:20:35Z)
+- Screening for drug abuse (procedure) (Date: 2019-04-02T09:30:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-23T07:36:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-23T07:36:01Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-23T08:26:05Z)
+- Screening for domestic abuse (procedure) (Date: 2019-07-23T08:46:16Z)
+- Depression screening (procedure) (Date: 2019-07-23T09:20:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-23T09:34:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-28T07:36:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-28T07:36:01Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-28T08:21:45Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-28T08:41:42Z)
+- Depression screening (procedure) (Date: 2020-07-28T09:11:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-28T09:23:24Z)
+- Assessment of substance use (procedure) (Date: 2020-07-28T09:44:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-07-28T09:56:30Z)
+- Face mask (physical object) (Date: 2020-11-15T07:36:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-03T07:36:01Z)
+- Depression screening (procedure) (Date: 2021-08-03T08:12:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-03T08:26:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-03T08:50:16Z)
+- Assessment of substance use (procedure) (Date: 2021-08-03T09:11:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-08-03T09:26:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-03T07:36:01Z: General examination of patient (procedure)
+- 2021-04-20T07:36:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-15T07:36:01Z: Encounter for symptom (procedure)
+- 2020-07-28T07:36:01Z: General examination of patient (procedure)
+- 2020-03-19T17:36:01Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-08-03T09:53:31Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-08-03T09:11:25Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 3.0 {score}
+- 2021-08-03T08:50:16Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-08-03T08:12:24Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-03T08:12:24Z What is your main insurance?: Medicaid nan
+- 2021-08-03T08:12:24Z Are you worried about losing your housing?: No nan
+- 2021-08-03T08:12:24Z What address do you live at?: 383 Kozey Drive nan
+- 2021-08-03T08:12:24Z What is your current work situation?: Part-time or temporary work nan
+- 2021-08-03T08:12:24Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 6345 /a
+- 2021-08-03T08:12:24Z How many family members  including yourself  do you currently live with?: 6.0 {#}

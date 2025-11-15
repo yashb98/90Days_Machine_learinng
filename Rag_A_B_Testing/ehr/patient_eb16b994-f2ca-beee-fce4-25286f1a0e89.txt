@@ -1,0 +1,61 @@
+== PATIENT RECORD: Julieta402 Schmitt836 (ID: eb16b994-f2ca-beee-fce4-25286f1a0e89) ==
+
+== Demographics ==
+Patient ID: eb16b994-f2ca-beee-fce4-25286f1a0e89
+Name: Julieta402 Schmitt836
+Gender: F
+Birthdate: 2006-04-08
+Address: 591 Nicolas Glen Unit 4
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Fracture of forearm
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2013-10-29T22:28:22Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-09T18:28:22Z)
+- Upper arm X-ray (Date: 2017-08-07T18:28:22Z)
+- Bone immobilization (Date: 2017-08-07T18:28:22Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-28T18:28:22Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-28T18:28:22Z)
+- Depression screening (procedure) (Date: 2018-04-28T18:52:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-04-28T19:05:10Z)
+- Measurement of respiratory function (procedure) (Date: 2018-07-17T02:41:19Z)
+- Depression screening (procedure) (Date: 2019-05-04T18:28:22Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-04T18:28:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-04T18:39:24Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-09T18:28:22Z)
+- Depression screening (procedure) (Date: 2020-05-09T18:48:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-09T19:00:35Z)
+- Depression screening (procedure) (Date: 2021-05-15T18:28:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-15T18:38:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-19T18:28:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-22T18:28:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-15T18:28:22Z: Well child visit (procedure)
+- 2020-05-09T18:28:22Z: Well child visit (procedure)
+- 2020-04-07T18:28:22Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-05-15T18:59:25Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-05-15T18:28:22Z Body mass index (BMI) [Percentile] Per age and gender: 7.7 %
+- 2021-05-15T18:28:22Z Body Height: 161.8 cm
+- 2021-05-15T18:28:22Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-15T18:28:22Z Body Weight: 43.8 kg
+- 2021-05-15T18:28:22Z Body Mass Index: 16.7 kg/m2
+- 2021-05-15T18:28:22Z Diastolic Blood Pressure: 84.0 mm[Hg]
+- 2021-05-15T18:28:22Z Systolic Blood Pressure: 130.0 mm[Hg]
+- 2021-05-15T18:28:22Z Heart rate: 94.0 /min
+- 2021-05-15T18:28:22Z Respiratory rate: 12.0 /min

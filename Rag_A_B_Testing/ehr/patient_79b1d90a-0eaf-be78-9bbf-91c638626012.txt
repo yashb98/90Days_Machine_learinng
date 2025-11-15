@@ -1,0 +1,127 @@
+== PATIENT RECORD: Milagros256 Hills818 (ID: 79b1d90a-0eaf-be78-9bbf-91c638626012) ==
+
+== Demographics ==
+Patient ID: 79b1d90a-0eaf-be78-9bbf-91c638626012
+Name: Milagros256 Hills818
+Gender: F
+Birthdate: 1928-11-13
+Address: 468 Erdman Wynd
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Refugee (person)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Impacted molars
+- Chronic intractable migraine without aura
+- Chronic pain
+- Drug overdose
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Alzheimer's disease (disorder)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Sprain of ankle
+- Coronary Heart Disease
+- Sprain of wrist
+- Viral sinusitis (disorder)
+- Appendicitis
+- History of appendectomy
+- Pneumonia
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Acetaminophen 325 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Naproxen sodium 220 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2006-12-19T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-12-19T21:37:39Z)
+- Depression screening (procedure) (Date: 2006-12-19T21:56:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-12-19T22:08:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-12-25T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-12-25T21:40:21Z)
+- Screening for domestic abuse (procedure) (Date: 2007-12-25T22:00:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-12-30T20:45:19Z)
+- Depression screening (procedure) (Date: 2008-12-30T21:34:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-12-30T21:48:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-01-05T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2010-01-05T21:44:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-01-05T22:02:35Z)
+- Depression screening (procedure) (Date: 2010-01-05T22:19:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-01-05T22:29:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-01-11T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2011-01-11T21:40:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-01-11T22:05:13Z)
+- Depression screening (procedure) (Date: 2011-01-11T22:31:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-01-11T22:44:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-17T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-17T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-17T21:33:42Z)
+- Depression screening (procedure) (Date: 2012-01-17T21:49:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-17T22:01:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-22T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-22T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-01-22T21:22:02Z)
+- Depression screening (procedure) (Date: 2013-01-22T21:40:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-22T21:54:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-28T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-28T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-28T21:29:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-01-28T21:52:46Z)
+- Screening for domestic abuse (procedure) (Date: 2014-01-28T22:14:59Z)
+- Depression screening (procedure) (Date: 2014-01-28T22:59:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-28T23:13:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-09T20:45:19Z)
+- Depression screening (procedure) (Date: 2014-09-09T21:43:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-09T21:54:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-03T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-03T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-03T21:27:50Z)
+- Appendectomy (Date: 2015-03-01T17:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-09T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-09T21:16:37Z)
+- Depression screening (procedure) (Date: 2016-02-09T21:43:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-09T21:54:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-08T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-08T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-08T21:37:34Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-03-08T21:58:05Z)
+- Depression screening (procedure) (Date: 2016-03-08T22:17:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-08T22:28:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2016-04-19T20:45:19Z: Death Certification
+- 2016-04-10T20:45:19Z: Hospital admission
+- 2016-03-08T20:45:19Z: Emergency Room Admission
+- 2016-03-08T20:45:19Z: Encounter for check up (procedure)
+- 2016-03-06T08:45:19Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2016-11-13T20:45:19Z QOLS: 0.4 {score}
+- 2016-11-13T20:45:19Z DALY: 11.7 a
+- 2016-11-13T20:45:19Z QALY: 75.3 a
+- 2016-04-19T20:45:19Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2016-03-08T22:50:43Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2016-03-08T22:17:21Z Fall risk total [Morse Fall Scale]: 87.0 {#}
+- 2016-03-08T22:17:21Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2016-03-08T21:58:05Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2016-03-08T21:37:34Z Are you worried about losing your housing?: No nan
+- 2016-03-08T21:37:34Z What address do you live at?: 468 Erdman Wynd nan

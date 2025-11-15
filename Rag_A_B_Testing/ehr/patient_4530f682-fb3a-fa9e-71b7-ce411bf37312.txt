@@ -1,0 +1,179 @@
+== PATIENT RECORD: Raul814 Heller342 (ID: 4530f682-fb3a-fa9e-71b7-ce411bf37312) ==
+
+== Demographics ==
+Patient ID: 4530f682-fb3a-fa9e-71b7-ce411bf37312
+Name: Raul814 Heller342
+Gender: M
+Birthdate: 1913-06-10
+Address: 977 Bednar Branch
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Hyperlipidemia
+- Part-time employment (finding)
+- Alcoholism
+- Smokes tobacco daily
+- Prediabetes
+- Anemia (disorder)
+- Coronary Heart Disease
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Acute bacterial sinusitis (disorder)
+- Chronic congestive heart failure (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- 24hr nicotine transdermal patch
+- Simvastatin 10 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- Clopidogrel 75 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1992-11-24T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1992-11-24T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1992-11-24T21:39:24Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1992-11-24T22:04:52Z)
+- Screening for domestic abuse (procedure) (Date: 1992-11-24T22:30:06Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-11-30T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-11-30T21:51:19Z)
+- Depression screening (procedure) (Date: 1993-11-30T22:12:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-11-30T22:26:37Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-10-04T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1994-10-04T21:49:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-10-04T22:18:35Z)
+- Depression screening (procedure) (Date: 1994-10-04T22:37:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-10-04T22:48:31Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-10-18T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-10-18T21:56:34Z)
+- Depression screening (procedure) (Date: 1994-10-18T22:17:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-10-18T22:31:32Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-12-06T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1994-12-06T21:37:33Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-12-20T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1994-12-20T21:58:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-12-20T22:16:14Z)
+- Electrocardiographic procedure (Date: 1995-09-29T21:04:17Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1995-09-29T21:12:58Z)
+- Echocardiography (procedure) (Date: 1995-10-13T21:30:01Z)
+- Medication Reconciliation (procedure) (Date: 1995-10-13T21:30:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-12-12T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-12-12T21:51:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-12-12T22:16:48Z)
+- Screening for domestic abuse (procedure) (Date: 1995-12-12T22:46:34Z)
+- Depression screening (procedure) (Date: 1995-12-12T23:15:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-12-12T23:30:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1995-12-12T23:53:11Z)
+- Echocardiography (procedure) (Date: 1996-04-10T21:30:01Z)
+- Medication Reconciliation (procedure) (Date: 1996-04-10T21:30:01Z)
+- Echocardiography (procedure) (Date: 1996-10-07T21:30:01Z)
+- Medication Reconciliation (procedure) (Date: 1996-10-07T21:30:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-12-17T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1996-12-17T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1996-12-17T21:38:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-12-17T22:05:15Z)
+- Depression screening (procedure) (Date: 1996-12-17T22:30:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-12-17T22:43:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1996-12-17T23:04:19Z)
+- Echocardiography (procedure) (Date: 1997-04-05T21:30:01Z)
+- Medication Reconciliation (procedure) (Date: 1997-04-05T21:30:01Z)
+- Oxygen administration by mask (procedure) (Date: 1997-10-02T21:30:01Z)
+- Placing subject in prone position (procedure) (Date: 1997-10-02T21:30:01Z)
+- Plain chest X-ray (procedure) (Date: 1997-10-02T21:30:01Z)
+- Medication Reconciliation (procedure) (Date: 1997-10-02T21:30:01Z)
+- Electrocardiographic procedure (Date: 1997-10-02T21:30:01Z)
+- Oxygen administration by mask (procedure) (Date: 1997-10-02T21:36:41Z)
+- Placing subject in prone position (procedure) (Date: 1997-10-02T21:36:41Z)
+- Oxygen administration by mask (procedure) (Date: 1997-10-03T21:36:41Z)
+- Placing subject in prone position (procedure) (Date: 1997-10-03T21:36:41Z)
+- Heart failure education (procedure) (Date: 1997-10-04T21:36:41Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-12-23T21:04:17Z)
+- Depression screening (procedure) (Date: 1997-12-23T21:39:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-12-23T21:53:58Z)
+- Echocardiography (procedure) (Date: 1998-04-02T22:28:44Z)
+- Medication Reconciliation (procedure) (Date: 1998-04-02T22:28:44Z)
+- Echocardiography (procedure) (Date: 1998-09-29T22:28:44Z)
+- Medication Reconciliation (procedure) (Date: 1998-09-29T22:28:44Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-12-29T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-12-29T21:57:26Z)
+- Depression screening (procedure) (Date: 1998-12-29T22:23:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-12-29T22:38:21Z)
+- Echocardiography (procedure) (Date: 1999-03-28T22:28:44Z)
+- Medication Reconciliation (procedure) (Date: 1999-03-28T22:28:44Z)
+- Oxygen administration by mask (procedure) (Date: 1999-09-24T22:28:44Z)
+- Placing subject in prone position (procedure) (Date: 1999-09-24T22:28:44Z)
+- Plain chest X-ray (procedure) (Date: 1999-09-24T22:28:44Z)
+- Medication Reconciliation (procedure) (Date: 1999-09-24T22:28:44Z)
+- Electrocardiographic procedure (Date: 1999-09-24T22:28:44Z)
+- Oxygen administration by mask (procedure) (Date: 1999-09-24T22:37:00Z)
+- Placing subject in prone position (procedure) (Date: 1999-09-24T22:37:00Z)
+- Heart failure education (procedure) (Date: 1999-09-25T22:37:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-01-04T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 2000-01-04T21:36:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-01-04T21:53:08Z)
+- Oxygen administration by mask (procedure) (Date: 2000-03-23T23:14:16Z)
+- Placing subject in prone position (procedure) (Date: 2000-03-23T23:14:16Z)
+- Plain chest X-ray (procedure) (Date: 2000-03-23T23:14:16Z)
+- Medication Reconciliation (procedure) (Date: 2000-03-23T23:14:16Z)
+- Electrocardiographic procedure (Date: 2000-03-23T23:14:16Z)
+- Echocardiography (procedure) (Date: 2000-03-23T23:22:04Z)
+- Oxygen administration by mask (procedure) (Date: 2000-03-23T23:22:04Z)
+- Placing subject in prone position (procedure) (Date: 2000-03-23T23:22:04Z)
+- Heart failure education (procedure) (Date: 2000-03-24T23:22:04Z)
+- Echocardiography (procedure) (Date: 2000-09-21T00:16:00Z)
+- Medication Reconciliation (procedure) (Date: 2000-09-21T00:16:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-01-09T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 2001-01-09T21:52:24Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-01-09T22:11:02Z)
+- Screening for domestic abuse (procedure) (Date: 2001-01-09T22:36:56Z)
+- Depression screening (procedure) (Date: 2001-01-09T23:21:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-01-09T23:35:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2001-01-10T00:04:48Z)
+- Oxygen administration by mask (procedure) (Date: 2001-03-20T00:16:00Z)
+- Placing subject in prone position (procedure) (Date: 2001-03-20T00:16:00Z)
+- Plain chest X-ray (procedure) (Date: 2001-03-20T00:16:00Z)
+- Medication Reconciliation (procedure) (Date: 2001-03-20T00:16:00Z)
+- Electrocardiographic procedure (Date: 2001-03-20T00:16:00Z)
+- Oxygen administration by mask (procedure) (Date: 2001-03-20T00:25:13Z)
+- Placing subject in prone position (procedure) (Date: 2001-03-20T00:25:13Z)
+- Heart failure education (procedure) (Date: 2001-03-21T00:25:13Z)
+- Echocardiography (procedure) (Date: 2001-09-17T01:22:51Z)
+- Medication Reconciliation (procedure) (Date: 2001-09-17T01:22:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2001-12-18T21:04:17Z: Death Certification
+- 2001-10-08T21:04:17Z: Encounter for symptom
+- 2001-09-17T01:22:51Z: Encounter for problem
+- 2001-07-05T21:04:17Z: Follow-up encounter
+- 2001-03-20T00:16:00Z: Admission to intensive care unit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2001-12-18T21:04:17Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2001-09-17T01:22:51Z Calcium: 10.0 mg/dL
+- 2001-09-17T01:22:51Z Glucose: 80.8 mg/dL
+- 2001-09-17T01:22:51Z Urea Nitrogen: 18.7 mg/dL
+- 2001-09-17T01:22:51Z Creatinine: 0.6 mg/dL
+- 2001-09-17T01:22:51Z Left ventricular Ejection fraction: 46.7 %
+- 2001-09-17T01:22:51Z Sodium: 139.7 mmol/L
+- 2001-09-17T01:22:51Z Potassium: 4.2 mmol/L
+- 2001-09-17T01:22:51Z Chloride: 108.0 mmol/L
+- 2001-09-17T01:22:51Z Carbon Dioxide: 26.2 mmol/L

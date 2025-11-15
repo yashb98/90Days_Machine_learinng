@@ -1,0 +1,141 @@
+== PATIENT RECORD: Leonie332 Monahan736 (ID: 62bb08df-1e20-441c-6fea-94c47a30690a) ==
+
+== Demographics ==
+Patient ID: 62bb08df-1e20-441c-6fea-94c47a30690a
+Name: Leonie332 Monahan736
+Gender: F
+Birthdate: 1980-05-21
+Address: 497 Hegmann Gateway Suite 26
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Normal pregnancy
+- Concussion with no loss of consciousness
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Yaz 28 Day Pack
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Levora 0.15/30 28 Day Pack
+- Kyleena 19.5 MG Intrauterine System
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2012-02-20T05:06:06Z)
+- Intramuscular injection (Date: 2012-05-30T13:07:25Z)
+- Intramuscular injection (Date: 2012-08-29T13:07:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-03T13:07:25Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-03T13:07:25Z)
+- Depression screening (procedure) (Date: 2012-10-03T13:38:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-03T13:48:54Z)
+- Intramuscular injection (Date: 2012-11-28T13:07:25Z)
+- Intramuscular injection (Date: 2013-02-27T13:07:25Z)
+- Intramuscular injection (Date: 2013-05-29T13:07:25Z)
+- Intramuscular injection (Date: 2013-08-28T13:07:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-09T13:07:25Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-09T13:07:25Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-09T13:57:16Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-09T14:12:25Z)
+- Depression screening (procedure) (Date: 2013-10-09T14:39:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-09T14:50:24Z)
+- Assessment of substance use (procedure) (Date: 2013-10-09T15:13:47Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-09T15:23:47Z)
+- Intramuscular injection (Date: 2013-11-27T13:07:25Z)
+- Intramuscular injection (Date: 2014-02-26T13:07:25Z)
+- Intramuscular injection (Date: 2014-05-28T13:07:25Z)
+- Intramuscular injection (Date: 2014-08-27T13:07:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-15T13:07:25Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-15T13:07:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-15T13:55:27Z)
+- Depression screening (procedure) (Date: 2014-10-15T14:15:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-15T14:27:04Z)
+- Assessment of substance use (procedure) (Date: 2014-10-15T14:53:07Z)
+- Screening for drug abuse (procedure) (Date: 2014-10-15T15:07:26Z)
+- Intramuscular injection (Date: 2014-11-26T13:07:25Z)
+- Intramuscular injection (Date: 2015-02-25T13:07:25Z)
+- Standard pregnancy test (Date: 2015-04-29T13:07:25Z)
+- Ultrasound scan for fetal viability (Date: 2015-04-29T13:07:25Z)
+- Counseling for termination of pregnancy (Date: 2015-05-07T13:07:25Z)
+- Induced termination of pregnancy (Date: 2015-05-07T13:07:25Z)
+- Pregnancy termination care (Date: 2015-05-20T13:07:25Z)
+- Physical exam following abortion (Date: 2015-05-20T13:07:25Z)
+- Depression screening (Date: 2015-05-20T13:07:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-21T13:07:25Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-21T13:07:25Z)
+- Screening for domestic abuse (procedure) (Date: 2015-10-21T13:56:52Z)
+- Depression screening (procedure) (Date: 2015-10-21T14:33:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-21T14:45:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-26T13:07:25Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-26T13:46:12Z)
+- Depression screening (procedure) (Date: 2016-10-26T14:10:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-26T14:23:18Z)
+- Assessment of substance use (procedure) (Date: 2016-10-26T14:45:22Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-26T14:59:12Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-01-26T16:17:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-01T13:07:25Z)
+- Depression screening (procedure) (Date: 2017-11-01T13:50:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-01T14:03:04Z)
+- Removal of intrauterine device (Date: 2018-07-11T13:07:25Z)
+- Standard pregnancy test (Date: 2018-09-05T13:07:25Z)
+- Ultrasound scan for fetal viability (Date: 2018-09-05T13:07:25Z)
+- Counseling for termination of pregnancy (Date: 2018-09-17T13:07:25Z)
+- Induced termination of pregnancy (Date: 2018-09-17T13:07:25Z)
+- Pregnancy termination care (Date: 2018-10-06T13:07:25Z)
+- Physical exam following abortion (Date: 2018-10-06T13:07:25Z)
+- Depression screening (Date: 2018-10-06T13:07:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-07T13:07:25Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-07T13:07:25Z)
+- Depression screening (procedure) (Date: 2018-11-07T13:54:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-07T14:08:55Z)
+- Assessment of substance use (procedure) (Date: 2018-11-07T14:32:30Z)
+- Screening for drug abuse (procedure) (Date: 2018-11-07T14:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-13T13:07:25Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-13T13:07:25Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-13T14:04:03Z)
+- Depression screening (procedure) (Date: 2019-11-13T14:28:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-13T14:41:45Z)
+- Assessment of substance use (procedure) (Date: 2019-11-13T15:09:22Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-13T15:20:56Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-01-14T07:15:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-18T13:07:25Z)
+- Assessment of substance use (procedure) (Date: 2020-11-18T13:44:23Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-18T13:54:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-11-18T13:07:25Z: General examination of patient (procedure)
+- 2020-01-14T07:15:39Z: Patient encounter procedure
+- 2020-01-11T17:15:39Z: Consultation for treatment
+- 2019-11-13T13:07:25Z: General examination of patient (procedure)
+- 2018-11-07T13:07:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-21T13:07:25Z QOLS: 1.0 {score}
+- 2021-05-21T13:07:25Z QALY: 40.0 a
+- 2021-05-21T13:07:25Z DALY: 0.0 a
+- 2020-11-18T14:18:45Z Total score [DAST-10]: 1.0 {score}
+- 2020-11-18T13:44:23Z What is your housing situation today?: I have housing nan
+- 2020-11-18T13:44:23Z Are you worried about losing your housing?: Yes nan
+- 2020-11-18T13:44:23Z What address do you live at?: 497 Hegmann Gateway Suite 26 nan
+- 2020-11-18T13:44:23Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2020-11-18T13:44:23Z What is your current work situation?: Full-time work nan
+- 2020-11-18T13:44:23Z What is your main insurance?: Private insurance nan

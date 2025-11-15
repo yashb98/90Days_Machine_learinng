@@ -1,0 +1,84 @@
+== PATIENT RECORD: Melodi744 Hessel84 (ID: 9188198b-4f9b-8648-3609-37465be0a144) ==
+
+== Demographics ==
+Patient ID: 9188198b-4f9b-8648-3609-37465be0a144
+Name: Melodi744 Hessel84
+Gender: F
+Birthdate: 1972-08-07
+Address: 613 Nicolas Track
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Unemployed (finding)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-13T18:12:39Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-13T18:12:39Z)
+- Assessment of substance use (procedure) (Date: 2012-08-13T19:03:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-08-13T19:14:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-18T18:12:39Z)
+- Depression screening (procedure) (Date: 2014-08-18T19:12:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-18T19:24:37Z)
+- Assessment of substance use (procedure) (Date: 2014-08-18T19:51:45Z)
+- Screening for drug abuse (procedure) (Date: 2014-08-18T20:02:52Z)
+- Measurement of respiratory function (procedure) (Date: 2014-11-05T12:12:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-10T18:12:39Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-10T18:12:39Z)
+- Depression screening (procedure) (Date: 2014-11-10T18:51:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-10T19:01:54Z)
+- Assessment of substance use (procedure) (Date: 2014-11-10T19:25:20Z)
+- Screening for drug abuse (procedure) (Date: 2014-11-10T19:36:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-22T18:12:39Z)
+- Depression screening (procedure) (Date: 2016-08-22T18:43:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-22T18:55:30Z)
+- Throat culture (procedure) (Date: 2017-04-27T01:12:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-01T18:12:39Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-01T19:05:18Z)
+- Depression screening (procedure) (Date: 2017-05-01T19:24:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-01T19:34:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-27T18:12:39Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-27T18:12:39Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-27T18:48:31Z)
+- Assessment of substance use (procedure) (Date: 2018-08-27T19:16:03Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-27T19:30:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-05T18:12:39Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-05T19:00:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-31T18:12:39Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-31T19:10:02Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-31T19:30:13Z)
+- Assessment of substance use (procedure) (Date: 2020-08-31T20:11:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-31T20:21:43Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-25T18:12:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-04T18:12:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-31T18:12:39Z: General examination of patient (procedure)
+- 2019-08-05T18:12:39Z: Encounter for check up (procedure)
+- 2019-08-04T11:12:39Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-08-07T18:12:39Z QOLS: 1.0 {score}
+- 2021-08-07T18:12:39Z DALY: 0.1 a
+- 2021-08-07T18:12:39Z QALY: 47.9 a
+- 2020-08-31T20:47:13Z Total score [AUDIT-C]: 0.0 {score}
+- 2020-08-31T20:11:14Z Total score [HARK]: 0.0 {score}
+- 2020-08-31T19:30:13Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-08-31T19:10:02Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-08-31T19:10:02Z What is your current work situation?: Unemployed (finding) nan
+- 2020-08-31T19:10:02Z What is your housing situation today?: I have housing nan
+- 2020-08-31T19:10:02Z Are you worried about losing your housing?: No nan

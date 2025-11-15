@@ -1,0 +1,80 @@
+== PATIENT RECORD: Shakira391 Haag279 (ID: bf113937-f532-94bb-66e1-9c7111f68207) ==
+
+== Demographics ==
+Patient ID: bf113937-f532-94bb-66e1-9c7111f68207
+Name: Shakira391 Haag279
+Gender: F
+Birthdate: 1983-06-03
+Address: 976 Kilback Terrace
+Marital Status: M
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Chronic pain
+- Impacted molars
+- Chronic intractable migraine without aura
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Drug overdose
+- Viral sinusitis (disorder)
+- Laceration of hand
+- Pulmonary emphysema (disorder)
+- Body mass index 30+ - obesity (finding)
+- Sepsis (disorder)
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-08-13T03:25:13Z)
+- Medication Reconciliation (procedure) (Date: 2011-08-13T03:25:13Z)
+- Depression screening (procedure) (Date: 2011-08-13T03:55:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-08-13T04:10:42Z)
+- Suture open wound (Date: 2012-05-25T04:27:13Z)
+- Spirometry (procedure) (Date: 2014-08-16T03:25:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-16T03:25:13Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-16T03:25:13Z)
+- Depression screening (procedure) (Date: 2014-08-16T04:12:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-16T04:27:00Z)
+- Spirometry (procedure) (Date: 2017-08-19T03:25:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-19T03:25:13Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-19T03:25:13Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-19T03:58:34Z)
+- Depression screening (procedure) (Date: 2017-08-19T04:27:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-19T04:39:30Z)
+- Spirometry (procedure) (Date: 2018-08-25T03:25:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-25T03:25:13Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-25T04:24:48Z)
+- Depression screening (procedure) (Date: 2018-08-25T04:40:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-25T04:53:59Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2019-05-22T03:25:13Z)
+- Transfer to stepdown unit (procedure) (Date: 2019-05-22T03:55:13Z)
+
+== Recent Encounters (Last 5) ==
+- 2019-05-22T03:25:13Z: Encounter for problem
+- 2019-02-15T03:25:13Z: Emergency Room Admission
+- 2019-01-11T03:25:13Z: Drug rehabilitation and detoxification
+- 2018-12-21T03:25:13Z: Emergency Room Admission
+- 2018-10-17T03:25:13Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2019-06-04T03:25:13Z QOLS: 0.0 {score}
+- 2019-06-04T03:25:13Z DALY: 13.8 a
+- 2019-06-04T03:25:13Z QALY: 21.2 a
+- 2019-05-22T03:55:13Z Mean blood pressure: 89.7 mm[Hg]
+- 2019-05-22T03:25:13Z Capillary refill [Time] of Nail bed: Increased capillary filling time (finding) nan
+- 2019-05-22T03:25:13Z Oxygen Saturation: 93.0 %
+- 2019-05-22T03:25:13Z Lactate [Mass/volume] in Blood: 1.7 mmol/L
+- 2019-05-22T03:25:13Z Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value) nan
+- 2019-01-11T03:25:13Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2018-08-25T05:18:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}

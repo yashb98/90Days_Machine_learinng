@@ -1,0 +1,44 @@
+== PATIENT RECORD: Carlota980 Morales679 (ID: 122b4063-18dc-f20f-204c-6f2da758717b) ==
+
+== Demographics ==
+Patient ID: 122b4063-18dc-f20f-204c-6f2da758717b
+Name: Carlota980 Morales679
+Gender: F
+Birthdate: 2018-09-16
+Address: 990 Morissette Parade
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-09-16T04:46:41Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-23T04:46:41Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-23T04:46:41Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-21T04:46:41Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-22T04:46:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-22T04:46:41Z: Well child visit (procedure)
+- 2021-06-28T05:46:41Z: Encounter for symptom
+- 2021-02-21T04:46:41Z: Well child visit (procedure)
+- 2020-08-23T04:46:41Z: Well child visit (procedure)
+- 2020-02-23T04:46:41Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-16T04:46:41Z QOLS: 1.0 {score}
+- 2021-09-16T04:46:41Z DALY: 0.0 a
+- 2021-09-16T04:46:41Z QALY: 2.0 a
+- 2021-08-22T04:46:41Z Heart rate: 69.0 /min
+- 2021-08-22T04:46:41Z Body Height: 99.0 cm
+- 2021-08-22T04:46:41Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-08-22T04:46:41Z Body Weight: 15.3 kg
+- 2021-08-22T04:46:41Z Head Occipital-frontal circumference: 50.6 cm
+- 2021-08-22T04:46:41Z Body Mass Index: 15.7 kg/m2
+- 2021-08-22T04:46:41Z Body mass index (BMI) [Percentile] Per age and gender: 47.0 %

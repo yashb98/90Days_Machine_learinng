@@ -1,0 +1,93 @@
+== PATIENT RECORD: Cleveland582 Dach178 (ID: 475803f3-ae29-ba8d-bdd1-25145a94eaee) ==
+
+== Demographics ==
+Patient ID: 475803f3-ae29-ba8d-bdd1-25145a94eaee
+Name: Cleveland582 Dach178
+Gender: M
+Birthdate: 1977-12-05
+Address: 794 Nienow Quay Unit 96
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Social isolation (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Diabetes
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Prediabetes
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-21T00:37:30Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-21T00:37:30Z)
+- Assessment of anxiety (procedure) (Date: 2012-02-21T01:09:52Z)
+- Depression screening (procedure) (Date: 2012-02-21T01:25:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-21T01:40:27Z)
+- Assessment of substance use (procedure) (Date: 2012-02-21T02:02:06Z)
+- Screening for drug abuse (procedure) (Date: 2012-02-21T02:16:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-24T00:37:30Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-24T00:37:30Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-24T01:10:34Z)
+- Assessment of substance use (procedure) (Date: 2015-02-24T01:35:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-24T01:48:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-12T00:37:30Z)
+- Depression screening (procedure) (Date: 2017-12-12T01:24:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-12T01:34:49Z)
+- Assessment of substance use (procedure) (Date: 2017-12-12T01:55:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-12T02:07:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-18T00:37:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-18T00:37:30Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-18T01:29:23Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-18T01:45:14Z)
+- Depression screening (procedure) (Date: 2018-12-18T02:25:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-18T02:36:52Z)
+- Assessment of substance use (procedure) (Date: 2018-12-18T03:04:22Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-18T03:19:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-24T00:37:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-24T00:37:30Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-24T01:29:22Z)
+- Depression screening (procedure) (Date: 2019-12-24T01:52:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-24T02:03:36Z)
+- Assessment of substance use (procedure) (Date: 2019-12-24T02:31:35Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-24T02:45:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-29T00:37:30Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-29T00:37:30Z)
+- Depression screening (procedure) (Date: 2020-12-29T01:26:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-29T01:38:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-12-29T01:58:46Z)
+- Assessment of substance use (procedure) (Date: 2020-12-29T02:18:52Z)
+- Screening for drug abuse (procedure) (Date: 2020-12-29T02:32:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-26T00:37:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-05T00:37:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-29T00:37:30Z: General examination of patient (procedure)
+- 2019-12-24T00:37:30Z: General examination of patient (procedure)
+- 2019-02-22T21:37:30Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2020-12-29T02:53:04Z Total score [DAST-10]: 1.0 {score}
+- 2020-12-29T02:18:52Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 20.0 {score}
+- 2020-12-29T01:58:46Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2020-12-29T01:26:49Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: Yes  it has kept me from medical appointments or from getting my medications nan
+- 2020-12-29T01:26:49Z What address do you live at?: 794 Nienow Quay Unit 96 nan
+- 2020-12-29T01:26:49Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-12-29T01:26:49Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-12-29T01:26:49Z Are you a refugee?: No nan
+- 2020-12-29T01:26:49Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-12-29T01:26:49Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

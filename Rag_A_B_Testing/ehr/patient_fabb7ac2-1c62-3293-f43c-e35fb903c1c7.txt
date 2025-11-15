@@ -1,0 +1,84 @@
+== PATIENT RECORD: Nicholas495 Muller251 (ID: fabb7ac2-1c62-3293-f43c-e35fb903c1c7) ==
+
+== Demographics ==
+Patient ID: fabb7ac2-1c62-3293-f43c-e35fb903c1c7
+Name: Nicholas495 Muller251
+Gender: M
+Birthdate: 1988-08-29
+Address: 334 Bashirian Path
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Only received primary school education (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Headache (finding)
+- Cough (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG Oral Capsule
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Sputum examination (procedure) (Date: 2013-07-11T12:26:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-22T06:26:14Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-22T06:26:14Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-22T07:21:33Z)
+- Depression screening (procedure) (Date: 2013-07-22T07:36:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-22T07:48:12Z)
+- Assessment of substance use (procedure) (Date: 2013-07-22T08:08:54Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-22T08:19:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-04T06:26:14Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-04T06:26:14Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-04T07:23:18Z)
+- Depression screening (procedure) (Date: 2013-11-04T07:59:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-04T08:09:48Z)
+- Sputum examination (procedure) (Date: 2014-09-14T02:29:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-07T06:26:14Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-07T06:26:14Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-07T07:21:24Z)
+- Depression screening (procedure) (Date: 2016-11-07T07:47:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-07T08:01:39Z)
+- Assessment of substance use (procedure) (Date: 2016-11-07T08:23:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-07T08:33:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-11T06:26:14Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-11T07:25:09Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-11T07:47:24Z)
+- Assessment of substance use (procedure) (Date: 2019-11-11T08:12:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-11T08:22:37Z)
+- Face mask (physical object) (Date: 2021-02-05T06:26:14Z)
+- Vasectomy (Date: 2021-07-30T06:26:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-02T06:26:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-30T06:26:14Z: Patient encounter procedure
+- 2021-07-23T06:26:14Z: Consultation for treatment
+- 2021-07-05T06:26:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-05T06:26:14Z: Encounter for symptom (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-29T06:26:14Z QOLS: 1.0 {score}
+- 2021-08-29T06:26:14Z DALY: 0.1 a
+- 2021-08-29T06:26:14Z QALY: 31.9 a
+- 2021-02-05T07:36:16Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Not detected (qualifier value) nan
+- 2021-02-05T06:41:03Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-02-05T06:41:03Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-02-05T06:26:14Z Systolic Blood Pressure: 116.0 mm[Hg]
+- 2021-02-05T06:26:14Z Heart rate: 192.8 /min
+- 2021-02-05T06:26:14Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-02-05T06:26:14Z Body Weight: 71.7 kg

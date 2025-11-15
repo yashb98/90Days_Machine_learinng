@@ -1,0 +1,136 @@
+== PATIENT RECORD: Herbert830 Kessler503 (ID: 442970b2-2f69-0f03-b394-96221a5a3ee6) ==
+
+== Demographics ==
+Patient ID: 442970b2-2f69-0f03-b394-96221a5a3ee6
+Name: Herbert830 Kessler503
+Gender: M
+Birthdate: 1913-06-10
+Address: 367 Dietrich Tunnel
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Served in armed forces (finding)
+- Received certificate of high school equivalency (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Opioid abuse (disorder)
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Coronary Heart Disease
+- Polyp of colon
+- Recurrent rectal polyp
+- Fracture of ankle
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- ferrous sulfate 325 MG Oral Tablet
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Ibuprofen 200 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Digital examination of rectum (Date: 1976-04-13T21:04:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1976-04-13T21:04:17Z)
+- Depression screening (procedure) (Date: 1976-04-13T21:48:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-04-13T22:03:34Z)
+- Digital examination of rectum (Date: 1977-04-13T21:08:14Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-04-19T21:04:17Z)
+- Depression screening (procedure) (Date: 1977-04-19T22:03:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1977-04-19T22:16:00Z)
+- Digital examination of rectum (Date: 1978-04-25T21:04:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-04-25T21:04:17Z)
+- Screening for domestic abuse (procedure) (Date: 1978-04-25T21:46:28Z)
+- Depression screening (procedure) (Date: 1978-04-25T22:14:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1978-04-25T22:26:12Z)
+- Colonoscopy (Date: 1978-06-10T22:29:36Z)
+- Digital examination of rectum (Date: 1979-04-25T21:07:06Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-05-01T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1979-05-01T21:47:26Z)
+- Depression screening (procedure) (Date: 1979-05-01T22:12:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1979-05-01T22:24:44Z)
+- Digital examination of rectum (Date: 1980-05-06T21:04:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1980-05-06T21:04:17Z)
+- Biopsy of prostate (Date: 1980-05-06T21:06:30Z)
+- Prostatectomy (Date: 1980-05-06T21:36:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-03-03T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1981-03-03T21:04:17Z)
+- Depression screening (procedure) (Date: 1981-03-03T21:47:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-03-03T22:01:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-05-12T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1981-05-12T21:56:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1981-05-12T22:16:14Z)
+- Depression screening (procedure) (Date: 1981-05-12T22:39:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-05-12T22:51:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-05-18T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1982-05-18T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1982-05-18T21:51:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-05-24T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1983-05-24T21:49:41Z)
+- Screening for domestic abuse (procedure) (Date: 1983-05-24T22:08:51Z)
+- Depression screening (procedure) (Date: 1983-05-24T22:42:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-05-24T22:57:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1983-05-24T23:25:55Z)
+- Colonoscopy (Date: 1983-06-10T23:11:44Z)
+- Screening for occult blood in feces (procedure) (Date: 1983-06-10T23:47:57Z)
+- Rectal polypectomy (Date: 1983-06-10T23:47:57Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-05-29T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1984-05-29T21:39:16Z)
+- Depression screening (procedure) (Date: 1984-05-29T22:05:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-05-29T22:18:18Z)
+- Colonoscopy (Date: 1984-09-23T23:47:57Z)
+- Rectal polypectomy (Date: 1984-09-24T00:28:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-06-04T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1985-06-04T21:04:17Z)
+- Screening for domestic abuse (procedure) (Date: 1985-06-04T21:55:18Z)
+- Depression screening (procedure) (Date: 1985-06-04T22:35:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-06-04T22:46:44Z)
+- Colonoscopy (Date: 1985-10-14T00:28:40Z)
+- Ankle X-ray (Date: 1985-11-07T21:04:17Z)
+- Bone immobilization (Date: 1985-11-07T21:04:17Z)
+- Bone density scan (procedure) (Date: 1985-11-07T21:32:41Z)
+- Echocardiography (procedure) (Date: 1986-03-04T21:04:17Z)
+- Percutaneous coronary intervention (Date: 1986-03-04T21:04:17Z)
+- Coronary artery bypass grafting (Date: 1986-03-04T21:04:17Z)
+
+== Recent Encounters (Last 5) ==
+- 1986-03-11T21:04:17Z: Death Certification
+- 1986-03-04T21:04:17Z: Myocardial Infarction
+- 1985-12-11T21:32:41Z: Encounter for 'check-up'
+- 1985-11-07T21:04:17Z: Emergency room admission (procedure)
+- 1985-10-14T00:28:40Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 1986-03-11T21:04:17Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1985-11-07T21:32:41Z DXA [T-score] Bone density: -0.4 {T-score}
+- 1985-06-04T23:13:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1985-06-04T22:35:17Z Total score [HARK]: 0.0 {score}
+- 1985-06-04T21:55:18Z What is your current work situation?: Part-time or temporary work nan
+- 1985-06-04T21:55:18Z In the past year  have you been afraid of your partner or ex-partner?: Yes nan
+- 1985-06-04T21:55:18Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1985-06-04T21:55:18Z Are you a refugee?: No nan
+- 1985-06-04T21:55:18Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1985-06-04T21:55:18Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan

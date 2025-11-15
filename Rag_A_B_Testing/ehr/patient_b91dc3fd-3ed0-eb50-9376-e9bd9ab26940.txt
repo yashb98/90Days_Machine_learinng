@@ -1,0 +1,174 @@
+== PATIENT RECORD: Lenard338 Carroll471 (ID: b91dc3fd-3ed0-eb50-9376-e9bd9ab26940) ==
+
+== Demographics ==
+Patient ID: b91dc3fd-3ed0-eb50-9376-e9bd9ab26940
+Name: Lenard338 Carroll471
+Gender: M
+Birthdate: 1964-05-04
+Address: 365 Dickens Landing Suite 59
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Osteoarthritis of knee
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Anemia (disorder)
+- Not in labor force (finding)
+- Chronic congestive heart failure (disorder)
+- Shock (disorder)
+- Sprain of ankle
+- Acute viral pharyngitis (disorder)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-13T00:56:12Z)
+- Screening for domestic abuse (procedure) (Date: 2011-12-13T01:32:46Z)
+- Depression screening (procedure) (Date: 2011-12-13T01:57:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-13T02:09:02Z)
+- Assessment of substance use (procedure) (Date: 2011-12-13T02:38:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-13T02:52:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-18T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-18T00:56:12Z)
+- Peripheral blood smear interpretation (Date: 2012-12-18T00:56:12Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-18T01:55:32Z)
+- Depression screening (procedure) (Date: 2012-12-18T02:19:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-18T02:31:51Z)
+- Assessment of substance use (procedure) (Date: 2012-12-18T03:00:57Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-18T03:14:58Z)
+- Review of systems (procedure) (Date: 2012-12-18T01:26:12Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-18T01:42:56Z)
+- Brief general examination (procedure) (Date: 2012-12-18T01:48:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-24T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-24T00:56:12Z)
+- Screening for domestic abuse (procedure) (Date: 2013-12-24T01:50:13Z)
+- Depression screening (procedure) (Date: 2013-12-24T02:34:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-24T02:45:55Z)
+- Assessment of substance use (procedure) (Date: 2013-12-24T03:10:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-24T03:21:26Z)
+- Colonoscopy (Date: 2014-05-06T00:56:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-30T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-30T00:56:12Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-30T01:36:43Z)
+- Depression screening (procedure) (Date: 2014-12-30T02:00:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-30T02:12:39Z)
+- Electrocardiographic procedure (Date: 2015-05-21T00:56:12Z)
+- Cardiovascular stress testing (procedure) (Date: 2015-05-21T01:04:33Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2015-05-21T02:00:41Z)
+- Echocardiography (procedure) (Date: 2015-06-04T02:20:13Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-04T02:20:13Z)
+- Oxygen administration by mask (procedure) (Date: 2015-12-01T02:20:13Z)
+- Placing subject in prone position (procedure) (Date: 2015-12-01T02:20:13Z)
+- Plain chest X-ray (procedure) (Date: 2015-12-01T02:20:13Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-01T02:20:13Z)
+- Electrocardiographic procedure (Date: 2015-12-01T02:20:13Z)
+- Oxygen administration by mask (procedure) (Date: 2015-12-01T02:28:10Z)
+- Placing subject in prone position (procedure) (Date: 2015-12-01T02:28:10Z)
+- Heart failure education (procedure) (Date: 2015-12-02T02:28:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-05T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-05T00:56:12Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-05T01:34:58Z)
+- Depression screening (procedure) (Date: 2016-01-05T02:02:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-05T02:15:56Z)
+- Assessment of substance use (procedure) (Date: 2016-01-05T02:44:40Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-05T02:54:49Z)
+- Echocardiography (procedure) (Date: 2016-05-30T03:27:44Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-30T03:27:44Z)
+- Oxygen administration by mask (procedure) (Date: 2016-11-26T03:27:44Z)
+- Placing subject in prone position (procedure) (Date: 2016-11-26T03:27:44Z)
+- Plain chest X-ray (procedure) (Date: 2016-11-26T03:27:44Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-26T03:27:44Z)
+- Electrocardiographic procedure (Date: 2016-11-26T03:27:44Z)
+- Oxygen administration by mask (procedure) (Date: 2016-11-26T03:36:21Z)
+- Placing subject in prone position (procedure) (Date: 2016-11-26T03:36:21Z)
+- Heart failure education (procedure) (Date: 2016-11-27T03:36:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-10T00:56:12Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-10T01:33:44Z)
+- Assessment of substance use (procedure) (Date: 2017-01-10T01:59:25Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-10T02:11:11Z)
+- Echocardiography (procedure) (Date: 2017-02-25T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-25T04:10:56Z)
+- Echocardiography (procedure) (Date: 2017-08-24T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-24T04:10:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-16T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-16T00:56:12Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-16T01:29:21Z)
+- Screening for domestic abuse (procedure) (Date: 2018-01-16T01:50:06Z)
+- Echocardiography (procedure) (Date: 2018-02-20T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-20T04:10:56Z)
+- Echocardiography (procedure) (Date: 2018-08-19T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-19T04:10:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-22T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-22T00:56:12Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-22T01:54:15Z)
+- Depression screening (procedure) (Date: 2019-01-22T02:34:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-22T02:46:02Z)
+- Assessment of substance use (procedure) (Date: 2019-01-22T03:15:18Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-22T03:28:17Z)
+- Echocardiography (procedure) (Date: 2019-02-15T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-15T04:10:56Z)
+- Colonoscopy (Date: 2019-05-06T01:36:50Z)
+- Echocardiography (procedure) (Date: 2019-08-14T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-14T04:10:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-28T00:56:12Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-28T00:56:12Z)
+- Screening for domestic abuse (procedure) (Date: 2020-01-28T01:32:56Z)
+- Depression screening (procedure) (Date: 2020-01-28T02:00:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-28T02:11:28Z)
+- Assessment of substance use (procedure) (Date: 2020-01-28T02:37:25Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-28T02:51:23Z)
+- Echocardiography (procedure) (Date: 2020-02-10T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-10T04:10:56Z)
+- Echocardiography (procedure) (Date: 2020-08-08T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-08T04:10:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-02T00:56:12Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-02T01:55:15Z)
+- Assessment of substance use (procedure) (Date: 2021-02-02T02:24:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-02-02T02:37:50Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-04T04:10:56Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-04T04:10:56Z)
+- Plain chest X-ray (procedure) (Date: 2021-02-04T04:10:56Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-04T04:10:56Z)
+- Electrocardiographic procedure (Date: 2021-02-04T04:10:56Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-04T04:19:40Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-04T04:19:40Z)
+- Heart failure education (procedure) (Date: 2021-02-05T04:19:40Z)
+- Echocardiography (procedure) (Date: 2021-08-04T05:17:26Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-04T05:17:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-04T05:17:26Z: Encounter for problem
+- 2021-05-18T00:56:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-20T00:56:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-04T04:10:56Z: Admission to intensive care unit (procedure)
+- 2021-02-04T04:10:56Z: Encounter for Problem
+
+== Recent Observations (Last 10) ==
+- 2021-08-04T05:17:26Z Potassium: 3.8 mmol/L
+- 2021-08-04T05:17:26Z Left ventricular Ejection fraction: 98.4 %
+- 2021-08-04T05:17:26Z Glucose: 86.6 mg/dL
+- 2021-08-04T05:17:26Z Urea Nitrogen: 7.8 mg/dL
+- 2021-08-04T05:17:26Z Creatinine: 1.2 mg/dL
+- 2021-08-04T05:17:26Z Calcium: 9.6 mg/dL
+- 2021-08-04T05:17:26Z Sodium: 141.3 mmol/L
+- 2021-08-04T05:17:26Z Chloride: 106.2 mmol/L
+- 2021-08-04T05:17:26Z Carbon Dioxide: 20.4 mmol/L
+- 2021-05-05T00:56:12Z QALY: 55.0 a

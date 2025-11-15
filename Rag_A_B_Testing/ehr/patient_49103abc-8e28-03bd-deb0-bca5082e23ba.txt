@@ -1,0 +1,204 @@
+== PATIENT RECORD: Moon129 Ledner144 (ID: 49103abc-8e28-03bd-deb0-bca5082e23ba) ==
+
+== Demographics ==
+Patient ID: 49103abc-8e28-03bd-deb0-bca5082e23ba
+Name: Moon129 Ledner144
+Gender: F
+Birthdate: 1979-11-15
+Address: 973 Nicolas Heights
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Laceration of foot
+- Normal pregnancy
+- Body mass index 30+ - obesity (finding)
+- Anemia (disorder)
+
+== Current Medications ==
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Levora 0.15/30 28 Day Pack
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Seasonique 91 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-01-30T08:18:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-04T08:18:50Z)
+- Depression screening (procedure) (Date: 2014-01-30T09:07:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-30T09:20:55Z)
+- Assessment of substance use (procedure) (Date: 2014-01-30T09:45:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-30T09:57:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-07T09:03:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-10T09:58:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-13T10:57:51Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-16T11:55:28Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-19T12:53:37Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-22T13:40:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-25T14:39:32Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-28T15:37:26Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-03T16:36:34Z)
+- Measurement of respiratory function (procedure) (Date: 2015-01-12T20:18:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-05T08:18:50Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-05T08:59:59Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-05T09:15:11Z)
+- Depression screening (procedure) (Date: 2015-02-05T09:51:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-05T10:04:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-11T08:18:50Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-11T08:18:50Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-11T08:58:46Z)
+- Assessment of substance use (procedure) (Date: 2016-02-11T09:23:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-11T09:33:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-16T08:18:50Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-16T08:53:36Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-16T09:18:57Z)
+- Assessment of substance use (procedure) (Date: 2017-02-16T10:00:07Z)
+- Screening for drug abuse (procedure) (Date: 2017-02-16T10:13:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-22T08:18:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-22T08:18:50Z)
+- Screening for domestic abuse (procedure) (Date: 2018-02-22T08:56:57Z)
+- Depression screening (procedure) (Date: 2018-02-22T09:40:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-22T09:51:52Z)
+- Assessment of substance use (procedure) (Date: 2018-02-22T10:12:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-02-22T10:22:56Z)
+- Suture open wound (Date: 2018-03-30T08:36:58Z)
+- Standard pregnancy test (Date: 2018-09-20T08:18:50Z)
+- Ultrasound scan for fetal viability (Date: 2018-09-20T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2018-09-20T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2018-09-20T08:18:50Z)
+- Blood typing  RH typing (Date: 2018-09-20T08:18:50Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-09-20T08:18:50Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2018-09-20T08:18:50Z)
+- Human immunodeficiency virus antigen test (Date: 2018-09-20T08:18:50Z)
+- Chlamydia antigen test (Date: 2018-09-20T08:18:50Z)
+- Gonorrhea infection test (Date: 2018-09-20T08:18:50Z)
+- Syphilis infection test (Date: 2018-09-20T08:18:50Z)
+- Urine culture (Date: 2018-09-20T08:18:50Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2018-09-20T08:18:50Z)
+- Urine screening test for diabetes (Date: 2018-09-20T08:18:50Z)
+- Hepatitis C antibody test (Date: 2018-09-20T08:18:50Z)
+- Rubella screening (Date: 2018-09-20T08:18:50Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2018-09-20T08:18:50Z)
+- Skin test for tuberculosis (Date: 2018-09-20T08:18:50Z)
+- Urine protein test (Date: 2018-09-20T08:18:50Z)
+- Physical examination of mother (Date: 2018-09-20T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2018-10-18T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2018-10-18T08:18:50Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2018-10-18T08:18:50Z)
+- Fetal anatomy study (Date: 2018-11-15T08:18:50Z)
+- Alpha-fetoprotein test (Date: 2018-11-15T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2018-11-15T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2018-11-15T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2018-12-13T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2018-12-13T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2019-01-10T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2019-01-10T08:18:50Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-02-07T08:18:50Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-02-07T08:18:50Z)
+- Urine screening for glucose (Date: 2019-02-07T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2019-02-07T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2019-02-07T08:18:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-28T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2019-03-07T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2019-03-07T08:18:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-28T09:02:03Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-04-04T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2019-04-04T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2019-04-04T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2019-04-18T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2019-04-18T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2019-04-25T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2019-04-25T08:18:50Z)
+- Episiotomy (Date: 2019-05-02T08:18:50Z)
+- Childbirth (Date: 2019-05-02T08:18:50Z)
+- Physical examination following birth (Date: 2019-06-13T08:18:50Z)
+- Depression screening (Date: 2019-06-13T08:18:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-05T08:18:50Z)
+- Standard pregnancy test (Date: 2020-04-23T08:18:50Z)
+- Ultrasound scan for fetal viability (Date: 2020-04-23T08:18:50Z)
+- Evaluation of uterine fundal height (Date: 2020-04-23T08:18:50Z)
+- Auscultation of the fetal heart (Date: 2020-04-23T08:18:50Z)
+- Blood typing  RH typing (Date: 2020-04-23T08:18:50Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-04-23T08:18:50Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2020-04-23T08:18:50Z)
+- Human immunodeficiency virus antigen test (Date: 2020-04-23T08:18:50Z)
+- Chlamydia antigen test (Date: 2020-04-23T08:18:50Z)
+- Gonorrhea infection test (Date: 2020-04-23T08:18:50Z)
+- Syphilis infection test (Date: 2020-04-23T08:18:50Z)
+- Urine culture (Date: 2020-04-23T08:18:50Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2020-04-23T08:18:50Z)
+- Urine screening test for diabetes (Date: 2020-04-23T08:18:50Z)
+- Hepatitis C antibody test (Date: 2020-04-23T08:18:50Z)
+- Rubella screening (Date: 2020-04-23T08:18:50Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2020-04-23T08:18:50Z)
+- Skin test for tuberculosis (Date: 2020-04-23T08:18:50Z)
+- Urine protein test (Date: 2020-04-23T08:18:50Z)
+- Physical examination of mother (Date: 2020-04-23T08:18:50Z)
+- Peripheral blood smear interpretation (Date: 2020-04-23T08:18:50Z)
+- Review of systems (procedure) (Date: 2020-04-23T08:48:50Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-23T09:01:03Z)
+- Brief general examination (procedure) (Date: 2020-04-23T09:16:23Z)
+- Evaluation of uterine fundal height (Date: 2020-05-21T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-05-21T09:32:08Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2020-05-21T09:32:08Z)
+- Fetal anatomy study (Date: 2020-06-18T09:32:08Z)
+- Alpha-fetoprotein test (Date: 2020-06-18T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-06-18T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-06-18T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-07-16T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-07-16T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-08-13T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-08-13T09:32:08Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-09-10T09:32:08Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2020-09-10T09:32:08Z)
+- Urine screening for glucose (Date: 2020-09-10T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-09-10T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-09-10T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-10-08T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-10-08T09:32:08Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2020-11-05T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-11-05T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-11-05T09:32:08Z)
+- Evaluation of uterine fundal height (Date: 2020-11-19T09:32:08Z)
+- Auscultation of the fetal heart (Date: 2020-11-19T09:32:08Z)
+- Medical induction of labor (Date: 2020-11-26T09:32:08Z)
+- Childbirth (Date: 2020-11-26T09:32:08Z)
+- Physical examination following birth (Date: 2021-01-07T09:32:08Z)
+- Depression screening (Date: 2021-01-07T09:32:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-11T08:18:50Z)
+- Assessment of substance use (procedure) (Date: 2021-03-11T08:53:25Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-11T09:04:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T08:18:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-19T08:18:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-11T08:18:50Z: General examination of patient (procedure)
+- 2021-01-14T08:18:50Z: Consultation for treatment
+- 2021-01-07T09:32:08Z: Postnatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T08:18:50Z QOLS: 1.0 {score}
+- 2021-11-15T08:18:50Z DALY: 0.0 a
+- 2021-11-15T08:18:50Z QALY: 41.0 a
+- 2021-03-11T09:30:54Z Total score [DAST-10]: 1.0 {score}
+- 2021-03-11T08:53:25Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-03-11T08:53:25Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week nan
+- 2021-03-11T08:53:25Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-03-11T08:53:25Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-11T08:53:25Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-11T08:53:25Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 43490 /a

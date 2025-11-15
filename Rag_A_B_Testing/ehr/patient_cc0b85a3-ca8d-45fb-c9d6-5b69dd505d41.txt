@@ -1,0 +1,104 @@
+== PATIENT RECORD: Ozell178 Tromp100 (ID: cc0b85a3-ca8d-45fb-c9d6-5b69dd505d41) ==
+
+== Demographics ==
+Patient ID: cc0b85a3-ca8d-45fb-c9d6-5b69dd505d41
+Name: Ozell178 Tromp100
+Gender: F
+Birthdate: 1957-01-11
+Address: 429 Lowe Corner Suite 75
+Marital Status: M
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Osteoarthritis of knee
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Anemia (disorder)
+- Social isolation (finding)
+- Hyperlipidemia
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Sinusitis (disorder)
+- Concussion with no loss of consciousness
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-10T15:32:27Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-10T15:32:27Z)
+- Depression screening (procedure) (Date: 2012-02-10T16:05:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-10T16:17:04Z)
+- Assessment of substance use (procedure) (Date: 2012-02-10T16:40:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-02-10T16:51:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-15T15:32:27Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-15T16:28:12Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-15T16:48:02Z)
+- Depression screening (procedure) (Date: 2013-02-15T17:25:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-15T17:38:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-21T15:32:27Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-21T16:31:23Z)
+- Depression screening (procedure) (Date: 2014-02-21T17:03:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-21T17:14:52Z)
+- Assessment of substance use (procedure) (Date: 2014-02-21T17:37:46Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-21T17:48:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-27T15:32:27Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-27T16:09:19Z)
+- Assessment of substance use (procedure) (Date: 2015-02-27T16:43:01Z)
+- Screening for drug abuse (procedure) (Date: 2015-02-27T16:57:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-04T15:32:27Z)
+- Depression screening (procedure) (Date: 2016-03-04T16:32:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-04T16:44:02Z)
+- Assessment of substance use (procedure) (Date: 2016-03-04T17:08:34Z)
+- Screening for drug abuse (procedure) (Date: 2016-03-04T17:20:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-10T15:32:27Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-10T15:32:27Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-10T16:23:39Z)
+- Depression screening (procedure) (Date: 2017-03-10T16:46:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-10T16:59:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-03-10T17:21:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-16T15:32:27Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-16T15:32:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-22T15:32:27Z)
+- Depression screening (procedure) (Date: 2019-03-22T16:28:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-22T16:40:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-27T15:32:27Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-27T15:32:27Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-27T16:31:18Z)
+- Depression screening (procedure) (Date: 2020-03-27T16:49:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-27T17:01:27Z)
+- Assessment of substance use (procedure) (Date: 2020-03-27T17:21:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-27T17:32:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-02T15:32:27Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-02T15:32:27Z)
+- Assessment of substance use (procedure) (Date: 2021-04-02T16:07:22Z)
+- Screening for drug abuse (procedure) (Date: 2021-04-02T16:20:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-30T15:32:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-02T15:32:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-02T15:32:27Z: General examination of patient (procedure)
+- 2021-02-21T15:32:27Z: Follow-up encounter
+- 2020-10-15T15:47:50Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-04-02T16:45:53Z Total score [DAST-10]: 0.0 {score}
+- 2021-04-02T16:07:22Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2021-04-02T16:07:22Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 63504 /a
+- 2021-04-02T16:07:22Z Are you worried about losing your housing?: Yes nan
+- 2021-04-02T16:07:22Z What address do you live at?: 429 Lowe Corner Suite 75 nan
+- 2021-04-02T16:07:22Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-04-02T16:07:22Z What is your current work situation?: Full-time work nan
+- 2021-04-02T16:07:22Z What is your main insurance?: Private insurance nan
+- 2021-04-02T16:07:22Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-04-02T16:07:22Z How many family members  including yourself  do you currently live with?: 3.0 {#}

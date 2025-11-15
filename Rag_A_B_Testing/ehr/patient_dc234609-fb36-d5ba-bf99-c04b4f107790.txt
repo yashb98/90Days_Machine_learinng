@@ -1,0 +1,40 @@
+== PATIENT RECORD: Otto672 Padberg411 (ID: dc234609-fb36-d5ba-bf99-c04b4f107790) ==
+
+== Demographics ==
+Patient ID: dc234609-fb36-d5ba-bf99-c04b4f107790
+Name: Otto672 Padberg411
+Gender: M
+Birthdate: 2021-03-13
+Address: 520 Tromp Viaduct
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-04-18T00:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-20T00:45:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-22T00:45:19Z: Well child visit (procedure)
+- 2021-06-20T00:45:19Z: Well child visit (procedure)
+- 2021-04-18T00:45:19Z: Well child visit (procedure)
+- 2021-03-14T00:45:19Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-22T00:45:19Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-22T00:45:19Z Respiratory rate: 14.0 /min
+- 2021-08-22T00:45:19Z Heart rate: 71.0 /min
+- 2021-08-22T00:45:19Z Systolic Blood Pressure: 112.0 mm[Hg]
+- 2021-08-22T00:45:19Z Diastolic Blood Pressure: 88.0 mm[Hg]
+- 2021-08-22T00:45:19Z Head Occipital-frontal circumference: 45.5 cm
+- 2021-08-22T00:45:19Z Weight-for-length Per age and sex: 66.5 %
+- 2021-08-22T00:45:19Z Body Weight: 9.1 kg
+- 2021-08-22T00:45:19Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-08-22T00:45:19Z Body Height: 70.5 cm

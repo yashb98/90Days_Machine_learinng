@@ -1,0 +1,65 @@
+== PATIENT RECORD: Vicente970 Gleason633 (ID: 9d02555e-0c14-7cec-d946-ec84ca30bce5) ==
+
+== Demographics ==
+Patient ID: 9d02555e-0c14-7cec-d946-ec84ca30bce5
+Name: Vicente970 Gleason633
+Gender: M
+Birthdate: 2005-12-27
+Address: 475 Kutch Plaza Suite 22
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Second degree burn
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-13T06:32:44Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-24T06:32:44Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-30T06:32:44Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-10T06:32:44Z)
+- Depression screening (procedure) (Date: 2018-01-16T06:32:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-01-16T06:45:15Z)
+- Assessment of substance use (procedure) (Date: 2018-01-16T07:11:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-01-16T07:22:39Z)
+- Anticipatory guidance (procedure) (Date: 2018-01-16T07:40:23Z)
+- Depression screening (procedure) (Date: 2019-01-22T06:32:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-22T06:43:43Z)
+- Assessment of substance use (procedure) (Date: 2019-01-22T07:07:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-01-22T07:19:46Z)
+- Anticipatory guidance (procedure) (Date: 2019-01-22T07:34:09Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-28T06:32:44Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-28T06:32:44Z)
+- Depression screening (procedure) (Date: 2020-01-28T06:47:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-01-28T06:59:46Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-02T06:32:44Z)
+- Assessment of substance use (procedure) (Date: 2021-02-02T06:52:11Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-02-02T07:06:45Z)
+- Anticipatory guidance (procedure) (Date: 2021-02-02T07:36:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-22T06:32:44Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-25T06:32:44Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-02T06:32:44Z: Well child visit (procedure)
+- 2020-01-28T06:32:44Z: Well child visit (procedure)
+- 2019-01-22T06:32:44Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-02T06:52:11Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-02-02T06:32:44Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-02-02T06:32:44Z Body Height: 163.5 cm
+- 2021-02-02T06:32:44Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-02-02T06:32:44Z Body Weight: 58.3 kg
+- 2021-02-02T06:32:44Z Body Mass Index: 21.8 kg/m2
+- 2021-02-02T06:32:44Z Body mass index (BMI) [Percentile] Per age and gender: 72.9 %
+- 2021-02-02T06:32:44Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-02-02T06:32:44Z Systolic Blood Pressure: 134.0 mm[Hg]
+- 2021-02-02T06:32:44Z Heart rate: 78.0 /min

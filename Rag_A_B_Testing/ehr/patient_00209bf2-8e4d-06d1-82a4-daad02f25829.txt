@@ -1,0 +1,145 @@
+== PATIENT RECORD: Donnetta255 Beer512 (ID: 00209bf2-8e4d-06d1-82a4-daad02f25829) ==
+
+== Demographics ==
+Patient ID: 00209bf2-8e4d-06d1-82a4-daad02f25829
+Name: Donnetta255 Beer512
+Gender: F
+Birthdate: 1943-01-05
+Address: 557 Herzog Ferry Unit 77
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Has a criminal record (finding)
+- Body mass index 30+ - obesity (finding)
+- Diabetes
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Osteoporosis (disorder)
+- Stress (finding)
+- Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+- Social isolation (finding)
+- Homeless (finding)
+- Chronic low back pain (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- ferrous sulfate 325 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-20T05:34:46Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-20T06:30:30Z)
+- Depression screening (procedure) (Date: 2011-12-20T06:47:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-20T06:59:22Z)
+- Assessment of substance use (procedure) (Date: 2011-12-20T07:21:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-20T07:32:42Z)
+- Information gathering (procedure) (Date: 2012-03-18T05:34:46Z)
+- Information gathering (procedure) (Date: 2012-05-17T05:34:46Z)
+- Information gathering (procedure) (Date: 2012-06-16T05:34:46Z)
+- Information gathering (procedure) (Date: 2012-08-15T05:34:46Z)
+- Information gathering (procedure) (Date: 2012-09-14T05:34:46Z)
+- Information gathering (procedure) (Date: 2012-10-14T05:34:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-25T05:34:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-12-25T06:34:15Z)
+- Screening for domestic abuse (procedure) (Date: 2012-12-25T07:03:03Z)
+- Depression screening (procedure) (Date: 2012-12-25T07:47:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-25T07:59:08Z)
+- Assessment of substance use (procedure) (Date: 2012-12-25T08:27:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-12-25T08:41:25Z)
+- Information gathering (procedure) (Date: 2013-01-12T05:34:46Z)
+- Information gathering (procedure) (Date: 2013-02-11T05:34:46Z)
+- Information gathering (procedure) (Date: 2013-05-12T05:34:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-31T05:34:46Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-31T05:34:46Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-31T06:22:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-12-31T06:45:17Z)
+- Screening for domestic abuse (procedure) (Date: 2013-12-31T07:13:19Z)
+- Depression screening (procedure) (Date: 2013-12-31T07:55:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-31T08:09:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-12-31T08:38:05Z)
+- Assessment of substance use (procedure) (Date: 2013-12-31T09:02:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-31T09:13:29Z)
+- Colonoscopy (Date: 2014-01-02T08:44:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-06T05:34:46Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-06T06:34:04Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-06T07:03:37Z)
+- Depression screening (procedure) (Date: 2015-01-06T07:43:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-06T07:56:05Z)
+- Assessment of substance use (procedure) (Date: 2015-01-06T08:18:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-06T08:32:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-12T05:34:46Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-12T06:14:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-01-12T06:39:48Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-12T07:05:19Z)
+- Depression screening (procedure) (Date: 2016-01-12T07:42:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-12T07:55:49Z)
+- Assessment of substance use (procedure) (Date: 2016-01-12T08:23:05Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-12T08:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-17T05:34:46Z)
+- Assessment of substance use (procedure) (Date: 2017-01-17T06:33:31Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-17T06:45:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-23T05:34:46Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-23T05:34:46Z)
+- Depression screening (procedure) (Date: 2018-01-23T06:25:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-23T06:37:48Z)
+- Assessment of substance use (procedure) (Date: 2018-01-23T07:03:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-23T07:18:11Z)
+- Colonoscopy (Date: 2019-01-02T09:28:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-29T05:34:46Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-29T05:34:46Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-29T06:34:19Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-29T07:03:36Z)
+- Depression screening (procedure) (Date: 2019-01-29T07:29:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-29T07:44:02Z)
+- Assessment of substance use (procedure) (Date: 2019-01-29T08:07:01Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-29T08:21:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-04T05:34:46Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-04T05:34:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-02-04T06:13:29Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-04T06:39:06Z)
+- Depression screening (procedure) (Date: 2020-02-04T07:22:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-04T07:35:40Z)
+- Assessment of substance use (procedure) (Date: 2020-02-04T08:00:42Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-04T08:14:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-09T05:34:46Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-09T05:34:46Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-09T06:24:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-02-09T06:42:46Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-09T07:11:02Z)
+- Depression screening (procedure) (Date: 2021-02-09T07:54:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-09T08:07:06Z)
+- Assessment of substance use (procedure) (Date: 2021-02-09T08:35:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-02-09T08:47:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-06T05:34:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-16T05:34:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-09T05:34:46Z: General examination of patient (procedure)
+- 2020-02-04T05:34:46Z: General examination of patient (procedure)
+- 2019-01-29T05:34:46Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-09T09:13:52Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-02-09T08:35:35Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-02-09T07:54:38Z Total score [HARK]: 0.0 {score}
+- 2021-02-09T07:11:02Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-02-09T07:11:02Z Fall risk total [Morse Fall Scale]: 36.0 {#}
+- 2021-02-09T06:42:46Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 5.0 {score}
+- 2021-02-09T06:24:40Z What is your main insurance?: Medicare nan
+- 2021-02-09T06:24:40Z What is your current work situation?: Full-time work nan
+- 2021-02-09T06:24:40Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-02-09T06:24:40Z What address do you live at?: 557 Herzog Ferry Unit 77 nan

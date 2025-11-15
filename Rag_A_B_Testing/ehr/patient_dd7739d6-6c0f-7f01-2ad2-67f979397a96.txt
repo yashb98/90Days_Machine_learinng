@@ -1,0 +1,66 @@
+== PATIENT RECORD: Rich940 Beatty507 (ID: dd7739d6-6c0f-7f01-2ad2-67f979397a96) ==
+
+== Demographics ==
+Patient ID: dd7739d6-6c0f-7f01-2ad2-67f979397a96
+Name: Rich940 Beatty507
+Gender: M
+Birthdate: 2005-06-09
+Address: 171 Boyle Gardens Apt 67
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-05-31T17:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-06T17:05:34Z)
+- X-ray or wrist (Date: 2014-03-23T17:05:34Z)
+- Bone immobilization (Date: 2014-03-23T17:05:34Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-06-12T17:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-12T17:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-18T17:05:34Z)
+- Depression screening (procedure) (Date: 2017-06-29T17:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-29T17:05:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-29T17:19:25Z)
+- Assessment of substance use (procedure) (Date: 2017-06-29T17:40:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-06-29T17:51:11Z)
+- Anticipatory guidance (procedure) (Date: 2017-06-29T18:15:52Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-05T17:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-05T17:05:34Z)
+- Depression screening (procedure) (Date: 2018-07-05T17:34:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-07-05T17:46:34Z)
+- Assessment of substance use (procedure) (Date: 2018-07-05T18:15:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-07-05T18:29:21Z)
+- Anticipatory guidance (procedure) (Date: 2018-07-05T18:51:20Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-11T17:05:34Z)
+- Assessment of substance use (procedure) (Date: 2020-07-16T17:05:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-07-16T17:16:35Z)
+- Anticipatory guidance (procedure) (Date: 2020-07-16T17:39:36Z)
+- Depression screening (procedure) (Date: 2021-07-22T17:05:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-07-22T17:17:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-22T17:05:34Z: Well child visit (procedure)
+- 2021-06-10T17:05:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-20T17:05:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-16T17:05:34Z: Well child visit (procedure)
+- 2019-07-11T17:05:34Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-22T17:40:00Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-07-22T17:05:34Z Body Height: 166.8 cm
+- 2021-07-22T17:05:34Z Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- 2021-07-22T17:05:34Z Hemoglobin [Mass/volume] in Blood: 12.8 g/dL
+- 2021-07-22T17:05:34Z Hematocrit [Volume Fraction] of Blood by Automated count: 36.9 %
+- 2021-07-22T17:05:34Z MCV [Entitic volume] by Automated count: 88.8 fL
+- 2021-07-22T17:05:34Z MCH [Entitic mass] by Automated count: 28.7 pg
+- 2021-07-22T17:05:34Z MCHC [Mass/volume] by Automated count: 35.6 g/dL
+- 2021-07-22T17:05:34Z Erythrocyte distribution width [Entitic volume] by Automated count: 39.9 fL
+- 2021-07-22T17:05:34Z Platelets [#/volume] in Blood by Automated count: 273.8 10*3/uL

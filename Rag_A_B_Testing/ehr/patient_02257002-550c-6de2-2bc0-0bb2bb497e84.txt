@@ -1,0 +1,160 @@
+== PATIENT RECORD: Vito638 Toy286 (ID: 02257002-550c-6de2-2bc0-0bb2bb497e84) ==
+
+== Demographics ==
+Patient ID: 02257002-550c-6de2-2bc0-0bb2bb497e84
+Name: Vito638 Toy286
+Gender: M
+Birthdate: 1948-10-01
+Address: 853 Ritchie Port Unit 65
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Has a criminal record (finding)
+- Prediabetes
+- Anemia (disorder)
+- Localized  primary osteoarthritis of the hand
+- Sepsis (disorder)
+- Hyperlipidemia
+- Social isolation (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Severe anxiety (panic) (finding
+- Part-time employment (finding)
+- Sputum finding (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-16T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-16T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-16T14:56:18Z)
+- Depression screening (procedure) (Date: 2011-12-16T15:22:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-16T15:37:53Z)
+- Assessment of substance use (procedure) (Date: 2011-12-16T15:58:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-16T16:09:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-21T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-21T14:53:21Z)
+- Depression screening (procedure) (Date: 2012-12-21T15:08:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-21T15:22:12Z)
+- Assessment of substance use (procedure) (Date: 2012-12-21T15:49:36Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-21T16:00:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-27T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-27T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-27T15:03:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-12-27T15:33:15Z)
+- Depression screening (procedure) (Date: 2013-12-27T15:52:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-27T16:05:48Z)
+- Assessment of substance use (procedure) (Date: 2013-12-27T16:31:37Z)
+- Screening for drug abuse (procedure) (Date: 2013-12-27T16:46:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-02T14:20:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-01-02T15:07:41Z)
+- Depression screening (procedure) (Date: 2015-01-02T15:33:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-02T15:44:58Z)
+- Sputum examination (procedure) (Date: 2015-04-03T00:45:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-08T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-08T15:00:11Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-08T15:23:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-13T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-13T14:53:40Z)
+- Depression screening (procedure) (Date: 2017-01-13T15:19:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-13T15:33:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-19T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-19T14:20:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-01-19T14:59:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-25T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-25T14:59:56Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-01-25T15:22:12Z)
+- Depression screening (procedure) (Date: 2019-01-25T15:49:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-25T16:02:08Z)
+- Assessment of substance use (procedure) (Date: 2019-01-25T16:24:50Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-25T16:38:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-31T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-31T15:01:04Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-01-31T15:28:08Z)
+- Depression screening (procedure) (Date: 2020-01-31T15:53:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-31T16:06:48Z)
+- Assessment of substance use (procedure) (Date: 2020-01-31T16:35:18Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-31T16:46:58Z)
+- Face mask (physical object) (Date: 2020-11-12T14:20:29Z)
+- Plain chest X-ray (procedure) (Date: 2020-11-12T15:35:25Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-12T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-12T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-13T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-13T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-14T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-14T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-15T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-15T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-16T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-16T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-17T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-17T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-18T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-18T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-19T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-19T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-20T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-20T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-21T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-21T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-22T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-22T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-23T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-23T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-24T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-24T16:17:54Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-25T16:17:54Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-25T16:17:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-05T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-05T15:11:01Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-05T15:29:49Z)
+- Depression screening (procedure) (Date: 2021-02-05T16:07:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-05T16:21:19Z)
+- Assessment of substance use (procedure) (Date: 2021-02-05T16:43:52Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-05T16:56:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T14:20:29Z: Follow-up encounter
+- 2021-09-10T14:20:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-13T14:20:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-05T14:20:29Z: General examination of patient (procedure)
+- 2020-11-12T15:35:25Z: Hospital admission for isolation (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T14:20:29Z Sodium: 141.1 mmol/L
+- 2021-11-09T14:20:29Z Calcium: 10.0 mg/dL
+- 2021-11-09T14:20:29Z Potassium: 4.0 mmol/L
+- 2021-11-09T14:20:29Z Chloride: 101.2 mmol/L
+- 2021-11-09T14:20:29Z Carbon Dioxide: 22.9 mmol/L
+- 2021-11-09T14:20:29Z Glomerular filtration rate/1.73 sq M.predicted: 79.9 mL/min
+- 2021-11-09T14:20:29Z Protein [Mass/volume] in Serum or Plasma: 73.2 g/dL
+- 2021-11-09T14:20:29Z Albumin [Mass/volume] in Serum or Plasma: 3.9 g/dL
+- 2021-11-09T14:20:29Z Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- 2021-11-09T14:20:29Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.3 mg/dL

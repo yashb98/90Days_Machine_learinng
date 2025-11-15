@@ -1,0 +1,88 @@
+== PATIENT RECORD: Asuncion264 Heidenreich818 (ID: 36a83b79-3f28-57dc-b0cc-6dccdcb2c2b0) ==
+
+== Demographics ==
+Patient ID: 36a83b79-3f28-57dc-b0cc-6dccdcb2c2b0
+Name: Asuncion264 Heidenreich818
+Gender: F
+Birthdate: 2001-01-07
+Address: 287 Halvorson Ranch Unit 86
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Yaz 28 Day Pack
+- Naproxen sodium 220 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-22T05:14:34Z)
+- Assessment of substance use (procedure) (Date: 2013-01-27T05:14:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-01-27T05:28:40Z)
+- Anticipatory guidance (procedure) (Date: 2013-01-27T05:45:52Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-02T05:14:34Z)
+- Depression screening (procedure) (Date: 2014-02-02T05:40:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-02-02T05:54:13Z)
+- Depression screening (procedure) (Date: 2015-02-08T05:14:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-02-08T05:28:33Z)
+- Assessment of substance use (procedure) (Date: 2015-02-08T05:49:44Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-02-08T06:04:10Z)
+- Anticipatory guidance (procedure) (Date: 2015-02-08T06:25:36Z)
+- Depression screening (procedure) (Date: 2016-02-14T05:14:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-02-14T05:26:58Z)
+- Assessment of substance use (procedure) (Date: 2016-02-14T05:47:44Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-02-14T05:58:10Z)
+- Anticipatory guidance (procedure) (Date: 2016-02-14T06:16:21Z)
+- Depression screening (procedure) (Date: 2017-02-19T05:14:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-19T05:28:44Z)
+- Assessment of substance use (procedure) (Date: 2018-02-25T05:14:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-02-25T05:26:05Z)
+- Anticipatory guidance (procedure) (Date: 2018-02-25T05:42:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-03T05:14:34Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-03T05:50:56Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-03T06:10:35Z)
+- Depression screening (procedure) (Date: 2019-03-03T06:39:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-03T06:53:40Z)
+- Assessment of substance use (procedure) (Date: 2019-03-03T07:20:20Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-03T07:30:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-08T05:14:34Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-08T05:14:34Z)
+- Depression screening (procedure) (Date: 2020-03-08T06:04:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-08T06:18:26Z)
+- Assessment of substance use (procedure) (Date: 2020-03-08T06:43:13Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-08T06:54:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-14T05:14:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-14T05:14:34Z)
+- Depression screening (procedure) (Date: 2021-03-14T05:55:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-14T06:07:53Z)
+- Assessment of substance use (procedure) (Date: 2021-03-14T06:28:27Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-14T06:41:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-14T05:14:34Z: General examination of patient (procedure)
+- 2020-03-08T05:14:34Z: General examination of patient (procedure)
+- 2019-07-31T05:14:34Z: Hypertension follow-up encounter
+- 2019-06-01T05:14:34Z: Hypertension follow-up encounter
+- 2019-04-02T05:14:34Z: Hypertension follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-03-14T07:04:45Z Total score [DAST-10]: 0.0 {score}
+- 2021-03-14T06:28:27Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-14T05:55:36Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-03-14T05:55:36Z What address do you live at?: 287 Halvorson Ranch Unit 86 nan
+- 2021-03-14T05:55:36Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-03-14T05:55:36Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-03-14T05:55:36Z Are you a refugee?: No nan
+- 2021-03-14T05:55:36Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-03-14T05:55:36Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-03-14T05:55:36Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

@@ -1,0 +1,97 @@
+== PATIENT RECORD: Napoleon578 Predovic534 (ID: 74bde71d-2498-6fa9-d8e1-1734c092af93) ==
+
+== Demographics ==
+Patient ID: 74bde71d-2498-6fa9-d8e1-1734c092af93
+Name: Napoleon578 Predovic534
+Gender: M
+Birthdate: 1967-04-04
+Address: 370 Nikolaus Road
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Transport problems (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Impacted molars
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-04-24T00:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-24T00:56:47Z)
+- Depression screening (procedure) (Date: 2013-04-24T01:28:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-24T01:40:01Z)
+- Assessment of substance use (procedure) (Date: 2013-04-24T02:09:26Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-24T02:22:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-29T00:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-29T00:56:47Z)
+- Depression screening (procedure) (Date: 2015-04-29T01:34:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-29T01:47:38Z)
+- Assessment of substance use (procedure) (Date: 2015-04-29T02:16:07Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-29T02:27:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-05T00:56:47Z)
+- Colonoscopy (Date: 2017-04-05T00:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-05T00:56:47Z)
+- Screening for domestic abuse (procedure) (Date: 2017-04-05T01:55:15Z)
+- Depression screening (procedure) (Date: 2017-04-05T02:22:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-05T02:36:47Z)
+- Assessment of substance use (procedure) (Date: 2017-04-05T02:59:42Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-05T03:13:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-11T00:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-11T00:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-11T01:49:35Z)
+- Screening for domestic abuse (procedure) (Date: 2018-04-11T02:18:56Z)
+- Depression screening (procedure) (Date: 2018-04-11T03:01:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-11T03:15:29Z)
+- Assessment of substance use (procedure) (Date: 2018-04-11T03:44:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-11T03:59:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-17T00:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-17T01:44:39Z)
+- Depression screening (procedure) (Date: 2019-04-17T02:13:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-17T02:24:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-22T00:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-22T01:48:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-28T00:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-28T00:56:47Z)
+- Depression screening (procedure) (Date: 2021-04-28T01:53:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-28T02:05:27Z)
+- Measurement of respiratory function (procedure) (Date: 2021-08-12T04:56:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-25T00:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-25T00:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-25T01:33:12Z)
+- Depression screening (procedure) (Date: 2021-08-25T01:53:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-25T02:06:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-25T00:56:47Z: Encounter for check up (procedure)
+- 2021-08-18T00:56:47Z: Urgent care clinic (procedure)
+- 2021-08-12T04:56:47Z: Encounter for symptom
+- 2021-04-28T00:56:47Z: General examination of patient (procedure)
+- 2020-04-22T00:56:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-25T02:29:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-25T01:53:08Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-08-25T01:33:12Z What is your main insurance?: Private insurance nan
+- 2021-08-25T01:33:12Z Are you worried about losing your housing?: Yes nan
+- 2021-08-25T01:33:12Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-08-25T01:33:12Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-08-25T01:33:12Z Are you a refugee?: No nan
+- 2021-08-25T01:33:12Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-08-25T01:33:12Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-08-25T01:33:12Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

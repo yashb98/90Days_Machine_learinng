@@ -1,0 +1,65 @@
+== PATIENT RECORD: Jerrold404 Herzog843 (ID: 217f95a3-4e10-bd5d-fb67-0cfb5e8ba075) ==
+
+== Demographics ==
+Patient ID: 217f95a3-4e10-bd5d-fb67-0cfb5e8ba075
+Name: Jerrold404 Herzog843
+Gender: M
+Birthdate: 1993-12-23
+Address: 276 Bernier Branch
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Laceration of thigh
+- Part-time employment (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-16T14:57:05Z)
+- Assessment of anxiety (procedure) (Date: 2012-02-16T15:55:27Z)
+- Depression screening (procedure) (Date: 2012-02-16T16:20:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-16T16:31:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-21T14:57:05Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-21T15:51:34Z)
+- Assessment of substance use (procedure) (Date: 2013-02-21T16:16:27Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-21T16:28:10Z)
+- Suture open wound (Date: 2015-11-22T15:38:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-25T14:57:05Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-25T14:57:05Z)
+- Depression screening (procedure) (Date: 2016-02-25T15:49:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-25T16:02:44Z)
+- Assessment of substance use (procedure) (Date: 2016-02-25T16:26:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-25T16:37:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-28T14:57:05Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-28T15:55:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2019-02-28T14:57:05Z: General examination of patient (procedure)
+- 2017-09-23T05:57:05Z: Encounter for symptom
+- 2016-02-25T14:57:05Z: General examination of patient (procedure)
+- 2015-11-22T15:38:26Z: Emergency room admission (procedure)
+- 2015-01-06T01:57:05Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2020-12-23T14:57:05Z QOLS: 1.0 {score}
+- 2020-12-23T14:57:05Z DALY: 0.1 a
+- 2020-12-23T14:57:05Z QALY: 25.9 a
+- 2019-12-23T14:57:05Z QOLS: 1.0 {score}
+- 2019-12-23T14:57:05Z DALY: 0.1 a
+- 2019-12-23T14:57:05Z QALY: 24.9 a
+- 2019-02-28T16:25:14Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2019-02-28T15:55:20Z What is your main insurance?: Private insurance nan
+- 2019-02-28T15:55:20Z What is your housing situation today?: I have housing nan
+- 2019-02-28T15:55:20Z Are you worried about losing your housing?: No nan

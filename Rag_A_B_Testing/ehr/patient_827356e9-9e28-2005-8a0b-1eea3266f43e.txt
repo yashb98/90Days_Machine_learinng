@@ -1,0 +1,103 @@
+== PATIENT RECORD: Francisco472 Alcántar600 (ID: 827356e9-9e28-2005-8a0b-1eea3266f43e) ==
+
+== Demographics ==
+Patient ID: 827356e9-9e28-2005-8a0b-1eea3266f43e
+Name: Francisco472 Alcántar600
+Gender: M
+Birthdate: 1963-07-05
+Address: 1057 Ernser Fort Apt 55
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Alcoholism
+- Smokes tobacco daily
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Anemia (disorder)
+- Refugee (person)
+- Full-time employment (finding)
+- Injury of anterior cruciate ligament
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Polyp of colon
+
+== Current Medications ==
+- 24hr nicotine transdermal patch
+- Sertraline 100 MG Oral Tablet
+- Acetaminophen/Hydrocodone
+- ferrous sulfate 325 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+
+== Past Procedures ==
+- Knee X-ray (Date: 2011-12-07T12:14:01Z)
+- Surgical manipulation of joint of knee (Date: 2011-12-14T12:14:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-05T11:34:10Z)
+- Colonoscopy (Date: 2013-07-05T11:34:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-11T11:34:10Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-11T12:32:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-17T11:34:10Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-17T11:34:10Z)
+- Depression screening (procedure) (Date: 2015-07-17T12:25:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-17T12:40:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-22T11:34:10Z)
+- Screening for domestic abuse (procedure) (Date: 2016-07-22T12:31:38Z)
+- Depression screening (procedure) (Date: 2016-07-22T13:15:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-22T13:27:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-28T11:34:10Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-28T11:34:10Z)
+- Screening for domestic abuse (procedure) (Date: 2017-07-28T12:31:54Z)
+- Depression screening (procedure) (Date: 2017-07-28T13:12:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-28T13:26:10Z)
+- Colonoscopy (Date: 2018-07-05T12:08:02Z)
+- Screening for occult blood in feces (procedure) (Date: 2018-07-05T12:51:18Z)
+- Rectal polypectomy (Date: 2018-07-05T12:51:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-03T11:34:10Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-03T12:34:03Z)
+- Depression screening (procedure) (Date: 2018-08-03T13:07:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-03T13:18:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-09T11:34:10Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-09T11:34:10Z)
+- Depression screening (procedure) (Date: 2019-08-09T12:14:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-09T12:25:30Z)
+- Colonoscopy (Date: 2019-09-03T12:51:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-14T11:34:10Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-14T12:21:51Z)
+- Depression screening (procedure) (Date: 2020-08-14T13:05:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-14T13:19:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-20T11:34:10Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-20T11:34:10Z)
+- Depression screening (procedure) (Date: 2021-08-20T12:11:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-20T12:24:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-12T09:34:10Z: Encounter for symptom
+- 2021-08-20T11:34:10Z: General examination of patient (procedure)
+- 2021-05-28T11:34:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-07T11:34:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-14T11:34:10Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-20T12:44:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-20T12:11:17Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 23786 /a
+- 2021-08-20T12:11:17Z What is your current work situation?: Part-time or temporary work nan
+- 2021-08-20T12:11:17Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-20T12:11:17Z What address do you live at?: 1057 Ernser Fort Apt 55 nan
+- 2021-08-20T12:11:17Z Are you worried about losing your housing?: No nan
+- 2021-08-20T12:11:17Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2021-08-20T12:11:17Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-08-20T12:11:17Z What language are you most comfortable speaking?: Language other than English nan
+- 2021-08-20T12:11:17Z Have you been discharged from the armed forces of the United States?: Yes nan

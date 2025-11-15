@@ -1,0 +1,200 @@
+== PATIENT RECORD: Verla696 Hamill307 (ID: 8fa5a097-1970-9370-4193-a7baa3d235b5) ==
+
+== Demographics ==
+Patient ID: 8fa5a097-1970-9370-4193-a7baa3d235b5
+Name: Verla696 Hamill307
+Gender: F
+Birthdate: 2000-08-25
+Address: 804 Mohr Lodge Apt 92
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Laceration of foot
+- Chronic low back pain (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Normal pregnancy
+- Part-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Sprain of wrist
+- Acute viral pharyngitis (disorder)
+- Cough (finding)
+- Fatigue (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute deep venous thrombosis (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Natazia 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Seasonique 91 Day Pack
+- Yaz 28 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+- Errin 28 Day Pack
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 500 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-09-14T16:31:45Z)
+- Depression screening (procedure) (Date: 2012-09-14T16:58:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-09-14T17:11:22Z)
+- Depression screening (procedure) (Date: 2013-09-20T16:31:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-09-20T16:46:43Z)
+- Assessment of substance use (procedure) (Date: 2013-09-20T17:12:58Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-09-20T17:27:43Z)
+- Anticipatory guidance (procedure) (Date: 2013-09-20T17:41:16Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-26T16:31:45Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-26T16:31:45Z)
+- Depression screening (procedure) (Date: 2014-09-26T17:01:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-09-26T17:13:04Z)
+- Measurement of respiratory function (procedure) (Date: 2015-03-18T16:31:45Z)
+- Depression screening (procedure) (Date: 2015-03-27T16:31:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-03-27T16:43:40Z)
+- Depression screening (procedure) (Date: 2015-10-02T16:31:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-02T16:41:53Z)
+- Assessment of substance use (procedure) (Date: 2015-10-02T17:10:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-10-02T17:21:10Z)
+- Anticipatory guidance (procedure) (Date: 2015-10-02T17:50:48Z)
+- Depression screening (procedure) (Date: 2016-10-07T16:31:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-07T16:45:30Z)
+- Assessment of substance use (procedure) (Date: 2016-10-07T17:12:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-07T17:25:51Z)
+- Anticipatory guidance (procedure) (Date: 2016-10-07T17:52:49Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-13T16:31:45Z)
+- Depression screening (procedure) (Date: 2017-10-13T16:46:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-13T17:01:39Z)
+- Assessment of substance use (procedure) (Date: 2017-10-13T17:24:52Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-10-13T17:38:56Z)
+- Anticipatory guidance (procedure) (Date: 2017-10-13T18:01:16Z)
+- Suture open wound (Date: 2018-03-20T16:31:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-19T16:31:45Z)
+- Depression screening (procedure) (Date: 2018-10-19T17:26:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-19T17:41:14Z)
+- Assessment of substance use (procedure) (Date: 2018-10-19T18:05:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-19T18:19:46Z)
+- Standard pregnancy test (Date: 2019-10-18T16:31:45Z)
+- Ultrasound scan for fetal viability (Date: 2019-10-18T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2019-10-18T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2019-10-18T16:31:45Z)
+- Blood typing  RH typing (Date: 2019-10-18T16:31:45Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-10-18T16:31:45Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-10-18T16:31:45Z)
+- Human immunodeficiency virus antigen test (Date: 2019-10-18T16:31:45Z)
+- Chlamydia antigen test (Date: 2019-10-18T16:31:45Z)
+- Gonorrhea infection test (Date: 2019-10-18T16:31:45Z)
+- Syphilis infection test (Date: 2019-10-18T16:31:45Z)
+- Urine culture (Date: 2019-10-18T16:31:45Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-10-18T16:31:45Z)
+- Urine screening test for diabetes (Date: 2019-10-18T16:31:45Z)
+- Hepatitis C antibody test (Date: 2019-10-18T16:31:45Z)
+- Rubella screening (Date: 2019-10-18T16:31:45Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-10-18T16:31:45Z)
+- Skin test for tuberculosis (Date: 2019-10-18T16:31:45Z)
+- Urine protein test (Date: 2019-10-18T16:31:45Z)
+- Physical examination of mother (Date: 2019-10-18T16:31:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-25T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2019-11-15T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2019-11-15T16:31:45Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-11-15T16:31:45Z)
+- Fetal anatomy study (Date: 2019-12-13T16:31:45Z)
+- Alpha-fetoprotein test (Date: 2019-12-13T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2019-12-13T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2019-12-13T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-01-10T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-01-10T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-02-07T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-02-07T16:31:45Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-03-06T16:31:45Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2020-03-06T16:31:45Z)
+- Urine screening for glucose (Date: 2020-03-06T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-03-06T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-03-06T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-04-03T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-04-03T16:31:45Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2020-05-01T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-05-01T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-05-01T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-05-15T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-05-15T16:31:45Z)
+- Evaluation of uterine fundal height (Date: 2020-05-22T16:31:45Z)
+- Auscultation of the fetal heart (Date: 2020-05-22T16:31:45Z)
+- Epidural anesthesia (Date: 2020-05-29T16:31:45Z)
+- Childbirth (Date: 2020-05-29T16:31:45Z)
+- Physical examination following birth (Date: 2020-07-10T16:31:45Z)
+- Depression screening (Date: 2020-07-10T16:31:45Z)
+- Throat culture (procedure) (Date: 2020-08-05T23:31:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-30T16:31:45Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-30T17:22:47Z)
+- Depression screening (procedure) (Date: 2020-10-30T17:48:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-30T18:00:09Z)
+- Face mask (physical object) (Date: 2021-02-08T16:31:45Z)
+- Plain chest X-ray (procedure) (Date: 2021-02-08T17:17:44Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-08T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-08T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-09T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-09T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-10T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-10T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-11T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-11T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-12T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-12T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-13T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-13T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-14T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-14T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-15T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-15T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-16T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-16T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-17T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-17T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-18T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-18T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-19T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-19T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-20T17:37:23Z)
+- Placing subject in prone position (procedure) (Date: 2021-02-20T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-20T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-21T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-22T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-23T17:37:23Z)
+- Oxygen administration by mask (procedure) (Date: 2021-02-24T17:37:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-05T16:31:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T16:31:45Z: General examination of patient (procedure)
+- 2021-07-19T16:31:45Z: Consultation for treatment
+- 2021-02-24T17:37:23Z: Hospital admission  for observation (procedure)
+- 2021-02-20T17:37:23Z: Admission to intensive care unit (procedure)
+- 2021-02-08T17:17:44Z: Hospital admission for isolation (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-05T17:27:55Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2021-11-05T17:27:55Z What address do you live at?: 804 Mohr Lodge Apt 92 nan
+- 2021-11-05T17:27:55Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-11-05T17:27:55Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-11-05T17:27:55Z Are you a refugee?: No nan
+- 2021-11-05T17:27:55Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-11-05T17:27:55Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-11-05T17:27:55Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-11-05T17:27:55Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan
+- 2021-11-05T17:27:55Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 6596 /a

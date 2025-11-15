@@ -1,0 +1,47 @@
+== PATIENT RECORD: Jimmie93 Effertz744 (ID: c57fbe47-ea62-b01f-054d-4088979dc739) ==
+
+== Demographics ==
+Patient ID: c57fbe47-ea62-b01f-054d-4088979dc739
+Name: Jimmie93 Effertz744
+Gender: M
+Birthdate: 2020-01-21
+Address: 927 Gorczany Rapid
+Marital Status: nan
+
+== Allergies ==
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-04-28T17:56:02Z)
+- Measurement of respiratory function (procedure) (Date: 2020-09-19T14:56:02Z)
+- Allergy screening test (Date: 2020-10-18T18:56:02Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-29T17:56:02Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-30T17:56:02Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-29T17:56:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-29T17:56:02Z: Well child visit (procedure)
+- 2021-03-30T17:56:02Z: Well child visit (procedure)
+- 2021-03-09T17:56:02Z: Urgent care clinic (procedure)
+- 2021-03-04T05:13:31Z: Encounter for symptom
+- 2020-12-29T17:56:02Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-29T17:56:02Z Weight-for-length Per age and sex: 55.2 %
+- 2021-06-29T17:56:02Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-29T17:56:02Z Respiratory rate: 14.0 /min
+- 2021-06-29T17:56:02Z Heart rate: 66.0 /min
+- 2021-06-29T17:56:02Z Systolic Blood Pressure: 113.0 mm[Hg]
+- 2021-06-29T17:56:02Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-06-29T17:56:02Z Head Occipital-frontal circumference: 47.1 cm
+- 2021-06-29T17:56:02Z Body Weight: 11.0 kg
+- 2021-06-29T17:56:02Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-06-29T17:56:02Z Body Height: 80.1 cm

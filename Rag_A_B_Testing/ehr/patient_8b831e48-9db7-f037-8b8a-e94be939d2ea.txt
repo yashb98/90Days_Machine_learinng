@@ -1,0 +1,161 @@
+== PATIENT RECORD: Elena945 Otero621 (ID: 8b831e48-9db7-f037-8b8a-e94be939d2ea) ==
+
+== Demographics ==
+Patient ID: 8b831e48-9db7-f037-8b8a-e94be939d2ea
+Name: Elena945 Otero621
+Gender: F
+Birthdate: 1923-09-06
+Address: 307 Shanahan Ramp Apt 24
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Prediabetes
+- Miscarriage in first trimester
+- Hyperlipidemia
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Osteoarthritis of hip
+- Refugee (person)
+- Malignant neoplasm of breast (disorder)
+- Stress (finding)
+- Severe anxiety (panic) (finding
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Otitis media
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Second degree burn
+- Atrial Fibrillation
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Ibuprofen 200 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+
+== Past Procedures ==
+- Mammography (procedure) (Date: 2012-01-09T10:17:27Z)
+- Manual pelvic examination (procedure) (Date: 2012-01-09T10:33:24Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-01-09T10:44:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-12T15:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-12T15:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-12T15:47:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-04-12T16:14:32Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-12T16:40:22Z)
+- Depression screening (procedure) (Date: 2012-04-12T17:21:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-12T17:32:24Z)
+- Assessment of substance use (procedure) (Date: 2012-04-12T17:59:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-04-12T18:10:57Z)
+- Mammography (procedure) (Date: 2013-01-10T11:03:23Z)
+- Manual pelvic examination (procedure) (Date: 2013-01-10T11:23:50Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-01-10T11:37:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-18T15:03:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-04-18T15:37:09Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-18T15:56:42Z)
+- Assessment of substance use (procedure) (Date: 2013-04-18T16:22:34Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-18T16:32:38Z)
+- Mammography (procedure) (Date: 2014-01-13T11:52:16Z)
+- Manual pelvic examination (procedure) (Date: 2014-01-13T12:14:14Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-01-13T12:28:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-24T15:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-24T15:33:41Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-04-24T16:01:12Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-24T16:27:39Z)
+- Depression screening (procedure) (Date: 2014-04-24T16:59:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-24T17:12:47Z)
+- Assessment of substance use (procedure) (Date: 2014-04-24T17:37:43Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-24T17:50:08Z)
+- Mammography (procedure) (Date: 2014-12-22T12:47:37Z)
+- Manual pelvic examination (procedure) (Date: 2014-12-22T13:12:07Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-12-22T13:23:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-30T15:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-30T15:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-30T15:38:28Z)
+- Depression screening (procedure) (Date: 2015-04-30T15:58:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-30T16:10:50Z)
+- Mammography (procedure) (Date: 2015-11-28T13:36:51Z)
+- Manual pelvic examination (procedure) (Date: 2015-11-28T13:52:08Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-11-28T14:04:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-05T15:03:18Z)
+- Screening for domestic abuse (procedure) (Date: 2016-05-05T15:54:50Z)
+- Depression screening (procedure) (Date: 2016-05-05T16:22:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-05T16:34:31Z)
+- Mammography (procedure) (Date: 2016-11-07T14:17:14Z)
+- Manual pelvic examination (procedure) (Date: 2016-11-07T14:42:04Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-11-07T14:53:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-11T15:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-11T15:03:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-05-11T15:36:00Z)
+- Depression screening (procedure) (Date: 2017-05-11T16:04:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-11T16:19:14Z)
+- Mammography (procedure) (Date: 2017-10-23T15:11:13Z)
+- Manual pelvic examination (procedure) (Date: 2017-10-23T15:33:25Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-10-23T15:44:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-17T15:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-17T15:03:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-05-17T15:58:32Z)
+- Depression screening (procedure) (Date: 2018-05-17T16:28:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-17T16:41:38Z)
+- Assessment of substance use (procedure) (Date: 2018-05-17T17:03:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-05-17T17:15:02Z)
+- Mammography (procedure) (Date: 2018-10-07T16:00:34Z)
+- Manual pelvic examination (procedure) (Date: 2018-10-07T16:25:18Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-10-07T16:37:21Z)
+- Electrical cardioversion (Date: 2019-05-23T15:03:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-23T15:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-23T15:55:32Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-05-23T16:20:23Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-23T16:37:19Z)
+- Depression screening (procedure) (Date: 2019-05-23T17:09:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-23T17:24:04Z)
+- Mammography (procedure) (Date: 2019-10-28T16:54:44Z)
+- Manual pelvic examination (procedure) (Date: 2019-10-28T17:10:48Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-10-28T17:24:55Z)
+- Electrical cardioversion (Date: 2020-05-28T15:03:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-28T15:03:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-05-28T15:43:52Z)
+- Depression screening (procedure) (Date: 2020-05-28T16:05:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-28T16:17:26Z)
+- Assessment of substance use (procedure) (Date: 2020-05-28T16:47:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-28T17:01:42Z)
+- Mammography (procedure) (Date: 2020-11-05T17:39:11Z)
+- Manual pelvic examination (procedure) (Date: 2020-11-05T18:02:54Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-11-05T18:16:35Z)
+- Catheter ablation of tissue of heart (Date: 2021-06-03T15:03:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-03T15:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-03T15:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-03T15:40:35Z)
+- Assessment of substance use (procedure) (Date: 2021-06-03T16:06:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-03T16:18:50Z)
+- Mammography (procedure) (Date: 2021-10-09T18:31:36Z)
+- Manual pelvic examination (procedure) (Date: 2021-10-09T18:48:58Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-10-09T18:59:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-09T18:48:58Z: Gynecology service (qualifier value)
+- 2021-10-09T18:31:36Z: Screening surveillance (regime/therapy)
+- 2021-10-09T18:31:36Z: Postoperative follow-up visit (procedure)
+- 2021-09-23T15:03:18Z: Follow-up encounter
+- 2021-06-03T15:03:18Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-23T15:03:18Z Creatinine: 3.0 mg/dL
+- 2021-09-23T15:03:18Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.0 U/L
+- 2021-09-23T15:03:18Z Triglycerides: 153.0 mg/dL
+- 2021-09-23T15:03:18Z Low Density Lipoprotein Cholesterol: 141.4 mg/dL
+- 2021-09-23T15:03:18Z High Density Lipoprotein Cholesterol: 71.7 mg/dL
+- 2021-09-23T15:03:18Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 56.6 U/L
+- 2021-09-23T15:03:18Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 60.2 U/L
+- 2021-09-23T15:03:18Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.2 mg/dL
+- 2021-09-23T15:03:18Z Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- 2021-09-23T15:03:18Z Albumin [Mass/volume] in Serum or Plasma: 4.0 g/dL

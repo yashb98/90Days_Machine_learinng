@@ -1,0 +1,132 @@
+== PATIENT RECORD: Dorian295 Will178 (ID: 443e574b-0480-6ad5-8add-e22f5e87a9bb) ==
+
+== Demographics ==
+Patient ID: 443e574b-0480-6ad5-8add-e22f5e87a9bb
+Name: Dorian295 Will178
+Gender: M
+Birthdate: 1952-12-05
+Address: 935 Koelpin Meadow Suite 22
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Atrial Fibrillation
+- Misuses drugs (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-27T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-27T09:00:52Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-27T09:20:40Z)
+- Depression screening (procedure) (Date: 2012-01-27T09:48:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-27T09:59:55Z)
+- Assessment of substance use (procedure) (Date: 2012-01-27T10:22:24Z)
+- Screening for drug abuse (procedure) (Date: 2012-01-27T10:33:46Z)
+- Colonoscopy (Date: 2012-12-05T09:18:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-01T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-01T08:57:16Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-01T09:18:56Z)
+- Depression screening (procedure) (Date: 2013-02-01T09:57:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-01T10:08:35Z)
+- Assessment of substance use (procedure) (Date: 2013-02-01T10:30:05Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-01T10:43:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-07T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-07T09:14:14Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-07T09:33:05Z)
+- Depression screening (procedure) (Date: 2014-02-07T10:06:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-07T10:20:36Z)
+- Assessment of substance use (procedure) (Date: 2014-02-07T10:44:53Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-07T10:56:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-13T08:14:47Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-13T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-13T08:48:58Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-13T09:14:06Z)
+- Assessment of substance use (procedure) (Date: 2015-02-13T09:45:03Z)
+- Screening for drug abuse (procedure) (Date: 2015-02-13T09:57:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-19T08:14:47Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-19T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-19T09:09:01Z)
+- Depression screening (procedure) (Date: 2016-02-19T09:28:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-19T09:40:49Z)
+- Assessment of substance use (procedure) (Date: 2016-02-19T10:04:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-19T10:17:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-24T08:14:47Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-24T08:14:47Z)
+- Depression screening (procedure) (Date: 2017-02-24T09:02:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-24T09:13:28Z)
+- Assessment of substance use (procedure) (Date: 2017-02-24T09:34:33Z)
+- Screening for drug abuse (procedure) (Date: 2017-02-24T09:48:36Z)
+- Colonoscopy (Date: 2017-12-05T09:47:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-02T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-02T08:51:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-03-02T09:15:20Z)
+- Depression screening (procedure) (Date: 2018-03-02T09:33:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-02T09:44:54Z)
+- Assessment of substance use (procedure) (Date: 2018-03-02T10:09:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-02T10:21:19Z)
+- Measurement of respiratory function (procedure) (Date: 2019-01-05T21:14:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-18T08:14:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-01-18T08:51:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-08T08:14:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-03-08T09:02:32Z)
+- Depression screening (procedure) (Date: 2019-03-08T09:20:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-08T09:34:51Z)
+- Assessment of substance use (procedure) (Date: 2019-03-08T10:02:56Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-08T10:16:08Z)
+- Electrical cardioversion (Date: 2020-03-13T08:14:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-13T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-13T08:46:11Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-03-13T09:09:49Z)
+- Depression screening (procedure) (Date: 2020-03-13T09:35:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-13T09:47:45Z)
+- Assessment of substance use (procedure) (Date: 2020-03-13T10:14:24Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-13T10:26:05Z)
+- Electrical cardioversion (Date: 2021-03-19T08:14:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-19T08:14:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-19T08:14:47Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-19T08:55:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-03-19T09:14:16Z)
+- Screening for domestic abuse (procedure) (Date: 2021-03-19T09:37:22Z)
+- Depression screening (procedure) (Date: 2021-03-19T10:11:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-19T10:24:41Z)
+- Assessment of substance use (procedure) (Date: 2021-03-19T10:53:04Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-19T11:04:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-23T08:14:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-26T08:14:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-19T08:14:47Z: General examination of patient (procedure)
+- 2020-03-13T08:14:47Z: General examination of patient (procedure)
+- 2019-03-08T08:14:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-19T11:34:37Z Total score [DAST-10]: 6.0 {score}
+- 2021-03-19T10:53:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-19T10:11:56Z Total score [HARK]: 0.0 {score}
+- 2021-03-19T09:37:22Z Fall risk total [Morse Fall Scale]: 60.0 {#}
+- 2021-03-19T09:37:22Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-03-19T09:14:16Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-03-19T08:55:35Z Are you worried about losing your housing?: No nan
+- 2021-03-19T08:55:35Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-03-19T08:55:35Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-03-19T08:55:35Z What is your housing situation today?: I have housing nan

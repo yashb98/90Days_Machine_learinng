@@ -1,0 +1,136 @@
+== PATIENT RECORD: Kim439 Barton704 (ID: 72f91cc7-fb63-84e8-32ff-86456bfa446e) ==
+
+== Demographics ==
+Patient ID: 72f91cc7-fb63-84e8-32ff-86456bfa446e
+Name: Kim439 Barton704
+Gender: M
+Birthdate: 1942-06-07
+Address: 1070 Tromp Byway Apt 35
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Chronic pain
+- Impacted molars
+- Chronic intractable migraine without aura
+- Drug overdose
+- Polyp of colon
+- Recurrent rectal polyp
+- Social isolation (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Victim of intimate partner abuse (finding)
+- Laceration of forearm
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Cough (finding)
+- Sputum finding (finding)
+- Fatigue (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-16T02:39:01Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-16T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-01-16T03:26:35Z)
+- Depression screening (procedure) (Date: 2012-01-16T03:49:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-16T04:03:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-05-28T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-05-28T03:38:53Z)
+- Depression screening (procedure) (Date: 2012-05-28T03:57:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-28T04:07:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-03T02:39:01Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-03T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-06-03T03:11:06Z)
+- Screening for domestic abuse (procedure) (Date: 2013-06-03T03:37:15Z)
+- Depression screening (procedure) (Date: 2013-06-03T04:12:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-03T04:27:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-06-03T04:55:11Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T02:39:01Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T03:28:22Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T04:15:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T05:05:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T06:03:11Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-23T06:51:10Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-26T07:40:30Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-01T08:40:16Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-04T09:26:59Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-07T10:24:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-09T02:39:01Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-09T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-06-09T03:12:31Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-09T03:38:15Z)
+- Depression screening (procedure) (Date: 2014-06-09T04:05:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-09T04:17:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-15T02:39:01Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-15T03:20:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-20T02:39:01Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-20T03:38:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-06-20T03:59:00Z)
+- Screening for domestic abuse (procedure) (Date: 2016-06-20T04:16:21Z)
+- Depression screening (procedure) (Date: 2016-06-20T05:00:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-20T05:14:11Z)
+- Suture open wound (Date: 2016-07-07T15:21:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-26T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-06-26T03:34:38Z)
+- Screening for domestic abuse (procedure) (Date: 2017-06-26T03:50:56Z)
+- Depression screening (procedure) (Date: 2017-06-26T04:29:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-26T04:41:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-02T02:39:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-02T02:39:01Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-02T03:21:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-07-02T03:37:20Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-02T03:55:54Z)
+- Depression screening (procedure) (Date: 2018-07-02T04:34:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-02T04:49:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-08T02:39:01Z)
+- Screening for domestic abuse (procedure) (Date: 2019-07-08T03:23:21Z)
+- Depression screening (procedure) (Date: 2019-07-08T03:52:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-08T04:02:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-13T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-07-13T03:09:39Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-13T03:25:30Z)
+- Depression screening (procedure) (Date: 2020-07-13T03:58:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-13T04:09:39Z)
+- Face mask (physical object) (Date: 2020-11-25T02:39:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-19T02:39:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-07-19T03:30:13Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-19T02:39:01Z: General examination of patient (procedure)
+- 2021-06-16T02:39:01Z: Emergency Room Admission
+- 2021-03-22T02:39:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-01T02:39:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-07T02:39:01Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-19T04:00:09Z Fall risk total [Morse Fall Scale]: 35.0 {#}
+- 2021-07-19T04:00:09Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-07-19T03:30:13Z What is your current work situation?: Full-time work nan
+- 2021-07-19T03:30:13Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-07-19T03:30:13Z What language are you most comfortable speaking?: English nan
+- 2021-07-19T03:30:13Z How many family members  including yourself  do you currently live with?: 1.0 {#}
+- 2021-07-19T03:30:13Z What is your housing situation today?: I have housing nan
+- 2021-07-19T03:30:13Z Are you worried about losing your housing?: No nan
+- 2021-07-19T03:30:13Z What address do you live at?: 1070 Tromp Byway Apt 35 nan
+- 2021-07-19T03:30:13Z What is the highest level of school that you have finished?: High school diploma or GED nan

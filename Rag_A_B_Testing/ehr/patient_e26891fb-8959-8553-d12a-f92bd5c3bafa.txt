@@ -1,0 +1,126 @@
+== PATIENT RECORD: Mae105 D'Amore443 (ID: e26891fb-8959-8553-d12a-f92bd5c3bafa) ==
+
+== Demographics ==
+Patient ID: e26891fb-8959-8553-d12a-f92bd5c3bafa
+Name: Mae105 D'Amore443
+Gender: F
+Birthdate: 2002-07-09
+Address: 784 Reichert Trailer Apt 50
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Cough (finding)
+- Fatigue (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Natazia 28 Day Pack
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Camila 28 Day Pack
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2014-07-29T04:16:23Z)
+- Depression screening (procedure) (Date: 2014-07-29T04:41:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-29T04:52:55Z)
+- Assessment of substance use (procedure) (Date: 2014-07-29T05:13:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-29T05:24:07Z)
+- Health risks education (procedure) (Date: 2014-07-29T05:39:35Z)
+- Measurement of respiratory function (procedure) (Date: 2015-01-20T09:16:23Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-03T04:16:23Z)
+- Depression screening (procedure) (Date: 2015-02-03T04:38:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-02-03T04:48:53Z)
+- Assessment of substance use (procedure) (Date: 2015-02-03T05:09:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-02-03T05:19:19Z)
+- Anticipatory guidance (procedure) (Date: 2015-02-03T05:49:12Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-04T04:16:23Z)
+- Depression screening (procedure) (Date: 2015-08-04T04:38:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-04T04:48:54Z)
+- Assessment of substance use (procedure) (Date: 2015-08-04T05:13:40Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-08-04T05:24:50Z)
+- Anticipatory guidance (procedure) (Date: 2015-08-04T05:35:55Z)
+- Depression screening (procedure) (Date: 2016-08-09T04:16:23Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-09T04:16:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-08-09T04:29:02Z)
+- Intramuscular injection (Date: 2017-07-03T04:16:23Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-15T04:16:23Z)
+- Depression screening (procedure) (Date: 2017-08-15T04:44:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-15T04:59:23Z)
+- Intramuscular injection (Date: 2017-10-10T04:16:23Z)
+- Intramuscular injection (Date: 2018-01-09T04:16:23Z)
+- Intramuscular injection (Date: 2018-04-10T04:16:23Z)
+- Intramuscular injection (Date: 2018-07-10T04:16:23Z)
+- Depression screening (procedure) (Date: 2018-08-21T04:16:23Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-21T04:16:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-21T04:28:48Z)
+- Assessment of substance use (procedure) (Date: 2018-08-21T04:57:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-21T05:09:28Z)
+- Health risks education (procedure) (Date: 2018-08-21T05:32:47Z)
+- Intramuscular injection (Date: 2018-10-09T04:16:23Z)
+- Intramuscular injection (Date: 2019-01-08T04:16:23Z)
+- Intramuscular injection (Date: 2019-04-09T04:16:23Z)
+- Intramuscular injection (Date: 2019-07-09T04:16:23Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-27T04:16:23Z)
+- Depression screening (procedure) (Date: 2019-08-27T04:32:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-27T04:42:26Z)
+- Assessment of substance use (procedure) (Date: 2019-08-27T05:05:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-27T05:16:09Z)
+- Health risks education (procedure) (Date: 2019-08-27T05:34:39Z)
+- Intramuscular injection (Date: 2019-10-08T04:16:23Z)
+- Intramuscular injection (Date: 2020-01-07T04:16:23Z)
+- Intramuscular injection (Date: 2020-04-07T04:16:23Z)
+- Intramuscular injection (Date: 2020-07-07T04:16:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-01T04:16:23Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-01T04:16:23Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-01T05:14:11Z)
+- Depression screening (procedure) (Date: 2020-09-01T05:36:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-01T05:49:06Z)
+- Assessment of substance use (procedure) (Date: 2020-09-01T06:12:55Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-01T06:23:05Z)
+- Intramuscular injection (Date: 2020-10-06T04:16:23Z)
+- Intramuscular injection (Date: 2021-01-05T04:16:23Z)
+- Face mask (physical object) (Date: 2021-01-10T04:16:23Z)
+- Intramuscular injection (Date: 2021-04-06T04:16:23Z)
+- Intramuscular injection (Date: 2021-07-06T04:16:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-07T04:16:23Z)
+- Screening for domestic abuse (procedure) (Date: 2021-09-07T04:48:56Z)
+- Depression screening (procedure) (Date: 2021-09-07T05:28:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-07T05:41:08Z)
+- Intramuscular injection (Date: 2021-10-05T04:16:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-05T04:16:23Z: Patient encounter procedure
+- 2021-09-14T04:16:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-07T04:16:23Z: General examination of patient (procedure)
+- 2021-08-24T04:16:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-06T04:16:23Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-09-07T06:03:38Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-09-07T05:28:26Z Total score [HARK]: 0.0 {score}
+- 2021-09-07T04:48:56Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Other  Please write nan
+- 2021-09-07T04:48:56Z What address do you live at?: 784 Reichert Trailer Apt 50 nan
+- 2021-09-07T04:48:56Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-09-07T04:48:56Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-09-07T04:48:56Z Are you a refugee?: No nan
+- 2021-09-07T04:48:56Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-09-07T04:48:56Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-09-07T04:48:56Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

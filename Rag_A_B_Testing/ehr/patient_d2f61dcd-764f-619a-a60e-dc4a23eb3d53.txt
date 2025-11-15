@@ -1,0 +1,131 @@
+== PATIENT RECORD: Molly175 Carroll471 (ID: d2f61dcd-764f-619a-a60e-dc4a23eb3d53) ==
+
+== Demographics ==
+Patient ID: d2f61dcd-764f-619a-a60e-dc4a23eb3d53
+Name: Molly175 Carroll471
+Gender: F
+Birthdate: 1999-04-03
+Address: 875 Rutherford Fort Unit 44
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Stress (finding)
+
+== Current Medications ==
+- Jolivette 28 Day Pack
+- Seasonique 91 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Natazia 28 Day Pack
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-04-28T14:54:31Z)
+- Depression screening (procedure) (Date: 2012-04-28T15:12:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-28T15:22:28Z)
+- Assessment of substance use (procedure) (Date: 2012-04-28T15:47:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-04-28T15:57:38Z)
+- Health risks education (procedure) (Date: 2012-04-28T16:15:30Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-04T14:54:31Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-04T14:54:31Z)
+- Depression screening (procedure) (Date: 2013-05-04T15:20:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-04T15:32:22Z)
+- Assessment of substance use (procedure) (Date: 2013-05-04T15:59:02Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-04T16:09:18Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-04T16:32:03Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-10T14:54:31Z)
+- Depression screening (procedure) (Date: 2014-05-10T15:19:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-10T15:29:47Z)
+- Assessment of substance use (procedure) (Date: 2014-05-10T15:59:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-10T16:11:05Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-10T16:27:41Z)
+- Depression screening (procedure) (Date: 2015-05-16T14:54:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-16T15:05:46Z)
+- Assessment of substance use (procedure) (Date: 2015-05-16T15:33:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-16T15:47:30Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-16T15:59:04Z)
+- Depression screening (procedure) (Date: 2016-05-21T14:54:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-21T15:07:39Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-11T14:54:31Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-14T15:52:30Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-17T16:37:37Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-20T17:27:07Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-23T18:21:25Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-26T19:07:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-27T14:54:31Z)
+- Movement therapy (regime/therapy) (Date: 2017-05-29T19:59:22Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-01T20:48:26Z)
+- Depression screening (procedure) (Date: 2017-05-27T15:45:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-27T16:00:17Z)
+- Assessment of substance use (procedure) (Date: 2017-05-27T16:20:34Z)
+- Screening for drug abuse (procedure) (Date: 2017-05-27T16:31:50Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-04T21:37:34Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-07T22:33:44Z)
+- Intramuscular injection (Date: 2018-03-07T14:54:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-02T14:54:31Z)
+- Depression screening (procedure) (Date: 2018-06-02T15:49:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-02T16:02:10Z)
+- Intramuscular injection (Date: 2018-06-16T14:54:31Z)
+- Intramuscular injection (Date: 2018-09-15T14:54:31Z)
+- Intramuscular injection (Date: 2018-12-15T14:54:31Z)
+- Intramuscular injection (Date: 2019-03-16T14:54:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-08T14:54:31Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-08T14:54:31Z)
+- Intramuscular injection (Date: 2019-06-15T14:54:31Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-08T15:44:49Z)
+- Screening for domestic abuse (procedure) (Date: 2019-06-08T16:07:58Z)
+- Depression screening (procedure) (Date: 2019-06-08T16:48:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-08T17:01:40Z)
+- Assessment of substance use (procedure) (Date: 2019-06-08T17:22:17Z)
+- Screening for drug abuse (procedure) (Date: 2019-06-08T17:34:40Z)
+- Intramuscular injection (Date: 2019-09-14T14:54:31Z)
+- Intramuscular injection (Date: 2019-12-14T14:54:31Z)
+- Intramuscular injection (Date: 2020-03-14T14:54:31Z)
+- Intramuscular injection (Date: 2020-06-13T14:54:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-13T14:54:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-13T14:54:31Z)
+- Depression screening (procedure) (Date: 2020-06-13T15:25:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-13T15:38:12Z)
+- Intramuscular injection (Date: 2020-09-12T14:54:31Z)
+- Intramuscular injection (Date: 2020-12-12T14:54:31Z)
+- Intramuscular injection (Date: 2021-03-13T14:54:31Z)
+- Intramuscular injection (Date: 2021-06-12T14:54:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-26T14:54:31Z)
+- Depression screening (procedure) (Date: 2021-06-26T15:53:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-26T16:07:47Z)
+- Assessment of substance use (procedure) (Date: 2021-06-26T16:36:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-26T16:51:00Z)
+- Intramuscular injection (Date: 2021-09-11T14:54:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-11T14:54:31Z: Patient encounter procedure
+- 2021-06-26T14:54:31Z: General examination of patient (procedure)
+- 2021-06-12T14:54:31Z: Patient encounter procedure
+- 2021-04-17T14:54:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-27T14:54:31Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-26T17:15:04Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-06-26T16:36:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-06-26T15:53:39Z What language are you most comfortable speaking?: English nan
+- 2021-06-26T15:53:39Z What is your main insurance?: Private insurance nan
+- 2021-06-26T15:53:39Z Are you worried about losing your housing?: No nan
+- 2021-06-26T15:53:39Z What address do you live at?: 875 Rutherford Fort Unit 44 nan
+- 2021-06-26T15:53:39Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-26T15:53:39Z What is your current work situation?: Full-time work nan
+- 2021-06-26T15:53:39Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 35880 /a
+- 2021-06-26T15:53:39Z How many family members  including yourself  do you currently live with?: 6.0 {#}

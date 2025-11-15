@@ -1,0 +1,134 @@
+== PATIENT RECORD: Miki234 Gerhold939 (ID: 92ac9466-ca08-9efb-58e4-131a5f3e178e) ==
+
+== Demographics ==
+Patient ID: 92ac9466-ca08-9efb-58e4-131a5f3e178e
+Name: Miki234 Gerhold939
+Gender: F
+Birthdate: 1952-06-19
+Address: 302 Kirlin Haven
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Primary fibromyalgia syndrome
+- Miscarriage in first trimester
+- Hyperlipidemia
+- Limited social contact (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Laceration of foot
+- Part-time employment (finding)
+- Fracture of ankle
+- Acute bacterial sinusitis (disorder)
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- Naproxen 500 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Milnacipran hydrochloride 100 MG Oral Tablet
+- duloxetine 20 MG Delayed Release Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-16T15:41:33Z)
+- Depression screening (procedure) (Date: 2012-08-16T16:38:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-16T16:50:25Z)
+- Assessment of substance use (procedure) (Date: 2012-08-16T17:16:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-08-16T17:31:15Z)
+- Colonoscopy (Date: 2013-07-19T17:36:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-22T15:41:33Z)
+- Screening for domestic abuse (procedure) (Date: 2013-08-22T16:19:12Z)
+- Depression screening (procedure) (Date: 2013-08-22T17:03:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-22T17:15:37Z)
+- Assessment of substance use (procedure) (Date: 2013-08-22T17:45:32Z)
+- Screening for drug abuse (procedure) (Date: 2013-08-22T18:00:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-28T15:41:33Z)
+- Screening for domestic abuse (procedure) (Date: 2014-08-28T16:34:37Z)
+- Assessment of substance use (procedure) (Date: 2014-08-28T17:17:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-08-28T17:30:54Z)
+- Throat culture (procedure) (Date: 2015-08-30T06:41:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-03T15:41:33Z)
+- Assessment of substance use (procedure) (Date: 2015-09-03T16:29:38Z)
+- Screening for drug abuse (procedure) (Date: 2015-09-03T16:43:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-08T15:41:33Z)
+- Assessment of anxiety (procedure) (Date: 2016-09-08T16:35:29Z)
+- Depression screening (procedure) (Date: 2016-09-08T16:57:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-08T17:10:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-09-08T17:39:10Z)
+- Assessment of substance use (procedure) (Date: 2016-09-08T18:09:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-09-08T18:20:45Z)
+- Suture open wound (Date: 2017-02-03T18:01:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-14T15:41:33Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-14T15:41:33Z)
+- Screening for domestic abuse (procedure) (Date: 2017-09-14T16:24:27Z)
+- Depression screening (procedure) (Date: 2017-09-14T17:04:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-14T17:17:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-19T15:41:33Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-19T15:41:33Z)
+- Assessment of substance use (procedure) (Date: 2017-10-19T16:21:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-19T16:35:50Z)
+- Colonoscopy (Date: 2018-07-19T18:16:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-20T15:41:33Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-20T15:41:33Z)
+- Screening for domestic abuse (procedure) (Date: 2018-09-20T16:26:06Z)
+- Depression screening (procedure) (Date: 2018-09-20T17:06:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-20T17:19:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-26T15:41:33Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-26T15:41:33Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-26T16:30:10Z)
+- Depression screening (procedure) (Date: 2019-09-26T16:54:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-26T17:08:20Z)
+- Ankle X-ray (Date: 2019-12-30T18:29:39Z)
+- Bone immobilization (Date: 2019-12-30T18:29:39Z)
+- Bone density scan (procedure) (Date: 2019-12-30T19:02:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-01T15:41:33Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-01T15:41:33Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-10-01T16:20:06Z)
+- Depression screening (procedure) (Date: 2020-10-01T16:46:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-01T16:57:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-15T15:41:33Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-15T16:32:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-07-15T16:51:07Z)
+- Screening for domestic abuse (procedure) (Date: 2021-07-15T17:19:52Z)
+- Depression screening (procedure) (Date: 2021-07-15T17:48:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-15T18:02:06Z)
+- Assessment of substance use (procedure) (Date: 2021-07-15T18:24:38Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-15T18:37:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-07T15:41:33Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-07T16:36:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-10-07T16:58:56Z)
+- Depression screening (procedure) (Date: 2021-10-07T17:21:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-07T17:35:35Z)
+- Assessment of substance use (procedure) (Date: 2021-10-07T18:00:27Z)
+- Screening for drug abuse (procedure) (Date: 2021-10-07T18:14:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-07T15:41:33Z: General examination of patient (procedure)
+- 2021-07-18T15:41:33Z: Follow-up encounter
+- 2021-07-15T15:41:33Z: Encounter for check up (procedure)
+- 2021-07-12T07:41:33Z: Encounter for symptom
+- 2021-03-11T15:41:33Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-07T18:40:50Z Total score [DAST-10]: 1.0 {score}
+- 2021-10-07T18:00:27Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-07T17:21:12Z Fall risk total [Morse Fall Scale]: 72.0 {#}
+- 2021-10-07T17:21:12Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-10-07T16:58:56Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 12.0 {score}
+- 2021-10-07T16:36:21Z What is your housing situation today?: I have housing nan
+- 2021-10-07T16:36:21Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-10-07T16:36:21Z What language are you most comfortable speaking?: English nan
+- 2021-10-07T16:36:21Z How many family members  including yourself  do you currently live with?: 1.0 {#}
+- 2021-10-07T16:36:21Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

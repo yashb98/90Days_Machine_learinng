@@ -1,0 +1,59 @@
+== PATIENT RECORD: Chanell45 Skiles927 (ID: 579dc752-5705-6967-db68-1e20800a1661) ==
+
+== Demographics ==
+Patient ID: 579dc752-5705-6967-db68-1e20800a1661
+Name: Chanell45 Skiles927
+Gender: F
+Birthdate: 2016-05-07
+Address: 729 Weber Ramp Unit 63
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Childhood asthma
+- Viral sinusitis (disorder)
+- Cough (finding)
+- Sputum finding (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2016-05-07T08:25:21Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-11T08:25:21Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-14T08:25:21Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-15T08:25:21Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-14T08:25:21Z)
+- Asthma screening (Date: 2019-03-13T08:25:21Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-29T08:25:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-11T08:25:21Z)
+- Face mask (physical object) (Date: 2021-02-22T08:25:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-01T03:25:21Z: Asthma follow-up
+- 2021-04-17T08:25:21Z: Well child visit (procedure)
+- 2021-03-05T03:25:21Z: Asthma follow-up
+- 2021-03-02T08:25:21Z: Emergency hospital admission for asthma
+- 2021-02-22T08:25:21Z: Encounter for symptom (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-07T08:25:21Z QOLS: 1.0 {score}
+- 2021-05-07T08:25:21Z DALY: 0.0 a
+- 2021-05-07T08:25:21Z QALY: 4.0 a
+- 2021-04-17T08:25:21Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-04-17T08:25:21Z Body Height: 102.2 cm
+- 2021-04-17T08:25:21Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-04-17T08:25:21Z Body Weight: 15.9 kg
+- 2021-04-17T08:25:21Z Body Mass Index: 15.2 kg/m2
+- 2021-04-17T08:25:21Z Body mass index (BMI) [Percentile] Per age and gender: 51.5 %
+- 2021-04-17T08:25:21Z Diastolic Blood Pressure: 82.0 mm[Hg]

@@ -1,0 +1,85 @@
+== PATIENT RECORD: Laurena366 Leuschke194 (ID: df9f786a-f236-051b-ba94-7dd92e6a16ce) ==
+
+== Demographics ==
+Patient ID: df9f786a-f236-051b-ba94-7dd92e6a16ce
+Name: Laurena366 Leuschke194
+Gender: F
+Birthdate: 1982-08-02
+Address: 850 Hyatt Union Suite 25
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Normal pregnancy
+- Not in labor force (finding)
+- Otitis media
+- Limited social contact (finding)
+
+== Current Medications ==
+- Trinessa 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Errin 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Amoxicillin 250 MG Oral Capsule
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 2011-12-05T11:48:39Z)
+- Ultrasound scan for fetal viability (Date: 2011-12-05T11:48:39Z)
+- Counseling for termination of pregnancy (Date: 2011-12-19T11:48:39Z)
+- Induced termination of pregnancy (Date: 2011-12-19T11:48:39Z)
+- Pregnancy termination care (Date: 2012-01-02T11:48:39Z)
+- Physical exam following abortion (Date: 2012-01-02T11:48:39Z)
+- Depression screening (Date: 2012-01-02T11:48:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-14T11:48:39Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-14T12:21:34Z)
+- Depression screening (procedure) (Date: 2013-10-14T12:43:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-14T12:55:46Z)
+- Assessment of substance use (procedure) (Date: 2013-10-14T13:23:38Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-14T13:36:57Z)
+- Standard pregnancy test (Date: 2015-07-20T11:48:39Z)
+- Ultrasound scan for fetal viability (Date: 2015-07-20T11:48:39Z)
+- Counseling for termination of pregnancy (Date: 2015-07-31T11:48:39Z)
+- Induced termination of pregnancy (Date: 2015-07-31T11:48:39Z)
+- Pregnancy termination care (Date: 2015-08-18T11:48:39Z)
+- Physical exam following abortion (Date: 2015-08-18T11:48:39Z)
+- Depression screening (Date: 2015-08-18T11:48:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-17T11:48:39Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-17T12:32:09Z)
+- Depression screening (procedure) (Date: 2016-10-17T12:55:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-17T13:08:09Z)
+- Assessment of substance use (procedure) (Date: 2016-10-17T13:30:27Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-17T13:44:53Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-03-29T03:48:39Z)
+- Bilateral tubal ligation (Date: 2018-04-11T04:34:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-21T11:48:39Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-21T11:48:39Z)
+- Depression screening (procedure) (Date: 2019-10-21T12:33:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-21T12:45:54Z)
+- Assessment of substance use (procedure) (Date: 2019-10-21T13:10:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-21T13:20:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-08T11:48:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-18T11:48:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-10-21T11:48:39Z: General examination of patient (procedure)
+- 2018-04-11T04:34:43Z: Admission to surgical department
+- 2018-03-24T04:34:43Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-08-02T11:48:39Z QOLS: 1.0 {score}
+- 2021-08-02T11:48:39Z DALY: 0.0 a
+- 2021-08-02T11:48:39Z QALY: 38.0 a
+- 2020-08-02T11:48:39Z QOLS: 1.0 {score}
+- 2020-08-02T11:48:39Z DALY: 0.0 a
+- 2020-08-02T11:48:39Z QALY: 37.0 a
+- 2019-10-21T13:43:42Z Total score [AUDIT-C]: 0.0 {score}
+- 2019-10-21T13:10:17Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2019-10-21T12:33:53Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2019-10-21T12:33:53Z What is your main insurance?: Private insurance nan

@@ -1,0 +1,113 @@
+== PATIENT RECORD: Ezequiel972 Gulgowski816 (ID: 065e8a3d-b782-c088-2a17-6498d7d190bc) ==
+
+== Demographics ==
+Patient ID: 065e8a3d-b782-c088-2a17-6498d7d190bc
+Name: Ezequiel972 Gulgowski816
+Gender: M
+Birthdate: 1996-11-01
+Address: 110 Torphy Key
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Laceration of thigh
+- Viral sinusitis (disorder)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Sprain of ankle
+- Victim of intimate partner abuse (finding)
+- Misuses drugs (finding)
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2011-12-09T07:30:48Z)
+- Assessment of substance use (procedure) (Date: 2011-12-09T08:00:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2011-12-09T08:11:42Z)
+- Anticipatory guidance (procedure) (Date: 2011-12-09T08:34:15Z)
+- Suture open wound (Date: 2012-08-19T07:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-14T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-20T07:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-20T07:30:48Z)
+- Depression screening (procedure) (Date: 2013-12-20T07:53:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-12-20T08:05:47Z)
+- Assessment of substance use (procedure) (Date: 2013-12-20T08:28:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-12-20T08:42:01Z)
+- Anticipatory guidance (procedure) (Date: 2013-12-20T09:07:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-26T07:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-26T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-26T08:29:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-01T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-01T08:19:29Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-01T08:43:47Z)
+- Depression screening (procedure) (Date: 2016-01-01T09:23:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-01T09:37:01Z)
+- Assessment of substance use (procedure) (Date: 2016-01-01T09:59:49Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-01T10:14:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-06T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-06T08:23:04Z)
+- Screening for domestic abuse (procedure) (Date: 2017-01-06T08:43:55Z)
+- Assessment of substance use (procedure) (Date: 2017-01-06T09:19:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-06T09:29:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-12T07:30:48Z)
+- Depression screening (procedure) (Date: 2018-01-12T08:22:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-12T08:37:07Z)
+- Assessment of substance use (procedure) (Date: 2018-01-12T08:58:55Z)
+- Screening for drug abuse (procedure) (Date: 2018-01-12T09:11:20Z)
+- Measurement of respiratory function (procedure) (Date: 2018-11-07T13:30:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-18T07:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-18T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-18T08:17:03Z)
+- Depression screening (procedure) (Date: 2019-01-18T08:34:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-18T08:48:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-24T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-24T08:19:24Z)
+- Screening for domestic abuse (procedure) (Date: 2020-01-24T08:41:05Z)
+- Depression screening (procedure) (Date: 2020-01-24T09:21:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-24T09:32:22Z)
+- Assessment of substance use (procedure) (Date: 2020-01-24T10:02:09Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-24T10:17:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-29T07:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-29T07:30:48Z)
+- Depression screening (procedure) (Date: 2021-01-29T08:16:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-29T08:26:48Z)
+- Assessment of substance use (procedure) (Date: 2021-01-29T08:50:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-01-29T09:03:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-19T07:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-19T07:30:48Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-19T08:19:46Z)
+- Depression screening (procedure) (Date: 2021-02-19T08:36:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-19T08:47:06Z)
+- Assessment of substance use (procedure) (Date: 2021-02-19T09:07:43Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-19T09:21:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-19T07:30:48Z: Encounter for check up (procedure)
+- 2021-02-08T04:30:48Z: Encounter for symptom
+- 2021-01-29T07:30:48Z: General examination of patient (procedure)
+- 2020-01-24T07:30:48Z: General examination of patient (procedure)
+- 2019-04-02T07:30:48Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-01T06:30:48Z QOLS: 1.0 {score}
+- 2021-11-01T06:30:48Z DALY: 0.0 a
+- 2021-11-01T06:30:48Z QALY: 24.0 a
+- 2021-02-19T09:44:29Z Total score [DAST-10]: 1.0 {score}
+- 2021-02-19T09:07:43Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-19T08:36:03Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-02-19T08:19:46Z What is your current work situation?: Full-time work nan
+- 2021-02-19T08:19:46Z What is your housing situation today?: I have housing nan
+- 2021-02-19T08:19:46Z Are you worried about losing your housing?: Yes nan
+- 2021-02-19T08:19:46Z What address do you live at?: 110 Torphy Key nan

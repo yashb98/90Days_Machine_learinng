@@ -1,0 +1,38 @@
+== PATIENT RECORD: Leanna255 Witting912 (ID: 3c0f81dc-96bf-3f9c-6e4f-5763f9614fb2) ==
+
+== Demographics ==
+Patient ID: 3c0f81dc-96bf-3f9c-6e4f-5763f9614fb2
+Name: Leanna255 Witting912
+Gender: F
+Birthdate: 2021-07-28
+Address: 258 Keeling Flat
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-09-01T21:15:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-03T21:15:02Z: Well child visit (procedure)
+- 2021-09-01T21:15:02Z: Well child visit (procedure)
+- 2021-07-28T21:15:02Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-03T21:15:02Z Body Weight: 6.5 kg
+- 2021-11-03T21:15:02Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-03T21:15:02Z Respiratory rate: 15.0 /min
+- 2021-11-03T21:15:02Z Heart rate: 69.0 /min
+- 2021-11-03T21:15:02Z Systolic Blood Pressure: 127.0 mm[Hg]
+- 2021-11-03T21:15:02Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-11-03T21:15:02Z Head Occipital-frontal circumference: 41.4 cm
+- 2021-11-03T21:15:02Z Weight-for-length Per age and sex: 53.4 %
+- 2021-11-03T21:15:02Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-11-03T21:15:02Z Body Height: 62.2 cm

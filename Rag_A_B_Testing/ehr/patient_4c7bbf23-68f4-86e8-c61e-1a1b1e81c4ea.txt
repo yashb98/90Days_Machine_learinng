@@ -1,0 +1,132 @@
+== PATIENT RECORD: Ike571 Harvey63 (ID: 4c7bbf23-68f4-86e8-c61e-1a1b1e81c4ea) ==
+
+== Demographics ==
+Patient ID: 4c7bbf23-68f4-86e8-c61e-1a1b1e81c4ea
+Name: Ike571 Harvey63
+Gender: M
+Birthdate: 1950-10-06
+Address: 685 Grady Forge Suite 55
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Has a criminal record (finding)
+- Reports of violence in the environment (finding)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Body mass index 30+ - obesity (finding)
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Misuses drugs (finding)
+- Stress (finding)
+- Sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Polyp of colon
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Coronary Heart Disease
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-03T08:03:07Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-03T08:03:07Z)
+- Depression screening (procedure) (Date: 2012-08-03T08:34:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-03T08:45:45Z)
+- Assessment of substance use (procedure) (Date: 2012-08-03T09:14:24Z)
+- Screening for drug abuse (procedure) (Date: 2012-08-03T09:28:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-09T08:03:07Z)
+- Depression screening (procedure) (Date: 2013-08-09T08:50:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-09T09:03:56Z)
+- Assessment of substance use (procedure) (Date: 2013-08-09T09:32:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-08-09T09:46:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-15T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-15T08:34:11Z)
+- Depression screening (procedure) (Date: 2014-08-15T08:53:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-15T09:06:59Z)
+- Assessment of substance use (procedure) (Date: 2014-08-15T09:30:06Z)
+- Screening for drug abuse (procedure) (Date: 2014-08-15T09:42:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-21T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-21T08:39:24Z)
+- Depression screening (procedure) (Date: 2015-08-21T09:08:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-21T09:21:56Z)
+- Assessment of substance use (procedure) (Date: 2015-08-21T09:42:18Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-21T09:52:42Z)
+- Colonoscopy (Date: 2015-10-06T09:52:29Z)
+- Screening for occult blood in feces (procedure) (Date: 2015-10-06T10:36:11Z)
+- Rectal polypectomy (Date: 2015-10-06T10:36:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-26T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-26T08:56:30Z)
+- Screening for domestic abuse (procedure) (Date: 2016-08-26T09:12:00Z)
+- Depression screening (procedure) (Date: 2016-08-26T09:40:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-26T09:53:03Z)
+- Assessment of substance use (procedure) (Date: 2016-08-26T10:21:13Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-26T10:35:23Z)
+- Colonoscopy (Date: 2016-10-07T10:36:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-01T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2017-09-01T08:57:38Z)
+- Depression screening (procedure) (Date: 2017-09-01T09:16:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-01T09:26:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-07T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-07T08:54:28Z)
+- Depression screening (procedure) (Date: 2018-09-07T09:13:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-07T09:25:28Z)
+- Assessment of substance use (procedure) (Date: 2018-09-07T09:47:07Z)
+- Screening for drug abuse (procedure) (Date: 2018-09-07T10:00:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-13T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-13T08:36:41Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-09-13T08:57:26Z)
+- Depression screening (procedure) (Date: 2019-09-13T09:19:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-13T09:31:22Z)
+- Assessment of substance use (procedure) (Date: 2019-09-13T09:52:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-09-13T10:04:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-18T08:03:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-09-18T08:54:36Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-18T09:16:20Z)
+- Depression screening (procedure) (Date: 2020-09-18T09:47:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-18T09:59:48Z)
+- Assessment of substance use (procedure) (Date: 2020-09-18T10:20:14Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-18T10:33:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-24T08:03:07Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-24T08:03:07Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-24T08:44:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-09-24T09:02:31Z)
+- Depression screening (procedure) (Date: 2021-09-24T09:29:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-24T09:39:56Z)
+- Assessment of substance use (procedure) (Date: 2021-09-24T10:06:37Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-24T10:16:54Z)
+- Colonoscopy (Date: 2021-10-07T11:11:40Z)
+- Screening for occult blood in feces (procedure) (Date: 2021-10-07T11:46:42Z)
+- Rectal polypectomy (Date: 2021-10-07T11:46:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-07T11:11:40Z: Encounter for 'check-up'
+- 2021-09-24T08:03:07Z: General examination of patient (procedure)
+- 2021-03-05T08:03:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-05T08:03:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-18T08:03:07Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-07T11:46:42Z Polyp size greatest dimension by CAP cancer protocols: 6.4 mm
+- 2021-10-07T11:46:42Z Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method: 18.1 ng/mL
+- 2021-10-06T07:03:07Z QOLS: 0.9 {score}
+- 2021-10-06T07:03:07Z DALY: 5.7 a
+- 2021-10-06T07:03:07Z QALY: 64.3 a
+- 2021-09-24T10:46:05Z Total score [DAST-10]: 0.0 {score}
+- 2021-09-24T10:06:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-09-24T09:29:00Z Fall risk total [Morse Fall Scale]: 39.0 {#}
+- 2021-09-24T09:29:00Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-09-24T09:02:31Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}

@@ -1,0 +1,59 @@
+== PATIENT RECORD: Perry780 Zulauf375 (ID: 144e80cf-0e24-0958-e987-0afc0339b98e) ==
+
+== Demographics ==
+Patient ID: 144e80cf-0e24-0958-e987-0afc0339b98e
+Name: Perry780 Zulauf375
+Gender: M
+Birthdate: 1996-01-11
+Address: 364 Konopelski Manor Unit 56
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Otitis media
+- Sprain of ankle
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Diazepam 5 MG Oral Tablet
+- clonazePAM 0.25 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Cefaclor 250 MG Oral Capsule
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1996-04-19T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 1996-06-21T04:21:05Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1996-08-07T04:21:05Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1997-07-27T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 1998-06-19T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 1998-12-18T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 1999-06-18T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 1999-12-17T04:21:05Z)
+- Throat culture (procedure) (Date: 1999-12-26T16:21:05Z)
+- Medication Reconciliation (procedure) (Date: 1999-12-31T04:21:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2000-09-15T04:21:05Z: Death Certification
+- 2000-03-12T04:21:05Z: Encounter for symptom
+- 1999-12-31T04:21:05Z: Encounter for check up (procedure)
+- 1999-12-26T16:21:05Z: Encounter for symptom
+- 1999-12-17T04:21:05Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2000-09-15T04:21:05Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1999-12-31T04:21:05Z Body mass index (BMI) [Percentile] Per age and gender: 45.8 %
+- 1999-12-31T04:21:05Z Body Height: 104.3 cm
+- 1999-12-31T04:21:05Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 1999-12-31T04:21:05Z Body Weight: 16.9 kg
+- 1999-12-31T04:21:05Z Head Occipital-frontal circumference: 50.6 cm
+- 1999-12-31T04:21:05Z Body Mass Index: 15.5 kg/m2
+- 1999-12-31T04:21:05Z Weight-for-length Per age and sex: 38.0 %
+- 1999-12-31T04:21:05Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 1999-12-31T04:21:05Z Systolic Blood Pressure: 137.0 mm[Hg]

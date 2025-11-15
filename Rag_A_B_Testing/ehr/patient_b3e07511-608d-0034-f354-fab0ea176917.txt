@@ -1,0 +1,51 @@
+== PATIENT RECORD: Gustavo235 Rael318 (ID: b3e07511-608d-0034-f354-fab0ea176917) ==
+
+== Demographics ==
+Patient ID: b3e07511-608d-0034-f354-fab0ea176917
+Name: Gustavo235 Rael318
+Gender: M
+Birthdate: 2019-07-15
+Address: 941 Kihn Dam Apt 22
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of forearm
+- Cough (finding)
+- Sore throat symptom (finding)
+- Fatigue (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-07-15T14:18:03Z)
+- Upper arm X-ray (Date: 2020-05-13T14:18:03Z)
+- Bone immobilization (Date: 2020-05-13T14:18:03Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-06-22T14:18:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-22T14:18:03Z)
+- Face mask (physical object) (Date: 2020-11-06T14:18:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-21T14:18:03Z: Well child visit (procedure)
+- 2020-12-21T14:18:03Z: Well child visit (procedure)
+- 2020-11-06T14:18:03Z: Encounter for symptom (procedure)
+- 2020-09-21T14:18:03Z: Well child visit (procedure)
+- 2020-08-04T14:48:26Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-07-15T14:18:03Z QOLS: 1.0 {score}
+- 2021-07-15T14:18:03Z DALY: 0.0 a
+- 2021-07-15T14:18:03Z QALY: 1.0 a
+- 2021-06-21T14:18:03Z Systolic Blood Pressure: 125.0 mm[Hg]
+- 2021-06-21T14:18:03Z Body Height: 88.4 cm
+- 2021-06-21T14:18:03Z Body Weight: 12.3 kg
+- 2021-06-21T14:18:03Z Weight-for-length Per age and sex: 33.6 %
+- 2021-06-21T14:18:03Z Head Occipital-frontal circumference: 49.2 cm
+- 2021-06-21T14:18:03Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-06-21T14:18:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}

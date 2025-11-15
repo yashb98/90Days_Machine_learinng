@@ -1,0 +1,183 @@
+== PATIENT RECORD: Roxy374 Reichert620 (ID: 0d281c81-6c94-4578-c69f-217929d12245) ==
+
+== Demographics ==
+Patient ID: 0d281c81-6c94-4578-c69f-217929d12245
+Name: Roxy374 Reichert620
+Gender: F
+Birthdate: 1975-08-05
+Address: 544 Hermann Knoll
+Marital Status: M
+
+== Allergies ==
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Unemployed (finding)
+- Normal pregnancy
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Homeless (finding)
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- Jolivette 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Camila 28 Day Pack
+- Seasonique 91 Day Pack
+- Yaz 28 Day Pack
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Errin 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-23T19:27:22Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-23T19:27:22Z)
+- Depression screening (procedure) (Date: 2012-10-23T20:19:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-23T20:33:10Z)
+- Assessment of substance use (procedure) (Date: 2012-10-23T20:57:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-23T21:11:22Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-01-18T02:39:34Z)
+- Removal of intrauterine device (Date: 2015-06-02T19:27:22Z)
+- Standard pregnancy test (Date: 2015-07-28T19:27:22Z)
+- Ultrasound scan for fetal viability (Date: 2015-07-28T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2015-07-28T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2015-07-28T19:27:22Z)
+- Blood typing  RH typing (Date: 2015-07-28T19:27:22Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-07-28T19:27:22Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-07-28T19:27:22Z)
+- Human immunodeficiency virus antigen test (Date: 2015-07-28T19:27:22Z)
+- Chlamydia antigen test (Date: 2015-07-28T19:27:22Z)
+- Gonorrhea infection test (Date: 2015-07-28T19:27:22Z)
+- Syphilis infection test (Date: 2015-07-28T19:27:22Z)
+- Urine culture (Date: 2015-07-28T19:27:22Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-07-28T19:27:22Z)
+- Urine screening test for diabetes (Date: 2015-07-28T19:27:22Z)
+- Hepatitis C antibody test (Date: 2015-07-28T19:27:22Z)
+- Rubella screening (Date: 2015-07-28T19:27:22Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-07-28T19:27:22Z)
+- Skin test for tuberculosis (Date: 2015-07-28T19:27:22Z)
+- Urine protein test (Date: 2015-07-28T19:27:22Z)
+- Physical examination of mother (Date: 2015-07-28T19:27:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-11T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2015-08-25T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2015-08-25T19:27:22Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-08-25T19:27:22Z)
+- Information gathering (procedure) (Date: 2015-08-25T19:27:22Z)
+- Physical examination (Date: 2015-10-04T19:27:22Z)
+- Depression screening (Date: 2015-10-04T19:27:22Z)
+- Standard pregnancy test (Date: 2016-03-29T19:27:22Z)
+- Ultrasound scan for fetal viability (Date: 2016-03-29T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-03-29T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-03-29T19:27:22Z)
+- Blood typing  RH typing (Date: 2016-03-29T19:27:22Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-03-29T19:27:22Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-03-29T19:27:22Z)
+- Human immunodeficiency virus antigen test (Date: 2016-03-29T19:27:22Z)
+- Chlamydia antigen test (Date: 2016-03-29T19:27:22Z)
+- Gonorrhea infection test (Date: 2016-03-29T19:27:22Z)
+- Syphilis infection test (Date: 2016-03-29T19:27:22Z)
+- Urine culture (Date: 2016-03-29T19:27:22Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-03-29T19:27:22Z)
+- Urine screening test for diabetes (Date: 2016-03-29T19:27:22Z)
+- Hepatitis C antibody test (Date: 2016-03-29T19:27:22Z)
+- Rubella screening (Date: 2016-03-29T19:27:22Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-03-29T19:27:22Z)
+- Skin test for tuberculosis (Date: 2016-03-29T19:27:22Z)
+- Urine protein test (Date: 2016-03-29T19:27:22Z)
+- Physical examination of mother (Date: 2016-03-29T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-04-26T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-04-26T19:27:22Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-04-26T19:27:22Z)
+- Fetal anatomy study (Date: 2016-05-24T19:27:22Z)
+- Alpha-fetoprotein test (Date: 2016-05-24T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-05-24T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-05-24T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-06-21T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-06-21T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-07-19T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-07-19T19:27:22Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-08-16T19:27:22Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2016-08-16T19:27:22Z)
+- Urine screening for glucose (Date: 2016-08-16T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-08-16T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-08-16T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-09-13T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-09-13T19:27:22Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2016-10-11T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-10-11T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-10-11T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2016-10-25T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2016-10-25T19:27:22Z)
+- Childbirth (Date: 2016-11-01T19:27:22Z)
+- Physical examination following birth (Date: 2016-12-13T19:27:22Z)
+- Depression screening (Date: 2016-12-13T19:27:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-15T19:27:22Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-15T19:27:22Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-15T20:03:10Z)
+- Depression screening (procedure) (Date: 2017-08-15T20:21:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-15T20:36:46Z)
+- Assessment of substance use (procedure) (Date: 2017-08-15T21:06:37Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-15T21:21:11Z)
+- Measurement of respiratory function (procedure) (Date: 2019-08-09T22:38:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-20T19:27:22Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-20T20:18:14Z)
+- Depression screening (procedure) (Date: 2019-08-20T20:45:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-20T20:57:30Z)
+- Assessment of substance use (procedure) (Date: 2019-08-20T21:22:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-20T21:33:20Z)
+- Standard pregnancy test (Date: 2021-08-10T19:27:22Z)
+- Ultrasound scan for fetal viability (Date: 2021-08-10T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2021-08-10T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2021-08-10T19:27:22Z)
+- Blood typing  RH typing (Date: 2021-08-10T19:27:22Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-08-10T19:27:22Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-08-10T19:27:22Z)
+- Human immunodeficiency virus antigen test (Date: 2021-08-10T19:27:22Z)
+- Chlamydia antigen test (Date: 2021-08-10T19:27:22Z)
+- Gonorrhea infection test (Date: 2021-08-10T19:27:22Z)
+- Syphilis infection test (Date: 2021-08-10T19:27:22Z)
+- Urine culture (Date: 2021-08-10T19:27:22Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-08-10T19:27:22Z)
+- Urine screening test for diabetes (Date: 2021-08-10T19:27:22Z)
+- Hepatitis C antibody test (Date: 2021-08-10T19:27:22Z)
+- Rubella screening (Date: 2021-08-10T19:27:22Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-08-10T19:27:22Z)
+- Skin test for tuberculosis (Date: 2021-08-10T19:27:22Z)
+- Urine protein test (Date: 2021-08-10T19:27:22Z)
+- Physical examination of mother (Date: 2021-08-10T19:27:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-24T19:27:22Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-24T19:27:22Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-24T19:58:27Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-24T20:21:06Z)
+- Evaluation of uterine fundal height (Date: 2021-09-07T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2021-09-07T19:27:22Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-09-07T19:27:22Z)
+- Fetal anatomy study (Date: 2021-10-05T19:27:22Z)
+- Alpha-fetoprotein test (Date: 2021-10-05T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2021-10-05T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2021-10-05T19:27:22Z)
+- Evaluation of uterine fundal height (Date: 2021-11-02T19:27:22Z)
+- Auscultation of the fetal heart (Date: 2021-11-02T19:27:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-02T19:27:22Z: Prenatal visit
+- 2021-10-05T19:27:22Z: Prenatal visit
+- 2021-09-07T19:27:22Z: Prenatal visit
+- 2021-08-24T19:27:22Z: General examination of patient (procedure)
+- 2021-08-10T19:27:22Z: Prenatal initial visit
+
+== Recent Observations (Last 10) ==
+- 2021-08-24T21:01:17Z Total score [HARK]: 0.0 {score}
+- 2021-08-24T20:21:06Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 9.0 {score}
+- 2021-08-24T19:58:27Z What address do you live at?: 544 Hermann Knoll nan
+- 2021-08-24T19:58:27Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-24T19:58:27Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-08-24T19:58:27Z What is your housing situation today?: I have housing nan
+- 2021-08-24T19:58:27Z Are you worried about losing your housing?: No nan
+- 2021-08-24T19:58:27Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-08-24T19:58:27Z What is your current work situation?: Unemployed (finding) nan
+- 2021-08-24T19:58:27Z Have you been discharged from the armed forces of the United States?: No nan

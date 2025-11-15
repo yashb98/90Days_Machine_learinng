@@ -1,0 +1,128 @@
+== PATIENT RECORD: Estela596 Posada6 (ID: 9f2de402-cf41-e01d-2989-111bd5201620) ==
+
+== Demographics ==
+Patient ID: 9f2de402-cf41-e01d-2989-111bd5201620
+Name: Estela596 Posada6
+Gender: F
+Birthdate: 1964-01-30
+Address: 625 Flatley Knoll
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Miscarriage in first trimester
+- Normal pregnancy
+- Fetus with unknown complication
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Transformed migraine (disorder)
+- Not in labor force (finding)
+- Refugee (person)
+- Part-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Removal of intrauterine device (Date: 2012-04-12T11:02:51Z)
+- Standard pregnancy test (Date: 2012-06-07T11:02:51Z)
+- Ultrasound scan for fetal viability (Date: 2012-06-07T11:02:51Z)
+- Physical examination (Date: 2012-06-15T11:02:51Z)
+- Depression screening (Date: 2012-06-15T11:02:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-09-13T11:02:51Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-13T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-13T11:52:24Z)
+- Assessment of substance use (procedure) (Date: 2012-09-13T12:20:56Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-13T12:34:35Z)
+- Intramuscular injection (Date: 2013-02-05T21:00:02Z)
+- Intramuscular injection (Date: 2013-05-16T11:02:51Z)
+- Intramuscular injection (Date: 2013-08-15T11:02:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-19T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-19T12:00:39Z)
+- Screening for domestic abuse (procedure) (Date: 2013-09-19T12:19:57Z)
+- Intramuscular injection (Date: 2013-11-14T11:02:51Z)
+- Colonoscopy (Date: 2014-01-30T11:02:51Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-04T11:02:51Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-07T11:46:23Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-10T12:32:58Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-13T13:27:56Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T14:13:42Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T14:49:10Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T15:44:20Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T16:35:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-25T11:02:51Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-25T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-25T11:59:19Z)
+- Depression screening (procedure) (Date: 2014-09-25T12:27:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-25T12:40:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-01T11:02:51Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-01T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-01T11:41:58Z)
+- Depression screening (procedure) (Date: 2015-10-01T12:08:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-01T12:19:47Z)
+- Assessment of substance use (procedure) (Date: 2015-10-01T12:49:29Z)
+- Screening for drug abuse (procedure) (Date: 2015-10-01T13:02:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-06T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-06T11:38:43Z)
+- Depression screening (procedure) (Date: 2016-10-06T11:55:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-06T12:08:07Z)
+- Assessment of substance use (procedure) (Date: 2016-10-06T12:37:49Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-06T12:50:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-12T11:02:51Z)
+- Depression screening (procedure) (Date: 2017-10-12T11:52:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-12T12:07:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-18T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-18T11:58:32Z)
+- Depression screening (procedure) (Date: 2018-10-18T12:28:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-18T12:42:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-18T13:12:03Z)
+- Assessment of substance use (procedure) (Date: 2018-10-18T13:37:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-18T13:49:51Z)
+- Colonoscopy (Date: 2019-01-30T11:40:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-24T11:02:51Z)
+- Depression screening (procedure) (Date: 2019-10-24T11:33:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-24T11:45:49Z)
+- Assessment of substance use (procedure) (Date: 2019-10-24T12:07:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-24T12:18:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-29T11:02:51Z)
+- Depression screening (procedure) (Date: 2020-10-29T11:59:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-29T12:11:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-04T11:02:51Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-04T11:02:51Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-04T11:46:45Z)
+- Depression screening (procedure) (Date: 2021-11-04T12:15:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-04T12:28:53Z)
+- Assessment of substance use (procedure) (Date: 2021-11-04T12:49:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-11-04T13:04:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T11:02:51Z: General examination of patient (procedure)
+- 2021-04-22T11:02:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-01T11:02:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-08T03:02:51Z: Encounter for symptom
+- 2020-10-29T11:02:51Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-04T13:26:29Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-11-04T12:49:27Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-11-04T12:15:01Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-11-04T11:46:45Z What address do you live at?: 625 Flatley Knoll nan
+- 2021-11-04T11:46:45Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-11-04T11:46:45Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-11-04T11:46:45Z What is your housing situation today?: I have housing nan
+- 2021-11-04T11:46:45Z Are you worried about losing your housing?: No nan
+- 2021-11-04T11:46:45Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-11-04T11:46:45Z What is your current work situation?: Full-time work nan

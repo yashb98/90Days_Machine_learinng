@@ -1,0 +1,114 @@
+== PATIENT RECORD: Javier97 Greenfelder433 (ID: e7d52393-d28b-96d3-fe60-5a19ef9ce171) ==
+
+== Demographics ==
+Patient ID: e7d52393-d28b-96d3-fe60-5a19ef9ce171
+Name: Javier97 Greenfelder433
+Gender: M
+Birthdate: 1948-03-03
+Address: 672 Cremin Divide Suite 83
+Marital Status: M
+
+== Allergies ==
+- Animal dander (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Hyperlipidemia
+- Social isolation (finding)
+- Osteoporosis (disorder)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Stress (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Not in labor force (finding)
+- Laceration of hand
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- tramadol hydrochloride 50 MG Oral Tablet
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2011-11-28T15:54:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-11T09:54:43Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-11T10:35:41Z)
+- Assessment of substance use (procedure) (Date: 2012-01-11T10:51:03Z)
+- Screening for drug abuse (procedure) (Date: 2012-01-11T11:03:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-16T09:54:43Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-16T09:54:43Z)
+- Screening for domestic abuse (procedure) (Date: 2013-01-16T10:26:19Z)
+- Depression screening (procedure) (Date: 2013-01-16T11:03:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-16T11:18:12Z)
+- Assessment of substance use (procedure) (Date: 2013-01-16T11:39:10Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-16T11:51:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-22T09:54:43Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-22T09:54:43Z)
+- Depression screening (procedure) (Date: 2014-01-22T10:44:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-22T10:58:08Z)
+- Assessment of substance use (procedure) (Date: 2014-01-22T11:18:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-22T11:28:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-28T09:54:43Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-28T10:42:18Z)
+- Depression screening (procedure) (Date: 2015-01-28T10:58:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-28T11:11:17Z)
+- Assessment of substance use (procedure) (Date: 2015-01-28T11:32:54Z)
+- Screening for drug abuse (procedure) (Date: 2015-01-28T11:47:24Z)
+- Colonoscopy (Date: 2015-05-20T12:56:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-03T09:54:43Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-03T10:43:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-08T09:54:43Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-08T10:35:54Z)
+- Assessment of substance use (procedure) (Date: 2017-02-08T10:51:38Z)
+- Screening for drug abuse (procedure) (Date: 2017-02-08T11:02:03Z)
+- Suture open wound (Date: 2018-01-06T13:43:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-14T09:54:43Z)
+- Depression screening (procedure) (Date: 2018-02-14T10:31:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-14T10:43:10Z)
+- Assessment of substance use (procedure) (Date: 2018-02-14T11:03:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-02-14T11:14:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-20T09:54:43Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-20T09:54:43Z)
+- Assessment of substance use (procedure) (Date: 2019-02-20T10:28:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-02-20T10:41:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-26T09:54:43Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-26T09:54:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-02-26T10:52:18Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-26T11:14:02Z)
+- Depression screening (procedure) (Date: 2020-02-26T11:54:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-26T12:05:03Z)
+- Colonoscopy (Date: 2020-05-19T13:22:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-03T09:54:43Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-03T10:48:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-03-03T11:09:39Z)
+- Depression screening (procedure) (Date: 2021-03-03T11:31:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-03T11:46:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T09:54:43Z: Follow-up encounter
+- 2021-03-10T09:54:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-03T09:54:43Z: General examination of patient (procedure)
+- 2021-02-17T09:54:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-06T09:54:43Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-11-06T09:54:43Z Chloride: 107.3 mmol/L
+- 2021-11-06T09:54:43Z Glomerular filtration rate/1.73 sq M.predicted: 74.3 mL/min
+- 2021-11-06T09:54:43Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 59.0 U/L
+- 2021-11-06T09:54:43Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 121.1 U/L
+- 2021-11-06T09:54:43Z Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- 2021-11-06T09:54:43Z Globulin [Mass/volume] in Serum by calculation: 3.1 g/L
+- 2021-11-06T09:54:43Z Albumin [Mass/volume] in Serum or Plasma: 4.8 g/dL
+- 2021-11-06T09:54:43Z Protein [Mass/volume] in Serum or Plasma: 68.7 g/dL
+- 2021-11-06T09:54:43Z Carbon Dioxide: 23.4 mmol/L
+- 2021-11-06T09:54:43Z Triglycerides: 122.5 mg/dL

@@ -1,0 +1,48 @@
+== PATIENT RECORD: Ángela136 Saldaña5 (ID: f2f98ceb-38a9-72f3-5193-a849efce41ce) ==
+
+== Demographics ==
+Patient ID: f2f98ceb-38a9-72f3-5193-a849efce41ce
+Name: Ángela136 Saldaña5
+Gender: F
+Birthdate: 2016-03-28
+Address: 616 Grimes Crossroad Suite 48
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Cefuroxime 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2016-07-04T14:31:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-05T14:31:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-05T14:31:59Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-04T14:31:59Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-05T14:31:59Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-03T14:31:59Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-08T14:31:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-08T14:31:59Z: Well child visit (procedure)
+- 2021-02-23T14:31:59Z: Encounter for symptom
+- 2020-03-02T14:31:59Z: Well child visit (procedure)
+- 2019-09-02T14:31:59Z: Well child visit (procedure)
+- 2019-03-04T14:31:59Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-28T14:31:59Z QOLS: 1.0 {score}
+- 2021-03-28T14:31:59Z DALY: 0.0 a
+- 2021-03-28T14:31:59Z QALY: 4.0 a
+- 2021-03-08T14:31:59Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-03-08T14:31:59Z Body Height: 101.7 cm
+- 2021-03-08T14:31:59Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-03-08T14:31:59Z Body Weight: 15.4 kg
+- 2021-03-08T14:31:59Z Body Mass Index: 14.9 kg/m2
+- 2021-03-08T14:31:59Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-03-08T14:31:59Z Systolic Blood Pressure: 101.0 mm[Hg]

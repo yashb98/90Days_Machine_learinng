@@ -1,0 +1,49 @@
+== PATIENT RECORD: Rex53 Bailey598 (ID: 33edcda2-4853-abe6-9e2b-5a40279cd50b) ==
+
+== Demographics ==
+Patient ID: 33edcda2-4853-abe6-9e2b-5a40279cd50b
+Name: Rex53 Bailey598
+Gender: M
+Birthdate: 2015-03-12
+Address: 283 Mann Byway Suite 87
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-04-16T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-19T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-18T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-19T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-16T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-15T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-16T10:19:10Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-14T10:19:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-10T11:19:10Z: Encounter for symptom
+- 2021-02-25T10:19:10Z: Well child visit (procedure)
+- 2020-02-20T10:19:10Z: Well child visit (procedure)
+- 2019-02-14T10:19:10Z: Well child visit (procedure)
+- 2018-11-06T10:19:10Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-10T11:19:10Z Body temperature: 38.0 Cel
+- 2021-03-12T11:19:10Z QOLS: 1.0 {score}
+- 2021-03-12T11:19:10Z DALY: 0.0 a
+- 2021-03-12T11:19:10Z QALY: 5.0 a
+- 2021-02-25T10:19:10Z Body Weight: 21.9 kg
+- 2021-02-25T10:19:10Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-02-25T10:19:10Z Body Mass Index: 14.1 kg/m2
+- 2021-02-25T10:19:10Z Body mass index (BMI) [Percentile] Per age and gender: 11.6 %
+- 2021-02-25T10:19:10Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-02-25T10:19:10Z MCHC [Mass/volume] by Automated count: 35.6 g/dL

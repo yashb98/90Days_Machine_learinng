@@ -1,0 +1,79 @@
+== PATIENT RECORD: Yevette778 Tillman293 (ID: 2783a318-7e6d-e3a7-fce7-2a70e66c6ba9) ==
+
+== Demographics ==
+Patient ID: 2783a318-7e6d-e3a7-fce7-2a70e66c6ba9
+Name: Yevette778 Tillman293
+Gender: F
+Birthdate: 2006-01-27
+Address: 1046 Farrell Corner Unit 88
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Streptococcal sore throat (disorder)
+- Sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Laceration of forearm
+- Body mass index 30+ - obesity (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-13T17:16:04Z)
+- Throat culture (procedure) (Date: 2012-11-04T20:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-18T17:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-30T17:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-21T17:16:04Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-16T17:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-16T17:16:04Z)
+- Depression screening (procedure) (Date: 2018-02-16T17:36:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-02-16T17:51:42Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-05T17:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-05T17:16:04Z)
+- Depression screening (procedure) (Date: 2018-10-05T17:41:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-05T17:55:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-22T17:16:04Z)
+- Depression screening (procedure) (Date: 2019-02-22T17:35:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-02-22T17:47:03Z)
+- Assessment of substance use (procedure) (Date: 2019-02-22T18:14:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-02-22T18:29:26Z)
+- Anticipatory guidance (procedure) (Date: 2019-02-22T18:53:04Z)
+- Suture open wound (Date: 2019-10-08T17:16:04Z)
+- Assessment of substance use (procedure) (Date: 2020-02-28T17:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-28T17:16:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-02-28T17:30:42Z)
+- Anticipatory guidance (procedure) (Date: 2020-02-28T17:42:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-05T17:16:04Z)
+- Assessment of substance use (procedure) (Date: 2021-03-05T17:33:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-03-05T17:45:50Z)
+- Anticipatory guidance (procedure) (Date: 2021-03-05T17:57:22Z)
+- Measurement of respiratory function (procedure) (Date: 2021-07-10T07:16:04Z)
+- Depression screening (procedure) (Date: 2021-07-23T17:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-23T17:16:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-07-23T17:28:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-23T17:16:04Z: Encounter for check up (procedure)
+- 2021-07-16T17:16:04Z: Urgent care clinic (procedure)
+- 2021-07-10T07:16:04Z: Encounter for symptom
+- 2021-03-05T17:16:04Z: Well child visit (procedure)
+- 2020-02-28T17:16:04Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-23T17:52:05Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-07-23T17:16:04Z Body mass index (BMI) [Percentile] Per age and gender: 88.4 %
+- 2021-07-23T17:16:04Z Body Height: 156.6 cm
+- 2021-07-23T17:16:04Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-23T17:16:04Z Body Weight: 61.8 kg
+- 2021-07-23T17:16:04Z Body Mass Index: 25.2 kg/m2
+- 2021-07-23T17:16:04Z Diastolic Blood Pressure: 73.0 mm[Hg]
+- 2021-07-23T17:16:04Z Systolic Blood Pressure: 125.0 mm[Hg]
+- 2021-07-23T17:16:04Z Heart rate: 62.0 /min
+- 2021-07-23T17:16:04Z Respiratory rate: 14.0 /min

@@ -1,0 +1,73 @@
+== PATIENT RECORD: Lazaro919 Greenfelder433 (ID: 0bbf4179-5526-b01d-b1b3-11a0f9742e3a) ==
+
+== Demographics ==
+Patient ID: 0bbf4179-5526-b01d-b1b3-11a0f9742e3a
+Name: Lazaro919 Greenfelder433
+Gender: M
+Birthdate: 1981-07-05
+Address: 871 Rempel Bypass
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Laceration of hand
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Concussion with loss of consciousness
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-16T08:22:19Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-16T08:22:19Z)
+- Depression screening (procedure) (Date: 2012-09-16T09:15:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-16T09:26:13Z)
+- Assessment of substance use (procedure) (Date: 2012-09-16T09:48:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-09-16T10:02:43Z)
+- Suture open wound (Date: 2014-10-17T09:28:49Z)
+- Injection of tetanus antitoxin (Date: 2014-10-17T09:38:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-20T08:22:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-20T08:22:19Z)
+- Depression screening (procedure) (Date: 2015-09-20T09:03:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-20T09:16:52Z)
+- Assessment of substance use (procedure) (Date: 2015-09-20T09:42:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-09-20T09:54:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-23T08:22:19Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-23T08:22:19Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-23T09:02:07Z)
+- Depression screening (procedure) (Date: 2018-09-23T09:31:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-23T09:43:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-11T08:22:19Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-11T08:22:19Z)
+- Screening for domestic abuse (procedure) (Date: 2021-07-11T09:15:49Z)
+- Depression screening (procedure) (Date: 2021-07-11T09:41:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-11T09:53:36Z)
+- Assessment of substance use (procedure) (Date: 2021-07-11T10:18:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-11T10:33:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-11T08:22:19Z: General examination of patient (procedure)
+- 2020-10-03T09:49:41Z: Encounter for 'check-up'
+- 2020-09-01T09:49:41Z: Emergency room admission (procedure)
+- 2018-09-23T08:22:19Z: General examination of patient (procedure)
+- 2015-09-20T08:22:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-11T10:58:29Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-07-11T10:18:19Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-07-11T09:41:40Z Total score [HARK]: 0.0 {score}
+- 2021-07-11T09:15:49Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-07-11T09:15:49Z What is your main insurance?: Medicaid nan
+- 2021-07-11T09:15:49Z Are you worried about losing your housing?: No nan
+- 2021-07-11T09:15:49Z What address do you live at?: 871 Rempel Bypass nan
+- 2021-07-11T09:15:49Z What is your current work situation?: Full-time work nan
+- 2021-07-11T09:15:49Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 9945 /a
+- 2021-07-11T09:15:49Z How many family members  including yourself  do you currently live with?: 6.0 {#}

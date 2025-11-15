@@ -1,0 +1,108 @@
+== PATIENT RECORD: Delmy607 Auer97 (ID: 25c76c36-e3b2-ece6-70e6-028b0f152e1f) ==
+
+== Demographics ==
+Patient ID: 25c76c36-e3b2-ece6-70e6-028b0f152e1f
+Name: Delmy607 Auer97
+Gender: F
+Birthdate: 1956-07-14
+Address: 470 Bartell Harbor
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Has a criminal record (finding)
+- Limited social contact (finding)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Polyp of colon
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-07T09:20:54Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-07T09:51:10Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-07T10:08:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-13T09:20:54Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-13T09:20:54Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-13T10:13:35Z)
+- Assessment of substance use (procedure) (Date: 2013-04-13T10:31:44Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-13T10:42:52Z)
+- Measurement of respiratory function (procedure) (Date: 2013-07-01T21:20:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-06T09:20:54Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-06T09:20:54Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-06T09:56:42Z)
+- Assessment of substance use (procedure) (Date: 2013-07-06T10:12:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-06T10:24:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-19T09:20:54Z)
+- Assessment of substance use (procedure) (Date: 2014-04-19T10:08:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-19T10:21:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-25T09:20:54Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-25T10:03:23Z)
+- Screening for domestic abuse (procedure) (Date: 2015-04-25T10:29:41Z)
+- Depression screening (procedure) (Date: 2015-04-25T11:13:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-25T11:26:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-30T09:20:54Z)
+- Assessment of substance use (procedure) (Date: 2016-04-30T10:13:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-30T10:26:37Z)
+- Colonoscopy (Date: 2016-07-14T10:30:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-06T09:20:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-12T09:20:54Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-12T09:58:50Z)
+- Assessment of substance use (procedure) (Date: 2018-05-12T10:33:37Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-12T10:47:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-18T09:20:54Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-18T10:17:24Z)
+- Depression screening (procedure) (Date: 2019-05-18T10:49:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-18T11:03:45Z)
+- Assessment of substance use (procedure) (Date: 2019-05-18T11:29:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-18T11:43:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-23T09:20:54Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-23T09:56:42Z)
+- Depression screening (procedure) (Date: 2020-05-23T10:18:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-23T10:28:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-29T09:20:54Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-29T09:20:54Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-29T10:18:29Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-29T10:36:50Z)
+- Depression screening (procedure) (Date: 2021-05-29T11:16:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-29T11:31:36Z)
+- Colonoscopy (Date: 2021-07-14T10:59:04Z)
+- Screening for occult blood in feces (procedure) (Date: 2021-07-14T11:24:21Z)
+- Rectal polypectomy (Date: 2021-07-14T11:24:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-14T10:59:04Z: Encounter for 'check-up'
+- 2021-05-29T09:20:54Z: General examination of patient (procedure)
+- 2021-04-03T09:20:54Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-13T09:20:54Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-05-23T09:20:54Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-14T11:24:21Z Polyp size greatest dimension by CAP cancer protocols: 4.3 mm
+- 2021-07-14T11:24:21Z Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method: 16.8 ng/mL
+- 2021-07-14T09:20:54Z QOLS: 0.9 {score}
+- 2021-07-14T09:20:54Z DALY: 1.6 a
+- 2021-07-14T09:20:54Z QALY: 62.4 a
+- 2021-05-29T11:57:16Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-05-29T11:16:37Z Total score [HARK]: 3.0 {score}
+- 2021-05-29T10:36:50Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-05-29T10:18:29Z Are you Hispanic or Latino?: No nan
+- 2021-05-29T10:18:29Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

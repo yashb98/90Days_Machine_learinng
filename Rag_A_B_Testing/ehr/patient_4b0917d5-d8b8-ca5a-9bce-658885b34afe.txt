@@ -1,0 +1,87 @@
+== PATIENT RECORD: Manual570 Morissette863 (ID: 4b0917d5-d8b8-ca5a-9bce-658885b34afe) ==
+
+== Demographics ==
+Patient ID: 4b0917d5-d8b8-ca5a-9bce-658885b34afe
+Name: Manual570 Morissette863
+Gender: M
+Birthdate: 2001-03-24
+Address: 665 Schulist Dam
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Laceration of foot
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-07-26T12:08:56Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-13T23:08:56Z)
+- Depression screening (procedure) (Date: 2013-04-13T23:28:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-04-13T23:40:11Z)
+- Suture open wound (Date: 2013-05-10T23:08:56Z)
+- Assessment of substance use (procedure) (Date: 2014-04-19T23:08:56Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-19T23:08:56Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-04-19T23:22:21Z)
+- Health risks education (procedure) (Date: 2014-04-19T23:37:06Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-25T23:08:56Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-25T23:08:56Z)
+- Assessment of substance use (procedure) (Date: 2015-04-25T23:26:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-04-25T23:39:10Z)
+- Anticipatory guidance (procedure) (Date: 2015-04-25T23:55:45Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-30T23:08:56Z)
+- Assessment of substance use (procedure) (Date: 2016-04-30T23:31:45Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-04-30T23:44:40Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-01T00:11:36Z)
+- Depression screening (procedure) (Date: 2017-05-06T23:08:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-06T23:08:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-06T23:20:02Z)
+- Depression screening (procedure) (Date: 2018-05-12T23:08:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-05-12T23:22:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-13T23:08:56Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-13T23:08:56Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-14T00:06:45Z)
+- Depression screening (procedure) (Date: 2019-04-14T00:27:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-14T00:39:23Z)
+- Assessment of substance use (procedure) (Date: 2019-04-14T01:06:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-04-14T01:17:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-18T23:08:56Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-18T23:42:27Z)
+- Depression screening (procedure) (Date: 2019-05-18T23:57:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-19T00:11:13Z)
+- Assessment of substance use (procedure) (Date: 2019-05-19T00:37:27Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-19T00:49:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-23T23:08:56Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-24T00:03:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-04T23:21:44Z: Emergency room admission (procedure)
+- 2021-02-20T23:08:56Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-30T23:08:56Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-05-23T23:08:56Z: General examination of patient (procedure)
+- 2020-05-20T15:08:56Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-03-24T22:08:56Z QOLS: 1.0 {score}
+- 2021-03-24T22:08:56Z DALY: 0.0 a
+- 2021-03-24T22:08:56Z QALY: 19.0 a
+- 2020-05-24T00:23:11Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- 2020-05-24T00:03:42Z What address do you live at?: 665 Schulist Dam nan
+- 2020-05-24T00:03:42Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-05-24T00:03:42Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-05-24T00:03:42Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-05-24T00:03:42Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2020-05-24T00:03:42Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

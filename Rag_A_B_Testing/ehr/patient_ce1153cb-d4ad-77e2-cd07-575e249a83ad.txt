@@ -1,0 +1,91 @@
+== PATIENT RECORD: Deidra675 Rosenbaum794 (ID: ce1153cb-d4ad-77e2-cd07-575e249a83ad) ==
+
+== Demographics ==
+Patient ID: ce1153cb-d4ad-77e2-cd07-575e249a83ad
+Name: Deidra675 Rosenbaum794
+Gender: F
+Birthdate: 2006-10-18
+Address: 619 Keeling Bypass
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Bee venom (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Eggs (edible) (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Childhood asthma
+- Seasonal allergic rhinitis
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Otitis media
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Ibuprofen 200 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-10-03T09:56:33Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-04T09:56:33Z)
+- Plain chest X-ray (procedure) (Date: 2013-10-13T15:56:33Z)
+- Throat culture (procedure) (Date: 2013-10-24T19:56:33Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-06T09:56:33Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-15T09:56:33Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-26T09:56:33Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-07T09:56:33Z)
+- Depression screening (procedure) (Date: 2018-11-07T10:16:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-07T10:26:37Z)
+- Assessment of substance use (procedure) (Date: 2018-11-07T10:54:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-11-07T11:05:15Z)
+- Anticipatory guidance (procedure) (Date: 2018-11-07T11:16:23Z)
+- Throat culture (procedure) (Date: 2019-11-08T14:56:33Z)
+- Depression screening (procedure) (Date: 2019-11-13T09:56:33Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-13T09:56:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-13T10:09:48Z)
+- Assessment of substance use (procedure) (Date: 2019-11-13T10:36:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-11-13T10:50:43Z)
+- Anticipatory guidance (procedure) (Date: 2019-11-13T11:12:59Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-02T09:56:33Z)
+- Depression screening (procedure) (Date: 2020-09-02T10:22:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-09-02T10:37:23Z)
+- Depression screening (procedure) (Date: 2020-11-18T09:56:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-18T10:08:15Z)
+- Assessment of substance use (procedure) (Date: 2020-11-18T10:33:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-18T10:46:00Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-18T11:15:39Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-12T09:56:33Z: Consultation for treatment
+- 2021-06-30T09:56:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-09T09:56:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-18T09:56:33Z: Well child visit (procedure)
+- 2020-09-02T09:56:33Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-18T09:56:33Z QOLS: 0.9 {score}
+- 2021-10-18T09:56:33Z DALY: 0.5 a
+- 2021-10-18T09:56:33Z QALY: 13.5 a
+- 2020-11-18T10:33:39Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 2020-11-18T09:56:33Z Body Height: 148.3 cm
+- 2020-11-18T09:56:33Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2020-11-18T09:56:33Z Body Weight: 42.2 kg
+- 2020-11-18T09:56:33Z Body Mass Index: 19.2 kg/m2
+- 2020-11-18T09:56:33Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2020-11-18T09:56:33Z Systolic Blood Pressure: 131.0 mm[Hg]

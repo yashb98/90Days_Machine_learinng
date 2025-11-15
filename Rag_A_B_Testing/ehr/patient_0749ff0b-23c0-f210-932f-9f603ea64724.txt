@@ -1,0 +1,80 @@
+== PATIENT RECORD: Hank686 Reichert620 (ID: 0749ff0b-23c0-f210-932f-9f603ea64724) ==
+
+== Demographics ==
+Patient ID: 0749ff0b-23c0-f210-932f-9f603ea64724
+Name: Hank686 Reichert620
+Gender: M
+Birthdate: 1976-08-23
+Address: 783 Wehner Camp Unit 45
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Sprain of ankle
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Laceration of foot
+- Body mass index 30+ - obesity (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-11-11T13:07:16Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-11T13:42:06Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-11T14:02:15Z)
+- Depression screening (procedure) (Date: 2013-11-11T14:41:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-11T14:55:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-29T13:07:16Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-29T13:41:33Z)
+- Screening for domestic abuse (procedure) (Date: 2016-08-29T13:57:06Z)
+- Depression screening (procedure) (Date: 2016-08-29T14:22:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-29T14:35:50Z)
+- Assessment of substance use (procedure) (Date: 2016-08-29T15:00:56Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-29T15:15:14Z)
+- Suture open wound (Date: 2018-05-05T13:07:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-03T13:07:16Z)
+- Depression screening (procedure) (Date: 2018-09-03T13:54:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-03T14:08:26Z)
+- Assessment of substance use (procedure) (Date: 2018-09-03T14:36:22Z)
+- Screening for drug abuse (procedure) (Date: 2018-09-03T14:49:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-07T13:07:16Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-07T13:07:16Z)
+- Depression screening (procedure) (Date: 2020-09-07T14:01:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-07T14:16:01Z)
+- Assessment of substance use (procedure) (Date: 2020-09-07T14:36:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-07T14:47:11Z)
+- Measurement of respiratory function (procedure) (Date: 2021-05-28T00:07:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-07T13:07:16Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-07T13:44:13Z)
+- Depression screening (procedure) (Date: 2021-06-07T14:09:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-07T14:22:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-30T13:07:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-07T13:07:16Z: Encounter for check up (procedure)
+- 2021-05-28T00:07:16Z: Encounter for symptom
+- 2020-09-07T13:07:16Z: General examination of patient (procedure)
+- 2018-09-03T13:07:16Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-23T13:07:16Z QOLS: 1.0 {score}
+- 2021-08-23T13:07:16Z DALY: 0.0 a
+- 2021-08-23T13:07:16Z QALY: 44.0 a
+- 2021-06-07T14:49:03Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-07T14:09:27Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 13.0 {score}
+- 2021-06-07T13:44:13Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-07T13:44:13Z What is your current work situation?: Full-time work nan
+- 2021-06-07T13:44:13Z What is your main insurance?: Private insurance nan
+- 2021-06-07T13:44:13Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 67635 /a
+- 2021-06-07T13:44:13Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

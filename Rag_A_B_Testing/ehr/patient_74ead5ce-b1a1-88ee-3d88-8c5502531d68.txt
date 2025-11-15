@@ -1,0 +1,81 @@
+== PATIENT RECORD: Diane211 Murphy561 (ID: 74ead5ce-b1a1-88ee-3d88-8c5502531d68) ==
+
+== Demographics ==
+Patient ID: 74ead5ce-b1a1-88ee-3d88-8c5502531d68
+Name: Diane211 Murphy561
+Gender: F
+Birthdate: 1974-05-11
+Address: 646 Hagenes Union
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Hypertension
+- Limited social contact (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-27T19:07:42Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-27T19:07:42Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-27T19:43:18Z)
+- Assessment of substance use (procedure) (Date: 2012-10-27T20:10:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-27T20:24:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-02T19:07:42Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-02T19:48:53Z)
+- Assessment of substance use (procedure) (Date: 2013-11-02T20:17:09Z)
+- Screening for drug abuse (procedure) (Date: 2013-11-02T20:27:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-08T19:07:42Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-08T19:57:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-14T19:07:42Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-14T20:05:07Z)
+- Assessment of substance use (procedure) (Date: 2015-11-14T20:23:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-14T20:38:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-19T19:07:42Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-19T19:38:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-25T19:07:42Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-25T20:05:35Z)
+- Assessment of substance use (procedure) (Date: 2017-11-25T20:32:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-25T20:44:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-01T19:07:42Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-01T19:48:59Z)
+- Assessment of substance use (procedure) (Date: 2018-12-01T20:13:21Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-01T20:27:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-07T19:07:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-07T19:07:42Z)
+- Assessment of substance use (procedure) (Date: 2019-12-07T19:52:05Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-07T20:02:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-12T19:07:42Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-12T19:07:42Z)
+- Screening for domestic abuse (procedure) (Date: 2020-12-12T19:39:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-12T19:07:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-12T19:07:42Z: General examination of patient (procedure)
+- 2019-12-07T19:07:42Z: General examination of patient (procedure)
+- 2018-12-01T19:07:42Z: General examination of patient (procedure)
+- 2017-11-25T19:07:42Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-11T19:07:42Z QOLS: 1.0 {score}
+- 2021-05-11T19:07:42Z QALY: 46.0 a
+- 2021-05-11T19:07:42Z DALY: 0.0 a
+- 2020-12-12T20:17:12Z Total score [HARK]: 0.0 {score}
+- 2020-12-12T19:39:58Z What is your housing situation today?: I have housing nan
+- 2020-12-12T19:39:58Z Are you worried about losing your housing?: Yes nan
+- 2020-12-12T19:39:58Z What address do you live at?: 646 Hagenes Union nan
+- 2020-12-12T19:39:58Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-12-12T19:39:58Z What is your current work situation?: Full-time work nan
+- 2020-12-12T19:39:58Z What is your main insurance?: Private insurance nan

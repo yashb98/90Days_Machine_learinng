@@ -1,0 +1,114 @@
+== PATIENT RECORD: Cody889 Hilll811 (ID: d53c57a5-4480-2481-32ee-b2844a991c9d) ==
+
+== Demographics ==
+Patient ID: d53c57a5-4480-2481-32ee-b2844a991c9d
+Name: Cody889 Hilll811
+Gender: M
+Birthdate: 1948-07-28
+Address: 568 Ryan Stravenue
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Localized  primary osteoarthritis of the hand
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Sputum finding (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-06T07:04:22Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-06T07:04:22Z)
+- Assessment of substance use (procedure) (Date: 2012-06-06T07:44:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-06-06T07:56:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-12T07:04:22Z)
+- Colonoscopy (Date: 2013-07-28T08:48:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-18T07:04:22Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-18T07:47:53Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-06-18T08:15:38Z)
+- Depression screening (procedure) (Date: 2014-06-18T08:44:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-18T08:58:08Z)
+- Assessment of substance use (procedure) (Date: 2014-06-18T09:19:30Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-18T09:33:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-24T07:04:22Z)
+- Depression screening (procedure) (Date: 2015-06-24T07:54:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-24T08:07:15Z)
+- Assessment of substance use (procedure) (Date: 2015-06-24T08:32:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-06-24T08:46:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-29T07:04:22Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-29T07:04:22Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-29T07:35:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-06-29T07:59:39Z)
+- Depression screening (procedure) (Date: 2016-06-29T08:21:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-29T08:32:21Z)
+- Assessment of substance use (procedure) (Date: 2016-06-29T08:57:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-06-29T09:12:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-05T07:04:22Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-05T07:04:22Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-05T07:47:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-07-05T08:06:43Z)
+- Screening for domestic abuse (procedure) (Date: 2017-07-05T08:28:10Z)
+- Depression screening (procedure) (Date: 2017-07-05T09:01:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-05T09:12:13Z)
+- Assessment of substance use (procedure) (Date: 2017-07-05T09:42:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-05T09:54:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-11T07:04:22Z)
+- Depression screening (procedure) (Date: 2018-07-11T07:48:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-11T07:58:34Z)
+- Assessment of substance use (procedure) (Date: 2018-07-11T08:28:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-07-11T08:38:43Z)
+- Colonoscopy (Date: 2018-07-28T09:24:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-17T07:04:22Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-17T07:04:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-17T07:54:31Z)
+- Depression screening (procedure) (Date: 2019-07-17T08:15:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-17T08:29:22Z)
+- Assessment of substance use (procedure) (Date: 2019-07-17T08:57:50Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-17T09:08:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-22T07:04:22Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-22T07:04:22Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-22T07:52:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-07-22T08:17:05Z)
+- Face mask (physical object) (Date: 2020-12-29T07:04:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-28T07:04:22Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-28T07:44:27Z)
+- Depression screening (procedure) (Date: 2021-07-28T08:05:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-28T08:18:41Z)
+- Assessment of substance use (procedure) (Date: 2021-07-28T08:45:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-28T08:56:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-10T08:04:22Z: Encounter for symptom
+- 2021-07-28T07:04:22Z: General examination of patient (procedure)
+- 2021-06-02T07:04:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-12T07:04:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-29T07:04:22Z: Encounter for symptom (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-28T09:25:08Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-07-28T08:45:25Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-28T08:05:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-07-28T07:44:27Z What address do you live at?: 568 Ryan Stravenue nan
+- 2021-07-28T07:44:27Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-07-28T07:44:27Z What language are you most comfortable speaking?: English nan
+- 2021-07-28T07:44:27Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-07-28T07:44:27Z What is your housing situation today?: I have housing nan
+- 2021-07-28T07:44:27Z Are you worried about losing your housing?: No nan
+- 2021-07-28T07:44:27Z What is the highest level of school that you have finished?: More than high school nan

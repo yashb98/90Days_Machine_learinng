@@ -1,0 +1,124 @@
+== PATIENT RECORD: Warren653 Cruickshank494 (ID: 4ad26ca0-a43f-700f-6190-9f61154c6de0) ==
+
+== Demographics ==
+Patient ID: 4ad26ca0-a43f-700f-6190-9f61154c6de0
+Name: Warren653 Cruickshank494
+Gender: M
+Birthdate: 1981-11-19
+Address: 545 Turner Extension Unit 30
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Concussion with no loss of consciousness
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-23T03:17:11Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-23T03:17:11Z)
+- Peripheral blood smear interpretation (Date: 2012-03-23T03:17:11Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-23T03:48:33Z)
+- Depression screening (procedure) (Date: 2012-03-23T04:13:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-23T04:25:22Z)
+- Assessment of substance use (procedure) (Date: 2012-03-23T04:49:22Z)
+- Screening for drug abuse (procedure) (Date: 2012-03-23T05:02:04Z)
+- Review of systems (procedure) (Date: 2012-03-23T03:47:11Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-23T03:58:38Z)
+- Brief general examination (procedure) (Date: 2012-03-23T04:18:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-13T03:17:11Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-13T03:53:27Z)
+- Depression screening (procedure) (Date: 2012-07-13T04:24:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-13T04:37:49Z)
+- Assessment of substance use (procedure) (Date: 2012-07-13T05:06:09Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-13T05:18:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-29T03:17:11Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-29T03:17:11Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-29T03:48:15Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-29T04:04:05Z)
+- Depression screening (procedure) (Date: 2013-03-29T04:31:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-29T04:42:19Z)
+- Assessment of substance use (procedure) (Date: 2013-03-29T05:08:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-03-29T05:18:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-04T03:17:11Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-04T03:17:11Z)
+- Depression screening (procedure) (Date: 2014-04-04T03:55:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-04T04:09:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-10T03:17:11Z)
+- Depression screening (procedure) (Date: 2015-04-10T04:05:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-10T04:18:26Z)
+- Assessment of substance use (procedure) (Date: 2015-04-10T04:43:22Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-10T04:57:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-15T03:17:11Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-15T03:17:11Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-15T03:54:45Z)
+- Depression screening (procedure) (Date: 2016-04-15T04:14:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-15T04:28:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-21T03:17:11Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-21T03:17:11Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-21T04:02:56Z)
+- Depression screening (procedure) (Date: 2017-04-21T04:25:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-21T04:36:47Z)
+- Assessment of substance use (procedure) (Date: 2017-04-21T04:59:17Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-21T05:11:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-27T03:17:11Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-27T04:00:36Z)
+- Depression screening (procedure) (Date: 2018-04-27T04:25:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-27T04:38:36Z)
+- Assessment of substance use (procedure) (Date: 2018-04-27T04:59:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-27T05:13:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-03T03:17:11Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-03T04:05:39Z)
+- Depression screening (procedure) (Date: 2019-05-03T04:48:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-03T05:02:07Z)
+- Assessment of substance use (procedure) (Date: 2019-05-03T05:30:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-03T05:43:25Z)
+- Sputum examination (procedure) (Date: 2020-03-18T19:17:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-08T03:17:11Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-08T03:17:11Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-08T04:05:05Z)
+- Depression screening (procedure) (Date: 2020-05-08T04:43:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-08T04:53:42Z)
+- Assessment of substance use (procedure) (Date: 2020-05-08T05:21:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-08T05:36:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-14T03:17:11Z)
+- Depression screening (procedure) (Date: 2021-05-14T03:48:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-14T04:02:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-14T03:17:11Z: General examination of patient (procedure)
+- 2021-04-16T03:17:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-26T03:17:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-05-08T03:17:11Z: General examination of patient (procedure)
+- 2020-03-27T03:17:11Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-14T04:27:43Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-05-14T03:48:15Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-05-14T03:48:15Z What is your main insurance?: Private insurance nan
+- 2021-05-14T03:48:15Z What language are you most comfortable speaking?: English nan
+- 2021-05-14T03:48:15Z What is your housing situation today?: I have housing nan
+- 2021-05-14T03:48:15Z Are you worried about losing your housing?: No nan
+- 2021-05-14T03:48:15Z What address do you live at?: 545 Turner Extension Unit 30 nan
+- 2021-05-14T03:48:15Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-05-14T03:48:15Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-05-14T03:48:15Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 83953 /a

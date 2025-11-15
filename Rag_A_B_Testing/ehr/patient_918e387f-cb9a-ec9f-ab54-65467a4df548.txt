@@ -1,0 +1,91 @@
+== PATIENT RECORD: Frederick289 Conroy74 (ID: 918e387f-cb9a-ec9f-ab54-65467a4df548) ==
+
+== Demographics ==
+Patient ID: 918e387f-cb9a-ec9f-ab54-65467a4df548
+Name: Frederick289 Conroy74
+Gender: M
+Birthdate: 1995-04-12
+Address: 750 Feeney Terrace Apt 93
+Marital Status: nan
+
+== Allergies ==
+- Lisinopril
+- Penicillin V
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis with seasonal variation
+- Chronic sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Laceration of foot
+- Received higher education (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Streptococcal sore throat (disorder)
+- Part-time employment (finding)
+- Sputum finding (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- doxycycline hyclate 100 MG
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Azithromycin 250mg
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 2011-12-16T05:32:19Z)
+- Subcutaneous immunotherapy (Date: 2012-01-06T05:53:17Z)
+- Subcutaneous immunotherapy (Date: 2012-01-31T06:23:59Z)
+- Subcutaneous immunotherapy (Date: 2012-02-23T07:18:10Z)
+- Subcutaneous immunotherapy (Date: 2012-03-15T07:54:57Z)
+- Subcutaneous immunotherapy (Date: 2012-04-05T08:15:46Z)
+- Allergy screening test (Date: 2012-04-28T08:32:50Z)
+- Assessment of anxiety (procedure) (Date: 2012-05-30T16:58:37Z)
+- Depression screening (procedure) (Date: 2012-05-30T17:14:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-30T17:27:43Z)
+- Suture open wound (Date: 2012-12-06T17:35:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-05T16:58:37Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-05T17:37:57Z)
+- Screening for domestic abuse (procedure) (Date: 2013-06-05T17:56:17Z)
+- Depression screening (procedure) (Date: 2013-06-05T18:38:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-05T18:49:09Z)
+- Measurement of respiratory function (procedure) (Date: 2013-12-22T21:58:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-11T16:58:37Z)
+- Assessment of substance use (procedure) (Date: 2014-06-11T17:39:20Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-11T17:52:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-14T16:58:37Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-14T17:45:30Z)
+- Depression screening (procedure) (Date: 2017-06-14T18:12:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-14T18:26:37Z)
+- Assessment of substance use (procedure) (Date: 2017-06-14T18:49:10Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-14T19:01:06Z)
+- Throat culture (procedure) (Date: 2019-05-22T22:58:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-17T16:58:37Z)
+- Assessment of substance use (procedure) (Date: 2020-06-17T17:55:33Z)
+- Screening for drug abuse (procedure) (Date: 2020-06-17T18:09:01Z)
+- Face mask (physical object) (Date: 2021-02-06T16:58:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-06T16:58:37Z: Encounter for symptom (procedure)
+- 2020-06-17T16:58:37Z: General examination of patient (procedure)
+- 2019-05-22T22:58:37Z: Encounter for symptom
+- 2017-06-14T16:58:37Z: General examination of patient (procedure)
+- 2014-06-11T16:58:37Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-12T16:58:37Z QOLS: 1.0 {score}
+- 2021-04-12T16:58:37Z DALY: 0.0 a
+- 2021-04-12T16:58:37Z QALY: 25.0 a
+- 2021-02-06T18:11:51Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-02-06T17:11:34Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-02-06T17:11:34Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-02-06T16:58:37Z Body temperature: 40.9 Cel
+- 2021-02-06T16:58:37Z Heart rate: 58.6 /min
+- 2021-02-06T16:58:37Z Oxygen saturation in Arterial blood: 79.2 %
+- 2021-02-06T16:58:37Z Diastolic Blood Pressure: 78.0 mm[Hg]

@@ -1,0 +1,125 @@
+== PATIENT RECORD: Helga481 Abshire638 (ID: e9bb3dbd-e1ea-cff0-0646-71d64be48193) ==
+
+== Demographics ==
+Patient ID: e9bb3dbd-e1ea-cff0-0646-71d64be48193
+Name: Helga481 Abshire638
+Gender: F
+Birthdate: 1989-09-02
+Address: 771 Hartmann Rapid Unit 59
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Normal pregnancy
+- Streptococcal sore throat (disorder)
+- Whiplash injury to neck
+
+== Current Medications ==
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Trinessa 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-11-08T13:51:23Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-08T14:43:36Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-08T15:11:51Z)
+- Depression screening (procedure) (Date: 2014-11-08T15:45:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-08T15:58:17Z)
+- Assessment of substance use (procedure) (Date: 2014-11-08T16:27:19Z)
+- Screening for drug abuse (procedure) (Date: 2014-11-08T16:38:34Z)
+- Standard pregnancy test (Date: 2015-11-28T13:51:23Z)
+- Ultrasound scan for fetal viability (Date: 2015-11-28T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2015-11-28T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2015-11-28T13:51:23Z)
+- Blood typing  RH typing (Date: 2015-11-28T13:51:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-11-28T13:51:23Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-11-28T13:51:23Z)
+- Human immunodeficiency virus antigen test (Date: 2015-11-28T13:51:23Z)
+- Chlamydia antigen test (Date: 2015-11-28T13:51:23Z)
+- Gonorrhea infection test (Date: 2015-11-28T13:51:23Z)
+- Syphilis infection test (Date: 2015-11-28T13:51:23Z)
+- Urine culture (Date: 2015-11-28T13:51:23Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-11-28T13:51:23Z)
+- Urine screening test for diabetes (Date: 2015-11-28T13:51:23Z)
+- Hepatitis C antibody test (Date: 2015-11-28T13:51:23Z)
+- Rubella screening (Date: 2015-11-28T13:51:23Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-11-28T13:51:23Z)
+- Skin test for tuberculosis (Date: 2015-11-28T13:51:23Z)
+- Urine protein test (Date: 2015-11-28T13:51:23Z)
+- Physical examination of mother (Date: 2015-11-28T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2015-12-26T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2015-12-26T13:51:23Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-12-26T13:51:23Z)
+- Fetal anatomy study (Date: 2016-01-23T13:51:23Z)
+- Alpha-fetoprotein test (Date: 2016-01-23T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-01-23T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-01-23T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-02-20T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-02-20T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-03-19T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-03-19T13:51:23Z)
+- Antenatal RhD antibody screening (Date: 2016-04-16T13:51:23Z)
+- RhD passive immunization (Date: 2016-04-16T13:51:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-04-16T13:51:23Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2016-04-16T13:51:23Z)
+- Urine screening for glucose (Date: 2016-04-16T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-04-16T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-04-16T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-05-14T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-05-14T13:51:23Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2016-06-11T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-06-11T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-06-11T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-06-25T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-06-25T13:51:23Z)
+- Evaluation of uterine fundal height (Date: 2016-07-02T13:51:23Z)
+- Auscultation of the fetal heart (Date: 2016-07-02T13:51:23Z)
+- Episiotomy (Date: 2016-07-09T13:51:23Z)
+- Childbirth (Date: 2016-07-09T13:51:23Z)
+- RhD passive immunization (Date: 2016-08-20T13:51:23Z)
+- Physical examination following birth (Date: 2016-08-20T13:51:23Z)
+- Depression screening (Date: 2016-08-20T13:51:23Z)
+- Insertion of intrauterine contraceptive device (Date: 2016-09-13T06:51:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-11T13:51:23Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-11T13:51:23Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-11T14:29:55Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-11T14:48:01Z)
+- Depression screening (procedure) (Date: 2017-11-11T15:26:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-11T15:40:01Z)
+- Assessment of substance use (procedure) (Date: 2017-11-11T16:08:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-11T16:19:07Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-08-26T06:58:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-14T13:51:23Z)
+- Assessment of substance use (procedure) (Date: 2020-11-14T14:47:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-11-14T15:01:38Z)
+- Replacement of contraceptive intrauterine device (Date: 2021-09-18T13:51:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-18T13:51:23Z: Patient encounter procedure
+- 2021-05-15T13:51:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T13:51:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-14T13:51:23Z: General examination of patient (procedure)
+- 2020-10-31T13:51:23Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-02T13:51:23Z QOLS: 1.0 {score}
+- 2021-09-02T13:51:23Z DALY: 0.0 a
+- 2021-09-02T13:51:23Z QALY: 31.0 a
+- 2020-11-14T15:30:33Z Total score [AUDIT-C]: 2.0 {score}
+- 2020-11-14T14:47:08Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-11-14T14:47:08Z Are you a refugee?: No nan
+- 2020-11-14T14:47:08Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-11-14T14:47:08Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Very much nan
+- 2020-11-14T14:47:08Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2020-11-14T14:47:08Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

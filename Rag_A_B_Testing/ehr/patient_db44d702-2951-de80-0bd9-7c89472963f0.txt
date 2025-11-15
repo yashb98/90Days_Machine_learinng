@@ -1,0 +1,52 @@
+== PATIENT RECORD: Elbert916 Stehr398 (ID: db44d702-2951-de80-0bd9-7c89472963f0) ==
+
+== Demographics ==
+Patient ID: db44d702-2951-de80-0bd9-7c89472963f0
+Name: Elbert916 Stehr398
+Gender: M
+Birthdate: 2011-07-17
+Address: 397 Lebsack Mission
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-03-26T02:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-24T02:21:52Z)
+- Measurement of respiratory function (procedure) (Date: 2013-11-06T20:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-23T02:21:52Z)
+- Throat culture (procedure) (Date: 2016-08-23T21:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-03T02:21:52Z)
+- Measurement of respiratory function (procedure) (Date: 2019-07-26T10:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-13T02:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-20T02:21:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-26T02:21:52Z: Well child visit (procedure)
+- 2020-07-20T02:21:52Z: Well child visit (procedure)
+- 2020-07-12T19:21:52Z: Encounter for symptom
+- 2020-01-13T02:21:52Z: Encounter for check up (procedure)
+- 2020-01-09T23:21:52Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-26T02:21:52Z Body mass index (BMI) [Percentile] Per age and gender: 87.0 %
+- 2021-07-26T02:21:52Z Body Height: 146.4 cm
+- 2021-07-26T02:21:52Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-26T02:21:52Z Body Weight: 42.3 kg
+- 2021-07-26T02:21:52Z Body Mass Index: 19.7 kg/m2
+- 2021-07-26T02:21:52Z Diastolic Blood Pressure: 73.0 mm[Hg]
+- 2021-07-26T02:21:52Z Systolic Blood Pressure: 113.0 mm[Hg]
+- 2021-07-26T02:21:52Z Heart rate: 69.0 /min
+- 2021-07-26T02:21:52Z Respiratory rate: 14.0 /min
+- 2021-07-26T02:21:52Z Tobacco smoking status NHIS: Never smoker nan

@@ -1,0 +1,96 @@
+== PATIENT RECORD: Young120 Orn563 (ID: c0b0f482-c7b7-c9dd-9f8d-66f8dc6b4f4d) ==
+
+== Demographics ==
+Patient ID: c0b0f482-c7b7-c9dd-9f8d-66f8dc6b4f4d
+Name: Young120 Orn563
+Gender: M
+Birthdate: 1967-01-30
+Address: 629 Von Rue Unit 15
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Cow's milk (substance)
+- Eggs (edible) (substance)
+- Wheat (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Prediabetes
+- Limited social contact (finding)
+- Anemia (disorder)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Part-time employment (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-02-18T23:28:07Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-19T00:26:25Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-19T00:49:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-23T23:28:07Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-24T00:11:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-30T23:28:07Z)
+- Colonoscopy (Date: 2017-01-30T23:28:07Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-31T00:11:10Z)
+- Depression screening (procedure) (Date: 2017-01-31T00:30:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-31T00:43:27Z)
+- Assessment of substance use (procedure) (Date: 2017-01-31T01:12:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-31T01:26:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-05T23:28:07Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-05T23:28:07Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-06T00:08:09Z)
+- Screening for domestic abuse (procedure) (Date: 2018-02-06T00:30:53Z)
+- Depression screening (procedure) (Date: 2018-02-06T01:12:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-06T01:26:18Z)
+- Assessment of substance use (procedure) (Date: 2018-02-06T01:50:52Z)
+- Screening for drug abuse (procedure) (Date: 2018-02-06T02:04:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-11T23:28:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-11T23:28:07Z)
+- Depression screening (procedure) (Date: 2019-02-12T00:20:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-12T00:35:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-17T23:28:07Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-17T23:28:07Z)
+- Assessment of substance use (procedure) (Date: 2020-02-18T00:26:56Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-18T00:40:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-22T23:28:07Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-22T23:28:07Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-23T00:26:12Z)
+- Depression screening (procedure) (Date: 2021-02-23T00:55:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-23T01:10:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-02T23:28:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-05T23:28:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-22T23:28:07Z: General examination of patient (procedure)
+- 2020-02-17T23:28:07Z: General examination of patient (procedure)
+- 2019-02-11T23:28:07Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-23T01:33:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-23T00:55:55Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-02-23T00:26:12Z What address do you live at?: 629 Von Rue Unit 15 nan
+- 2021-02-23T00:26:12Z What language are you most comfortable speaking?: English nan
+- 2021-02-23T00:26:12Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-02-23T00:26:12Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-02-23T00:26:12Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need nan
+- 2021-02-23T00:26:12Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Childcare nan
+- 2021-02-23T00:26:12Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 6203 /a
+- 2021-02-23T00:26:12Z What is your main insurance?: Medicaid nan

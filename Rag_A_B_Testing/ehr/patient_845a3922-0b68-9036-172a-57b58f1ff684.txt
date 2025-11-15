@@ -1,0 +1,129 @@
+== PATIENT RECORD: Rocco842 Rempel203 (ID: 845a3922-0b68-9036-172a-57b58f1ff684) ==
+
+== Demographics ==
+Patient ID: 845a3922-0b68-9036-172a-57b58f1ff684
+Name: Rocco842 Rempel203
+Gender: M
+Birthdate: 1918-11-27
+Address: 949 Beahan Crossroad Suite 95
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Alcoholism
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Limited social contact (finding)
+- Hyperlipidemia
+- Polyp of colon
+- Not in labor force (finding)
+- Recurrent rectal polyp
+- Osteoarthritis of knee
+- Laceration of thigh
+- Chronic congestive heart failure (disorder)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Simvastatin 10 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Aspirin 81 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Colonoscopy (Date: 1970-03-07T18:29:39Z)
+- Rectal polypectomy (Date: 1970-03-07T19:08:03Z)
+- Assessment of health and social care needs (procedure) (Date: 1970-07-29T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1970-07-29T16:54:16Z)
+- Screening for domestic abuse (procedure) (Date: 1970-07-29T17:18:06Z)
+- Depression screening (procedure) (Date: 1970-07-29T18:01:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1970-07-29T18:11:48Z)
+- Colonoscopy (Date: 1971-05-03T19:08:03Z)
+- Assessment of health and social care needs (procedure) (Date: 1971-08-04T15:56:07Z)
+- Screening for domestic abuse (procedure) (Date: 1971-08-04T16:48:08Z)
+- Depression screening (procedure) (Date: 1971-08-04T17:22:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1971-08-04T17:34:27Z)
+- Suture open wound (Date: 1971-09-15T18:02:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1972-08-09T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 1972-08-09T15:56:07Z)
+- Depression screening (procedure) (Date: 1972-08-09T16:28:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1972-08-09T16:38:23Z)
+- Assessment of health and social care needs (procedure) (Date: 1973-08-15T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 1973-08-15T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1973-08-15T16:45:31Z)
+- Depression screening (procedure) (Date: 1973-08-15T17:01:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1973-08-15T17:11:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1974-08-21T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1974-08-21T16:38:12Z)
+- Screening for domestic abuse (procedure) (Date: 1974-08-21T17:06:08Z)
+- Depression screening (procedure) (Date: 1974-08-21T17:49:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1974-08-21T18:03:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1975-08-27T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1975-08-27T16:33:24Z)
+- Screening for domestic abuse (procedure) (Date: 1975-08-27T16:56:50Z)
+- Depression screening (procedure) (Date: 1975-08-27T17:22:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1975-08-27T17:35:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1975-08-27T17:58:38Z)
+- Colonoscopy (Date: 1976-05-02T19:46:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1976-09-01T15:56:07Z)
+- Depression screening (procedure) (Date: 1976-09-01T16:48:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-09-01T17:01:32Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-09-07T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 1977-09-07T15:56:07Z)
+- Depression screening (procedure) (Date: 1977-09-07T16:56:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1977-09-07T17:09:31Z)
+- Electrocardiographic procedure (Date: 1978-03-05T15:56:07Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1978-03-05T16:01:27Z)
+- Echocardiography (procedure) (Date: 1978-03-19T16:17:34Z)
+- Medication Reconciliation (procedure) (Date: 1978-03-19T16:17:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-09-13T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 1978-09-13T15:56:07Z)
+- Depression screening (procedure) (Date: 1978-09-13T16:45:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1978-09-13T16:58:09Z)
+- Echocardiography (procedure) (Date: 1978-09-15T16:17:34Z)
+- Medication Reconciliation (procedure) (Date: 1978-09-15T16:17:34Z)
+- Echocardiography (procedure) (Date: 1979-03-14T16:17:34Z)
+- Medication Reconciliation (procedure) (Date: 1979-03-14T16:17:34Z)
+- Oxygen administration by mask (procedure) (Date: 1979-09-10T16:17:34Z)
+- Placing subject in prone position (procedure) (Date: 1979-09-10T16:17:34Z)
+- Plain chest X-ray (procedure) (Date: 1979-09-10T16:17:34Z)
+- Medication Reconciliation (procedure) (Date: 1979-09-10T16:17:34Z)
+- Electrocardiographic procedure (Date: 1979-09-10T16:17:34Z)
+- Oxygen administration by mask (procedure) (Date: 1979-09-10T16:26:20Z)
+- Placing subject in prone position (procedure) (Date: 1979-09-10T16:26:20Z)
+- Heart failure education (procedure) (Date: 1979-09-11T16:26:20Z)
+- Digital examination of rectum (Date: 1979-09-19T15:56:07Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-09-19T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 1979-09-19T15:56:07Z)
+- Depression screening (procedure) (Date: 1979-09-19T16:50:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1979-09-19T17:01:13Z)
+
+== Recent Encounters (Last 5) ==
+- 1980-02-13T15:56:07Z: Death Certification
+- 1980-01-06T09:56:07Z: Asthma follow-up
+- 1979-09-19T15:56:07Z: General examination of patient (procedure)
+- 1979-09-10T16:17:34Z: Admission to intensive care unit (procedure)
+- 1979-09-10T16:17:34Z: Encounter for Problem
+
+== Recent Observations (Last 10) ==
+- 1980-02-13T15:56:07Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1979-09-19T17:30:24Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1979-09-19T16:50:29Z What is your current work situation?: Full-time work nan
+- 1979-09-19T16:50:29Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1979-09-19T16:50:29Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1979-09-19T16:50:29Z Are you a refugee?: No nan
+- 1979-09-19T16:50:29Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 1979-09-19T16:50:29Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Very much nan
+- 1979-09-19T16:50:29Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 1979-09-19T16:50:29Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

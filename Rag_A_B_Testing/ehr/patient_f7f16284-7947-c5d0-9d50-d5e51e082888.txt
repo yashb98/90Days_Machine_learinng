@@ -1,0 +1,94 @@
+== PATIENT RECORD: Sherley266 Dare640 (ID: f7f16284-7947-c5d0-9d50-d5e51e082888) ==
+
+== Demographics ==
+Patient ID: f7f16284-7947-c5d0-9d50-d5e51e082888
+Name: Sherley266 Dare640
+Gender: F
+Birthdate: 2002-04-08
+Address: 849 Hermiston Viaduct
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Only received primary school education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- Levora 0.15/30 28 Day Pack
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2014-04-28T12:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-28T12:40:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-04-28T12:52:45Z)
+- Assessment of substance use (procedure) (Date: 2014-04-28T13:16:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-04-28T13:29:13Z)
+- Anticipatory guidance (procedure) (Date: 2014-04-28T13:45:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-04T12:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-04T12:40:05Z)
+- Depression screening (procedure) (Date: 2015-05-04T13:01:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-04T13:16:00Z)
+- Assessment of substance use (procedure) (Date: 2015-05-04T13:40:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-04T13:51:19Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-04T14:15:13Z)
+- Depression screening (procedure) (Date: 2016-05-09T12:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-09T12:40:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-09T12:52:38Z)
+- Assessment of substance use (procedure) (Date: 2016-05-09T13:18:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-09T13:32:13Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-09T13:52:31Z)
+- Throat culture (procedure) (Date: 2017-04-01T21:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-15T12:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-21T12:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-21T12:40:05Z)
+- Assessment of substance use (procedure) (Date: 2018-05-21T12:59:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-21T13:12:09Z)
+- Anticipatory guidance (procedure) (Date: 2018-05-21T13:37:42Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-27T12:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-27T12:40:05Z)
+- Depression screening (procedure) (Date: 2019-05-27T12:56:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-27T13:11:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-01T12:40:05Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-01T13:28:01Z)
+- Assessment of substance use (procedure) (Date: 2020-06-01T14:06:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-01T14:18:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-07T12:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-07T12:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-07T13:16:41Z)
+- Depression screening (procedure) (Date: 2021-06-07T13:38:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-07T13:53:38Z)
+- Assessment of substance use (procedure) (Date: 2021-06-07T14:15:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-07T14:27:21Z)
+- Standard pregnancy test (Date: 2021-08-16T12:40:05Z)
+- Ultrasound scan for fetal viability (Date: 2021-08-16T12:40:05Z)
+- Counseling for termination of pregnancy (Date: 2021-08-23T12:40:05Z)
+- Induced termination of pregnancy (Date: 2021-08-23T12:40:05Z)
+- RhD passive immunization (Date: 2021-09-10T12:40:05Z)
+- Pregnancy termination care (Date: 2021-09-10T12:40:05Z)
+- Physical exam following abortion (Date: 2021-09-10T12:40:05Z)
+- Depression screening (Date: 2021-09-10T12:40:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-10T12:40:05Z: Prenatal visit
+- 2021-08-23T12:40:05Z: Patient-initiated encounter
+- 2021-08-16T12:40:05Z: Prenatal initial visit
+- 2021-06-07T12:40:05Z: General examination of patient (procedure)
+- 2020-06-01T12:40:05Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-07T14:50:52Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-06-07T14:15:41Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-07T13:38:51Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-06-07T13:16:41Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-06-07T13:16:41Z What is your housing situation today?: I have housing nan
+- 2021-06-07T13:16:41Z Are you a refugee?: No nan
+- 2021-06-07T13:16:41Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-06-07T13:16:41Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-06-07T13:16:41Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-06-07T13:16:41Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

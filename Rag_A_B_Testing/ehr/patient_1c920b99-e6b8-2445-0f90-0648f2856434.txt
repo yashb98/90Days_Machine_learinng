@@ -1,0 +1,40 @@
+== PATIENT RECORD: Patrick786 Bergnaum523 (ID: 1c920b99-e6b8-2445-0f90-0648f2856434) ==
+
+== Demographics ==
+Patient ID: 1c920b99-e6b8-2445-0f90-0648f2856434
+Name: Patrick786 Bergnaum523
+Gender: F
+Birthdate: 2020-01-13
+Address: 1046 Hyatt Brook
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-12-21T09:57:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-21T09:57:03Z: Well child visit (procedure)
+- 2021-03-22T09:57:03Z: Well child visit (procedure)
+- 2020-12-21T09:57:03Z: Well child visit (procedure)
+- 2020-09-21T09:57:03Z: Well child visit (procedure)
+- 2020-06-22T09:57:03Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-21T09:57:03Z Weight-for-length Per age and sex: 64.7 %
+- 2021-06-21T09:57:03Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-21T09:57:03Z Respiratory rate: 13.0 /min
+- 2021-06-21T09:57:03Z Heart rate: 95.0 /min
+- 2021-06-21T09:57:03Z Systolic Blood Pressure: 116.0 mm[Hg]
+- 2021-06-21T09:57:03Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-06-21T09:57:03Z Head Occipital-frontal circumference: 47.9 cm
+- 2021-06-21T09:57:03Z Body Weight: 11.7 kg
+- 2021-06-21T09:57:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-06-21T09:57:03Z Body Height: 83.4 cm

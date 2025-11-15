@@ -1,0 +1,174 @@
+== PATIENT RECORD: Robbin22 Green467 (ID: 5a0b111e-9440-a534-f2b9-12c100d89868) ==
+
+== Demographics ==
+Patient ID: 5a0b111e-9440-a534-f2b9-12c100d89868
+Name: Robbin22 Green467
+Gender: F
+Birthdate: 1973-02-09
+Address: 296 Durgan Plaza Apt 94
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Malignant neoplasm of breast (disorder)
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Laceration of hand
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Normal pregnancy
+- Cystitis
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Trinessa 28 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Natazia 28 Day Pack
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Suture open wound (Date: 2012-03-29T03:45:16Z)
+- Mammography (procedure) (Date: 2012-09-05T08:07:34Z)
+- Manual pelvic examination (procedure) (Date: 2012-09-05T08:32:26Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-09-05T08:43:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-16T03:45:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-16T03:45:16Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-16T04:18:50Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-16T04:41:56Z)
+- Depression screening (procedure) (Date: 2013-02-16T05:08:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-16T05:20:52Z)
+- Mammography (procedure) (Date: 2013-08-16T08:55:47Z)
+- Manual pelvic examination (procedure) (Date: 2013-08-16T09:19:51Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-08-16T09:32:56Z)
+- Mammography (procedure) (Date: 2014-07-25T09:49:27Z)
+- Manual pelvic examination (procedure) (Date: 2014-07-25T10:04:29Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-07-25T10:17:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-21T03:45:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-21T03:45:16Z)
+- Peripheral blood smear interpretation (Date: 2015-02-21T03:45:16Z)
+- Depression screening (procedure) (Date: 2015-02-21T04:31:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-21T04:43:24Z)
+- Assessment of substance use (procedure) (Date: 2015-02-21T05:12:45Z)
+- Screening for drug abuse (procedure) (Date: 2015-02-21T05:25:34Z)
+- Review of systems (procedure) (Date: 2015-02-21T04:15:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-21T04:29:14Z)
+- Brief general examination (procedure) (Date: 2015-02-21T04:42:28Z)
+- Removal of subcutaneous contraceptive (Date: 2015-03-14T03:45:16Z)
+- Standard pregnancy test (Date: 2015-05-09T03:45:16Z)
+- Ultrasound scan for fetal viability (Date: 2015-05-09T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-05-09T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-05-09T03:45:16Z)
+- Blood typing  RH typing (Date: 2015-05-09T03:45:16Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-05-09T03:45:16Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-05-09T03:45:16Z)
+- Human immunodeficiency virus antigen test (Date: 2015-05-09T03:45:16Z)
+- Chlamydia antigen test (Date: 2015-05-09T03:45:16Z)
+- Gonorrhea infection test (Date: 2015-05-09T03:45:16Z)
+- Syphilis infection test (Date: 2015-05-09T03:45:16Z)
+- Urine culture (Date: 2015-05-09T03:45:16Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-05-09T03:45:16Z)
+- Urine screening test for diabetes (Date: 2015-05-09T03:45:16Z)
+- Hepatitis C antibody test (Date: 2015-05-09T03:45:16Z)
+- Rubella screening (Date: 2015-05-09T03:45:16Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-05-09T03:45:16Z)
+- Skin test for tuberculosis (Date: 2015-05-09T03:45:16Z)
+- Urine protein test (Date: 2015-05-09T03:45:16Z)
+- Physical examination of mother (Date: 2015-05-09T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-06-06T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-06-06T03:45:16Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-06-06T03:45:16Z)
+- Fetal anatomy study (Date: 2015-07-04T03:45:16Z)
+- Alpha-fetoprotein test (Date: 2015-07-04T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-07-04T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-07-04T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-08-01T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-08-01T03:45:16Z)
+- Mammography (procedure) (Date: 2015-08-05T10:30:31Z)
+- Manual pelvic examination (procedure) (Date: 2015-08-05T10:53:12Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-08-05T11:05:02Z)
+- Evaluation of uterine fundal height (Date: 2015-08-29T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-08-29T03:45:16Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-09-26T03:45:16Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2015-09-26T03:45:16Z)
+- Urine screening for glucose (Date: 2015-09-26T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-09-26T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-09-26T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-10-24T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-10-24T03:45:16Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2015-11-21T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-11-21T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-11-21T03:45:16Z)
+- Evaluation of uterine fundal height (Date: 2015-12-05T03:45:16Z)
+- Auscultation of the fetal heart (Date: 2015-12-05T03:45:16Z)
+- Childbirth (Date: 2015-12-12T03:45:16Z)
+- Physical examination following birth (Date: 2016-01-23T03:45:16Z)
+- Depression screening (Date: 2016-01-23T03:45:16Z)
+- Mammography (procedure) (Date: 2016-08-04T11:15:23Z)
+- Manual pelvic examination (procedure) (Date: 2016-08-04T11:37:23Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-08-04T11:49:01Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-02-05T04:14:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-25T03:45:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-25T03:45:16Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-25T04:30:23Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-25T04:59:45Z)
+- Depression screening (procedure) (Date: 2017-02-25T05:42:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-25T05:54:17Z)
+- Assessment of substance use (procedure) (Date: 2017-02-25T06:21:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-25T06:36:25Z)
+- Mammography (procedure) (Date: 2017-07-21T11:59:15Z)
+- Manual pelvic examination (procedure) (Date: 2017-07-21T12:16:36Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-07-21T12:26:40Z)
+- Mammography (procedure) (Date: 2018-07-01T12:41:21Z)
+- Manual pelvic examination (procedure) (Date: 2018-07-01T13:00:31Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-07-01T13:15:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-02T03:45:16Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-02T04:41:59Z)
+- Depression screening (procedure) (Date: 2019-03-02T05:11:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-02T05:22:38Z)
+- Assessment of substance use (procedure) (Date: 2019-03-02T05:50:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-02T06:02:04Z)
+- Mammography (procedure) (Date: 2019-06-05T13:32:16Z)
+- Manual pelvic examination (procedure) (Date: 2019-06-05T13:53:48Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-06-05T14:04:35Z)
+- Mammography (procedure) (Date: 2020-05-16T14:15:02Z)
+- Manual pelvic examination (procedure) (Date: 2020-05-16T14:31:35Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-05-16T14:42:11Z)
+- Removal of subcutaneous contraceptive (Date: 2021-02-20T03:45:16Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-02-20T04:05:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-06T03:45:16Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-06T03:45:16Z)
+- Mammography (procedure) (Date: 2021-05-07T15:00:42Z)
+- Manual pelvic examination (procedure) (Date: 2021-05-07T15:16:25Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-05-07T15:31:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-08T03:45:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-07T15:16:25Z: Gynecology service (qualifier value)
+- 2021-05-07T15:00:42Z: Screening surveillance (regime/therapy)
+- 2021-05-07T15:00:42Z: Postoperative follow-up visit (procedure)
+- 2021-04-17T03:45:16Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-06T04:26:16Z Are you a refugee?: No nan
+- 2021-03-06T04:26:16Z What language are you most comfortable speaking?: English nan
+- 2021-03-06T04:26:16Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-03-06T04:26:16Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-03-06T04:26:16Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-03-06T04:26:16Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-03-06T04:26:16Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-03-06T04:26:16Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-06T04:26:16Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-06T04:26:16Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 138463 /a

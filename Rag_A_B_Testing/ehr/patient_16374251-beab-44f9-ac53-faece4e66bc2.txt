@@ -1,0 +1,46 @@
+== PATIENT RECORD: Cyrus914 Schuster709 (ID: 16374251-beab-44f9-ac53-faece4e66bc2) ==
+
+== Demographics ==
+Patient ID: 16374251-beab-44f9-ac53-faece4e66bc2
+Name: Cyrus914 Schuster709
+Gender: M
+Birthdate: 2017-11-17
+Address: 855 Luettgen Well
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Concussion with no loss of consciousness
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-02-23T12:48:07Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-26T12:48:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-26T12:48:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-25T12:48:07Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-23T12:48:07Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-23T12:48:07Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-22T12:48:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-22T12:48:07Z: Well child visit (procedure)
+- 2021-04-23T12:48:07Z: Well child visit (procedure)
+- 2020-10-23T12:48:07Z: Well child visit (procedure)
+- 2020-04-24T12:48:07Z: Well child visit (procedure)
+- 2019-10-25T12:48:07Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-17T12:48:07Z QOLS: 1.0 {score}
+- 2021-11-17T12:48:07Z DALY: 0.0 a
+- 2021-11-17T12:48:07Z QALY: 3.0 a
+- 2021-10-22T12:48:07Z Heart rate: 75.0 /min
+- 2021-10-22T12:48:07Z Body Height: 103.4 cm
+- 2021-10-22T12:48:07Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-10-22T12:48:07Z Body Weight: 17.2 kg
+- 2021-10-22T12:48:07Z Head Occipital-frontal circumference: 50.3 cm
+- 2021-10-22T12:48:07Z Body Mass Index: 16.1 kg/m2
+- 2021-10-22T12:48:07Z Body mass index (BMI) [Percentile] Per age and gender: 64.4 %

@@ -1,0 +1,90 @@
+== PATIENT RECORD: Stanford577 Schoen8 (ID: 32cd9cb6-2fca-7062-98f0-020f9946a6f5) ==
+
+== Demographics ==
+Patient ID: 32cd9cb6-2fca-7062-98f0-020f9946a6f5
+Name: Stanford577 Schoen8
+Gender: M
+Birthdate: 1997-12-07
+Address: 669 Schmidt Annex Apt 66
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Fracture of ankle
+- Acute viral pharyngitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Cough (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-01-08T14:04:47Z)
+- Assessment of substance use (procedure) (Date: 2012-01-08T14:24:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-08T14:36:48Z)
+- Health risks education (procedure) (Date: 2012-01-08T15:00:34Z)
+- Depression screening (procedure) (Date: 2013-01-13T14:04:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-01-13T14:19:18Z)
+- Assessment of substance use (procedure) (Date: 2013-01-13T14:39:49Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-01-13T14:54:02Z)
+- Anticipatory guidance (procedure) (Date: 2013-01-13T15:20:41Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-19T14:04:47Z)
+- Depression screening (procedure) (Date: 2014-01-19T14:24:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-01-19T14:34:37Z)
+- Ankle X-ray (Date: 2014-05-04T14:04:47Z)
+- Bone immobilization (Date: 2014-05-04T14:04:47Z)
+- Depression screening (procedure) (Date: 2015-01-25T14:04:47Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-25T14:04:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-25T14:17:17Z)
+- Assessment of substance use (procedure) (Date: 2015-01-25T14:40:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-25T14:54:33Z)
+- Anticipatory guidance (procedure) (Date: 2015-01-25T15:14:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-31T14:04:47Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-31T14:04:47Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-31T14:59:43Z)
+- Depression screening (procedure) (Date: 2016-01-31T15:21:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-31T15:33:13Z)
+- Assessment of substance use (procedure) (Date: 2016-01-31T15:54:29Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-31T16:07:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-05T14:04:47Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-05T14:04:47Z)
+- Depression screening (procedure) (Date: 2017-02-05T14:43:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-05T14:54:56Z)
+- Assessment of substance use (procedure) (Date: 2017-02-05T15:16:51Z)
+- Screening for drug abuse (procedure) (Date: 2017-02-05T15:28:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-09T14:04:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-09T14:50:59Z)
+- Assessment of substance use (procedure) (Date: 2020-02-09T15:19:02Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-09T15:31:59Z)
+- Face mask (physical object) (Date: 2020-04-18T14:04:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-26T14:04:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-29T14:04:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-18T14:04:47Z: Encounter for symptom (procedure)
+- 2020-02-09T14:04:47Z: General examination of patient (procedure)
+- 2017-02-05T14:04:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-07T14:04:47Z QOLS: 1.0 {score}
+- 2020-12-07T14:04:47Z DALY: 0.0 a
+- 2020-12-07T14:04:47Z QALY: 22.0 a
+- 2020-04-18T14:52:30Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2020-04-18T14:17:50Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2020-04-18T14:17:50Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2020-04-18T14:04:47Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2020-04-18T14:04:47Z Oxygen saturation in Arterial blood: 75.2 %
+- 2020-04-18T14:04:47Z Body temperature: 38.1 Cel
+- 2020-04-18T14:04:47Z Respiratory rate: 36.9 /min

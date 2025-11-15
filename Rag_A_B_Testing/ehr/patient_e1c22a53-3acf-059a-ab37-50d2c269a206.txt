@@ -1,0 +1,84 @@
+== PATIENT RECORD: Derick144 Hackett68 (ID: e1c22a53-3acf-059a-ab37-50d2c269a206) ==
+
+== Demographics ==
+Patient ID: e1c22a53-3acf-059a-ab37-50d2c269a206
+Name: Derick144 Hackett68
+Gender: M
+Birthdate: 1998-06-17
+Address: 516 Powlowski Village
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+- Laceration of foot
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-07-18T18:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-18T18:17:41Z)
+- Depression screening (procedure) (Date: 2012-07-18T18:39:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-18T18:52:06Z)
+- Assessment of substance use (procedure) (Date: 2012-07-18T19:18:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-07-18T19:32:53Z)
+- Anticipatory guidance (procedure) (Date: 2012-07-18T20:01:01Z)
+- Depression screening (procedure) (Date: 2013-07-24T18:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-24T18:17:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-24T18:27:50Z)
+- Assessment of substance use (procedure) (Date: 2013-07-24T18:51:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-07-24T19:04:33Z)
+- Anticipatory guidance (procedure) (Date: 2013-07-24T19:30:27Z)
+- X-ray or wrist (Date: 2014-04-25T18:17:41Z)
+- Bone immobilization (Date: 2014-04-25T18:17:41Z)
+- Bone density scan (procedure) (Date: 2014-04-25T18:47:56Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-30T18:17:41Z)
+- Depression screening (procedure) (Date: 2014-07-30T18:44:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-30T18:55:59Z)
+- Assessment of substance use (procedure) (Date: 2014-07-30T19:18:57Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-30T19:31:10Z)
+- Anticipatory guidance (procedure) (Date: 2014-07-30T19:43:22Z)
+- Suture open wound (Date: 2015-07-09T18:47:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-10T18:17:41Z)
+- Screening for domestic abuse (procedure) (Date: 2016-08-10T19:10:19Z)
+- Assessment of substance use (procedure) (Date: 2016-08-10T19:52:26Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-10T20:05:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-16T18:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-16T18:17:41Z)
+- Screening for domestic abuse (procedure) (Date: 2017-08-16T18:49:55Z)
+- Depression screening (procedure) (Date: 2017-08-16T19:22:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-16T19:34:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-19T18:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-19T18:17:41Z)
+- Depression screening (procedure) (Date: 2020-08-19T18:56:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-19T19:09:27Z)
+- Assessment of substance use (procedure) (Date: 2020-08-19T19:38:29Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-19T19:51:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-24T18:17:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-27T18:17:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-19T18:17:41Z: General examination of patient (procedure)
+- 2017-08-16T18:17:41Z: General examination of patient (procedure)
+- 2016-08-10T18:17:41Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-17T18:17:41Z QOLS: 1.0 {score}
+- 2021-06-17T18:17:41Z DALY: 0.0 a
+- 2021-06-17T18:17:41Z QALY: 22.0 a
+- 2020-08-19T20:18:32Z Total score [DAST-10]: 1.0 {score}
+- 2020-08-19T19:38:29Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-08-19T18:56:43Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan
+- 2020-08-19T18:56:43Z What address do you live at?: 516 Powlowski Village nan
+- 2020-08-19T18:56:43Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-08-19T18:56:43Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2020-08-19T18:56:43Z What is your main insurance?: Private insurance nan

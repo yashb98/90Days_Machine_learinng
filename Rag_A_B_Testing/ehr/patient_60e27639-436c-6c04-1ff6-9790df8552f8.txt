@@ -1,0 +1,118 @@
+== PATIENT RECORD: Lashandra868 Ankunding277 (ID: 60e27639-436c-6c04-1ff6-9790df8552f8) ==
+
+== Demographics ==
+Patient ID: 60e27639-436c-6c04-1ff6-9790df8552f8
+Name: Lashandra868 Ankunding277
+Gender: F
+Birthdate: 1959-09-26
+Address: 450 Greenfelder Forge Unit 0
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Polyp of colon
+- Recurrent rectal polyp
+- Primary fibromyalgia syndrome
+- Severe anxiety (panic) (finding
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+- Laceration of hand
+
+== Current Medications ==
+- Naproxen 500 MG Oral Tablet
+- pregabalin 100 MG Oral Capsule
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-01T01:45:20Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-01T01:45:20Z)
+- Depression screening (procedure) (Date: 2012-01-01T02:36:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-01T02:49:25Z)
+- Assessment of substance use (procedure) (Date: 2012-01-01T03:18:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-01T03:32:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-14T01:45:20Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-14T02:28:26Z)
+- Depression screening (procedure) (Date: 2012-10-14T02:49:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-14T03:01:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-10-14T03:29:23Z)
+- Assessment of substance use (procedure) (Date: 2012-10-14T03:58:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-14T04:10:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-20T01:45:20Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-20T02:40:03Z)
+- Depression screening (procedure) (Date: 2013-10-20T03:22:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-20T03:36:17Z)
+- Assessment of substance use (procedure) (Date: 2013-10-20T03:57:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-20T04:11:14Z)
+- Colonoscopy (Date: 2014-09-27T02:15:07Z)
+- Screening for occult blood in feces (procedure) (Date: 2014-09-27T02:57:57Z)
+- Rectal polypectomy (Date: 2014-09-27T02:57:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-26T01:45:20Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-26T02:27:50Z)
+- Depression screening (procedure) (Date: 2014-10-26T02:57:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-26T03:08:59Z)
+- Assessment of substance use (procedure) (Date: 2014-10-26T03:34:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-26T03:44:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-01T01:45:20Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-01T02:29:02Z)
+- Depression screening (procedure) (Date: 2015-11-01T02:47:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-01T02:59:06Z)
+- Colonoscopy (Date: 2015-11-18T02:57:57Z)
+- Rectal polypectomy (Date: 2015-11-18T03:23:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-06T01:45:20Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-06T01:45:20Z)
+- Depression screening (procedure) (Date: 2016-11-06T02:38:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-06T02:50:33Z)
+- Assessment of substance use (procedure) (Date: 2016-11-06T03:12:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-06T03:25:45Z)
+- Colonoscopy (Date: 2017-04-07T03:23:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-12T01:45:20Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-12T02:24:18Z)
+- Depression screening (procedure) (Date: 2017-11-12T02:51:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-12T03:02:27Z)
+- Assessment of substance use (procedure) (Date: 2017-11-12T03:30:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-12T03:44:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-18T01:45:20Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-18T02:20:22Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-18T02:41:13Z)
+- Depression screening (procedure) (Date: 2018-11-18T03:20:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-18T03:32:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-24T01:45:20Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-24T01:45:20Z)
+- Depression screening (procedure) (Date: 2019-11-24T02:42:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-24T02:54:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-29T01:45:20Z)
+- Depression screening (procedure) (Date: 2020-11-29T02:32:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-29T02:44:58Z)
+- Assessment of substance use (procedure) (Date: 2020-11-29T03:09:02Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-29T03:19:22Z)
+- Suture open wound (Date: 2021-10-17T02:33:56Z)
+- Injection of tetanus antitoxin (Date: 2021-10-17T02:53:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-17T02:33:56Z: Emergency room admission (procedure)
+- 2021-04-18T01:45:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-28T01:45:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-29T01:45:20Z: General examination of patient (procedure)
+- 2020-07-20T01:45:20Z: Hospital admission
+
+== Recent Observations (Last 10) ==
+- 2021-09-27T01:45:20Z QOLS: 0.7 {score}
+- 2021-09-27T01:45:20Z DALY: 3.4 a
+- 2021-09-27T01:45:20Z QALY: 57.6 a
+- 2020-11-29T03:42:58Z Total score [DAST-10]: 2.0 {score}
+- 2020-11-29T03:09:02Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-11-29T02:32:41Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-11-29T02:32:41Z What is your main insurance?: Private insurance nan
+- 2020-11-29T02:32:41Z What is your housing situation today?: I have housing nan
+- 2020-11-29T02:32:41Z Are you worried about losing your housing?: No nan
+- 2020-11-29T02:32:41Z What address do you live at?: 450 Greenfelder Forge Unit 0 nan

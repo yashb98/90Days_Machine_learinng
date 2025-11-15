@@ -1,0 +1,92 @@
+== PATIENT RECORD: Virgil85 Farrell962 (ID: f6542a20-3b0a-addd-d3a2-6a621f67970f) ==
+
+== Demographics ==
+Patient ID: f6542a20-3b0a-addd-d3a2-6a621f67970f
+Name: Virgil85 Farrell962
+Gender: M
+Birthdate: 1975-11-24
+Address: 829 Hickle Gateway Unit 29
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stroke
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Laceration of hand
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Prediabetes
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-02-11T21:29:37Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-11T21:29:37Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-11T22:15:48Z)
+- Depression screening (procedure) (Date: 2013-02-11T22:41:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-11T22:56:04Z)
+- Suture open wound (Date: 2015-06-27T21:42:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-30T21:29:37Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-30T21:29:37Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-30T22:27:50Z)
+- Depression screening (procedure) (Date: 2015-11-30T22:43:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-30T22:57:07Z)
+- Assessment of substance use (procedure) (Date: 2015-11-30T23:17:45Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-30T23:28:38Z)
+- Throat culture (procedure) (Date: 2017-08-08T08:29:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-14T21:29:37Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-14T21:29:37Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-14T22:06:21Z)
+- Depression screening (procedure) (Date: 2017-08-14T22:36:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-14T22:47:34Z)
+- Assessment of substance use (procedure) (Date: 2017-08-14T23:17:33Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-14T23:28:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-04T21:29:37Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-04T22:06:53Z)
+- Screening for domestic abuse (procedure) (Date: 2017-12-04T22:35:38Z)
+- Depression screening (procedure) (Date: 2017-12-04T23:01:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-04T23:14:45Z)
+- Assessment of substance use (procedure) (Date: 2017-12-04T23:41:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-04T23:55:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-09T21:29:37Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-09T21:29:37Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-09T22:08:44Z)
+- Assessment of substance use (procedure) (Date: 2019-12-09T22:24:56Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-09T22:39:45Z)
+- Measurement of respiratory function (procedure) (Date: 2021-04-28T09:29:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-03T21:29:37Z)
+- Depression screening (procedure) (Date: 2021-05-03T22:11:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-03T22:21:55Z)
+- Assessment of substance use (procedure) (Date: 2021-05-03T22:45:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-03T22:58:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-03T21:29:37Z: Encounter for check up (procedure)
+- 2021-04-28T09:29:37Z: Encounter for symptom
+- 2019-12-09T21:29:37Z: General examination of patient (procedure)
+- 2018-07-01T14:29:37Z: Encounter for symptom
+- 2017-12-04T21:29:37Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-03T23:25:31Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-05-03T22:45:21Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-05-03T22:11:26Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-05-03T22:11:26Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 60892 /a
+- 2021-05-03T22:11:26Z What address do you live at?: 829 Hickle Gateway Unit 29 nan
+- 2021-05-03T22:11:26Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-05-03T22:11:26Z What is your current work situation?: Full-time work nan
+- 2021-05-03T22:11:26Z What is your main insurance?: Private insurance nan
+- 2021-05-03T22:11:26Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-03T22:11:26Z How many family members  including yourself  do you currently live with?: 1.0 {#}

@@ -1,0 +1,110 @@
+== PATIENT RECORD: Carlos172 Cruickshank494 (ID: dbf10a3b-473c-ab44-3882-8c7f48244567) ==
+
+== Demographics ==
+Patient ID: dbf10a3b-473c-ab44-3882-8c7f48244567
+Name: Carlos172 Cruickshank494
+Gender: M
+Birthdate: 1989-11-18
+Address: 457 Hauck Dam Apt 66
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Prediabetes
+- Full-time employment (finding)
+- Chronic low back pain (finding)
+- Anemia (disorder)
+- Acute bacterial sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-21T18:30:55Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-21T18:30:55Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-21T19:03:58Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-21T19:31:07Z)
+- Depression screening (procedure) (Date: 2012-01-21T20:13:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-21T20:28:00Z)
+- Assessment of substance use (procedure) (Date: 2012-01-21T20:50:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-21T21:02:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-15T18:30:55Z)
+- Peripheral blood smear interpretation (Date: 2014-02-15T18:30:55Z)
+- Depression screening (procedure) (Date: 2014-02-15T19:22:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-15T19:33:20Z)
+- Review of systems (procedure) (Date: 2014-02-15T19:00:55Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-15T19:15:40Z)
+- Brief general examination (procedure) (Date: 2014-02-15T19:21:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-21T18:30:55Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-21T18:30:55Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-21T19:02:02Z)
+- Depression screening (procedure) (Date: 2015-02-21T19:23:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-21T19:33:58Z)
+- Assessment of substance use (procedure) (Date: 2015-02-21T19:58:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-21T20:08:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-27T18:30:55Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-27T18:30:55Z)
+- Depression screening (procedure) (Date: 2016-02-27T19:09:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-27T19:22:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-04T18:30:55Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-04T19:02:34Z)
+- Depression screening (procedure) (Date: 2017-03-04T19:30:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-04T19:43:51Z)
+- Assessment of substance use (procedure) (Date: 2017-03-04T20:06:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-04T20:20:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-10T18:30:55Z)
+- Depression screening (procedure) (Date: 2018-03-10T19:16:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-10T19:28:50Z)
+- Assessment of substance use (procedure) (Date: 2018-03-10T19:50:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-10T20:00:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-16T18:30:55Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-16T19:01:09Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-16T19:25:55Z)
+- Depression screening (procedure) (Date: 2019-03-16T20:01:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-16T20:12:13Z)
+- Assessment of substance use (procedure) (Date: 2019-03-16T20:38:15Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-16T20:48:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-21T18:30:55Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-21T19:15:14Z)
+- Depression screening (procedure) (Date: 2020-03-21T19:30:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-21T19:41:01Z)
+- Assessment of substance use (procedure) (Date: 2020-03-21T20:10:56Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-21T20:22:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-27T18:30:55Z)
+- Depression screening (procedure) (Date: 2021-03-27T19:02:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-27T19:13:02Z)
+- Assessment of substance use (procedure) (Date: 2021-03-27T19:41:55Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-27T19:56:11Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-27T18:30:55Z: General examination of patient (procedure)
+- 2020-03-21T18:30:55Z: General examination of patient (procedure)
+- 2019-03-16T18:30:55Z: General examination of patient (procedure)
+- 2018-03-10T18:30:55Z: General examination of patient (procedure)
+- 2017-11-14T23:30:55Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-18T18:30:55Z QOLS: 0.9 {score}
+- 2021-11-18T18:30:55Z QALY: 30.4 a
+- 2021-11-18T18:30:55Z DALY: 0.6 a
+- 2021-03-27T20:18:31Z Total score [DAST-10]: 1.0 {score}
+- 2021-03-27T19:41:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-27T19:02:41Z Are you worried about losing your housing?: No nan
+- 2021-03-27T19:02:41Z What address do you live at?: 457 Hauck Dam Apt 66 nan
+- 2021-03-27T19:02:41Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-27T19:02:41Z What is your current work situation?: Full-time work nan
+- 2021-03-27T19:02:41Z What is your main insurance?: Private insurance nan

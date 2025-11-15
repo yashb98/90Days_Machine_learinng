@@ -1,0 +1,65 @@
+== PATIENT RECORD: Tyler508 Bergnaum523 (ID: f53de9cd-1222-a913-829a-08a06e9b1581) ==
+
+== Demographics ==
+Patient ID: f53de9cd-1222-a913-829a-08a06e9b1581
+Name: Tyler508 Bergnaum523
+Gender: M
+Birthdate: 2004-06-18
+Address: 740 Goodwin Corner Apt 26
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Concussion with loss of consciousness
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-06-21T09:49:06Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-27T09:49:06Z)
+- Depression screening (procedure) (Date: 2016-07-08T09:49:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-07-08T10:03:24Z)
+- Depression screening (procedure) (Date: 2017-07-14T09:49:06Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-14T09:49:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-07-14T10:03:59Z)
+- Assessment of substance use (procedure) (Date: 2017-07-14T10:29:54Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-07-14T10:42:03Z)
+- Anticipatory guidance (procedure) (Date: 2017-07-14T10:56:23Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-20T09:49:06Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-26T09:49:06Z)
+- Depression screening (procedure) (Date: 2019-07-26T10:13:27Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-07-26T10:26:06Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-31T09:49:06Z)
+- Depression screening (procedure) (Date: 2020-07-31T10:14:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-07-31T10:25:08Z)
+- Assessment of substance use (procedure) (Date: 2020-07-31T10:53:53Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-07-31T11:08:34Z)
+- Anticipatory guidance (procedure) (Date: 2020-07-31T11:19:37Z)
+- Throat culture (procedure) (Date: 2020-11-09T22:49:06Z)
+- Assessment of substance use (procedure) (Date: 2021-08-06T09:49:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-08-06T10:03:34Z)
+- Anticipatory guidance (procedure) (Date: 2021-08-06T10:18:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-06T09:49:06Z: Well child visit (procedure)
+- 2020-11-09T22:49:06Z: Encounter for symptom
+- 2020-07-31T09:49:06Z: Well child visit (procedure)
+- 2019-08-19T09:49:06Z: Encounter for 'check-up'
+- 2019-07-26T09:49:06Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-06T09:49:06Z Diastolic Blood Pressure: 72.0 mm[Hg]
+- 2021-08-06T09:49:06Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-06T09:49:06Z Body Height: 176.3 cm
+- 2021-08-06T09:49:06Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-08-06T09:49:06Z Body Weight: 72.7 kg
+- 2021-08-06T09:49:06Z Body Mass Index: 23.4 kg/m2
+- 2021-08-06T09:49:06Z Body mass index (BMI) [Percentile] Per age and gender: 73.8 %
+- 2021-08-06T09:49:06Z Systolic Blood Pressure: 108.0 mm[Hg]
+- 2021-08-06T09:49:06Z Heart rate: 72.0 /min
+- 2021-08-06T09:49:06Z Respiratory rate: 14.0 /min

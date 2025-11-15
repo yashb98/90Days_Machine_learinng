@@ -1,0 +1,78 @@
+== PATIENT RECORD: Chara19 MacGyver246 (ID: f533e863-964d-b59a-cf56-8f4b5f1c8959) ==
+
+== Demographics ==
+Patient ID: f533e863-964d-b59a-cf56-8f4b5f1c8959
+Name: Chara19 MacGyver246
+Gender: F
+Birthdate: 1973-07-14
+Address: 787 Keeling Esplanade Unit 27
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Stress (finding)
+- Laceration of thigh
+- Not in labor force (finding)
+- Cystitis
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-07-21T00:04:07Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-21T00:04:07Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-21T00:40:52Z)
+- Depression screening (procedure) (Date: 2013-07-21T01:00:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-21T01:12:19Z)
+- Assessment of substance use (procedure) (Date: 2013-07-21T01:41:37Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-21T01:55:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-26T00:04:07Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-26T00:04:07Z)
+- Depression screening (procedure) (Date: 2015-07-26T00:52:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-26T01:03:58Z)
+- Assessment of substance use (procedure) (Date: 2015-07-26T01:28:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-26T01:39:59Z)
+- Suture open wound (Date: 2017-06-20T01:08:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-30T00:04:07Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-30T00:04:07Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-30T00:50:25Z)
+- Assessment of substance use (procedure) (Date: 2017-07-30T01:12:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-30T01:26:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-04T00:04:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-04T00:04:07Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-04T00:44:01Z)
+- Depression screening (procedure) (Date: 2019-08-04T01:09:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-04T01:20:18Z)
+- Assessment of substance use (procedure) (Date: 2019-08-04T01:44:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-04T01:56:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-08T00:04:07Z)
+- Assessment of substance use (procedure) (Date: 2021-08-08T00:34:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-08-08T00:47:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-08T00:04:07Z: General examination of patient (procedure)
+- 2021-05-09T00:04:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-18T00:04:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-08-28T05:04:07Z: Encounter for symptom
+- 2019-08-04T00:04:07Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-08T01:07:42Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-08-08T00:34:24Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-08-08T00:34:24Z What address do you live at?: 787 Keeling Esplanade Unit 27 nan
+- 2021-08-08T00:34:24Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-08-08T00:34:24Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-08-08T00:34:24Z Are you a refugee?: No nan
+- 2021-08-08T00:34:24Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-08-08T00:34:24Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-08-08T00:34:24Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-08-08T00:34:24Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

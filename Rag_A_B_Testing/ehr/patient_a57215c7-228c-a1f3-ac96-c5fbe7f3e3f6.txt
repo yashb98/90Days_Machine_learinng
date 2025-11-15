@@ -1,0 +1,131 @@
+== PATIENT RECORD: Duncan491 Dooley940 (ID: a57215c7-228c-a1f3-ac96-c5fbe7f3e3f6) ==
+
+== Demographics ==
+Patient ID: a57215c7-228c-a1f3-ac96-c5fbe7f3e3f6
+Name: Duncan491 Dooley940
+Gender: M
+Birthdate: 1914-12-20
+Address: 1003 Wiza Approach Unit 98
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Osteoarthritis of knee
+- Opioid abuse (disorder)
+- Polyp of colon
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Atrial Fibrillation
+- Has a criminal record (finding)
+- Not in labor force (finding)
+- Alzheimer's disease (disorder)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+- Severe anxiety (panic) (finding
+- Pneumonia
+
+== Current Medications ==
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2000-07-10T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-07-10T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 2000-07-10T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 2000-07-10T02:31:34Z)
+- Depression screening (procedure) (Date: 2000-07-10T03:12:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-07-10T03:24:30Z)
+- Catheter ablation of tissue of heart (Date: 2001-07-16T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-07-16T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 2001-07-16T02:23:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-07-16T02:43:21Z)
+- Depression screening (procedure) (Date: 2001-07-16T03:03:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-07-16T03:17:41Z)
+- Electrical cardioversion (Date: 2002-07-22T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-07-22T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-07-22T02:13:23Z)
+- Depression screening (procedure) (Date: 2002-07-22T02:42:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-07-22T02:54:32Z)
+- Electrical cardioversion (Date: 2003-07-28T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-07-28T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 2003-07-28T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 2003-07-28T02:13:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-07-28T02:37:56Z)
+- Catheter ablation of tissue of heart (Date: 2004-08-02T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-08-02T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 2004-08-02T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 2004-08-02T02:08:00Z)
+- Electrical cardioversion (Date: 2004-12-20T01:34:00Z)
+- Electrical cardioversion (Date: 2004-12-27T01:34:00Z)
+- Electrical cardioversion (Date: 2005-01-03T01:34:00Z)
+- Electrical cardioversion (Date: 2005-01-10T01:34:00Z)
+- Electrical cardioversion (Date: 2005-01-17T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-01-17T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 2005-01-17T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 2005-01-17T02:05:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-01-17T02:30:20Z)
+- Depression screening (procedure) (Date: 2005-01-17T02:49:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-01-17T02:59:31Z)
+- Electrical cardioversion (Date: 2005-08-08T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-08-08T01:34:00Z)
+- Electrical cardioversion (Date: 2006-08-14T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-08-14T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 2006-08-14T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-08-14T02:18:45Z)
+- Depression screening (procedure) (Date: 2006-08-14T02:47:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-08-14T03:02:17Z)
+- Electrical cardioversion (Date: 2007-08-20T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-08-20T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 2007-08-20T02:24:47Z)
+- Depression screening (procedure) (Date: 2007-08-20T02:42:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-08-20T02:52:59Z)
+- Electrical cardioversion (Date: 2008-02-04T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-02-04T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 2008-02-04T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-02-04T02:11:45Z)
+- Screening for domestic abuse (procedure) (Date: 2008-02-04T02:34:59Z)
+- Electrical cardioversion (Date: 2008-08-25T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-08-25T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-08-25T02:09:57Z)
+- Catheter ablation of tissue of heart (Date: 2009-07-27T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-07-27T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 2009-07-27T02:05:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-07-27T02:26:16Z)
+- Depression screening (procedure) (Date: 2009-07-27T02:44:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-07-27T02:54:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2009-08-24T01:34:00Z: Death Certification
+- 2009-08-12T01:34:00Z: Hospital admission
+- 2009-07-27T02:34:00Z: Encounter for symptom
+- 2009-07-27T01:34:00Z: Encounter for check up (procedure)
+- 2008-08-25T01:34:00Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2009-08-24T01:34:00Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2009-07-27T03:23:13Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2009-07-27T02:44:00Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2009-07-27T02:44:00Z Fall risk total [Morse Fall Scale]: 100.0 {#}
+- 2009-07-27T02:26:16Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 12.0 {score}
+- 2009-07-27T02:05:05Z What is your current work situation?: Full-time work nan
+- 2009-07-27T02:05:05Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2009-07-27T02:05:05Z Do you feel physically and emotionally safe where you currently live?: Unsure nan
+- 2009-07-27T02:05:05Z Are you a refugee?: No nan
+- 2009-07-27T02:05:05Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan

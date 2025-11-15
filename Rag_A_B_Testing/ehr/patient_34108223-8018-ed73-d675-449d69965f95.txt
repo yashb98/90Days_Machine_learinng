@@ -1,0 +1,54 @@
+== PATIENT RECORD: Dino214 Schultz619 (ID: 34108223-8018-ed73-d675-449d69965f95) ==
+
+== Demographics ==
+Patient ID: 34108223-8018-ed73-d675-449d69965f95
+Name: Dino214 Schultz619
+Gender: M
+Birthdate: 2009-11-18
+Address: 990 Bradtke Promenade Apt 31
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Cerebral palsy (disorder)
+- Poor muscle tone (finding)
+- Spasticity (finding)
+- Intellectual disability (disorder)
+- Gastroesophageal reflux disease (disorder)
+- Laceration of foot
+- Viral sinusitis (disorder)
+- Anemia (disorder)
+- Concussion with no loss of consciousness
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Suture open wound (Date: 2011-12-10T14:13:05Z)
+- Injection of tetanus antitoxin (Date: 2011-12-10T14:36:37Z)
+- Peripheral blood smear interpretation (Date: 2017-07-27T14:13:05Z)
+- Review of systems (procedure) (Date: 2017-07-27T14:43:05Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-27T15:01:13Z)
+- Brief general examination (procedure) (Date: 2017-07-27T15:18:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T14:49:41Z: Emergency room admission (procedure)
+- 2017-07-27T14:13:05Z: Encounter for problem
+- 2016-01-18T18:13:05Z: Encounter for symptom
+- 2011-12-10T14:13:05Z: Emergency room admission (procedure)
+- 2010-08-18T07:13:05Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-18T14:13:05Z QOLS: 1.0 {score}
+- 2021-11-18T14:13:05Z DALY: 0.0 a
+- 2021-11-18T14:13:05Z QALY: 11.0 a
+- 2020-11-18T14:13:05Z QOLS: 1.0 {score}
+- 2020-11-18T14:13:05Z DALY: 0.0 a
+- 2020-11-18T14:13:05Z QALY: 10.0 a
+- 2019-11-18T14:13:05Z QOLS: 1.0 {score}
+- 2019-11-18T14:13:05Z DALY: 0.0 a
+- 2019-11-18T14:13:05Z QALY: 9.0 a
+- 2018-11-18T14:13:05Z QOLS: 1.0 {score}

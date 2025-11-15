@@ -1,0 +1,105 @@
+== PATIENT RECORD: Brice635 Stark857 (ID: 407ef75b-0a9c-ec23-60e5-c90ba86e27af) ==
+
+== Demographics ==
+Patient ID: 407ef75b-0a9c-ec23-60e5-c90ba86e27af
+Name: Brice635 Stark857
+Gender: M
+Birthdate: 1952-10-28
+Address: 360 Farrell Bridge Suite 94
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Drug overdose
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Escherichia coli urinary tract infection
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Hyperlipidemia
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-14T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-14T20:40:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-20T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2013-08-20T20:52:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-26T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-26T20:30:38Z)
+- Depression screening (procedure) (Date: 2014-08-26T20:56:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-26T21:11:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-28T19:54:04Z)
+- Depression screening (procedure) (Date: 2015-04-28T20:28:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-28T20:41:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-01T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-01T20:29:24Z)
+- Depression screening (procedure) (Date: 2015-09-01T20:54:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-01T21:08:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-06T19:54:04Z)
+- Screening for domestic abuse (procedure) (Date: 2016-09-06T20:48:46Z)
+- Depression screening (procedure) (Date: 2016-09-06T21:32:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-06T21:43:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-12T19:54:04Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-12T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2017-09-12T20:42:08Z)
+- Screening for domestic abuse (procedure) (Date: 2017-09-12T20:57:41Z)
+- Depression screening (procedure) (Date: 2017-09-12T21:40:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-12T21:54:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-18T19:54:04Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-09-18T20:28:23Z)
+- Depression screening (procedure) (Date: 2018-09-18T20:56:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-18T21:09:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-24T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-24T20:44:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-09-24T21:13:33Z)
+- Depression screening (procedure) (Date: 2019-09-24T21:31:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-24T21:45:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-29T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-29T20:38:56Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-09-29T20:58:47Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-29T21:24:47Z)
+- Depression screening (procedure) (Date: 2020-09-29T22:05:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-29T22:16:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-05T19:54:04Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-05T19:54:04Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-05T20:37:13Z)
+- Depression screening (procedure) (Date: 2021-10-05T20:56:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-05T21:09:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-20T19:54:04Z: Follow-up encounter
+- 2021-10-05T19:54:04Z: General examination of patient (procedure)
+- 2021-09-03T19:54:04Z: Encounter for problem (procedure)
+- 2021-04-16T19:54:04Z: Emergency Room Admission
+- 2021-03-09T19:54:04Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-28T18:54:04Z QOLS: 0.6 {score}
+- 2021-10-28T18:54:04Z DALY: 11.8 a
+- 2021-10-28T18:54:04Z QALY: 56.2 a
+- 2021-10-20T19:54:04Z Carbon Dioxide: 26.9 mmol/L
+- 2021-10-20T19:54:04Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 40.8 U/L
+- 2021-10-20T19:54:04Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- 2021-10-20T19:54:04Z Globulin [Mass/volume] in Serum by calculation: 3.2 g/L
+- 2021-10-20T19:54:04Z Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- 2021-10-20T19:54:04Z Protein [Mass/volume] in Serum or Plasma: 69.3 g/dL
+- 2021-10-20T19:54:04Z Glomerular filtration rate/1.73 sq M.predicted: 72.4 mL/min

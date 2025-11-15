@@ -1,0 +1,105 @@
+== PATIENT RECORD: Merlin721 Paucek755 (ID: d3e4ad8c-11f2-14cf-28be-e4400b6caff1) ==
+
+== Demographics ==
+Patient ID: d3e4ad8c-11f2-14cf-28be-e4400b6caff1
+Name: Merlin721 Paucek755
+Gender: M
+Birthdate: 1980-10-28
+Address: 901 Volkman Plaza Unit 68
+Marital Status: S
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Body mass index 40+ - severely obese (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Fracture of the vertebral column with spinal cord injury
+- Chronic paralysis due to lesion of spinal cord
+- Chronic obstructive bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Astemizole 10 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-10T18:42:55Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-10T19:24:28Z)
+- Depression screening (procedure) (Date: 2012-01-10T19:50:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-10T20:01:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-13T18:42:55Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-13T18:42:55Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-13T19:23:24Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-13T19:52:54Z)
+- Depression screening (procedure) (Date: 2015-01-13T20:19:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-13T20:30:17Z)
+- Admission to neurosurgical department (Date: 2017-02-27T19:09:04Z)
+- Spirometry (procedure) (Date: 2018-01-16T18:42:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-16T18:42:55Z)
+- Screening for domestic abuse (procedure) (Date: 2018-01-16T19:33:27Z)
+- Spirometry (procedure) (Date: 2018-05-01T18:42:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-01T18:42:55Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-01T19:26:56Z)
+- Depression screening (procedure) (Date: 2018-05-01T20:06:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-01T20:19:31Z)
+- Assessment of substance use (procedure) (Date: 2018-05-01T20:44:20Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-01T20:55:16Z)
+- Spirometry (procedure) (Date: 2019-01-22T18:42:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-22T18:42:55Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-22T18:42:55Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-22T19:27:12Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-22T19:50:06Z)
+- Assessment of substance use (procedure) (Date: 2019-01-22T20:22:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-22T20:34:11Z)
+- Spirometry (procedure) (Date: 2020-01-28T18:42:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-28T18:42:55Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-28T18:42:55Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-28T19:27:24Z)
+- Depression screening (procedure) (Date: 2020-01-28T19:47:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-28T20:00:18Z)
+- Assessment of substance use (procedure) (Date: 2020-01-28T20:26:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-28T20:39:29Z)
+- Spirometry (procedure) (Date: 2020-08-25T18:42:55Z)
+- Sputum examination (procedure) (Date: 2020-08-20T07:00:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-25T18:42:55Z)
+- Depression screening (procedure) (Date: 2020-08-25T19:16:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-25T19:28:33Z)
+- Assessment of substance use (procedure) (Date: 2020-08-25T19:50:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-25T20:00:48Z)
+- Spirometry (procedure) (Date: 2021-02-02T18:42:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-02T18:42:55Z)
+- Depression screening (procedure) (Date: 2021-02-02T19:36:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-02T19:47:25Z)
+- Assessment of substance use (procedure) (Date: 2021-02-02T20:12:12Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-02T20:24:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-02T18:42:55Z: General examination of patient (procedure)
+- 2020-08-25T18:42:55Z: Encounter for check up (procedure)
+- 2020-08-20T07:00:25Z: Encounter for symptom
+- 2020-01-28T18:42:55Z: General examination of patient (procedure)
+- 2019-01-22T18:42:55Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-28T17:42:55Z QOLS: 0.5 {score}
+- 2021-10-28T17:42:55Z DALY: 2.1 a
+- 2021-10-28T17:42:55Z QALY: 37.9 a
+- 2021-02-02T20:48:48Z Total score [DAST-10]: 2.0 {score}
+- 2021-02-02T20:12:12Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-02T19:36:30Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-02-02T19:36:30Z What is your current work situation?: Full-time work nan
+- 2021-02-02T19:36:30Z What is your main insurance?: Private insurance nan
+- 2021-02-02T19:36:30Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 28338 /a
+- 2021-02-02T19:36:30Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan

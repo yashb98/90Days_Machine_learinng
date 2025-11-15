@@ -1,0 +1,51 @@
+== PATIENT RECORD: Gonzalo160 Botello137 (ID: 9724e8c9-3f30-702a-f75a-95082c024706) ==
+
+== Demographics ==
+Patient ID: 9724e8c9-3f30-702a-f75a-95082c024706
+Name: Gonzalo160 Botello137
+Gender: M
+Birthdate: 2010-09-27
+Address: 991 McClure Brook
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-05T15:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-03T15:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-03T15:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-01T15:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-07T15:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-24T15:33:41Z)
+- Measurement of respiratory function (procedure) (Date: 2019-04-14T21:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-30T15:33:41Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-11T15:33:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-11T15:33:41Z: Well child visit (procedure)
+- 2020-10-05T15:33:41Z: Well child visit (procedure)
+- 2019-09-30T15:33:41Z: Well child visit (procedure)
+- 2019-08-20T08:33:41Z: Encounter for symptom
+- 2019-04-29T15:33:41Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-11T15:33:41Z Body Mass Index: 16.6 kg/m2
+- 2021-10-11T15:33:41Z Body mass index (BMI) [Percentile] Per age and gender: 37.4 %
+- 2021-10-11T15:33:41Z Respiratory rate: 15.0 /min
+- 2021-10-11T15:33:41Z Leukocytes [#/volume] in Blood by Automated count: 10.1 10*3/uL
+- 2021-10-11T15:33:41Z Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- 2021-10-11T15:33:41Z Hemoglobin [Mass/volume] in Blood: 14.7 g/dL
+- 2021-10-11T15:33:41Z Hematocrit [Volume Fraction] of Blood by Automated count: 47.0 %
+- 2021-10-11T15:33:41Z MCV [Entitic volume] by Automated count: 80.9 fL
+- 2021-10-11T15:33:41Z MCH [Entitic mass] by Automated count: 28.4 pg
+- 2021-10-11T15:33:41Z MCHC [Mass/volume] by Automated count: 34.2 g/dL

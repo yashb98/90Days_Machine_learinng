@@ -1,0 +1,106 @@
+== PATIENT RECORD: Calvin845 Schiller186 (ID: 90a958eb-68a4-aa61-85e0-e9f20b083d94) ==
+
+== Demographics ==
+Patient ID: 90a958eb-68a4-aa61-85e0-e9f20b083d94
+Name: Calvin845 Schiller186
+Gender: M
+Birthdate: 1964-09-28
+Address: 932 Dickens Gateway Apt 52
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Hyperlipidemia
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Appendicitis
+- History of appendectomy
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-23T03:19:50Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-23T03:19:50Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-23T03:51:18Z)
+- Depression screening (procedure) (Date: 2012-10-23T04:08:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-23T04:19:05Z)
+- Assessment of substance use (procedure) (Date: 2012-10-23T04:39:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-23T04:51:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-30T03:19:50Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-30T04:07:59Z)
+- Depression screening (procedure) (Date: 2014-09-30T04:25:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-30T04:36:55Z)
+- Assessment of substance use (procedure) (Date: 2014-09-30T05:04:42Z)
+- Screening for drug abuse (procedure) (Date: 2014-09-30T05:17:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-06T03:19:50Z)
+- Depression screening (procedure) (Date: 2015-10-06T04:08:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-06T04:21:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-11T03:19:50Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-11T03:19:50Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-11T04:16:22Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-11T04:44:19Z)
+- Depression screening (procedure) (Date: 2016-10-11T05:18:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-11T05:29:16Z)
+- Assessment of substance use (procedure) (Date: 2016-10-11T05:57:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-11T06:10:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-17T03:19:50Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-17T03:19:50Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-17T04:12:00Z)
+- Depression screening (procedure) (Date: 2017-10-17T04:51:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-17T05:02:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-23T03:19:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-23T03:19:50Z)
+- Depression screening (procedure) (Date: 2018-10-23T04:14:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-23T04:29:32Z)
+- Assessment of substance use (procedure) (Date: 2018-10-23T04:59:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-23T05:13:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-29T03:19:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-29T03:19:50Z)
+- Depression screening (procedure) (Date: 2019-10-29T04:14:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-29T04:27:41Z)
+- Assessment of substance use (procedure) (Date: 2019-10-29T04:52:35Z)
+- Screening for drug abuse (procedure) (Date: 2019-10-29T05:03:21Z)
+- Appendectomy (Date: 2020-02-24T09:19:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-03T03:19:50Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-03T03:19:50Z)
+- Depression screening (procedure) (Date: 2020-11-03T03:52:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-03T04:04:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-03T04:26:52Z)
+- Assessment of substance use (procedure) (Date: 2020-11-03T04:53:10Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-03T05:04:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-09T03:19:50Z)
+- Assessment of substance use (procedure) (Date: 2021-11-09T04:12:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-11-09T04:26:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-11T03:19:50Z: Follow-up encounter
+- 2021-11-09T03:19:50Z: General examination of patient (procedure)
+- 2020-11-11T03:19:50Z: Follow-up encounter
+- 2020-11-03T03:19:50Z: General examination of patient (procedure)
+- 2020-02-24T09:19:50Z: Encounter Inpatient
+
+== Recent Observations (Last 10) ==
+- 2021-11-11T03:19:50Z High Density Lipoprotein Cholesterol: 78.1 mg/dL
+- 2021-11-11T03:19:50Z Triglycerides: 185.0 mg/dL
+- 2021-11-11T03:19:50Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 38.6 U/L
+- 2021-11-11T03:19:50Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 58.6 U/L
+- 2021-11-11T03:19:50Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 96.9 U/L
+- 2021-11-11T03:19:50Z Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- 2021-11-11T03:19:50Z Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- 2021-11-11T03:19:50Z Low Density Lipoprotein Cholesterol: 143.0 mg/dL
+- 2021-11-11T03:19:50Z Albumin [Mass/volume] in Serum or Plasma: 5.2 g/dL
+- 2021-11-11T03:19:50Z Protein [Mass/volume] in Serum or Plasma: 77.2 g/dL

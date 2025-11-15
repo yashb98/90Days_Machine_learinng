@@ -1,0 +1,175 @@
+== PATIENT RECORD: Drucilla444 Kshlerin58 (ID: 41aa16da-a60c-243b-5f97-eae742c63c68) ==
+
+== Demographics ==
+Patient ID: 41aa16da-a60c-243b-5f97-eae742c63c68
+Name: Drucilla444 Kshlerin58
+Gender: F
+Birthdate: 1999-02-19
+Address: 453 Lehner Rue Apt 16
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Normal pregnancy
+- Anemia (disorder)
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Misuses drugs (finding)
+- Headache (finding)
+- Chill (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Transport problems (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Trinessa 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Seasonique 91 Day Pack
+- Vitamin B 12 5 MG/ML Injectable Solution
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-03-16T17:23:41Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-16T17:23:41Z)
+- Depression screening (procedure) (Date: 2012-03-16T17:51:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-03-16T18:03:31Z)
+- Assessment of substance use (procedure) (Date: 2012-03-16T18:26:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-03-16T18:37:33Z)
+- Health risks education (procedure) (Date: 2012-03-16T19:03:22Z)
+- Depression screening (procedure) (Date: 2013-03-22T17:23:41Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-22T17:23:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-03-22T17:34:50Z)
+- Assessment of substance use (procedure) (Date: 2013-03-22T17:57:10Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-03-22T18:07:52Z)
+- Health risks education (procedure) (Date: 2013-03-22T18:34:37Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-28T17:23:41Z)
+- Assessment of substance use (procedure) (Date: 2014-03-28T17:40:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-03-28T17:53:57Z)
+- Health risks education (procedure) (Date: 2014-03-28T18:20:28Z)
+- Depression screening (procedure) (Date: 2015-04-03T17:23:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-04-03T17:38:38Z)
+- Assessment of substance use (procedure) (Date: 2015-04-03T18:07:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-04-03T18:18:46Z)
+- Anticipatory guidance (procedure) (Date: 2015-04-03T18:42:49Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-08T17:23:41Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-08T17:23:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-14T17:23:41Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-14T18:10:57Z)
+- Depression screening (procedure) (Date: 2017-04-14T18:35:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-14T18:48:55Z)
+- Assessment of substance use (procedure) (Date: 2017-04-14T19:13:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-14T19:27:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-20T17:23:41Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-20T17:23:41Z)
+- Depression screening (procedure) (Date: 2018-04-20T18:19:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-20T18:32:44Z)
+- Assessment of substance use (procedure) (Date: 2018-04-20T18:54:56Z)
+- Screening for drug abuse (procedure) (Date: 2018-04-20T19:08:55Z)
+- Standard pregnancy test (Date: 2019-04-26T17:23:41Z)
+- Ultrasound scan for fetal viability (Date: 2019-04-26T17:23:41Z)
+- Evaluation of uterine fundal height (Date: 2019-04-26T17:23:41Z)
+- Auscultation of the fetal heart (Date: 2019-04-26T17:23:41Z)
+- Blood typing  RH typing (Date: 2019-04-26T17:23:41Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-04-26T17:23:41Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-04-26T17:23:41Z)
+- Human immunodeficiency virus antigen test (Date: 2019-04-26T17:23:41Z)
+- Chlamydia antigen test (Date: 2019-04-26T17:23:41Z)
+- Gonorrhea infection test (Date: 2019-04-26T17:23:41Z)
+- Syphilis infection test (Date: 2019-04-26T17:23:41Z)
+- Urine culture (Date: 2019-04-26T17:23:41Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-04-26T17:23:41Z)
+- Urine screening test for diabetes (Date: 2019-04-26T17:23:41Z)
+- Hepatitis C antibody test (Date: 2019-04-26T17:23:41Z)
+- Rubella screening (Date: 2019-04-26T17:23:41Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-04-26T17:23:41Z)
+- Skin test for tuberculosis (Date: 2019-04-26T17:23:41Z)
+- Urine protein test (Date: 2019-04-26T17:23:41Z)
+- Physical examination of mother (Date: 2019-04-26T17:23:41Z)
+- Peripheral blood smear interpretation (Date: 2019-04-26T17:23:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-26T17:23:41Z)
+- Review of systems (procedure) (Date: 2019-04-26T17:53:41Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-26T18:07:52Z)
+- Brief general examination (procedure) (Date: 2019-04-26T18:15:19Z)
+- Intravenous blood transfusion of packed cells (procedure) (Date: 2019-04-26T19:27:06Z)
+- Evaluation of uterine fundal height (Date: 2019-05-25T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-05-25T20:09:43Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-05-25T20:09:43Z)
+- Fetal anatomy study (Date: 2019-06-22T20:09:43Z)
+- Alpha-fetoprotein test (Date: 2019-06-22T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-06-22T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-06-22T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-07-20T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-07-20T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-08-17T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-08-17T20:09:43Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-09-14T20:09:43Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-09-14T20:09:43Z)
+- Urine screening for glucose (Date: 2019-09-14T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-09-14T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-09-14T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-10-12T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-10-12T20:09:43Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-11-09T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-11-09T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-11-09T20:09:43Z)
+- Evaluation of uterine fundal height (Date: 2019-11-23T20:09:43Z)
+- Auscultation of the fetal heart (Date: 2019-11-23T20:09:43Z)
+- Childbirth (Date: 2019-11-30T20:09:43Z)
+- Physical examination following birth (Date: 2020-01-11T20:09:43Z)
+- Depression screening (Date: 2020-01-11T20:09:43Z)
+- Intramuscular injection (Date: 2020-01-13T17:23:41Z)
+- Intramuscular injection (Date: 2020-04-24T17:23:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-08T17:23:41Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-08T17:23:41Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-08T17:53:59Z)
+- Depression screening (procedure) (Date: 2020-05-08T18:22:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-08T18:33:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-08T18:59:10Z)
+- Assessment of substance use (procedure) (Date: 2020-05-08T19:26:44Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-08T19:40:42Z)
+- Intramuscular injection (Date: 2020-07-24T17:23:41Z)
+- Intramuscular injection (Date: 2020-10-23T17:23:41Z)
+- Intramuscular injection (Date: 2021-01-22T17:23:41Z)
+- Face mask (physical object) (Date: 2021-02-07T17:23:41Z)
+- Intramuscular injection (Date: 2021-04-23T17:23:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-14T17:23:41Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-14T17:23:41Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-14T18:22:25Z)
+- Depression screening (procedure) (Date: 2021-05-14T18:50:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-14T19:04:51Z)
+- Intramuscular injection (Date: 2021-07-23T17:23:41Z)
+- Intramuscular injection (Date: 2021-10-22T17:23:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-22T17:23:41Z: Patient encounter procedure
+- 2021-07-23T17:23:41Z: Patient encounter procedure
+- 2021-06-11T05:23:41Z: Encounter for symptom
+- 2021-05-14T17:23:41Z: General examination of patient (procedure)
+- 2021-04-23T17:23:41Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-05-14T19:29:14Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-14T18:50:11Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-05-14T18:22:25Z Are you worried about losing your housing?: No nan
+- 2021-05-14T18:22:25Z What language are you most comfortable speaking?: English nan
+- 2021-05-14T18:22:25Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-14T18:22:25Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 197417 /a
+- 2021-05-14T18:22:25Z What is your main insurance?: Private insurance nan
+- 2021-05-14T18:22:25Z What is your current work situation?: Full-time work nan
+- 2021-05-14T18:22:25Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-05-14T18:22:25Z What address do you live at?: 453 Lehner Rue Apt 16 nan

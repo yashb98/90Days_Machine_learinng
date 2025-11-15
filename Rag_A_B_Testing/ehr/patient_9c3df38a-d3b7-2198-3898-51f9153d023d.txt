@@ -1,0 +1,100 @@
+== PATIENT RECORD: Edythe31 Morar593 (ID: 9c3df38a-d3b7-2198-3898-51f9153d023d) ==
+
+== Demographics ==
+Patient ID: 9c3df38a-d3b7-2198-3898-51f9153d023d
+Name: Edythe31 Morar593
+Gender: F
+Birthdate: 1974-06-18
+Address: 392 Beahan Divide
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Escherichia coli urinary tract infection
+- Has a criminal record (finding)
+- Acute bronchitis (disorder)
+- Sprain of wrist
+
+== Current Medications ==
+- Jolivette 28 Day Pack
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Liletta 52 MG Intrauterine System
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-06-24T04:03:08Z)
+- Depression screening (procedure) (Date: 2014-06-24T04:37:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-24T04:50:01Z)
+- Assessment of substance use (procedure) (Date: 2014-06-24T05:19:36Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-24T05:29:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-28T04:03:08Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-28T04:03:08Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-28T04:57:12Z)
+- Screening for domestic abuse (procedure) (Date: 2016-06-28T05:15:21Z)
+- Depression screening (procedure) (Date: 2016-06-28T05:52:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-28T06:05:13Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-02-07T19:03:08Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-02-07T01:44:24Z)
+- Throat culture (procedure) (Date: 2018-06-18T14:03:08Z)
+- Echocardiography (procedure) (Date: 2018-06-19T04:03:08Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2018-06-19T04:03:08Z)
+- Catheter ablation of tissue of heart (Date: 2018-06-19T04:03:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-03T04:03:08Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-03T04:03:08Z)
+- Depression screening (procedure) (Date: 2018-07-03T04:46:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-03T05:00:47Z)
+- Intramuscular injection (Date: 2020-01-28T02:39:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-07T04:03:08Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-07T04:50:08Z)
+- Depression screening (procedure) (Date: 2020-07-07T05:13:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-07T05:25:41Z)
+- Assessment of substance use (procedure) (Date: 2020-07-07T05:52:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-07-07T06:06:20Z)
+- Measurement of respiratory function (procedure) (Date: 2020-12-18T00:23:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-29T04:03:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-29T04:03:08Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-29T04:53:16Z)
+- Depression screening (procedure) (Date: 2020-12-29T05:18:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-29T05:29:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-27T04:03:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-30T04:03:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-20T04:28:09Z: Emergency room admission (procedure)
+- 2021-01-22T02:56:16Z: Consultation for treatment
+- 2020-12-29T04:03:08Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-18T04:03:08Z QOLS: 0.8 {score}
+- 2021-06-18T04:03:08Z DALY: 1.6 a
+- 2021-06-18T04:03:08Z QALY: 44.4 a
+- 2020-12-29T05:50:21Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-29T05:18:27Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2020-12-29T04:53:16Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-12-29T04:53:16Z What is your current work situation?: Full-time work nan
+- 2020-12-29T04:53:16Z What is your main insurance?: Private insurance nan
+- 2020-12-29T04:53:16Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 60810 /a
+- 2020-12-29T04:53:16Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

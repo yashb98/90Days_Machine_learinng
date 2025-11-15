@@ -1,0 +1,58 @@
+== PATIENT RECORD: Silvia880 Pichardo350 (ID: 67712337-676a-c36f-ebae-e4b584e42d49) ==
+
+== Demographics ==
+Patient ID: 67712337-676a-c36f-ebae-e4b584e42d49
+Name: Silvia880 Pichardo350
+Gender: F
+Birthdate: 2010-12-15
+Address: 864 Zulauf Rue
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Viral sinusitis (disorder)
+- Facial laceration
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-01-13T10:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-22T20:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-23T20:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-22T20:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-20T20:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-21T20:17:48Z)
+- Suture open wound (Date: 2015-01-07T20:17:48Z)
+- Measurement of respiratory function (procedure) (Date: 2017-09-12T16:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-06T20:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-18T20:17:48Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-23T20:17:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-23T20:17:48Z: Well child visit (procedure)
+- 2019-12-18T20:17:48Z: Well child visit (procedure)
+- 2018-12-12T20:17:48Z: Well child visit (procedure)
+- 2017-12-06T20:17:48Z: Well child visit (procedure)
+- 2017-09-27T20:17:48Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-23T20:17:48Z Heart rate: 82.0 /min
+- 2020-12-23T20:17:48Z Body Height: 133.3 cm
+- 2020-12-23T20:17:48Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2020-12-23T20:17:48Z Body Weight: 33.3 kg
+- 2020-12-23T20:17:48Z Body Mass Index: 18.8 kg/m2
+- 2020-12-23T20:17:48Z Body mass index (BMI) [Percentile] Per age and gender: 75.7 %
+- 2020-12-23T20:17:48Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2020-12-23T20:17:48Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2020-12-23T20:17:48Z Respiratory rate: 13.0 /min
+- 2020-12-23T20:17:48Z Tobacco smoking status NHIS: Never smoker nan

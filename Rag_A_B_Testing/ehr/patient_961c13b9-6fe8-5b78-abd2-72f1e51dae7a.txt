@@ -1,0 +1,104 @@
+== PATIENT RECORD: Laverne101 Anderson154 (ID: 961c13b9-6fe8-5b78-abd2-72f1e51dae7a) ==
+
+== Demographics ==
+Patient ID: 961c13b9-6fe8-5b78-abd2-72f1e51dae7a
+Name: Laverne101 Anderson154
+Gender: M
+Birthdate: 1975-12-20
+Address: 296 Fritsch Crossing
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- tramadol hydrochloride 50 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-03-10T01:28:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-10T01:28:35Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-10T02:01:55Z)
+- Depression screening (procedure) (Date: 2013-03-10T02:29:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-10T02:42:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-03-10T03:08:53Z)
+- Assessment of substance use (procedure) (Date: 2013-03-10T03:36:56Z)
+- Screening for drug abuse (procedure) (Date: 2013-03-10T03:50:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-16T01:28:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-16T02:25:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-22T01:28:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-22T01:28:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-22T02:22:19Z)
+- Depression screening (procedure) (Date: 2015-03-22T02:43:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-22T02:55:16Z)
+- Assessment of substance use (procedure) (Date: 2015-03-22T03:24:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-22T03:35:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-27T01:28:35Z)
+- Depression screening (procedure) (Date: 2016-03-27T02:16:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-27T02:29:14Z)
+- Assessment of substance use (procedure) (Date: 2016-03-27T02:56:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-03-27T03:07:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-02T01:28:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-02T01:28:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-02T02:08:05Z)
+- Depression screening (procedure) (Date: 2017-04-02T02:35:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-02T02:48:52Z)
+- Assessment of substance use (procedure) (Date: 2017-04-02T03:18:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-02T03:31:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-08T01:28:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-08T01:28:35Z)
+- Depression screening (procedure) (Date: 2018-04-08T02:17:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-08T02:30:00Z)
+- Assessment of substance use (procedure) (Date: 2018-04-08T02:53:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-08T03:04:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-14T01:28:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-14T02:16:02Z)
+- Screening for domestic abuse (procedure) (Date: 2019-04-14T02:32:15Z)
+- Depression screening (procedure) (Date: 2019-04-14T03:04:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-14T03:15:51Z)
+- Assessment of substance use (procedure) (Date: 2019-04-14T03:37:40Z)
+- Screening for drug abuse (procedure) (Date: 2019-04-14T03:49:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-19T01:28:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-19T01:28:35Z)
+- Depression screening (procedure) (Date: 2020-04-19T02:01:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-19T02:14:33Z)
+- Assessment of substance use (procedure) (Date: 2020-04-19T02:39:49Z)
+- Screening for drug abuse (procedure) (Date: 2020-04-19T02:52:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-25T01:28:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-25T02:28:18Z)
+- Depression screening (procedure) (Date: 2021-04-25T02:54:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-25T03:05:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-25T01:28:35Z: General examination of patient (procedure)
+- 2020-04-19T01:28:35Z: General examination of patient (procedure)
+- 2019-11-06T22:28:35Z: Encounter for symptom
+- 2019-04-14T01:28:35Z: General examination of patient (procedure)
+- 2018-04-08T01:28:35Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-25T03:32:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-04-25T02:54:01Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-04-25T02:28:18Z Which race(s) are you?: White nan
+- 2021-04-25T02:28:18Z What address do you live at?: 296 Fritsch Crossing nan
+- 2021-04-25T02:28:18Z What language are you most comfortable speaking?: English nan
+- 2021-04-25T02:28:18Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-04-25T02:28:18Z What is your housing situation today?: I have housing nan
+- 2021-04-25T02:28:18Z Are you worried about losing your housing?: No nan
+- 2021-04-25T02:28:18Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-04-25T02:28:18Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

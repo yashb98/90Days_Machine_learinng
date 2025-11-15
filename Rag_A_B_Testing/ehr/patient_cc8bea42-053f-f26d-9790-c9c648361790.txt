@@ -1,0 +1,150 @@
+== PATIENT RECORD: Roseanna881 Fisher429 (ID: cc8bea42-053f-f26d-9790-c9c648361790) ==
+
+== Demographics ==
+Patient ID: cc8bea42-053f-f26d-9790-c9c648361790
+Name: Roseanna881 Fisher429
+Gender: F
+Birthdate: 1967-10-06
+Address: 398 Schulist Byway
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Coronary Heart Disease
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Normal pregnancy
+
+== Current Medications ==
+- Ortho Tri-Cyclen 28 Day Pack
+- Norinyl 1+50 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Carbamazepine[Tegretol]
+- Clopidogrel 75 MG Oral Tablet
+- clonazePAM 0.25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1992-12-12T02:56:17Z)
+- Medication Reconciliation (procedure) (Date: 1992-12-12T02:56:17Z)
+- Screening for domestic abuse (procedure) (Date: 1992-12-12T03:37:39Z)
+- Assessment of substance use (procedure) (Date: 1992-12-12T04:03:14Z)
+- Screening for drug abuse (procedure) (Date: 1992-12-12T04:16:14Z)
+- Intramuscular injection (Date: 1994-08-28T02:56:17Z)
+- Intramuscular injection (Date: 1994-12-10T02:56:17Z)
+- Intramuscular injection (Date: 1995-03-11T02:56:17Z)
+- Intramuscular injection (Date: 1995-06-10T02:56:17Z)
+- Intramuscular injection (Date: 1995-09-09T02:56:17Z)
+- Intramuscular injection (Date: 1995-12-09T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-12-23T02:56:17Z)
+- Screening for domestic abuse (procedure) (Date: 1995-12-23T03:49:43Z)
+- Depression screening (procedure) (Date: 1995-12-23T04:16:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-12-23T04:29:13Z)
+- Assessment of substance use (procedure) (Date: 1995-12-23T04:52:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-12-23T05:06:09Z)
+- Intramuscular injection (Date: 1996-03-09T02:56:17Z)
+- Intramuscular injection (Date: 1996-06-08T02:56:17Z)
+- Intramuscular injection (Date: 1996-09-07T02:56:17Z)
+- Intramuscular injection (Date: 1996-12-07T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-12-28T02:56:17Z)
+- Screening for domestic abuse (procedure) (Date: 1996-12-28T03:54:04Z)
+- Depression screening (procedure) (Date: 1996-12-28T04:32:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-12-28T04:45:10Z)
+- Assessment of substance use (procedure) (Date: 1996-12-28T05:10:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-12-28T05:21:42Z)
+- Intramuscular injection (Date: 1997-03-08T02:56:17Z)
+- Intramuscular injection (Date: 1997-06-07T02:56:17Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1997-06-11T02:56:17Z)
+- Intramuscular injection (Date: 1997-09-06T02:56:17Z)
+- Intramuscular injection (Date: 1997-12-06T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-01-03T02:56:17Z)
+- Screening for domestic abuse (procedure) (Date: 1998-01-03T03:44:00Z)
+- Depression screening (procedure) (Date: 1998-01-03T04:26:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-01-03T04:39:54Z)
+- Assessment of substance use (procedure) (Date: 1998-01-03T05:03:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1998-01-03T05:15:05Z)
+- Intramuscular injection (Date: 1998-03-07T02:56:17Z)
+- Intramuscular injection (Date: 1998-06-06T02:56:17Z)
+- Intramuscular injection (Date: 1998-09-05T02:56:17Z)
+- Intramuscular injection (Date: 1998-12-05T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-01-09T02:56:17Z)
+- Assessment of substance use (procedure) (Date: 1999-01-09T03:42:33Z)
+- Screening for drug abuse (procedure) (Date: 1999-01-09T03:53:18Z)
+- Intramuscular injection (Date: 1999-03-06T02:56:17Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1999-03-06T02:56:17Z)
+- Intramuscular injection (Date: 1999-06-05T02:56:17Z)
+- Intramuscular injection (Date: 1999-09-04T02:56:17Z)
+- Standard pregnancy test (Date: 1999-11-27T02:56:17Z)
+- Ultrasound scan for fetal viability (Date: 1999-11-27T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 1999-11-27T02:56:17Z)
+- Auscultation of the fetal heart (Date: 1999-11-27T02:56:17Z)
+- Blood typing  RH typing (Date: 1999-11-27T02:56:17Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1999-11-27T02:56:17Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1999-11-27T02:56:17Z)
+- Human immunodeficiency virus antigen test (Date: 1999-11-27T02:56:17Z)
+- Chlamydia antigen test (Date: 1999-11-27T02:56:17Z)
+- Gonorrhea infection test (Date: 1999-11-27T02:56:17Z)
+- Syphilis infection test (Date: 1999-11-27T02:56:17Z)
+- Urine culture (Date: 1999-11-27T02:56:17Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1999-11-27T02:56:17Z)
+- Urine screening test for diabetes (Date: 1999-11-27T02:56:17Z)
+- Hepatitis C antibody test (Date: 1999-11-27T02:56:17Z)
+- Rubella screening (Date: 1999-11-27T02:56:17Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1999-11-27T02:56:17Z)
+- Skin test for tuberculosis (Date: 1999-11-27T02:56:17Z)
+- Urine protein test (Date: 1999-11-27T02:56:17Z)
+- Physical examination of mother (Date: 1999-11-27T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 1999-12-25T02:56:17Z)
+- Auscultation of the fetal heart (Date: 1999-12-25T02:56:17Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1999-12-25T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-01-15T02:56:17Z)
+- Fetal anatomy study (Date: 2000-01-22T02:56:17Z)
+- Alpha-fetoprotein test (Date: 2000-01-22T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2000-01-22T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2000-01-22T02:56:17Z)
+- Screening for domestic abuse (procedure) (Date: 2000-01-15T03:44:56Z)
+- Evaluation of uterine fundal height (Date: 2000-02-19T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2000-02-19T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2000-03-18T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2000-03-18T02:56:17Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2000-04-15T02:56:17Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2000-04-15T02:56:17Z)
+- Urine screening for glucose (Date: 2000-04-15T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2000-04-15T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2000-04-15T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2000-05-13T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2000-05-13T02:56:17Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2000-06-10T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2000-06-10T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2000-06-10T02:56:17Z)
+- Childbirth (Date: 2000-06-24T02:56:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2000-07-08T02:56:17Z: Death Certification
+- 2000-06-24T02:56:17Z: Obstetric emergency hospital admission
+- 2000-06-10T02:56:17Z: Prenatal visit
+- 2000-05-13T02:56:17Z: Prenatal visit
+- 2000-04-15T02:56:17Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2000-07-08T02:56:17Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 2000-01-15T04:15:14Z Total score [HARK]: 0.0 {score}
+- 2000-01-15T03:44:56Z What is your current work situation?: Full-time work nan
+- 2000-01-15T03:44:56Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2000-01-15T03:44:56Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2000-01-15T03:44:56Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2000-01-15T03:44:56Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2000-01-15T03:44:56Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2000-01-15T03:44:56Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2000-01-15T03:44:56Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan

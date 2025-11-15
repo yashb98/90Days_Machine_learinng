@@ -1,0 +1,76 @@
+== PATIENT RECORD: Darin74 Williamson769 (ID: 146f9020-c423-72ce-7c96-12e60f3f5910) ==
+
+== Demographics ==
+Patient ID: 146f9020-c423-72ce-7c96-12e60f3f5910
+Name: Darin74 Williamson769
+Gender: M
+Birthdate: 2009-04-26
+Address: 496 Blanda Forge Unit 90
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Soya bean (substance)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Seasonal allergic rhinitis
+- Childhood asthma
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Acute allergic reaction
+- Sinusitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- predniSONE 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-03-31T15:32:56Z)
+- Asthma screening (Date: 2013-05-19T15:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-17T15:32:56Z)
+- Throat culture (procedure) (Date: 2016-02-04T05:32:56Z)
+- Sputum examination (procedure) (Date: 2016-11-17T15:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-04T15:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-23T15:32:56Z)
+- Injection of adrenaline (Date: 2018-08-17T16:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-28T15:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-14T15:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-05T15:32:56Z)
+- Depression screening (procedure) (Date: 2021-05-16T15:32:56Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-16T15:32:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-16T15:44:49Z)
+- Assessment of substance use (procedure) (Date: 2021-05-16T16:07:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-16T16:21:54Z)
+- Health risks education (procedure) (Date: 2021-05-16T16:40:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-16T15:32:56Z: Well child visit (procedure)
+- 2021-04-08T17:32:56Z: Asthma follow-up
+- 2021-04-07T15:32:56Z: Emergency hospital admission for asthma
+- 2020-10-09T15:32:56Z: Asthma follow-up
+- 2020-05-10T15:32:56Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-16T16:07:27Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-05-16T15:32:56Z Body Mass Index: 16.7 kg/m2
+- 2021-05-16T15:32:56Z Body Height: 144.8 cm
+- 2021-05-16T15:32:56Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-05-16T15:32:56Z Body Weight: 34.9 kg
+- 2021-05-16T15:32:56Z Body mass index (BMI) [Percentile] Per age and gender: 29.1 %
+- 2021-05-16T15:32:56Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-05-16T15:32:56Z Systolic Blood Pressure: 103.0 mm[Hg]
+- 2021-05-16T15:32:56Z Heart rate: 93.0 /min
+- 2021-05-16T15:32:56Z Respiratory rate: 13.0 /min

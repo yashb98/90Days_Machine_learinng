@@ -1,0 +1,62 @@
+== PATIENT RECORD: Hong136 Miller503 (ID: c30d42e6-8e9e-d548-8114-482cdd553fcb) ==
+
+== Demographics ==
+Patient ID: c30d42e6-8e9e-d548-8114-482cdd553fcb
+Name: Hong136 Miller503
+Gender: F
+Birthdate: 2008-04-20
+Address: 1009 Upton Parade
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-03-25T15:10:07Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-06T15:10:07Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-06T15:10:07Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-17T15:10:07Z)
+- Throat culture (procedure) (Date: 2016-09-07T17:10:07Z)
+- Depression screening (procedure) (Date: 2020-05-10T15:10:07Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-10T15:10:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-10T15:22:10Z)
+- Assessment of substance use (procedure) (Date: 2020-05-10T15:47:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-10T16:00:38Z)
+- Anticipatory guidance (procedure) (Date: 2020-05-10T16:11:01Z)
+- Depression screening (procedure) (Date: 2021-05-16T15:10:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-16T15:24:54Z)
+- Assessment of substance use (procedure) (Date: 2021-05-16T15:46:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-16T15:57:04Z)
+- Health risks education (procedure) (Date: 2021-05-16T16:22:06Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-26T15:10:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-29T15:10:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-16T15:10:07Z: Well child visit (procedure)
+- 2020-05-10T15:10:07Z: Well child visit (procedure)
+- 2019-05-05T15:10:07Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-16T15:46:14Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-05-16T15:10:07Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-16T15:10:07Z Respiratory rate: 16.0 /min
+- 2021-05-16T15:10:07Z Body Height: 158.6 cm
+- 2021-05-16T15:10:07Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-05-16T15:10:07Z Body Weight: 75.9 kg
+- 2021-05-16T15:10:07Z Body Mass Index: 30.2 kg/m2
+- 2021-05-16T15:10:07Z Body mass index (BMI) [Percentile] Per age and gender: 98.0 %
+- 2021-05-16T15:10:07Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-05-16T15:10:07Z Systolic Blood Pressure: 136.0 mm[Hg]

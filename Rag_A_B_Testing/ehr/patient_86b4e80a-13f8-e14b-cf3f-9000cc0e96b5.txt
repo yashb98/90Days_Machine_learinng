@@ -1,0 +1,108 @@
+== PATIENT RECORD: Scottie437 Fritsch593 (ID: 86b4e80a-13f8-e14b-cf3f-9000cc0e96b5) ==
+
+== Demographics ==
+Patient ID: 86b4e80a-13f8-e14b-cf3f-9000cc0e96b5
+Name: Scottie437 Fritsch593
+Gender: M
+Birthdate: 1979-06-23
+Address: 216 Gottlieb View Unit 55
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Anemia (disorder)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+- Sprain of wrist
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-10T12:52:42Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-10T12:52:42Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-10T13:51:53Z)
+- Assessment of substance use (procedure) (Date: 2012-11-10T14:36:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-10T14:46:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-16T12:52:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-16T12:52:42Z)
+- Peripheral blood smear interpretation (Date: 2013-11-16T12:52:42Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-16T13:27:16Z)
+- Assessment of substance use (procedure) (Date: 2013-11-16T14:00:36Z)
+- Screening for drug abuse (procedure) (Date: 2013-11-16T14:11:56Z)
+- Review of systems (procedure) (Date: 2013-11-16T13:22:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-16T13:39:21Z)
+- Brief general examination (procedure) (Date: 2013-11-16T13:52:02Z)
+- Intravenous blood transfusion of packed cells (procedure) (Date: 2013-11-16T15:05:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-22T12:52:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-22T12:52:42Z)
+- Depression screening (procedure) (Date: 2014-11-22T13:46:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-22T13:57:56Z)
+- Assessment of substance use (procedure) (Date: 2014-11-22T14:21:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-22T14:35:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-28T12:52:42Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-28T13:32:55Z)
+- Depression screening (procedure) (Date: 2015-11-28T13:48:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-28T14:01:50Z)
+- Assessment of substance use (procedure) (Date: 2015-11-28T14:30:58Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-28T14:42:36Z)
+- Sputum examination (procedure) (Date: 2016-04-11T07:52:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-03T12:52:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-03T12:52:42Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-03T13:46:59Z)
+- Depression screening (procedure) (Date: 2016-12-03T14:14:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-03T14:28:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-09T12:52:42Z)
+- Assessment of substance use (procedure) (Date: 2017-12-09T13:29:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-09T13:44:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-15T12:52:42Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-15T13:51:04Z)
+- Depression screening (procedure) (Date: 2018-12-15T14:15:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-15T14:25:58Z)
+- Assessment of substance use (procedure) (Date: 2018-12-15T14:48:01Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-15T15:01:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-21T12:52:42Z)
+- Depression screening (procedure) (Date: 2019-12-21T13:42:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-21T13:52:53Z)
+- Assessment of substance use (procedure) (Date: 2019-12-21T14:20:00Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-21T14:30:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-26T12:52:42Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-26T13:42:32Z)
+- Depression screening (procedure) (Date: 2020-12-26T14:01:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-26T14:12:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-12-26T14:41:12Z)
+- Assessment of substance use (procedure) (Date: 2020-12-26T15:10:46Z)
+- Screening for drug abuse (procedure) (Date: 2020-12-26T15:23:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-08T12:52:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T12:52:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-03T12:52:42Z: Emergency room admission (procedure)
+- 2020-12-26T12:52:42Z: General examination of patient (procedure)
+- 2019-12-21T12:52:42Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-23T12:52:42Z QOLS: 1.0 {score}
+- 2021-06-23T12:52:42Z DALY: 0.4 a
+- 2021-06-23T12:52:42Z QALY: 40.6 a
+- 2020-12-26T15:45:42Z Total score [DAST-10]: 2.0 {score}
+- 2020-12-26T15:10:46Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 15.0 {score}
+- 2020-12-26T14:41:12Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2020-12-26T14:01:51Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-12-26T13:42:32Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-12-26T13:42:32Z Are you a refugee?: No nan
+- 2020-12-26T13:42:32Z Are you worried about losing your housing?: No nan

@@ -1,0 +1,92 @@
+== PATIENT RECORD: Will178 Hilpert278 (ID: db9b9c1c-0a86-773c-ba82-fbb9b71d9993) ==
+
+== Demographics ==
+Patient ID: db9b9c1c-0a86-773c-ba82-fbb9b71d9993
+Name: Will178 Hilpert278
+Gender: M
+Birthdate: 1938-10-13
+Address: 994 Wyman Underpass Suite 60
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Coronary Heart Disease
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Severe anxiety (panic) (finding
+- Only received primary school education (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1949-10-27T10:15:32Z)
+- Assessment of anxiety (procedure) (Date: 1950-11-02T10:15:32Z)
+- Medication Reconciliation (procedure) (Date: 1950-11-02T10:15:32Z)
+- Depression screening (procedure) (Date: 1950-11-02T10:44:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1950-11-02T10:59:24Z)
+- Assessment of substance use (procedure) (Date: 1950-11-02T11:20:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1950-11-02T11:30:58Z)
+- Anticipatory guidance (procedure) (Date: 1950-11-02T11:49:31Z)
+- Assessment of anxiety (procedure) (Date: 1951-11-08T10:15:32Z)
+- Depression screening (procedure) (Date: 1951-11-08T10:44:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1951-11-08T10:55:00Z)
+- Assessment of substance use (procedure) (Date: 1951-11-08T11:19:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1951-11-08T11:32:02Z)
+- Anticipatory guidance (procedure) (Date: 1951-11-08T11:59:10Z)
+- Assessment of anxiety (procedure) (Date: 1952-11-13T10:15:32Z)
+- Depression screening (procedure) (Date: 1952-11-13T10:42:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1952-11-13T10:56:36Z)
+- Assessment of substance use (procedure) (Date: 1952-11-13T11:24:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1952-11-13T11:38:53Z)
+- Health risks education (procedure) (Date: 1952-11-13T11:51:55Z)
+- Assessment of anxiety (procedure) (Date: 1953-11-19T10:15:32Z)
+- Depression screening (procedure) (Date: 1953-11-19T10:44:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1953-11-19T10:58:02Z)
+- Assessment of anxiety (procedure) (Date: 1954-11-25T10:15:32Z)
+- Depression screening (procedure) (Date: 1954-11-25T10:39:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1954-11-25T10:53:28Z)
+- Assessment of anxiety (procedure) (Date: 1955-12-01T10:15:32Z)
+- Medication Reconciliation (procedure) (Date: 1955-12-01T10:15:32Z)
+- Depression screening (procedure) (Date: 1955-12-01T10:35:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1955-12-01T10:48:10Z)
+- Throat culture (procedure) (Date: 1956-11-09T22:15:32Z)
+- Assessment of health and social care needs (procedure) (Date: 1956-12-06T10:15:32Z)
+- Depression screening (procedure) (Date: 1956-12-06T10:53:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1956-12-06T11:07:44Z)
+- Assessment of health and social care needs (procedure) (Date: 1957-12-12T10:15:32Z)
+- Assessment of anxiety (procedure) (Date: 1957-12-12T10:46:28Z)
+- Screening for domestic abuse (procedure) (Date: 1957-12-12T11:16:18Z)
+- Depression screening (procedure) (Date: 1957-12-12T11:54:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1957-12-12T12:07:40Z)
+- Echocardiography (procedure) (Date: 1958-01-09T10:15:32Z)
+- Percutaneous coronary intervention (Date: 1958-01-09T10:15:32Z)
+- Coronary artery bypass grafting (Date: 1958-01-09T10:15:32Z)
+
+== Recent Encounters (Last 5) ==
+- 1958-01-16T10:15:32Z: Death Certification
+- 1958-01-09T10:15:32Z: Myocardial Infarction
+- 1957-12-12T10:15:32Z: General examination of patient (procedure)
+- 1956-12-06T10:15:32Z: General examination of patient (procedure)
+- 1956-11-09T22:15:32Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 1958-01-16T10:15:32Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1957-12-12T12:31:31Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1957-12-12T11:54:41Z Total score [HARK]: 0.0 {score}
+- 1957-12-12T11:16:18Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 1957-12-12T10:46:28Z What is your current work situation?: Full-time work nan
+- 1957-12-12T10:46:28Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1957-12-12T10:46:28Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1957-12-12T10:46:28Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1957-12-12T10:46:28Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 1957-12-12T10:46:28Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan

@@ -1,0 +1,69 @@
+== PATIENT RECORD: Cletus494 Stehr398 (ID: 9b7deab3-c8de-8633-b895-5a2903a5a706) ==
+
+== Demographics ==
+Patient ID: 9b7deab3-c8de-8633-b895-5a2903a5a706
+Name: Cletus494 Stehr398
+Gender: M
+Birthdate: 1991-11-27
+Address: 595 Rowe Parade Unit 92
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Facial laceration
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Suture open wound (Date: 2013-05-24T21:30:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-29T20:50:03Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-29T20:50:03Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-29T21:44:02Z)
+- Screening for domestic abuse (procedure) (Date: 2014-01-29T22:05:31Z)
+- Depression screening (procedure) (Date: 2014-01-29T22:41:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-29T22:52:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-01T20:50:03Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-01T20:50:03Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-01T21:30:53Z)
+- Depression screening (procedure) (Date: 2017-02-01T22:08:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-01T22:19:00Z)
+- Throat culture (procedure) (Date: 2018-05-24T00:50:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-05T20:50:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-05T20:50:03Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-05T21:28:32Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-05T21:56:59Z)
+- Depression screening (procedure) (Date: 2020-02-05T22:41:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-05T22:55:52Z)
+- Assessment of substance use (procedure) (Date: 2020-02-05T23:18:49Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-05T23:32:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-02T20:50:03Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-05T20:50:03Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-02-05T20:50:03Z: General examination of patient (procedure)
+- 2018-05-24T00:50:03Z: Encounter for symptom
+- 2017-02-01T20:50:03Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-11-27T20:50:03Z QOLS: 1.0 {score}
+- 2020-11-27T20:50:03Z DALY: 0.0 a
+- 2020-11-27T20:50:03Z QALY: 28.0 a
+- 2020-02-06T00:00:39Z Total score [DAST-10]: 1.0 {score}
+- 2020-02-05T23:18:49Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-02-05T22:41:51Z Total score [HARK]: 0.0 {score}
+- 2020-02-05T21:56:59Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2020-02-05T21:28:32Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-02-05T21:28:32Z Are you a refugee?: No nan
+- 2020-02-05T21:28:32Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

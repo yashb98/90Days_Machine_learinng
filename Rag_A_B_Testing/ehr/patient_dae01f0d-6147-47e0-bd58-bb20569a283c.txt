@@ -1,0 +1,52 @@
+== PATIENT RECORD: Teddy976 Batz141 (ID: dae01f0d-6147-47e0-bd58-bb20569a283c) ==
+
+== Demographics ==
+Patient ID: dae01f0d-6147-47e0-bd58-bb20569a283c
+Name: Teddy976 Batz141
+Gender: M
+Birthdate: 2018-06-11
+Address: 769 Pacocha Center Suite 66
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Laceration of forearm
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-06-11T20:31:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-17T20:31:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-19T20:31:04Z)
+- Suture open wound (Date: 2019-07-26T20:31:04Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-19T20:31:04Z)
+- Throat culture (procedure) (Date: 2021-03-12T14:31:04Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-17T20:31:04Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-15T20:31:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-15T20:31:04Z: Well child visit (procedure)
+- 2021-05-17T20:31:04Z: Well child visit (procedure)
+- 2021-03-27T20:31:04Z: Encounter for symptom
+- 2021-03-12T14:31:04Z: Encounter for symptom
+- 2020-11-16T20:31:04Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T20:31:04Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-11-15T20:31:04Z Body mass index (BMI) [Percentile] Per age and gender: 9.8 %
+- 2021-11-15T20:31:04Z Body Height: 106.9 cm
+- 2021-11-15T20:31:04Z Body Weight: 16.6 kg
+- 2021-11-15T20:31:04Z Weight-for-length Per age and sex: 99.0 %
+- 2021-11-15T20:31:04Z Head Occipital-frontal circumference: 52.8 cm
+- 2021-11-15T20:31:04Z Body Mass Index: 14.5 kg/m2
+- 2021-11-15T20:31:04Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-15T20:31:04Z Respiratory rate: 16.0 /min
+- 2021-11-15T20:31:04Z Heart rate: 67.0 /min

@@ -1,0 +1,47 @@
+== PATIENT RECORD: Gudrun69 Glover433 (ID: 35e37786-cae2-06f7-f0da-7fca4b33f3e7) ==
+
+== Demographics ==
+Patient ID: 35e37786-cae2-06f7-f0da-7fca4b33f3e7
+Name: Gudrun69 Glover433
+Gender: F
+Birthdate: 2017-01-03
+Address: 567 McDermott Gateway Unit 84
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2017-02-04T15:13:40Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-13T19:13:40Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-12T19:13:40Z)
+- Throat culture (procedure) (Date: 2018-03-03T12:13:40Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-10T19:13:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-08T19:13:40Z: Well child visit (procedure)
+- 2020-06-09T19:13:40Z: Well child visit (procedure)
+- 2019-12-10T19:13:40Z: Well child visit (procedure)
+- 2019-08-25T12:13:40Z: Encounter for symptom
+- 2019-06-11T19:13:40Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-03T19:13:40Z QOLS: 1.0 {score}
+- 2021-01-03T19:13:40Z DALY: 0.0 a
+- 2021-01-03T19:13:40Z QALY: 4.0 a
+- 2020-12-08T19:13:40Z Heart rate: 75.0 /min
+- 2020-12-08T19:13:40Z Body Height: 97.0 cm
+- 2020-12-08T19:13:40Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2020-12-08T19:13:40Z Body Weight: 17.7 kg
+- 2020-12-08T19:13:40Z Head Occipital-frontal circumference: 47.4 cm
+- 2020-12-08T19:13:40Z Body Mass Index: 18.8 kg/m2
+- 2020-12-08T19:13:40Z Body mass index (BMI) [Percentile] Per age and gender: 97.5 %

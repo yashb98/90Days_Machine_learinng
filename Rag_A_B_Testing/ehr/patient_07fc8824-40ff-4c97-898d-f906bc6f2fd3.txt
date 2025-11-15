@@ -1,0 +1,113 @@
+== PATIENT RECORD: Fleta652 Pollich983 (ID: 07fc8824-40ff-4c97-898d-f906bc6f2fd3) ==
+
+== Demographics ==
+Patient ID: 07fc8824-40ff-4c97-898d-f906bc6f2fd3
+Name: Fleta652 Pollich983
+Gender: F
+Birthdate: 1954-08-01
+Address: 646 Weimann Hollow
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Appendicitis
+- History of appendectomy
+- Chronic sinusitis (disorder)
+- Osteoarthritis of knee
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-16T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-16T07:42:40Z)
+- Depression screening (procedure) (Date: 2012-09-16T08:11:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-16T08:23:50Z)
+- Assessment of substance use (procedure) (Date: 2012-09-16T08:46:54Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-16T08:58:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-22T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-22T07:30:43Z)
+- Depression screening (procedure) (Date: 2013-09-22T07:57:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-22T08:11:09Z)
+- Colonoscopy (Date: 2014-08-01T08:01:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-28T06:43:09Z)
+- Depression screening (procedure) (Date: 2014-09-28T07:16:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-28T07:28:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-04T06:43:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-04T06:43:09Z)
+- Screening for domestic abuse (procedure) (Date: 2015-10-04T07:16:55Z)
+- Depression screening (procedure) (Date: 2015-10-04T07:57:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-04T08:12:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-04T08:34:09Z)
+- Assessment of substance use (procedure) (Date: 2015-10-04T08:54:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-04T09:07:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-09T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-09T07:35:43Z)
+- Depression screening (procedure) (Date: 2016-10-09T08:00:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-09T08:15:42Z)
+- Assessment of substance use (procedure) (Date: 2016-10-09T08:36:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-09T08:48:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-15T06:43:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-15T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-15T07:32:57Z)
+- Depression screening (procedure) (Date: 2017-10-15T07:49:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-15T08:02:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-21T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-21T07:30:47Z)
+- Depression screening (procedure) (Date: 2018-10-21T07:45:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-21T08:00:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-21T08:23:33Z)
+- Assessment of substance use (procedure) (Date: 2018-10-21T08:47:32Z)
+- Screening for drug abuse (procedure) (Date: 2018-10-21T08:58:17Z)
+- Measurement of respiratory function (procedure) (Date: 2018-11-14T02:43:09Z)
+- Colonoscopy (Date: 2019-08-01T08:29:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-27T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-27T07:21:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-10-27T07:49:34Z)
+- Depression screening (procedure) (Date: 2019-10-27T08:05:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-27T08:16:02Z)
+- Assessment of substance use (procedure) (Date: 2019-10-27T08:38:32Z)
+- Screening for drug abuse (procedure) (Date: 2019-10-27T08:50:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-01T06:43:09Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-01T07:20:53Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-11-01T07:40:14Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-01T08:09:06Z)
+- Assessment of substance use (procedure) (Date: 2020-11-01T08:42:16Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-01T08:55:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-07T06:43:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-07T06:43:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-11-07T07:34:49Z)
+- Depression screening (procedure) (Date: 2021-11-07T07:52:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-07T08:05:54Z)
+- Assessment of substance use (procedure) (Date: 2021-11-07T08:25:59Z)
+- Screening for drug abuse (procedure) (Date: 2021-11-07T08:39:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-07T06:43:09Z: General examination of patient (procedure)
+- 2021-02-21T06:43:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-31T06:43:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-21T09:43:09Z: Encounter for symptom
+- 2020-11-01T06:43:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-07T09:04:08Z Total score [DAST-10]: 1.0 {score}
+- 2021-11-07T08:25:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-11-07T07:52:07Z Fall risk total [Morse Fall Scale]: 115.0 {#}
+- 2021-11-07T07:52:07Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-11-07T07:34:49Z What is your current work situation?: Full-time work nan
+- 2021-11-07T07:34:49Z What is your main insurance?: Medicare nan
+- 2021-11-07T07:34:49Z What is your housing situation today?: I have housing nan
+- 2021-11-07T07:34:49Z Are you worried about losing your housing?: No nan
+- 2021-11-07T07:34:49Z What address do you live at?: 646 Weimann Hollow nan
+- 2021-11-07T07:34:49Z What is the highest level of school that you have finished?: More than high school nan

@@ -1,0 +1,140 @@
+== PATIENT RECORD: Dorotea472 Botello137 (ID: ef5697a6-2bd3-d1c3-67ea-0f7892f4e76f) ==
+
+== Demographics ==
+Patient ID: ef5697a6-2bd3-d1c3-67ea-0f7892f4e76f
+Name: Dorotea472 Botello137
+Gender: F
+Birthdate: 1986-07-19
+Address: 959 Kuvalis Bypass Unit 8
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Unemployed (finding)
+- Normal pregnancy
+- Limited social contact (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Prediabetes
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Miscarriage in first trimester
+- Fetus with unknown complication
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Sinusitis (disorder)
+
+== Current Medications ==
+- Mirena 52 MG Intrauterine System
+- Trinessa 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- Insertion of intrauterine contraceptive device (Date: 2012-09-17T22:55:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-27T15:13:30Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-27T16:09:28Z)
+- Throat culture (procedure) (Date: 2014-11-04T05:13:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-11T15:13:30Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-11T15:57:39Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-11T16:15:08Z)
+- Removal of intrauterine device (Date: 2016-05-07T15:13:30Z)
+- Standard pregnancy test (Date: 2016-07-02T15:13:30Z)
+- Ultrasound scan for fetal viability (Date: 2016-07-02T15:13:30Z)
+- Physical examination (Date: 2016-07-12T15:13:30Z)
+- Depression screening (Date: 2016-07-12T15:13:30Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-08-27T23:59:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-30T15:13:30Z)
+- Assessment of anxiety (procedure) (Date: 2017-09-30T15:58:43Z)
+- Screening for domestic abuse (procedure) (Date: 2017-09-30T16:16:19Z)
+- Removal of subcutaneous contraceptive (Date: 2019-01-12T15:13:30Z)
+- Standard pregnancy test (Date: 2019-03-09T15:13:30Z)
+- Ultrasound scan for fetal viability (Date: 2019-03-09T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-03-09T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-03-09T15:13:30Z)
+- Blood typing  RH typing (Date: 2019-03-09T15:13:30Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-03-09T15:13:30Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-03-09T15:13:30Z)
+- Human immunodeficiency virus antigen test (Date: 2019-03-09T15:13:30Z)
+- Chlamydia antigen test (Date: 2019-03-09T15:13:30Z)
+- Gonorrhea infection test (Date: 2019-03-09T15:13:30Z)
+- Syphilis infection test (Date: 2019-03-09T15:13:30Z)
+- Urine culture (Date: 2019-03-09T15:13:30Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-03-09T15:13:30Z)
+- Urine screening test for diabetes (Date: 2019-03-09T15:13:30Z)
+- Hepatitis C antibody test (Date: 2019-03-09T15:13:30Z)
+- Rubella screening (Date: 2019-03-09T15:13:30Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-03-09T15:13:30Z)
+- Skin test for tuberculosis (Date: 2019-03-09T15:13:30Z)
+- Urine protein test (Date: 2019-03-09T15:13:30Z)
+- Physical examination of mother (Date: 2019-03-09T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-04-06T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-04-06T15:13:30Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-04-06T15:13:30Z)
+- Fetal anatomy study (Date: 2019-05-04T15:13:30Z)
+- Alpha-fetoprotein test (Date: 2019-05-04T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-05-04T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-05-04T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-06-01T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-06-01T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-06-29T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-06-29T15:13:30Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-27T15:13:30Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-07-27T15:13:30Z)
+- Urine screening for glucose (Date: 2019-07-27T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-07-27T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-07-27T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-08-24T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-08-24T15:13:30Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-09-21T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2019-09-21T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2019-09-21T15:13:30Z)
+- Childbirth (Date: 2019-10-05T15:13:30Z)
+- Physical examination following birth (Date: 2019-11-16T15:13:30Z)
+- Depression screening (Date: 2019-11-16T15:13:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-03T15:13:30Z)
+- Depression screening (procedure) (Date: 2020-10-03T15:59:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-03T16:11:32Z)
+- Standard pregnancy test (Date: 2021-11-13T15:13:30Z)
+- Ultrasound scan for fetal viability (Date: 2021-11-13T15:13:30Z)
+- Evaluation of uterine fundal height (Date: 2021-11-13T15:13:30Z)
+- Auscultation of the fetal heart (Date: 2021-11-13T15:13:30Z)
+- Blood typing  RH typing (Date: 2021-11-13T15:13:30Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-11-13T15:13:30Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-11-13T15:13:30Z)
+- Human immunodeficiency virus antigen test (Date: 2021-11-13T15:13:30Z)
+- Chlamydia antigen test (Date: 2021-11-13T15:13:30Z)
+- Gonorrhea infection test (Date: 2021-11-13T15:13:30Z)
+- Syphilis infection test (Date: 2021-11-13T15:13:30Z)
+- Urine culture (Date: 2021-11-13T15:13:30Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-11-13T15:13:30Z)
+- Urine screening test for diabetes (Date: 2021-11-13T15:13:30Z)
+- Hepatitis C antibody test (Date: 2021-11-13T15:13:30Z)
+- Rubella screening (Date: 2021-11-13T15:13:30Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-11-13T15:13:30Z)
+- Skin test for tuberculosis (Date: 2021-11-13T15:13:30Z)
+- Urine protein test (Date: 2021-11-13T15:13:30Z)
+- Physical examination of mother (Date: 2021-11-13T15:13:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T15:13:30Z: Prenatal initial visit
+- 2020-10-03T15:13:30Z: General examination of patient (procedure)
+- 2020-01-18T22:13:30Z: Encounter for symptom
+- 2019-11-16T15:13:30Z: Consultation for treatment
+- 2019-11-16T15:13:30Z: Postnatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-07-19T15:13:30Z QOLS: 0.8 {score}
+- 2021-07-19T15:13:30Z DALY: 0.8 a
+- 2021-07-19T15:13:30Z QALY: 33.2 a
+- 2020-10-03T16:40:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-10-03T15:59:00Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-10-03T15:59:00Z Are you a refugee?: I choose not to answer this question nan
+- 2020-10-03T15:59:00Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-10-03T15:59:00Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-10-03T15:59:00Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2020-10-03T15:59:00Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

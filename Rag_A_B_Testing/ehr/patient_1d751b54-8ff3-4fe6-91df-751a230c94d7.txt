@@ -1,0 +1,75 @@
+== PATIENT RECORD: Stanford577 Stracke611 (ID: 1d751b54-8ff3-4fe6-91df-751a230c94d7) ==
+
+== Demographics ==
+Patient ID: 1d751b54-8ff3-4fe6-91df-751a230c94d7
+Name: Stanford577 Stracke611
+Gender: M
+Birthdate: 1996-01-11
+Address: 384 Rodriguez Station
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-02-24T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-24T04:21:05Z)
+- Depression screening (procedure) (Date: 2012-02-24T04:50:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-02-24T05:04:46Z)
+- Assessment of substance use (procedure) (Date: 2012-02-24T05:33:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-02-24T05:44:42Z)
+- Anticipatory guidance (procedure) (Date: 2012-02-24T05:56:19Z)
+- Depression screening (procedure) (Date: 2013-03-01T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-01T04:21:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-03-01T04:33:49Z)
+- Assessment of substance use (procedure) (Date: 2013-03-01T05:02:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-03-01T05:12:32Z)
+- Anticipatory guidance (procedure) (Date: 2013-03-01T05:25:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-07T04:21:05Z)
+- Assessment of substance use (procedure) (Date: 2014-03-07T04:53:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-03-07T05:08:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-13T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-13T04:21:05Z)
+- Assessment of substance use (procedure) (Date: 2015-03-13T05:12:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-13T05:26:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-16T04:21:05Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-16T04:21:05Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-16T05:14:06Z)
+- Depression screening (procedure) (Date: 2018-03-16T05:30:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-16T05:45:08Z)
+- Assessment of substance use (procedure) (Date: 2018-03-16T06:11:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-16T06:23:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-19T04:21:05Z)
+- Depression screening (procedure) (Date: 2021-03-19T05:14:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-19T05:28:39Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T14:21:05Z: Encounter for symptom
+- 2021-04-16T04:21:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-26T04:21:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-19T04:21:05Z: General examination of patient (procedure)
+- 2018-03-16T04:21:05Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T14:21:05Z Body temperature: 37.6 Cel
+- 2021-03-19T05:50:34Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-19T05:14:01Z What address do you live at?: 384 Rodriguez Station nan
+- 2021-03-19T05:14:01Z What language are you most comfortable speaking?: Language other than English nan
+- 2021-03-19T05:14:01Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-03-19T05:14:01Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-03-19T05:14:01Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-19T05:14:01Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-19T05:14:01Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 156265 /a
+- 2021-03-19T05:14:01Z What is your main insurance?: Private insurance nan

@@ -1,0 +1,113 @@
+== PATIENT RECORD: Reina25 Tremblay80 (ID: cfe3bcd5-9b1b-3564-4a5d-028e16988bba) ==
+
+== Demographics ==
+Patient ID: cfe3bcd5-9b1b-3564-4a5d-028e16988bba
+Name: Reina25 Tremblay80
+Gender: F
+Birthdate: 1964-05-31
+Address: 657 Skiles Run
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Concussion with no loss of consciousness
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Stroke
+
+== Current Medications ==
+- Norinyl 1+50 28 Day Pack
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Mestranol / Norethynodrel [Enovid]
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 1978-07-02T05:40:25Z)
+- Medication Reconciliation (procedure) (Date: 1978-07-02T05:40:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1978-07-02T05:54:13Z)
+- Assessment of substance use (procedure) (Date: 1978-07-02T06:17:56Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1978-07-02T06:32:34Z)
+- Health risks education (procedure) (Date: 1978-07-02T06:49:05Z)
+- Assessment of anxiety (procedure) (Date: 1979-07-08T05:40:25Z)
+- Depression screening (procedure) (Date: 1979-07-08T06:09:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1979-07-08T06:23:26Z)
+- Assessment of substance use (procedure) (Date: 1979-07-08T06:46:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1979-07-08T07:01:18Z)
+- Health risks education (procedure) (Date: 1979-07-08T07:22:21Z)
+- Depression screening (procedure) (Date: 1980-07-13T05:40:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1980-07-13T05:53:12Z)
+- Assessment of anxiety (procedure) (Date: 1981-07-19T05:40:25Z)
+- Depression screening (procedure) (Date: 1981-07-19T06:09:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1981-07-19T06:22:15Z)
+- Assessment of substance use (procedure) (Date: 1981-07-19T06:45:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1981-07-19T06:56:35Z)
+- Anticipatory guidance (procedure) (Date: 1981-07-19T07:21:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-07-25T05:40:25Z)
+- Medication Reconciliation (procedure) (Date: 1982-07-25T05:40:25Z)
+- Assessment of anxiety (procedure) (Date: 1982-07-25T06:38:00Z)
+- Screening for domestic abuse (procedure) (Date: 1982-07-25T06:58:55Z)
+- Depression screening (procedure) (Date: 1982-07-25T07:31:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-07-25T07:42:38Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-07-31T05:40:25Z)
+- Assessment of anxiety (procedure) (Date: 1983-07-31T06:22:12Z)
+- Depression screening (procedure) (Date: 1983-07-31T06:40:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-07-31T06:50:02Z)
+- Assessment of substance use (procedure) (Date: 1983-07-31T07:12:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1983-07-31T07:25:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-08-05T05:40:25Z)
+- Medication Reconciliation (procedure) (Date: 1984-08-05T05:40:25Z)
+- Assessment of substance use (procedure) (Date: 1984-08-05T06:24:55Z)
+- Screening for drug abuse (procedure) (Date: 1984-08-05T06:35:55Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-08-11T05:40:25Z)
+- Medication Reconciliation (procedure) (Date: 1985-08-11T05:40:25Z)
+- Assessment of anxiety (procedure) (Date: 1985-08-11T06:15:26Z)
+- Screening for domestic abuse (procedure) (Date: 1985-08-11T06:39:13Z)
+- Assessment of substance use (procedure) (Date: 1985-08-11T07:06:10Z)
+- Screening for drug abuse (procedure) (Date: 1985-08-11T07:17:38Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-08-17T05:40:25Z)
+- Assessment of anxiety (procedure) (Date: 1986-08-17T06:20:06Z)
+- Screening for domestic abuse (procedure) (Date: 1986-08-17T06:35:10Z)
+- Depression screening (procedure) (Date: 1986-08-17T07:19:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-08-17T07:31:17Z)
+- Assessment of substance use (procedure) (Date: 1986-08-17T07:59:01Z)
+- Screening for drug abuse (procedure) (Date: 1986-08-17T08:09:47Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-08-23T05:40:25Z)
+- Screening for domestic abuse (procedure) (Date: 1987-08-23T06:33:30Z)
+- Depression screening (procedure) (Date: 1987-08-23T06:59:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-08-23T07:13:48Z)
+- Assessment of substance use (procedure) (Date: 1987-08-23T07:35:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1987-08-23T07:47:38Z)
+- Echocardiography (procedure) (Date: 1987-10-04T05:40:25Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 1987-10-04T05:40:25Z)
+
+== Recent Encounters (Last 5) ==
+- 1987-10-11T05:40:25Z: Death Certification
+- 1987-10-04T05:40:25Z: Stroke
+- 1987-08-23T05:40:25Z: General examination of patient (procedure)
+- 1986-08-17T05:40:25Z: General examination of patient (procedure)
+- 1986-04-19T05:40:25Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 1987-10-11T05:40:25Z Cause of Death [US Standard Certificate of Death]: Stroke nan
+- 1987-08-23T08:14:57Z Total score [AUDIT-C]: 1.0 {score}
+- 1987-08-23T07:35:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 1987-08-23T06:59:04Z Total score [HARK]: 0.0 {score}
+- 1987-08-23T06:33:30Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 1987-08-23T06:33:30Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1987-08-23T06:33:30Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1987-08-23T06:33:30Z Are you a refugee?: No nan
+- 1987-08-23T06:33:30Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1987-08-23T06:33:30Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan

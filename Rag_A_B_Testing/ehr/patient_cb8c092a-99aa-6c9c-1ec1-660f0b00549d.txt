@@ -1,0 +1,152 @@
+== PATIENT RECORD: Kari181 Douglas31 (ID: cb8c092a-99aa-6c9c-1ec1-660f0b00549d) ==
+
+== Demographics ==
+Patient ID: cb8c092a-99aa-6c9c-1ec1-660f0b00549d
+Name: Kari181 Douglas31
+Gender: F
+Birthdate: 1990-12-28
+Address: 413 Auer Burg Suite 64
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Normal pregnancy
+- Lack of access to transportation (finding)
+- Viral sinusitis (disorder)
+- Sprain of wrist
+
+== Current Medications ==
+- Yaz 28 Day Pack
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Levora 0.15/30 28 Day Pack
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Kyleena 19.5 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 2012-07-21T01:08:28Z)
+- Ultrasound scan for fetal viability (Date: 2012-07-21T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2012-07-21T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2012-07-21T01:08:28Z)
+- Blood typing  RH typing (Date: 2012-07-21T01:08:28Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-07-21T01:08:28Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-07-21T01:08:28Z)
+- Human immunodeficiency virus antigen test (Date: 2012-07-21T01:08:28Z)
+- Chlamydia antigen test (Date: 2012-07-21T01:08:28Z)
+- Gonorrhea infection test (Date: 2012-07-21T01:08:28Z)
+- Syphilis infection test (Date: 2012-07-21T01:08:28Z)
+- Urine culture (Date: 2012-07-21T01:08:28Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-07-21T01:08:28Z)
+- Urine screening test for diabetes (Date: 2012-07-21T01:08:28Z)
+- Hepatitis C antibody test (Date: 2012-07-21T01:08:28Z)
+- Rubella screening (Date: 2012-07-21T01:08:28Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-07-21T01:08:28Z)
+- Skin test for tuberculosis (Date: 2012-07-21T01:08:28Z)
+- Urine protein test (Date: 2012-07-21T01:08:28Z)
+- Physical examination of mother (Date: 2012-07-21T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2012-08-18T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2012-08-18T01:08:28Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-08-18T01:08:28Z)
+- Fetal anatomy study (Date: 2012-09-15T01:08:28Z)
+- Alpha-fetoprotein test (Date: 2012-09-15T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2012-09-15T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2012-09-15T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2012-10-13T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2012-10-13T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2012-11-10T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2012-11-10T01:08:28Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-12-08T01:08:28Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2012-12-08T01:08:28Z)
+- Urine screening for glucose (Date: 2012-12-08T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2012-12-08T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2012-12-08T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2013-01-05T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2013-01-05T01:08:28Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-02-02T01:08:28Z)
+- Evaluation of uterine fundal height (Date: 2013-02-02T01:08:28Z)
+- Auscultation of the fetal heart (Date: 2013-02-02T01:08:28Z)
+- Augmentation of labor (Date: 2013-02-16T01:08:28Z)
+- Cesarean section (Date: 2013-02-16T01:08:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-02T01:08:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-02T01:08:28Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-02T01:44:25Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-02T02:06:11Z)
+- Physical examination following birth (Date: 2013-03-30T01:08:28Z)
+- Depression screening (Date: 2013-03-30T01:08:28Z)
+- Standard pregnancy test (Date: 2013-09-28T01:08:28Z)
+- Ultrasound scan for fetal viability (Date: 2013-09-28T01:08:28Z)
+- Counseling for termination of pregnancy (Date: 2013-10-10T01:08:28Z)
+- Induced termination of pregnancy (Date: 2013-10-10T01:08:28Z)
+- Pregnancy termination care (Date: 2013-10-22T01:08:28Z)
+- Physical exam following abortion (Date: 2013-10-22T01:08:28Z)
+- Depression screening (Date: 2013-10-22T01:08:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-05T01:08:28Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-05T01:08:28Z)
+- Depression screening (procedure) (Date: 2016-03-05T01:47:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-05T01:59:35Z)
+- Assessment of substance use (procedure) (Date: 2016-03-05T02:22:23Z)
+- Screening for drug abuse (procedure) (Date: 2016-03-05T02:33:10Z)
+- Intramuscular injection (Date: 2016-03-14T01:08:28Z)
+- Intramuscular injection (Date: 2016-06-25T01:08:28Z)
+- Intramuscular injection (Date: 2016-09-24T01:08:28Z)
+- Intramuscular injection (Date: 2016-12-24T01:08:28Z)
+- Intramuscular injection (Date: 2017-03-25T01:08:28Z)
+- Intramuscular injection (Date: 2017-06-24T01:08:28Z)
+- Intramuscular injection (Date: 2017-09-23T01:08:28Z)
+- Intramuscular injection (Date: 2017-12-23T01:08:28Z)
+- Intramuscular injection (Date: 2018-03-24T01:08:28Z)
+- Intramuscular injection (Date: 2018-06-23T01:08:28Z)
+- Intramuscular injection (Date: 2018-09-22T01:08:28Z)
+- Intramuscular injection (Date: 2018-12-22T01:08:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-09T01:08:28Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-09T01:08:28Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-09T01:51:20Z)
+- Depression screening (procedure) (Date: 2019-03-09T02:29:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-09T02:39:29Z)
+- Assessment of substance use (procedure) (Date: 2019-03-09T03:07:47Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-09T03:22:35Z)
+- Intramuscular injection (Date: 2019-03-23T01:08:28Z)
+- Intramuscular injection (Date: 2019-06-22T01:08:28Z)
+- Intramuscular injection (Date: 2019-09-21T01:08:28Z)
+- Intramuscular injection (Date: 2019-12-21T01:08:28Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-02-24T18:27:32Z)
+- Intramuscular injection (Date: 2020-03-21T01:08:28Z)
+- Intramuscular injection (Date: 2020-06-20T01:08:28Z)
+- Intramuscular injection (Date: 2020-09-19T01:08:28Z)
+- Intramuscular injection (Date: 2020-12-19T01:08:28Z)
+- Intramuscular injection (Date: 2021-03-20T01:08:28Z)
+- Intramuscular injection (Date: 2021-06-19T01:08:28Z)
+- Standard pregnancy test (Date: 2021-10-16T01:08:28Z)
+- Ultrasound scan for fetal viability (Date: 2021-10-16T01:08:28Z)
+- Counseling for termination of pregnancy (Date: 2021-11-03T01:08:28Z)
+- Induced termination of pregnancy (Date: 2021-11-03T01:08:28Z)
+- Pregnancy termination care (Date: 2021-11-11T01:08:28Z)
+- Physical exam following abortion (Date: 2021-11-11T01:08:28Z)
+- Depression screening (Date: 2021-11-11T01:08:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-11T01:08:28Z: Prenatal visit
+- 2021-11-03T01:08:28Z: Patient-initiated encounter
+- 2021-10-16T01:08:28Z: Prenatal initial visit
+- 2021-06-19T01:08:28Z: Patient encounter procedure
+- 2021-03-20T01:08:28Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2020-12-29T01:08:28Z QOLS: 1.0 {score}
+- 2020-12-29T01:08:28Z DALY: 0.0 a
+- 2020-12-29T01:08:28Z QALY: 29.0 a
+- 2019-12-29T01:08:28Z DALY: 0.0 a
+- 2019-12-29T01:08:28Z QALY: 28.0 a
+- 2019-12-29T01:08:28Z QOLS: 1.0 {score}
+- 2019-03-09T03:46:09Z Total score [DAST-10]: 1.0 {score}
+- 2019-03-09T03:07:47Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2019-03-09T02:29:21Z Total score [HARK]: 0.0 {score}
+- 2019-03-09T01:51:20Z Are you a refugee?: No nan

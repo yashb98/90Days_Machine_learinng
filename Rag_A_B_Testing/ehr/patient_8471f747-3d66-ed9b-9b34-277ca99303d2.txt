@@ -1,0 +1,68 @@
+== PATIENT RECORD: Hugo693 Quiñónez764 (ID: 8471f747-3d66-ed9b-9b34-277ca99303d2) ==
+
+== Demographics ==
+Patient ID: 8471f747-3d66-ed9b-9b34-277ca99303d2
+Name: Hugo693 Quiñónez764
+Gender: M
+Birthdate: 1979-10-27
+Address: 210 Murray Route Suite 42
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Refugee (person)
+- Part-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- ferrous sulfate 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-01-11T12:59:27Z)
+- Peripheral blood smear interpretation (Date: 2014-01-11T12:59:27Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-11T13:52:53Z)
+- Depression screening (procedure) (Date: 2014-01-11T14:17:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-11T14:27:29Z)
+- Assessment of substance use (procedure) (Date: 2014-01-11T14:55:42Z)
+- Screening for drug abuse (procedure) (Date: 2014-01-11T15:06:13Z)
+- Review of systems (procedure) (Date: 2014-01-11T13:29:27Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-11T13:42:33Z)
+- Brief general examination (procedure) (Date: 2014-01-11T13:51:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-14T12:59:27Z)
+- Depression screening (procedure) (Date: 2017-01-14T13:31:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-14T13:44:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-02T12:59:27Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-02T12:59:27Z)
+- Depression screening (procedure) (Date: 2019-11-02T13:59:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-02T14:09:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-06T12:59:27Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-06T13:39:27Z)
+- Depression screening (procedure) (Date: 2021-11-06T14:01:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-06T14:14:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T12:59:27Z: General examination of patient (procedure)
+- 2021-06-29T11:59:27Z: Encounter for symptom
+- 2021-05-01T12:59:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-10T12:59:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-11-02T12:59:27Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-06T14:42:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-11-06T14:01:54Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 12.0 {score}
+- 2021-11-06T13:39:27Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-11-06T13:39:27Z What address do you live at?: 210 Murray Route Suite 42 nan
+- 2021-11-06T13:39:27Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-11-06T13:39:27Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-11-06T13:39:27Z Are you a refugee?: Yes nan
+- 2021-11-06T13:39:27Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-11-06T13:39:27Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2021-11-06T13:39:27Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week nan

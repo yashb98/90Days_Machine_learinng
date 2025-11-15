@@ -1,0 +1,122 @@
+== PATIENT RECORD: Neoma676 Powlowski563 (ID: 37ab5291-cc03-1798-2097-d35809156954) ==
+
+== Demographics ==
+Patient ID: 37ab5291-cc03-1798-2097-d35809156954
+Name: Neoma676 Powlowski563
+Gender: F
+Birthdate: 1911-11-04
+Address: 100 Braun Pathway
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Has a criminal record (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Fracture subluxation of wrist
+- Alzheimer's disease (disorder)
+- Atrial Fibrillation
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1982-10-23T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1982-10-23T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1982-10-23T09:25:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1982-10-23T09:52:51Z)
+- Depression screening (procedure) (Date: 1982-10-23T10:16:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-10-23T10:29:22Z)
+- Assessment of substance use (procedure) (Date: 1982-10-23T10:52:42Z)
+- Screening for drug abuse (procedure) (Date: 1982-10-23T11:03:45Z)
+- X-ray or wrist (Date: 1982-12-30T09:28:48Z)
+- Bone immobilization (Date: 1982-12-30T09:28:48Z)
+- Bone density scan (procedure) (Date: 1982-12-30T10:06:21Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-10-29T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1983-10-29T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1983-10-29T09:40:18Z)
+- Assessment of substance use (procedure) (Date: 1983-10-29T10:02:58Z)
+- Screening for drug abuse (procedure) (Date: 1983-10-29T10:17:21Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-11-03T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1984-11-03T09:27:39Z)
+- Screening for domestic abuse (procedure) (Date: 1984-11-03T09:46:29Z)
+- Depression screening (procedure) (Date: 1984-11-03T10:13:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-11-03T10:25:27Z)
+- Assessment of substance use (procedure) (Date: 1984-11-03T10:53:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1984-11-03T11:07:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-11-09T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1985-11-09T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1985-11-09T09:44:05Z)
+- Depression screening (procedure) (Date: 1985-11-09T10:02:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-11-09T10:14:35Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-11-15T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1986-11-15T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1986-11-15T09:30:49Z)
+- Screening for domestic abuse (procedure) (Date: 1986-11-15T09:52:56Z)
+- Assessment of substance use (procedure) (Date: 1986-11-15T10:37:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1986-11-15T10:48:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-11-21T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1987-11-21T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1987-11-21T09:45:56Z)
+- Depression screening (procedure) (Date: 1987-11-21T10:07:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-11-21T10:18:00Z)
+- Assessment of substance use (procedure) (Date: 1987-11-21T10:38:45Z)
+- Screening for drug abuse (procedure) (Date: 1987-11-21T10:49:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-11-26T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1988-11-26T09:46:14Z)
+- Screening for domestic abuse (procedure) (Date: 1988-11-26T10:11:08Z)
+- Depression screening (procedure) (Date: 1988-11-26T10:40:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-11-26T10:54:08Z)
+- Assessment of substance use (procedure) (Date: 1988-11-26T11:19:40Z)
+- Screening for drug abuse (procedure) (Date: 1988-11-26T11:32:05Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-12-02T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1989-12-02T09:23:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1989-12-02T09:42:36Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-12-08T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1990-12-08T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1990-12-08T09:28:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1990-12-08T09:57:05Z)
+- Screening for domestic abuse (procedure) (Date: 1990-12-08T10:16:30Z)
+- Electrical cardioversion (Date: 1991-12-14T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-12-14T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1991-12-14T09:32:26Z)
+- Depression screening (procedure) (Date: 1991-12-14T09:59:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-12-14T10:11:59Z)
+- Assessment of substance use (procedure) (Date: 1991-12-14T10:35:44Z)
+- Screening for drug abuse (procedure) (Date: 1991-12-14T10:49:36Z)
+
+== Recent Encounters (Last 5) ==
+- 1992-10-10T08:46:25Z: Death Certification
+- 1992-02-26T08:46:25Z: Office Visit
+- 1991-12-14T08:46:25Z: General examination of patient (procedure)
+- 1990-12-08T08:46:25Z: General examination of patient (procedure)
+- 1989-12-02T08:46:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1992-10-10T08:46:25Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 1992-02-26T08:46:25Z Total score [MMSE]: 2.6 {score}
+- 1991-12-14T11:10:07Z Total score [DAST-10]: 2.0 {score}
+- 1991-12-14T10:35:44Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 1991-12-14T09:59:33Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 1991-12-14T09:59:33Z Fall risk total [Morse Fall Scale]: 50.0 {#}
+- 1991-12-14T09:32:26Z What is your current work situation?: Full-time work nan
+- 1991-12-14T09:32:26Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1991-12-14T09:32:26Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1991-12-14T09:32:26Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan

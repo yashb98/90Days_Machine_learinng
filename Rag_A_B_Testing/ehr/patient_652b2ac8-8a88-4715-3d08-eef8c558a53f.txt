@@ -1,0 +1,124 @@
+== PATIENT RECORD: Christen366 Cartwright189 (ID: 652b2ac8-8a88-4715-3d08-eef8c558a53f) ==
+
+== Demographics ==
+Patient ID: 652b2ac8-8a88-4715-3d08-eef8c558a53f
+Name: Christen366 Cartwright189
+Gender: F
+Birthdate: 1983-02-28
+Address: 243 Stanton Route
+Marital Status: S
+
+== Allergies ==
+- Mold (organism)
+- Aspirin
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Coronary Heart Disease
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Stress (finding)
+- Chronic low back pain (finding)
+- Acute bronchitis (disorder)
+- Has a criminal record (finding)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- ferrous sulfate 325 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Seasonique 91 Day Pack
+- Camila 28 Day Pack
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Natazia 28 Day Pack
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-28T12:52:31Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-28T12:52:31Z)
+- Screening for domestic abuse (procedure) (Date: 2012-05-28T13:33:27Z)
+- Depression screening (procedure) (Date: 2012-05-28T14:00:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-28T14:13:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-03T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-03T13:51:35Z)
+- Depression screening (procedure) (Date: 2013-06-03T14:18:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-03T14:28:57Z)
+- Assessment of substance use (procedure) (Date: 2013-06-03T14:50:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-06-03T15:04:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-09T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-09T13:24:39Z)
+- Depression screening (procedure) (Date: 2014-06-09T13:44:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-09T13:58:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-15T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-15T13:31:50Z)
+- Depression screening (procedure) (Date: 2015-06-15T13:50:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-15T14:04:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-23T12:52:31Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-23T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-23T13:31:03Z)
+- Depression screening (procedure) (Date: 2015-11-23T13:58:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-23T14:11:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-20T12:52:31Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-20T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-20T13:24:00Z)
+- Depression screening (procedure) (Date: 2016-06-20T13:41:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-20T13:52:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-26T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-26T13:28:53Z)
+- Depression screening (procedure) (Date: 2017-06-26T13:50:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-26T14:01:47Z)
+- Assessment of substance use (procedure) (Date: 2017-06-26T14:27:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-26T14:39:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-02T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-02T13:45:06Z)
+- Depression screening (procedure) (Date: 2018-07-02T14:01:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-02T14:15:24Z)
+- Assessment of substance use (procedure) (Date: 2018-07-02T14:35:41Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-02T14:46:54Z)
+- Bilateral tubal ligation (Date: 2018-11-26T10:00:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-08T12:52:31Z)
+- Depression screening (procedure) (Date: 2019-07-08T13:50:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-08T14:05:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-13T12:52:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-13T12:52:31Z)
+- Depression screening (procedure) (Date: 2020-07-13T13:27:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-13T13:41:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-19T12:52:31Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-19T12:52:31Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-19T13:49:17Z)
+- Depression screening (procedure) (Date: 2021-07-19T14:04:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-19T14:14:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-08T12:52:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-19T12:52:31Z: General examination of patient (procedure)
+- 2020-07-13T12:52:31Z: General examination of patient (procedure)
+- 2019-07-08T12:52:31Z: General examination of patient (procedure)
+- 2018-11-26T10:00:25Z: Admission to surgical department
+
+== Recent Observations (Last 10) ==
+- 2021-07-19T14:39:15Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-19T14:04:25Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-07-19T13:49:17Z What language are you most comfortable speaking?: English nan
+- 2021-07-19T13:49:17Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 77302 /a
+- 2021-07-19T13:49:17Z Are you worried about losing your housing?: No nan
+- 2021-07-19T13:49:17Z What is your housing situation today?: I have housing nan
+- 2021-07-19T13:49:17Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-07-19T13:49:17Z What is your current work situation?: Full-time work nan
+- 2021-07-19T13:49:17Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-07-19T13:49:17Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

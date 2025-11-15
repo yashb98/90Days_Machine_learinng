@@ -1,0 +1,123 @@
+== PATIENT RECORD: Shemeka786 Kertzmann286 (ID: d4dd09e5-8eae-7136-407c-df2715f2643b) ==
+
+== Demographics ==
+Patient ID: d4dd09e5-8eae-7136-407c-df2715f2643b
+Name: Shemeka786 Kertzmann286
+Gender: F
+Birthdate: 1979-10-15
+Address: 443 Kulas Ferry Apt 28
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Whiplash injury to neck
+- Normal pregnancy
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Mirena 52 MG Intrauterine System
+- Camila 28 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Seasonique 91 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-12-30T17:39:00Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-30T18:15:43Z)
+- Screening for domestic abuse (procedure) (Date: 2013-12-30T18:44:55Z)
+- Depression screening (procedure) (Date: 2013-12-30T19:21:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-30T19:31:59Z)
+- Assessment of substance use (procedure) (Date: 2013-12-30T19:54:51Z)
+- Screening for drug abuse (procedure) (Date: 2013-12-30T20:08:07Z)
+- Replacement of contraceptive intrauterine device (Date: 2016-05-23T17:39:00Z)
+- Removal of intrauterine device (Date: 2016-06-20T17:39:00Z)
+- Standard pregnancy test (Date: 2016-08-15T17:39:00Z)
+- Ultrasound scan for fetal viability (Date: 2016-08-15T17:39:00Z)
+- Evaluation of uterine fundal height (Date: 2016-08-15T17:39:00Z)
+- Auscultation of the fetal heart (Date: 2016-08-15T17:39:00Z)
+- Blood typing  RH typing (Date: 2016-08-15T17:39:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-08-15T17:39:00Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-08-15T17:39:00Z)
+- Human immunodeficiency virus antigen test (Date: 2016-08-15T17:39:00Z)
+- Chlamydia antigen test (Date: 2016-08-15T17:39:00Z)
+- Gonorrhea infection test (Date: 2016-08-15T17:39:00Z)
+- Syphilis infection test (Date: 2016-08-15T17:39:00Z)
+- Urine culture (Date: 2016-08-15T17:39:00Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-08-15T17:39:00Z)
+- Urine screening test for diabetes (Date: 2016-08-15T17:39:00Z)
+- Hepatitis C antibody test (Date: 2016-08-15T17:39:00Z)
+- Rubella screening (Date: 2016-08-15T17:39:00Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-08-15T17:39:00Z)
+- Skin test for tuberculosis (Date: 2016-08-15T17:39:00Z)
+- Urine protein test (Date: 2016-08-15T17:39:00Z)
+- Physical examination of mother (Date: 2016-08-15T17:39:00Z)
+- Evaluation of uterine fundal height (Date: 2016-09-12T17:39:00Z)
+- Auscultation of the fetal heart (Date: 2016-09-12T17:39:00Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-09-12T17:39:00Z)
+- Physical examination (Date: 2016-10-24T17:39:00Z)
+- Depression screening (Date: 2016-10-24T17:39:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-02T17:39:00Z)
+- Depression screening (procedure) (Date: 2017-01-02T18:23:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-02T18:35:49Z)
+- Assessment of substance use (procedure) (Date: 2017-01-02T19:01:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-02T19:15:19Z)
+- Throat culture (procedure) (Date: 2017-03-19T14:39:00Z)
+- Intramuscular injection (Date: 2017-04-12T20:24:40Z)
+- Intramuscular injection (Date: 2017-07-24T17:39:00Z)
+- Intramuscular injection (Date: 2017-10-23T17:39:00Z)
+- Intramuscular injection (Date: 2018-01-22T17:39:00Z)
+- Intramuscular injection (Date: 2018-04-23T17:39:00Z)
+- Intramuscular injection (Date: 2018-07-23T17:39:00Z)
+- Intramuscular injection (Date: 2018-10-22T17:39:00Z)
+- Intramuscular injection (Date: 2019-01-21T17:39:00Z)
+- Intramuscular injection (Date: 2019-04-22T17:39:00Z)
+- Intramuscular injection (Date: 2019-07-22T17:39:00Z)
+- Intramuscular injection (Date: 2019-10-21T17:39:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-21T17:39:00Z)
+- Depression screening (procedure) (Date: 2019-10-21T18:30:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-21T18:40:59Z)
+- Intramuscular injection (Date: 2020-01-20T17:39:00Z)
+- Intramuscular injection (Date: 2020-04-20T17:39:00Z)
+- Intramuscular injection (Date: 2020-07-20T17:39:00Z)
+- Intramuscular injection (Date: 2020-10-19T17:39:00Z)
+- Intramuscular injection (Date: 2021-01-18T17:39:00Z)
+- Intramuscular injection (Date: 2021-04-19T17:39:00Z)
+- Intramuscular injection (Date: 2021-07-19T17:39:00Z)
+- Intramuscular injection (Date: 2021-10-18T17:39:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-01T17:39:00Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-01T17:39:00Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-01T18:10:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-01T17:39:00Z: General examination of patient (procedure)
+- 2021-10-18T17:39:00Z: Patient encounter procedure
+- 2021-07-19T17:39:00Z: Patient encounter procedure
+- 2021-04-19T17:39:00Z: Patient encounter procedure
+- 2021-04-12T17:39:00Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-01T18:36:44Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- 2021-11-01T18:10:42Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-11-01T18:10:42Z Are you worried about losing your housing?: No nan
+- 2021-11-01T18:10:42Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-11-01T18:10:42Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-11-01T18:10:42Z Are you a refugee?: No nan
+- 2021-11-01T18:10:42Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-11-01T18:10:42Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-11-01T18:10:42Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-11-01T18:10:42Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

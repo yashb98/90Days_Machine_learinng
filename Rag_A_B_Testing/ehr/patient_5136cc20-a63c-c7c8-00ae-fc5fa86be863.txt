@@ -1,0 +1,123 @@
+== PATIENT RECORD: Lavern240 O'Kon634 (ID: 5136cc20-a63c-c7c8-00ae-fc5fa86be863) ==
+
+== Demographics ==
+Patient ID: 5136cc20-a63c-c7c8-00ae-fc5fa86be863
+Name: Lavern240 O'Kon634
+Gender: M
+Birthdate: 1942-10-15
+Address: 885 Bernier Run Apt 52
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Stroke
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- First degree burn
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Fracture subluxation of wrist
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-02T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-02T20:10:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-02-02T20:59:22Z)
+- Depression screening (procedure) (Date: 2012-02-02T21:18:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-02T21:31:14Z)
+- Assessment of substance use (procedure) (Date: 2012-02-02T21:56:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-02-02T22:10:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-07T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-07T20:10:59Z)
+- Assessment of substance use (procedure) (Date: 2013-02-07T20:41:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-07T20:53:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-13T20:10:59Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-13T20:50:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-02-13T21:05:56Z)
+- Depression screening (procedure) (Date: 2014-02-13T21:29:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-13T21:40:55Z)
+- Assessment of substance use (procedure) (Date: 2014-02-13T22:01:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-13T22:15:41Z)
+- Colonoscopy (Date: 2014-03-05T23:09:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-19T20:10:59Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-19T20:48:42Z)
+- Depression screening (procedure) (Date: 2015-02-19T21:16:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-19T21:29:37Z)
+- Assessment of substance use (procedure) (Date: 2015-02-19T21:54:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-19T22:06:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-25T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-25T20:10:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-02-25T20:53:10Z)
+- Depression screening (procedure) (Date: 2016-02-25T21:20:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-25T21:34:09Z)
+- Assessment of substance use (procedure) (Date: 2016-02-25T21:55:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-25T22:08:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-02T20:10:59Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-02T20:49:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-03-02T21:14:03Z)
+- Assessment of substance use (procedure) (Date: 2017-03-02T21:37:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-02T21:51:45Z)
+- Throat culture (procedure) (Date: 2018-01-11T20:10:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-08T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-08T20:10:59Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-08T20:50:33Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-03-08T21:10:01Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-08T21:27:47Z)
+- Depression screening (procedure) (Date: 2018-03-08T21:58:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-08T22:12:55Z)
+- Assessment of substance use (procedure) (Date: 2018-03-08T22:38:01Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-08T22:51:34Z)
+- Colonoscopy (Date: 2019-03-05T23:35:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-14T20:10:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-03-14T21:07:40Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-14T21:26:27Z)
+- Depression screening (procedure) (Date: 2019-03-14T22:01:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-14T22:16:50Z)
+- Assessment of substance use (procedure) (Date: 2019-03-14T22:40:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-14T22:52:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-19T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-19T20:10:59Z)
+- Screening for domestic abuse (procedure) (Date: 2020-03-19T20:56:02Z)
+- Depression screening (procedure) (Date: 2020-03-19T21:35:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-19T21:48:01Z)
+- X-ray or wrist (Date: 2020-10-03T21:11:21Z)
+- Bone immobilization (Date: 2020-10-03T21:11:21Z)
+- Bone density scan (procedure) (Date: 2020-10-03T21:37:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-25T20:10:59Z)
+- Depression screening (procedure) (Date: 2021-03-25T20:48:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-25T21:02:55Z)
+- Assessment of substance use (procedure) (Date: 2021-03-25T21:32:50Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-25T21:45:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-25T20:10:59Z: General examination of patient (procedure)
+- 2021-03-04T20:10:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-11T20:10:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-14T21:37:35Z: Encounter for 'check-up'
+- 2020-10-03T21:11:21Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-15T20:10:59Z QOLS: 1.0 {score}
+- 2021-10-15T20:10:59Z DALY: 0.2 a
+- 2021-10-15T20:10:59Z QALY: 77.8 a
+- 2021-03-25T22:07:42Z Total score [DAST-10]: 0.0 {score}
+- 2021-03-25T21:32:50Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-25T20:48:31Z Which race(s) are you?: Black/African American nan
+- 2021-03-25T20:48:31Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-03-25T20:48:31Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-25T20:48:31Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-25T20:48:31Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 156250 /a

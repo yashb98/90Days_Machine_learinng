@@ -1,0 +1,47 @@
+== PATIENT RECORD: Guillermo498 Wiegand701 (ID: 68aa1bd6-c28a-73f5-ffab-c2a6cb0b7e99) ==
+
+== Demographics ==
+Patient ID: 68aa1bd6-c28a-73f5-ffab-c2a6cb0b7e99
+Name: Guillermo498 Wiegand701
+Gender: M
+Birthdate: 1962-12-15
+Address: 695 Hagenes Estate Apt 42
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Cerebral palsy (disorder)
+- Spasticity (finding)
+- Epilepsy (disorder)
+- Gastroesophageal reflux disease (disorder)
+- Viral sinusitis (disorder)
+- First degree burn
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Colonoscopy (Date: 2012-12-15T23:57:24Z)
+- Colonoscopy (Date: 2017-12-16T00:33:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-03T23:57:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2018-06-22T23:57:24Z: Encounter for symptom
+- 2017-12-16T00:33:16Z: Encounter for 'check-up'
+- 2017-05-03T01:11:22Z: Encounter for 'check-up'
+- 2017-04-19T01:11:22Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-15T23:57:24Z QOLS: 0.6 {score}
+- 2020-12-15T23:57:24Z DALY: 26.4 a
+- 2020-12-15T23:57:24Z QALY: 30.6 a
+- 2019-12-15T23:57:24Z QALY: 29.9 a
+- 2019-12-15T23:57:24Z QOLS: 0.6 {score}
+- 2019-12-15T23:57:24Z DALY: 26.1 a
+- 2018-12-15T23:57:24Z QOLS: 0.6 {score}
+- 2018-12-15T23:57:24Z DALY: 25.7 a
+- 2018-12-15T23:57:24Z QALY: 29.3 a
+- 2018-06-22T23:57:24Z Body temperature: 37.1 Cel

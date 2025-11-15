@@ -1,0 +1,140 @@
+== PATIENT RECORD: Neta452 Morar593 (ID: ef6d75b4-afc6-70c0-2767-27468cb3c243) ==
+
+== Demographics ==
+Patient ID: ef6d75b4-afc6-70c0-2767-27468cb3c243
+Name: Neta452 Morar593
+Gender: F
+Birthdate: 1942-09-06
+Address: 1037 Dare Promenade
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Localized  primary osteoarthritis of the hand
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Prediabetes
+- Anemia (disorder)
+- Not in labor force (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Fracture subluxation of wrist
+- Bullet wound
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2005-11-20T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2005-11-20T22:50:17Z)
+- Screening for domestic abuse (procedure) (Date: 2005-11-20T23:27:45Z)
+- Depression screening (procedure) (Date: 2005-11-21T00:08:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-11-21T00:21:19Z)
+- Assessment of substance use (procedure) (Date: 2005-11-21T00:43:22Z)
+- Screening for drug abuse (procedure) (Date: 2005-11-21T00:56:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-11-26T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2006-11-26T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2006-11-26T23:49:49Z)
+- Screening for domestic abuse (procedure) (Date: 2006-11-27T00:06:43Z)
+- Depression screening (procedure) (Date: 2006-11-27T00:39:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-11-27T00:49:53Z)
+- Assessment of substance use (procedure) (Date: 2006-11-27T01:19:11Z)
+- Screening for drug abuse (procedure) (Date: 2006-11-27T01:32:51Z)
+- Measurement of respiratory function (procedure) (Date: 2007-07-27T23:50:17Z)
+- Colonoscopy (Date: 2007-09-07T00:36:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-12-02T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2007-12-02T23:48:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-12-03T00:05:02Z)
+- Screening for domestic abuse (procedure) (Date: 2007-12-03T00:25:49Z)
+- Depression screening (procedure) (Date: 2007-12-03T01:02:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-12-03T01:13:15Z)
+- Assessment of substance use (procedure) (Date: 2007-12-03T01:39:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2007-12-03T01:52:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-12-07T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2008-12-07T23:22:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-12-07T23:46:14Z)
+- Screening for domestic abuse (procedure) (Date: 2008-12-08T00:06:40Z)
+- Depression screening (procedure) (Date: 2008-12-08T00:37:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-12-08T00:49:16Z)
+- Assessment of substance use (procedure) (Date: 2008-12-08T01:11:50Z)
+- Screening for drug abuse (procedure) (Date: 2008-12-08T01:24:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-12-13T22:50:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-12-13T23:36:44Z)
+- Screening for domestic abuse (procedure) (Date: 2009-12-13T23:57:33Z)
+- Depression screening (procedure) (Date: 2009-12-14T00:25:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-12-14T00:40:08Z)
+- Assessment of substance use (procedure) (Date: 2009-12-14T01:06:12Z)
+- Screening for drug abuse (procedure) (Date: 2009-12-14T01:16:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-12-19T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2010-12-19T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2010-12-19T23:22:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-12-19T23:49:10Z)
+- Depression screening (procedure) (Date: 2010-12-20T00:08:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-12-20T00:21:28Z)
+- Assessment of substance use (procedure) (Date: 2010-12-20T00:46:47Z)
+- Screening for drug abuse (procedure) (Date: 2010-12-20T01:00:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-12-25T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-25T23:33:56Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-12-25T23:56:08Z)
+- Depression screening (procedure) (Date: 2011-12-26T00:13:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-26T00:25:57Z)
+- Assessment of substance use (procedure) (Date: 2011-12-26T00:46:10Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-26T00:57:44Z)
+- Colonoscopy (Date: 2012-09-06T01:15:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-30T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-30T23:30:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-12-30T23:54:54Z)
+- Screening for domestic abuse (procedure) (Date: 2012-12-31T00:15:52Z)
+- Assessment of substance use (procedure) (Date: 2012-12-31T00:54:29Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-31T01:07:19Z)
+- X-ray or wrist (Date: 2013-06-06T00:10:17Z)
+- Bone immobilization (Date: 2013-06-06T00:10:17Z)
+- Bone density scan (procedure) (Date: 2013-06-06T00:51:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-05T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-05T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-05T23:26:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-01-05T23:42:22Z)
+- Depression screening (procedure) (Date: 2014-01-06T00:00:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-06T00:13:17Z)
+- Assessment of substance use (procedure) (Date: 2014-01-06T00:41:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-06T00:54:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-11T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-11T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-11T23:45:56Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-12T00:01:39Z)
+- Assessment of substance use (procedure) (Date: 2015-01-12T00:30:04Z)
+- Screening for drug abuse (procedure) (Date: 2015-01-12T00:41:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2015-09-06T22:50:17Z: Death Certification
+- 2015-08-30T00:51:03Z: Emergency room admission (procedure)
+- 2015-01-11T22:50:17Z: General examination of patient (procedure)
+- 2014-12-26T22:50:17Z: Follow-up encounter
+- 2014-01-05T22:50:17Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2015-09-06T22:50:17Z QOLS: 1.0 {score}
+- 2015-09-06T22:50:17Z DALY: 1.3 a
+- 2015-09-06T22:50:17Z Cause of Death [US Standard Certificate of Death]: Bullet wound nan
+- 2015-09-06T22:50:17Z QALY: 70.7 a
+- 2015-01-12T01:05:50Z Total score [DAST-10]: 1.0 {score}
+- 2015-01-12T00:30:04Z Total score [HARK]: 0.0 {score}
+- 2015-01-12T00:01:39Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2015-01-11T23:45:56Z Are you a refugee?: No nan
+- 2015-01-11T23:45:56Z What is the highest level of school that you have finished?: More than high school nan
+- 2015-01-11T23:45:56Z What is your housing situation today?: I have housing nan

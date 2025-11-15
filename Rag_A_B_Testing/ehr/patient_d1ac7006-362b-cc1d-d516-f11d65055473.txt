@@ -1,0 +1,122 @@
+== PATIENT RECORD: Nita296 McLaughlin530 (ID: d1ac7006-362b-cc1d-d516-f11d65055473) ==
+
+== Demographics ==
+Patient ID: d1ac7006-362b-cc1d-d516-f11d65055473
+Name: Nita296 McLaughlin530
+Gender: F
+Birthdate: 1932-09-18
+Address: 404 Jacobi Mission
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+- Has a criminal record (finding)
+- Miscarriage in first trimester
+- Atrial Fibrillation
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Sprain of ankle
+- Stress (finding)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2012-10-29T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-29T00:39:29Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-29T01:24:24Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-29T01:49:17Z)
+- Depression screening (procedure) (Date: 2012-10-29T02:15:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-29T02:26:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-10-29T02:48:07Z)
+- Assessment of substance use (procedure) (Date: 2012-10-29T03:17:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-29T03:32:49Z)
+- Electrical cardioversion (Date: 2013-07-01T00:39:29Z)
+- Measurement of respiratory function (procedure) (Date: 2013-06-25T07:39:29Z)
+- Electrical cardioversion (Date: 2013-11-04T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-04T00:39:29Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-04T01:38:27Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-04T02:02:48Z)
+- Depression screening (procedure) (Date: 2013-11-04T02:33:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-04T02:48:17Z)
+- Assessment of substance use (procedure) (Date: 2013-11-04T03:13:28Z)
+- Screening for drug abuse (procedure) (Date: 2013-11-04T03:26:17Z)
+- Electrical cardioversion (Date: 2014-11-10T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-10T00:39:29Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-10T01:12:15Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-10T01:38:49Z)
+- Assessment of substance use (procedure) (Date: 2014-11-10T02:07:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-10T02:20:04Z)
+- Electrical cardioversion (Date: 2015-11-16T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-16T00:39:29Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-16T00:39:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-11-16T01:20:12Z)
+- Screening for domestic abuse (procedure) (Date: 2015-11-16T01:37:15Z)
+- Electrical cardioversion (Date: 2016-11-21T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-21T00:39:29Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-21T00:39:29Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-21T01:26:33Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-21T01:47:05Z)
+- Depression screening (procedure) (Date: 2016-11-21T02:25:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-21T02:37:42Z)
+- Assessment of substance use (procedure) (Date: 2016-11-21T02:58:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-21T03:12:28Z)
+- Electrical cardioversion (Date: 2017-11-27T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-27T00:39:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-27T00:39:29Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-27T01:10:50Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-27T01:30:38Z)
+- Depression screening (procedure) (Date: 2017-11-27T01:59:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-27T02:13:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-27T02:38:54Z)
+- Assessment of substance use (procedure) (Date: 2017-11-27T02:59:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-27T03:11:04Z)
+- Electrical cardioversion (Date: 2018-12-03T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-03T00:39:29Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-03T01:25:43Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-03T01:45:14Z)
+- Electrical cardioversion (Date: 2019-12-09T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-09T00:39:29Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-09T00:39:29Z)
+- Assessment of substance use (procedure) (Date: 2019-12-09T01:20:02Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-09T01:32:03Z)
+- Electrical cardioversion (Date: 2020-12-14T00:39:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-14T00:39:29Z)
+- Screening for domestic abuse (procedure) (Date: 2020-12-14T01:33:55Z)
+- Depression screening (procedure) (Date: 2020-12-14T02:00:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-14T02:13:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-25T10:39:29Z: Asthma follow-up
+- 2021-02-08T00:39:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-18T00:39:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-14T00:39:29Z: General examination of patient (procedure)
+- 2020-05-30T10:39:29Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 2021-09-19T00:39:29Z QOLS: 0.9 {score}
+- 2021-09-19T00:39:29Z QALY: 83.3 a
+- 2021-09-19T00:39:29Z DALY: 4.7 a
+- 2020-12-14T02:40:32Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-14T02:00:30Z Total score [HARK]: 0.0 {score}
+- 2020-12-14T01:33:55Z How many family members  including yourself  do you currently live with?: 1.0 {#}
+- 2020-12-14T01:33:55Z What is your housing situation today?: I have housing nan
+- 2020-12-14T01:33:55Z Are you worried about losing your housing?: No nan
+- 2020-12-14T01:33:55Z What address do you live at?: 404 Jacobi Mission nan
+- 2020-12-14T01:33:55Z What is the highest level of school that you have finished?: More than high school nan

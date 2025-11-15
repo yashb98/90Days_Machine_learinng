@@ -1,0 +1,95 @@
+== PATIENT RECORD: Angel97 Jacobi462 (ID: 1d9b5400-8fdc-1e8b-8f5c-546cc85383c3) ==
+
+== Demographics ==
+Patient ID: 1d9b5400-8fdc-1e8b-8f5c-546cc85383c3
+Name: Angel97 Jacobi462
+Gender: M
+Birthdate: 1970-11-06
+Address: 362 Schaden Mews Unit 68
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Transformed migraine (disorder)
+- Concussion with no loss of consciousness
+- Viral sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-01-04T09:33:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-17T00:33:04Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-17T01:03:40Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-17T01:18:45Z)
+- Depression screening (procedure) (Date: 2012-11-17T01:45:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-17T01:58:34Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-06T00:33:04Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-09T01:03:16Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-12T01:36:42Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-15T02:23:01Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-18T03:21:43Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-21T04:09:58Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-24T04:45:10Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-27T05:29:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-22T00:33:04Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-22T01:29:04Z)
+- Depression screening (procedure) (Date: 2014-11-22T01:56:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-22T02:08:58Z)
+- Assessment of substance use (procedure) (Date: 2014-11-22T02:35:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-22T02:48:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-26T00:33:04Z)
+- Depression screening (procedure) (Date: 2016-11-26T01:24:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-26T01:35:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-01T00:33:04Z)
+- Peripheral blood smear interpretation (Date: 2018-12-01T00:33:04Z)
+- Depression screening (procedure) (Date: 2018-12-01T01:09:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-01T01:20:31Z)
+- Review of systems (procedure) (Date: 2018-12-01T01:03:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-01T01:20:17Z)
+- Brief general examination (procedure) (Date: 2018-12-01T01:27:04Z)
+- Measurement of respiratory function (procedure) (Date: 2019-05-14T08:33:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-25T00:33:04Z)
+- Depression screening (procedure) (Date: 2019-05-25T01:27:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-25T01:39:43Z)
+- Assessment of substance use (procedure) (Date: 2019-05-25T02:07:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-25T02:21:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-07T00:33:04Z)
+- Depression screening (procedure) (Date: 2020-11-07T01:05:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-07T01:19:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-13T00:33:04Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-13T00:33:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T00:33:04Z: General examination of patient (procedure)
+- 2021-05-15T00:33:04Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T00:33:04Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-07T00:33:04Z: General examination of patient (procedure)
+- 2019-10-04T10:33:04Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-13T00:33:04Z Hemoglobin A1c/Hemoglobin.total in Blood: 6.0 %
+- 2021-11-13T00:33:04Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-13T00:33:04Z Glucose: 70.9 mg/dL
+- 2021-11-13T00:33:04Z Urea Nitrogen: 13.1 mg/dL
+- 2021-11-13T00:33:04Z Creatinine: 1.1 mg/dL
+- 2021-11-13T00:33:04Z Calcium: 10.2 mg/dL
+- 2021-11-13T00:33:04Z Sodium: 143.7 mmol/L
+- 2021-11-13T00:33:04Z Potassium: 5.0 mmol/L
+- 2021-11-13T00:33:04Z Chloride: 110.7 mmol/L
+- 2021-11-13T00:33:04Z Carbon Dioxide: 25.4 mmol/L

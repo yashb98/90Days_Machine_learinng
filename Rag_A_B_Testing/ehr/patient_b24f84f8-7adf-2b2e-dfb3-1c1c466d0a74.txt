@@ -1,0 +1,95 @@
+== PATIENT RECORD: Barney639 Ledner144 (ID: b24f84f8-7adf-2b2e-dfb3-1c1c466d0a74) ==
+
+== Demographics ==
+Patient ID: b24f84f8-7adf-2b2e-dfb3-1c1c466d0a74
+Name: Barney639 Ledner144
+Gender: M
+Birthdate: 2002-04-24
+Address: 667 Terry Heights
+Marital Status: nan
+
+== Allergies ==
+- Aspirin
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Laceration of thigh
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Full-time employment (finding)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-05-03T02:03:18Z)
+- Depression screening (procedure) (Date: 2014-05-15T02:03:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-15T02:18:05Z)
+- Assessment of substance use (procedure) (Date: 2014-05-15T02:46:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-15T02:57:30Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-15T03:11:06Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-21T02:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-21T02:03:18Z)
+- Depression screening (procedure) (Date: 2015-05-21T02:25:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-21T02:40:18Z)
+- Assessment of substance use (procedure) (Date: 2015-05-21T03:06:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-21T03:17:00Z)
+- Health risks education (procedure) (Date: 2015-05-21T03:31:48Z)
+- Suture open wound (Date: 2016-04-30T02:03:18Z)
+- Depression screening (procedure) (Date: 2016-05-26T02:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-26T02:03:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-26T02:14:46Z)
+- Assessment of substance use (procedure) (Date: 2016-05-26T02:41:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-26T02:53:33Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-26T03:21:28Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-01T02:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-01T02:03:18Z)
+- Depression screening (procedure) (Date: 2017-06-01T02:24:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-01T02:36:50Z)
+- Assessment of substance use (procedure) (Date: 2017-06-01T03:06:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-06-01T03:18:13Z)
+- Anticipatory guidance (procedure) (Date: 2017-06-01T03:47:51Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-07T02:03:18Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-07T02:03:18Z)
+- Assessment of substance use (procedure) (Date: 2018-06-07T02:25:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-06-07T02:39:53Z)
+- Anticipatory guidance (procedure) (Date: 2018-06-07T02:51:25Z)
+- Depression screening (procedure) (Date: 2019-06-13T02:03:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-13T02:15:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-18T02:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-18T02:33:31Z)
+- Depression screening (procedure) (Date: 2020-06-18T02:59:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-18T03:13:07Z)
+- Assessment of substance use (procedure) (Date: 2020-06-18T03:34:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-18T03:45:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-24T02:03:18Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-24T02:47:48Z)
+- Depression screening (procedure) (Date: 2021-06-24T03:09:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-24T03:20:03Z)
+- Assessment of substance use (procedure) (Date: 2021-06-24T03:47:56Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-24T04:02:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T02:03:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-14T02:03:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-24T02:03:18Z: General examination of patient (procedure)
+- 2020-06-18T02:03:18Z: General examination of patient (procedure)
+- 2019-06-13T02:03:18Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-24T04:26:53Z Total score [DAST-10]: 1.0 {score}
+- 2021-06-24T03:47:56Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-24T03:09:02Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-06-24T02:47:48Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-24T02:47:48Z What is your housing situation today?: I have housing nan
+- 2021-06-24T02:47:48Z Are you a refugee?: No nan
+- 2021-06-24T02:47:48Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-06-24T02:47:48Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-06-24T02:47:48Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-06-24T02:47:48Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

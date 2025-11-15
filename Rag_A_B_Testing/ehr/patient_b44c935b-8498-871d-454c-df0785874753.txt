@@ -1,0 +1,170 @@
+== PATIENT RECORD: Avis183 Ankunding277 (ID: b44c935b-8498-871d-454c-df0785874753) ==
+
+== Demographics ==
+Patient ID: b44c935b-8498-871d-454c-df0785874753
+Name: Avis183 Ankunding277
+Gender: F
+Birthdate: 1953-06-26
+Address: 467 Okuneva Corner
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Normal pregnancy
+- Fetus with unknown complication
+- Coronary Heart Disease
+- Unhealthy alcohol drinking behavior (finding)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1999-01-22T11:25:47Z)
+- Depression screening (procedure) (Date: 1999-01-22T12:08:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-01-22T12:21:52Z)
+- Assessment of substance use (procedure) (Date: 1999-01-22T12:50:40Z)
+- Screening for drug abuse (procedure) (Date: 1999-01-22T13:03:48Z)
+- Removal of subcutaneous contraceptive (Date: 1999-03-26T11:25:47Z)
+- Standard pregnancy test (Date: 1999-05-21T11:25:47Z)
+- Ultrasound scan for fetal viability (Date: 1999-05-21T11:25:47Z)
+- Physical examination (Date: 1999-05-28T11:25:47Z)
+- Depression screening (Date: 1999-05-28T11:25:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-01-28T11:25:47Z)
+- Screening for domestic abuse (procedure) (Date: 2000-01-28T12:20:26Z)
+- Depression screening (procedure) (Date: 2000-01-28T12:54:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-01-28T13:08:31Z)
+- Assessment of substance use (procedure) (Date: 2000-01-28T13:38:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-01-28T13:52:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-02-02T11:25:47Z)
+- Medication Reconciliation (procedure) (Date: 2001-02-02T11:25:47Z)
+- Depression screening (procedure) (Date: 2001-02-02T11:57:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-02-02T12:10:13Z)
+- Assessment of substance use (procedure) (Date: 2001-02-02T12:37:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-02-02T12:47:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-02-08T11:25:47Z)
+- Screening for domestic abuse (procedure) (Date: 2002-02-08T11:57:56Z)
+- Depression screening (procedure) (Date: 2002-02-08T12:31:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-02-08T12:42:31Z)
+- Assessment of substance use (procedure) (Date: 2002-02-08T13:05:18Z)
+- Screening for drug abuse (procedure) (Date: 2002-02-08T13:15:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-02-14T11:25:47Z)
+- Medication Reconciliation (procedure) (Date: 2003-02-14T11:25:47Z)
+- Standard pregnancy test (Date: 2003-03-14T11:25:47Z)
+- Ultrasound scan for fetal viability (Date: 2003-03-14T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-03-14T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-03-14T11:25:47Z)
+- Blood typing  RH typing (Date: 2003-03-14T11:25:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2003-03-14T11:25:47Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2003-03-14T11:25:47Z)
+- Human immunodeficiency virus antigen test (Date: 2003-03-14T11:25:47Z)
+- Chlamydia antigen test (Date: 2003-03-14T11:25:47Z)
+- Gonorrhea infection test (Date: 2003-03-14T11:25:47Z)
+- Syphilis infection test (Date: 2003-03-14T11:25:47Z)
+- Urine culture (Date: 2003-03-14T11:25:47Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2003-03-14T11:25:47Z)
+- Urine screening test for diabetes (Date: 2003-03-14T11:25:47Z)
+- Hepatitis C antibody test (Date: 2003-03-14T11:25:47Z)
+- Rubella screening (Date: 2003-03-14T11:25:47Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2003-03-14T11:25:47Z)
+- Skin test for tuberculosis (Date: 2003-03-14T11:25:47Z)
+- Urine protein test (Date: 2003-03-14T11:25:47Z)
+- Physical examination of mother (Date: 2003-03-14T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-04-11T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-04-11T11:25:47Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2003-04-11T11:25:47Z)
+- Fetal anatomy study (Date: 2003-05-09T11:25:47Z)
+- Alpha-fetoprotein test (Date: 2003-05-09T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-05-09T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-05-09T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-06-06T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-06-06T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-07-04T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-07-04T11:25:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2003-08-01T11:25:47Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2003-08-01T11:25:47Z)
+- Urine screening for glucose (Date: 2003-08-01T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-08-01T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-08-01T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-08-29T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-08-29T11:25:47Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2003-09-26T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-09-26T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-09-26T11:25:47Z)
+- Evaluation of uterine fundal height (Date: 2003-10-10T11:25:47Z)
+- Auscultation of the fetal heart (Date: 2003-10-10T11:25:47Z)
+- Instrumental delivery (Date: 2003-10-17T11:25:47Z)
+- Childbirth (Date: 2003-10-17T11:25:47Z)
+- Physical examination following birth (Date: 2003-11-28T11:25:47Z)
+- Depression screening (Date: 2003-11-28T11:25:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-02-20T11:25:47Z)
+- Medication Reconciliation (procedure) (Date: 2004-02-20T11:25:47Z)
+- Assessment of substance use (procedure) (Date: 2004-02-20T12:11:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-02-20T12:24:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-02-25T11:25:47Z)
+- Assessment of anxiety (procedure) (Date: 2005-02-25T12:09:10Z)
+- Depression screening (procedure) (Date: 2005-02-25T12:35:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-02-25T12:49:18Z)
+- Assessment of substance use (procedure) (Date: 2005-02-25T13:18:58Z)
+- Screening for drug abuse (procedure) (Date: 2005-02-25T13:31:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-03-03T11:25:47Z)
+- Assessment of anxiety (procedure) (Date: 2006-03-03T12:06:17Z)
+- Depression screening (procedure) (Date: 2006-03-03T12:25:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-03-03T12:39:19Z)
+- Assessment of substance use (procedure) (Date: 2006-03-03T13:00:42Z)
+- Screening for drug abuse (procedure) (Date: 2006-03-03T13:10:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-03-09T11:25:47Z)
+- Depression screening (procedure) (Date: 2007-03-09T12:24:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-03-09T12:36:19Z)
+- Assessment of substance use (procedure) (Date: 2007-03-09T12:58:07Z)
+- Screening for drug abuse (procedure) (Date: 2007-03-09T13:12:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-03-14T11:25:47Z)
+- Depression screening (procedure) (Date: 2008-03-14T12:06:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-03-14T12:17:06Z)
+- Echocardiography (procedure) (Date: 2008-07-04T11:25:47Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2008-07-04T11:25:47Z)
+- Catheter ablation of tissue of heart (Date: 2008-07-04T11:25:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2008-07-11T11:25:47Z: Death Certification
+- 2008-07-04T11:25:47Z: Cardiac Arrest
+- 2008-03-14T11:25:47Z: General examination of patient (procedure)
+- 2007-03-09T11:25:47Z: General examination of patient (procedure)
+- 2006-03-03T11:25:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2008-07-11T11:25:47Z Cause of Death [US Standard Certificate of Death]: Cardiac Arrest nan
+- 2008-03-14T12:47:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2008-03-14T12:06:12Z What is your current work situation?: Full-time work nan
+- 2008-03-14T12:06:12Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2008-03-14T12:06:12Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2008-03-14T12:06:12Z Are you a refugee?: No nan
+- 2008-03-14T12:06:12Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2008-03-14T12:06:12Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2008-03-14T12:06:12Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2008-03-14T12:06:12Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

@@ -1,0 +1,52 @@
+== PATIENT RECORD: Sterling124 Mitchell808 (ID: b5e092a6-8d10-a0b4-4cf5-66aee144f7ed) ==
+
+== Demographics ==
+Patient ID: b5e092a6-8d10-a0b4-4cf5-66aee144f7ed
+Name: Sterling124 Mitchell808
+Gender: M
+Birthdate: 2011-10-01
+Address: 990 Huel Hollow
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Streptococcal sore throat (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-09-08T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-09T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-07T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-08T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-06T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-11T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-17T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-23T00:48:21Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-29T00:48:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-10T00:48:21Z: Well child visit (procedure)
+- 2020-10-04T00:48:21Z: Well child visit (procedure)
+- 2019-09-29T00:48:21Z: Well child visit (procedure)
+- 2019-01-06T00:48:21Z: Encounter for check up (procedure)
+- 2018-12-26T01:48:21Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T00:48:21Z Heart rate: 77.0 /min
+- 2021-10-10T00:48:21Z Body Height: 148.3 cm
+- 2021-10-10T00:48:21Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-10-10T00:48:21Z Body Weight: 52.8 kg
+- 2021-10-10T00:48:21Z Body Mass Index: 24.0 kg/m2
+- 2021-10-10T00:48:21Z Body mass index (BMI) [Percentile] Per age and gender: 97.2 %
+- 2021-10-10T00:48:21Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-10-10T00:48:21Z Systolic Blood Pressure: 116.0 mm[Hg]
+- 2021-10-10T00:48:21Z Respiratory rate: 15.0 /min
+- 2021-10-10T00:48:21Z Tobacco smoking status NHIS: Never smoker nan

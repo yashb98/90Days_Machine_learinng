@@ -1,0 +1,189 @@
+== PATIENT RECORD: Anya973 Mills423 (ID: bea87be4-08d7-cc5e-4791-254d11c26341) ==
+
+== Demographics ==
+Patient ID: bea87be4-08d7-cc5e-4791-254d11c26341
+Name: Anya973 Mills423
+Gender: F
+Birthdate: 1973-11-09
+Address: 993 Rau Neck Apt 66
+Marital Status: M
+
+== Allergies ==
+- Eggs (edible) (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Social isolation (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Normal pregnancy
+- Cystitis
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- Jolivette 28 Day Pack
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Etonogestrel 68 MG Drug Implant
+- Kyleena 19.5 MG Intrauterine System
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-27T05:53:30Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-27T06:24:45Z)
+- Depression screening (procedure) (Date: 2012-04-27T06:40:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-27T06:50:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-03T05:53:30Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-03T05:53:30Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-03T06:47:54Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-03T07:14:26Z)
+- Depression screening (procedure) (Date: 2013-05-03T07:55:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-03T08:08:28Z)
+- Assessment of substance use (procedure) (Date: 2013-05-03T08:29:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-05-03T08:42:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-09T05:53:30Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-09T05:53:30Z)
+- Screening for domestic abuse (procedure) (Date: 2014-05-09T06:43:45Z)
+- Depression screening (procedure) (Date: 2014-05-09T07:13:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-09T07:26:25Z)
+- Assessment of substance use (procedure) (Date: 2014-05-09T07:51:42Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-09T08:02:13Z)
+- Standard pregnancy test (Date: 2015-04-10T05:53:30Z)
+- Ultrasound scan for fetal viability (Date: 2015-04-10T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-04-10T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-04-10T05:53:30Z)
+- Blood typing  RH typing (Date: 2015-04-10T05:53:30Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-04-10T05:53:30Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-04-10T05:53:30Z)
+- Human immunodeficiency virus antigen test (Date: 2015-04-10T05:53:30Z)
+- Chlamydia antigen test (Date: 2015-04-10T05:53:30Z)
+- Gonorrhea infection test (Date: 2015-04-10T05:53:30Z)
+- Syphilis infection test (Date: 2015-04-10T05:53:30Z)
+- Urine culture (Date: 2015-04-10T05:53:30Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-04-10T05:53:30Z)
+- Urine screening test for diabetes (Date: 2015-04-10T05:53:30Z)
+- Hepatitis C antibody test (Date: 2015-04-10T05:53:30Z)
+- Rubella screening (Date: 2015-04-10T05:53:30Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-04-10T05:53:30Z)
+- Skin test for tuberculosis (Date: 2015-04-10T05:53:30Z)
+- Urine protein test (Date: 2015-04-10T05:53:30Z)
+- Physical examination of mother (Date: 2015-04-10T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-05-08T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-05-08T05:53:30Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-05-08T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-15T05:53:30Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-15T06:47:59Z)
+- Fetal anatomy study (Date: 2015-06-05T05:53:30Z)
+- Alpha-fetoprotein test (Date: 2015-06-05T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-06-05T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-06-05T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-07-03T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-07-03T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-07-31T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-07-31T05:53:30Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-08-28T05:53:30Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2015-08-28T05:53:30Z)
+- Urine screening for glucose (Date: 2015-08-28T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-08-28T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-08-28T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-09-25T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-09-25T05:53:30Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2015-10-23T05:53:30Z)
+- Evaluation of uterine fundal height (Date: 2015-10-23T05:53:30Z)
+- Auscultation of the fetal heart (Date: 2015-10-23T05:53:30Z)
+- Medical induction of labor (Date: 2015-11-06T05:53:30Z)
+- Childbirth (Date: 2015-11-06T05:53:30Z)
+- Physical examination following birth (Date: 2015-12-18T05:53:30Z)
+- Depression screening (Date: 2015-12-18T05:53:30Z)
+- Intramuscular injection (Date: 2015-12-18T05:53:30Z)
+- Intramuscular injection (Date: 2016-03-25T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-20T05:53:30Z)
+- Depression screening (procedure) (Date: 2016-05-20T06:23:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-20T06:35:24Z)
+- Assessment of substance use (procedure) (Date: 2016-05-20T06:58:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-20T07:12:12Z)
+- Intramuscular injection (Date: 2016-06-24T05:53:30Z)
+- Intramuscular injection (Date: 2016-09-23T05:53:30Z)
+- Intramuscular injection (Date: 2016-12-23T05:53:30Z)
+- Intramuscular injection (Date: 2017-03-24T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-26T05:53:30Z)
+- Depression screening (procedure) (Date: 2017-05-26T06:32:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-26T06:45:51Z)
+- Assessment of substance use (procedure) (Date: 2017-05-26T07:13:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-26T07:27:51Z)
+- Intramuscular injection (Date: 2017-06-23T05:53:30Z)
+- Intramuscular injection (Date: 2017-09-22T05:53:30Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-12-07T06:08:04Z)
+- Intramuscular injection (Date: 2017-12-22T05:53:30Z)
+- Intramuscular injection (Date: 2018-03-23T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-01T05:53:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-01T05:53:30Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-01T06:36:41Z)
+- Depression screening (procedure) (Date: 2018-06-01T06:59:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-01T07:09:39Z)
+- Assessment of substance use (procedure) (Date: 2018-06-01T07:36:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-01T07:50:41Z)
+- Intramuscular injection (Date: 2018-06-22T05:53:30Z)
+- Intramuscular injection (Date: 2018-09-21T05:53:30Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-12-05T05:35:36Z)
+- Intramuscular injection (Date: 2018-12-21T05:53:30Z)
+- Intramuscular injection (Date: 2019-03-22T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-07T05:53:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-07T05:53:30Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-07T06:47:09Z)
+- Depression screening (procedure) (Date: 2019-06-07T07:04:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-07T07:17:09Z)
+- Assessment of substance use (procedure) (Date: 2019-06-07T07:43:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-06-07T07:56:50Z)
+- Intramuscular injection (Date: 2019-06-21T05:53:30Z)
+- Intramuscular injection (Date: 2019-09-20T05:53:30Z)
+- Intramuscular injection (Date: 2019-12-20T05:53:30Z)
+- Intramuscular injection (Date: 2020-03-20T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-12T05:53:30Z)
+- Intramuscular injection (Date: 2020-06-19T05:53:30Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-12T06:43:17Z)
+- Depression screening (procedure) (Date: 2020-06-12T07:11:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-12T07:23:28Z)
+- Intramuscular injection (Date: 2020-09-18T05:53:30Z)
+- Intramuscular injection (Date: 2020-12-18T05:53:30Z)
+- Intramuscular injection (Date: 2021-03-19T05:53:30Z)
+- Intramuscular injection (Date: 2021-06-18T05:53:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-18T05:53:30Z)
+- Assessment of substance use (procedure) (Date: 2021-06-18T06:39:59Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-18T06:50:50Z)
+- Intramuscular injection (Date: 2021-09-17T05:53:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-17T05:53:30Z: Patient encounter procedure
+- 2021-06-18T05:53:30Z: Patient encounter procedure
+- 2021-06-18T05:53:30Z: General examination of patient (procedure)
+- 2021-05-07T05:53:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-09T05:53:30Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T05:53:30Z QOLS: 1.0 {score}
+- 2021-11-09T05:53:30Z QALY: 46.6 a
+- 2021-11-09T05:53:30Z DALY: 0.4 a
+- 2021-06-18T07:13:20Z Total score [DAST-10]: 0.0 {score}
+- 2021-06-18T06:39:59Z What is your housing situation today?: I have housing nan
+- 2021-06-18T06:39:59Z Are you worried about losing your housing?: No nan
+- 2021-06-18T06:39:59Z What address do you live at?: 993 Rau Neck Apt 66 nan
+- 2021-06-18T06:39:59Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-18T06:39:59Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-06-18T06:39:59Z What is your main insurance?: Private insurance nan

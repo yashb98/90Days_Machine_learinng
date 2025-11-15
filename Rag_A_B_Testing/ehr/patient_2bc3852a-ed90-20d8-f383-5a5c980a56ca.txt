@@ -1,0 +1,172 @@
+== PATIENT RECORD: Kristian973 Windler79 (ID: 2bc3852a-ed90-20d8-f383-5a5c980a56ca) ==
+
+== Demographics ==
+Patient ID: 2bc3852a-ed90-20d8-f383-5a5c980a56ca
+Name: Kristian973 Windler79
+Gender: F
+Birthdate: 1976-01-08
+Address: 116 Romaguera Road Apt 18
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Sepsis (disorder)
+- Miscarriage in first trimester
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Normal pregnancy
+- Anemia (disorder)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Osteoarthritis of knee
+- Viral sinusitis (disorder)
+- Fatigue (finding)
+- Diarrhea symptom (finding)
+- Muscle pain (finding)
+- Joint pain (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Camila 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Errin 28 Day Pack
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Streptococcus pneumoniae group B antigen test (Date: 2011-12-01T23:13:59Z)
+- Evaluation of uterine fundal height (Date: 2011-12-01T23:13:59Z)
+- Auscultation of the fetal heart (Date: 2011-12-01T23:13:59Z)
+- Evaluation of uterine fundal height (Date: 2011-12-15T23:13:59Z)
+- Auscultation of the fetal heart (Date: 2011-12-15T23:13:59Z)
+- Evaluation of uterine fundal height (Date: 2011-12-22T23:13:59Z)
+- Auscultation of the fetal heart (Date: 2011-12-22T23:13:59Z)
+- Childbirth (Date: 2011-12-29T23:13:59Z)
+- Physical examination following birth (Date: 2012-02-09T23:13:59Z)
+- Depression screening (Date: 2012-02-09T23:13:59Z)
+- Measurement of respiratory function (procedure) (Date: 2012-12-23T11:05:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-03T22:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-03T22:05:34Z)
+- Assessment of substance use (procedure) (Date: 2013-01-03T22:47:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-01-03T22:58:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-28T22:05:34Z)
+- Depression screening (procedure) (Date: 2013-03-28T22:43:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-28T22:57:46Z)
+- Assessment of substance use (procedure) (Date: 2013-03-28T23:23:01Z)
+- Screening for drug abuse (procedure) (Date: 2013-03-28T23:34:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-14T22:05:34Z)
+- Assessment of substance use (procedure) (Date: 2016-01-14T22:53:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-01-14T23:04:39Z)
+- Standard pregnancy test (Date: 2016-06-30T22:05:34Z)
+- Ultrasound scan for fetal viability (Date: 2016-06-30T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-06-30T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-06-30T22:05:34Z)
+- Blood typing  RH typing (Date: 2016-06-30T22:05:34Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-06-30T22:05:34Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-06-30T22:05:34Z)
+- Human immunodeficiency virus antigen test (Date: 2016-06-30T22:05:34Z)
+- Chlamydia antigen test (Date: 2016-06-30T22:05:34Z)
+- Gonorrhea infection test (Date: 2016-06-30T22:05:34Z)
+- Syphilis infection test (Date: 2016-06-30T22:05:34Z)
+- Urine culture (Date: 2016-06-30T22:05:34Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-06-30T22:05:34Z)
+- Urine screening test for diabetes (Date: 2016-06-30T22:05:34Z)
+- Hepatitis C antibody test (Date: 2016-06-30T22:05:34Z)
+- Rubella screening (Date: 2016-06-30T22:05:34Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-06-30T22:05:34Z)
+- Skin test for tuberculosis (Date: 2016-06-30T22:05:34Z)
+- Urine protein test (Date: 2016-06-30T22:05:34Z)
+- Physical examination of mother (Date: 2016-06-30T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-07-28T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-07-28T22:05:34Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-07-28T22:05:34Z)
+- Fetal anatomy study (Date: 2016-08-25T22:05:34Z)
+- Alpha-fetoprotein test (Date: 2016-08-25T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-08-25T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-08-25T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-09-22T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-09-22T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-10-20T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-10-20T22:05:34Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-11-17T22:05:34Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2016-11-17T22:05:34Z)
+- Urine screening for glucose (Date: 2016-11-17T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-11-17T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-11-17T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2016-12-15T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2016-12-15T22:05:34Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2017-01-12T22:05:34Z)
+- Evaluation of uterine fundal height (Date: 2017-01-12T22:05:34Z)
+- Auscultation of the fetal heart (Date: 2017-01-12T22:05:34Z)
+- Episiotomy (Date: 2017-01-26T22:05:34Z)
+- Childbirth (Date: 2017-01-26T22:05:34Z)
+- Physical examination following birth (Date: 2017-03-09T22:05:34Z)
+- Depression screening (Date: 2017-03-09T22:05:34Z)
+- Measurement of respiratory function (procedure) (Date: 2017-06-08T08:05:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-15T22:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-15T22:05:34Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-15T22:53:41Z)
+- Depression screening (procedure) (Date: 2017-06-15T23:21:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-15T23:33:17Z)
+- Assessment of substance use (procedure) (Date: 2017-06-15T23:53:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-16T00:08:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-18T22:05:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-18T22:05:34Z)
+- Depression screening (procedure) (Date: 2018-01-18T23:05:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-18T23:16:45Z)
+- Assessment of substance use (procedure) (Date: 2018-01-18T23:40:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-18T23:51:38Z)
+- Intramuscular injection (Date: 2019-02-27T22:05:34Z)
+- Intramuscular injection (Date: 2019-06-06T22:05:34Z)
+- Intramuscular injection (Date: 2019-09-05T22:05:34Z)
+- Intramuscular injection (Date: 2019-12-05T22:05:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-23T22:05:34Z)
+- Screening for domestic abuse (procedure) (Date: 2020-01-23T22:43:26Z)
+- Depression screening (procedure) (Date: 2020-01-23T23:10:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-23T23:20:25Z)
+- Assessment of substance use (procedure) (Date: 2020-01-23T23:46:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-24T00:00:01Z)
+- Intramuscular injection (Date: 2020-03-05T22:05:34Z)
+- Intramuscular injection (Date: 2020-06-04T22:05:34Z)
+- Intramuscular injection (Date: 2020-09-03T22:05:34Z)
+- Intramuscular injection (Date: 2020-12-03T22:05:34Z)
+- Intramuscular injection (Date: 2021-03-04T22:05:34Z)
+- Intramuscular injection (Date: 2021-06-03T22:05:34Z)
+- Face mask (physical object) (Date: 2021-07-30T22:05:34Z)
+- Intramuscular injection (Date: 2021-09-02T22:05:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-07T22:05:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-09T22:05:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-02T22:05:34Z: Patient encounter procedure
+- 2021-07-30T22:05:34Z: Encounter for symptom (procedure)
+- 2021-06-03T22:05:34Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-07-30T23:15:39Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-07-30T22:17:00Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-07-30T22:17:00Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-07-30T22:05:34Z Body temperature: 40.1 Cel
+- 2021-07-30T22:05:34Z Respiratory rate: 16.1 /min
+- 2021-07-30T22:05:34Z Heart rate: 186.4 /min
+- 2021-07-30T22:05:34Z Oxygen saturation in Arterial blood: 86.8 %
+- 2021-07-30T22:05:34Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-07-30T22:05:34Z Systolic Blood Pressure: 121.0 mm[Hg]
+- 2021-07-30T22:05:34Z Body Weight: 79.8 kg

@@ -1,0 +1,41 @@
+== PATIENT RECORD: Charlsie105 Jacobson885 (ID: fab540db-3bc8-bbf8-69bc-5d8a9dbb752f) ==
+
+== Demographics ==
+Patient ID: fab540db-3bc8-bbf8-69bc-5d8a9dbb752f
+Name: Charlsie105 Jacobson885
+Gender: F
+Birthdate: 2020-12-24
+Address: 122 Hyatt Fort
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-04-01T07:25:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-02T07:25:35Z: Well child visit (procedure)
+- 2021-06-03T07:25:35Z: Well child visit (procedure)
+- 2021-04-01T07:25:35Z: Well child visit (procedure)
+- 2021-03-24T07:25:35Z: Encounter for symptom
+- 2021-01-28T07:25:35Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-02T07:25:35Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-02T07:25:35Z Respiratory rate: 15.0 /min
+- 2021-09-02T07:25:35Z Heart rate: 80.0 /min
+- 2021-09-02T07:25:35Z Systolic Blood Pressure: 136.0 mm[Hg]
+- 2021-09-02T07:25:35Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-09-02T07:25:35Z Head Occipital-frontal circumference: 43.8 cm
+- 2021-09-02T07:25:35Z Weight-for-length Per age and sex: 92.9 %
+- 2021-09-02T07:25:35Z Body Weight: 9.4 kg
+- 2021-09-02T07:25:35Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-09-02T07:25:35Z Body Height: 69.3 cm

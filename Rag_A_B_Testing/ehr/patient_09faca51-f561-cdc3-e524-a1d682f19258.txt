@@ -1,0 +1,137 @@
+== PATIENT RECORD: Brendan864 Grady603 (ID: 09faca51-f561-cdc3-e524-a1d682f19258) ==
+
+== Demographics ==
+Patient ID: 09faca51-f561-cdc3-e524-a1d682f19258
+Name: Brendan864 Grady603
+Gender: M
+Birthdate: 1965-02-26
+Address: 358 Homenick Orchard
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Aspirin
+- Eggs (edible) (substance)
+- Wheat (substance)
+- Tree nut (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Sprain of ankle
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Osteoarthritis of knee
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- ferrous sulfate 325 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-06T03:37:50Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-06T04:21:01Z)
+- Depression screening (procedure) (Date: 2012-10-06T04:37:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-06T04:49:43Z)
+- Assessment of substance use (procedure) (Date: 2012-10-06T05:12:05Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-06T05:25:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-12T03:37:50Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-12T04:09:38Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-12T04:30:03Z)
+- Depression screening (procedure) (Date: 2013-10-12T05:09:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-12T05:21:06Z)
+- Assessment of substance use (procedure) (Date: 2013-10-12T05:44:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-12T05:55:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-18T03:37:50Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-18T04:09:53Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-18T04:33:12Z)
+- Depression screening (procedure) (Date: 2014-10-18T05:01:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-18T05:14:12Z)
+- Measurement of respiratory function (procedure) (Date: 2014-12-08T03:37:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-20T03:37:50Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-20T04:28:24Z)
+- Depression screening (procedure) (Date: 2014-12-20T04:48:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-20T05:02:35Z)
+- Colonoscopy (Date: 2015-02-28T03:37:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-24T03:37:50Z)
+- Depression screening (procedure) (Date: 2015-10-24T04:21:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-24T04:32:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-29T03:37:50Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-29T03:37:50Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-29T04:25:45Z)
+- Depression screening (procedure) (Date: 2016-10-29T05:08:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-29T05:20:58Z)
+- Assessment of substance use (procedure) (Date: 2016-10-29T05:44:58Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-29T05:59:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-06T03:37:50Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-06T03:37:50Z)
+- Screening for domestic abuse (procedure) (Date: 2017-05-06T04:36:03Z)
+- Depression screening (procedure) (Date: 2017-05-06T05:11:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-06T05:22:57Z)
+- Assessment of substance use (procedure) (Date: 2017-05-06T05:47:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-06T05:59:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-04T03:37:50Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-04T03:37:50Z)
+- Assessment of substance use (procedure) (Date: 2017-11-04T04:36:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-04T04:51:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-10T03:37:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-10T03:37:50Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-10T04:22:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-16T03:37:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-16T04:33:08Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-16T04:59:27Z)
+- Depression screening (procedure) (Date: 2019-11-16T05:27:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-16T05:38:20Z)
+- Assessment of substance use (procedure) (Date: 2019-11-16T05:59:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-16T06:12:23Z)
+- Colonoscopy (Date: 2020-02-28T04:20:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-21T03:37:50Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-21T03:37:50Z)
+- Depression screening (procedure) (Date: 2020-11-21T04:24:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-21T04:38:22Z)
+- Assessment of substance use (procedure) (Date: 2020-11-21T05:02:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-11-21T05:17:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-03T03:37:50Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-03T03:37:50Z)
+- Depression screening (procedure) (Date: 2021-07-03T04:14:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-03T04:26:15Z)
+- Assessment of substance use (procedure) (Date: 2021-07-03T04:55:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-03T05:10:06Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-03T03:37:50Z: Encounter for check up (procedure)
+- 2021-06-26T03:37:50Z: Urgent care clinic (procedure)
+- 2021-06-16T18:37:50Z: Encounter for symptom
+- 2020-11-21T03:37:50Z: General examination of patient (procedure)
+- 2020-02-28T04:20:27Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-07-03T05:39:39Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-07-03T04:55:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-03T04:14:35Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-07-03T04:14:35Z What language are you most comfortable speaking?: English nan
+- 2021-07-03T04:14:35Z Are you worried about losing your housing?: No nan
+- 2021-07-03T04:14:35Z What address do you live at?: 358 Homenick Orchard nan
+- 2021-07-03T04:14:35Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-07-03T04:14:35Z What is your current work situation?: Full-time work nan
+- 2021-07-03T04:14:35Z What is your main insurance?: Private insurance nan
+- 2021-07-03T04:14:35Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 81579 /a

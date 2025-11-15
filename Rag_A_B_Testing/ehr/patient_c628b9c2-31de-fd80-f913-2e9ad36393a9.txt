@@ -1,0 +1,84 @@
+== PATIENT RECORD: Lemuel304 Lueilwitz711 (ID: c628b9c2-31de-fd80-f913-2e9ad36393a9) ==
+
+== Demographics ==
+Patient ID: c628b9c2-31de-fd80-f913-2e9ad36393a9
+Name: Lemuel304 Lueilwitz711
+Gender: M
+Birthdate: 1978-08-13
+Address: 749 Denesik Way Suite 58
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Misuses drugs (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Chronic low back pain (finding)
+- Viral sinusitis (disorder)
+- Osteoarthritis of knee
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-28T16:06:25Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-28T16:06:25Z)
+- Depression screening (procedure) (Date: 2012-10-28T16:59:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-28T17:12:55Z)
+- Assessment of substance use (procedure) (Date: 2012-10-28T17:33:17Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-28T17:46:01Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-07T16:06:25Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-10T17:03:37Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-13T17:58:01Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-16T18:57:19Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-19T19:43:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-22T20:31:37Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-25T21:30:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-28T22:18:48Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-03T23:10:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-07T00:06:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-01T16:06:25Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-01T17:05:45Z)
+- Depression screening (procedure) (Date: 2015-11-01T17:21:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-01T17:31:41Z)
+- Assessment of substance use (procedure) (Date: 2015-11-01T17:52:35Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-01T18:07:08Z)
+- Vasectomy (Date: 2017-04-03T16:06:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-19T16:06:25Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-19T16:06:25Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-19T16:53:26Z)
+- Depression screening (procedure) (Date: 2018-08-19T17:28:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-19T17:39:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-23T16:06:25Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-23T16:06:25Z)
+- Depression screening (procedure) (Date: 2020-08-23T16:37:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-23T16:51:50Z)
+- Assessment of substance use (procedure) (Date: 2020-08-23T17:16:42Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-23T17:27:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-26T16:06:25Z: Encounter for problem
+- 2021-02-07T16:06:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-17T16:06:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-23T16:06:25Z: General examination of patient (procedure)
+- 2018-08-19T16:06:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-13T16:06:25Z QOLS: 1.0 {score}
+- 2021-08-13T16:06:25Z DALY: 0.0 a
+- 2021-08-13T16:06:25Z QALY: 42.0 a
+- 2021-03-26T16:06:25Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 9.0 {score}
+- 2020-08-23T17:55:50Z Total score [DAST-10]: 1.0 {score}
+- 2020-08-23T17:16:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-08-23T16:37:13Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-08-23T16:37:13Z Are you a refugee?: No nan
+- 2020-08-23T16:37:13Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2020-08-23T16:37:13Z In the past year  have you been afraid of your partner or ex-partner?: No nan

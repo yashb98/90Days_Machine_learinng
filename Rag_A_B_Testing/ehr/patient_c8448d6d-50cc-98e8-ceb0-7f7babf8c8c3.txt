@@ -1,0 +1,137 @@
+== PATIENT RECORD: Luciano237 Bode78 (ID: c8448d6d-50cc-98e8-ceb0-7f7babf8c8c3) ==
+
+== Demographics ==
+Patient ID: c8448d6d-50cc-98e8-ceb0-7f7babf8c8c3
+Name: Luciano237 Bode78
+Gender: M
+Birthdate: 1970-01-14
+Address: 940 Murphy Tunnel Unit 39
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Second degree burn
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-25T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-25T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-25T16:18:09Z)
+- Depression screening (procedure) (Date: 2012-07-25T16:39:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-25T16:54:18Z)
+- Assessment of substance use (procedure) (Date: 2012-07-25T17:24:07Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-25T17:35:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-03T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-03T15:24:35Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-03T16:19:24Z)
+- Depression screening (procedure) (Date: 2013-07-03T16:54:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-03T17:09:29Z)
+- Assessment of substance use (procedure) (Date: 2013-07-03T17:35:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-03T17:50:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-31T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-31T16:05:23Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-31T16:32:40Z)
+- Depression screening (procedure) (Date: 2013-07-31T17:06:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-31T17:18:27Z)
+- Assessment of substance use (procedure) (Date: 2013-07-31T17:41:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-31T17:52:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-06T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-06T16:22:27Z)
+- Depression screening (procedure) (Date: 2014-08-06T16:39:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-06T16:52:37Z)
+- Assessment of substance use (procedure) (Date: 2014-08-06T17:20:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-08-06T17:35:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-12T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-12T15:24:35Z)
+- Screening for domestic abuse (procedure) (Date: 2015-08-12T16:11:31Z)
+- Depression screening (procedure) (Date: 2015-08-12T16:37:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-12T16:50:39Z)
+- Assessment of substance use (procedure) (Date: 2015-08-12T17:11:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-08-12T17:22:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-16T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-16T15:24:35Z)
+- Peripheral blood smear interpretation (Date: 2016-03-16T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-16T16:14:08Z)
+- Depression screening (procedure) (Date: 2016-03-16T16:35:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-16T16:46:29Z)
+- Assessment of substance use (procedure) (Date: 2016-03-16T17:11:49Z)
+- Screening for drug abuse (procedure) (Date: 2016-03-16T17:26:07Z)
+- Review of systems (procedure) (Date: 2016-03-16T15:54:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-16T16:08:01Z)
+- Brief general examination (procedure) (Date: 2016-03-16T16:19:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-17T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-17T15:24:35Z)
+- Depression screening (procedure) (Date: 2016-08-17T15:57:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-17T16:08:47Z)
+- Assessment of substance use (procedure) (Date: 2016-08-17T16:33:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-08-17T16:44:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-23T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-23T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-23T16:18:00Z)
+- Depression screening (procedure) (Date: 2017-08-23T16:33:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-23T16:47:16Z)
+- Assessment of substance use (procedure) (Date: 2017-08-23T17:12:10Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-23T17:24:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-29T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-29T15:24:35Z)
+- Depression screening (procedure) (Date: 2018-08-29T16:02:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-29T16:13:08Z)
+- Assessment of substance use (procedure) (Date: 2018-08-29T16:42:13Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-29T16:53:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-04T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-04T16:10:07Z)
+- Screening for domestic abuse (procedure) (Date: 2019-09-04T16:39:36Z)
+- Assessment of substance use (procedure) (Date: 2019-09-04T17:10:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-09-04T17:24:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-09T15:24:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-09T15:24:35Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-09T16:06:01Z)
+- Depression screening (procedure) (Date: 2020-09-09T16:31:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-09T16:41:52Z)
+- Assessment of substance use (procedure) (Date: 2020-09-09T17:02:21Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-09T17:15:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-15T15:24:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-15T16:24:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-15T15:24:35Z: General examination of patient (procedure)
+- 2021-06-10T06:24:35Z: Encounter for symptom
+- 2021-05-09T18:26:35Z: Encounter for 'check-up'
+- 2021-04-08T18:26:35Z: Emergency room admission (procedure)
+- 2020-09-09T15:24:35Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-15T16:45:29Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-09-15T16:24:34Z What is your current work situation?: Full-time work nan
+- 2021-09-15T16:24:34Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-09-15T16:24:34Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-09-15T16:24:34Z What is your housing situation today?: I have housing nan
+- 2021-09-15T16:24:34Z Are you worried about losing your housing?: No nan
+- 2021-09-15T16:24:34Z What address do you live at?: 940 Murphy Tunnel Unit 39 nan
+- 2021-09-15T16:24:34Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-09-15T16:24:34Z What is your main insurance?: Private insurance nan
+- 2021-09-15T16:24:34Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 120993 /a

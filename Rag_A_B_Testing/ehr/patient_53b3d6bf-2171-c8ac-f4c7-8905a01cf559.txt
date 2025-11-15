@@ -1,0 +1,137 @@
+== PATIENT RECORD: Lee268 Carter549 (ID: 53b3d6bf-2171-c8ac-f4c7-8905a01cf559) ==
+
+== Demographics ==
+Patient ID: 53b3d6bf-2171-c8ac-f4c7-8905a01cf559
+Name: Lee268 Carter549
+Gender: F
+Birthdate: 1961-08-18
+Address: 822 Goyette Branch Suite 11
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Coronary Heart Disease
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+- Miscarriage in first trimester
+- Stress (finding)
+- Social isolation (finding)
+- Normal pregnancy
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Acute viral pharyngitis (disorder)
+- Misuses drugs (finding)
+- Facial laceration
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+
+== Current Medications ==
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Ortho Tri-Cyclen 28 Day Pack
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Norinyl 1+50 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Mirena 52 MG Intrauterine System
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1992-12-12T03:40:11Z)
+- Medication Reconciliation (procedure) (Date: 1992-12-12T03:40:11Z)
+- Assessment of anxiety (procedure) (Date: 1992-12-12T04:35:56Z)
+- Depression screening (procedure) (Date: 1992-12-12T04:58:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-12-12T05:10:28Z)
+- Assessment of substance use (procedure) (Date: 1992-12-12T05:32:19Z)
+- Screening for drug abuse (procedure) (Date: 1992-12-12T05:46:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-12-18T03:40:11Z)
+- Medication Reconciliation (procedure) (Date: 1993-12-18T03:40:11Z)
+- Assessment of anxiety (procedure) (Date: 1993-12-18T04:36:45Z)
+- Depression screening (procedure) (Date: 1993-12-18T05:04:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-12-18T05:16:14Z)
+- Removal of intrauterine device (Date: 1994-03-12T03:40:11Z)
+- Standard pregnancy test (Date: 1994-05-07T03:40:11Z)
+- Ultrasound scan for fetal viability (Date: 1994-05-07T03:40:11Z)
+- Counseling for termination of pregnancy (Date: 1994-05-21T03:40:11Z)
+- Induced termination of pregnancy (Date: 1994-05-21T03:40:11Z)
+- Pregnancy termination care (Date: 1994-05-29T03:40:11Z)
+- Physical exam following abortion (Date: 1994-05-29T03:40:11Z)
+- Depression screening (Date: 1994-05-29T03:40:11Z)
+- Insertion of intrauterine contraceptive device (Date: 1994-08-06T13:46:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-12-24T03:40:11Z)
+- Depression screening (procedure) (Date: 1994-12-24T04:17:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-12-24T04:31:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-12-30T03:40:11Z)
+- Assessment of anxiety (procedure) (Date: 1995-12-30T04:26:43Z)
+- Depression screening (procedure) (Date: 1995-12-30T04:55:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-12-30T05:08:21Z)
+- Assessment of substance use (procedure) (Date: 1995-12-30T05:31:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-12-30T05:44:51Z)
+- Throat culture (procedure) (Date: 1996-08-25T21:40:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-01-04T03:40:11Z)
+- Assessment of anxiety (procedure) (Date: 1997-01-04T04:24:05Z)
+- Throat culture (procedure) (Date: 1997-11-01T19:40:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-01-10T03:40:11Z)
+- Medication Reconciliation (procedure) (Date: 1998-01-10T03:40:11Z)
+- Screening for domestic abuse (procedure) (Date: 1998-01-10T04:12:25Z)
+- Depression screening (procedure) (Date: 1998-01-10T04:49:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-01-10T05:00:51Z)
+- Assessment of substance use (procedure) (Date: 1998-01-10T05:24:05Z)
+- Screening for drug abuse (procedure) (Date: 1998-01-10T05:37:05Z)
+- Intramuscular injection (Date: 1998-07-16T14:45:31Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-01-16T03:40:11Z)
+- Screening for domestic abuse (procedure) (Date: 1999-01-16T04:24:37Z)
+- Assessment of substance use (procedure) (Date: 1999-01-16T05:01:25Z)
+- Screening for drug abuse (procedure) (Date: 1999-01-16T05:16:20Z)
+- Replacement of contraceptive intrauterine device (Date: 1999-08-14T03:40:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-01-22T03:40:11Z)
+- Medication Reconciliation (procedure) (Date: 2000-01-22T03:40:11Z)
+- Assessment of anxiety (procedure) (Date: 2000-01-22T04:29:22Z)
+- Depression screening (procedure) (Date: 2000-01-22T04:48:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-01-22T05:00:54Z)
+- Assessment of substance use (procedure) (Date: 2000-01-22T05:26:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-01-22T05:40:09Z)
+- Suture open wound (Date: 2000-11-21T03:40:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-01-27T03:40:11Z)
+- Assessment of anxiety (procedure) (Date: 2001-01-27T04:26:12Z)
+- Insertion of intrauterine contraceptive device (Date: 2001-07-03T11:59:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-02-02T03:40:11Z)
+- Screening for domestic abuse (procedure) (Date: 2002-02-02T04:35:22Z)
+- Depression screening (procedure) (Date: 2002-02-02T05:20:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-02-02T05:33:18Z)
+- Assessment of substance use (procedure) (Date: 2002-02-02T05:57:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-02-02T06:11:44Z)
+- Insertion of intrauterine contraceptive device (Date: 2002-07-02T18:04:19Z)
+- Echocardiography (procedure) (Date: 2002-07-27T03:40:11Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2002-07-27T03:40:11Z)
+- Catheter ablation of tissue of heart (Date: 2002-07-27T03:40:11Z)
+
+== Recent Encounters (Last 5) ==
+- 2002-08-03T03:40:11Z: Death Certification
+- 2002-07-27T03:40:11Z: Cardiac Arrest
+- 2002-07-02T18:04:19Z: Patient encounter procedure
+- 2002-06-28T13:04:19Z: Consultation for treatment
+- 2002-02-02T03:40:11Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2002-08-03T03:40:11Z Cause of Death [US Standard Certificate of Death]: Cardiac Arrest nan
+- 2002-02-02T06:36:47Z Total score [AUDIT-C]: 0.0 {score}
+- 2002-02-02T05:57:17Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2002-02-02T05:20:03Z Total score [HARK]: 0.0 {score}
+- 2002-02-02T04:35:22Z What is your current work situation?: Full-time work nan
+- 2002-02-02T04:35:22Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2002-02-02T04:35:22Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2002-02-02T04:35:22Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2002-02-02T04:35:22Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: I choose not to answer this question nan
+- 2002-02-02T04:35:22Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

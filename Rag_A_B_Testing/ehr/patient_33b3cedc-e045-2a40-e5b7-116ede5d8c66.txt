@@ -1,0 +1,136 @@
+== PATIENT RECORD: Sharlene906 D'Amore443 (ID: 33b3cedc-e045-2a40-e5b7-116ede5d8c66) ==
+
+== Demographics ==
+Patient ID: 33b3cedc-e045-2a40-e5b7-116ede5d8c66
+Name: Sharlene906 D'Amore443
+Gender: F
+Birthdate: 1944-02-16
+Address: 963 Wilderman Brook Unit 46
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Prediabetes
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Concussion with no loss of consciousness
+- Viral sinusitis (disorder)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Hyperlipidemia
+- Reports of violence in the environment (finding)
+- Polyp of colon
+- Recurrent rectal polyp
+- Malignant tumor of colon
+
+== Current Medications ==
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2010-05-19T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2010-05-19T20:35:44Z)
+- Depression screening (procedure) (Date: 2010-05-19T20:54:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-05-19T21:08:43Z)
+- Assessment of substance use (procedure) (Date: 2010-05-19T21:33:54Z)
+- Screening for drug abuse (procedure) (Date: 2010-05-19T21:44:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-05-25T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2011-05-25T20:59:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-05-25T21:17:16Z)
+- Screening for domestic abuse (procedure) (Date: 2011-05-25T21:43:59Z)
+- Depression screening (procedure) (Date: 2011-05-25T22:16:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-05-25T22:26:52Z)
+- Assessment of substance use (procedure) (Date: 2011-05-25T22:51:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-05-25T23:02:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-05-30T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-30T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-05-30T20:41:54Z)
+- Depression screening (procedure) (Date: 2012-05-30T21:07:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-30T21:17:33Z)
+- Assessment of substance use (procedure) (Date: 2012-05-30T21:43:03Z)
+- Screening for drug abuse (procedure) (Date: 2012-05-30T21:57:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-05T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-05T21:02:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-06-05T21:21:04Z)
+- Screening for domestic abuse (procedure) (Date: 2013-06-05T21:47:34Z)
+- Depression screening (procedure) (Date: 2013-06-05T22:24:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-05T22:35:17Z)
+- Assessment of substance use (procedure) (Date: 2013-06-05T22:55:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-06-05T23:10:00Z)
+- Colonoscopy (Date: 2014-02-15T22:31:11Z)
+- Screening for occult blood in feces (procedure) (Date: 2014-02-15T23:12:28Z)
+- Rectal polypectomy (Date: 2014-02-15T23:12:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-11T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-11T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-06-11T20:56:01Z)
+- Depression screening (procedure) (Date: 2014-06-11T21:11:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-11T21:25:42Z)
+- Assessment of substance use (procedure) (Date: 2014-06-11T21:55:20Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-11T22:09:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-17T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-06-17T20:42:45Z)
+- Screening for domestic abuse (procedure) (Date: 2015-06-17T21:02:17Z)
+- Depression screening (procedure) (Date: 2015-06-17T21:34:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-17T21:47:18Z)
+- Colonoscopy (Date: 2015-08-04T23:12:28Z)
+- Rectal polypectomy (Date: 2015-08-04T23:41:54Z)
+- Partial resection of colon (Date: 2015-08-19T21:41:54Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-09-08T21:41:54Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-10-08T23:41:54Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-11-08T09:41:54Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-12-09T11:41:54Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2016-01-07T18:41:54Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2016-02-10T14:41:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-22T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-22T20:36:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-06-22T21:02:37Z)
+- Depression screening (procedure) (Date: 2016-06-22T21:24:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-22T21:35:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-28T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-28T20:44:29Z)
+- Depression screening (procedure) (Date: 2017-06-28T21:13:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-28T21:24:46Z)
+- Assessment of substance use (procedure) (Date: 2017-06-28T21:53:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-28T22:06:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-04T20:03:35Z)
+- Assessment of substance use (procedure) (Date: 2018-07-04T20:50:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-07-04T21:03:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-10T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-10T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-10T20:41:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-10T20:56:41Z)
+- Screening for domestic abuse (procedure) (Date: 2019-07-10T21:24:48Z)
+- Depression screening (procedure) (Date: 2019-07-10T21:55:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-10T22:07:54Z)
+- Assessment of substance use (procedure) (Date: 2019-07-10T22:30:23Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-10T22:44:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2019-10-16T20:03:35Z: Death Certification
+- 2019-07-10T20:03:35Z: General examination of patient (procedure)
+- 2019-06-19T20:03:35Z: Follow-up encounter
+- 2018-07-04T20:03:35Z: General examination of patient (procedure)
+- 2018-06-19T20:03:35Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2019-10-16T20:03:35Z Cause of Death [US Standard Certificate of Death]: Malignant tumor of colon nan
+- 2019-07-10T23:13:42Z Total score [DAST-10]: 2.0 {score}
+- 2019-07-10T22:30:23Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2019-07-10T21:55:30Z Total score [HARK]: 0.0 {score}
+- 2019-07-10T21:24:48Z Fall risk total [Morse Fall Scale]: 42.0 {#}
+- 2019-07-10T21:24:48Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2019-07-10T20:56:41Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2019-07-10T20:41:17Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2019-07-10T20:41:17Z What language are you most comfortable speaking?: English nan
+- 2019-07-10T20:41:17Z What is your housing situation today?: I have housing nan

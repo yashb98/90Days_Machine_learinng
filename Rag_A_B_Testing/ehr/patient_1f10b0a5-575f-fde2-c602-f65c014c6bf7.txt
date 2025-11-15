@@ -1,0 +1,104 @@
+== PATIENT RECORD: Monroe732 Streich926 (ID: 1f10b0a5-575f-fde2-c602-f65c014c6bf7) ==
+
+== Demographics ==
+Patient ID: 1f10b0a5-575f-fde2-c602-f65c014c6bf7
+Name: Monroe732 Streich926
+Gender: M
+Birthdate: 1971-11-13
+Address: 695 Breitenberg Orchard
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Hyperlipidemia
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Whiplash injury to neck
+- Concussion with loss of consciousness
+- Social isolation (finding)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- clonazePAM 0.25 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-11-23T13:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-23T14:02:26Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-23T14:27:25Z)
+- Measurement of respiratory function (procedure) (Date: 2014-11-15T06:30:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-22T13:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-22T13:30:24Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-22T14:19:05Z)
+- Depression screening (procedure) (Date: 2014-11-22T14:58:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-22T15:08:46Z)
+- Assessment of substance use (procedure) (Date: 2014-11-22T15:33:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-22T15:45:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-02T13:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-02T14:17:38Z)
+- Screening for domestic abuse (procedure) (Date: 2015-05-02T14:37:21Z)
+- Depression screening (procedure) (Date: 2015-05-02T15:20:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-02T15:34:02Z)
+- Assessment of substance use (procedure) (Date: 2015-05-02T15:55:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-05-02T16:10:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-28T13:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-28T13:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-28T14:29:51Z)
+- Depression screening (procedure) (Date: 2015-11-28T14:46:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-28T14:58:56Z)
+- Assessment of substance use (procedure) (Date: 2015-11-28T15:27:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-28T15:39:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-02T13:30:24Z)
+- Depression screening (procedure) (Date: 2017-12-02T14:05:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-02T14:17:31Z)
+- Sputum examination (procedure) (Date: 2019-03-14T05:30:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-07T13:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-07T13:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-07T14:26:13Z)
+- Depression screening (procedure) (Date: 2019-12-07T14:45:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-07T14:56:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-12-07T15:16:35Z)
+- Assessment of substance use (procedure) (Date: 2019-12-07T15:42:24Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-07T15:56:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-14T13:30:24Z)
+- Depression screening (procedure) (Date: 2020-11-14T14:12:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-14T14:24:21Z)
+- Assessment of substance use (procedure) (Date: 2020-11-14T14:49:25Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-14T15:01:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-13T13:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-13T13:30:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T13:30:24Z: General examination of patient (procedure)
+- 2021-05-29T13:30:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-08T13:30:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-12T13:30:24Z: Follow-up encounter
+- 2020-11-14T13:30:24Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-13T13:30:24Z QOLS: 0.4 {score}
+- 2021-11-13T13:30:24Z Tobacco smoking status NHIS: Former smoker nan
+- 2021-11-13T13:30:24Z Body Height: 174.1 cm
+- 2021-11-13T13:30:24Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-11-13T13:30:24Z Body Weight: 91.4 kg
+- 2021-11-13T13:30:24Z Body Mass Index: 30.2 kg/m2
+- 2021-11-13T13:30:24Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-11-13T13:30:24Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-11-13T13:30:24Z Heart rate: 62.0 /min
+- 2021-11-13T13:30:24Z Respiratory rate: 13.0 /min

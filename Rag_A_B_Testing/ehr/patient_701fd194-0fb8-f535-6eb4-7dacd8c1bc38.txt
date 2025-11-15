@@ -1,0 +1,131 @@
+== PATIENT RECORD: Charla27 Runolfsdottir785 (ID: 701fd194-0fb8-f535-6eb4-7dacd8c1bc38) ==
+
+== Demographics ==
+Patient ID: 701fd194-0fb8-f535-6eb4-7dacd8c1bc38
+Name: Charla27 Runolfsdottir785
+Gender: F
+Birthdate: 1956-04-04
+Address: 899 Daniel Arcade Suite 26
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Miscarriage in first trimester
+- Impacted molars
+- Osteoarthritis of hip
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Reports of violence in the environment (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-09T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2012-05-09T21:42:16Z)
+- Screening for domestic abuse (procedure) (Date: 2012-05-09T22:10:19Z)
+- Depression screening (procedure) (Date: 2012-05-09T22:48:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-09T23:01:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-15T21:05:24Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-15T22:04:24Z)
+- Depression screening (procedure) (Date: 2013-05-15T22:38:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-15T22:49:37Z)
+- Assessment of substance use (procedure) (Date: 2013-05-15T23:16:38Z)
+- Screening for drug abuse (procedure) (Date: 2013-05-15T23:28:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-21T21:05:24Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-21T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-21T21:53:29Z)
+- Depression screening (procedure) (Date: 2014-05-21T22:17:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-21T22:29:22Z)
+- Assessment of substance use (procedure) (Date: 2014-05-21T22:55:18Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-21T23:06:20Z)
+- Measurement of respiratory function (procedure) (Date: 2014-06-29T11:18:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-09T21:05:24Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-09T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-09T22:00:23Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-09T22:29:25Z)
+- Depression screening (procedure) (Date: 2014-07-09T22:58:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-09T23:13:01Z)
+- Assessment of substance use (procedure) (Date: 2014-07-09T23:42:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-07-09T23:52:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-27T21:05:24Z)
+- Depression screening (procedure) (Date: 2015-05-27T21:35:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-27T21:50:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-01T21:05:24Z)
+- Assessment of substance use (procedure) (Date: 2016-06-01T21:54:06Z)
+- Screening for drug abuse (procedure) (Date: 2016-06-01T22:05:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-07T21:05:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-07T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-07T21:47:43Z)
+- Depression screening (procedure) (Date: 2017-06-07T22:09:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-07T22:23:19Z)
+- Assessment of substance use (procedure) (Date: 2017-06-07T22:44:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-07T22:55:56Z)
+- Measurement of respiratory function (procedure) (Date: 2017-08-16T11:05:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-23T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-23T21:41:36Z)
+- Depression screening (procedure) (Date: 2017-08-23T22:08:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-23T22:18:11Z)
+- Assessment of substance use (procedure) (Date: 2017-08-23T22:45:38Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-23T22:58:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-13T21:05:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-13T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-13T21:46:51Z)
+- Depression screening (procedure) (Date: 2018-06-13T22:05:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-13T22:15:12Z)
+- Assessment of substance use (procedure) (Date: 2018-06-13T22:38:38Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-13T22:51:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-19T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-19T21:53:40Z)
+- Screening for domestic abuse (procedure) (Date: 2019-06-19T22:17:35Z)
+- Depression screening (procedure) (Date: 2019-06-19T22:53:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-19T23:06:54Z)
+- Assessment of substance use (procedure) (Date: 2019-06-19T23:29:08Z)
+- Screening for drug abuse (procedure) (Date: 2019-06-19T23:43:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-24T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-24T21:42:36Z)
+- Assessment of substance use (procedure) (Date: 2020-06-24T22:05:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-24T22:19:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-30T21:05:24Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-30T22:05:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-06-30T22:28:36Z)
+- Depression screening (procedure) (Date: 2021-06-30T22:48:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-30T23:01:34Z)
+- Assessment of substance use (procedure) (Date: 2021-06-30T23:25:46Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-30T23:37:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-30T21:05:24Z: General examination of patient (procedure)
+- 2020-06-24T21:05:24Z: General examination of patient (procedure)
+- 2019-06-19T21:05:24Z: General examination of patient (procedure)
+- 2018-09-16T22:05:24Z: Encounter for symptom
+- 2018-06-13T21:05:24Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-30T23:59:12Z Total score [DAST-10]: 2.0 {score}
+- 2021-06-30T23:25:46Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-30T22:48:01Z Fall risk total [Morse Fall Scale]: 16.0 {#}
+- 2021-06-30T22:48:01Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-06-30T22:28:36Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-06-30T22:05:17Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-06-30T22:05:17Z What is your current work situation?: Full-time work nan
+- 2021-06-30T22:05:17Z Are you worried about losing your housing?: No nan
+- 2021-06-30T22:05:17Z What address do you live at?: 899 Daniel Arcade Suite 26 nan
+- 2021-06-30T22:05:17Z What is the highest level of school that you have finished?: High school diploma or GED nan

@@ -1,0 +1,149 @@
+== PATIENT RECORD: Lizette501 Nikolaus26 (ID: aa01ba4c-e0ac-805a-f1cb-9b38dc431f4f) ==
+
+== Demographics ==
+Patient ID: aa01ba4c-e0ac-805a-f1cb-9b38dc431f4f
+Name: Lizette501 Nikolaus26
+Gender: F
+Birthdate: 1963-07-26
+Address: 407 Bins Alley
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Diabetes
+- Hypertriglyceridemia (disorder)
+- Miscarriage in first trimester
+- Metabolic syndrome X (disorder)
+- Limited social contact (finding)
+- Hyperglycemia (disorder)
+- Hyperlipidemia
+- Part-time employment (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Normal pregnancy
+- Blighted ovum
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+- Misuses drugs (finding)
+- Has a criminal record (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-22T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-22T00:41:28Z)
+- Screening for domestic abuse (procedure) (Date: 2012-09-22T01:06:02Z)
+- Depression screening (procedure) (Date: 2012-09-22T01:36:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-22T01:46:53Z)
+- Assessment of substance use (procedure) (Date: 2012-09-22T02:07:58Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-22T02:21:34Z)
+- Removal of subcutaneous contraceptive (Date: 2012-12-15T00:09:05Z)
+- Standard pregnancy test (Date: 2013-02-09T00:09:05Z)
+- Ultrasound scan for fetal viability (Date: 2013-02-09T00:09:05Z)
+- Physical examination (Date: 2013-02-17T00:09:05Z)
+- Depression screening (Date: 2013-02-17T00:09:05Z)
+- Measurement of respiratory function (procedure) (Date: 2013-07-06T22:09:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-13T00:09:05Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-13T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-13T00:58:50Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-13T01:19:41Z)
+- Depression screening (procedure) (Date: 2013-07-13T02:03:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-13T02:18:15Z)
+- Assessment of substance use (procedure) (Date: 2013-07-13T02:38:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-13T02:49:01Z)
+- Colonoscopy (Date: 2013-07-27T00:09:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-28T00:09:05Z)
+- Screening for domestic abuse (procedure) (Date: 2013-09-28T00:43:43Z)
+- Depression screening (procedure) (Date: 2013-09-28T01:20:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-28T01:34:27Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-06T00:09:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T01:06:27Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T01:53:06Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T02:52:43Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T03:42:44Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T04:28:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T05:19:26Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T06:12:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T07:07:47Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T08:01:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-04T00:09:05Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-04T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-04T01:01:03Z)
+- Depression screening (procedure) (Date: 2014-10-04T01:29:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-04T01:41:32Z)
+- Assessment of substance use (procedure) (Date: 2014-10-04T02:06:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-04T02:19:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-10T00:09:05Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-10T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-10T01:05:13Z)
+- Screening for domestic abuse (procedure) (Date: 2015-10-10T01:32:14Z)
+- Depression screening (procedure) (Date: 2015-10-10T02:05:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-10T02:18:27Z)
+- Assessment of substance use (procedure) (Date: 2015-10-10T02:41:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-10T02:53:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-15T00:09:05Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-15T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-15T00:53:43Z)
+- Depression screening (procedure) (Date: 2016-10-15T01:23:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-15T01:37:30Z)
+- Assessment of substance use (procedure) (Date: 2016-10-15T01:58:49Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-15T02:09:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-21T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-21T00:49:07Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-21T01:14:59Z)
+- Depression screening (procedure) (Date: 2017-10-21T01:47:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-21T02:01:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-21T02:29:25Z)
+- Assessment of substance use (procedure) (Date: 2017-10-21T02:52:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-21T03:05:04Z)
+- Colonoscopy (Date: 2018-07-27T00:38:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-27T00:09:05Z)
+- Depression screening (procedure) (Date: 2018-10-27T01:05:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-27T01:19:32Z)
+- Assessment of substance use (procedure) (Date: 2018-10-27T01:42:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-27T01:53:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-02T00:09:05Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-02T00:56:09Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-02T01:11:58Z)
+- Assessment of substance use (procedure) (Date: 2019-11-02T01:42:48Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-02T01:57:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-07T00:09:05Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-07T00:09:05Z)
+- Depression screening (procedure) (Date: 2020-11-07T01:05:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-07T01:19:32Z)
+- Assessment of substance use (procedure) (Date: 2020-11-07T01:43:29Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-07T01:57:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-13T00:09:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T00:09:05Z: General examination of patient (procedure)
+- 2021-10-18T03:09:05Z: Encounter for symptom
+- 2021-10-01T00:09:05Z: Follow-up encounter
+- 2021-04-10T00:09:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-20T00:09:05Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-13T00:09:05Z Triglycerides: 125.3 mg/dL
+- 2021-11-13T00:09:05Z Urea Nitrogen: 19.4 mg/dL
+- 2021-11-13T00:09:05Z Chloride: 105.2 mmol/L
+- 2021-11-13T00:09:05Z Carbon Dioxide: 23.4 mmol/L
+- 2021-11-13T00:09:05Z Total Cholesterol: 188.8 mg/dL
+- 2021-11-13T00:09:05Z Calcium: 9.9 mg/dL
+- 2021-11-13T00:09:05Z Low Density Lipoprotein Cholesterol: 85.1 mg/dL
+- 2021-11-13T00:09:05Z High Density Lipoprotein Cholesterol: 78.6 mg/dL
+- 2021-11-13T00:09:05Z Microalbumin Creatinine Ratio: 9.5 mg/g
+- 2021-11-13T00:09:05Z Estimated Glomerular Filtration Rate: 109.7 mL/min/{1.73_m2}

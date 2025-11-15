@@ -1,0 +1,117 @@
+== PATIENT RECORD: Georgiann138 Heaney114 (ID: 51c7ff6a-33e3-3e1b-d3ad-0035c8227dfa) ==
+
+== Demographics ==
+Patient ID: 51c7ff6a-33e3-3e1b-d3ad-0035c8227dfa
+Name: Georgiann138 Heaney114
+Gender: F
+Birthdate: 2002-04-11
+Address: 967 Hintz Drive
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Whiplash injury to neck
+- Risk activity involvement (finding)
+- Streptococcal sore throat (disorder)
+- Fracture of rib
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Hypertension
+- Received higher education (finding)
+- Unemployed (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Natazia 28 Day Pack
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-20T00:35:38Z)
+- Depression screening (procedure) (Date: 2014-05-02T00:35:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-02T00:35:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-02T00:46:54Z)
+- Assessment of substance use (procedure) (Date: 2014-05-02T01:07:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-02T01:19:40Z)
+- Health risks education (procedure) (Date: 2014-05-02T01:39:46Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-08T00:35:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-08T00:35:38Z)
+- Assessment of substance use (procedure) (Date: 2015-05-08T01:02:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-08T01:15:56Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-08T01:33:46Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-19T00:35:38Z)
+- Depression screening (procedure) (Date: 2017-05-19T00:57:08Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-19T01:08:30Z)
+- Assessment of substance use (procedure) (Date: 2017-05-19T01:31:10Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-05-19T01:42:58Z)
+- Health risks education (procedure) (Date: 2017-05-19T01:54:00Z)
+- Assessment of substance use (procedure) (Date: 2018-05-25T00:35:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-25T00:35:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-25T00:49:42Z)
+- Health risks education (procedure) (Date: 2018-05-25T01:13:16Z)
+- Chest X-ray (Date: 2018-06-29T00:35:38Z)
+- Bone immobilization (Date: 2018-06-29T00:35:38Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-20T00:35:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-20T00:35:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-07-20T00:57:33Z)
+- Depression screening (procedure) (Date: 2018-07-20T01:26:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-07-20T01:40:18Z)
+- Assessment of substance use (procedure) (Date: 2018-07-20T02:06:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-07-20T02:20:15Z)
+- Anticipatory guidance (procedure) (Date: 2018-07-20T02:40:20Z)
+- Assessment of substance use (procedure) (Date: 2019-05-31T00:35:38Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-31T00:35:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-05-31T00:47:55Z)
+- Anticipatory guidance (procedure) (Date: 2019-05-31T01:16:36Z)
+- Movement therapy (regime/therapy) (Date: 2020-05-20T00:35:38Z)
+- Movement therapy (regime/therapy) (Date: 2020-05-23T01:34:16Z)
+- Movement therapy (regime/therapy) (Date: 2020-05-26T02:24:43Z)
+- Movement therapy (regime/therapy) (Date: 2020-05-29T03:24:10Z)
+- Movement therapy (regime/therapy) (Date: 2020-06-01T04:19:58Z)
+- Movement therapy (regime/therapy) (Date: 2020-06-04T05:09:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-05T00:35:38Z)
+- Movement therapy (regime/therapy) (Date: 2020-06-07T06:02:48Z)
+- Movement therapy (regime/therapy) (Date: 2020-06-10T07:00:08Z)
+- Depression screening (procedure) (Date: 2020-06-05T01:14:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-05T01:26:49Z)
+- Assessment of substance use (procedure) (Date: 2020-06-05T01:55:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-05T02:07:09Z)
+- Movement therapy (regime/therapy) (Date: 2020-06-13T07:51:21Z)
+- Movement therapy (regime/therapy) (Date: 2020-06-16T08:44:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-11T00:35:38Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-11T01:24:01Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-11T01:53:02Z)
+- Depression screening (procedure) (Date: 2021-06-11T02:30:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-11T02:45:10Z)
+- Assessment of substance use (procedure) (Date: 2021-06-11T03:08:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-11T03:22:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-11T00:35:38Z: General examination of patient (procedure)
+- 2021-03-19T00:35:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-02T00:35:38Z: Hypertension follow-up encounter
+- 2020-09-03T00:35:38Z: Hypertension follow-up encounter
+- 2020-07-05T00:35:38Z: Hypertension follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-06-11T03:47:06Z Total score [AUDIT-C]: 12.0 {score}
+- 2021-06-11T03:08:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-11T02:30:25Z Total score [HARK]: 0.0 {score}
+- 2021-06-11T01:53:02Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-06-11T01:24:01Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-11T01:24:01Z What address do you live at?: 967 Hintz Drive nan
+- 2021-06-11T01:24:01Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-06-11T01:24:01Z Do you feel physically and emotionally safe where you currently live?: No nan
+- 2021-06-11T01:24:01Z Are you a refugee?: No nan
+- 2021-06-11T01:24:01Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

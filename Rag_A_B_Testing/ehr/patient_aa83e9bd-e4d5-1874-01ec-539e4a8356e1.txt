@@ -1,0 +1,55 @@
+== PATIENT RECORD: Mitch821 Stark857 (ID: aa83e9bd-e4d5-1874-01ec-539e4a8356e1) ==
+
+== Demographics ==
+Patient ID: aa83e9bd-e4d5-1874-01ec-539e4a8356e1
+Name: Mitch821 Stark857
+Gender: M
+Birthdate: 2016-08-08
+Address: 785 Jaskolski Manor Apt 5
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Laceration of foot
+- Otitis media
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2016-09-12T08:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-17T08:05:29Z)
+- Suture open wound (Date: 2017-06-11T08:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-15T08:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-14T08:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-15T08:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-13T08:05:29Z)
+- Throat culture (procedure) (Date: 2020-03-07T00:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-19T08:05:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-19T08:05:29Z: Well child visit (procedure)
+- 2020-07-13T08:05:29Z: Well child visit (procedure)
+- 2020-03-07T00:05:29Z: Encounter for symptom
+- 2020-01-13T08:05:29Z: Well child visit (procedure)
+- 2019-07-15T08:05:29Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-08T08:05:29Z QOLS: 1.0 {score}
+- 2021-08-08T08:05:29Z DALY: 0.0 a
+- 2021-08-08T08:05:29Z QALY: 4.0 a
+- 2021-07-19T08:05:29Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-19T08:05:29Z Body Height: 101.8 cm
+- 2021-07-19T08:05:29Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-07-19T08:05:29Z Body Weight: 17.2 kg
+- 2021-07-19T08:05:29Z Body mass index (BMI) [Percentile] Per age and gender: 81.5 %
+- 2021-07-19T08:05:29Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-07-19T08:05:29Z Systolic Blood Pressure: 117.0 mm[Hg]

@@ -1,0 +1,131 @@
+== PATIENT RECORD: Porfirio146 Ledner144 (ID: 8003a644-3445-56b0-017a-4480f0d6b348) ==
+
+== Demographics ==
+Patient ID: 8003a644-3445-56b0-017a-4480f0d6b348
+Name: Porfirio146 Ledner144
+Gender: M
+Birthdate: 1979-06-10
+Address: 1065 Labadie Trafficway Unit 48
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-28T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-28T13:16:42Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-28T14:00:07Z)
+- Depression screening (procedure) (Date: 2012-10-28T14:42:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-28T14:56:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-03T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-03T13:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-03T14:04:32Z)
+- Assessment of substance use (procedure) (Date: 2013-11-03T14:25:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-11-03T14:37:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-08T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-08T13:16:42Z)
+- Depression screening (procedure) (Date: 2013-12-08T13:53:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-08T14:05:45Z)
+- Assessment of substance use (procedure) (Date: 2013-12-08T14:30:42Z)
+- Screening for drug abuse (procedure) (Date: 2013-12-08T14:41:21Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-07T13:16:42Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-10T13:53:09Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-13T14:49:55Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T15:38:07Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T16:10:48Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T16:57:22Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T17:29:59Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-28T18:05:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-13T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-13T13:16:42Z)
+- Depression screening (procedure) (Date: 2014-04-13T13:56:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-13T14:09:51Z)
+- Assessment of substance use (procedure) (Date: 2014-04-13T14:34:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-13T14:48:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-04T13:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-04T14:02:00Z)
+- Screening for domestic abuse (procedure) (Date: 2014-05-04T14:20:09Z)
+- Depression screening (procedure) (Date: 2014-05-04T14:55:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-04T15:06:42Z)
+- Assessment of substance use (procedure) (Date: 2014-05-04T15:31:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-05-04T15:46:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-01T13:16:42Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-01T14:01:49Z)
+- Depression screening (procedure) (Date: 2014-06-01T14:42:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-01T14:54:18Z)
+- Assessment of substance use (procedure) (Date: 2014-06-01T15:16:36Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-01T15:31:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-09T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-09T13:16:42Z)
+- Depression screening (procedure) (Date: 2014-11-09T13:55:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-09T14:08:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-15T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-15T13:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-15T13:59:27Z)
+- Screening for domestic abuse (procedure) (Date: 2015-11-15T14:25:03Z)
+- Depression screening (procedure) (Date: 2015-11-15T15:08:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-15T15:18:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-20T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-20T13:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-20T13:53:26Z)
+- Depression screening (procedure) (Date: 2016-11-20T14:16:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-20T14:29:19Z)
+- Assessment of substance use (procedure) (Date: 2016-11-20T14:52:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-20T15:03:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-26T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-26T13:16:42Z)
+- Depression screening (procedure) (Date: 2017-11-26T14:04:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-26T14:16:22Z)
+- Throat culture (procedure) (Date: 2018-07-30T04:16:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-02T13:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-02T13:57:17Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-02T14:21:44Z)
+- Assessment of substance use (procedure) (Date: 2018-12-02T15:02:43Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-02T15:13:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-08T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-08T13:16:42Z)
+- Depression screening (procedure) (Date: 2019-12-08T14:05:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-08T14:18:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-13T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-13T13:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-13T14:12:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-25T13:16:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-28T13:16:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-13T13:16:42Z: General examination of patient (procedure)
+- 2020-12-03T13:16:42Z: Encounter for symptom
+- 2019-12-08T13:16:42Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-10T13:16:42Z QOLS: 1.0 {score}
+- 2021-06-10T13:16:42Z DALY: 0.1 a
+- 2021-06-10T13:16:42Z QALY: 40.9 a
+- 2020-12-13T14:34:40Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 9.0 {score}
+- 2020-12-13T14:12:55Z What is your main insurance?: Private insurance nan
+- 2020-12-13T14:12:55Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2020-12-13T14:12:55Z What is your housing situation today?: I have housing nan
+- 2020-12-13T14:12:55Z Are you worried about losing your housing?: No nan
+- 2020-12-13T14:12:55Z What address do you live at?: 1065 Labadie Trafficway Unit 48 nan
+- 2020-12-13T14:12:55Z What is the highest level of school that you have finished?: Less than high school degree nan

@@ -1,0 +1,50 @@
+== PATIENT RECORD: Reynaldo722 Koch169 (ID: be11f8fe-52e4-7748-8835-1f2435aeb7db) ==
+
+== Demographics ==
+Patient ID: be11f8fe-52e4-7748-8835-1f2435aeb7db
+Name: Reynaldo722 Koch169
+Gender: M
+Birthdate: 2020-04-28
+Address: 1000 Kovacek Heights Apt 27
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Headache (finding)
+- Sore throat symptom (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-06-02T17:06:48Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-06T17:06:48Z)
+- Face mask (physical object) (Date: 2020-12-28T17:06:48Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-06T17:06:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-05T17:06:48Z: Well child visit (procedure)
+- 2021-07-06T17:06:48Z: Well child visit (procedure)
+- 2021-04-06T17:06:48Z: Well child visit (procedure)
+- 2021-01-05T17:06:48Z: Well child visit (procedure)
+- 2020-12-28T17:06:48Z: Encounter for symptom (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-05T17:06:48Z Weight-for-length Per age and sex: 65.7 %
+- 2021-10-05T17:06:48Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-05T17:06:48Z Respiratory rate: 15.0 /min
+- 2021-10-05T17:06:48Z Heart rate: 71.0 /min
+- 2021-10-05T17:06:48Z Systolic Blood Pressure: 117.0 mm[Hg]
+- 2021-10-05T17:06:48Z Diastolic Blood Pressure: 70.0 mm[Hg]
+- 2021-10-05T17:06:48Z Head Occipital-frontal circumference: 47.8 cm
+- 2021-10-05T17:06:48Z Body Weight: 11.7 kg
+- 2021-10-05T17:06:48Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-10-05T17:06:48Z Body Height: 81.7 cm

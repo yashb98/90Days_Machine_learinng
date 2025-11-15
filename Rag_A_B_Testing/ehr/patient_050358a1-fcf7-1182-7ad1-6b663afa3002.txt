@@ -1,0 +1,132 @@
+== PATIENT RECORD: Eugene421 Heller342 (ID: 050358a1-fcf7-1182-7ad1-6b663afa3002) ==
+
+== Demographics ==
+Patient ID: 050358a1-fcf7-1182-7ad1-6b663afa3002
+Name: Eugene421 Heller342
+Gender: M
+Birthdate: 2005-12-13
+Address: 598 Conroy Branch
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Whiplash injury to neck
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Child attention deficit disorder
+- Body mass index 30+ - obesity (finding)
+- Cough (finding)
+- Sore throat symptom (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute respiratory failure (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 500 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-01-13T18:27:47Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-04T11:27:47Z)
+- Measurement of respiratory function (procedure) (Date: 2016-12-18T01:27:47Z)
+- Cognitive and behavioral therapy (Date: 2017-11-14T11:27:47Z)
+- Cognitive and behavioral therapy (Date: 2017-12-24T12:27:47Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-02T11:27:47Z)
+- Depression screening (procedure) (Date: 2018-01-02T11:53:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-01-02T12:04:49Z)
+- Assessment of substance use (procedure) (Date: 2018-01-02T12:34:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-01-02T12:46:26Z)
+- Anticipatory guidance (procedure) (Date: 2018-01-02T13:02:08Z)
+- Cognitive and behavioral therapy (Date: 2018-01-30T13:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-03-09T14:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-04-12T15:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-05-13T16:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-06-19T17:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-07-19T18:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-08-26T19:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-09-26T20:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-10-29T21:27:47Z)
+- Cognitive and behavioral therapy (Date: 2018-12-06T22:27:47Z)
+- Depression screening (procedure) (Date: 2019-01-08T11:27:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-08T11:27:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-08T11:41:53Z)
+- Assessment of substance use (procedure) (Date: 2019-01-08T12:07:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-01-08T12:21:21Z)
+- Anticipatory guidance (procedure) (Date: 2019-01-08T12:33:24Z)
+- Cognitive and behavioral therapy (Date: 2019-01-16T23:27:47Z)
+- Cognitive and behavioral therapy (Date: 2019-02-26T00:27:47Z)
+- Cognitive and behavioral therapy (Date: 2019-03-28T01:27:47Z)
+- Cognitive and behavioral therapy (Date: 2019-05-02T02:27:47Z)
+- Cognitive and behavioral therapy (Date: 2019-06-12T03:27:47Z)
+- Cognitive and behavioral therapy (Date: 2019-07-11T04:27:47Z)
+- Cognitive and behavioral therapy (Date: 2019-08-09T05:27:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-14T11:27:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-14T11:27:47Z)
+- Depression screening (procedure) (Date: 2020-01-14T11:52:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-01-14T12:07:44Z)
+- Assessment of substance use (procedure) (Date: 2020-01-14T12:31:32Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-01-14T12:44:55Z)
+- Anticipatory guidance (procedure) (Date: 2020-01-14T13:07:40Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-19T11:27:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-19T11:27:47Z)
+- Depression screening (procedure) (Date: 2021-01-19T11:54:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-01-19T12:05:02Z)
+- Face mask (physical object) (Date: 2021-08-11T11:27:47Z)
+- Plain chest X-ray (procedure) (Date: 2021-08-11T13:06:16Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-11T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-11T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-12T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-12T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-13T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-13T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-14T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-14T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-15T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-15T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-16T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-16T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-17T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-17T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-18T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-18T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-19T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-19T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-20T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-20T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-21T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-21T13:49:30Z)
+- Oxygen administration by mask (procedure) (Date: 2021-08-22T13:49:30Z)
+- Placing subject in prone position (procedure) (Date: 2021-08-22T13:49:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-11T13:06:16Z: Hospital admission for isolation (procedure)
+- 2021-08-11T11:27:47Z: Encounter for symptom (procedure)
+- 2021-01-19T11:27:47Z: Well child visit (procedure)
+- 2020-01-14T11:27:47Z: Well child visit (procedure)
+- 2019-08-09T05:27:47Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-08-23T09:18:30Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Not detected (qualifier value) nan
+- 2021-08-23T09:18:30Z Body temperature: 36.3 Cel
+- 2021-08-22T13:49:30Z Erythrocyte distribution width [Ratio] by Automated count: 12.6 %
+- 2021-08-22T13:49:30Z MCV [Entitic volume] by Automated count: 94.9 fL
+- 2021-08-22T13:49:30Z Eosinophils [#/volume] in Blood by Automated count: 0.4 10*3/uL
+- 2021-08-22T13:49:30Z Monocytes [#/volume] in Blood by Automated count: 0.7 10*3/uL
+- 2021-08-22T13:49:30Z Neutrophils [#/volume] in Blood by Automated count: 2.4 10*3/uL
+- 2021-08-22T13:49:30Z Basophils/100 leukocytes in Blood by Automated count: 2.6 %
+- 2021-08-22T13:49:30Z Eosinophils/100 leukocytes in Blood by Automated count: 3.2 %
+- 2021-08-22T13:49:30Z Monocytes/100 leukocytes in Blood by Automated count: 11.3 %

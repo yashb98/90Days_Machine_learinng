@@ -1,0 +1,68 @@
+== PATIENT RECORD: Arnette709 Schamberger479 (ID: a4ce9a28-c676-33d4-1656-0cb7e4419883) ==
+
+== Demographics ==
+Patient ID: a4ce9a28-c676-33d4-1656-0cb7e4419883
+Name: Arnette709 Schamberger479
+Gender: F
+Birthdate: 2009-02-25
+Address: 183 Auer Trailer Unit 2
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Laceration of forearm
+- Viral sinusitis (disorder)
+- Atopic dermatitis
+- Streptococcal sore throat (disorder)
+- Sprain of ankle
+- Acute bronchitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-01T16:19:09Z)
+- Suture open wound (Date: 2012-04-30T16:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-05T16:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-04T16:19:09Z)
+- Throat culture (procedure) (Date: 2015-07-09T05:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-09T16:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-28T16:19:09Z)
+- Measurement of respiratory function (procedure) (Date: 2018-09-09T04:19:09Z)
+- Depression screening (procedure) (Date: 2021-03-17T16:19:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-17T16:29:18Z)
+- Assessment of substance use (procedure) (Date: 2021-03-17T16:50:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-03-17T17:00:51Z)
+- Health risks education (procedure) (Date: 2021-03-17T17:21:41Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-04T16:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-04T16:19:09Z)
+- Depression screening (procedure) (Date: 2021-08-04T16:34:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-04T16:49:01Z)
+- Assessment of substance use (procedure) (Date: 2021-08-04T17:12:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-08-04T17:24:11Z)
+- Anticipatory guidance (procedure) (Date: 2021-08-04T17:37:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-03T16:19:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-13T16:19:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-04T16:19:09Z: Encounter for check up (procedure)
+- 2021-08-03T18:19:09Z: Encounter for symptom
+- 2021-03-17T16:19:09Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-04T17:12:37Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-08-04T16:34:18Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-08-04T16:19:09Z Body mass index (BMI) [Percentile] Per age and gender: 44.9 %
+- 2021-08-04T16:19:09Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-08-04T16:19:09Z Body Mass Index: 18.0 kg/m2
+- 2021-08-04T16:19:09Z Body Height: 163.0 cm
+- 2021-08-04T16:19:09Z Diastolic Blood Pressure: 87.0 mm[Hg]
+- 2021-08-04T16:19:09Z Systolic Blood Pressure: 103.0 mm[Hg]
+- 2021-08-04T16:19:09Z Heart rate: 98.0 /min
+- 2021-08-04T16:19:09Z Respiratory rate: 15.0 /min

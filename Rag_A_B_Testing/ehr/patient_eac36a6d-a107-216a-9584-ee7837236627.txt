@@ -1,0 +1,53 @@
+== PATIENT RECORD: Gary33 Hoppe518 (ID: eac36a6d-a107-216a-9584-ee7837236627) ==
+
+== Demographics ==
+Patient ID: eac36a6d-a107-216a-9584-ee7837236627
+Name: Gary33 Hoppe518
+Gender: M
+Birthdate: 2019-01-24
+Address: 258 Huel Estate
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Cough (finding)
+- Sore throat symptom (finding)
+- Nausea (finding)
+- Vomiting symptom (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-03-01T00:36:02Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-03T00:36:02Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-03T00:36:02Z)
+- Face mask (physical object) (Date: 2021-01-26T00:36:02Z)
+- Throat culture (procedure) (Date: 2021-01-29T08:36:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-19T01:36:02Z: Encounter for symptom
+- 2021-07-02T00:36:02Z: Well child visit (procedure)
+- 2021-01-29T08:36:02Z: Encounter for symptom
+- 2021-01-26T00:36:02Z: Encounter for symptom (procedure)
+- 2021-01-01T00:36:02Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-02T00:36:02Z Weight-for-length Per age and sex: 87.5 %
+- 2021-07-02T00:36:02Z Heart rate: 99.0 /min
+- 2021-07-02T00:36:02Z Body Height: 97.8 cm
+- 2021-07-02T00:36:02Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-07-02T00:36:02Z Body Weight: 16.6 kg
+- 2021-07-02T00:36:02Z Head Occipital-frontal circumference: 52.0 cm
+- 2021-07-02T00:36:02Z Body Mass Index: 17.4 kg/m2
+- 2021-07-02T00:36:02Z Body mass index (BMI) [Percentile] Per age and gender: 78.7 %
+- 2021-07-02T00:36:02Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-07-02T00:36:02Z Systolic Blood Pressure: 121.0 mm[Hg]

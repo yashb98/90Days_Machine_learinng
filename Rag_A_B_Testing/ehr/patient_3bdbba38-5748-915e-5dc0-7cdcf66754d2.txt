@@ -1,0 +1,72 @@
+== PATIENT RECORD: Jackie93 Runolfsson901 (ID: 3bdbba38-5748-915e-5dc0-7cdcf66754d2) ==
+
+== Demographics ==
+Patient ID: 3bdbba38-5748-915e-5dc0-7cdcf66754d2
+Name: Jackie93 Runolfsson901
+Gender: M
+Birthdate: 2004-05-16
+Address: 545 Kovacek Track Unit 60
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2014-03-29T16:25:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-01T01:25:42Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-06T01:25:42Z)
+- Depression screening (procedure) (Date: 2016-06-06T01:49:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-06T02:02:00Z)
+- Assessment of substance use (procedure) (Date: 2016-06-06T02:22:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-06T02:33:41Z)
+- Anticipatory guidance (procedure) (Date: 2016-06-06T02:46:22Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-12T01:25:42Z)
+- Depression screening (procedure) (Date: 2017-06-12T01:53:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-12T02:06:53Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-18T01:25:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-18T01:25:42Z)
+- Depression screening (procedure) (Date: 2018-06-18T01:40:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-06-18T01:55:40Z)
+- Assessment of substance use (procedure) (Date: 2018-06-18T02:23:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-06-18T02:34:03Z)
+- Health risks education (procedure) (Date: 2018-06-18T02:51:13Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-24T01:25:42Z)
+- Depression screening (procedure) (Date: 2019-06-24T01:53:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-24T02:07:33Z)
+- Depression screening (procedure) (Date: 2020-06-29T01:25:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-29T01:40:28Z)
+- Assessment of substance use (procedure) (Date: 2020-06-29T02:04:32Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-06-29T02:18:38Z)
+- Anticipatory guidance (procedure) (Date: 2020-06-29T02:38:22Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-05T01:25:42Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-05T01:25:42Z)
+- Depression screening (procedure) (Date: 2021-07-05T01:41:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-07-05T01:55:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-08T01:25:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-18T01:25:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-05T01:25:42Z: Well child visit (procedure)
+- 2020-06-29T01:25:42Z: Well child visit (procedure)
+- 2019-10-25T00:25:42Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-05T02:18:06Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-07-05T01:41:51Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-07-05T01:25:42Z Heart rate: 79.0 /min
+- 2021-07-05T01:25:42Z Tobacco smoking status NHIS: Current every day smoker nan
+- 2021-07-05T01:25:42Z Body Height: 179.0 cm
+- 2021-07-05T01:25:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-05T01:25:42Z Body Weight: 80.9 kg
+- 2021-07-05T01:25:42Z Body Mass Index: 25.3 kg/m2
+- 2021-07-05T01:25:42Z Body mass index (BMI) [Percentile] Per age and gender: 86.2 %
+- 2021-07-05T01:25:42Z Diastolic Blood Pressure: 88.0 mm[Hg]

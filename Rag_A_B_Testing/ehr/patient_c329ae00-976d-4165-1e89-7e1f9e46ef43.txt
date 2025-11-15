@@ -1,0 +1,57 @@
+== PATIENT RECORD: Morris740 Ruecker817 (ID: c329ae00-976d-4165-1e89-7e1f9e46ef43) ==
+
+== Demographics ==
+Patient ID: c329ae00-976d-4165-1e89-7e1f9e46ef43
+Name: Morris740 Ruecker817
+Gender: M
+Birthdate: 1981-12-23
+Address: 490 Lang Gateway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Coronary Heart Disease
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Cefaclor 250 MG Oral Capsule
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Asthma screening (Date: 1984-06-10T15:32:53Z)
+- Medication Reconciliation (procedure) (Date: 1989-12-20T15:32:53Z)
+- Medication Reconciliation (procedure) (Date: 1990-01-17T15:32:53Z)
+- Echocardiography (procedure) (Date: 1993-12-15T15:32:53Z)
+- Percutaneous coronary intervention (Date: 1993-12-15T15:32:53Z)
+- Coronary artery bypass grafting (Date: 1993-12-15T15:32:53Z)
+
+== Recent Encounters (Last 5) ==
+- 1993-12-22T15:32:53Z: Death Certification
+- 1993-12-15T15:32:53Z: Myocardial Infarction
+- 1993-04-28T10:32:53Z: Asthma follow-up
+- 1993-01-06T15:32:53Z: Well child visit (procedure)
+- 1992-05-03T10:32:53Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 1993-12-22T15:32:53Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1993-01-06T15:32:53Z Erythrocytes [#/volume] in Blood by Automated count: 5.5 10*6/uL
+- 1993-01-06T15:32:53Z Body Height: 136.8 cm
+- 1993-01-06T15:32:53Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 1993-01-06T15:32:53Z Body Weight: 28.9 kg
+- 1993-01-06T15:32:53Z Body Mass Index: 15.4 kg/m2
+- 1993-01-06T15:32:53Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 1993-01-06T15:32:53Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 1993-01-06T15:32:53Z Heart rate: 74.0 /min
+- 1993-01-06T15:32:53Z Respiratory rate: 15.0 /min

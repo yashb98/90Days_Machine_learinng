@@ -1,0 +1,65 @@
+== PATIENT RECORD: Wendell199 Haag279 (ID: 1a0e1e20-e88e-6f88-032e-3e1c9793b6a7) ==
+
+== Demographics ==
+Patient ID: 1a0e1e20-e88e-6f88-032e-3e1c9793b6a7
+Name: Wendell199 Haag279
+Gender: M
+Birthdate: 1989-09-19
+Address: 841 Borer Wynd Apt 74
+Marital Status: M
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Sprain of wrist
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2013-11-28T01:04:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-25T12:04:44Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-25T12:04:44Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-25T12:57:01Z)
+- Depression screening (procedure) (Date: 2014-11-25T13:19:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-25T13:34:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-28T12:04:44Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-28T12:04:44Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-28T12:37:46Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-28T13:04:44Z)
+- Depression screening (procedure) (Date: 2017-11-28T13:38:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-28T13:51:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-01T12:04:44Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-01T13:00:18Z)
+- Assessment of substance use (procedure) (Date: 2020-12-01T13:24:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-12-01T13:36:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-01T12:04:44Z: General examination of patient (procedure)
+- 2019-08-24T08:04:44Z: Encounter for symptom
+- 2018-08-07T13:04:44Z: Encounter for symptom
+- 2017-11-28T12:04:44Z: General examination of patient (procedure)
+- 2014-11-25T12:04:44Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-19T12:04:44Z QOLS: 1.0 {score}
+- 2021-09-19T12:04:44Z DALY: 0.4 a
+- 2021-09-19T12:04:44Z QALY: 30.6 a
+- 2020-12-01T13:59:47Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-12-01T13:24:20Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-12-01T13:00:18Z What is your current work situation?: Full-time work nan
+- 2020-12-01T13:00:18Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-12-01T13:00:18Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-12-01T13:00:18Z Are you a refugee?: No nan
+- 2020-12-01T13:00:18Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan

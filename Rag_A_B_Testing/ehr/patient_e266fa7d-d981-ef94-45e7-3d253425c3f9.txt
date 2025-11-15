@@ -1,0 +1,108 @@
+== PATIENT RECORD: Yong583 Rodriguez71 (ID: e266fa7d-d981-ef94-45e7-3d253425c3f9) ==
+
+== Demographics ==
+Patient ID: e266fa7d-d981-ef94-45e7-3d253425c3f9
+Name: Yong583 Rodriguez71
+Gender: M
+Birthdate: 1999-11-27
+Address: 1032 Champlin Annex Unit 46
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Laceration of foot
+- Headache (finding)
+- Cough (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2011-12-17T21:02:02Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-17T21:02:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2011-12-17T21:14:52Z)
+- Assessment of substance use (procedure) (Date: 2011-12-17T21:39:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2011-12-17T21:54:24Z)
+- Anticipatory guidance (procedure) (Date: 2011-12-17T22:18:44Z)
+- Depression screening (procedure) (Date: 2012-12-22T21:02:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-12-22T21:16:22Z)
+- Assessment of substance use (procedure) (Date: 2012-12-22T21:45:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-12-22T21:58:48Z)
+- Anticipatory guidance (procedure) (Date: 2012-12-22T22:20:24Z)
+- Depression screening (procedure) (Date: 2013-12-28T21:02:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-12-28T21:12:33Z)
+- Assessment of substance use (procedure) (Date: 2013-12-28T21:35:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-12-28T21:47:38Z)
+- Anticipatory guidance (procedure) (Date: 2013-12-28T22:12:26Z)
+- Depression screening (procedure) (Date: 2015-01-03T21:02:02Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-03T21:02:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-03T21:13:11Z)
+- Assessment of substance use (procedure) (Date: 2015-01-03T21:40:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-03T21:54:48Z)
+- Health risks education (procedure) (Date: 2015-01-03T22:17:22Z)
+- Depression screening (procedure) (Date: 2016-01-09T21:02:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-01-09T21:14:22Z)
+- Assessment of substance use (procedure) (Date: 2016-01-09T21:40:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-01-09T21:52:30Z)
+- Anticipatory guidance (procedure) (Date: 2016-01-09T22:13:46Z)
+- Depression screening (procedure) (Date: 2017-01-14T21:02:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-01-14T21:15:26Z)
+- Assessment of substance use (procedure) (Date: 2017-01-14T21:40:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-01-14T21:54:02Z)
+- Health risks education (procedure) (Date: 2017-01-14T22:05:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-20T21:02:02Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-20T21:02:02Z)
+- Depression screening (procedure) (Date: 2018-01-20T21:54:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-20T22:05:42Z)
+- Assessment of substance use (procedure) (Date: 2018-01-20T22:35:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-20T22:48:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-26T21:02:02Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-26T21:02:02Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-26T21:57:40Z)
+- Depression screening (procedure) (Date: 2019-01-26T22:24:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-26T22:38:45Z)
+- Assessment of substance use (procedure) (Date: 2019-01-26T23:01:17Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-26T23:11:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-01T21:02:02Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-01T21:42:20Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-01T22:06:50Z)
+- Assessment of substance use (procedure) (Date: 2020-02-01T22:37:23Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-01T22:50:11Z)
+- Suture open wound (Date: 2020-07-30T21:40:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-06T21:02:02Z)
+- Depression screening (procedure) (Date: 2021-02-06T21:38:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-06T21:49:36Z)
+- Face mask (physical object) (Date: 2021-04-17T21:02:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-17T21:02:02Z: Encounter for symptom (procedure)
+- 2021-02-06T21:02:02Z: General examination of patient (procedure)
+- 2020-07-30T21:40:28Z: Emergency room admission (procedure)
+- 2020-02-01T21:02:02Z: General examination of patient (procedure)
+- 2019-01-26T21:02:02Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-17T22:43:02Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-04-17T21:15:42Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T21:15:42Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

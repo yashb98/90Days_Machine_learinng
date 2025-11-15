@@ -1,0 +1,162 @@
+== PATIENT RECORD: Sterling124 Rau926 (ID: f41e89ff-c2ff-9998-ca68-ad438f67447d) ==
+
+== Demographics ==
+Patient ID: f41e89ff-c2ff-9998-ca68-ad438f67447d
+Name: Sterling124 Rau926
+Gender: M
+Birthdate: 1913-06-10
+Address: 225 Crona Crossing Suite 66
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received certificate of high school equivalency (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Smokes tobacco daily
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Facial laceration
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Chronic congestive heart failure (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- 24hr nicotine transdermal patch
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Acetaminophen 325 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1989-11-07T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1989-11-07T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1989-11-07T22:02:58Z)
+- Depression screening (procedure) (Date: 1989-11-07T22:23:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-11-07T22:35:34Z)
+- Assessment of substance use (procedure) (Date: 1989-11-07T22:56:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-11-07T23:09:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-11-13T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1990-11-13T21:57:16Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1990-11-13T22:27:09Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-11-19T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1991-11-19T21:56:12Z)
+- Screening for domestic abuse (procedure) (Date: 1991-11-19T22:20:17Z)
+- Depression screening (procedure) (Date: 1991-11-19T22:55:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-11-19T23:09:56Z)
+- Assessment of substance use (procedure) (Date: 1991-11-19T23:35:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1991-11-19T23:46:13Z)
+- Suture open wound (Date: 1992-11-06T01:23:32Z)
+- Injection of tetanus antitoxin (Date: 1992-11-06T01:48:48Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-11-24T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1992-11-24T21:35:48Z)
+- Depression screening (procedure) (Date: 1992-11-24T22:03:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-11-24T22:15:35Z)
+- Assessment of substance use (procedure) (Date: 1992-11-24T22:37:18Z)
+- Screening for drug abuse (procedure) (Date: 1992-11-24T22:50:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-11-30T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1993-11-30T21:38:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-11-30T21:57:09Z)
+- Assessment of substance use (procedure) (Date: 1993-11-30T22:22:03Z)
+- Screening for drug abuse (procedure) (Date: 1993-11-30T22:33:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-12-06T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1994-12-06T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1994-12-06T21:43:04Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-12-06T22:03:08Z)
+- Depression screening (procedure) (Date: 1994-12-06T22:26:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-12-06T22:37:23Z)
+- Assessment of substance use (procedure) (Date: 1994-12-06T23:03:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1994-12-06T23:15:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-06-13T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-06-13T22:01:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-06-13T22:31:09Z)
+- Screening for domestic abuse (procedure) (Date: 1995-06-13T22:53:09Z)
+- Depression screening (procedure) (Date: 1995-06-13T23:34:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-06-13T23:49:09Z)
+- Assessment of substance use (procedure) (Date: 1995-06-14T00:10:45Z)
+- Screening for drug abuse (procedure) (Date: 1995-06-14T00:20:53Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-12-12T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-12-12T21:38:49Z)
+- Screening for domestic abuse (procedure) (Date: 1995-12-12T21:59:37Z)
+- Assessment of substance use (procedure) (Date: 1995-12-12T22:33:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-12-12T22:47:04Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-04-30T21:04:17Z)
+- Assessment of substance use (procedure) (Date: 1996-04-30T22:00:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-04-30T22:13:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-12-17T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1996-12-17T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1996-12-17T21:42:50Z)
+- Screening for domestic abuse (procedure) (Date: 1996-12-17T22:11:09Z)
+- Depression screening (procedure) (Date: 1996-12-17T22:47:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-12-17T22:59:19Z)
+- Assessment of substance use (procedure) (Date: 1996-12-17T23:27:52Z)
+- Screening for drug abuse (procedure) (Date: 1996-12-17T23:38:18Z)
+- Electrocardiographic procedure (Date: 1997-11-24T21:04:17Z)
+- Cardiovascular stress testing (procedure) (Date: 1997-11-24T21:09:19Z)
+- Plain chest X-ray (procedure) (Date: 1997-11-24T21:42:18Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1997-11-24T21:42:18Z)
+- Echocardiography (procedure) (Date: 1997-12-10T22:04:16Z)
+- Medication Reconciliation (procedure) (Date: 1997-12-10T22:04:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-12-23T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1997-12-23T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1997-12-23T21:59:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-12-23T22:29:14Z)
+- Depression screening (procedure) (Date: 1997-12-23T22:53:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-12-23T23:04:58Z)
+- Assessment of substance use (procedure) (Date: 1997-12-23T23:32:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1997-12-23T23:43:14Z)
+- Echocardiography (procedure) (Date: 1998-06-08T22:04:16Z)
+- Medication Reconciliation (procedure) (Date: 1998-06-08T22:04:16Z)
+- Echocardiography (procedure) (Date: 1998-12-05T22:04:16Z)
+- Medication Reconciliation (procedure) (Date: 1998-12-05T22:04:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-12-29T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1998-12-29T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1998-12-29T21:34:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-12-29T22:03:04Z)
+- Depression screening (procedure) (Date: 1998-12-29T22:21:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-12-29T22:33:47Z)
+- Assessment of substance use (procedure) (Date: 1998-12-29T22:54:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1998-12-29T23:06:00Z)
+- Oxygen administration by mask (procedure) (Date: 1999-06-03T22:04:16Z)
+- Placing subject in prone position (procedure) (Date: 1999-06-03T22:04:16Z)
+- Plain chest X-ray (procedure) (Date: 1999-06-03T22:04:16Z)
+- Medication Reconciliation (procedure) (Date: 1999-06-03T22:04:16Z)
+- Electrocardiographic procedure (Date: 1999-06-03T22:04:16Z)
+- Oxygen administration by mask (procedure) (Date: 1999-06-03T22:09:55Z)
+- Placing subject in prone position (procedure) (Date: 1999-06-03T22:09:55Z)
+- Heart failure education (procedure) (Date: 1999-06-04T22:09:55Z)
+
+== Recent Encounters (Last 5) ==
+- 1999-11-02T21:04:17Z: Death Certification
+- 1999-06-03T22:04:16Z: Admission to intensive care unit (procedure)
+- 1999-06-03T22:04:16Z: Encounter for Problem
+- 1998-12-29T21:04:17Z: General examination of patient (procedure)
+- 1998-12-05T22:04:16Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 1999-11-02T21:04:17Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1999-06-04T10:09:55Z MCHC [Mass/volume] by Automated count: 33.0 g/dL
+- 1999-06-04T10:09:55Z Potassium [Moles/volume] in Serum or Plasma: 4.7 mmol/L
+- 1999-06-04T10:09:55Z Sodium [Moles/volume] in Serum or Plasma: 142.9 mmol/L
+- 1999-06-04T10:09:55Z Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL
+- 1999-06-04T10:09:55Z Creatinine [Mass/volume] in Serum or Plasma: 0.7 mg/dL
+- 1999-06-04T10:09:55Z Urea nitrogen [Mass/volume] in Serum or Plasma: 8.6 mg/dL
+- 1999-06-04T10:09:55Z Glucose [Mass/volume] in Serum or Plasma: 87.5 mg/dL
+- 1999-06-04T10:09:55Z Platelets [#/volume] in Blood by Automated count: 178.7 10*3/uL
+- 1999-06-04T10:09:55Z MCH [Entitic mass] by Automated count: 32.7 pg

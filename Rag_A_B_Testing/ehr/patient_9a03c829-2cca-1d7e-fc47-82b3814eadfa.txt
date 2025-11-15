@@ -1,0 +1,107 @@
+== PATIENT RECORD: Cathi439 Hodkiewicz467 (ID: 9a03c829-2cca-1d7e-fc47-82b3814eadfa) ==
+
+== Demographics ==
+Patient ID: 9a03c829-2cca-1d7e-fc47-82b3814eadfa
+Name: Cathi439 Hodkiewicz467
+Gender: F
+Birthdate: 1969-06-10
+Address: 212 Larkin Plaza Suite 88
+Marital Status: M
+
+== Allergies ==
+- Penicillin V
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Fetus with unknown complication
+- Blighted ovum
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Sepsis (disorder)
+- Septic shock (disorder)
+- Acute respiratory distress syndrome (disorder)
+
+== Current Medications ==
+- Camila 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Jolivette 28 Day Pack
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Aztreonam 2000 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 2011-07-12T12:34:16Z)
+- Ultrasound scan for fetal viability (Date: 2011-07-12T12:34:16Z)
+- Physical examination (Date: 2011-07-25T12:34:16Z)
+- Depression screening (Date: 2011-07-25T12:34:16Z)
+- Standard pregnancy test (Date: 2011-11-01T12:34:16Z)
+- Ultrasound scan for fetal viability (Date: 2011-11-01T12:34:16Z)
+- Physical examination (Date: 2011-11-10T12:34:16Z)
+- Depression screening (Date: 2011-11-10T12:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-25T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-25T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-25T13:27:15Z)
+- Depression screening (procedure) (Date: 2013-06-25T13:47:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-25T13:58:50Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-11-04T12:34:16Z)
+- Throat culture (procedure) (Date: 2013-12-03T18:34:16Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-11-01T23:56:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-30T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-30T12:34:16Z)
+- Depression screening (procedure) (Date: 2015-06-30T13:06:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-30T13:17:51Z)
+- Removal of subcutaneous contraceptive (Date: 2015-12-29T12:34:16Z)
+- Standard pregnancy test (Date: 2016-02-23T12:34:16Z)
+- Ultrasound scan for fetal viability (Date: 2016-02-23T12:34:16Z)
+- Physical examination (Date: 2016-03-11T12:34:16Z)
+- Depression screening (Date: 2016-03-11T12:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-04T12:34:16Z)
+- Depression screening (procedure) (Date: 2017-07-04T13:10:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-04T13:21:16Z)
+- Assessment of substance use (procedure) (Date: 2017-07-04T13:45:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-04T13:57:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-11T12:34:16Z)
+- Colonoscopy (Date: 2019-06-11T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-11T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-11T13:16:24Z)
+- Depression screening (procedure) (Date: 2019-06-11T13:44:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-11T13:57:04Z)
+- Assessment of substance use (procedure) (Date: 2019-06-11T14:19:12Z)
+- Screening for drug abuse (procedure) (Date: 2019-06-11T14:32:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-16T12:34:16Z)
+- Depression screening (procedure) (Date: 2020-06-16T13:19:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-16T13:31:31Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2021-06-11T12:34:16Z)
+- Admit to ICU (procedure) (Date: 2021-06-11T13:04:16Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2021-06-11T13:34:16Z)
+- Artificial respiration (procedure) (Date: 2021-06-11T14:04:16Z)
+- Weaning from mechanically assisted ventilation (procedure) (Date: 2021-06-11T14:34:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-11T12:34:16Z: Encounter for problem
+- 2021-04-20T12:34:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-30T12:34:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-16T12:34:16Z: General examination of patient (procedure)
+- 2019-06-11T12:34:16Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-06-11T14:04:16Z Lactate [Mass/volume] in Blood: 0.9 mmol/L
+- 2021-06-11T14:04:16Z Diastolic Blood Pressure: 85.1 mm[Hg]
+- 2021-06-11T14:04:16Z Systolic Blood Pressure: 101.4 mm[Hg]
+- 2021-06-11T13:04:16Z Mean blood pressure: 55.7 mm[Hg]
+- 2021-06-11T12:34:16Z Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value) nan
+- 2021-06-11T12:34:16Z Capillary refill [Time] of Nail bed: Increased capillary filling time (finding) nan
+- 2021-06-11T12:34:16Z Oxygen Saturation: 97.0 %
+- 2021-06-11T12:34:16Z Lactate [Mass/volume] in Blood: 2.4 mmol/L
+- 2021-06-10T12:34:16Z QALY: 50.2 a
+- 2021-06-10T12:34:16Z QOLS: 0.9 {score}

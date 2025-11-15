@@ -1,0 +1,189 @@
+== PATIENT RECORD: Claudio955 Swift555 (ID: d6a7458f-9502-ef68-1ff8-539bda019f8c) ==
+
+== Demographics ==
+Patient ID: d6a7458f-9502-ef68-1ff8-539bda019f8c
+Name: Claudio955 Swift555
+Gender: M
+Birthdate: 2009-11-18
+Address: 1034 O'Keefe Wall Unit 28
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Male Infertility
+- Cystic Fibrosis
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Diabetes
+- Anemia (disorder)
+- Infection caused by Pseudomonas aeruginosa
+- Hypertriglyceridemia (disorder)
+
+== Current Medications ==
+- Pulmozyme (Dornase Alfa)
+- Pancreatin 600 MG Oral Tablet
+- 20 ML Ciprofloxacin 10 MG/ML Injection
+
+== Past Procedures ==
+- Sputum Culture (Date: 2011-12-10T14:55:28Z)
+- Pulmonary Function Test (Date: 2011-12-10T15:09:50Z)
+- Take blood sample (Date: 2011-12-10T15:23:55Z)
+- Sputum Culture (Date: 2012-03-06T15:46:04Z)
+- Pulmonary Function Test (Date: 2012-03-06T15:53:00Z)
+- Take blood sample (Date: 2012-03-06T15:59:28Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-25T11:51:36Z)
+- Chest X-ray (Date: 2012-06-07T16:18:29Z)
+- Oral Glucose Tolerance Test (Date: 2012-06-07T18:16:29Z)
+- Sputum Culture (Date: 2012-06-07T20:27:17Z)
+- Pulmonary Function Test (Date: 2012-06-07T20:32:49Z)
+- Take blood sample (Date: 2012-06-07T20:44:43Z)
+- Throat culture (procedure) (Date: 2012-09-06T05:51:36Z)
+- Sputum Culture (Date: 2012-09-09T21:13:55Z)
+- Pulmonary Function Test (Date: 2012-09-09T21:19:13Z)
+- Take blood sample (Date: 2012-09-09T21:32:48Z)
+- Sputum Culture (Date: 2012-12-07T21:54:11Z)
+- Pulmonary Function Test (Date: 2012-12-07T22:01:29Z)
+- Take blood sample (Date: 2012-12-07T22:13:07Z)
+- Sputum Culture (Date: 2013-03-11T22:27:04Z)
+- Pulmonary Function Test (Date: 2013-03-11T22:38:07Z)
+- Take blood sample (Date: 2013-03-11T22:44:45Z)
+- Throat culture (procedure) (Date: 2013-06-15T02:51:36Z)
+- Sputum Culture (Date: 2013-06-16T23:02:43Z)
+- Pulmonary Function Test (Date: 2013-06-16T23:12:48Z)
+- Take blood sample (Date: 2013-06-16T23:27:25Z)
+- Sputum Culture (Date: 2013-09-09T23:52:33Z)
+- Pulmonary Function Test (Date: 2013-09-10T00:03:24Z)
+- Take blood sample (Date: 2013-09-10T00:12:15Z)
+- Sputum Culture (Date: 2013-12-13T00:39:44Z)
+- Pulmonary Function Test (Date: 2013-12-13T00:49:32Z)
+- Take blood sample (Date: 2013-12-13T00:56:48Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-25T11:51:36Z)
+- Sputum Culture (Date: 2014-03-15T01:18:03Z)
+- Pulmonary Function Test (Date: 2014-03-15T01:31:39Z)
+- Take blood sample (Date: 2014-03-15T01:40:45Z)
+- Chest X-ray (Date: 2014-06-13T02:10:17Z)
+- Oral Glucose Tolerance Test (Date: 2014-06-13T03:20:17Z)
+- Sputum Culture (Date: 2014-06-13T05:47:15Z)
+- Pulmonary Function Test (Date: 2014-06-13T05:53:53Z)
+- Take blood sample (Date: 2014-06-13T06:06:44Z)
+- Sputum Culture (Date: 2014-09-14T06:22:50Z)
+- Pulmonary Function Test (Date: 2014-09-14T06:28:25Z)
+- Take blood sample (Date: 2014-09-14T06:37:45Z)
+- Sputum Culture (Date: 2014-12-18T07:04:47Z)
+- Pulmonary Function Test (Date: 2014-12-18T07:16:20Z)
+- Take blood sample (Date: 2014-12-18T07:28:42Z)
+- Sputum Culture (Date: 2015-03-12T07:40:57Z)
+- Pulmonary Function Test (Date: 2015-03-12T07:48:35Z)
+- Take blood sample (Date: 2015-03-12T07:57:31Z)
+- Sputum Culture (Date: 2015-06-11T08:08:59Z)
+- Pulmonary Function Test (Date: 2015-06-11T08:18:39Z)
+- Take blood sample (Date: 2015-06-11T08:24:51Z)
+- Sputum Culture (Date: 2015-09-04T08:51:52Z)
+- Pulmonary Function Test (Date: 2015-09-04T08:58:56Z)
+- Take blood sample (Date: 2015-09-04T09:04:37Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-04T11:51:36Z)
+- Peripheral blood smear interpretation (Date: 2015-11-04T11:51:36Z)
+- Review of systems (procedure) (Date: 2015-11-04T12:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-04T12:32:32Z)
+- Brief general examination (procedure) (Date: 2015-11-04T12:43:15Z)
+- Sputum Culture (Date: 2015-11-30T09:23:14Z)
+- Pulmonary Function Test (Date: 2015-11-30T09:32:56Z)
+- Take blood sample (Date: 2015-11-30T09:44:09Z)
+- Sputum Culture (Date: 2016-03-02T09:56:40Z)
+- Pulmonary Function Test (Date: 2016-03-02T10:04:11Z)
+- Take blood sample (Date: 2016-03-02T10:15:20Z)
+- Sputum Culture (Date: 2016-06-05T10:29:58Z)
+- Pulmonary Function Test (Date: 2016-06-05T10:41:05Z)
+- Take blood sample (Date: 2016-06-05T10:53:15Z)
+- Chest X-ray (Date: 2016-09-05T11:05:49Z)
+- Oral Glucose Tolerance Test (Date: 2016-09-05T12:50:49Z)
+- Sputum Culture (Date: 2016-09-05T15:01:32Z)
+- Pulmonary Function Test (Date: 2016-09-05T15:12:32Z)
+- Take blood sample (Date: 2016-09-05T15:17:33Z)
+- Sputum Culture (Date: 2016-12-08T15:28:23Z)
+- Pulmonary Function Test (Date: 2016-12-08T15:39:52Z)
+- Take blood sample (Date: 2016-12-08T15:52:54Z)
+- Sputum Culture (Date: 2017-03-11T16:14:29Z)
+- Pulmonary Function Test (Date: 2017-03-11T16:26:16Z)
+- Take blood sample (Date: 2017-03-11T16:39:29Z)
+- Sputum Culture (Date: 2017-06-11T16:51:21Z)
+- Pulmonary Function Test (Date: 2017-06-11T17:01:58Z)
+- Take blood sample (Date: 2017-06-11T17:09:33Z)
+- Sputum Culture (Date: 2017-09-12T17:37:44Z)
+- Pulmonary Function Test (Date: 2017-09-12T17:50:01Z)
+- Take blood sample (Date: 2017-09-12T17:55:04Z)
+- Sputum Culture (Date: 2017-12-16T18:08:35Z)
+- Pulmonary Function Test (Date: 2017-12-16T18:21:24Z)
+- Take blood sample (Date: 2017-12-16T18:35:51Z)
+- Sputum Culture (Date: 2018-03-22T18:48:32Z)
+- Pulmonary Function Test (Date: 2018-03-22T19:01:14Z)
+- Take blood sample (Date: 2018-03-22T19:12:44Z)
+- Sputum Culture (Date: 2018-06-15T19:40:52Z)
+- Pulmonary Function Test (Date: 2018-06-15T19:53:42Z)
+- Take blood sample (Date: 2018-06-15T20:00:01Z)
+- Chest X-ray (Date: 2018-09-15T20:14:41Z)
+- Oral Glucose Tolerance Test (Date: 2018-09-15T21:22:41Z)
+- Sputum Culture (Date: 2018-09-15T23:40:06Z)
+- Pulmonary Function Test (Date: 2018-09-15T23:46:09Z)
+- Take blood sample (Date: 2018-09-15T23:54:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-21T11:51:36Z)
+- Sputum Culture (Date: 2018-12-09T00:14:43Z)
+- Pulmonary Function Test (Date: 2018-12-09T00:29:10Z)
+- Take blood sample (Date: 2018-12-09T00:43:54Z)
+- Sputum Culture (Date: 2019-03-10T01:12:35Z)
+- Pulmonary Function Test (Date: 2019-03-10T01:26:54Z)
+- Take blood sample (Date: 2019-03-10T01:33:56Z)
+- Sputum Culture (Date: 2019-06-04T01:44:26Z)
+- Pulmonary Function Test (Date: 2019-06-04T01:57:47Z)
+- Take blood sample (Date: 2019-06-04T02:08:31Z)
+- Sputum Culture (Date: 2019-09-09T02:25:14Z)
+- Pulmonary Function Test (Date: 2019-09-09T02:36:08Z)
+- Take blood sample (Date: 2019-09-09T02:44:12Z)
+- Sputum Culture (Date: 2019-12-11T03:06:47Z)
+- Pulmonary Function Test (Date: 2019-12-11T03:13:35Z)
+- Take blood sample (Date: 2019-12-11T03:19:48Z)
+- Sputum Culture (Date: 2020-03-12T03:41:11Z)
+- Pulmonary Function Test (Date: 2020-03-12T03:48:20Z)
+- Take blood sample (Date: 2020-03-12T03:56:57Z)
+- Sputum Culture (Date: 2020-06-17T04:13:58Z)
+- Pulmonary Function Test (Date: 2020-06-17T04:21:28Z)
+- Take blood sample (Date: 2020-06-17T04:34:31Z)
+- Chest X-ray (Date: 2020-09-16T05:03:02Z)
+- Oral Glucose Tolerance Test (Date: 2020-09-16T06:32:02Z)
+- Sputum Culture (Date: 2020-09-16T08:34:17Z)
+- Pulmonary Function Test (Date: 2020-09-16T08:49:11Z)
+- Take blood sample (Date: 2020-09-16T09:01:23Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-02T11:51:36Z)
+- Sputum Culture (Date: 2020-12-14T09:20:34Z)
+- Pulmonary Function Test (Date: 2020-12-14T09:29:27Z)
+- Take blood sample (Date: 2020-12-14T09:34:43Z)
+- Sputum Culture (Date: 2021-03-21T10:02:12Z)
+- Pulmonary Function Test (Date: 2021-03-21T10:10:29Z)
+- Take blood sample (Date: 2021-03-21T10:17:24Z)
+- Sputum Culture (Date: 2021-06-21T10:45:57Z)
+- Pulmonary Function Test (Date: 2021-06-21T10:58:20Z)
+- Take blood sample (Date: 2021-06-21T11:11:36Z)
+- Sputum Culture (Date: 2021-09-13T11:28:17Z)
+- Pulmonary Function Test (Date: 2021-09-13T11:33:35Z)
+- Take blood sample (Date: 2021-09-13T11:42:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-13T11:28:17Z: Encounter for check up
+- 2021-06-21T10:45:57Z: Encounter for check up
+- 2021-03-21T10:02:12Z: Encounter for check up
+- 2020-12-14T09:20:34Z: Encounter for check up
+- 2020-12-02T11:51:36Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-18T11:51:36Z QOLS: 0.5 {score}
+- 2021-11-18T11:51:36Z DALY: 3.2 a
+- 2021-11-18T11:51:36Z QALY: 7.8 a
+- 2020-12-02T11:51:36Z Creatinine: 0.6 mg/dL
+- 2020-12-02T11:51:36Z Microalbumin Creatinine Ratio: 5.2 mg/g
+- 2020-12-02T11:51:36Z High Density Lipoprotein Cholesterol: 43.8 mg/dL
+- 2020-12-02T11:51:36Z Low Density Lipoprotein Cholesterol: 136.1 mg/dL
+- 2020-12-02T11:51:36Z Triglycerides: 187.5 mg/dL
+- 2020-12-02T11:51:36Z Total Cholesterol: 217.4 mg/dL
+- 2020-12-02T11:51:36Z Carbon Dioxide: 26.5 mmol/L

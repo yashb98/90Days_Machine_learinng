@@ -1,0 +1,122 @@
+== PATIENT RECORD: Shirlene698 Bergnaum523 (ID: 83c5cc27-48a8-5580-966b-783719fe8f1b) ==
+
+== Demographics ==
+Patient ID: 83c5cc27-48a8-5580-966b-783719fe8f1b
+Name: Shirlene698 Bergnaum523
+Gender: F
+Birthdate: 1917-05-15
+Address: 127 Raynor Byway
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Has a criminal record (finding)
+- Recurrent urinary tract infection
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Osteoporosis (disorder)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-18T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-18T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-09-18T12:47:39Z)
+- Screening for domestic abuse (procedure) (Date: 2012-09-18T13:08:58Z)
+- Assessment of substance use (procedure) (Date: 2012-09-18T13:52:13Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-18T14:06:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-24T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-24T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-24T12:42:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-09-24T13:01:25Z)
+- Depression screening (procedure) (Date: 2013-09-24T13:28:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-24T13:42:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-30T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-30T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-09-30T12:54:56Z)
+- Depression screening (procedure) (Date: 2014-09-30T13:23:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-30T13:35:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-06T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-06T12:35:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-10-06T12:50:14Z)
+- Screening for domestic abuse (procedure) (Date: 2015-10-06T13:14:12Z)
+- Depression screening (procedure) (Date: 2015-10-06T13:51:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-06T14:06:08Z)
+- Assessment of substance use (procedure) (Date: 2015-10-06T14:30:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-06T14:43:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-11T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-11T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-11T12:41:48Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-10-11T12:58:08Z)
+- Depression screening (procedure) (Date: 2016-10-11T13:21:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-11T13:32:11Z)
+- Assessment of substance use (procedure) (Date: 2016-10-11T13:56:51Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-11T14:08:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-17T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-10-17T12:57:44Z)
+- Depression screening (procedure) (Date: 2017-10-17T13:23:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-17T13:38:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-17T14:00:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-23T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-23T12:38:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-10-23T12:56:33Z)
+- Depression screening (procedure) (Date: 2018-10-23T13:17:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-23T13:31:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-29T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-29T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-29T12:50:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-10-29T13:12:43Z)
+- Depression screening (procedure) (Date: 2019-10-29T13:30:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-29T13:40:57Z)
+- Assessment of substance use (procedure) (Date: 2019-10-29T14:02:56Z)
+- Screening for drug abuse (procedure) (Date: 2019-10-29T14:17:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-03T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-03T12:37:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-11-03T12:53:27Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-03T13:21:32Z)
+- Depression screening (procedure) (Date: 2020-11-03T13:54:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-03T14:07:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-09T11:58:49Z)
+- Depression screening (procedure) (Date: 2021-11-09T12:38:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-09T12:50:08Z)
+- Assessment of substance use (procedure) (Date: 2021-11-09T13:13:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-11-09T13:24:11Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T11:58:49Z: General examination of patient (procedure)
+- 2021-02-23T11:58:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-14T01:58:49Z: Encounter for symptom
+- 2021-01-26T11:58:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-03T11:58:49Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T13:48:15Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-11-09T13:13:11Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-11-09T12:38:11Z What address do you live at?: 127 Raynor Byway nan
+- 2021-11-09T12:38:11Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-11-09T12:38:11Z How many family members  including yourself  do you currently live with?: 3.0 {#}
+- 2021-11-09T12:38:11Z What is your housing situation today?: I have housing nan
+- 2021-11-09T12:38:11Z Are you worried about losing your housing?: No nan
+- 2021-11-09T12:38:11Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-11-09T12:38:11Z What is your current work situation?: Full-time work nan
+- 2021-11-09T12:38:11Z Have you been discharged from the armed forces of the United States?: No nan

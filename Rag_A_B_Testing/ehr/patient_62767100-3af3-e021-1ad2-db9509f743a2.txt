@@ -1,0 +1,59 @@
+== PATIENT RECORD: Anh979 Schaden604 (ID: 62767100-3af3-e021-1ad2-db9509f743a2) ==
+
+== Demographics ==
+Patient ID: 62767100-3af3-e021-1ad2-db9509f743a2
+Name: Anh979 Schaden604
+Gender: F
+Birthdate: 2009-07-17
+Address: 566 Funk Crossing
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Facial laceration
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-23T19:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-21T19:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-27T19:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-03T19:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-08T19:38:14Z)
+- Suture open wound (Date: 2016-08-26T19:38:14Z)
+- Injection of tetanus antitoxin (Date: 2016-08-26T19:54:37Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-14T19:38:14Z)
+- Throat culture (procedure) (Date: 2018-05-06T01:38:14Z)
+- Throat culture (procedure) (Date: 2018-11-16T00:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-26T19:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-31T19:38:14Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-06T19:38:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-06T19:38:14Z)
+- Depression screening (procedure) (Date: 2021-08-06T19:54:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-06T20:09:11Z)
+- Assessment of substance use (procedure) (Date: 2021-08-06T20:35:44Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-08-06T20:49:46Z)
+- Anticipatory guidance (procedure) (Date: 2021-08-06T21:03:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T19:38:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-06T19:38:14Z: Well child visit (procedure)
+- 2020-07-31T19:38:14Z: Well child visit (procedure)
+- 2019-07-26T19:38:14Z: Well child visit (procedure)
+- 2018-11-16T00:38:14Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-08-06T20:35:44Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-08-06T19:54:26Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 11.0 {score}
+- 2021-08-06T19:38:14Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-06T19:38:14Z Respiratory rate: 12.0 /min
+- 2021-08-06T19:38:14Z Heart rate: 68.0 /min
+- 2021-08-06T19:38:14Z Systolic Blood Pressure: 121.0 mm[Hg]
+- 2021-08-06T19:38:14Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-08-06T19:38:14Z Body mass index (BMI) [Percentile] Per age and gender: 9.7 %
+- 2021-08-06T19:38:14Z Body Mass Index: 15.4 kg/m2
+- 2021-08-06T19:38:14Z Body Weight: 41.9 kg

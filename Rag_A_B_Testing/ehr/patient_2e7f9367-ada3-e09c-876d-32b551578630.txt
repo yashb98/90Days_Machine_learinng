@@ -1,0 +1,51 @@
+== PATIENT RECORD: Mikaela760 Keeling57 (ID: 2e7f9367-ada3-e09c-876d-32b551578630) ==
+
+== Demographics ==
+Patient ID: 2e7f9367-ada3-e09c-876d-32b551578630
+Name: Mikaela760 Keeling57
+Gender: F
+Birthdate: 2013-11-04
+Address: 877 Schmidt Landing Suite 20
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-11-04T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-10T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-14T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-14T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-13T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-12T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-11T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-10T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-09T23:08:29Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-26T23:08:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-01T23:08:29Z: Well child visit (procedure)
+- 2020-10-26T23:08:29Z: Well child visit (procedure)
+- 2019-10-21T23:08:29Z: Well child visit (procedure)
+- 2019-05-07T23:08:29Z: Encounter for symptom
+- 2018-10-15T23:08:29Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-04T22:08:29Z QOLS: 1.0 {score}
+- 2021-11-04T22:08:29Z QALY: 7.0 a
+- 2021-11-04T22:08:29Z DALY: 0.0 a
+- 2021-11-01T23:08:29Z Body Height: 130.5 cm
+- 2021-11-01T23:08:29Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-11-01T23:08:29Z Body Weight: 34.9 kg
+- 2021-11-01T23:08:29Z Body Mass Index: 20.5 kg/m2
+- 2021-11-01T23:08:29Z Body mass index (BMI) [Percentile] Per age and gender: 94.8 %
+- 2021-11-01T23:08:29Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-11-01T23:08:29Z Heart rate: 67.0 /min

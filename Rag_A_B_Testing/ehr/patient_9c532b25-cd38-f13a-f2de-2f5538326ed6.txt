@@ -1,0 +1,135 @@
+== PATIENT RECORD: Quincy153 Conn188 (ID: 9c532b25-cd38-f13a-f2de-2f5538326ed6) ==
+
+== Demographics ==
+Patient ID: 9c532b25-cd38-f13a-f2de-2f5538326ed6
+Name: Quincy153 Conn188
+Gender: M
+Birthdate: 1979-09-26
+Address: 374 Connelly Estate
+Marital Status: M
+
+== Allergies ==
+- Aspirin
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Diabetes
+- Hypertension
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Injury of tendon of the rotator cuff of shoulder
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Chronic obstructive bronchitis (disorder)
+
+== Current Medications ==
+- Astemizole 10 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-28T05:40:35Z)
+- Screening for domestic abuse (procedure) (Date: 2011-12-28T06:15:10Z)
+- Depression screening (procedure) (Date: 2011-12-28T06:58:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-28T07:09:20Z)
+- Assessment of substance use (procedure) (Date: 2011-12-28T07:39:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-28T07:52:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-02T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2013-01-02T06:16:48Z)
+- Screening for domestic abuse (procedure) (Date: 2013-01-02T06:43:08Z)
+- Assessment of substance use (procedure) (Date: 2013-01-02T07:11:46Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-02T07:23:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-08T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-08T06:24:02Z)
+- Depression screening (procedure) (Date: 2014-01-08T06:45:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-08T06:59:02Z)
+- Assessment of substance use (procedure) (Date: 2014-01-08T07:26:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-08T07:36:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-14T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-14T06:36:04Z)
+- Depression screening (procedure) (Date: 2015-01-14T06:55:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-14T07:07:46Z)
+- Assessment of substance use (procedure) (Date: 2015-01-14T07:31:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-14T07:45:10Z)
+- Throat culture (procedure) (Date: 2015-04-05T07:40:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-20T05:40:35Z)
+- Depression screening (procedure) (Date: 2016-01-20T06:39:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-20T06:54:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-25T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-25T06:18:29Z)
+- Screening for domestic abuse (procedure) (Date: 2017-01-25T06:47:17Z)
+- Assessment of substance use (procedure) (Date: 2017-01-25T07:31:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-25T07:45:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-31T05:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-31T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-31T06:27:20Z)
+- Depression screening (procedure) (Date: 2018-01-31T06:53:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-31T07:03:33Z)
+- Sputum examination (procedure) (Date: 2018-03-07T04:40:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-21T05:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-21T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-21T06:36:49Z)
+- Depression screening (procedure) (Date: 2018-03-21T07:02:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-21T07:14:07Z)
+- Assessment of substance use (procedure) (Date: 2018-03-21T07:41:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-21T07:53:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-06T05:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-06T05:40:35Z)
+- Depression screening (procedure) (Date: 2019-02-06T06:39:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-06T06:52:13Z)
+- Assessment of substance use (procedure) (Date: 2019-02-06T07:15:32Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-06T07:28:47Z)
+- Spirometry (procedure) (Date: 2020-02-12T05:40:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-12T05:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-12T05:40:35Z)
+- Depression screening (procedure) (Date: 2020-02-12T06:22:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-12T06:37:08Z)
+- Assessment of substance use (procedure) (Date: 2020-02-12T07:06:30Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-12T07:21:15Z)
+- Spirometry (procedure) (Date: 2021-02-17T05:40:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-17T05:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-17T06:24:56Z)
+- Assessment of substance use (procedure) (Date: 2021-02-17T06:47:20Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-17T06:59:26Z)
+- Spirometry (procedure) (Date: 2021-07-28T05:40:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-28T05:40:35Z)
+- Screening for domestic abuse (procedure) (Date: 2021-07-28T06:32:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-28T05:40:35Z: Encounter for check up (procedure)
+- 2021-07-21T05:40:35Z: Urgent care clinic (procedure)
+- 2021-07-14T21:40:35Z: Encounter for symptom
+- 2021-06-23T05:40:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-26T05:40:35Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-26T05:40:35Z QOLS: 0.8 {score}
+- 2021-09-26T05:40:35Z DALY: 2.7 a
+- 2021-09-26T05:40:35Z QALY: 38.3 a
+- 2021-07-28T07:07:53Z Total score [HARK]: 0.0 {score}
+- 2021-07-28T06:32:44Z Are you a refugee?: No nan
+- 2021-07-28T06:32:44Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-07-28T06:32:44Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-07-28T06:32:44Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-07-28T06:32:44Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-07-28T06:32:44Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

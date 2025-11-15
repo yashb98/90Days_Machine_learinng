@@ -1,0 +1,136 @@
+== PATIENT RECORD: Darron84 Rowe323 (ID: c893e2b1-4238-52b6-e8e1-1ed709e42ce3) ==
+
+== Demographics ==
+Patient ID: c893e2b1-4238-52b6-e8e1-1ed709e42ce3
+Name: Darron84 Rowe323
+Gender: M
+Birthdate: 1940-12-31
+Address: 355 Langworth Manor
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Diabetes
+- Anemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Social isolation (finding)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+- Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)
+- Hyperglycemia (disorder)
+- Prediabetes
+- Limited social contact (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Chronic congestive heart failure (disorder)
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1984-05-08T15:24:54Z)
+- Medication Reconciliation (procedure) (Date: 1984-05-08T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1984-05-08T16:09:30Z)
+- Depression screening (procedure) (Date: 1984-05-08T16:33:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-05-08T16:47:53Z)
+- Assessment of substance use (procedure) (Date: 1984-05-08T17:09:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1984-05-08T17:20:44Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-05-14T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1985-05-14T16:07:47Z)
+- Assessment of substance use (procedure) (Date: 1985-05-14T16:29:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1985-05-14T16:40:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-05-20T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1986-05-20T16:13:36Z)
+- Depression screening (procedure) (Date: 1986-05-20T16:31:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-05-20T16:45:13Z)
+- Assessment of substance use (procedure) (Date: 1986-05-20T17:07:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1986-05-20T17:18:22Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-05-26T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1987-05-26T16:05:39Z)
+- Assessment of substance use (procedure) (Date: 1987-05-26T16:25:07Z)
+- Screening for drug abuse (procedure) (Date: 1987-05-26T16:38:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-05-31T15:24:54Z)
+- Medication Reconciliation (procedure) (Date: 1988-05-31T15:24:54Z)
+- Depression screening (procedure) (Date: 1988-05-31T16:01:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-05-31T16:14:25Z)
+- Assessment of substance use (procedure) (Date: 1988-05-31T16:43:18Z)
+- Screening for drug abuse (procedure) (Date: 1988-05-31T16:56:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-06-06T15:24:54Z)
+- Depression screening (procedure) (Date: 1989-06-06T16:19:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-06-06T16:31:26Z)
+- Assessment of substance use (procedure) (Date: 1989-06-06T16:54:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-06-06T17:06:08Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-04-10T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1990-04-10T16:24:25Z)
+- Screening for domestic abuse (procedure) (Date: 1990-04-10T16:50:50Z)
+- Depression screening (procedure) (Date: 1990-04-10T17:22:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-04-10T17:33:18Z)
+- Assessment of substance use (procedure) (Date: 1990-04-10T17:54:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1990-04-10T18:05:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-06-12T15:24:54Z)
+- Medication Reconciliation (procedure) (Date: 1990-06-12T15:24:54Z)
+- Depression screening (procedure) (Date: 1990-06-12T16:09:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-06-12T16:23:02Z)
+- Assessment of substance use (procedure) (Date: 1990-06-12T16:51:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1990-06-12T17:04:42Z)
+- Electrocardiographic procedure (Date: 1991-01-14T15:24:54Z)
+- Plain chest X-ray (procedure) (Date: 1991-01-14T15:34:39Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1991-01-14T15:34:39Z)
+- Echocardiography (procedure) (Date: 1991-01-31T15:54:26Z)
+- Medication Reconciliation (procedure) (Date: 1991-01-31T15:54:26Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-06-18T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1991-06-18T15:59:21Z)
+- Depression screening (procedure) (Date: 1991-06-18T16:17:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-06-18T16:27:37Z)
+- Oxygen administration by mask (procedure) (Date: 1991-07-30T15:54:26Z)
+- Placing subject in prone position (procedure) (Date: 1991-07-30T15:54:26Z)
+- Plain chest X-ray (procedure) (Date: 1991-07-30T15:54:26Z)
+- Medication Reconciliation (procedure) (Date: 1991-07-30T15:54:26Z)
+- Electrocardiographic procedure (Date: 1991-07-30T15:54:26Z)
+- Oxygen administration by mask (procedure) (Date: 1991-07-30T16:03:49Z)
+- Placing subject in prone position (procedure) (Date: 1991-07-30T16:03:49Z)
+- Heart failure education (procedure) (Date: 1991-07-31T16:03:49Z)
+- Echocardiography (procedure) (Date: 1992-01-27T16:58:00Z)
+- Medication Reconciliation (procedure) (Date: 1992-01-27T16:58:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-06-23T15:24:54Z)
+- Medication Reconciliation (procedure) (Date: 1992-06-23T15:24:54Z)
+- Assessment of anxiety (procedure) (Date: 1992-06-23T16:03:18Z)
+- Oxygen administration by mask (procedure) (Date: 1992-07-25T16:58:00Z)
+- Placing subject in prone position (procedure) (Date: 1992-07-25T16:58:00Z)
+- Plain chest X-ray (procedure) (Date: 1992-07-25T16:58:00Z)
+- Medication Reconciliation (procedure) (Date: 1992-07-25T16:58:00Z)
+- Electrocardiographic procedure (Date: 1992-07-25T16:58:00Z)
+- Echocardiography (procedure) (Date: 1992-07-25T17:03:26Z)
+- Oxygen administration by mask (procedure) (Date: 1992-07-25T17:03:26Z)
+- Placing subject in prone position (procedure) (Date: 1992-07-25T17:03:26Z)
+- Heart failure education (procedure) (Date: 1992-07-26T17:03:26Z)
+- Echocardiography (procedure) (Date: 1993-01-22T17:49:49Z)
+- Medication Reconciliation (procedure) (Date: 1993-01-22T17:49:49Z)
+
+== Recent Encounters (Last 5) ==
+- 1993-05-18T15:24:54Z: Death Certification
+- 1993-01-22T17:49:49Z: Encounter for problem
+- 1992-07-25T16:58:00Z: Admission to intensive care unit (procedure)
+- 1992-07-25T16:58:00Z: Encounter for Problem
+- 1992-06-23T15:24:54Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1993-05-18T15:24:54Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1993-01-22T17:49:49Z Calcium: 9.0 mg/dL
+- 1993-01-22T17:49:49Z Left ventricular Ejection fraction: 90.6 %
+- 1993-01-22T17:49:49Z Urea Nitrogen: 9.8 mg/dL
+- 1993-01-22T17:49:49Z Creatinine: 1.1 mg/dL
+- 1993-01-22T17:49:49Z Glucose: 67.0 mg/dL
+- 1993-01-22T17:49:49Z Sodium: 140.8 mmol/L
+- 1993-01-22T17:49:49Z Potassium: 5.0 mmol/L
+- 1993-01-22T17:49:49Z Chloride: 108.0 mmol/L
+- 1993-01-22T17:49:49Z Carbon Dioxide: 28.9 mmol/L

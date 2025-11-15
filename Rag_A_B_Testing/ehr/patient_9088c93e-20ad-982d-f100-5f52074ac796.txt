@@ -1,0 +1,90 @@
+== PATIENT RECORD: Weston546 Leuschke194 (ID: 9088c93e-20ad-982d-f100-5f52074ac796) ==
+
+== Demographics ==
+Patient ID: 9088c93e-20ad-982d-f100-5f52074ac796
+Name: Weston546 Leuschke194
+Gender: M
+Birthdate: 1938-09-02
+Address: 675 Spinka Fort Suite 26
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Osteoarthritis of knee
+- Acute bronchitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Coronary Heart Disease
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1980-09-12T23:18:18Z)
+- Assessment of substance use (procedure) (Date: 1980-09-13T00:07:02Z)
+- Screening for drug abuse (procedure) (Date: 1980-09-13T00:21:46Z)
+- Sputum examination (procedure) (Date: 1980-11-14T19:34:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-09-17T23:18:18Z)
+- Medication Reconciliation (procedure) (Date: 1982-09-17T23:18:18Z)
+- Assessment of anxiety (procedure) (Date: 1982-09-17T23:49:01Z)
+- Depression screening (procedure) (Date: 1982-09-18T00:08:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-09-18T00:20:06Z)
+- Assessment of substance use (procedure) (Date: 1982-09-18T00:43:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1982-09-18T00:53:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-09-21T23:18:18Z)
+- Medication Reconciliation (procedure) (Date: 1984-09-21T23:18:18Z)
+- Assessment of substance use (procedure) (Date: 1984-09-22T00:03:38Z)
+- Screening for drug abuse (procedure) (Date: 1984-09-22T00:15:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-09-26T23:18:18Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-09-02T23:18:18Z)
+- Colonoscopy (Date: 1988-09-02T23:18:18Z)
+- Assessment of anxiety (procedure) (Date: 1988-09-03T00:12:43Z)
+- Screening for domestic abuse (procedure) (Date: 1988-09-03T00:41:21Z)
+- Depression screening (procedure) (Date: 1988-09-03T01:12:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-09-03T01:26:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-09-03T01:49:50Z)
+- Assessment of substance use (procedure) (Date: 1988-09-03T02:16:21Z)
+- Screening for drug abuse (procedure) (Date: 1988-09-03T02:30:47Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-09-08T23:18:18Z)
+- Medication Reconciliation (procedure) (Date: 1989-09-08T23:18:18Z)
+- Depression screening (procedure) (Date: 1989-09-09T00:16:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-09-09T00:30:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1989-09-09T00:56:04Z)
+- Assessment of substance use (procedure) (Date: 1989-09-09T01:24:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-09-09T01:36:54Z)
+- Echocardiography (procedure) (Date: 1989-12-15T23:18:18Z)
+- Percutaneous coronary intervention (Date: 1989-12-15T23:18:18Z)
+- Coronary artery bypass grafting (Date: 1989-12-15T23:18:18Z)
+
+== Recent Encounters (Last 5) ==
+- 1989-12-22T23:18:18Z: Death Certification
+- 1989-12-15T23:18:18Z: Myocardial Infarction
+- 1989-09-08T23:18:18Z: General examination of patient (procedure)
+- 1988-09-02T23:18:18Z: Encounter for 'check-up'
+- 1988-09-02T23:18:18Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1989-12-22T23:18:18Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1989-09-09T02:02:58Z Total score [AUDIT-C]: 1.0 {score}
+- 1989-09-09T01:24:44Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 19.0 {score}
+- 1989-09-09T00:56:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 1989-09-09T00:16:59Z What is your current work situation?: Full-time work nan
+- 1989-09-09T00:16:59Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1989-09-09T00:16:59Z Are you a refugee?: No nan
+- 1989-09-09T00:16:59Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1989-09-09T00:16:59Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 1989-09-09T00:16:59Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

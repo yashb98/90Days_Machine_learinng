@@ -1,0 +1,100 @@
+== PATIENT RECORD: Terry864 King743 (ID: f0660412-c40e-4d5c-5b11-08b6da289331) ==
+
+== Demographics ==
+Patient ID: f0660412-c40e-4d5c-5b11-08b6da289331
+Name: Terry864 King743
+Gender: M
+Birthdate: 1975-01-24
+Address: 827 Kling Burg Suite 32
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-06T12:37:09Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-06T13:26:59Z)
+- Depression screening (procedure) (Date: 2012-07-06T13:54:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-06T14:07:57Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-06T14:32:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-12T12:37:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-12T13:23:22Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-12T13:40:57Z)
+- Depression screening (procedure) (Date: 2013-07-12T14:16:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-12T14:30:33Z)
+- Assessment of substance use (procedure) (Date: 2013-07-12T14:58:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-12T15:10:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-18T12:37:09Z)
+- Depression screening (procedure) (Date: 2014-07-18T13:33:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-18T13:45:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-24T12:37:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-24T12:37:09Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-24T13:23:07Z)
+- Assessment of substance use (procedure) (Date: 2015-07-24T14:08:05Z)
+- Screening for drug abuse (procedure) (Date: 2015-07-24T14:22:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-29T12:37:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-29T13:07:38Z)
+- Depression screening (procedure) (Date: 2016-07-29T13:26:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-29T13:39:40Z)
+- Assessment of substance use (procedure) (Date: 2016-07-29T14:02:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-29T14:16:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-04T12:37:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-04T12:37:09Z)
+- Depression screening (procedure) (Date: 2017-08-04T13:35:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-04T13:49:21Z)
+- Assessment of substance use (procedure) (Date: 2017-08-04T14:18:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-08-04T14:31:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-10T12:37:09Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-10T13:23:44Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-10T13:38:47Z)
+- Assessment of substance use (procedure) (Date: 2018-08-10T14:23:08Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-10T14:37:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-16T12:37:09Z)
+- Depression screening (procedure) (Date: 2019-08-16T13:17:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-16T13:29:45Z)
+- Assessment of substance use (procedure) (Date: 2019-08-16T13:53:52Z)
+- Screening for drug abuse (procedure) (Date: 2019-08-16T14:07:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-21T12:37:09Z)
+- Depression screening (procedure) (Date: 2020-08-21T13:25:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-21T13:40:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-21T14:03:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-27T12:37:09Z)
+- Depression screening (procedure) (Date: 2021-08-27T13:09:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-27T13:19:59Z)
+- Assessment of substance use (procedure) (Date: 2021-08-27T13:46:22Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-27T14:01:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-27T12:37:09Z: General examination of patient (procedure)
+- 2021-06-18T12:37:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-28T12:37:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-21T12:37:09Z: General examination of patient (procedure)
+- 2019-08-16T12:37:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-27T14:28:42Z Total score [DAST-10]: 0.0 {score}
+- 2021-08-27T13:46:22Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-27T13:09:57Z Are you Hispanic or Latino?: No nan
+- 2021-08-27T13:09:57Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 130168 /a
+- 2021-08-27T13:09:57Z What is your main insurance?: Private insurance nan
+- 2021-08-27T13:09:57Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-08-27T13:09:57Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-08-27T13:09:57Z What address do you live at?: 827 Kling Burg Suite 32 nan
+- 2021-08-27T13:09:57Z Are you worried about losing your housing?: Yes nan
+- 2021-08-27T13:09:57Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

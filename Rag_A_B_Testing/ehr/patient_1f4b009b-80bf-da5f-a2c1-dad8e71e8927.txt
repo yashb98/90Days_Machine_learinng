@@ -1,0 +1,53 @@
+== PATIENT RECORD: Herminia75 Hahn503 (ID: 1f4b009b-80bf-da5f-a2c1-dad8e71e8927) ==
+
+== Demographics ==
+Patient ID: 1f4b009b-80bf-da5f-a2c1-dad8e71e8927
+Name: Herminia75 Hahn503
+Gender: F
+Birthdate: 2014-12-05
+Address: 434 Hills Brook
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-01-09T18:05:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-13T18:05:19Z)
+- Sputum examination (procedure) (Date: 2015-06-04T22:05:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-19T18:05:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-12T18:05:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-10T18:05:19Z)
+- Measurement of respiratory function (procedure) (Date: 2019-05-27T02:05:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-15T18:05:19Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-20T18:05:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-11-20T18:05:19Z: Well child visit (procedure)
+- 2019-11-15T18:05:19Z: Well child visit (procedure)
+- 2019-06-07T18:05:19Z: Urgent care clinic (procedure)
+- 2019-05-27T02:05:19Z: Encounter for symptom
+- 2018-11-09T18:05:19Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-05T18:05:19Z QOLS: 1.0 {score}
+- 2020-12-05T18:05:19Z DALY: 0.0 a
+- 2020-12-05T18:05:19Z QALY: 5.0 a
+- 2020-11-20T18:05:19Z Heart rate: 70.0 /min
+- 2020-11-20T18:05:19Z MCH [Entitic mass] by Automated count: 32.4 pg
+- 2020-11-20T18:05:19Z MCV [Entitic volume] by Automated count: 86.4 fL
+- 2020-11-20T18:05:19Z Hemoglobin [Mass/volume] in Blood: 12.1 g/dL
+- 2020-11-20T18:05:19Z Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- 2020-11-20T18:05:19Z Leukocytes [#/volume] in Blood by Automated count: 8.9 10*3/uL
+- 2020-11-20T18:05:19Z Respiratory rate: 14.0 /min

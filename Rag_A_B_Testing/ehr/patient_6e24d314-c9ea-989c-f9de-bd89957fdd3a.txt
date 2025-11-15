@@ -1,0 +1,135 @@
+== PATIENT RECORD: Alexander630 Klein929 (ID: 6e24d314-c9ea-989c-f9de-bd89957fdd3a) ==
+
+== Demographics ==
+Patient ID: 6e24d314-c9ea-989c-f9de-bd89957fdd3a
+Name: Alexander630 Klein929
+Gender: M
+Birthdate: 1919-09-08
+Address: 385 O'Hara Corner
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Osteoarthritis of hip
+- Chronic sinusitis (disorder)
+- Has a criminal record (finding)
+- Hyperlipidemia
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Atrial Fibrillation
+- Alzheimer's disease (disorder)
+- Social isolation (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Pneumonia
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2007-04-09T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-04-09T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-04-09T21:40:58Z)
+- Screening for domestic abuse (procedure) (Date: 2007-04-09T21:56:57Z)
+- Depression screening (procedure) (Date: 2007-04-09T22:36:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-04-09T22:48:21Z)
+- Assessment of substance use (procedure) (Date: 2007-04-09T23:18:06Z)
+- Screening for drug abuse (procedure) (Date: 2007-04-09T23:32:07Z)
+- Electrical cardioversion (Date: 2008-04-14T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-04-14T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-04-14T21:34:16Z)
+- Screening for domestic abuse (procedure) (Date: 2008-04-14T21:55:03Z)
+- Depression screening (procedure) (Date: 2008-04-14T22:26:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-04-14T22:40:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2008-04-14T23:03:32Z)
+- Electrical cardioversion (Date: 2009-04-20T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-04-20T20:43:51Z)
+- Medication Reconciliation (procedure) (Date: 2009-04-20T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-04-20T21:25:06Z)
+- Depression screening (procedure) (Date: 2009-04-20T21:54:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-04-20T22:05:05Z)
+- Assessment of substance use (procedure) (Date: 2009-04-20T22:27:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-04-20T22:38:43Z)
+- Electrical cardioversion (Date: 2010-03-22T20:43:51Z)
+- Electrical cardioversion (Date: 2010-04-26T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-04-26T20:43:51Z)
+- Medication Reconciliation (procedure) (Date: 2010-04-26T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-04-26T21:21:45Z)
+- Depression screening (procedure) (Date: 2010-04-26T21:49:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-04-26T22:02:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2010-04-26T22:26:34Z)
+- Electrical cardioversion (Date: 2011-02-21T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-02-21T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-02-21T21:31:37Z)
+- Depression screening (procedure) (Date: 2011-02-21T21:53:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-02-21T22:05:53Z)
+- Assessment of substance use (procedure) (Date: 2011-02-21T22:34:32Z)
+- Screening for drug abuse (procedure) (Date: 2011-02-21T22:49:17Z)
+- Electrical cardioversion (Date: 2011-05-02T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-05-02T20:43:51Z)
+- Assessment of anxiety (procedure) (Date: 2011-05-02T21:43:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-05-02T22:01:46Z)
+- Depression screening (procedure) (Date: 2011-05-02T22:25:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-05-02T22:35:46Z)
+- Assessment of substance use (procedure) (Date: 2011-05-02T23:01:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-05-02T23:15:02Z)
+- Electrical cardioversion (Date: 2012-05-07T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-05-07T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-05-07T21:30:41Z)
+- Depression screening (procedure) (Date: 2012-05-07T21:47:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-07T22:00:17Z)
+- Electrical cardioversion (Date: 2013-05-13T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-13T20:43:51Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-13T21:15:13Z)
+- Depression screening (procedure) (Date: 2013-05-13T21:44:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-13T21:58:04Z)
+- Assessment of substance use (procedure) (Date: 2013-05-13T22:20:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-05-13T22:30:52Z)
+- Electrical cardioversion (Date: 2014-05-19T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-19T20:43:51Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-19T20:43:51Z)
+- Depression screening (procedure) (Date: 2014-05-19T21:20:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-19T21:31:05Z)
+- Assessment of substance use (procedure) (Date: 2014-05-19T21:58:43Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-19T22:12:10Z)
+- Electrical cardioversion (Date: 2015-05-25T20:43:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-25T20:43:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-05-25T21:27:58Z)
+- Depression screening (procedure) (Date: 2015-05-25T21:48:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-25T22:01:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2016-05-23T20:43:51Z: Death Certification
+- 2016-05-11T20:43:51Z: Hospital admission
+- 2016-02-09T20:43:51Z: Follow-up encounter
+- 2015-05-25T20:43:51Z: General examination of patient (procedure)
+- 2015-05-17T14:43:51Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2016-09-08T20:43:51Z QOLS: 0.9 {score}
+- 2016-09-08T20:43:51Z DALY: 2.0 a
+- 2016-09-08T20:43:51Z QALY: 94.0 a
+- 2016-05-23T20:43:51Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2016-02-09T20:43:51Z Protein [Mass/volume] in Serum or Plasma: 74.0 g/dL
+- 2016-02-09T20:43:51Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 29.3 U/L
+- 2016-02-09T20:43:51Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 26.9 U/L
+- 2016-02-09T20:43:51Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 81.0 U/L
+- 2016-02-09T20:43:51Z Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- 2016-02-09T20:43:51Z Globulin [Mass/volume] in Serum by calculation: 2.1 g/L

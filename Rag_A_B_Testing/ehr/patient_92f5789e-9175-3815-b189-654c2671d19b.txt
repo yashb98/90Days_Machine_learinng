@@ -1,0 +1,52 @@
+== PATIENT RECORD: Ping698 Abbott774 (ID: 92f5789e-9175-3815-b189-654c2671d19b) ==
+
+== Demographics ==
+Patient ID: 92f5789e-9175-3815-b189-654c2671d19b
+Name: Ping698 Abbott774
+Gender: F
+Birthdate: 2013-12-15
+Address: 400 Orn Landing
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Concussion with no loss of consciousness
+- Fracture of ankle
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-12-15T23:15:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-23T23:15:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-25T23:15:38Z)
+- Throat culture (procedure) (Date: 2014-10-16T00:15:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-22T23:15:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-20T23:15:38Z)
+- Ankle X-ray (Date: 2017-09-23T23:15:38Z)
+- Bone immobilization (Date: 2017-09-23T23:15:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-11-19T23:15:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-06T23:15:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-06T23:15:38Z: Well child visit (procedure)
+- 2019-12-01T23:15:38Z: Well child visit (procedure)
+- 2018-11-25T23:15:38Z: Well child visit (procedure)
+- 2017-11-19T23:15:38Z: Well child visit (procedure)
+- 2017-11-17T23:57:09Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2020-12-15T23:15:38Z QOLS: 1.0 {score}
+- 2020-12-15T23:15:38Z DALY: 0.0 a
+- 2020-12-15T23:15:38Z QALY: 6.0 a
+- 2020-12-06T23:15:38Z Tobacco smoking status NHIS: Never smoker nan
+- 2020-12-06T23:15:38Z Body Height: 119.7 cm
+- 2020-12-06T23:15:38Z Body Weight: 20.7 kg
+- 2020-12-06T23:15:38Z Body Mass Index: 14.4 kg/m2
+- 2020-12-06T23:15:38Z Body mass index (BMI) [Percentile] Per age and gender: 23.8 %
+- 2020-12-06T23:15:38Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2020-12-06T23:15:38Z Systolic Blood Pressure: 103.0 mm[Hg]

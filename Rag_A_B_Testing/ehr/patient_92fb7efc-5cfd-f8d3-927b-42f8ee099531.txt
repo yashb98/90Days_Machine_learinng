@@ -1,0 +1,64 @@
+== PATIENT RECORD: Ahmed109 O'Reilly797 (ID: 92fb7efc-5cfd-f8d3-927b-42f8ee099531) ==
+
+== Demographics ==
+Patient ID: 92fb7efc-5cfd-f8d3-927b-42f8ee099531
+Name: Ahmed109 O'Reilly797
+Gender: M
+Birthdate: 2013-06-12
+Address: 857 Kling Arcade
+Marital Status: nan
+
+== Allergies ==
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Fracture subluxation of wrist
+- Viral sinusitis (disorder)
+- Concussion with no loss of consciousness
+- Nasal congestion (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-07-17T04:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-18T04:56:06Z)
+- Allergy screening test (Date: 2014-12-14T17:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-20T04:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-18T04:56:06Z)
+- X-ray or wrist (Date: 2016-02-17T04:56:06Z)
+- Bone immobilization (Date: 2016-02-17T04:56:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-05-18T04:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-16T04:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-17T04:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-23T04:56:06Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-29T04:56:06Z)
+- Face mask (physical object) (Date: 2020-12-16T04:56:06Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-09T04:56:06Z: Well child visit (procedure)
+- 2020-12-16T04:56:06Z: Encounter for symptom (procedure)
+- 2020-06-03T04:56:06Z: Well child visit (procedure)
+- 2020-03-06T05:39:02Z: Encounter for 'check-up'
+- 2020-01-21T05:39:02Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-12T04:56:06Z QOLS: 1.0 {score}
+- 2021-06-12T04:56:06Z DALY: 0.0 a
+- 2021-06-12T04:56:06Z QALY: 7.0 a
+- 2021-06-09T04:56:06Z Body Height: 130.3 cm
+- 2021-06-09T04:56:06Z Respiratory rate: 16.0 /min
+- 2021-06-09T04:56:06Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-09T04:56:06Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-06-09T04:56:06Z Body mass index (BMI) [Percentile] Per age and gender: 99.4 %
+- 2021-06-09T04:56:06Z Body Mass Index: 26.4 kg/m2
+- 2021-06-09T04:56:06Z Body Weight: 44.8 kg

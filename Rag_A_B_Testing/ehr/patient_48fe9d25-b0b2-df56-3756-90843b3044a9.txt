@@ -1,0 +1,138 @@
+== PATIENT RECORD: Bibi254 Stoltenberg489 (ID: 48fe9d25-b0b2-df56-3756-90843b3044a9) ==
+
+== Demographics ==
+Patient ID: 48fe9d25-b0b2-df56-3756-90843b3044a9
+Name: Bibi254 Stoltenberg489
+Gender: F
+Birthdate: 2005-09-17
+Address: 149 Legros Quay Apt 66
+Marital Status: nan
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Soya bean (substance)
+- Shellfish (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Seasonal allergic rhinitis
+- Acute bronchitis (disorder)
+- Sprain of ankle
+- Streptococcal sore throat (disorder)
+- Body mass index 30+ - obesity (finding)
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- Levora 0.15/30 28 Day Pack
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-09-26T10:07:46Z)
+- Throat culture (procedure) (Date: 2015-09-29T04:07:46Z)
+- Depression screening (procedure) (Date: 2017-10-07T10:07:46Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-07T10:07:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-07T10:19:09Z)
+- Assessment of substance use (procedure) (Date: 2017-10-07T10:39:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-10-07T10:50:33Z)
+- Anticipatory guidance (procedure) (Date: 2017-10-07T11:04:13Z)
+- Allergy screening test (Date: 2018-09-22T10:07:46Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-13T10:07:46Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-13T10:07:46Z)
+- Depression screening (procedure) (Date: 2018-10-13T10:37:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-13T10:48:23Z)
+- Assessment of substance use (procedure) (Date: 2018-10-13T11:18:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-13T11:33:05Z)
+- Anticipatory guidance (procedure) (Date: 2018-10-13T11:44:55Z)
+- Subcutaneous immunotherapy (Date: 2018-10-17T10:46:45Z)
+- Subcutaneous immunotherapy (Date: 2018-11-10T11:17:32Z)
+- Subcutaneous immunotherapy (Date: 2018-12-06T11:37:39Z)
+- Subcutaneous immunotherapy (Date: 2018-12-27T11:53:16Z)
+- Subcutaneous immunotherapy (Date: 2019-01-19T12:17:42Z)
+- Subcutaneous immunotherapy (Date: 2019-02-13T13:11:05Z)
+- Subcutaneous immunotherapy (Date: 2019-03-07T13:28:03Z)
+- Subcutaneous immunotherapy (Date: 2019-04-03T13:52:23Z)
+- Subcutaneous immunotherapy (Date: 2019-04-28T14:12:42Z)
+- Subcutaneous immunotherapy (Date: 2019-05-24T14:33:00Z)
+- Subcutaneous immunotherapy (Date: 2019-06-18T15:22:24Z)
+- Subcutaneous immunotherapy (Date: 2019-07-09T16:18:35Z)
+- Subcutaneous immunotherapy (Date: 2019-08-03T17:12:42Z)
+- Subcutaneous immunotherapy (Date: 2019-08-26T18:07:37Z)
+- Subcutaneous immunotherapy (Date: 2019-09-19T18:56:37Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-19T10:07:46Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-19T10:07:46Z)
+- Subcutaneous immunotherapy (Date: 2019-10-14T19:23:33Z)
+- Depression screening (procedure) (Date: 2019-10-19T10:35:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-10-19T10:45:43Z)
+- Assessment of substance use (procedure) (Date: 2019-10-19T11:14:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-10-19T11:27:41Z)
+- Anticipatory guidance (procedure) (Date: 2019-10-19T11:54:18Z)
+- Subcutaneous immunotherapy (Date: 2019-11-07T19:43:20Z)
+- Subcutaneous immunotherapy (Date: 2019-12-03T20:29:22Z)
+- Subcutaneous immunotherapy (Date: 2019-12-24T21:24:19Z)
+- Subcutaneous immunotherapy (Date: 2020-01-19T22:00:37Z)
+- Subcutaneous immunotherapy (Date: 2020-02-12T22:30:36Z)
+- Subcutaneous immunotherapy (Date: 2020-03-07T23:19:29Z)
+- Subcutaneous immunotherapy (Date: 2020-04-01T00:00:52Z)
+- Subcutaneous immunotherapy (Date: 2020-04-25T00:38:53Z)
+- Subcutaneous immunotherapy (Date: 2020-05-17T01:15:45Z)
+- Subcutaneous immunotherapy (Date: 2020-06-13T01:35:44Z)
+- Subcutaneous immunotherapy (Date: 2020-07-05T02:33:06Z)
+- Subcutaneous immunotherapy (Date: 2020-08-01T02:54:17Z)
+- Subcutaneous immunotherapy (Date: 2020-08-23T03:42:32Z)
+- Subcutaneous immunotherapy (Date: 2020-09-13T04:27:49Z)
+- Subcutaneous immunotherapy (Date: 2020-10-08T05:13:42Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-24T10:07:46Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-24T10:07:46Z)
+- Assessment of substance use (procedure) (Date: 2020-10-24T10:37:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-10-24T10:51:17Z)
+- Anticipatory guidance (procedure) (Date: 2020-10-24T11:13:35Z)
+- Subcutaneous immunotherapy (Date: 2020-10-30T05:40:24Z)
+- Subcutaneous immunotherapy (Date: 2020-11-25T06:36:58Z)
+- Subcutaneous immunotherapy (Date: 2020-12-21T07:11:00Z)
+- Subcutaneous immunotherapy (Date: 2021-01-13T07:49:33Z)
+- Subcutaneous immunotherapy (Date: 2021-02-03T08:43:19Z)
+- Subcutaneous immunotherapy (Date: 2021-02-26T09:20:23Z)
+- Subcutaneous immunotherapy (Date: 2021-03-19T10:12:48Z)
+- Subcutaneous immunotherapy (Date: 2021-04-11T10:55:36Z)
+- Subcutaneous immunotherapy (Date: 2021-05-03T11:55:21Z)
+- Subcutaneous immunotherapy (Date: 2021-05-29T12:26:44Z)
+- Subcutaneous immunotherapy (Date: 2021-06-20T12:56:15Z)
+- Subcutaneous immunotherapy (Date: 2021-07-11T13:41:27Z)
+- Subcutaneous immunotherapy (Date: 2021-08-07T14:13:16Z)
+- Subcutaneous immunotherapy (Date: 2021-08-28T15:03:56Z)
+- Subcutaneous immunotherapy (Date: 2021-09-19T15:53:12Z)
+- Subcutaneous immunotherapy (Date: 2021-10-16T16:39:35Z)
+- Depression screening (procedure) (Date: 2021-10-30T10:07:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-10-30T10:20:27Z)
+- Subcutaneous immunotherapy (Date: 2021-11-07T17:27:50Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T10:07:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-11-07T17:27:50Z: Outpatient procedure
+- 2021-10-30T10:07:46Z: Well child visit (procedure)
+- 2021-10-16T16:39:35Z: Outpatient procedure
+- 2021-10-16T10:07:46Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-30T10:41:33Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-10-30T10:07:46Z MCH [Entitic mass] by Automated count: 31.8 pg
+- 2021-10-30T10:07:46Z Platelet mean volume [Entitic volume] in Blood by Automated count: 10.0 fL
+- 2021-10-30T10:07:46Z Hemoglobin [Mass/volume] in Blood: 12.2 g/dL
+- 2021-10-30T10:07:46Z Hematocrit [Volume Fraction] of Blood by Automated count: 42.3 %
+- 2021-10-30T10:07:46Z MCV [Entitic volume] by Automated count: 87.2 fL
+- 2021-10-30T10:07:46Z Respiratory rate: 16.0 /min
+- 2021-10-30T10:07:46Z MCHC [Mass/volume] by Automated count: 33.7 g/dL
+- 2021-10-30T10:07:46Z Erythrocyte distribution width [Entitic volume] by Automated count: 40.5 fL
+- 2021-10-30T10:07:46Z Platelets [#/volume] in Blood by Automated count: 319.2 10*3/uL

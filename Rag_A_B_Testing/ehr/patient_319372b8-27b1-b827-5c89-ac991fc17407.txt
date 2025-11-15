@@ -1,0 +1,174 @@
+== PATIENT RECORD: Booker670 Brown30 (ID: 319372b8-27b1-b827-5c89-ac991fc17407) ==
+
+== Demographics ==
+Patient ID: 319372b8-27b1-b827-5c89-ac991fc17407
+Name: Booker670 Brown30
+Gender: M
+Birthdate: 1959-11-27
+Address: 336 Fay Rest Apt 60
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+- Eggs (edible) (substance)
+- Shellfish (substance)
+- Fish (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Served in armed forces (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Body mass index 30+ - obesity (finding)
+- Transport problems (finding)
+- Prediabetes
+- Has a criminal record (finding)
+- Anemia (disorder)
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Victim of intimate partner abuse (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Limited social contact (finding)
+- At risk for suicide (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+- Chronic low back pain (finding)
+- Sinusitis (disorder)
+- Social isolation (finding)
+- Smokes tobacco daily
+- Laceration of forearm
+- Headache (finding)
+- Sputum finding (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute pulmonary embolism (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Sertraline 100 MG Oral Tablet
+- 24hr nicotine transdermal patch
+- Acetaminophen 325 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-10T20:14:53Z)
+- Depression screening (procedure) (Date: 2012-08-10T21:06:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-10T21:18:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-16T20:14:53Z)
+- Depression screening (procedure) (Date: 2013-08-16T21:09:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-16T21:19:27Z)
+- Assessment of substance use (procedure) (Date: 2013-08-16T21:39:44Z)
+- Screening for drug abuse (procedure) (Date: 2013-08-16T21:51:10Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-05T20:14:53Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T21:03:58Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T21:49:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T22:46:34Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T23:32:20Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T00:29:16Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T01:24:36Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T02:20:28Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T03:16:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T04:09:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-22T20:14:53Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-22T20:14:53Z)
+- Screening for domestic abuse (procedure) (Date: 2014-08-22T21:06:46Z)
+- Depression screening (procedure) (Date: 2014-08-22T21:43:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-22T21:57:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-28T20:14:53Z)
+- Screening for domestic abuse (procedure) (Date: 2015-08-28T20:55:40Z)
+- Depression screening (procedure) (Date: 2015-08-28T21:40:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-28T21:51:40Z)
+- Assessment of substance use (procedure) (Date: 2015-08-28T22:13:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-08-28T22:27:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-02T20:14:53Z)
+- Assessment of substance use (procedure) (Date: 2016-09-02T20:51:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-09-02T21:05:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-08T20:14:53Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-08T20:14:53Z)
+- Assessment of substance use (procedure) (Date: 2017-09-08T21:05:13Z)
+- Screening for drug abuse (procedure) (Date: 2017-09-08T21:16:06Z)
+- Suture open wound (Date: 2018-02-02T20:14:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-14T20:14:53Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-14T20:14:53Z)
+- Depression screening (procedure) (Date: 2018-09-14T21:01:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-14T21:13:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-20T20:14:53Z)
+- Depression screening (procedure) (Date: 2019-09-20T20:57:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-20T21:08:52Z)
+- Assessment of substance use (procedure) (Date: 2019-09-20T21:35:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-09-20T21:47:50Z)
+- Face mask (physical object) (Date: 2020-08-18T20:14:53Z)
+- Plain chest X-ray (procedure) (Date: 2020-08-18T21:48:51Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-18T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-18T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-19T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-19T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-20T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-20T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-21T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-21T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-22T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-22T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-23T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-23T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-24T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-24T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-25T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-25T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-26T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-26T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-27T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-27T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-28T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-28T22:23:27Z)
+- Oxygen administration by mask (procedure) (Date: 2020-08-29T22:23:27Z)
+- Placing subject in prone position (procedure) (Date: 2020-08-29T22:23:27Z)
+- Digital examination of rectum (Date: 2020-09-25T20:14:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-25T20:14:53Z)
+- Depression screening (procedure) (Date: 2020-09-25T21:06:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-25T21:20:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-09-25T21:41:30Z)
+- Digital examination of rectum (Date: 2021-09-25T20:19:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-01T20:14:53Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-01T20:14:53Z)
+- Screening for domestic abuse (procedure) (Date: 2021-10-01T20:50:14Z)
+- Assessment of substance use (procedure) (Date: 2021-10-01T21:18:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-10-01T21:32:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-01T20:14:53Z: General examination of patient (procedure)
+- 2021-05-07T20:14:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-16T20:14:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-25T20:14:53Z: General examination of patient (procedure)
+- 2020-08-18T21:48:51Z: Hospital admission for isolation (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-01T21:55:08Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-10-01T21:18:30Z Total score [HARK]: 0.0 {score}
+- 2021-10-01T20:50:14Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan
+- 2021-10-01T20:50:14Z What address do you live at?: 336 Fay Rest Apt 60 nan
+- 2021-10-01T20:50:14Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-10-01T20:50:14Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-10-01T20:50:14Z Are you a refugee?: No nan
+- 2021-10-01T20:50:14Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-10-01T20:50:14Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-10-01T20:50:14Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

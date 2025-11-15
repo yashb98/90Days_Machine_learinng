@@ -1,0 +1,59 @@
+== PATIENT RECORD: Norman647 Glover433 (ID: 4a3c6287-bc6a-681b-4382-0036f2432a51) ==
+
+== Demographics ==
+Patient ID: 4a3c6287-bc6a-681b-4382-0036f2432a51
+Name: Norman647 Glover433
+Gender: M
+Birthdate: 2015-06-24
+Address: 531 Will Vale Unit 54
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Cough (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2016-04-20T19:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-04T18:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-31T18:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-30T18:41:01Z)
+- Throat culture (procedure) (Date: 2017-04-17T08:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-29T18:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-28T18:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-29T18:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-03T18:41:01Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-09T18:41:01Z)
+- Throat culture (procedure) (Date: 2021-06-11T03:41:01Z)
+- Face mask (physical object) (Date: 2021-07-22T18:41:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-22T18:41:01Z: Encounter for symptom (procedure)
+- 2021-06-11T03:41:01Z: Encounter for symptom
+- 2021-06-09T18:41:01Z: Well child visit (procedure)
+- 2020-06-03T18:41:01Z: Well child visit (procedure)
+- 2019-05-29T18:41:01Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-22T19:56:46Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Not detected (qualifier value) nan
+- 2021-07-22T18:53:18Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-07-22T18:53:18Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

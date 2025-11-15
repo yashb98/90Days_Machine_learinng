@@ -1,0 +1,94 @@
+== PATIENT RECORD: Jewell855 Schmidt332 (ID: 75bae569-fca6-6a70-00fe-2910d51ddd65) ==
+
+== Demographics ==
+Patient ID: 75bae569-fca6-6a70-00fe-2910d51ddd65
+Name: Jewell855 Schmidt332
+Gender: M
+Birthdate: 1988-01-30
+Address: 583 Leuschke Ville Unit 51
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Unemployed (finding)
+- Social isolation (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Chronic low back pain (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-04-06T17:10:18Z)
+- Assessment of substance use (procedure) (Date: 2013-04-06T17:47:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-06T17:57:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-12T17:10:18Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-12T18:00:04Z)
+- Depression screening (procedure) (Date: 2014-04-12T18:17:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-12T18:30:57Z)
+- Assessment of substance use (procedure) (Date: 2014-04-12T18:55:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-12T19:06:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-18T17:10:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-18T17:10:18Z)
+- Depression screening (procedure) (Date: 2015-04-18T17:50:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-18T18:02:01Z)
+- Assessment of substance use (procedure) (Date: 2015-04-18T18:25:36Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-18T18:40:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-23T17:10:18Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-23T17:10:18Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-23T17:48:14Z)
+- Depression screening (procedure) (Date: 2016-04-23T18:13:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-23T18:28:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-29T17:10:18Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-29T17:41:58Z)
+- Screening for domestic abuse (procedure) (Date: 2017-04-29T17:59:25Z)
+- Depression screening (procedure) (Date: 2017-04-29T18:41:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-29T18:53:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-05T17:10:18Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-05T17:45:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-11T17:10:18Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-11T17:10:18Z)
+- Depression screening (procedure) (Date: 2019-05-11T17:44:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-11T17:55:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-16T17:10:18Z)
+- Depression screening (procedure) (Date: 2020-05-16T17:41:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-16T17:55:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-16T18:21:14Z)
+- Assessment of substance use (procedure) (Date: 2020-05-16T18:51:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-16T19:02:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-22T17:10:18Z)
+- Depression screening (procedure) (Date: 2021-05-22T17:45:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-22T17:56:33Z)
+- Assessment of substance use (procedure) (Date: 2021-05-22T18:18:21Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-22T18:30:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T17:10:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-16T17:10:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-22T17:10:18Z: General examination of patient (procedure)
+- 2020-05-16T17:10:18Z: General examination of patient (procedure)
+- 2019-05-11T17:10:18Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-22T18:54:09Z Total score [DAST-10]: 2.0 {score}
+- 2021-05-22T18:18:21Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-22T17:45:35Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-05-22T17:45:35Z What is your main insurance?: Private insurance nan
+- 2021-05-22T17:45:35Z What is your housing situation today?: I have housing nan
+- 2021-05-22T17:45:35Z Are you worried about losing your housing?: No nan
+- 2021-05-22T17:45:35Z What address do you live at?: 583 Leuschke Ville Unit 51 nan
+- 2021-05-22T17:45:35Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-05-22T17:45:35Z What is your current work situation?: Unemployed (finding) nan
+- 2021-05-22T17:45:35Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 137168 /a

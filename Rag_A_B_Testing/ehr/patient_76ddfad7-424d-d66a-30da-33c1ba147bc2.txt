@@ -1,0 +1,81 @@
+== PATIENT RECORD: Nona876 Satterfield305 (ID: 76ddfad7-424d-d66a-30da-33c1ba147bc2) ==
+
+== Demographics ==
+Patient ID: 76ddfad7-424d-d66a-30da-33c1ba147bc2
+Name: Nona876 Satterfield305
+Gender: F
+Birthdate: 2003-04-04
+Address: 120 Stoltenberg Station
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Laceration of foot
+- Acute bronchitis (disorder)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Yaz 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-06T21:19:07Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-18T21:19:07Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-24T21:19:07Z)
+- Depression screening (procedure) (Date: 2015-04-24T21:34:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-04-24T21:45:43Z)
+- Assessment of substance use (procedure) (Date: 2015-04-24T22:11:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-04-24T22:24:30Z)
+- Anticipatory guidance (procedure) (Date: 2015-04-24T22:38:37Z)
+- Depression screening (procedure) (Date: 2016-04-29T21:19:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-04-29T21:30:39Z)
+- Suture open wound (Date: 2016-09-01T21:19:07Z)
+- Injection of tetanus antitoxin (Date: 2016-09-01T21:41:39Z)
+- Assessment of substance use (procedure) (Date: 2017-05-05T21:19:07Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-05T21:19:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-05-05T21:30:45Z)
+- Anticipatory guidance (procedure) (Date: 2017-05-05T21:42:53Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-11T21:19:07Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-17T21:19:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-17T21:19:07Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-22T21:19:07Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-22T21:19:07Z)
+- Assessment of substance use (procedure) (Date: 2020-05-22T21:43:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-22T21:58:04Z)
+- Anticipatory guidance (procedure) (Date: 2020-05-22T22:26:14Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-03-13T21:19:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-28T21:19:07Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-28T21:19:07Z)
+- Depression screening (procedure) (Date: 2021-05-28T21:52:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-28T22:04:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-28T22:25:04Z)
+- Assessment of substance use (procedure) (Date: 2021-05-28T22:45:21Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-28T22:58:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-28T21:19:07Z: General examination of patient (procedure)
+- 2021-03-13T21:19:07Z: Consultation for treatment
+- 2020-05-22T21:19:07Z: Well child visit (procedure)
+- 2019-12-09T13:19:07Z: Encounter for symptom
+- 2019-05-17T21:19:07Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-28T23:28:47Z Total score [DAST-10]: 0.0 {score}
+- 2021-05-28T22:45:21Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 17.0 {score}
+- 2021-05-28T22:25:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2021-05-28T21:52:30Z Are you worried about losing your housing?: Yes nan
+- 2021-05-28T21:52:30Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-05-28T21:52:30Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-05-28T21:52:30Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-28T21:52:30Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 50607 /a
+- 2021-05-28T21:52:30Z What is your main insurance?: Private insurance nan
+- 2021-05-28T21:52:30Z What is your current work situation?: Full-time work nan

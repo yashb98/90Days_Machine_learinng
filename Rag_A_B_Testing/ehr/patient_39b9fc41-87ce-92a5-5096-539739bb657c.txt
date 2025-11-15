@@ -1,0 +1,119 @@
+== PATIENT RECORD: Jenice416 O'Conner199 (ID: 39b9fc41-87ce-92a5-5096-539739bb657c) ==
+
+== Demographics ==
+Patient ID: 39b9fc41-87ce-92a5-5096-539739bb657c
+Name: Jenice416 O'Conner199
+Gender: F
+Birthdate: 1954-08-28
+Address: 192 Ebert Knoll
+Marital Status: M
+
+== Allergies ==
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Prediabetes
+- Chronic intractable migraine without aura
+- Impacted molars
+- Chronic pain
+- Drug overdose
+- Social isolation (finding)
+- Has a criminal record (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Chronic low back pain (finding)
+- Osteoarthritis of hip
+- Osteoporosis (disorder)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Severe anxiety (panic) (finding
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-13T19:22:08Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-13T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-13T20:17:29Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-13T20:32:37Z)
+- Depression screening (procedure) (Date: 2012-10-13T20:58:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-13T21:11:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-19T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-19T20:12:36Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-19T20:38:34Z)
+- Information gathering (procedure) (Date: 2014-09-07T19:22:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-25T19:22:08Z)
+- Bone density scan (procedure) (Date: 2014-10-25T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-25T20:11:33Z)
+- Depression screening (procedure) (Date: 2014-10-25T20:39:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-25T20:49:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-31T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-31T20:14:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-16T19:22:08Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-16T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-16T20:05:48Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-16T20:22:37Z)
+- Depression screening (procedure) (Date: 2016-04-16T20:55:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-16T21:05:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-05T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-05T20:12:17Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-05T20:28:08Z)
+- Depression screening (procedure) (Date: 2016-11-05T20:57:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-05T21:07:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-11T19:22:08Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-11T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-11T19:58:27Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-11T20:20:28Z)
+- Depression screening (procedure) (Date: 2017-11-11T21:00:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-11T21:12:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-17T19:22:08Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-17T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-17T20:17:20Z)
+- Depression screening (procedure) (Date: 2018-11-17T20:32:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-17T20:42:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-23T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-23T19:56:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-11-23T20:25:29Z)
+- Depression screening (procedure) (Date: 2019-11-23T20:46:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-23T20:58:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-08T19:22:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-08T19:22:08Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-08T20:04:05Z)
+- Depression screening (procedure) (Date: 2020-02-08T20:30:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-08T20:41:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-28T19:22:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-28T19:22:08Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-11-28T20:10:03Z)
+- Depression screening (procedure) (Date: 2020-11-28T20:36:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-28T20:47:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T19:22:08Z: Encounter for problem (procedure)
+- 2021-10-06T19:22:08Z: Encounter for problem (procedure)
+- 2021-09-06T19:22:08Z: Encounter for problem (procedure)
+- 2021-04-10T19:22:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-13T19:22:08Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-28T19:22:08Z QOLS: 0.2 {score}
+- 2021-08-28T19:22:08Z DALY: 35.4 a
+- 2021-08-28T19:22:08Z QALY: 30.6 a
+- 2020-11-28T21:13:41Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-11-28T20:36:51Z Fall risk total [Morse Fall Scale]: 120.0 {#}
+- 2020-11-28T20:36:51Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2020-11-28T20:10:03Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-11-28T20:10:03Z What is your current work situation?: Full-time work nan
+- 2020-11-28T20:10:03Z What is your housing situation today?: I have housing nan
+- 2020-11-28T20:10:03Z Are you worried about losing your housing?: No nan

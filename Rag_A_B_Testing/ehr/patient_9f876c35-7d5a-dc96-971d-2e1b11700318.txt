@@ -1,0 +1,46 @@
+== PATIENT RECORD: Kenton313 Purdy2 (ID: 9f876c35-7d5a-dc96-971d-2e1b11700318) ==
+
+== Demographics ==
+Patient ID: 9f876c35-7d5a-dc96-971d-2e1b11700318
+Name: Kenton313 Purdy2
+Gender: M
+Birthdate: 2018-08-28
+Address: 842 Metz Trace
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-08-29T01:42:08Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-08T01:42:08Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-06T01:42:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-05T01:42:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-05T01:42:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-04T01:42:08Z: Well child visit (procedure)
+- 2021-02-03T01:42:08Z: Well child visit (procedure)
+- 2020-08-05T01:42:08Z: Well child visit (procedure)
+- 2020-04-01T01:42:08Z: Encounter for symptom
+- 2020-02-05T01:42:08Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-29T01:42:08Z QOLS: 1.0 {score}
+- 2021-08-29T01:42:08Z DALY: 0.0 a
+- 2021-08-29T01:42:08Z QALY: 2.0 a
+- 2021-08-04T01:42:08Z Systolic Blood Pressure: 118.0 mm[Hg]
+- 2021-08-04T01:42:08Z Body Height: 93.9 cm
+- 2021-08-04T01:42:08Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-08-04T01:42:08Z Body Weight: 12.3 kg
+- 2021-08-04T01:42:08Z Weight-for-length Per age and sex: 2.8 %
+- 2021-08-04T01:42:08Z Head Occipital-frontal circumference: 49.3 cm
+- 2021-08-04T01:42:08Z Body Mass Index: 13.9 kg/m2

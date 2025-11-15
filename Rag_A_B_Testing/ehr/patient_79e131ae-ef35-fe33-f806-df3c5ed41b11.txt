@@ -1,0 +1,174 @@
+== PATIENT RECORD: Chiquita638 Schuppe920 (ID: 79e131ae-ef35-fe33-f806-df3c5ed41b11) ==
+
+== Demographics ==
+Patient ID: 79e131ae-ef35-fe33-f806-df3c5ed41b11
+Name: Chiquita638 Schuppe920
+Gender: F
+Birthdate: 1952-04-11
+Address: 507 Robel Trafficway Suite 54
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Normal pregnancy
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Primary fibromyalgia syndrome
+- Not in labor force (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Chronic obstructive bronchitis (disorder)
+- Osteoarthritis of knee
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen 500 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 1985-02-09T01:29:00Z)
+- Ultrasound scan for fetal viability (Date: 1985-02-09T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-02-09T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-02-09T01:29:00Z)
+- Blood typing  RH typing (Date: 1985-02-09T01:29:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1985-02-09T01:29:00Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1985-02-09T01:29:00Z)
+- Human immunodeficiency virus antigen test (Date: 1985-02-09T01:29:00Z)
+- Chlamydia antigen test (Date: 1985-02-09T01:29:00Z)
+- Gonorrhea infection test (Date: 1985-02-09T01:29:00Z)
+- Syphilis infection test (Date: 1985-02-09T01:29:00Z)
+- Urine culture (Date: 1985-02-09T01:29:00Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1985-02-09T01:29:00Z)
+- Urine screening test for diabetes (Date: 1985-02-09T01:29:00Z)
+- Hepatitis C antibody test (Date: 1985-02-09T01:29:00Z)
+- Rubella screening (Date: 1985-02-09T01:29:00Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1985-02-09T01:29:00Z)
+- Skin test for tuberculosis (Date: 1985-02-09T01:29:00Z)
+- Urine protein test (Date: 1985-02-09T01:29:00Z)
+- Physical examination of mother (Date: 1985-02-09T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-03-09T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-03-09T01:29:00Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1985-03-09T01:29:00Z)
+- Fetal anatomy study (Date: 1985-04-06T01:29:00Z)
+- Alpha-fetoprotein test (Date: 1985-04-06T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-04-06T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-04-06T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-05-04T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-05-04T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-06-01T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-06-01T01:29:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1985-06-29T01:29:00Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1985-06-29T01:29:00Z)
+- Urine screening for glucose (Date: 1985-06-29T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-06-29T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-06-29T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-07-27T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-07-27T01:29:00Z)
+- Streptococcus pneumoniae group B antigen test (Date: 1985-08-24T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1985-08-24T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1985-08-24T01:29:00Z)
+- Episiotomy (Date: 1985-09-07T01:29:00Z)
+- Childbirth (Date: 1985-09-07T01:29:00Z)
+- Physical examination following birth (Date: 1985-10-19T01:29:00Z)
+- Depression screening (Date: 1985-10-19T01:29:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-06-28T01:29:00Z)
+- Assessment of anxiety (procedure) (Date: 1986-06-28T02:08:36Z)
+- Depression screening (procedure) (Date: 1986-06-28T02:34:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-06-28T02:48:59Z)
+- Measurement of respiratory function (procedure) (Date: 1986-08-24T18:29:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-08-30T01:29:00Z)
+- Medication Reconciliation (procedure) (Date: 1986-08-30T01:29:00Z)
+- Assessment of substance use (procedure) (Date: 1986-08-30T02:20:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1986-08-30T02:33:27Z)
+- Standard pregnancy test (Date: 1987-02-07T01:29:00Z)
+- Ultrasound scan for fetal viability (Date: 1987-02-07T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-02-07T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-02-07T01:29:00Z)
+- Blood typing  RH typing (Date: 1987-02-07T01:29:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1987-02-07T01:29:00Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1987-02-07T01:29:00Z)
+- Human immunodeficiency virus antigen test (Date: 1987-02-07T01:29:00Z)
+- Chlamydia antigen test (Date: 1987-02-07T01:29:00Z)
+- Gonorrhea infection test (Date: 1987-02-07T01:29:00Z)
+- Syphilis infection test (Date: 1987-02-07T01:29:00Z)
+- Urine culture (Date: 1987-02-07T01:29:00Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1987-02-07T01:29:00Z)
+- Urine screening test for diabetes (Date: 1987-02-07T01:29:00Z)
+- Hepatitis C antibody test (Date: 1987-02-07T01:29:00Z)
+- Rubella screening (Date: 1987-02-07T01:29:00Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1987-02-07T01:29:00Z)
+- Skin test for tuberculosis (Date: 1987-02-07T01:29:00Z)
+- Urine protein test (Date: 1987-02-07T01:29:00Z)
+- Physical examination of mother (Date: 1987-02-07T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-03-07T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-03-07T01:29:00Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1987-03-07T01:29:00Z)
+- Fetal anatomy study (Date: 1987-04-04T01:29:00Z)
+- Alpha-fetoprotein test (Date: 1987-04-04T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-04-04T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-04-04T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-05-02T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-05-02T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-05-30T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-05-30T01:29:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1987-06-27T01:29:00Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1987-06-27T01:29:00Z)
+- Urine screening for glucose (Date: 1987-06-27T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-06-27T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-06-27T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-07-25T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-07-25T01:29:00Z)
+- Streptococcus pneumoniae group B antigen test (Date: 1987-08-22T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-08-22T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-08-22T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-09-05T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-09-05T01:29:00Z)
+- Evaluation of uterine fundal height (Date: 1987-09-12T01:29:00Z)
+- Auscultation of the fetal heart (Date: 1987-09-12T01:29:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-09-12T01:29:00Z)
+- Childbirth (Date: 1987-09-19T01:29:00Z)
+- Physical examination following birth (Date: 1987-10-31T01:29:00Z)
+- Depression screening (Date: 1987-10-31T01:29:00Z)
+- Bilateral tubal ligation (Date: 1987-11-17T01:29:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-07-01T01:29:00Z)
+- Depression screening (procedure) (Date: 1989-07-01T02:26:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-07-01T02:41:41Z)
+- Assessment of substance use (procedure) (Date: 1989-07-01T03:05:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-07-01T03:19:38Z)
+- Spirometry (procedure) (Date: 1992-04-18T01:29:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-04-18T01:29:00Z)
+- Depression screening (procedure) (Date: 1992-04-18T02:01:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-04-18T02:11:12Z)
+- Assessment of substance use (procedure) (Date: 1992-04-18T02:39:45Z)
+- Screening for drug abuse (procedure) (Date: 1992-04-18T02:53:13Z)
+- Spirometry (procedure) (Date: 1994-04-23T01:29:00Z)
+
+== Recent Encounters (Last 5) ==
+- 1994-04-30T01:29:00Z: Death Certification
+- 1994-04-23T01:29:00Z: General examination of patient (procedure)
+- 1993-05-15T01:29:00Z: Encounter for problem
+- 1993-03-26T01:29:00Z: Hospital admission
+- 1992-04-18T01:29:00Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1994-04-30T01:29:00Z Cause of Death [US Standard Certificate of Death]: Chronic obstructive bronchitis (disorder) nan
+- 1994-04-23T01:29:00Z FEV1/FVC: 57.7 %
+- 1993-05-15T01:29:00Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 10.0 {score}
+- 1992-04-18T03:21:21Z Total score [DAST-10]: 0.0 {score}
+- 1992-04-18T02:39:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 1992-04-18T02:01:01Z What is your current work situation?: Full-time work nan
+- 1992-04-18T02:01:01Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1992-04-18T02:01:01Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1992-04-18T02:01:01Z Are you a refugee?: No nan
+- 1992-04-18T02:01:01Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

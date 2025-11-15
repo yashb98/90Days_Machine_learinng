@@ -1,0 +1,104 @@
+== PATIENT RECORD: Odis959 Veum823 (ID: a8b8d20e-ecf0-4cb1-7536-38683ba360aa) ==
+
+== Demographics ==
+Patient ID: a8b8d20e-ecf0-4cb1-7536-38683ba360aa
+Name: Odis959 Veum823
+Gender: M
+Birthdate: 1980-05-08
+Address: 552 Kozey Club Suite 35
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Chronic pain
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Laceration of foot
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Acute bacterial sinusitis (disorder)
+
+== Current Medications ==
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-02-13T05:08:51Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-13T05:39:50Z)
+- Depression screening (procedure) (Date: 2014-02-13T05:56:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-13T06:07:34Z)
+- Assessment of substance use (procedure) (Date: 2014-02-13T06:31:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-13T06:46:44Z)
+- Throat culture (procedure) (Date: 2014-08-11T04:08:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-19T05:08:51Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-19T05:08:51Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-19T05:45:58Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-19T06:02:23Z)
+- Assessment of substance use (procedure) (Date: 2015-02-19T06:38:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-19T06:50:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-25T05:08:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-25T05:08:51Z)
+- Assessment of substance use (procedure) (Date: 2016-02-25T05:48:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-25T06:03:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-02T05:08:51Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-02T05:08:51Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-02T05:52:32Z)
+- Depression screening (procedure) (Date: 2017-03-02T06:15:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-02T06:29:19Z)
+- Assessment of substance use (procedure) (Date: 2017-03-02T06:51:48Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-02T07:05:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-08T05:08:51Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-08T05:47:52Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-08T06:03:59Z)
+- Suture open wound (Date: 2018-10-04T05:08:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-14T05:08:51Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-14T05:08:51Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-14T05:48:56Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-14T06:18:54Z)
+- Depression screening (procedure) (Date: 2019-03-14T07:01:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-14T07:16:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-19T05:08:51Z)
+- Depression screening (procedure) (Date: 2020-03-19T05:46:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-19T05:57:09Z)
+- Assessment of substance use (procedure) (Date: 2020-03-19T06:24:17Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-19T06:37:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-25T05:08:51Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-25T05:08:51Z)
+- Depression screening (procedure) (Date: 2021-03-25T05:42:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-25T05:56:36Z)
+- Assessment of substance use (procedure) (Date: 2021-03-25T06:21:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-25T06:32:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T05:08:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-19T05:08:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-25T05:08:51Z: General examination of patient (procedure)
+- 2020-08-20T06:08:51Z: Encounter for symptom
+- 2020-03-19T05:08:51Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-08T05:08:51Z QOLS: 1.0 {score}
+- 2021-05-08T05:08:51Z DALY: 0.2 a
+- 2021-05-08T05:08:51Z QALY: 39.8 a
+- 2021-03-25T06:55:20Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-03-25T06:21:00Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-25T05:42:53Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan
+- 2021-03-25T05:42:53Z What address do you live at?: 552 Kozey Club Suite 35 nan
+- 2021-03-25T05:42:53Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-25T05:42:53Z What is your current work situation?: Part-time or temporary work nan
+- 2021-03-25T05:42:53Z What is your main insurance?: Private insurance nan

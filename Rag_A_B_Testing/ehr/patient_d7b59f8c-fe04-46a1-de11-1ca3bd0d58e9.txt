@@ -1,0 +1,106 @@
+== PATIENT RECORD: Tad831 Pagac496 (ID: d7b59f8c-fe04-46a1-de11-1ca3bd0d58e9) ==
+
+== Demographics ==
+Patient ID: d7b59f8c-fe04-46a1-de11-1ca3bd0d58e9
+Name: Tad831 Pagac496
+Gender: M
+Birthdate: 1998-11-24
+Address: 934 Runolfsson Village Unit 4
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Sprain of ankle
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Misuses drugs (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2011-12-20T05:01:48Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-20T13:01:48Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-20T13:01:48Z)
+- Depression screening (procedure) (Date: 2011-12-20T13:27:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2011-12-20T13:39:16Z)
+- Assessment of substance use (procedure) (Date: 2011-12-20T14:04:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2011-12-20T14:14:46Z)
+- Anticipatory guidance (procedure) (Date: 2011-12-20T14:36:08Z)
+- Depression screening (procedure) (Date: 2012-12-25T13:01:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-12-25T13:16:03Z)
+- Assessment of substance use (procedure) (Date: 2012-12-25T13:36:55Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-12-25T13:49:10Z)
+- Anticipatory guidance (procedure) (Date: 2012-12-25T14:03:39Z)
+- Measurement of respiratory function (procedure) (Date: 2013-02-10T11:01:48Z)
+- Depression screening (procedure) (Date: 2013-12-31T13:01:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-12-31T13:12:33Z)
+- Assessment of substance use (procedure) (Date: 2013-12-31T13:39:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-12-31T13:50:10Z)
+- Anticipatory guidance (procedure) (Date: 2013-12-31T14:11:51Z)
+- Assessment of substance use (procedure) (Date: 2015-01-06T13:01:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-06T13:16:27Z)
+- Anticipatory guidance (procedure) (Date: 2015-01-06T13:33:00Z)
+- Depression screening (procedure) (Date: 2016-01-12T13:01:48Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-12T13:01:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-01-12T13:14:49Z)
+- Assessment of substance use (procedure) (Date: 2016-01-12T13:42:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-01-12T13:53:01Z)
+- Anticipatory guidance (procedure) (Date: 2016-01-12T14:15:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-17T13:01:48Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-17T14:00:01Z)
+- Screening for domestic abuse (procedure) (Date: 2017-01-17T14:19:50Z)
+- Depression screening (procedure) (Date: 2017-01-17T14:49:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-17T15:01:26Z)
+- Assessment of substance use (procedure) (Date: 2017-01-17T15:26:32Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-17T15:36:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-23T13:01:48Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-23T13:01:48Z)
+- Depression screening (procedure) (Date: 2018-01-23T13:57:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-23T14:08:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-29T13:01:48Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-29T13:58:11Z)
+- Depression screening (procedure) (Date: 2019-01-29T14:19:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-29T14:31:47Z)
+- Assessment of substance use (procedure) (Date: 2019-01-29T14:59:25Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-29T15:09:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-04T13:01:48Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-04T13:01:48Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-04T13:48:22Z)
+- Depression screening (procedure) (Date: 2020-02-04T14:20:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-04T14:33:25Z)
+- Assessment of substance use (procedure) (Date: 2020-02-04T14:56:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-04T15:10:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-09T13:01:48Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-09T13:53:20Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-09T14:11:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-16T13:01:48Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-23T13:01:48Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-09T13:01:48Z: General examination of patient (procedure)
+- 2021-01-13T02:01:48Z: Encounter for symptom
+- 2020-02-04T13:01:48Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-09T14:50:33Z Total score [HARK]: 0.0 {score}
+- 2021-02-09T14:11:49Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-02-09T13:53:20Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-02-09T13:53:20Z What address do you live at?: 934 Runolfsson Village Unit 4 nan
+- 2021-02-09T13:53:20Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-02-09T13:53:20Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-02-09T13:53:20Z Are you a refugee?: No nan
+- 2021-02-09T13:53:20Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-02-09T13:53:20Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-02-09T13:53:20Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

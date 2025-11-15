@@ -1,0 +1,124 @@
+== PATIENT RECORD: Tillie335 Legros616 (ID: ddb90603-4bab-3548-62b4-b3e98e309448) ==
+
+== Demographics ==
+Patient ID: ddb90603-4bab-3548-62b4-b3e98e309448
+Name: Tillie335 Legros616
+Gender: F
+Birthdate: 1977-02-05
+Address: 766 Boyle Frontage road
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Hypertension
+- Only received primary school education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Diabetes
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Sprain of ankle
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Misuses drugs (finding)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-07T17:08:11Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-07T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-07T17:58:09Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-07T18:21:39Z)
+- Depression screening (procedure) (Date: 2012-07-07T18:57:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-07T19:11:04Z)
+- Assessment of substance use (procedure) (Date: 2012-07-07T19:36:16Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-07T19:47:16Z)
+- Bilateral tubal ligation (Date: 2012-07-10T17:08:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-13T17:08:11Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-13T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-13T17:57:32Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-13T18:26:53Z)
+- Assessment of substance use (procedure) (Date: 2013-07-13T18:53:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-13T19:05:50Z)
+- Measurement of respiratory function (procedure) (Date: 2013-10-26T18:08:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-29T17:08:11Z)
+- Depression screening (procedure) (Date: 2014-03-29T18:03:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-29T18:18:01Z)
+- Assessment of substance use (procedure) (Date: 2014-03-29T18:45:56Z)
+- Screening for drug abuse (procedure) (Date: 2014-03-29T18:57:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-19T17:08:11Z)
+- Depression screening (procedure) (Date: 2014-07-19T18:08:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-19T18:18:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-25T17:08:11Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-25T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-25T17:43:09Z)
+- Depression screening (procedure) (Date: 2015-07-25T18:08:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-25T18:21:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-30T17:08:11Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-30T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-30T17:39:12Z)
+- Depression screening (procedure) (Date: 2016-07-30T18:08:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-30T18:22:24Z)
+- Assessment of substance use (procedure) (Date: 2016-07-30T18:44:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-30T18:56:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-05T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-05T17:38:24Z)
+- Assessment of substance use (procedure) (Date: 2017-08-05T18:07:18Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-05T18:20:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-11T17:08:11Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-11T17:42:23Z)
+- Depression screening (procedure) (Date: 2018-08-11T18:08:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-11T18:22:33Z)
+- Assessment of substance use (procedure) (Date: 2018-08-11T18:45:15Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-11T18:56:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-17T17:08:11Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-17T17:08:11Z)
+- Assessment of substance use (procedure) (Date: 2019-08-17T17:57:35Z)
+- Screening for drug abuse (procedure) (Date: 2019-08-17T18:10:32Z)
+- Throat culture (procedure) (Date: 2020-02-29T07:08:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-22T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-22T17:54:30Z)
+- Depression screening (procedure) (Date: 2020-08-22T18:19:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-22T18:32:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-28T17:08:11Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-28T18:02:13Z)
+- Depression screening (procedure) (Date: 2021-08-28T18:24:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-28T18:37:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-28T17:08:11Z: General examination of patient (procedure)
+- 2020-08-22T17:08:11Z: General examination of patient (procedure)
+- 2020-02-29T07:08:11Z: Encounter for symptom
+- 2019-08-17T17:08:11Z: General examination of patient (procedure)
+- 2018-08-11T17:08:11Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-28T19:04:35Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-08-28T18:24:59Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-08-28T18:02:13Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-08-28T18:02:13Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-08-28T18:02:13Z What language are you most comfortable speaking?: English nan
+- 2021-08-28T18:02:13Z What is your housing situation today?: I have housing nan
+- 2021-08-28T18:02:13Z Are you worried about losing your housing?: No nan
+- 2021-08-28T18:02:13Z What address do you live at?: 766 Boyle Frontage road nan
+- 2021-08-28T18:02:13Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-08-28T18:02:13Z What is your current work situation?: Full-time work nan

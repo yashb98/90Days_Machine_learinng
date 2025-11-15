@@ -1,0 +1,124 @@
+== PATIENT RECORD: Gene733 McKenzie376 (ID: 9719bcc0-984c-66b7-263c-c4621e9c2fd2) ==
+
+== Demographics ==
+Patient ID: 9719bcc0-984c-66b7-263c-c4621e9c2fd2
+Name: Gene733 McKenzie376
+Gender: M
+Birthdate: 1914-12-20
+Address: 802 Leffler Pathway Apt 75
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Served in armed forces (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Opioid abuse (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Osteoporosis (disorder)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Polyp of colon
+- Recurrent rectal polyp
+- Malignant tumor of colon
+- Laceration of forearm
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Sertraline 100 MG Oral Tablet
+- Acetaminophen/Hydrocodone
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Acetaminophen 325 MG Oral Tablet
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+- Aspirin 81 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1981-03-23T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1981-03-23T02:10:02Z)
+- Depression screening (procedure) (Date: 1981-03-23T02:34:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-03-23T02:46:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-03-29T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1982-03-29T02:18:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-04-04T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-04-09T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1984-04-09T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1984-04-09T02:05:16Z)
+- Depression screening (procedure) (Date: 1984-04-09T02:29:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-04-09T02:43:32Z)
+- Sputum examination (procedure) (Date: 1984-05-04T03:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-05-21T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1984-05-21T01:34:00Z)
+- Depression screening (procedure) (Date: 1984-05-21T02:09:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-05-21T02:21:45Z)
+- Colonoscopy (Date: 1984-12-20T04:00:53Z)
+- Screening for occult blood in feces (procedure) (Date: 1984-12-20T04:43:57Z)
+- Rectal polypectomy (Date: 1984-12-20T04:43:57Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-04-15T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1985-04-15T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1985-04-15T02:24:51Z)
+- Depression screening (procedure) (Date: 1985-04-15T02:43:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-04-15T02:55:27Z)
+- Colonoscopy (Date: 1986-01-14T04:43:57Z)
+- Rectal polypectomy (Date: 1986-01-14T05:10:42Z)
+- Partial resection of colon (Date: 1986-01-27T23:10:42Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1986-02-16T23:10:42Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1986-03-19T01:10:42Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-04-21T01:34:00Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1986-04-18T03:10:42Z)
+- Depression screening (procedure) (Date: 1986-04-21T02:19:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-04-21T02:31:44Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1986-05-22T20:10:42Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1986-06-24T11:10:42Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1986-07-27T14:10:42Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-04-27T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1987-04-27T02:14:44Z)
+- Depression screening (procedure) (Date: 1987-04-27T02:43:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-04-27T02:55:31Z)
+- Suture open wound (Date: 1988-04-24T02:50:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-05-02T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1988-05-02T01:34:00Z)
+- Depression screening (procedure) (Date: 1988-05-02T02:19:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-05-02T02:34:03Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-05-08T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1989-05-08T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1989-05-08T02:08:29Z)
+- Screening for domestic abuse (procedure) (Date: 1989-05-08T02:28:45Z)
+- Depression screening (procedure) (Date: 1989-05-08T02:55:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-05-08T03:07:05Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-05-14T01:34:00Z)
+- Depression screening (procedure) (Date: 1990-05-14T02:12:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-05-14T02:24:29Z)
+
+== Recent Encounters (Last 5) ==
+- 1990-06-25T01:34:00Z: Death Certification
+- 1990-05-14T01:34:00Z: General examination of patient (procedure)
+- 1990-01-11T01:34:00Z: Follow-up encounter
+- 1989-05-08T01:34:00Z: General examination of patient (procedure)
+- 1989-01-11T01:34:00Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 1990-06-25T01:34:00Z Cause of Death [US Standard Certificate of Death]: Malignant tumor of colon nan
+- 1990-05-14T02:48:56Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 1990-05-14T02:12:21Z What is your current work situation?: Full-time work nan
+- 1990-05-14T02:12:21Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1990-05-14T02:12:21Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1990-05-14T02:12:21Z Are you a refugee?: No nan
+- 1990-05-14T02:12:21Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1990-05-14T02:12:21Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 1990-05-14T02:12:21Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 1990-05-14T02:12:21Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

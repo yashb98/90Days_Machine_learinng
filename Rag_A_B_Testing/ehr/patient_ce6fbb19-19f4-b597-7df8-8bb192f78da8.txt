@@ -1,0 +1,119 @@
+== PATIENT RECORD: Hulda44 Reichel38 (ID: ce6fbb19-19f4-b597-7df8-8bb192f78da8) ==
+
+== Demographics ==
+Patient ID: ce6fbb19-19f4-b597-7df8-8bb192f78da8
+Name: Hulda44 Reichel38
+Gender: F
+Birthdate: 1956-09-23
+Address: 497 Gusikowski Extension
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Concussion with no loss of consciousness
+- Osteoporosis (disorder)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Cough (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Polyp of colon
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-28T13:01:20Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-28T13:01:20Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-28T13:39:36Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-28T13:58:27Z)
+- Depression screening (procedure) (Date: 2012-10-28T14:30:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-28T14:44:46Z)
+- Assessment of substance use (procedure) (Date: 2012-10-28T15:13:07Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-28T15:26:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-03T13:01:20Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-03T13:01:20Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-03T13:44:55Z)
+- Depression screening (procedure) (Date: 2013-11-03T14:15:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-03T14:28:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-09T13:01:20Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-09T13:41:39Z)
+- Depression screening (procedure) (Date: 2014-11-09T14:25:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-09T14:39:26Z)
+- Assessment of substance use (procedure) (Date: 2014-11-09T15:07:12Z)
+- Screening for drug abuse (procedure) (Date: 2014-11-09T15:18:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-15T13:01:20Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-15T13:01:20Z)
+- Depression screening (procedure) (Date: 2015-11-15T13:56:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-15T14:06:12Z)
+- Assessment of substance use (procedure) (Date: 2015-11-15T14:27:31Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-15T14:39:42Z)
+- Colonoscopy (Date: 2016-09-23T14:10:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-20T13:01:20Z)
+- Bone density scan (procedure) (Date: 2016-11-20T13:01:20Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-20T13:41:17Z)
+- Depression screening (procedure) (Date: 2016-11-20T14:02:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-20T14:14:32Z)
+- Assessment of substance use (procedure) (Date: 2016-11-20T14:38:41Z)
+- Screening for drug abuse (procedure) (Date: 2016-11-20T14:51:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-26T13:01:20Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-26T13:47:06Z)
+- Depression screening (procedure) (Date: 2017-11-26T14:15:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-26T14:30:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-02T13:01:20Z)
+- Assessment of substance use (procedure) (Date: 2018-12-02T13:53:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-12-02T14:03:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-08T13:01:20Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-08T13:01:20Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-08T13:43:34Z)
+- Assessment of substance use (procedure) (Date: 2019-12-08T14:27:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-12-08T14:41:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-13T13:01:20Z)
+- Depression screening (procedure) (Date: 2020-12-13T13:35:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-13T13:50:15Z)
+- Assessment of substance use (procedure) (Date: 2020-12-13T14:19:56Z)
+- Screening for drug abuse (procedure) (Date: 2020-12-13T14:34:21Z)
+- Face mask (physical object) (Date: 2021-01-29T13:01:20Z)
+- Colonoscopy (Date: 2021-09-23T14:53:11Z)
+- Screening for occult blood in feces (procedure) (Date: 2021-09-23T15:21:17Z)
+- Rectal polypectomy (Date: 2021-09-23T15:21:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-23T14:53:11Z: Encounter for 'check-up'
+- 2021-04-04T13:01:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-14T13:01:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-29T13:01:20Z: Encounter for symptom (procedure)
+- 2020-12-13T13:01:20Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-23T15:21:17Z Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method: 5.2 ng/mL
+- 2021-09-23T15:21:17Z Polyp size greatest dimension by CAP cancer protocols: 3.1 mm
+- 2021-09-23T13:01:20Z DALY: 1.7 a
+- 2021-09-23T13:01:20Z QALY: 62.3 a
+- 2021-09-23T13:01:20Z QOLS: 1.0 {score}
+- 2021-01-29T14:36:06Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-01-29T13:14:40Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-01-29T13:14:40Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-01-29T13:01:20Z Body temperature: 40.2 Cel
+- 2021-01-29T13:01:20Z Respiratory rate: 21.2 /min

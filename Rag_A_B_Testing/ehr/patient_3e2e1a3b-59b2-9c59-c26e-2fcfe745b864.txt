@@ -1,0 +1,121 @@
+== PATIENT RECORD: Charline650 Braun514 (ID: 3e2e1a3b-59b2-9c59-c26e-2fcfe745b864) ==
+
+== Demographics ==
+Patient ID: 3e2e1a3b-59b2-9c59-c26e-2fcfe745b864
+Name: Charline650 Braun514
+Gender: F
+Birthdate: 1984-02-14
+Address: 782 Christiansen Bridge Apt 1
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Hypertension
+- Limited social contact (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Normal pregnancy
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Yaz 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Insertion of intrauterine contraceptive device (Date: 2011-12-07T00:14:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-24T20:14:08Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-24T20:44:41Z)
+- Depression screening (procedure) (Date: 2012-04-24T21:10:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-24T21:24:22Z)
+- Assessment of substance use (procedure) (Date: 2012-04-24T21:48:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-04-24T21:58:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-05T20:14:08Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-05T20:57:30Z)
+- Screening for domestic abuse (procedure) (Date: 2012-06-05T21:24:19Z)
+- Depression screening (procedure) (Date: 2012-06-05T21:53:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-05T22:08:35Z)
+- Assessment of substance use (procedure) (Date: 2012-06-05T22:30:44Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-05T22:44:54Z)
+- Insertion of intrauterine contraceptive device (Date: 2012-12-03T19:12:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-11T20:14:08Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-11T20:49:08Z)
+- Depression screening (procedure) (Date: 2013-06-11T21:15:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-11T21:26:15Z)
+- Assessment of substance use (procedure) (Date: 2013-06-11T21:56:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-06-11T22:06:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-17T20:14:08Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-17T20:14:08Z)
+- Depression screening (procedure) (Date: 2014-06-17T20:53:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-17T21:06:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-23T20:14:08Z)
+- Insertion of intrauterine contraceptive device (Date: 2015-11-21T14:21:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-28T20:14:08Z)
+- Depression screening (procedure) (Date: 2016-06-28T21:02:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-28T21:15:36Z)
+- Assessment of substance use (procedure) (Date: 2016-06-28T21:42:25Z)
+- Screening for drug abuse (procedure) (Date: 2016-06-28T21:56:21Z)
+- Intramuscular injection (Date: 2016-11-15T15:03:52Z)
+- Replacement of contraceptive intrauterine device (Date: 2016-12-13T20:14:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-04T20:14:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-10T20:14:08Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-10T20:14:08Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-10T21:00:17Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-10T21:26:40Z)
+- Depression screening (procedure) (Date: 2018-07-10T21:52:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-10T22:06:42Z)
+- Assessment of substance use (procedure) (Date: 2018-07-10T22:27:13Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-10T22:41:42Z)
+- Removal of intrauterine device (Date: 2018-10-23T20:14:08Z)
+- Standard pregnancy test (Date: 2018-12-18T20:14:08Z)
+- Ultrasound scan for fetal viability (Date: 2018-12-18T20:14:08Z)
+- Counseling for termination of pregnancy (Date: 2018-12-26T20:14:08Z)
+- Induced termination of pregnancy (Date: 2018-12-26T20:14:08Z)
+- Pregnancy termination care (Date: 2019-01-08T20:14:08Z)
+- Physical exam following abortion (Date: 2019-01-08T20:14:08Z)
+- Depression screening (Date: 2019-01-08T20:14:08Z)
+- Insertion of intrauterine contraceptive device (Date: 2019-01-13T11:14:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-16T20:14:08Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-16T20:14:08Z)
+- Depression screening (procedure) (Date: 2019-07-16T21:12:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-16T21:26:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-21T20:14:08Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-21T21:06:41Z)
+- Depression screening (procedure) (Date: 2020-07-21T21:33:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-21T21:47:36Z)
+- Assessment of substance use (procedure) (Date: 2020-07-21T22:10:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-07-21T22:24:57Z)
+- Insertion of intrauterine contraceptive device (Date: 2021-01-06T18:55:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-27T20:14:08Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-27T20:48:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-27T20:14:08Z: General examination of patient (procedure)
+- 2021-01-06T18:55:47Z: Patient encounter procedure
+- 2021-01-02T11:55:47Z: Consultation for treatment
+- 2020-07-21T20:14:08Z: General examination of patient (procedure)
+- 2020-01-08T11:55:47Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-07-27T21:10:59Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-07-27T20:48:36Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 135623 /a
+- 2021-07-27T20:48:36Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-07-27T20:48:36Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-07-27T20:48:36Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-07-27T20:48:36Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-07-27T20:48:36Z Are you a refugee?: No nan
+- 2021-07-27T20:48:36Z What is your main insurance?: Private insurance nan
+- 2021-07-27T20:48:36Z What is your current work situation?: Full-time work nan
+- 2021-07-27T20:48:36Z What is the highest level of school that you have finished?: High school diploma or GED nan

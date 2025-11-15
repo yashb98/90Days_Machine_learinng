@@ -1,0 +1,68 @@
+== PATIENT RECORD: Garfield38 Waters156 (ID: ac3149dd-1bcb-cfa9-0e7b-db86b88c36a0) ==
+
+== Demographics ==
+Patient ID: ac3149dd-1bcb-cfa9-0e7b-db86b88c36a0
+Name: Garfield38 Waters156
+Gender: M
+Birthdate: 1980-05-17
+Address: 300 Boehm Landing
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Laceration of thigh
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-08-09T13:26:02Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-09T13:26:02Z)
+- Depression screening (procedure) (Date: 2014-08-09T14:16:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-09T14:30:33Z)
+- Assessment of substance use (procedure) (Date: 2014-08-09T14:51:21Z)
+- Screening for drug abuse (procedure) (Date: 2014-08-09T15:03:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-12T13:26:02Z)
+- Depression screening (procedure) (Date: 2017-08-12T14:19:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-12T14:30:27Z)
+- Assessment of substance use (procedure) (Date: 2017-08-12T15:00:08Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-12T15:14:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-23T13:26:02Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-23T13:26:02Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-23T14:20:36Z)
+- Depression screening (procedure) (Date: 2020-05-23T14:59:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-23T15:10:38Z)
+- Suture open wound (Date: 2020-10-16T14:30:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-10-16T14:30:42Z: Emergency room admission (procedure)
+- 2020-06-28T09:26:02Z: Encounter for symptom
+- 2020-05-23T13:26:02Z: General examination of patient (procedure)
+- 2017-08-12T13:26:02Z: General examination of patient (procedure)
+- 2015-11-22T01:26:02Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T13:26:02Z QOLS: 1.0 {score}
+- 2021-05-17T13:26:02Z DALY: 0.0 a
+- 2021-05-17T13:26:02Z QALY: 40.0 a
+- 2020-05-23T15:30:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-05-23T14:59:37Z Total score [HARK]: 0.0 {score}
+- 2020-05-23T14:20:36Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 126005 /a
+- 2020-05-23T14:20:36Z Are you worried about losing your housing?: No nan
+- 2020-05-23T14:20:36Z What address do you live at?: 300 Boehm Landing nan
+- 2020-05-23T14:20:36Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-05-23T14:20:36Z What is your current work situation?: Full-time work nan

@@ -1,0 +1,175 @@
+== PATIENT RECORD: Pattie91 Feest103 (ID: 1d1af1df-c916-9534-dcb4-b9aaf02e48d5) ==
+
+== Demographics ==
+Patient ID: 1d1af1df-c916-9534-dcb4-b9aaf02e48d5
+Name: Pattie91 Feest103
+Gender: F
+Birthdate: 1974-07-16
+Address: 475 Monahan Parade
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Lack of access to transportation (finding)
+- Part-time employment (finding)
+- Transport problems (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Transformed migraine (disorder)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Limited social contact (finding)
+- Prediabetes
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+- Anemia (disorder)
+- Antepartum eclampsia
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Jolivette 28 Day Pack
+- Errin 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Mirena 52 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-03T10:41:00Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-03T10:41:00Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-03T11:14:25Z)
+- Depression screening (procedure) (Date: 2012-01-03T11:50:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-03T12:00:30Z)
+- Assessment of substance use (procedure) (Date: 2012-01-03T12:23:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-03T12:37:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-08T10:41:00Z)
+- Assessment of anxiety (procedure) (Date: 2013-01-08T11:32:00Z)
+- Depression screening (procedure) (Date: 2013-01-08T11:57:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-08T12:10:47Z)
+- Assessment of substance use (procedure) (Date: 2013-01-08T12:33:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-01-08T12:46:54Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-03-05T11:04:43Z)
+- Removal of subcutaneous contraceptive (Date: 2013-04-09T10:41:00Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-04-09T11:16:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-14T10:41:00Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-14T11:39:02Z)
+- Depression screening (procedure) (Date: 2014-01-14T12:03:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-14T12:15:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-20T10:41:00Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-20T11:29:05Z)
+- Assessment of substance use (procedure) (Date: 2015-01-20T11:46:34Z)
+- Screening for drug abuse (procedure) (Date: 2015-01-20T12:00:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-26T10:41:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-31T10:41:00Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-31T10:41:00Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-31T11:26:54Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-02-14T20:28:22Z)
+- Removal of subcutaneous contraceptive (Date: 2017-04-11T10:41:00Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-04-11T11:18:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-06T10:41:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-06T10:41:00Z)
+- Screening for domestic abuse (procedure) (Date: 2018-02-06T11:33:40Z)
+- Depression screening (procedure) (Date: 2018-02-06T12:14:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-06T12:27:20Z)
+- Assessment of substance use (procedure) (Date: 2018-02-06T12:51:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-02-06T13:02:15Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-02-09T21:09:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-12T10:41:00Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-12T11:31:07Z)
+- Depression screening (procedure) (Date: 2019-02-12T11:58:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-12T12:12:49Z)
+- Assessment of substance use (procedure) (Date: 2019-02-12T12:35:39Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-12T12:50:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-18T10:41:00Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-18T10:41:00Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-18T11:36:50Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-18T11:52:19Z)
+- Assessment of substance use (procedure) (Date: 2020-02-18T12:30:07Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-18T12:43:42Z)
+- Removal of subcutaneous contraceptive (Date: 2020-12-29T10:41:00Z)
+- Standard pregnancy test (Date: 2021-02-23T10:41:00Z)
+- Ultrasound scan for fetal viability (Date: 2021-02-23T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-02-23T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-02-23T10:41:00Z)
+- Blood typing  RH typing (Date: 2021-02-23T10:41:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-02-23T10:41:00Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-02-23T10:41:00Z)
+- Human immunodeficiency virus antigen test (Date: 2021-02-23T10:41:00Z)
+- Chlamydia antigen test (Date: 2021-02-23T10:41:00Z)
+- Gonorrhea infection test (Date: 2021-02-23T10:41:00Z)
+- Syphilis infection test (Date: 2021-02-23T10:41:00Z)
+- Urine culture (Date: 2021-02-23T10:41:00Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-02-23T10:41:00Z)
+- Urine screening test for diabetes (Date: 2021-02-23T10:41:00Z)
+- Hepatitis C antibody test (Date: 2021-02-23T10:41:00Z)
+- Rubella screening (Date: 2021-02-23T10:41:00Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-02-23T10:41:00Z)
+- Skin test for tuberculosis (Date: 2021-02-23T10:41:00Z)
+- Urine protein test (Date: 2021-02-23T10:41:00Z)
+- Physical examination of mother (Date: 2021-02-23T10:41:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-23T10:41:00Z)
+- Peripheral blood smear interpretation (Date: 2021-02-23T10:41:00Z)
+- Review of systems (procedure) (Date: 2021-02-23T11:11:00Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-23T11:23:31Z)
+- Brief general examination (procedure) (Date: 2021-02-23T11:32:59Z)
+- Evaluation of uterine fundal height (Date: 2021-03-23T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-03-23T10:41:00Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-03-23T10:41:00Z)
+- Fetal anatomy study (Date: 2021-04-20T10:41:00Z)
+- Alpha-fetoprotein test (Date: 2021-04-20T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-04-20T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-04-20T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-05-18T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-05-18T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-06-15T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-06-15T10:41:00Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-07-13T10:41:00Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-07-13T10:41:00Z)
+- Urine screening for glucose (Date: 2021-07-13T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-07-13T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-07-13T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-08-10T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-08-10T10:41:00Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2021-09-07T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-09-07T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-09-07T10:41:00Z)
+- Evaluation of uterine fundal height (Date: 2021-09-21T10:41:00Z)
+- Auscultation of the fetal heart (Date: 2021-09-21T10:41:00Z)
+- Epidural anesthesia (Date: 2021-09-28T10:41:00Z)
+- Childbirth (Date: 2021-09-28T10:41:00Z)
+- Physical examination following birth (Date: 2021-11-09T10:41:00Z)
+- Depression screening (Date: 2021-11-09T10:41:00Z)
+- Intramuscular injection (Date: 2021-11-09T10:41:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T10:41:00Z: Consultation for treatment
+- 2021-11-09T10:41:00Z: Postnatal visit
+- 2021-09-28T10:41:00Z: Obstetric emergency hospital admission
+- 2021-09-21T10:41:00Z: Prenatal visit
+- 2021-09-07T10:41:00Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-07-16T10:41:00Z QOLS: 1.0 {score}
+- 2021-07-16T10:41:00Z DALY: 0.1 a
+- 2021-07-16T10:41:00Z QALY: 45.9 a
+- 2021-02-23T11:37:01Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2021-02-23T11:37:01Z What is your housing situation today?: I have housing nan
+- 2021-02-23T11:37:01Z Are you worried about losing your housing?: No nan
+- 2021-02-23T11:37:01Z What address do you live at?: 475 Monahan Parade nan
+- 2021-02-23T11:37:01Z What is your current work situation?: Part-time or temporary work nan
+- 2021-02-23T11:37:01Z What is your main insurance?: Medicaid nan
+- 2021-02-23T11:37:01Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 6148 /a

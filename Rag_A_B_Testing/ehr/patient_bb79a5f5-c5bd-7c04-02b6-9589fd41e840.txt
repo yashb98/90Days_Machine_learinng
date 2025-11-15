@@ -1,0 +1,59 @@
+== PATIENT RECORD: Valentine262 Sanford861 (ID: bb79a5f5-c5bd-7c04-02b6-9589fd41e840) ==
+
+== Demographics ==
+Patient ID: bb79a5f5-c5bd-7c04-02b6-9589fd41e840
+Name: Valentine262 Sanford861
+Gender: M
+Birthdate: 2010-08-11
+Address: 684 Cartwright Bridge Unit 85
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Perennial allergic rhinitis
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-07-18T05:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-17T05:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-15T05:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-16T05:05:01Z)
+- Allergy screening test (Date: 2015-11-03T02:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-27T05:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-02T05:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-08T05:05:01Z)
+- Sputum examination (procedure) (Date: 2019-08-25T16:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-19T05:05:01Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-25T05:05:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-25T05:05:01Z: Well child visit (procedure)
+- 2020-08-19T05:05:01Z: Well child visit (procedure)
+- 2019-09-04T05:05:01Z: Urgent care clinic (procedure)
+- 2019-08-25T16:05:01Z: Encounter for symptom
+- 2019-08-14T05:05:01Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-25T05:05:01Z Body Mass Index: 15.3 kg/m2
+- 2021-08-25T05:05:01Z Body mass index (BMI) [Percentile] Per age and gender: 14.2 %
+- 2021-08-25T05:05:01Z Respiratory rate: 16.0 /min
+- 2021-08-25T05:05:01Z Leukocytes [#/volume] in Blood by Automated count: 8.0 10*3/uL
+- 2021-08-25T05:05:01Z Erythrocytes [#/volume] in Blood by Automated count: 5.2 10*6/uL
+- 2021-08-25T05:05:01Z Hemoglobin [Mass/volume] in Blood: 17.2 g/dL
+- 2021-08-25T05:05:01Z Hematocrit [Volume Fraction] of Blood by Automated count: 48.0 %
+- 2021-08-25T05:05:01Z MCV [Entitic volume] by Automated count: 91.8 fL
+- 2021-08-25T05:05:01Z MCH [Entitic mass] by Automated count: 28.0 pg
+- 2021-08-25T05:05:01Z MCHC [Mass/volume] by Automated count: 34.3 g/dL

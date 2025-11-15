@@ -1,0 +1,74 @@
+== PATIENT RECORD: Israel728 Oberbrunner298 (ID: 75fbfb0d-f51b-d3b3-c1a4-9357e412b447) ==
+
+== Demographics ==
+Patient ID: 75fbfb0d-f51b-d3b3-c1a4-9357e412b447
+Name: Israel728 Oberbrunner298
+Gender: M
+Birthdate: 1979-02-28
+Address: 797 D'Amore Ferry Unit 98
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Appendicitis
+- History of appendectomy
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-05-15T06:25:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-15T06:25:50Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-15T07:18:59Z)
+- Depression screening (procedure) (Date: 2013-05-15T07:49:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-15T08:02:46Z)
+- Assessment of substance use (procedure) (Date: 2013-05-15T08:28:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-05-15T08:41:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-18T06:25:50Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-18T07:23:06Z)
+- Depression screening (procedure) (Date: 2016-05-18T07:51:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-18T08:04:34Z)
+- Assessment of substance use (procedure) (Date: 2016-05-18T08:32:17Z)
+- Screening for drug abuse (procedure) (Date: 2016-05-18T08:44:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-06T06:25:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-06T06:25:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-10T06:25:50Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-10T06:25:50Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-10T07:08:46Z)
+- Screening for domestic abuse (procedure) (Date: 2021-03-10T07:24:11Z)
+- Depression screening (procedure) (Date: 2021-03-10T07:53:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-10T08:05:50Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-19T06:25:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-10T06:25:50Z: General examination of patient (procedure)
+- 2019-03-06T06:25:50Z: General examination of patient (procedure)
+- 2016-05-18T06:25:50Z: General examination of patient (procedure)
+- 2013-05-15T06:25:50Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-10T08:35:29Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-10T07:53:31Z Total score [HARK]: 0.0 {score}
+- 2021-03-10T07:24:11Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-03-10T07:08:46Z What address do you live at?: 797 D'Amore Ferry Unit 98 nan
+- 2021-03-10T07:08:46Z What is your housing situation today?: I have housing nan
+- 2021-03-10T07:08:46Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-03-10T07:08:46Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-03-10T07:08:46Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-03-10T07:08:46Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-10T07:08:46Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

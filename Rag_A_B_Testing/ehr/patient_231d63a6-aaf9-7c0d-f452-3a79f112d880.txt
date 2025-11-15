@@ -1,0 +1,147 @@
+== PATIENT RECORD: Antony83 McDermott739 (ID: 231d63a6-aaf9-7c0d-f452-3a79f112d880) ==
+
+== Demographics ==
+Patient ID: 231d63a6-aaf9-7c0d-f452-3a79f112d880
+Name: Antony83 McDermott739
+Gender: M
+Birthdate: 1931-10-16
+Address: 1059 Bernhard Arcade Apt 46
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Served in armed forces (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Sepsis (disorder)
+- Osteoarthritis of knee
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Has a criminal record (finding)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Part-time employment (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Alzheimer's disease (disorder)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Sprain of ankle
+- Pneumonia
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Naproxen sodium 220 MG Oral Tablet
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2005-02-25T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2005-02-25T20:21:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-02-25T21:19:19Z)
+- Screening for domestic abuse (procedure) (Date: 2005-02-25T21:48:41Z)
+- Assessment of substance use (procedure) (Date: 2005-02-25T22:25:46Z)
+- Screening for drug abuse (procedure) (Date: 2005-02-25T22:39:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-06-24T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2005-06-24T20:21:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-06-24T21:04:26Z)
+- Depression screening (procedure) (Date: 2005-06-24T21:30:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-06-24T21:45:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2005-06-24T22:05:27Z)
+- Assessment of substance use (procedure) (Date: 2005-06-24T22:27:53Z)
+- Screening for drug abuse (procedure) (Date: 2005-06-24T22:42:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-03-03T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 2006-03-03T20:52:55Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-03-03T21:18:58Z)
+- Depression screening (procedure) (Date: 2006-03-03T21:47:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-03-03T21:59:01Z)
+- Assessment of substance use (procedure) (Date: 2006-03-03T22:26:58Z)
+- Screening for drug abuse (procedure) (Date: 2006-03-03T22:38:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-03-09T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2007-03-09T20:21:02Z)
+- Screening for domestic abuse (procedure) (Date: 2007-03-09T21:05:35Z)
+- Depression screening (procedure) (Date: 2007-03-09T21:45:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-03-09T21:58:08Z)
+- Assessment of substance use (procedure) (Date: 2007-03-09T22:24:14Z)
+- Screening for drug abuse (procedure) (Date: 2007-03-09T22:36:37Z)
+- Colonoscopy (Date: 2007-12-27T23:57:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-03-14T20:21:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-03-14T20:58:21Z)
+- Screening for domestic abuse (procedure) (Date: 2008-03-14T21:24:06Z)
+- Assessment of substance use (procedure) (Date: 2008-03-14T21:52:27Z)
+- Screening for drug abuse (procedure) (Date: 2008-03-14T22:04:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-03-20T20:21:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-03-20T21:05:11Z)
+- Depression screening (procedure) (Date: 2009-03-20T21:26:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-03-20T21:38:08Z)
+- Assessment of substance use (procedure) (Date: 2009-03-20T21:59:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-03-20T22:13:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-03-26T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2010-03-26T20:21:02Z)
+- Depression screening (procedure) (Date: 2010-03-26T21:19:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-03-26T21:31:07Z)
+- Assessment of substance use (procedure) (Date: 2010-03-26T21:56:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-03-26T22:09:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-05-07T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2010-05-07T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 2010-05-07T21:14:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-05-07T21:38:37Z)
+- Depression screening (procedure) (Date: 2010-05-07T21:55:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-05-07T22:05:51Z)
+- Assessment of substance use (procedure) (Date: 2010-05-07T22:30:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-05-07T22:43:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-04-01T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2011-04-01T20:21:02Z)
+- Screening for domestic abuse (procedure) (Date: 2011-04-01T21:10:35Z)
+- Assessment of substance use (procedure) (Date: 2011-04-01T21:48:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-04-01T22:01:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-06T20:21:02Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-06T20:56:37Z)
+- Depression screening (procedure) (Date: 2012-04-06T21:36:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-06T21:47:51Z)
+- Assessment of substance use (procedure) (Date: 2012-04-06T22:17:25Z)
+- Screening for drug abuse (procedure) (Date: 2012-04-06T22:28:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-12T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-12T20:21:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-04-12T21:19:21Z)
+- Depression screening (procedure) (Date: 2013-04-12T21:34:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-12T21:47:17Z)
+- Assessment of substance use (procedure) (Date: 2013-04-12T22:14:29Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-12T22:26:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-18T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-18T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-18T21:06:11Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-18T21:34:22Z)
+- Depression screening (procedure) (Date: 2014-04-18T22:12:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-18T22:23:57Z)
+- Assessment of substance use (procedure) (Date: 2014-04-18T22:45:01Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-18T22:56:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2014-05-16T20:21:02Z: Death Certification
+- 2014-05-08T20:21:02Z: Hospital admission
+- 2014-04-18T20:21:02Z: General examination of patient (procedure)
+- 2013-04-12T20:21:02Z: General examination of patient (procedure)
+- 2012-11-27T20:21:02Z: Office Visit
+
+== Recent Observations (Last 10) ==
+- 2014-10-16T19:21:02Z QOLS: 0.7 {score}
+- 2014-10-16T19:21:02Z DALY: 5.0 a
+- 2014-10-16T19:21:02Z QALY: 77.0 a
+- 2014-05-16T20:21:02Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2014-04-18T23:16:53Z Total score [DAST-10]: 1.0 {score}
+- 2014-04-18T22:45:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2014-04-18T22:12:27Z Total score [HARK]: 0.0 {score}
+- 2014-04-18T21:34:22Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2014-04-18T21:06:11Z What address do you live at?: 1059 Bernhard Arcade Apt 46 nan
+- 2014-04-18T21:06:11Z What is the highest level of school that you have finished?: Less than high school degree nan

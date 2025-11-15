@@ -1,0 +1,70 @@
+== PATIENT RECORD: Dirk334 Stehr398 (ID: e083022c-b3ac-7ba2-b278-6c59099dc22a) ==
+
+== Demographics ==
+Patient ID: e083022c-b3ac-7ba2-b278-6c59099dc22a
+Name: Dirk334 Stehr398
+Gender: M
+Birthdate: 2004-09-21
+Address: 1022 Herman Road Unit 56
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2016-10-11T09:00:15Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-17T09:00:15Z)
+- Depression screening (procedure) (Date: 2017-10-17T09:18:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-17T09:31:05Z)
+- Assessment of substance use (procedure) (Date: 2017-10-17T09:59:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-10-17T10:13:16Z)
+- Anticipatory guidance (procedure) (Date: 2017-10-17T10:30:26Z)
+- Assessment of substance use (procedure) (Date: 2018-10-23T09:00:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-23T09:00:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-23T09:13:31Z)
+- Health risks education (procedure) (Date: 2018-10-23T09:35:07Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-29T09:00:15Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-29T09:00:15Z)
+- Depression screening (procedure) (Date: 2019-10-29T09:23:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-10-29T09:38:13Z)
+- Assessment of substance use (procedure) (Date: 2019-10-29T10:06:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-10-29T10:19:37Z)
+- Anticipatory guidance (procedure) (Date: 2019-10-29T10:36:09Z)
+- Depression screening (procedure) (Date: 2020-11-03T09:00:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-03T09:12:39Z)
+- Assessment of substance use (procedure) (Date: 2020-11-03T09:37:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-03T09:52:19Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-03T10:09:51Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-09T09:00:15Z)
+- Depression screening (procedure) (Date: 2021-11-09T09:19:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-11-09T09:34:28Z)
+- Assessment of substance use (procedure) (Date: 2021-11-09T10:03:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-11-09T10:15:01Z)
+- Anticipatory guidance (procedure) (Date: 2021-11-09T10:41:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T09:00:15Z: Well child visit (procedure)
+- 2021-06-29T09:00:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-01T09:00:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-03T09:00:15Z: Well child visit (procedure)
+- 2020-02-13T09:47:39Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T10:03:21Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-11-09T09:19:59Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-11-09T09:00:15Z Heart rate: 86.0 /min
+- 2021-11-09T09:00:15Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-09T09:00:15Z Body Height: 187.8 cm
+- 2021-11-09T09:00:15Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-11-09T09:00:15Z Body Weight: 89.7 kg
+- 2021-11-09T09:00:15Z Body Mass Index: 25.4 kg/m2
+- 2021-11-09T09:00:15Z Body mass index (BMI) [Percentile] Per age and gender: 87.0 %
+- 2021-11-09T09:00:15Z Diastolic Blood Pressure: 79.0 mm[Hg]

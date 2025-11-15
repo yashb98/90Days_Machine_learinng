@@ -1,0 +1,119 @@
+== PATIENT RECORD: Leda374 Lemke654 (ID: e4bbff5f-2cc1-66c7-00ff-4e194d02bf49) ==
+
+== Demographics ==
+Patient ID: e4bbff5f-2cc1-66c7-00ff-4e194d02bf49
+Name: Leda374 Lemke654
+Gender: F
+Birthdate: 1962-02-05
+Address: 952 Kilback Junction
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Chronic intractable migraine without aura
+- Impacted molars
+- Chronic pain
+- Miscarriage in first trimester
+- Diabetes
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Hyperglycemia (disorder)
+- Prediabetes
+- Drug overdose
+- Anemia (disorder)
+- Social isolation (finding)
+- Stress (finding)
+- Severe anxiety (panic) (finding
+- Part-time employment (finding)
+- Chronic neck pain (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+- Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Colonoscopy (Date: 2012-02-06T19:51:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-02T19:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-02T20:29:02Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-02T20:47:36Z)
+- Depression screening (procedure) (Date: 2012-04-02T21:23:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-02T21:36:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-08T19:51:30Z)
+- Depression screening (procedure) (Date: 2013-04-08T20:41:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-08T20:52:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T19:51:30Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T20:50:03Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T21:39:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T22:29:48Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T23:16:13Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T00:03:52Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T00:50:53Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T01:47:42Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T02:43:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-08T03:41:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-14T19:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-14T19:51:30Z)
+- Depression screening (procedure) (Date: 2014-04-14T20:33:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-14T20:44:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-23T19:51:30Z)
+- Depression screening (procedure) (Date: 2015-02-23T20:38:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-23T20:48:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-20T19:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-20T19:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-20T20:37:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-25T19:51:30Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-25T20:27:14Z)
+- Replacement of contraceptive intrauterine device (Date: 2016-09-19T19:51:30Z)
+- Colonoscopy (Date: 2017-02-05T20:16:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-01T19:51:30Z)
+- Depression screening (procedure) (Date: 2017-05-01T20:43:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-01T20:54:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-07T19:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-07T20:33:39Z)
+- Depression screening (procedure) (Date: 2018-05-07T20:56:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-07T21:07:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-13T19:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-13T20:25:53Z)
+- Depression screening (procedure) (Date: 2019-05-13T20:51:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-13T21:02:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-13T21:29:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-18T19:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-18T19:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-18T20:45:37Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-18T21:10:30Z)
+- Depression screening (procedure) (Date: 2020-05-18T21:45:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-18T21:55:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-24T19:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-24T20:37:56Z)
+- Depression screening (procedure) (Date: 2021-05-24T21:01:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-24T21:14:44Z)
+- Replacement of contraceptive intrauterine device (Date: 2021-09-20T19:51:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-20T19:51:30Z: Patient encounter procedure
+- 2021-09-06T19:51:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-05T19:51:30Z: Drug rehabilitation and detoxification
+- 2021-05-24T19:51:30Z: General examination of patient (procedure)
+- 2021-05-07T19:51:30Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-05T19:51:30Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-24T21:35:47Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-24T21:01:30Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-05-24T20:37:56Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-05-24T20:37:56Z What is your current work situation?: Full-time work nan
+- 2021-05-24T20:37:56Z What language are you most comfortable speaking?: English nan
+- 2021-05-24T20:37:56Z What is your housing situation today?: I have housing nan
+- 2021-05-24T20:37:56Z Are you worried about losing your housing?: No nan
+- 2021-05-24T20:37:56Z What address do you live at?: 952 Kilback Junction nan
+- 2021-05-24T20:37:56Z What is the highest level of school that you have finished?: Less than high school degree nan

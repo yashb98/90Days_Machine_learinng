@@ -1,0 +1,75 @@
+== PATIENT RECORD: Andreas188 Macejkovic424 (ID: 16daa36d-5e40-19aa-d2f6-3958f83a2b38) ==
+
+== Demographics ==
+Patient ID: 16daa36d-5e40-19aa-d2f6-3958f83a2b38
+Name: Andreas188 Macejkovic424
+Gender: M
+Birthdate: 1992-05-06
+Address: 850 O'Conner Common Unit 94
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-07-09T22:05:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-09T22:48:35Z)
+- Depression screening (procedure) (Date: 2014-07-09T23:17:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-09T23:32:28Z)
+- Sputum examination (procedure) (Date: 2017-03-29T00:05:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-05T22:05:25Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-05T22:49:18Z)
+- Depression screening (procedure) (Date: 2017-04-05T23:07:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-05T23:21:12Z)
+- Assessment of substance use (procedure) (Date: 2017-04-05T23:44:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-05T23:58:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-12T22:05:25Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-12T22:38:22Z)
+- Depression screening (procedure) (Date: 2017-07-12T23:07:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-12T23:20:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-07-12T23:42:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-15T22:05:25Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-15T22:50:40Z)
+- Depression screening (procedure) (Date: 2020-07-15T23:06:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-15T23:18:42Z)
+- Sputum examination (procedure) (Date: 2021-02-23T16:05:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-03T22:05:25Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-03T23:04:10Z)
+- Depression screening (procedure) (Date: 2021-03-03T23:30:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-03T23:44:15Z)
+- Assessment of substance use (procedure) (Date: 2021-03-04T00:05:46Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-04T00:16:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-09T22:05:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-19T22:05:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-03T22:05:25Z: Encounter for check up (procedure)
+- 2021-02-23T16:05:25Z: Encounter for symptom
+- 2020-07-15T22:05:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-06T22:05:25Z QOLS: 1.0 {score}
+- 2021-05-06T22:05:25Z DALY: 0.0 a
+- 2021-05-06T22:05:25Z QALY: 28.0 a
+- 2021-03-04T00:45:32Z Total score [DAST-10]: 0.0 {score}
+- 2021-03-04T00:05:46Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-03T23:30:44Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-03-03T23:04:10Z What is your current work situation?: Full-time work nan
+- 2021-03-03T23:04:10Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-03-03T23:04:10Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-03-03T23:04:10Z Are you a refugee?: No nan

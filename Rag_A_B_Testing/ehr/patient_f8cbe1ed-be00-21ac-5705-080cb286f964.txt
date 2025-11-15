@@ -1,0 +1,167 @@
+== PATIENT RECORD: Anna632 Davis923 (ID: f8cbe1ed-be00-21ac-5705-080cb286f964) ==
+
+== Demographics ==
+Patient ID: f8cbe1ed-be00-21ac-5705-080cb286f964
+Name: Anna632 Davis923
+Gender: F
+Birthdate: 1993-08-13
+Address: 496 Zboncak Meadow
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Normal pregnancy
+- Limited social contact (finding)
+- Stress (finding)
+- Laceration of thigh
+- Contact dermatitis
+- Prediabetes
+- Anemia (disorder)
+
+== Current Medications ==
+- Levora 0.15/30 28 Day Pack
+- Seasonique 91 Day Pack
+- Yaz 28 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- Loratadine 10 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-12T10:04:23Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-12T10:04:23Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-12T10:52:00Z)
+- Assessment of substance use (procedure) (Date: 2012-10-12T11:28:48Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-12T11:39:59Z)
+- Standard pregnancy test (Date: 2014-07-04T10:04:23Z)
+- Ultrasound scan for fetal viability (Date: 2014-07-04T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-07-04T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-07-04T10:04:23Z)
+- Blood typing  RH typing (Date: 2014-07-04T10:04:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-07-04T10:04:23Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2014-07-04T10:04:23Z)
+- Human immunodeficiency virus antigen test (Date: 2014-07-04T10:04:23Z)
+- Chlamydia antigen test (Date: 2014-07-04T10:04:23Z)
+- Gonorrhea infection test (Date: 2014-07-04T10:04:23Z)
+- Syphilis infection test (Date: 2014-07-04T10:04:23Z)
+- Urine culture (Date: 2014-07-04T10:04:23Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2014-07-04T10:04:23Z)
+- Urine screening test for diabetes (Date: 2014-07-04T10:04:23Z)
+- Hepatitis C antibody test (Date: 2014-07-04T10:04:23Z)
+- Rubella screening (Date: 2014-07-04T10:04:23Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2014-07-04T10:04:23Z)
+- Skin test for tuberculosis (Date: 2014-07-04T10:04:23Z)
+- Urine protein test (Date: 2014-07-04T10:04:23Z)
+- Physical examination of mother (Date: 2014-07-04T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-08-01T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-08-01T10:04:23Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2014-08-01T10:04:23Z)
+- Fetal anatomy study (Date: 2014-08-29T10:04:23Z)
+- Alpha-fetoprotein test (Date: 2014-08-29T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-08-29T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-08-29T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-09-26T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-09-26T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-10-24T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-10-24T10:04:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-11-21T10:04:23Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2014-11-21T10:04:23Z)
+- Urine screening for glucose (Date: 2014-11-21T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-11-21T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-11-21T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2014-12-19T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2014-12-19T10:04:23Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2015-01-16T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2015-01-16T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2015-01-16T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2015-01-30T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2015-01-30T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2015-02-06T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2015-02-06T10:04:23Z)
+- Evaluation of uterine fundal height (Date: 2015-02-13T10:04:23Z)
+- Auscultation of the fetal heart (Date: 2015-02-13T10:04:23Z)
+- Medical induction of labor (Date: 2015-02-20T10:04:23Z)
+- Cesarean section (Date: 2015-02-20T10:04:23Z)
+- Physical examination following birth (Date: 2015-04-03T10:04:23Z)
+- Depression screening (Date: 2015-04-03T10:04:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-16T10:04:23Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-16T10:58:55Z)
+- Depression screening (procedure) (Date: 2015-10-16T11:20:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-16T11:31:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-16T11:59:51Z)
+- Assessment of substance use (procedure) (Date: 2015-10-16T12:27:45Z)
+- Screening for drug abuse (procedure) (Date: 2015-10-16T12:42:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-19T10:04:23Z)
+- Depression screening (procedure) (Date: 2018-10-19T10:44:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-19T10:58:04Z)
+- Assessment of substance use (procedure) (Date: 2018-10-19T11:21:49Z)
+- Screening for drug abuse (procedure) (Date: 2018-10-19T11:33:57Z)
+- Suture open wound (Date: 2018-10-29T10:15:32Z)
+- Allergy screening test (Date: 2019-12-09T20:04:23Z)
+- Allergy screening test (Date: 2019-12-09T20:35:19Z)
+- Suture open wound (Date: 2019-12-17T10:45:06Z)
+- Subcutaneous immunotherapy (Date: 2019-12-30T21:05:23Z)
+- Subcutaneous immunotherapy (Date: 2020-01-25T21:47:16Z)
+- Subcutaneous immunotherapy (Date: 2020-02-19T22:47:08Z)
+- Subcutaneous immunotherapy (Date: 2020-03-15T23:15:08Z)
+- Subcutaneous immunotherapy (Date: 2020-04-12T00:03:02Z)
+- Subcutaneous immunotherapy (Date: 2020-05-04T00:31:39Z)
+- Subcutaneous immunotherapy (Date: 2020-05-31T01:05:33Z)
+- Subcutaneous immunotherapy (Date: 2020-06-21T01:25:35Z)
+- Subcutaneous immunotherapy (Date: 2020-07-14T01:59:05Z)
+- Subcutaneous immunotherapy (Date: 2020-08-04T02:53:26Z)
+- Subcutaneous immunotherapy (Date: 2020-08-27T03:42:48Z)
+- Subcutaneous immunotherapy (Date: 2020-09-23T04:09:09Z)
+- Subcutaneous immunotherapy (Date: 2020-10-19T04:28:35Z)
+- Subcutaneous immunotherapy (Date: 2020-11-10T05:13:09Z)
+- Subcutaneous immunotherapy (Date: 2020-12-07T06:04:20Z)
+- Subcutaneous immunotherapy (Date: 2021-01-02T06:34:57Z)
+- Subcutaneous immunotherapy (Date: 2021-01-25T07:29:54Z)
+- Subcutaneous immunotherapy (Date: 2021-02-21T07:48:47Z)
+- Subcutaneous immunotherapy (Date: 2021-03-15T08:24:19Z)
+- Subcutaneous immunotherapy (Date: 2021-04-10T09:09:30Z)
+- Subcutaneous immunotherapy (Date: 2021-05-06T09:33:57Z)
+- Subcutaneous immunotherapy (Date: 2021-05-27T09:49:29Z)
+- Subcutaneous immunotherapy (Date: 2021-06-17T10:05:08Z)
+- Subcutaneous immunotherapy (Date: 2021-07-14T10:43:31Z)
+- Subcutaneous immunotherapy (Date: 2021-08-06T11:36:12Z)
+- Subcutaneous immunotherapy (Date: 2021-08-31T12:06:05Z)
+- Subcutaneous immunotherapy (Date: 2021-09-22T12:38:40Z)
+- Subcutaneous immunotherapy (Date: 2021-10-14T12:58:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-22T10:04:23Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-22T10:04:23Z)
+- Peripheral blood smear interpretation (Date: 2021-10-22T10:04:23Z)
+- Depression screening (procedure) (Date: 2021-10-22T10:52:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-22T11:04:38Z)
+- Assessment of substance use (procedure) (Date: 2021-10-22T11:29:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-10-22T11:40:10Z)
+- Review of systems (procedure) (Date: 2021-10-22T10:34:23Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-22T10:50:03Z)
+- Brief general examination (procedure) (Date: 2021-10-22T11:09:29Z)
+- Subcutaneous immunotherapy (Date: 2021-11-05T13:56:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-12T10:04:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-11-05T13:56:03Z: Outpatient procedure
+- 2021-10-22T10:04:23Z: Encounter for problem
+- 2021-10-22T10:04:23Z: General examination of patient (procedure)
+- 2021-10-15T10:04:23Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-22T12:02:01Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-10-22T11:29:52Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-10-22T10:52:51Z Are you a refugee?: No nan
+- 2021-10-22T10:52:51Z Are you worried about losing your housing?: No nan
+- 2021-10-22T10:52:51Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-10-22T10:52:51Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-10-22T10:52:51Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-10-22T10:52:51Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-10-22T10:52:51Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-10-22T10:52:51Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

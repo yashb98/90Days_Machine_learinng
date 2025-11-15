@@ -1,0 +1,96 @@
+== PATIENT RECORD: Orval846 Schaefer657 (ID: 17eddffe-9412-688c-7944-65251314b1c0) ==
+
+== Demographics ==
+Patient ID: 17eddffe-9412-688c-7944-65251314b1c0
+Name: Orval846 Schaefer657
+Gender: M
+Birthdate: 1977-11-21
+Address: 759 Stanton Union
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Full-time employment (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Body mass index 30+ - obesity (finding)
+- Acute viral pharyngitis (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-06T20:15:16Z)
+- Depression screening (procedure) (Date: 2012-02-06T21:14:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-06T21:24:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-17T20:15:16Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-17T21:02:16Z)
+- Depression screening (procedure) (Date: 2014-02-17T21:24:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-17T21:35:18Z)
+- Assessment of substance use (procedure) (Date: 2014-02-17T21:57:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-17T22:08:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-23T20:15:16Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-23T20:58:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-29T20:15:16Z)
+- Depression screening (procedure) (Date: 2016-02-29T21:12:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-29T21:24:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-06T20:15:16Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-06T20:48:08Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-06T21:06:34Z)
+- Depression screening (procedure) (Date: 2017-03-06T21:51:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-06T22:05:14Z)
+- Assessment of substance use (procedure) (Date: 2017-03-06T22:29:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-06T22:41:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-12T20:15:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-12T20:15:16Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-12T21:05:10Z)
+- Depression screening (procedure) (Date: 2018-03-12T21:30:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-12T21:44:37Z)
+- Assessment of substance use (procedure) (Date: 2018-03-12T22:14:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-12T22:26:20Z)
+- Throat culture (procedure) (Date: 2018-12-19T21:15:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-18T20:15:16Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-18T21:14:58Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-18T21:39:08Z)
+- Depression screening (procedure) (Date: 2019-03-18T22:23:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-18T22:34:39Z)
+- Assessment of substance use (procedure) (Date: 2019-03-18T22:54:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-18T23:07:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-23T20:15:16Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-23T20:15:16Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-23T21:03:01Z)
+- Depression screening (procedure) (Date: 2020-03-23T21:28:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-23T21:40:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-29T20:15:16Z)
+- Depression screening (procedure) (Date: 2021-03-29T21:06:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-29T21:19:53Z)
+- Assessment of substance use (procedure) (Date: 2021-03-29T21:44:09Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-29T21:56:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-29T20:15:16Z: General examination of patient (procedure)
+- 2021-02-22T20:15:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-01T20:15:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-03-23T20:15:16Z: General examination of patient (procedure)
+- 2019-03-18T20:15:16Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-29T22:18:58Z Total score [DAST-10]: 1.0 {score}
+- 2021-03-29T21:44:09Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-29T21:06:52Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-03-29T21:06:52Z What is your main insurance?: Private insurance nan
+- 2021-03-29T21:06:52Z What is your housing situation today?: I have housing nan
+- 2021-03-29T21:06:52Z Are you worried about losing your housing?: No nan
+- 2021-03-29T21:06:52Z What address do you live at?: 759 Stanton Union nan
+- 2021-03-29T21:06:52Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-29T21:06:52Z What is your current work situation?: Part-time or temporary work nan
+- 2021-03-29T21:06:52Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 51639 /a

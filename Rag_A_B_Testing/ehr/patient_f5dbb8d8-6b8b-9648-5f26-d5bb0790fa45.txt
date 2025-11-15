@@ -1,0 +1,68 @@
+== PATIENT RECORD: Dalton260 Marks830 (ID: f5dbb8d8-6b8b-9648-5f26-d5bb0790fa45) ==
+
+== Demographics ==
+Patient ID: f5dbb8d8-6b8b-9648-5f26-d5bb0790fa45
+Name: Dalton260 Marks830
+Gender: M
+Birthdate: 1976-02-12
+Address: 963 Kshlerin Quay
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Only received primary school education (finding)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Prediabetes
+- Sprain of ankle
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-05-03T00:08:08Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-03T00:08:08Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-03T00:49:02Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-03T01:12:45Z)
+- Depression screening (procedure) (Date: 2013-05-03T01:44:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-03T01:56:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-19T00:08:08Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-19T00:51:14Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-19T01:06:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-23T00:08:08Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-23T01:00:33Z)
+- Depression screening (procedure) (Date: 2018-02-23T01:24:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-23T01:35:34Z)
+- Assessment of substance use (procedure) (Date: 2018-02-23T02:02:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-02-23T02:13:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-28T00:08:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-28T00:08:08Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-28T00:55:03Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-28T01:18:08Z)
+- Assessment of substance use (procedure) (Date: 2020-02-28T02:00:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-28T02:12:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T00:08:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-15T00:08:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-12T01:41:23Z: Emergency room admission (procedure)
+- 2020-02-28T00:08:08Z: General examination of patient (procedure)
+- 2018-02-23T00:08:08Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-13T00:08:08Z QOLS: 1.0 {score}
+- 2021-02-13T00:08:08Z DALY: 0.3 a
+- 2021-02-13T00:08:08Z QALY: 43.7 a
+- 2020-02-28T02:39:26Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-02-28T02:00:44Z Total score [HARK]: 0.0 {score}
+- 2020-02-28T01:18:08Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-02-28T00:55:03Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-02-28T00:55:03Z Are you a refugee?: No nan
+- 2020-02-28T00:55:03Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-02-28T00:55:03Z In the past year  have you been afraid of your partner or ex-partner?: No nan

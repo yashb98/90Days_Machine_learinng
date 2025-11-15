@@ -1,0 +1,201 @@
+== PATIENT RECORD: Kayce253 Friesen796 (ID: ec3be88f-6d38-5331-b548-18bf9b9f35a3) ==
+
+== Demographics ==
+Patient ID: ec3be88f-6d38-5331-b548-18bf9b9f35a3
+Name: Kayce253 Friesen796
+Gender: F
+Birthdate: 1984-05-26
+Address: 430 Goodwin Row
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Misuses drugs (finding)
+- Cystitis
+- Normal pregnancy
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- Etonogestrel 68 MG Drug Implant
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Liletta 52 MG Intrauterine System
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-04T07:41:05Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-04T07:41:05Z)
+- Depression screening (procedure) (Date: 2012-08-04T08:15:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-04T08:27:12Z)
+- Assessment of substance use (procedure) (Date: 2012-08-04T08:47:53Z)
+- Screening for drug abuse (procedure) (Date: 2012-08-04T08:58:12Z)
+- Removal of subcutaneous contraceptive (Date: 2013-03-09T07:41:05Z)
+- Standard pregnancy test (Date: 2013-05-04T07:41:05Z)
+- Ultrasound scan for fetal viability (Date: 2013-05-04T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-05-04T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-05-04T07:41:05Z)
+- Blood typing  RH typing (Date: 2013-05-04T07:41:05Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-05-04T07:41:05Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2013-05-04T07:41:05Z)
+- Human immunodeficiency virus antigen test (Date: 2013-05-04T07:41:05Z)
+- Chlamydia antigen test (Date: 2013-05-04T07:41:05Z)
+- Gonorrhea infection test (Date: 2013-05-04T07:41:05Z)
+- Syphilis infection test (Date: 2013-05-04T07:41:05Z)
+- Urine culture (Date: 2013-05-04T07:41:05Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2013-05-04T07:41:05Z)
+- Urine screening test for diabetes (Date: 2013-05-04T07:41:05Z)
+- Hepatitis C antibody test (Date: 2013-05-04T07:41:05Z)
+- Rubella screening (Date: 2013-05-04T07:41:05Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2013-05-04T07:41:05Z)
+- Skin test for tuberculosis (Date: 2013-05-04T07:41:05Z)
+- Urine protein test (Date: 2013-05-04T07:41:05Z)
+- Physical examination of mother (Date: 2013-05-04T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-06-01T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-06-01T07:41:05Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2013-06-01T07:41:05Z)
+- Fetal anatomy study (Date: 2013-06-29T07:41:05Z)
+- Alpha-fetoprotein test (Date: 2013-06-29T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-06-29T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-06-29T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-07-27T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-07-27T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-08-24T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-08-24T07:41:05Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-09-21T07:41:05Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2013-09-21T07:41:05Z)
+- Urine screening for glucose (Date: 2013-09-21T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-09-21T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-09-21T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-10-19T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-10-19T07:41:05Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-11-16T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2013-11-16T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2013-11-16T07:41:05Z)
+- Epidural anesthesia (Date: 2013-11-30T07:41:05Z)
+- Cesarean section (Date: 2013-11-30T07:41:05Z)
+- Physical examination following birth (Date: 2014-01-11T07:41:05Z)
+- Depression screening (Date: 2014-01-11T07:41:05Z)
+- Standard pregnancy test (Date: 2014-04-19T07:41:05Z)
+- Ultrasound scan for fetal viability (Date: 2014-04-19T07:41:05Z)
+- Counseling for termination of pregnancy (Date: 2014-05-02T07:41:05Z)
+- Induced termination of pregnancy (Date: 2014-05-02T07:41:05Z)
+- Pregnancy termination care (Date: 2014-05-19T07:41:05Z)
+- Physical exam following abortion (Date: 2014-05-19T07:41:05Z)
+- Depression screening (Date: 2014-05-19T07:41:05Z)
+- Standard pregnancy test (Date: 2014-11-15T07:41:05Z)
+- Ultrasound scan for fetal viability (Date: 2014-11-15T07:41:05Z)
+- Counseling for termination of pregnancy (Date: 2014-11-27T07:41:05Z)
+- Induced termination of pregnancy (Date: 2014-11-27T07:41:05Z)
+- Pregnancy termination care (Date: 2014-12-15T07:41:05Z)
+- Physical exam following abortion (Date: 2014-12-15T07:41:05Z)
+- Depression screening (Date: 2014-12-15T07:41:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-08T07:41:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-08T08:37:52Z)
+- Depression screening (procedure) (Date: 2015-08-08T09:03:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-08T09:13:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-08T09:38:20Z)
+- Standard pregnancy test (Date: 2017-08-05T07:41:05Z)
+- Ultrasound scan for fetal viability (Date: 2017-08-05T07:41:05Z)
+- Counseling for termination of pregnancy (Date: 2017-08-17T07:41:05Z)
+- Induced termination of pregnancy (Date: 2017-08-17T07:41:05Z)
+- Pregnancy termination care (Date: 2017-08-24T07:41:05Z)
+- Physical exam following abortion (Date: 2017-08-24T07:41:05Z)
+- Depression screening (Date: 2017-08-24T07:41:05Z)
+- Standard pregnancy test (Date: 2018-02-17T07:41:05Z)
+- Ultrasound scan for fetal viability (Date: 2018-02-17T07:41:05Z)
+- Counseling for termination of pregnancy (Date: 2018-02-24T07:41:05Z)
+- Induced termination of pregnancy (Date: 2018-02-24T07:41:05Z)
+- Pregnancy termination care (Date: 2018-03-12T07:41:05Z)
+- Physical exam following abortion (Date: 2018-03-12T07:41:05Z)
+- Depression screening (Date: 2018-03-12T07:41:05Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-03-21T19:41:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-11T07:41:05Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-11T08:38:40Z)
+- Assessment of substance use (procedure) (Date: 2018-08-11T09:05:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-08-11T09:15:47Z)
+- Removal of intrauterine device (Date: 2019-06-08T07:41:05Z)
+- Standard pregnancy test (Date: 2019-08-03T07:41:05Z)
+- Ultrasound scan for fetal viability (Date: 2019-08-03T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2019-08-03T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2019-08-03T07:41:05Z)
+- Blood typing  RH typing (Date: 2019-08-03T07:41:05Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-08-03T07:41:05Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-08-03T07:41:05Z)
+- Human immunodeficiency virus antigen test (Date: 2019-08-03T07:41:05Z)
+- Chlamydia antigen test (Date: 2019-08-03T07:41:05Z)
+- Gonorrhea infection test (Date: 2019-08-03T07:41:05Z)
+- Syphilis infection test (Date: 2019-08-03T07:41:05Z)
+- Urine culture (Date: 2019-08-03T07:41:05Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-08-03T07:41:05Z)
+- Urine screening test for diabetes (Date: 2019-08-03T07:41:05Z)
+- Hepatitis C antibody test (Date: 2019-08-03T07:41:05Z)
+- Rubella screening (Date: 2019-08-03T07:41:05Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-08-03T07:41:05Z)
+- Skin test for tuberculosis (Date: 2019-08-03T07:41:05Z)
+- Urine protein test (Date: 2019-08-03T07:41:05Z)
+- Physical examination of mother (Date: 2019-08-03T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2019-08-31T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2019-08-31T07:41:05Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-08-31T07:41:05Z)
+- Fetal anatomy study (Date: 2019-09-28T07:41:05Z)
+- Alpha-fetoprotein test (Date: 2019-09-28T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2019-09-28T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2019-09-28T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2019-10-26T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2019-10-26T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2019-11-23T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2019-11-23T07:41:05Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-12-21T07:41:05Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-12-21T07:41:05Z)
+- Urine screening for glucose (Date: 2019-12-21T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2019-12-21T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2019-12-21T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2020-01-18T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2020-01-18T07:41:05Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2020-02-15T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2020-02-15T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2020-02-15T07:41:05Z)
+- Evaluation of uterine fundal height (Date: 2020-02-29T07:41:05Z)
+- Auscultation of the fetal heart (Date: 2020-02-29T07:41:05Z)
+- Epidural anesthesia (Date: 2020-03-07T07:41:05Z)
+- Cesarean section (Date: 2020-03-07T07:41:05Z)
+- Physical examination following birth (Date: 2020-04-18T07:41:05Z)
+- Depression screening (Date: 2020-04-18T07:41:05Z)
+- Bilateral tubal ligation (Date: 2020-04-27T07:41:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-14T07:41:05Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-14T07:41:05Z)
+- Depression screening (procedure) (Date: 2021-08-14T08:31:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-14T08:43:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-14T09:12:17Z)
+- Assessment of substance use (procedure) (Date: 2021-08-14T09:39:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-08-14T09:52:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-14T07:41:05Z: General examination of patient (procedure)
+- 2021-02-13T07:41:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-16T07:41:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-27T07:41:05Z: Admission to surgical department
+- 2020-04-18T07:41:05Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-08-14T10:21:42Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-08-14T09:39:19Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 9.0 {score}
+- 2021-08-14T09:12:17Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-08-14T08:31:44Z How many family members  including yourself  do you currently live with?: 8.0 {#}
+- 2021-08-14T08:31:44Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-08-14T08:31:44Z What is your main insurance?: Private insurance nan
+- 2021-08-14T08:31:44Z What is your current work situation?: Full-time work nan
+- 2021-08-14T08:31:44Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-14T08:31:44Z What address do you live at?: 430 Goodwin Row nan
+- 2021-08-14T08:31:44Z Are you worried about losing your housing?: Yes nan

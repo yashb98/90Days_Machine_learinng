@@ -1,0 +1,89 @@
+== PATIENT RECORD: Latarsha812 Carroll471 (ID: ee56c87e-394b-b981-c3aa-eb3663209f37) ==
+
+== Demographics ==
+Patient ID: ee56c87e-394b-b981-c3aa-eb3663209f37
+Name: Latarsha812 Carroll471
+Gender: F
+Birthdate: 1996-04-30
+Address: 1091 Windler Lock Suite 97
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Contact dermatitis
+- Part-time employment (finding)
+- Social isolation (finding)
+- Anemia (disorder)
+- Normal pregnancy
+- Acute viral pharyngitis (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+
+== Current Medications ==
+- Seasonique 91 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Mirena 52 MG Intrauterine System
+- Trinessa 28 Day Pack
+- Yaz 28 Day Pack
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-06-13T02:18:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-06-13T02:30:37Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-04-15T02:18:51Z)
+- Depression screening (procedure) (Date: 2013-06-19T02:18:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-06-19T02:31:22Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-04-12T14:43:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-25T02:18:51Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-25T03:09:06Z)
+- Depression screening (procedure) (Date: 2014-06-25T03:31:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-25T03:45:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-06-25T04:14:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-01T02:18:51Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-01T02:18:51Z)
+- Peripheral blood smear interpretation (Date: 2016-01-14T02:18:51Z)
+- Review of systems (procedure) (Date: 2016-01-14T02:48:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-14T03:02:13Z)
+- Brief general examination (procedure) (Date: 2016-01-14T03:20:19Z)
+- Removal of subcutaneous contraceptive (Date: 2016-05-18T02:18:51Z)
+- Standard pregnancy test (Date: 2016-07-13T02:18:51Z)
+- Ultrasound scan for fetal viability (Date: 2016-07-13T02:18:51Z)
+- Counseling for termination of pregnancy (Date: 2016-07-28T02:18:51Z)
+- Induced termination of pregnancy (Date: 2016-07-28T02:18:51Z)
+- Pregnancy termination care (Date: 2016-08-14T02:18:51Z)
+- Physical exam following abortion (Date: 2016-08-14T02:18:51Z)
+- Depression screening (Date: 2016-08-14T02:18:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-04T02:18:51Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-04T02:57:31Z)
+- Depression screening (procedure) (Date: 2018-07-04T03:16:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-04T03:30:49Z)
+- Assessment of substance use (procedure) (Date: 2018-07-04T03:57:44Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-04T04:11:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-07T02:18:51Z)
+- Depression screening (procedure) (Date: 2021-07-07T03:13:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-07T03:27:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-07T02:18:51Z: General examination of patient (procedure)
+- 2021-03-06T15:40:29Z: Consultation for treatment
+- 2018-07-04T02:18:51Z: General examination of patient (procedure)
+- 2018-03-22T15:40:29Z: Consultation for treatment
+- 2018-02-19T09:18:51Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-07T03:54:51Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-07T03:13:11Z Which race(s) are you?: Asian nan
+- 2021-07-07T03:13:11Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-07-07T03:13:11Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-07-07T03:13:11Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-07-07T03:13:11Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2021-07-07T03:13:11Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 69259 /a
+- 2021-07-07T03:13:11Z What is your main insurance?: Private insurance nan
+- 2021-07-07T03:13:11Z What is your current work situation?: Full-time work nan
+- 2021-07-07T03:13:11Z What is the highest level of school that you have finished?: Less than high school degree nan

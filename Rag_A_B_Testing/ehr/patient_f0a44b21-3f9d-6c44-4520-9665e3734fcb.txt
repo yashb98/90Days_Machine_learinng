@@ -1,0 +1,53 @@
+== PATIENT RECORD: Maxie520 Green467 (ID: f0a44b21-3f9d-6c44-4520-9665e3734fcb) ==
+
+== Demographics ==
+Patient ID: f0a44b21-3f9d-6c44-4520-9665e3734fcb
+Name: Maxie520 Green467
+Gender: F
+Birthdate: 2009-10-21
+Address: 248 Swaniawski Flat Apt 77
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-03-27T21:16:34Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-18T21:16:34Z)
+- Measurement of respiratory function (procedure) (Date: 2018-10-06T23:16:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-17T21:16:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-24T21:16:34Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-30T21:16:34Z)
+- Sputum examination (procedure) (Date: 2021-06-07T15:31:23Z)
+- Depression screening (procedure) (Date: 2021-11-10T21:16:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-10T21:16:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-11-10T21:30:18Z)
+- Assessment of substance use (procedure) (Date: 2021-11-10T21:54:40Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-11-10T22:04:50Z)
+- Anticipatory guidance (procedure) (Date: 2021-11-10T22:24:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T21:16:34Z: Well child visit (procedure)
+- 2021-11-03T21:16:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-07T15:31:23Z: Encounter for symptom
+- 2020-11-04T21:16:34Z: Well child visit (procedure)
+- 2019-10-30T21:16:34Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-10T21:54:40Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-11-10T21:16:34Z Body Height: 160.1 cm
+- 2021-11-10T21:16:34Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-11-10T21:16:34Z Body Weight: 52.0 kg
+- 2021-11-10T21:16:34Z Body Mass Index: 20.3 kg/m2
+- 2021-11-10T21:16:34Z Body mass index (BMI) [Percentile] Per age and gender: 75.5 %
+- 2021-11-10T21:16:34Z Diastolic Blood Pressure: 71.0 mm[Hg]
+- 2021-11-10T21:16:34Z Systolic Blood Pressure: 119.0 mm[Hg]
+- 2021-11-10T21:16:34Z Heart rate: 63.0 /min
+- 2021-11-10T21:16:34Z Respiratory rate: 15.0 /min

@@ -1,0 +1,72 @@
+== PATIENT RECORD: Chantel847 Grady603 (ID: 6149e55a-5f2f-98ca-2767-c7f1ac73ca50) ==
+
+== Demographics ==
+Patient ID: 6149e55a-5f2f-98ca-2767-c7f1ac73ca50
+Name: Chantel847 Grady603
+Gender: F
+Birthdate: 2006-02-28
+Address: 1096 Jacobson Arcade Apt 6
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Laceration of foot
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-15T01:49:20Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-26T01:49:20Z)
+- Suture open wound (Date: 2017-07-19T01:49:20Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-21T01:49:20Z)
+- Depression screening (procedure) (Date: 2018-03-21T02:06:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-21T02:21:08Z)
+- Assessment of substance use (procedure) (Date: 2018-03-21T02:44:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-03-21T02:57:47Z)
+- Anticipatory guidance (procedure) (Date: 2018-03-21T03:13:30Z)
+- Throat culture (procedure) (Date: 2018-08-29T11:49:20Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-27T01:49:20Z)
+- Depression screening (procedure) (Date: 2019-03-27T02:06:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-27T02:17:38Z)
+- Assessment of substance use (procedure) (Date: 2019-03-27T02:38:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-03-27T02:53:40Z)
+- Health risks education (procedure) (Date: 2019-03-27T03:08:44Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-01T01:49:20Z)
+- Depression screening (procedure) (Date: 2020-04-01T02:16:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-04-01T02:30:32Z)
+- Assessment of substance use (procedure) (Date: 2020-04-01T02:52:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-04-01T03:07:34Z)
+- Anticipatory guidance (procedure) (Date: 2020-04-01T03:24:47Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-07T01:49:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-07T01:49:20Z)
+- Depression screening (procedure) (Date: 2021-04-07T02:11:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-04-07T02:21:52Z)
+- Assessment of substance use (procedure) (Date: 2021-04-07T02:48:11Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-04-07T03:01:09Z)
+- Anticipatory guidance (procedure) (Date: 2021-04-07T03:23:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-07T01:49:20Z: Well child visit (procedure)
+- 2021-02-23T01:49:20Z: Consultation for treatment
+- 2020-04-01T01:49:20Z: Well child visit (procedure)
+- 2019-03-27T01:49:20Z: Well child visit (procedure)
+- 2018-08-29T11:49:20Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-04-07T02:48:11Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 2021-04-07T02:11:22Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-04-07T01:49:20Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-07T01:49:20Z Respiratory rate: 13.0 /min
+- 2021-04-07T01:49:20Z Body Height: 173.4 cm
+- 2021-04-07T01:49:20Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-04-07T01:49:20Z Body Weight: 53.9 kg
+- 2021-04-07T01:49:20Z Body Mass Index: 17.9 kg/m2
+- 2021-04-07T01:49:20Z Body mass index (BMI) [Percentile] Per age and gender: 21.0 %
+- 2021-04-07T01:49:20Z Diastolic Blood Pressure: 88.0 mm[Hg]

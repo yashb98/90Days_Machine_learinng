@@ -1,0 +1,121 @@
+== PATIENT RECORD: Tashia814 Boehm581 (ID: 00ae3b00-9500-efc1-2758-a93d3f77e650) ==
+
+== Demographics ==
+Patient ID: 00ae3b00-9500-efc1-2758-a93d3f77e650
+Name: Tashia814 Boehm581
+Gender: F
+Birthdate: 1953-05-02
+Address: 800 Runte Gardens
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Prediabetes
+- Lack of access to transportation (finding)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Streptococcal sore throat (disorder)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Severe anxiety (panic) (finding
+- Misuses drugs (finding)
+- Acute bronchitis (disorder)
+- Chronic pain
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Cough (finding)
+- Sputum finding (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-30T10:38:53Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-30T10:38:53Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-30T11:14:31Z)
+- Screening for domestic abuse (procedure) (Date: 2012-06-30T11:34:11Z)
+- Depression screening (procedure) (Date: 2012-06-30T12:05:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-30T12:15:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-06-30T12:40:26Z)
+- Assessment of substance use (procedure) (Date: 2012-06-30T13:06:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-06-30T13:16:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-06T10:38:53Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-06T10:38:53Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-06T11:30:36Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-06T11:50:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-12T10:38:53Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-12T10:38:53Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-12T11:21:43Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-12T11:43:32Z)
+- Depression screening (procedure) (Date: 2014-07-12T12:22:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-12T12:36:47Z)
+- Assessment of substance use (procedure) (Date: 2014-07-12T13:01:20Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-12T13:12:16Z)
+- Sputum examination (procedure) (Date: 2014-11-07T18:38:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-18T10:38:53Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-18T10:38:53Z)
+- Assessment of substance use (procedure) (Date: 2015-07-18T11:30:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-18T11:42:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-23T10:38:53Z)
+- Depression screening (procedure) (Date: 2016-07-23T11:18:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-23T11:32:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-29T10:38:53Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-29T10:38:53Z)
+- Depression screening (procedure) (Date: 2017-07-29T11:33:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-29T11:43:45Z)
+- Assessment of substance use (procedure) (Date: 2017-07-29T12:08:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-29T12:22:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-04T10:38:53Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-04T11:30:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-08-04T11:51:54Z)
+- Depression screening (procedure) (Date: 2018-08-04T12:17:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-04T12:30:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-10T10:38:53Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-10T11:36:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-08-10T11:52:20Z)
+- Depression screening (procedure) (Date: 2019-08-10T12:19:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-10T12:31:30Z)
+- Assessment of substance use (procedure) (Date: 2019-08-10T12:57:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-10T13:09:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-15T10:38:53Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-08-15T11:16:40Z)
+- Depression screening (procedure) (Date: 2020-08-15T11:38:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-15T11:49:33Z)
+- Assessment of substance use (procedure) (Date: 2020-08-15T12:15:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-15T12:28:37Z)
+- Face mask (physical object) (Date: 2020-11-06T10:38:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-21T10:38:53Z)
+- Assessment of substance use (procedure) (Date: 2021-08-21T11:30:27Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-21T11:43:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-21T10:38:53Z: General examination of patient (procedure)
+- 2021-07-24T10:38:53Z: Urgent care clinic (procedure)
+- 2021-07-18T07:38:53Z: Encounter for symptom
+- 2021-03-20T10:38:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-20T10:38:53Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-21T12:04:27Z Total score [DAST-10]: 2.0 {score}
+- 2021-08-21T11:30:27Z What address do you live at?: 800 Runte Gardens nan
+- 2021-08-21T11:30:27Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-08-21T11:30:27Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need nan
+- 2021-08-21T11:30:27Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-08-21T11:30:27Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 122130 /a
+- 2021-08-21T11:30:27Z What is your main insurance?: Medicare nan
+- 2021-08-21T11:30:27Z What is your current work situation?: Full-time work nan
+- 2021-08-21T11:30:27Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-21T11:30:27Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

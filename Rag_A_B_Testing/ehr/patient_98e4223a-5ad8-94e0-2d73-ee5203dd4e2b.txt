@@ -1,0 +1,80 @@
+== PATIENT RECORD: Delfina519 Parisian75 (ID: 98e4223a-5ad8-94e0-2d73-ee5203dd4e2b) ==
+
+== Demographics ==
+Patient ID: 98e4223a-5ad8-94e0-2d73-ee5203dd4e2b
+Name: Delfina519 Parisian75
+Gender: F
+Birthdate: 2008-11-09
+Address: 752 Heller Vale Apt 5
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Laceration of thigh
+- Streptococcal sore throat (disorder)
+- Child attention deficit disorder
+- Fracture of forearm
+- Fracture of clavicle
+- Acute bronchitis (disorder)
+- Laceration of hand
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- atomoxetine 100 MG Oral Capsule
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-15T06:47:10Z)
+- Suture open wound (Date: 2012-10-07T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-27T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-02T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-08T06:47:10Z)
+- Upper arm X-ray (Date: 2016-08-30T06:59:20Z)
+- Bone immobilization (Date: 2016-08-30T06:59:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-11-13T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-13T06:47:10Z)
+- Clavicle X-ray (Date: 2017-11-03T07:32:26Z)
+- Admission to orthopedic department (Date: 2017-11-03T07:32:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-11-19T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-19T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-25T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-01T06:47:10Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-06T06:47:10Z)
+- Depression screening (procedure) (Date: 2020-12-06T07:03:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-12-06T07:13:31Z)
+- Assessment of substance use (procedure) (Date: 2020-12-06T07:39:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-12-06T07:52:55Z)
+- Anticipatory guidance (procedure) (Date: 2020-12-06T08:17:36Z)
+- Suture open wound (Date: 2021-01-18T09:25:26Z)
+- Throat culture (procedure) (Date: 2021-10-27T01:47:10Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-31T06:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-31T06:47:10Z)
+- Assessment of substance use (procedure) (Date: 2021-10-31T07:10:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-10-31T07:23:33Z)
+- Health risks education (procedure) (Date: 2021-10-31T07:39:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-31T06:47:10Z: Encounter for check up (procedure)
+- 2021-10-27T01:47:10Z: Encounter for symptom
+- 2021-06-20T06:47:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-30T06:47:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-18T09:25:26Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T06:47:10Z QOLS: 1.0 {score}
+- 2021-11-09T06:47:10Z DALY: 0.3 a
+- 2021-11-09T06:47:10Z QALY: 11.7 a
+- 2021-10-31T07:10:21Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-10-31T06:47:10Z Respiratory rate: 15.0 /min
+- 2021-10-31T06:47:10Z Body Height: 155.6 cm
+- 2021-10-31T06:47:10Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-10-31T06:47:10Z Body Mass Index: 16.7 kg/m2
+- 2021-10-31T06:47:10Z Body mass index (BMI) [Percentile] Per age and gender: 19.9 %
+- 2021-10-31T06:47:10Z Diastolic Blood Pressure: 85.0 mm[Hg]

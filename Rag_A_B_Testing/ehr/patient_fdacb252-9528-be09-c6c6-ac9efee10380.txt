@@ -1,0 +1,174 @@
+== PATIENT RECORD: Caleb651 Nienow652 (ID: fdacb252-9528-be09-c6c6-ac9efee10380) ==
+
+== Demographics ==
+Patient ID: fdacb252-9528-be09-c6c6-ac9efee10380
+Name: Caleb651 Nienow652
+Gender: M
+Birthdate: 1944-12-16
+Address: 844 Schneider Spur
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Only received primary school education (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Atrial Fibrillation
+- Hyperlipidemia
+- Refugee (person)
+- Has a criminal record (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Fracture of forearm
+- Polyp of colon
+- Fatigue (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Muscle pain (finding)
+- Joint pain (finding)
+- Chill (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute deep venous thrombosis (disorder)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 500 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2012-11-17T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-17T14:14:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-11-17T14:54:38Z)
+- Sputum examination (procedure) (Date: 2013-08-19T15:14:51Z)
+- Electrical cardioversion (Date: 2013-09-21T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-21T14:14:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-09-21T15:08:47Z)
+- Depression screening (procedure) (Date: 2013-09-21T15:31:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-21T15:45:23Z)
+- Assessment of substance use (procedure) (Date: 2013-09-21T16:07:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-09-21T16:18:27Z)
+- Electrical cardioversion (Date: 2013-11-23T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-23T14:14:51Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-23T14:14:51Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-23T15:10:45Z)
+- Assessment of substance use (procedure) (Date: 2013-11-23T15:47:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-11-23T16:00:31Z)
+- Electrical cardioversion (Date: 2014-11-29T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-29T14:14:51Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-29T15:14:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-11-29T15:34:41Z)
+- Depression screening (procedure) (Date: 2014-11-29T15:54:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-29T16:06:04Z)
+- Colonoscopy (Date: 2014-12-16T16:19:31Z)
+- Catheter ablation of tissue of heart (Date: 2015-12-05T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-05T14:14:51Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-05T14:49:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-05T15:04:53Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-05T15:32:32Z)
+- Depression screening (procedure) (Date: 2015-12-05T16:08:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-05T16:19:28Z)
+- Assessment of substance use (procedure) (Date: 2015-12-05T16:40:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-05T16:54:04Z)
+- Catheter ablation of tissue of heart (Date: 2016-12-10T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-10T14:14:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-10T14:14:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-12-10T15:06:28Z)
+- Assessment of substance use (procedure) (Date: 2016-12-10T15:22:56Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-10T15:34:42Z)
+- Electrical cardioversion (Date: 2017-12-16T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-16T14:14:51Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-16T15:03:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-12-16T15:27:06Z)
+- Depression screening (procedure) (Date: 2017-12-16T15:55:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-16T16:07:11Z)
+- Electrical cardioversion (Date: 2018-12-22T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-22T14:14:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-12-22T15:13:56Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-22T15:33:29Z)
+- Assessment of substance use (procedure) (Date: 2018-12-22T16:00:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-12-22T16:13:54Z)
+- Upper arm X-ray (Date: 2019-02-09T16:02:44Z)
+- Bone immobilization (Date: 2019-02-09T16:02:44Z)
+- Bone density scan (procedure) (Date: 2019-02-09T16:23:52Z)
+- Colonoscopy (Date: 2019-12-16T16:50:21Z)
+- Screening for occult blood in feces (procedure) (Date: 2019-12-16T17:28:18Z)
+- Rectal polypectomy (Date: 2019-12-16T17:28:18Z)
+- Electrical cardioversion (Date: 2019-12-28T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-28T14:14:51Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-28T14:49:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-12-28T15:16:52Z)
+- Depression screening (procedure) (Date: 2019-12-28T15:37:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-28T15:51:44Z)
+- Assessment of substance use (procedure) (Date: 2019-12-28T16:16:58Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-28T16:29:49Z)
+- Face mask (physical object) (Date: 2020-10-14T14:14:51Z)
+- Plain chest X-ray (procedure) (Date: 2020-10-14T15:33:47Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-14T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-14T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-15T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-15T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-16T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-16T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-17T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-17T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-18T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-18T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-19T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-19T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-20T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-20T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-21T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-21T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-22T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-22T16:12:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-10-23T16:12:08Z)
+- Placing subject in prone position (procedure) (Date: 2020-10-23T16:12:08Z)
+- Catheter ablation of tissue of heart (Date: 2021-01-02T14:14:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-02T14:14:51Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-02T15:14:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-01-02T15:44:01Z)
+- Colonoscopy (Date: 2021-01-08T17:28:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-07T14:14:51Z: Follow-up encounter
+- 2021-04-03T14:14:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-13T14:14:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-11T01:14:51Z: Encounter for symptom
+- 2021-01-08T17:28:18Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-09-07T14:14:51Z Chloride: 102.4 mmol/L
+- 2021-09-07T14:14:51Z Globulin [Mass/volume] in Serum by calculation: 2.3 g/L
+- 2021-09-07T14:14:51Z Glucose: 75.1 mg/dL
+- 2021-09-07T14:14:51Z Urea Nitrogen: 12.1 mg/dL
+- 2021-09-07T14:14:51Z Creatinine: 2.8 mg/dL
+- 2021-09-07T14:14:51Z Calcium: 9.4 mg/dL
+- 2021-09-07T14:14:51Z Sodium: 143.5 mmol/L
+- 2021-09-07T14:14:51Z Potassium: 4.3 mmol/L
+- 2021-09-07T14:14:51Z Carbon Dioxide: 20.5 mmol/L
+- 2021-09-07T14:14:51Z Glomerular filtration rate/1.73 sq M.predicted: 75.8 mL/min

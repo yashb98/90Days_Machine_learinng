@@ -1,0 +1,177 @@
+== PATIENT RECORD: Elana101 Herman763 (ID: d7c46304-29f5-5ddb-f5df-7d816cf4f318) ==
+
+== Demographics ==
+Patient ID: d7c46304-29f5-5ddb-f5df-7d816cf4f318
+Name: Elana101 Herman763
+Gender: F
+Birthdate: 1983-08-02
+Address: 790 O'Kon Spur Suite 12
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- Animal dander (substance)
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Normal pregnancy
+- Body mass index 30+ - obesity (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Jolivette 28 Day Pack
+- Kyleena 19.5 MG Intrauterine System
+- Mirena 52 MG Intrauterine System
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2012-02-14T09:19:08Z)
+- Intramuscular injection (Date: 2012-05-15T09:19:08Z)
+- Intramuscular injection (Date: 2012-08-14T09:19:08Z)
+- Intramuscular injection (Date: 2012-11-13T09:19:08Z)
+- Intramuscular injection (Date: 2013-02-12T09:19:08Z)
+- Intramuscular injection (Date: 2013-05-14T09:19:08Z)
+- Intramuscular injection (Date: 2013-08-13T09:19:08Z)
+- Intramuscular injection (Date: 2013-11-12T09:19:08Z)
+- Intramuscular injection (Date: 2014-02-11T09:19:08Z)
+- Intramuscular injection (Date: 2014-05-13T09:19:08Z)
+- Intramuscular injection (Date: 2014-08-12T09:19:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-14T09:19:08Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-14T09:19:08Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-14T10:11:11Z)
+- Standard pregnancy test (Date: 2014-11-25T09:19:08Z)
+- Ultrasound scan for fetal viability (Date: 2014-11-25T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2014-11-25T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2014-11-25T09:19:08Z)
+- Blood typing  RH typing (Date: 2014-11-25T09:19:08Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-11-25T09:19:08Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2014-11-25T09:19:08Z)
+- Human immunodeficiency virus antigen test (Date: 2014-11-25T09:19:08Z)
+- Chlamydia antigen test (Date: 2014-11-25T09:19:08Z)
+- Gonorrhea infection test (Date: 2014-11-25T09:19:08Z)
+- Syphilis infection test (Date: 2014-11-25T09:19:08Z)
+- Urine culture (Date: 2014-11-25T09:19:08Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2014-11-25T09:19:08Z)
+- Urine screening test for diabetes (Date: 2014-11-25T09:19:08Z)
+- Hepatitis C antibody test (Date: 2014-11-25T09:19:08Z)
+- Rubella screening (Date: 2014-11-25T09:19:08Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2014-11-25T09:19:08Z)
+- Skin test for tuberculosis (Date: 2014-11-25T09:19:08Z)
+- Urine protein test (Date: 2014-11-25T09:19:08Z)
+- Physical examination of mother (Date: 2014-11-25T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2014-12-23T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2014-12-23T09:19:08Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2014-12-23T09:19:08Z)
+- Fetal anatomy study (Date: 2015-01-20T09:19:08Z)
+- Alpha-fetoprotein test (Date: 2015-01-20T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2015-01-20T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2015-01-20T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2015-02-17T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2015-02-17T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2015-03-17T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2015-03-17T09:19:08Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-04-14T09:19:08Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2015-04-14T09:19:08Z)
+- Urine screening for glucose (Date: 2015-04-14T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2015-04-14T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2015-04-14T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2015-05-12T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2015-05-12T09:19:08Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2015-06-09T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2015-06-09T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2015-06-09T09:19:08Z)
+- Epidural anesthesia (Date: 2015-06-23T09:19:08Z)
+- Childbirth (Date: 2015-06-23T09:19:08Z)
+- Physical examination following birth (Date: 2015-08-04T09:19:08Z)
+- Depression screening (Date: 2015-08-04T09:19:08Z)
+- Standard pregnancy test (Date: 2016-12-06T09:19:08Z)
+- Ultrasound scan for fetal viability (Date: 2016-12-06T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2016-12-06T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2016-12-06T09:19:08Z)
+- Blood typing  RH typing (Date: 2016-12-06T09:19:08Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-12-06T09:19:08Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-12-06T09:19:08Z)
+- Human immunodeficiency virus antigen test (Date: 2016-12-06T09:19:08Z)
+- Chlamydia antigen test (Date: 2016-12-06T09:19:08Z)
+- Gonorrhea infection test (Date: 2016-12-06T09:19:08Z)
+- Syphilis infection test (Date: 2016-12-06T09:19:08Z)
+- Urine culture (Date: 2016-12-06T09:19:08Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-12-06T09:19:08Z)
+- Urine screening test for diabetes (Date: 2016-12-06T09:19:08Z)
+- Hepatitis C antibody test (Date: 2016-12-06T09:19:08Z)
+- Rubella screening (Date: 2016-12-06T09:19:08Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-12-06T09:19:08Z)
+- Skin test for tuberculosis (Date: 2016-12-06T09:19:08Z)
+- Urine protein test (Date: 2016-12-06T09:19:08Z)
+- Physical examination of mother (Date: 2016-12-06T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-01-03T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-01-03T09:19:08Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2017-01-03T09:19:08Z)
+- Fetal anatomy study (Date: 2017-01-31T09:19:08Z)
+- Alpha-fetoprotein test (Date: 2017-01-31T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-01-31T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-01-31T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-02-28T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-02-28T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-03-28T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-03-28T09:19:08Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-04-25T09:19:08Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2017-04-25T09:19:08Z)
+- Urine screening for glucose (Date: 2017-04-25T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-04-25T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-04-25T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-05-23T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-05-23T09:19:08Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2017-06-20T09:19:08Z)
+- Evaluation of uterine fundal height (Date: 2017-06-20T09:19:08Z)
+- Auscultation of the fetal heart (Date: 2017-06-20T09:19:08Z)
+- Childbirth (Date: 2017-07-04T09:19:08Z)
+- Physical examination following birth (Date: 2017-08-15T09:19:08Z)
+- Depression screening (Date: 2017-08-15T09:19:08Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-08-15T09:19:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-17T09:19:08Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-17T09:19:08Z)
+- Depression screening (procedure) (Date: 2017-10-17T10:07:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-17T10:18:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-17T10:46:07Z)
+- Assessment of substance use (procedure) (Date: 2017-10-17T11:06:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-17T11:16:22Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-08-01T23:49:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-20T09:19:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-20T09:19:08Z)
+- Depression screening (procedure) (Date: 2020-10-20T10:07:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-20T10:19:39Z)
+- Assessment of substance use (procedure) (Date: 2020-10-20T10:40:23Z)
+- Screening for drug abuse (procedure) (Date: 2020-10-20T10:53:16Z)
+- Insertion of intrauterine contraceptive device (Date: 2021-07-31T05:41:11Z)
+- Throat culture (procedure) (Date: 2021-08-09T08:19:08Z)
+- Removal of subcutaneous contraceptive (Date: 2021-08-24T09:19:08Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-08-24T09:45:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-24T09:19:08Z: Patient encounter procedure
+- 2021-08-09T08:19:08Z: Encounter for symptom
+- 2021-07-31T05:41:11Z: Patient encounter procedure
+- 2021-07-28T00:41:11Z: Consultation for treatment
+- 2020-10-20T09:19:08Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-09T08:19:08Z Body temperature: 37.8 Cel
+- 2021-08-02T09:19:08Z QOLS: 1.0 {score}
+- 2021-08-02T09:19:08Z DALY: 0.1 a
+- 2021-08-02T09:19:08Z QALY: 36.9 a
+- 2020-10-20T11:18:30Z Total score [DAST-10]: 1.0 {score}
+- 2020-10-20T10:40:23Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-10-20T10:07:51Z What is your main insurance?: Private insurance nan
+- 2020-10-20T10:07:51Z Are you worried about losing your housing?: No nan
+- 2020-10-20T10:07:51Z What address do you live at?: 790 O'Kon Spur Suite 12 nan
+- 2020-10-20T10:07:51Z What is the highest level of school that you have finished?: More than high school nan

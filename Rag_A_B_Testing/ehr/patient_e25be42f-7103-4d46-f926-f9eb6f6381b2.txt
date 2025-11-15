@@ -1,0 +1,106 @@
+== PATIENT RECORD: Marybeth994 Brekke496 (ID: e25be42f-7103-4d46-f926-f9eb6f6381b2) ==
+
+== Demographics ==
+Patient ID: e25be42f-7103-4d46-f926-f9eb6f6381b2
+Name: Marybeth994 Brekke496
+Gender: F
+Birthdate: 1954-12-17
+Address: 129 Koss Harbor Suite 99
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Has a criminal record (finding)
+- Chronic sinusitis (disorder)
+- Miscarriage in first trimester
+- Prediabetes
+- Limited social contact (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-04T01:16:53Z)
+- Assessment of anxiety (procedure) (Date: 2012-02-04T01:49:39Z)
+- Screening for domestic abuse (procedure) (Date: 2012-02-04T02:09:34Z)
+- Depression screening (procedure) (Date: 2012-02-04T02:54:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-04T03:07:58Z)
+- Assessment of substance use (procedure) (Date: 2012-02-04T03:37:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-02-04T03:49:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-09T01:16:53Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-09T02:07:05Z)
+- Assessment of substance use (procedure) (Date: 2013-02-09T02:25:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-09T02:37:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-15T01:16:53Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-15T01:16:53Z)
+- Depression screening (procedure) (Date: 2014-02-15T01:48:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-15T02:03:12Z)
+- Assessment of substance use (procedure) (Date: 2014-02-15T02:30:27Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-15T02:45:20Z)
+- Colonoscopy (Date: 2014-12-18T02:14:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-21T01:16:53Z)
+- Depression screening (procedure) (Date: 2015-02-21T01:58:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-21T02:10:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-27T01:16:53Z)
+- Assessment of substance use (procedure) (Date: 2016-02-27T02:13:46Z)
+- Screening for drug abuse (procedure) (Date: 2016-02-27T02:26:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-04T01:16:53Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-04T01:59:01Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-04T02:22:47Z)
+- Depression screening (procedure) (Date: 2017-03-04T03:00:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-04T03:11:07Z)
+- Assessment of substance use (procedure) (Date: 2017-03-04T03:31:09Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-04T03:45:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-10T01:16:53Z)
+- Depression screening (procedure) (Date: 2018-03-10T02:15:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-10T02:25:54Z)
+- Assessment of substance use (procedure) (Date: 2018-03-10T02:50:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-10T03:01:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-16T01:16:53Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-16T01:16:53Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-16T02:03:47Z)
+- Colonoscopy (Date: 2019-12-18T02:46:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-21T01:16:53Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-03-21T01:53:37Z)
+- Depression screening (procedure) (Date: 2020-03-21T02:21:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-21T02:32:50Z)
+- Assessment of substance use (procedure) (Date: 2020-03-21T03:01:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-21T03:14:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-27T01:16:53Z)
+- Depression screening (procedure) (Date: 2021-03-27T02:08:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-27T02:22:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-27T02:42:26Z)
+- Assessment of substance use (procedure) (Date: 2021-03-27T03:06:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-27T03:18:43Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-10T01:16:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-27T01:16:53Z: General examination of patient (procedure)
+- 2021-03-20T01:16:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-03-21T01:16:53Z: General examination of patient (procedure)
+- 2019-12-18T02:46:30Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-03-27T03:43:14Z Total score [AUDIT-C]: 7.0 {score}
+- 2021-03-27T03:06:16Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 3.0 {score}
+- 2021-03-27T02:42:26Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-03-27T02:08:47Z What is your current work situation?: Full-time work nan
+- 2021-03-27T02:08:47Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-27T02:08:47Z What address do you live at?: 129 Koss Harbor Suite 99 nan
+- 2021-03-27T02:08:47Z Are you worried about losing your housing?: No nan
+- 2021-03-27T02:08:47Z What is your housing situation today?: I have housing nan
+- 2021-03-27T02:08:47Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-27T02:08:47Z What language are you most comfortable speaking?: English nan

@@ -1,0 +1,52 @@
+== PATIENT RECORD: Nelida367 Jacobi462 (ID: 3fda13ae-c868-c505-10ee-3f6d4b694b84) ==
+
+== Demographics ==
+Patient ID: 3fda13ae-c868-c505-10ee-3f6d4b694b84
+Name: Nelida367 Jacobi462
+Gender: F
+Birthdate: 2019-06-26
+Address: 501 Donnelly Mall
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Cough (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-06-26T08:34:03Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-31T08:34:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-03T08:34:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-02T08:34:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-02T08:34:03Z)
+- Face mask (physical object) (Date: 2021-01-14T08:34:03Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-02T08:34:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-02T08:34:03Z: Well child visit (procedure)
+- 2021-01-14T08:34:03Z: Encounter for symptom (procedure)
+- 2020-12-02T08:34:03Z: Well child visit (procedure)
+- 2020-09-02T08:34:03Z: Well child visit (procedure)
+- 2020-06-03T08:34:03Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-26T08:34:03Z QOLS: 1.0 {score}
+- 2021-06-26T08:34:03Z DALY: 0.0 a
+- 2021-06-26T08:34:03Z QALY: 1.0 a
+- 2021-06-02T08:34:03Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2021-06-02T08:34:03Z Body Height: 87.3 cm
+- 2021-06-02T08:34:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-06-02T08:34:03Z Weight-for-length Per age and sex: 84.7 %
+- 2021-06-02T08:34:03Z Head Occipital-frontal circumference: 48.2 cm
+- 2021-06-02T08:34:03Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-06-02T08:34:03Z Body Weight: 13.3 kg

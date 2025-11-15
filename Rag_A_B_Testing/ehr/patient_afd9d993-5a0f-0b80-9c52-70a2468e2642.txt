@@ -1,0 +1,182 @@
+== PATIENT RECORD: Raymon366 Mayert710 (ID: afd9d993-5a0f-0b80-9c52-70a2468e2642) ==
+
+== Demographics ==
+Patient ID: afd9d993-5a0f-0b80-9c52-70a2468e2642
+Name: Raymon366 Mayert710
+Gender: M
+Birthdate: 1916-03-28
+Address: 951 Kunde Gate Apt 24
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Anemia (disorder)
+- Chronic sinusitis (disorder)
+- Stroke
+- Social isolation (finding)
+- Laceration of foot
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Coronary Heart Disease
+- Viral sinusitis (disorder)
+- Sinusitis (disorder)
+- Chronic congestive heart failure (disorder)
+- Shock (disorder)
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Clopidogrel 75 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Suture open wound (Date: 1994-03-23T11:29:38Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-09-06T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1994-09-06T12:03:54Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-09-06T12:20:12Z)
+- Screening for domestic abuse (procedure) (Date: 1994-09-06T12:36:58Z)
+- Depression screening (procedure) (Date: 1994-09-06T13:17:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-09-06T13:28:14Z)
+- Measurement of respiratory function (procedure) (Date: 1995-06-02T22:29:38Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-06-13T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1995-06-13T11:29:38Z)
+- Screening for domestic abuse (procedure) (Date: 1995-06-13T12:16:43Z)
+- Assessment of substance use (procedure) (Date: 1995-06-13T12:54:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-06-13T13:08:38Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-09-12T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1995-09-12T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1995-09-12T12:07:44Z)
+- Assessment of substance use (procedure) (Date: 1995-09-12T12:34:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-09-12T12:47:24Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-09-17T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1996-09-17T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1996-09-17T12:25:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-09-17T12:47:01Z)
+- Depression screening (procedure) (Date: 1996-09-17T13:02:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-09-17T13:15:39Z)
+- Assessment of substance use (procedure) (Date: 1996-09-17T13:36:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-09-17T13:50:46Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-03-25T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1997-03-25T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1997-03-25T12:22:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-03-25T12:50:52Z)
+- Depression screening (procedure) (Date: 1997-03-25T13:14:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-03-25T13:27:09Z)
+- Assessment of substance use (procedure) (Date: 1997-03-25T13:54:24Z)
+- Screening for drug abuse (procedure) (Date: 1997-03-25T14:07:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-09-23T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1997-09-23T12:26:10Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-09-23T12:54:08Z)
+- Screening for domestic abuse (procedure) (Date: 1997-09-23T13:23:28Z)
+- Depression screening (procedure) (Date: 1997-09-23T14:04:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-09-23T14:18:15Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-09-22T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1998-09-22T12:10:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-09-22T12:37:22Z)
+- Assessment of substance use (procedure) (Date: 1998-09-22T13:05:17Z)
+- Screening for drug abuse (procedure) (Date: 1998-09-22T13:17:14Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-10-06T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1998-10-06T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1998-10-06T12:18:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-10-06T12:44:15Z)
+- Assessment of substance use (procedure) (Date: 1998-10-06T13:06:39Z)
+- Screening for drug abuse (procedure) (Date: 1998-10-06T13:18:32Z)
+- Electrocardiographic procedure (Date: 1999-05-11T11:29:38Z)
+- Plain chest X-ray (procedure) (Date: 1999-05-11T11:36:46Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1999-05-11T11:36:46Z)
+- Echocardiography (procedure) (Date: 1999-05-26T11:52:09Z)
+- Medication Reconciliation (procedure) (Date: 1999-05-26T11:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-10-12T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1999-10-12T11:29:38Z)
+- Depression screening (procedure) (Date: 1999-10-12T12:12:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-10-12T12:26:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1999-10-12T12:49:32Z)
+- Oxygen administration by mask (procedure) (Date: 1999-11-22T11:52:09Z)
+- Placing subject in prone position (procedure) (Date: 1999-11-22T11:52:09Z)
+- Plain chest X-ray (procedure) (Date: 1999-11-22T11:52:09Z)
+- Medication Reconciliation (procedure) (Date: 1999-11-22T11:52:09Z)
+- Electrocardiographic procedure (Date: 1999-11-22T11:52:09Z)
+- Oxygen administration by mask (procedure) (Date: 1999-11-22T11:59:57Z)
+- Placing subject in prone position (procedure) (Date: 1999-11-22T11:59:57Z)
+- Heart failure education (procedure) (Date: 1999-11-23T11:59:57Z)
+- Echocardiography (procedure) (Date: 2000-05-21T12:37:57Z)
+- Medication Reconciliation (procedure) (Date: 2000-05-21T12:37:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-10-17T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 2000-10-17T11:29:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-10-17T12:24:45Z)
+- Depression screening (procedure) (Date: 2000-10-17T12:52:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-10-17T13:02:56Z)
+- Assessment of substance use (procedure) (Date: 2000-10-17T13:27:36Z)
+- Screening for drug abuse (procedure) (Date: 2000-10-17T13:40:38Z)
+- Echocardiography (procedure) (Date: 2000-11-17T12:37:57Z)
+- Medication Reconciliation (procedure) (Date: 2000-11-17T12:37:57Z)
+- Oxygen administration by mask (procedure) (Date: 2001-05-16T12:37:57Z)
+- Placing subject in prone position (procedure) (Date: 2001-05-16T12:37:57Z)
+- Plain chest X-ray (procedure) (Date: 2001-05-16T12:37:57Z)
+- Medication Reconciliation (procedure) (Date: 2001-05-16T12:37:57Z)
+- Electrocardiographic procedure (Date: 2001-05-16T12:37:57Z)
+- Oxygen administration by mask (procedure) (Date: 2001-05-16T12:45:02Z)
+- Placing subject in prone position (procedure) (Date: 2001-05-16T12:45:02Z)
+- Heart failure education (procedure) (Date: 2001-05-17T12:45:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-10-23T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 2001-10-23T12:15:16Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-10-23T12:43:21Z)
+- Screening for domestic abuse (procedure) (Date: 2001-10-23T13:10:15Z)
+- Depression screening (procedure) (Date: 2001-10-23T13:39:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-10-23T13:49:50Z)
+- Echocardiography (procedure) (Date: 2001-11-13T13:29:24Z)
+- Medication Reconciliation (procedure) (Date: 2001-11-13T13:29:24Z)
+- Oxygen administration by mask (procedure) (Date: 2002-05-12T13:29:24Z)
+- Placing subject in prone position (procedure) (Date: 2002-05-12T13:29:24Z)
+- Plain chest X-ray (procedure) (Date: 2002-05-12T13:29:24Z)
+- Medication Reconciliation (procedure) (Date: 2002-05-12T13:29:24Z)
+- Electrocardiographic procedure (Date: 2002-05-12T13:29:24Z)
+- Echocardiography (procedure) (Date: 2002-05-12T13:36:29Z)
+- Oxygen administration by mask (procedure) (Date: 2002-05-12T13:36:29Z)
+- Placing subject in prone position (procedure) (Date: 2002-05-12T13:36:29Z)
+- Heart failure education (procedure) (Date: 2002-05-13T13:36:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-10-29T11:29:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-10-29T12:13:16Z)
+- Depression screening (procedure) (Date: 2002-10-29T12:31:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-10-29T12:46:39Z)
+- Assessment of substance use (procedure) (Date: 2002-10-29T13:06:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-10-29T13:18:02Z)
+- Echocardiography (procedure) (Date: 2002-11-09T14:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2002-11-09T14:16:04Z)
+- Echocardiography (procedure) (Date: 2003-05-08T14:16:04Z)
+- Medication Reconciliation (procedure) (Date: 2003-05-08T14:16:04Z)
+- Echocardiography (procedure) (Date: 2003-08-26T11:29:38Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2003-08-26T11:29:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2003-09-02T11:29:38Z: Death Certification
+- 2003-08-26T11:29:38Z: Stroke
+- 2003-05-08T14:16:04Z: Encounter for problem
+- 2003-03-29T17:29:38Z: Encounter for symptom
+- 2002-11-09T14:16:04Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2003-09-02T11:29:38Z Cause of Death [US Standard Certificate of Death]: Stroke nan
+- 2003-05-08T14:16:04Z Carbon Dioxide: 24.7 mmol/L
+- 2003-05-08T14:16:04Z Chloride: 108.5 mmol/L
+- 2003-05-08T14:16:04Z Potassium: 4.6 mmol/L
+- 2003-05-08T14:16:04Z Sodium: 143.5 mmol/L
+- 2003-05-08T14:16:04Z Calcium: 9.2 mg/dL
+- 2003-05-08T14:16:04Z Creatinine: 0.7 mg/dL
+- 2003-05-08T14:16:04Z Urea Nitrogen: 7.0 mg/dL
+- 2003-05-08T14:16:04Z Glucose: 69.4 mg/dL
+- 2003-05-08T14:16:04Z Left ventricular Ejection fraction: 80.2 %

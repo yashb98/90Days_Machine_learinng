@@ -1,0 +1,54 @@
+== PATIENT RECORD: Dan465 Tromp100 (ID: 3724187a-4b7f-43ef-aa6f-22e13b76449b) ==
+
+== Demographics ==
+Patient ID: 3724187a-4b7f-43ef-aa6f-22e13b76449b
+Name: Dan465 Tromp100
+Gender: M
+Birthdate: 2019-06-25
+Address: 771 Rutherford Mill
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Fracture of rib
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-06-25T18:30:21Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-30T18:30:21Z)
+- Measurement of respiratory function (procedure) (Date: 2019-08-27T05:30:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-03T18:30:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-02T18:30:21Z)
+- Chest X-ray (Date: 2020-06-30T18:30:21Z)
+- Bone immobilization (Date: 2020-06-30T18:30:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-09-01T18:30:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-01T18:30:21Z)
+- Throat culture (procedure) (Date: 2020-10-20T08:30:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-01T18:30:21Z)
+- Throat culture (procedure) (Date: 2021-05-02T00:30:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-01T18:30:21Z: Well child visit (procedure)
+- 2021-05-02T00:30:21Z: Encounter for symptom
+- 2020-12-01T18:30:21Z: Well child visit (procedure)
+- 2020-10-27T19:05:43Z: Encounter for 'check-up'
+- 2020-10-20T08:30:21Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-06-25T18:30:21Z QOLS: 1.0 {score}
+- 2021-06-25T18:30:21Z DALY: 0.0 a
+- 2021-06-25T18:30:21Z QALY: 1.0 a
+- 2021-06-01T18:30:21Z Systolic Blood Pressure: 136.0 mm[Hg]
+- 2021-06-01T18:30:21Z Body Height: 79.7 cm
+- 2021-06-01T18:30:21Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-06-01T18:30:21Z Body Weight: 11.4 kg
+- 2021-06-01T18:30:21Z Head Occipital-frontal circumference: 45.7 cm
+- 2021-06-01T18:30:21Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-06-01T18:30:21Z Weight-for-length Per age and sex: 72.1 %

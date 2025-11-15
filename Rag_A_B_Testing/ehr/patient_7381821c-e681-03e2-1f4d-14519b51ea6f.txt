@@ -1,0 +1,50 @@
+== PATIENT RECORD: Vance413 Ernser583 (ID: 7381821c-e681-03e2-1f4d-14519b51ea6f) ==
+
+== Demographics ==
+Patient ID: 7381821c-e681-03e2-1f4d-14519b51ea6f
+Name: Vance413 Ernser583
+Gender: M
+Birthdate: 2009-06-05
+Address: 949 Beer Club Unit 47
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-05-10T15:56:59Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-16T15:56:59Z)
+- Measurement of respiratory function (procedure) (Date: 2014-06-12T13:56:59Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-20T15:56:59Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-22T15:56:59Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-23T15:56:59Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-19T15:56:59Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-25T15:56:59Z)
+- Assessment of substance use (procedure) (Date: 2021-06-25T16:23:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-06-25T16:37:19Z)
+- Anticipatory guidance (procedure) (Date: 2021-06-25T16:54:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-09T15:56:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-25T15:56:59Z: Well child visit (procedure)
+- 2021-06-18T15:56:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-19T15:56:59Z: Well child visit (procedure)
+- 2019-06-14T15:56:59Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-25T16:23:08Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2021-06-25T15:56:59Z Body Height: 158.6 cm
+- 2021-06-25T15:56:59Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-06-25T15:56:59Z Body Weight: 41.6 kg
+- 2021-06-25T15:56:59Z Body Mass Index: 16.6 kg/m2
+- 2021-06-25T15:56:59Z Body mass index (BMI) [Percentile] Per age and gender: 26.9 %
+- 2021-06-25T15:56:59Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-06-25T15:56:59Z Systolic Blood Pressure: 108.0 mm[Hg]
+- 2021-06-25T15:56:59Z Heart rate: 64.0 /min
+- 2021-06-25T15:56:59Z Respiratory rate: 13.0 /min

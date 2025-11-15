@@ -1,0 +1,65 @@
+== PATIENT RECORD: Ji399 Powlowski563 (ID: 36c63375-a5be-f2fd-5ead-457c203771ed) ==
+
+== Demographics ==
+Patient ID: 36c63375-a5be-f2fd-5ead-457c203771ed
+Name: Ji399 Powlowski563
+Gender: F
+Birthdate: 2009-03-22
+Address: 935 Marquardt Walk Unit 98
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bacterial sinusitis (disorder)
+- Otitis media
+- Acute bronchitis (disorder)
+- Sprain of ankle
+- Sinusitis (disorder)
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-26T16:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-26T16:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-24T16:28:30Z)
+- Measurement of respiratory function (procedure) (Date: 2013-10-29T03:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-03T16:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-08T16:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-25T16:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-05T16:28:30Z)
+- Face mask (physical object) (Date: 2021-02-19T16:28:30Z)
+- Depression screening (procedure) (Date: 2021-04-11T16:28:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-04-11T16:39:30Z)
+- Assessment of substance use (procedure) (Date: 2021-04-11T17:03:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-04-11T17:14:46Z)
+- Anticipatory guidance (procedure) (Date: 2021-04-11T17:25:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-11T16:28:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-13T16:28:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-11T16:28:30Z: Well child visit (procedure)
+- 2021-02-19T16:28:30Z: Encounter for symptom (procedure)
+- 2020-04-05T16:28:30Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-11T17:03:03Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-04-11T16:28:30Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-11T16:28:30Z Respiratory rate: 16.0 /min
+- 2021-04-11T16:28:30Z Body Height: 160.1 cm
+- 2021-04-11T16:28:30Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-04-11T16:28:30Z Body Weight: 80.4 kg
+- 2021-04-11T16:28:30Z Body Mass Index: 31.4 kg/m2
+- 2021-04-11T16:28:30Z Body mass index (BMI) [Percentile] Per age and gender: 98.8 %
+- 2021-04-11T16:28:30Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-04-11T16:28:30Z Systolic Blood Pressure: 102.0 mm[Hg]

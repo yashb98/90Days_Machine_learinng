@@ -1,0 +1,71 @@
+== PATIENT RECORD: Olivia294 Lovato727 (ID: 3f6c7ea3-e73b-025e-06ab-e452943effad) ==
+
+== Demographics ==
+Patient ID: 3f6c7ea3-e73b-025e-06ab-e452943effad
+Name: Olivia294 Lovato727
+Gender: F
+Birthdate: 2006-07-15
+Address: 877 Witting Dale Unit 76
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Tree pollen (substance)
+- Penicillin V
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis with seasonal variation
+- Childhood asthma
+- Otitis media
+- Injury of tendon of the rotator cuff of shoulder
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 325 MG Oral Tablet
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-30T10:25:38Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-06T10:25:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-12T10:25:38Z)
+- Sputum examination (procedure) (Date: 2015-10-28T22:25:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-23T10:25:38Z)
+- Measurement of respiratory function (procedure) (Date: 2017-04-20T11:25:38Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-04T10:25:38Z)
+- Depression screening (procedure) (Date: 2018-08-04T10:55:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-04T11:06:58Z)
+- Assessment of substance use (procedure) (Date: 2018-08-04T11:27:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-04T11:40:47Z)
+- Anticipatory guidance (procedure) (Date: 2018-08-04T11:59:06Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-10T10:25:38Z)
+- Assessment of substance use (procedure) (Date: 2019-08-10T10:55:28Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-10T11:08:25Z)
+- Anticipatory guidance (procedure) (Date: 2019-08-10T11:21:09Z)
+- Depression screening (procedure) (Date: 2021-08-21T10:25:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-21T10:36:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-24T02:25:38Z: Asthma follow-up
+- 2021-08-21T10:25:38Z: Well child visit (procedure)
+- 2021-07-09T10:25:38Z: Consultation for treatment
+- 2021-01-30T10:25:38Z: Urgent care clinic (procedure)
+- 2021-01-23T10:25:38Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-21T11:01:08Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-08-21T10:25:38Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-21T10:25:38Z Body Height: 148.7 cm
+- 2021-08-21T10:25:38Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-08-21T10:25:38Z Body Weight: 53.0 kg
+- 2021-08-21T10:25:38Z Body Mass Index: 24.0 kg/m2
+- 2021-08-21T10:25:38Z Body mass index (BMI) [Percentile] Per age and gender: 84.4 %
+- 2021-08-21T10:25:38Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-08-21T10:25:38Z Systolic Blood Pressure: 113.0 mm[Hg]
+- 2021-08-21T10:25:38Z Heart rate: 81.0 /min

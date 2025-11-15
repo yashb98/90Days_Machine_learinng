@@ -1,0 +1,141 @@
+== PATIENT RECORD: Reynalda736 Metz686 (ID: 70da0834-3ef3-7dfe-ad2a-8a00b5f87749) ==
+
+== Demographics ==
+Patient ID: 70da0834-3ef3-7dfe-ad2a-8a00b5f87749
+Name: Reynalda736 Metz686
+Gender: F
+Birthdate: 2000-04-28
+Address: 189 Johns Orchard Suite 72
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-05-18T14:26:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-18T14:37:48Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-24T14:26:59Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-24T14:26:59Z)
+- Depression screening (procedure) (Date: 2013-05-24T14:52:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-24T15:06:23Z)
+- Intramuscular injection (Date: 2014-04-28T14:26:59Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-30T14:26:59Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-30T14:26:59Z)
+- Intramuscular injection (Date: 2014-08-08T14:26:59Z)
+- Intramuscular injection (Date: 2014-11-07T14:26:59Z)
+- Intramuscular injection (Date: 2015-02-06T14:26:59Z)
+- Intramuscular injection (Date: 2015-05-08T14:26:59Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-05T14:26:59Z)
+- Depression screening (procedure) (Date: 2015-06-05T14:45:08Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-05T14:57:39Z)
+- Assessment of substance use (procedure) (Date: 2015-06-05T15:23:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-05T15:36:52Z)
+- Anticipatory guidance (procedure) (Date: 2015-06-05T16:06:05Z)
+- Intramuscular injection (Date: 2015-08-07T14:26:59Z)
+- Intramuscular injection (Date: 2015-11-06T14:26:59Z)
+- Intramuscular injection (Date: 2016-02-05T14:26:59Z)
+- Intramuscular injection (Date: 2016-05-06T14:26:59Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-10T14:26:59Z)
+- Depression screening (procedure) (Date: 2016-06-10T14:49:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-10T15:00:37Z)
+- Assessment of substance use (procedure) (Date: 2016-06-10T15:28:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-10T15:38:48Z)
+- Health risks education (procedure) (Date: 2016-06-10T16:03:52Z)
+- Intramuscular injection (Date: 2016-08-05T14:26:59Z)
+- Intramuscular injection (Date: 2016-11-04T14:26:59Z)
+- Intramuscular injection (Date: 2017-02-03T14:26:59Z)
+- Intramuscular injection (Date: 2017-05-05T14:26:59Z)
+- Depression screening (procedure) (Date: 2017-06-16T14:26:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-16T14:39:20Z)
+- Assessment of substance use (procedure) (Date: 2017-06-16T14:59:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-06-16T15:12:19Z)
+- Anticipatory guidance (procedure) (Date: 2017-06-16T15:31:03Z)
+- Measurement of respiratory function (procedure) (Date: 2017-07-01T08:26:59Z)
+- Intramuscular injection (Date: 2017-08-04T14:26:59Z)
+- Intramuscular injection (Date: 2017-11-03T14:26:59Z)
+- Intramuscular injection (Date: 2018-02-02T14:26:59Z)
+- Intramuscular injection (Date: 2018-05-04T14:26:59Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-06T14:26:59Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-09T15:14:30Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-12T16:07:02Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-15T16:57:24Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-18T17:52:18Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-21T18:43:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-22T14:26:59Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-22T14:26:59Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-24T19:41:04Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-27T20:40:15Z)
+- Screening for domestic abuse (procedure) (Date: 2018-06-22T15:16:42Z)
+- Depression screening (procedure) (Date: 2018-06-22T15:56:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-22T16:10:13Z)
+- Assessment of substance use (procedure) (Date: 2018-06-22T16:35:56Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-22T16:46:12Z)
+- Movement therapy (regime/therapy) (Date: 2018-06-30T21:34:31Z)
+- Movement therapy (regime/therapy) (Date: 2018-07-03T22:27:42Z)
+- Intramuscular injection (Date: 2018-08-03T14:26:59Z)
+- Intramuscular injection (Date: 2018-11-02T14:26:59Z)
+- Intramuscular injection (Date: 2019-02-01T14:26:59Z)
+- Intramuscular injection (Date: 2019-05-03T14:26:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-28T14:26:59Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-28T14:26:59Z)
+- Depression screening (procedure) (Date: 2019-06-28T15:03:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-28T15:15:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-28T15:42:38Z)
+- Assessment of substance use (procedure) (Date: 2019-06-28T16:02:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-06-28T16:14:24Z)
+- Intramuscular injection (Date: 2019-08-02T14:26:59Z)
+- Intramuscular injection (Date: 2019-11-01T14:26:59Z)
+- Intramuscular injection (Date: 2020-01-31T14:26:59Z)
+- Intramuscular injection (Date: 2020-05-01T14:26:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-03T14:26:59Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-03T14:26:59Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-03T15:21:03Z)
+- Depression screening (procedure) (Date: 2020-07-03T15:58:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-03T16:11:36Z)
+- Intramuscular injection (Date: 2020-07-31T14:26:59Z)
+- Intramuscular injection (Date: 2020-10-30T14:26:59Z)
+- Intramuscular injection (Date: 2021-01-29T14:26:59Z)
+- Intramuscular injection (Date: 2021-04-30T14:26:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-09T14:26:59Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-09T14:26:59Z)
+- Depression screening (procedure) (Date: 2021-07-09T15:19:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-09T15:30:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-07-09T16:00:10Z)
+- Intramuscular injection (Date: 2021-07-30T14:26:59Z)
+- Intramuscular injection (Date: 2021-10-29T14:26:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-29T14:26:59Z: Patient encounter procedure
+- 2021-07-30T14:26:59Z: Patient encounter procedure
+- 2021-07-09T14:26:59Z: General examination of patient (procedure)
+- 2021-05-14T14:26:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-30T14:26:59Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-07-09T16:29:50Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 4.0 {score}
+- 2021-07-09T16:00:10Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 3.0 {score}
+- 2021-07-09T15:19:47Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 86574 /a
+- 2021-07-09T15:19:47Z What address do you live at?: 189 Johns Orchard Suite 72 nan
+- 2021-07-09T15:19:47Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-07-09T15:19:47Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-07-09T15:19:47Z Are you a refugee?: No nan
+- 2021-07-09T15:19:47Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-07-09T15:19:47Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-07-09T15:19:47Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

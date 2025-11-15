@@ -1,0 +1,68 @@
+== PATIENT RECORD: Zachary28 Hane680 (ID: 13b1cf83-d511-15a7-5ac3-d5d42f57d6ef) ==
+
+== Demographics ==
+Patient ID: 13b1cf83-d511-15a7-5ac3-d5d42f57d6ef
+Name: Zachary28 Hane680
+Gender: M
+Birthdate: 1983-10-05
+Address: 215 Hills Ferry
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+- Prediabetes
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-15T03:37:21Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-15T04:12:15Z)
+- Assessment of substance use (procedure) (Date: 2011-12-15T04:27:27Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-15T04:41:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-18T03:37:21Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-18T03:37:21Z)
+- Depression screening (procedure) (Date: 2014-12-18T04:11:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-18T04:22:52Z)
+- Assessment of substance use (procedure) (Date: 2014-12-18T04:51:50Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-18T05:03:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-21T03:37:21Z)
+- Depression screening (procedure) (Date: 2017-12-21T04:32:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-21T04:44:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-12-21T05:14:30Z)
+- Assessment of substance use (procedure) (Date: 2017-12-21T05:35:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-21T05:49:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-24T03:37:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-24T03:37:21Z)
+- Depression screening (procedure) (Date: 2020-12-24T04:08:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-24T04:21:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-11T03:37:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-14T03:37:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-24T03:37:21Z: General examination of patient (procedure)
+- 2017-12-21T03:37:21Z: General examination of patient (procedure)
+- 2015-11-26T11:37:21Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-06T03:37:21Z QOLS: 1.0 {score}
+- 2021-10-06T03:37:21Z DALY: 0.1 a
+- 2021-10-06T03:37:21Z QALY: 36.9 a
+- 2020-12-24T04:44:49Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-12-24T04:08:33Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-12-24T04:08:33Z Are you a refugee?: No nan
+- 2020-12-24T04:08:33Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-12-24T04:08:33Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-12-24T04:08:33Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2020-12-24T04:08:33Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

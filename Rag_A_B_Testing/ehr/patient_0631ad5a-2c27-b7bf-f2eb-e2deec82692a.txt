@@ -1,0 +1,62 @@
+== PATIENT RECORD: Sharleen176 Cronin387 (ID: 0631ad5a-2c27-b7bf-f2eb-e2deec82692a) ==
+
+== Demographics ==
+Patient ID: 0631ad5a-2c27-b7bf-f2eb-e2deec82692a
+Name: Sharleen176 Cronin387
+Gender: F
+Birthdate: 2007-09-28
+Address: 897 Volkman Trafficway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Facial laceration
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-11-05T05:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-13T06:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-19T06:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-25T06:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-06T06:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-12T06:47:31Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-18T06:47:31Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-02T06:47:31Z)
+- Depression screening (procedure) (Date: 2020-10-02T07:11:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-10-02T07:25:31Z)
+- Assessment of substance use (procedure) (Date: 2020-10-02T07:49:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-10-02T07:59:50Z)
+- Anticipatory guidance (procedure) (Date: 2020-10-02T08:21:18Z)
+- Assessment of substance use (procedure) (Date: 2020-10-23T06:47:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-10-23T07:01:39Z)
+- Anticipatory guidance (procedure) (Date: 2020-10-23T07:12:11Z)
+- Suture open wound (Date: 2021-07-30T06:47:31Z)
+- Depression screening (procedure) (Date: 2021-10-29T06:47:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-10-29T06:59:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-29T06:47:31Z: Well child visit (procedure)
+- 2021-07-30T06:47:31Z: Emergency room admission (procedure)
+- 2020-10-23T06:47:31Z: Well child visit (procedure)
+- 2020-10-02T06:47:31Z: Encounter for check up (procedure)
+- 2020-09-29T20:47:31Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-29T07:28:19Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-10-29T06:47:31Z Body Mass Index: 23.0 kg/m2
+- 2021-10-29T06:47:31Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-29T06:47:31Z Body Height: 160.6 cm
+- 2021-10-29T06:47:31Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-10-29T06:47:31Z Body Weight: 59.3 kg
+- 2021-10-29T06:47:31Z Body mass index (BMI) [Percentile] Per age and gender: 82.9 %
+- 2021-10-29T06:47:31Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-10-29T06:47:31Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2021-10-29T06:47:31Z Heart rate: 82.0 /min

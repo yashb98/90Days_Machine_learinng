@@ -1,0 +1,147 @@
+== PATIENT RECORD: Siu135 Konopelski743 (ID: 01d78eb5-7f50-45e9-f524-921196a3dffe) ==
+
+== Demographics ==
+Patient ID: 01d78eb5-7f50-45e9-f524-921196a3dffe
+Name: Siu135 Konopelski743
+Gender: F
+Birthdate: 2000-12-13
+Address: 397 Leffler Hollow
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Eggs (edible) (substance)
+- Shellfish (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Normal pregnancy
+- Otitis media
+- Stress (finding)
+- Cough (finding)
+- Muscle pain (finding)
+- Joint pain (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Trinessa 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Amoxicillin 250 MG Oral Capsule
+- Naproxen sodium 220 MG Oral Tablet
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2013-01-02T13:18:46Z)
+- Depression screening (procedure) (Date: 2014-01-08T13:18:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-01-08T13:31:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-14T13:18:46Z)
+- Depression screening (procedure) (Date: 2015-01-14T13:35:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-14T13:47:13Z)
+- Assessment of substance use (procedure) (Date: 2015-01-14T14:09:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-14T14:24:18Z)
+- Anticipatory guidance (procedure) (Date: 2015-01-14T14:42:26Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-25T13:18:46Z)
+- Depression screening (procedure) (Date: 2017-01-25T13:39:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-01-25T13:53:59Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-31T13:18:46Z)
+- Depression screening (procedure) (Date: 2018-01-31T13:40:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-01-31T13:53:00Z)
+- Assessment of substance use (procedure) (Date: 2018-01-31T14:15:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-01-31T14:29:01Z)
+- Anticipatory guidance (procedure) (Date: 2018-01-31T14:58:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-06T13:18:46Z)
+- Screening for domestic abuse (procedure) (Date: 2019-02-06T14:10:09Z)
+- Depression screening (procedure) (Date: 2019-02-06T14:44:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-06T14:57:54Z)
+- Assessment of substance use (procedure) (Date: 2019-02-06T15:20:32Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-06T15:34:39Z)
+- Standard pregnancy test (Date: 2019-05-08T13:18:46Z)
+- Ultrasound scan for fetal viability (Date: 2019-05-08T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-05-08T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-05-08T13:18:46Z)
+- Blood typing  RH typing (Date: 2019-05-08T13:18:46Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-05-08T13:18:46Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-05-08T13:18:46Z)
+- Human immunodeficiency virus antigen test (Date: 2019-05-08T13:18:46Z)
+- Chlamydia antigen test (Date: 2019-05-08T13:18:46Z)
+- Gonorrhea infection test (Date: 2019-05-08T13:18:46Z)
+- Syphilis infection test (Date: 2019-05-08T13:18:46Z)
+- Urine culture (Date: 2019-05-08T13:18:46Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-05-08T13:18:46Z)
+- Urine screening test for diabetes (Date: 2019-05-08T13:18:46Z)
+- Hepatitis C antibody test (Date: 2019-05-08T13:18:46Z)
+- Rubella screening (Date: 2019-05-08T13:18:46Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-05-08T13:18:46Z)
+- Skin test for tuberculosis (Date: 2019-05-08T13:18:46Z)
+- Urine protein test (Date: 2019-05-08T13:18:46Z)
+- Physical examination of mother (Date: 2019-05-08T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-06-05T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-06-05T13:18:46Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-06-05T13:18:46Z)
+- Fetal anatomy study (Date: 2019-07-03T13:18:46Z)
+- Alpha-fetoprotein test (Date: 2019-07-03T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-07-03T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-07-03T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-07-31T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-07-31T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-08-28T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-08-28T13:18:46Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-09-25T13:18:46Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-09-25T13:18:46Z)
+- Urine screening for glucose (Date: 2019-09-25T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-09-25T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-09-25T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-10-23T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-10-23T13:18:46Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-11-20T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-11-20T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-11-20T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-12-04T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-12-04T13:18:46Z)
+- Evaluation of uterine fundal height (Date: 2019-12-11T13:18:46Z)
+- Auscultation of the fetal heart (Date: 2019-12-11T13:18:46Z)
+- Augmentation of labor (Date: 2019-12-18T13:18:46Z)
+- Childbirth (Date: 2019-12-18T13:18:46Z)
+- Physical examination following birth (Date: 2020-01-29T13:18:46Z)
+- Depression screening (Date: 2020-01-29T13:18:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-12T13:18:46Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-12T14:17:09Z)
+- Depression screening (procedure) (Date: 2020-02-12T14:45:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-12T14:59:47Z)
+- Assessment of substance use (procedure) (Date: 2020-02-12T15:27:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-12T15:40:59Z)
+- Face mask (physical object) (Date: 2020-03-31T13:18:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-30T13:18:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-02T13:18:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-03-31T13:18:46Z: Encounter for symptom (procedure)
+- 2020-02-12T13:18:46Z: General examination of patient (procedure)
+- 2020-01-29T13:18:46Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2020-12-13T13:18:46Z QOLS: 1.0 {score}
+- 2020-12-13T13:18:46Z DALY: 0.0 a
+- 2020-12-13T13:18:46Z QALY: 19.0 a
+- 2020-03-31T14:38:15Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2020-03-31T13:32:07Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2020-03-31T13:32:07Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2020-03-31T13:18:46Z Systolic Blood Pressure: 100.0 mm[Hg]
+- 2020-03-31T13:18:46Z Body temperature: 37.9 Cel
+- 2020-03-31T13:18:46Z Respiratory rate: 38.2 /min
+- 2020-03-31T13:18:46Z Oxygen saturation in Arterial blood: 83.5 %

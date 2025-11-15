@@ -1,0 +1,146 @@
+== PATIENT RECORD: Grady603 Rutherford999 (ID: 5919a110-2ed3-1f03-1e41-36245a92f6a2) ==
+
+== Demographics ==
+Patient ID: 5919a110-2ed3-1f03-1e41-36245a92f6a2
+Name: Grady603 Rutherford999
+Gender: M
+Birthdate: 1951-09-18
+Address: 869 Zieme Course Suite 28
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Only received primary school education (finding)
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Diabetes
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Chronic obstructive bronchitis (disorder)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+- Part-time employment (finding)
+- Severe anxiety (panic) (finding
+- Hyperlipidemia
+- Not in labor force (finding)
+- Otitis media
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Acetaminophen 325 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 1997-03-04T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-03-04T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1997-03-04T11:58:49Z)
+- Screening for domestic abuse (procedure) (Date: 1997-03-04T12:47:19Z)
+- Depression screening (procedure) (Date: 1997-03-04T13:17:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-03-04T13:29:27Z)
+- Assessment of substance use (procedure) (Date: 1997-03-04T13:52:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1997-03-04T14:03:53Z)
+- Measurement of respiratory function (procedure) (Date: 1997-09-15T10:58:49Z)
+- Spirometry (procedure) (Date: 1998-03-10T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-03-10T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1998-03-10T12:51:58Z)
+- Depression screening (procedure) (Date: 1998-03-10T13:11:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-03-10T13:25:51Z)
+- Assessment of substance use (procedure) (Date: 1998-03-10T13:48:09Z)
+- Screening for drug abuse (procedure) (Date: 1998-03-10T14:02:08Z)
+- Spirometry (procedure) (Date: 1998-05-26T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-05-26T11:58:49Z)
+- Depression screening (procedure) (Date: 1998-05-26T12:33:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-05-26T12:46:11Z)
+- Spirometry (procedure) (Date: 1999-03-16T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-03-16T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1999-03-16T11:58:49Z)
+- Assessment of substance use (procedure) (Date: 1999-03-16T12:36:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1999-03-16T12:47:02Z)
+- Spirometry (procedure) (Date: 2000-03-21T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-03-21T11:58:49Z)
+- Depression screening (procedure) (Date: 2000-03-21T12:47:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-03-21T13:00:31Z)
+- Assessment of substance use (procedure) (Date: 2000-03-21T13:25:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-03-21T13:36:50Z)
+- Spirometry (procedure) (Date: 2001-03-27T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-03-27T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2001-03-27T12:42:06Z)
+- Depression screening (procedure) (Date: 2001-03-27T13:00:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-03-27T13:12:33Z)
+- Assessment of substance use (procedure) (Date: 2001-03-27T13:37:54Z)
+- Screening for drug abuse (procedure) (Date: 2001-03-27T13:48:58Z)
+- Spirometry (procedure) (Date: 2002-04-02T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-04-02T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2002-04-02T11:58:49Z)
+- Depression screening (procedure) (Date: 2002-04-02T12:47:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-04-02T13:01:35Z)
+- Assessment of substance use (procedure) (Date: 2002-04-02T13:25:42Z)
+- Screening for drug abuse (procedure) (Date: 2002-04-02T13:37:23Z)
+- Spirometry (procedure) (Date: 2003-04-08T11:58:49Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2003-04-08T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-04-08T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2003-04-08T11:58:49Z)
+- Depression screening (procedure) (Date: 2003-04-08T12:44:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-04-08T12:54:59Z)
+- Assessment of substance use (procedure) (Date: 2003-04-08T13:15:42Z)
+- Screening for drug abuse (procedure) (Date: 2003-04-08T13:30:12Z)
+- Spirometry (procedure) (Date: 2004-04-13T11:58:49Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2004-04-13T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-04-13T11:58:49Z)
+- Transplant of lung (procedure) (Date: 2004-05-26T11:58:49Z)
+- Spirometry (procedure) (Date: 2005-04-19T11:58:49Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2005-04-19T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-04-19T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2005-04-19T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2005-04-19T12:29:30Z)
+- Depression screening (procedure) (Date: 2005-04-19T12:53:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-04-19T13:07:26Z)
+- Assessment of substance use (procedure) (Date: 2005-04-19T13:36:29Z)
+- Screening for drug abuse (procedure) (Date: 2005-04-19T13:50:12Z)
+- Spirometry (procedure) (Date: 2006-04-18T11:58:49Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2006-04-18T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-04-18T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2006-04-18T11:58:49Z)
+- Depression screening (procedure) (Date: 2006-04-18T12:39:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-04-18T12:52:34Z)
+- Spirometry (procedure) (Date: 2006-05-02T11:58:49Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2006-05-02T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-05-02T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2006-05-02T11:58:49Z)
+- Spirometry (procedure) (Date: 2006-12-05T11:58:49Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2006-12-05T11:58:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2006-12-12T11:58:49Z: Death Certification
+- 2006-12-05T11:58:49Z: Encounter for check up (procedure)
+- 2006-11-28T11:58:49Z: Urgent care clinic (procedure)
+- 2006-11-18T10:58:49Z: Encounter for symptom
+- 2006-05-02T11:58:49Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2006-12-12T11:58:49Z Cause of Death [US Standard Certificate of Death]: Chronic obstructive bronchitis (disorder) nan
+- 2006-12-05T11:58:49Z FEV1/FVC: 26.4 %
+- 2006-11-18T10:58:49Z Body temperature: 37.3 Cel
+- 2006-05-02T12:34:17Z What is your current work situation?: Full-time work nan
+- 2006-05-02T12:34:17Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2006-05-02T12:34:17Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2006-05-02T12:34:17Z Are you a refugee?: No nan
+- 2006-05-02T12:34:17Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2006-05-02T12:34:17Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2006-05-02T12:34:17Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

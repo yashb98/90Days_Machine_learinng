@@ -1,0 +1,58 @@
+== PATIENT RECORD: Rosana394 Kessler503 (ID: 3ff3637c-86a6-6d45-8e41-f1b2c96fbcf4) ==
+
+== Demographics ==
+Patient ID: 3ff3637c-86a6-6d45-8e41-f1b2c96fbcf4
+Name: Rosana394 Kessler503
+Gender: F
+Birthdate: 2010-01-13
+Address: 276 Deckow Tunnel Unit 19
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Cough (finding)
+- Chill (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-20T08:48:19Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-19T08:48:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-19T08:48:19Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-24T08:48:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-30T08:48:19Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-22T08:48:19Z)
+- Face mask (physical object) (Date: 2020-05-12T08:48:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-27T08:48:19Z: Well child visit (procedure)
+- 2020-05-12T08:48:19Z: Encounter for symptom (procedure)
+- 2020-01-22T08:48:19Z: Well child visit (procedure)
+- 2019-01-16T08:48:19Z: Well child visit (procedure)
+- 2018-07-02T01:48:19Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-01-27T08:48:19Z Platelets [#/volume] in Blood by Automated count: 437.6 10*3/uL
+- 2021-01-27T08:48:19Z Erythrocyte distribution width [Entitic volume] by Automated count: 40.7 fL
+- 2021-01-27T08:48:19Z Body Weight: 37.7 kg
+- 2021-01-27T08:48:19Z Body Mass Index: 19.4 kg/m2
+- 2021-01-27T08:48:19Z Body mass index (BMI) [Percentile] Per age and gender: 74.0 %
+- 2021-01-27T08:48:19Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-01-27T08:48:19Z Systolic Blood Pressure: 119.0 mm[Hg]
+- 2021-01-27T08:48:19Z Heart rate: 97.0 /min
+- 2021-01-27T08:48:19Z Respiratory rate: 15.0 /min
+- 2021-01-27T08:48:19Z Leukocytes [#/volume] in Blood by Automated count: 4.5 10*3/uL

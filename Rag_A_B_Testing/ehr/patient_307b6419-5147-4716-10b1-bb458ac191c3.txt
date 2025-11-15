@@ -1,0 +1,101 @@
+== PATIENT RECORD: Micheal721 Shields502 (ID: 307b6419-5147-4716-10b1-bb458ac191c3) ==
+
+== Demographics ==
+Patient ID: 307b6419-5147-4716-10b1-bb458ac191c3
+Name: Micheal721 Shields502
+Gender: F
+Birthdate: 2003-07-19
+Address: 933 Jast Plaza
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Eggs (edible) (substance)
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Perennial allergic rhinitis
+- Acute allergic reaction
+- Acute viral pharyngitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- predniSONE 5 MG Oral Tablet
+- Natazia 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Injection of adrenaline (Date: 2012-05-05T04:45:57Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-22T00:15:57Z)
+- Throat culture (procedure) (Date: 2012-12-12T11:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-03T00:15:57Z)
+- Depression screening (procedure) (Date: 2015-08-09T00:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-09T00:15:57Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-09T00:29:01Z)
+- Assessment of substance use (procedure) (Date: 2015-08-09T00:56:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-08-09T01:09:01Z)
+- Anticipatory guidance (procedure) (Date: 2015-08-09T01:26:30Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-14T00:15:57Z)
+- Depression screening (procedure) (Date: 2016-08-14T00:44:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-08-14T00:57:37Z)
+- Assessment of substance use (procedure) (Date: 2016-08-14T01:26:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-08-14T01:39:59Z)
+- Anticipatory guidance (procedure) (Date: 2016-08-14T01:58:09Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-20T00:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-20T00:15:57Z)
+- Depression screening (procedure) (Date: 2017-08-20T00:44:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-20T00:55:07Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-26T00:15:57Z)
+- Depression screening (procedure) (Date: 2018-08-26T00:45:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-26T01:00:03Z)
+- Assessment of substance use (procedure) (Date: 2018-08-26T01:28:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-26T01:41:09Z)
+- Anticipatory guidance (procedure) (Date: 2018-08-26T02:02:27Z)
+- Depression screening (procedure) (Date: 2019-08-04T00:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-04T00:15:57Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-04T00:26:18Z)
+- Assessment of substance use (procedure) (Date: 2019-08-04T00:46:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-04T01:00:24Z)
+- Anticipatory guidance (procedure) (Date: 2019-08-04T01:20:11Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-01T00:15:57Z)
+- Depression screening (procedure) (Date: 2019-09-01T00:43:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-09-01T00:56:35Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-06T00:15:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-12T00:15:57Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-12T01:04:36Z)
+- Depression screening (procedure) (Date: 2021-09-12T01:29:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-12T01:44:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-12T00:15:57Z: Hypertension follow-up encounter
+- 2021-09-12T00:15:57Z: General examination of patient (procedure)
+- 2021-07-17T13:15:57Z: Asthma follow-up
+- 2021-07-11T00:15:57Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-20T00:15:57Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-12T00:15:57Z Diastolic Blood Pressure: 105.0 mm[Hg]
+- 2021-10-12T00:15:57Z Systolic Blood Pressure: 145.0 mm[Hg]
+- 2021-09-12T02:12:40Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-09-12T01:29:45Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-09-12T01:04:36Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-09-12T01:04:36Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-09-12T01:04:36Z What is your current work situation?: Full-time work nan
+- 2021-09-12T01:04:36Z What is your main insurance?: Private insurance nan
+- 2021-09-12T01:04:36Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 74768 /a
+- 2021-09-12T01:04:36Z What address do you live at?: 933 Jast Plaza nan

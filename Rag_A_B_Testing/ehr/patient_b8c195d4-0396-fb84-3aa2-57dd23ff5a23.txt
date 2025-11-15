@@ -1,0 +1,111 @@
+== PATIENT RECORD: Alexander630 Kovacek682 (ID: b8c195d4-0396-fb84-3aa2-57dd23ff5a23) ==
+
+== Demographics ==
+Patient ID: b8c195d4-0396-fb84-3aa2-57dd23ff5a23
+Name: Alexander630 Kovacek682
+Gender: M
+Birthdate: 1977-12-09
+Address: 722 Bailey Harbor
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Streptococcal sore throat (disorder)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Acute viral pharyngitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-04T17:06:17Z)
+- Depression screening (procedure) (Date: 2012-05-04T17:42:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-04T17:55:46Z)
+- Assessment of substance use (procedure) (Date: 2012-05-04T18:24:04Z)
+- Screening for drug abuse (procedure) (Date: 2012-05-04T18:36:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-10T17:06:17Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-10T17:54:21Z)
+- Depression screening (procedure) (Date: 2013-05-10T18:14:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-10T18:25:58Z)
+- Assessment of substance use (procedure) (Date: 2013-05-10T18:46:31Z)
+- Screening for drug abuse (procedure) (Date: 2013-05-10T18:57:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-16T17:06:17Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-16T18:00:42Z)
+- Depression screening (procedure) (Date: 2014-05-16T18:22:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-16T18:35:24Z)
+- Assessment of substance use (procedure) (Date: 2014-05-16T18:57:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-05-16T19:10:05Z)
+- Throat culture (procedure) (Date: 2015-01-20T11:06:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-22T17:06:17Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-22T17:06:17Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-22T18:00:52Z)
+- Depression screening (procedure) (Date: 2015-05-22T18:22:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-22T18:34:57Z)
+- Assessment of substance use (procedure) (Date: 2015-05-22T18:59:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-05-22T19:10:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-27T17:06:17Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-27T17:06:17Z)
+- Assessment of substance use (procedure) (Date: 2016-05-27T17:38:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-27T17:52:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-02T17:06:17Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-02T17:06:17Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-02T17:45:49Z)
+- Depression screening (procedure) (Date: 2017-06-02T18:14:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-02T18:28:01Z)
+- Assessment of substance use (procedure) (Date: 2017-06-02T18:54:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-02T19:08:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-08T17:06:17Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-08T17:06:17Z)
+- Depression screening (procedure) (Date: 2018-06-08T17:57:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-08T18:11:35Z)
+- Assessment of substance use (procedure) (Date: 2018-06-08T18:39:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-08T18:49:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-14T17:06:17Z)
+- Depression screening (procedure) (Date: 2019-06-14T18:03:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-14T18:16:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-19T17:06:17Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-19T17:06:17Z)
+- Depression screening (procedure) (Date: 2020-06-19T17:53:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-19T18:08:07Z)
+- Assessment of substance use (procedure) (Date: 2020-06-19T18:34:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-19T18:45:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-25T17:06:17Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-25T17:06:17Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-25T18:05:00Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-25T18:30:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-25T17:06:17Z: General examination of patient (procedure)
+- 2020-06-19T17:06:17Z: General examination of patient (procedure)
+- 2019-06-14T17:06:17Z: General examination of patient (procedure)
+- 2018-06-08T17:06:17Z: General examination of patient (procedure)
+- 2018-05-30T17:19:54Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-25T18:57:33Z Total score [HARK]: 0.0 {score}
+- 2021-06-25T18:30:28Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-06-25T18:05:00Z Which race(s) are you?: Black/African American nan
+- 2021-06-25T18:05:00Z What address do you live at?: 722 Bailey Harbor nan
+- 2021-06-25T18:05:00Z What language are you most comfortable speaking?: English nan
+- 2021-06-25T18:05:00Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-06-25T18:05:00Z What is your housing situation today?: I have housing nan
+- 2021-06-25T18:05:00Z Are you worried about losing your housing?: Yes nan
+- 2021-06-25T18:05:00Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-25T18:05:00Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

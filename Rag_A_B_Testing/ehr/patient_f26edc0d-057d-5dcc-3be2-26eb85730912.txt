@@ -1,0 +1,57 @@
+== PATIENT RECORD: Jerome176 Kihn564 (ID: f26edc0d-057d-5dcc-3be2-26eb85730912) ==
+
+== Demographics ==
+Patient ID: f26edc0d-057d-5dcc-3be2-26eb85730912
+Name: Jerome176 Kihn564
+Gender: M
+Birthdate: 2013-02-04
+Address: 602 Wilkinson Extension
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Fracture of ankle
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-05-13T12:50:35Z)
+- Throat culture (procedure) (Date: 2013-12-05T16:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-13T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-14T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-14T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-11T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-11T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-15T12:50:35Z)
+- Ankle X-ray (Date: 2018-12-21T12:50:35Z)
+- Bone immobilization (Date: 2018-12-21T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-27T12:50:35Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-01T12:50:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-01T12:50:35Z: Well child visit (procedure)
+- 2020-04-14T20:50:35Z: Encounter for symptom
+- 2020-01-27T12:50:35Z: Well child visit (procedure)
+- 2019-03-07T13:11:25Z: Encounter for 'check-up'
+- 2019-01-21T12:50:35Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-04T12:50:35Z QOLS: 1.0 {score}
+- 2021-02-04T12:50:35Z QALY: 6.9 a
+- 2021-02-04T12:50:35Z DALY: 0.1 a
+- 2021-02-01T12:50:35Z Body Height: 139.7 cm
+- 2021-02-01T12:50:35Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-02-01T12:50:35Z Body Weight: 31.5 kg
+- 2021-02-01T12:50:35Z Body Mass Index: 16.1 kg/m2
+- 2021-02-01T12:50:35Z Body mass index (BMI) [Percentile] Per age and gender: 58.4 %
+- 2021-02-01T12:50:35Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-02-01T12:50:35Z Heart rate: 69.0 /min

@@ -1,0 +1,117 @@
+== PATIENT RECORD: Sasha806 Renner328 (ID: b03985e9-38d0-4564-1b52-4a8651cecdd5) ==
+
+== Demographics ==
+Patient ID: b03985e9-38d0-4564-1b52-4a8651cecdd5
+Name: Sasha806 Renner328
+Gender: F
+Birthdate: 1964-07-12
+Address: 593 Rowe Rest
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Miscarriage in first trimester
+- Sepsis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Full-time employment (finding)
+- Cystitis
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Fracture subluxation of wrist
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Yaz 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-05T23:30:15Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-05T23:30:15Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-06T00:04:06Z)
+- Depression screening (procedure) (Date: 2012-08-06T00:23:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-06T00:36:12Z)
+- Assessment of substance use (procedure) (Date: 2012-08-06T01:03:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-08-06T01:14:19Z)
+- Intramuscular injection (Date: 2014-01-11T22:42:36Z)
+- Intramuscular injection (Date: 2014-04-20T23:30:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-13T23:30:15Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-13T23:30:15Z)
+- Intramuscular injection (Date: 2014-07-20T23:30:15Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-14T00:02:49Z)
+- Intramuscular injection (Date: 2014-10-19T23:30:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-19T23:30:15Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-20T00:24:20Z)
+- Assessment of substance use (procedure) (Date: 2015-07-20T00:41:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-20T00:54:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-24T23:30:15Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-24T23:30:15Z)
+- Screening for domestic abuse (procedure) (Date: 2016-07-25T00:07:17Z)
+- Depression screening (procedure) (Date: 2016-07-25T00:44:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-25T00:58:55Z)
+- Assessment of substance use (procedure) (Date: 2016-07-25T01:19:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-25T01:32:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-30T23:30:15Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-30T23:30:15Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-31T00:11:27Z)
+- Depression screening (procedure) (Date: 2017-07-31T00:27:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-31T00:37:46Z)
+- Assessment of substance use (procedure) (Date: 2017-07-31T01:04:21Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-31T01:15:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-05T23:30:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-05T23:30:15Z)
+- Depression screening (procedure) (Date: 2018-08-06T00:12:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-06T00:23:10Z)
+- Assessment of substance use (procedure) (Date: 2018-08-06T00:51:27Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-06T01:05:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-11T23:30:15Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-11T23:30:15Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-12T00:15:38Z)
+- Assessment of substance use (procedure) (Date: 2019-08-12T00:43:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-12T00:57:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-16T23:30:15Z)
+- Depression screening (procedure) (Date: 2020-08-17T00:12:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-17T00:26:36Z)
+- Assessment of substance use (procedure) (Date: 2020-08-17T00:48:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-17T01:02:05Z)
+- X-ray or wrist (Date: 2021-07-21T00:39:42Z)
+- Bone immobilization (Date: 2021-07-21T00:39:42Z)
+- Bone density scan (procedure) (Date: 2021-07-21T01:18:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-22T23:30:15Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-23T00:13:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-08-23T00:33:56Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-23T00:49:17Z)
+- Depression screening (procedure) (Date: 2021-08-23T01:34:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-23T01:48:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-10T01:18:15Z: Encounter for 'check-up'
+- 2021-08-22T23:30:15Z: General examination of patient (procedure)
+- 2021-08-08T23:30:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-21T00:39:42Z: Emergency room admission (procedure)
+- 2021-07-18T23:30:15Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-23T02:17:00Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-08-23T01:34:06Z Total score [HARK]: 0.0 {score}
+- 2021-08-23T00:49:17Z Fall risk total [Morse Fall Scale]: 76.0 {#}
+- 2021-08-23T00:49:17Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-08-23T00:33:56Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- 2021-08-23T00:13:02Z What is your current work situation?: Part-time or temporary work nan
+- 2021-08-23T00:13:02Z What language are you most comfortable speaking?: English nan
+- 2021-08-23T00:13:02Z What is your housing situation today?: I have housing nan
+- 2021-08-23T00:13:02Z Are you worried about losing your housing?: No nan
+- 2021-08-23T00:13:02Z What address do you live at?: 593 Rowe Rest nan

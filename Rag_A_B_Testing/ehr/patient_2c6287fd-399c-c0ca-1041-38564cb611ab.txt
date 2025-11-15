@@ -1,0 +1,48 @@
+== PATIENT RECORD: Shavonne800 Barton704 (ID: 2c6287fd-399c-c0ca-1041-38564cb611ab) ==
+
+== Demographics ==
+Patient ID: 2c6287fd-399c-c0ca-1041-38564cb611ab
+Name: Shavonne800 Barton704
+Gender: F
+Birthdate: 2009-04-27
+Address: 244 Runolfsdottir Landing Unit 30
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Closed fracture of hip
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Pelvis X-ray (Date: 2016-06-16T18:58:50Z)
+- Admission to orthopedic department (Date: 2016-06-16T18:58:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-30T18:58:50Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-11T18:58:50Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-08T18:58:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-18T18:58:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-17T18:58:50Z: Well child visit (procedure)
+- 2020-05-11T18:58:50Z: Well child visit (procedure)
+- 2019-05-06T18:58:50Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T18:58:50Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-17T18:58:50Z Body Height: 150.9 cm
+- 2021-05-17T18:58:50Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-05-17T18:58:50Z Body Weight: 40.3 kg
+- 2021-05-17T18:58:50Z Body Mass Index: 17.7 kg/m2
+- 2021-05-17T18:58:50Z Body mass index (BMI) [Percentile] Per age and gender: 43.6 %
+- 2021-05-17T18:58:50Z Diastolic Blood Pressure: 71.0 mm[Hg]
+- 2021-05-17T18:58:50Z Systolic Blood Pressure: 118.0 mm[Hg]
+- 2021-05-17T18:58:50Z Heart rate: 97.0 /min
+- 2021-05-17T18:58:50Z Respiratory rate: 15.0 /min

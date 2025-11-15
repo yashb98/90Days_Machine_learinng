@@ -1,0 +1,49 @@
+== PATIENT RECORD: Tynisha348 Abbott774 (ID: ae590ac7-640b-17b5-724f-497ff3cb346f) ==
+
+== Demographics ==
+Patient ID: ae590ac7-640b-17b5-724f-497ff3cb346f
+Name: Tynisha348 Abbott774
+Gender: F
+Birthdate: 2018-04-22
+Address: 1061 Toy Brook
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-04-22T06:53:45Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-27T06:53:45Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-30T06:53:45Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-29T06:53:45Z)
+- Throat culture (procedure) (Date: 2020-09-12T00:53:45Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-27T06:53:45Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-28T06:53:45Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-26T06:53:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-26T06:53:45Z: Well child visit (procedure)
+- 2021-03-28T06:53:45Z: Well child visit (procedure)
+- 2020-12-07T06:53:45Z: Encounter for symptom
+- 2020-09-27T06:53:45Z: Well child visit (procedure)
+- 2020-09-12T00:53:45Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-09-26T06:53:45Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-09-26T06:53:45Z Body mass index (BMI) [Percentile] Per age and gender: 62.8 %
+- 2021-09-26T06:53:45Z Body Height: 95.7 cm
+- 2021-09-26T06:53:45Z Body Weight: 14.6 kg
+- 2021-09-26T06:53:45Z Weight-for-length Per age and sex: 72.6 %
+- 2021-09-26T06:53:45Z Head Occipital-frontal circumference: 48.1 cm
+- 2021-09-26T06:53:45Z Body Mass Index: 15.9 kg/m2
+- 2021-09-26T06:53:45Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-26T06:53:45Z Respiratory rate: 13.0 /min
+- 2021-09-26T06:53:45Z Heart rate: 90.0 /min

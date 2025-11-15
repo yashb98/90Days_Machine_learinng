@@ -1,0 +1,98 @@
+== PATIENT RECORD: Stephan15 Krajcik437 (ID: 83a86980-de17-1b13-d31a-78f2376649af) ==
+
+== Demographics ==
+Patient ID: 83a86980-de17-1b13-d31a-78f2376649af
+Name: Stephan15 Krajcik437
+Gender: M
+Birthdate: 2001-08-31
+Address: 975 Kuvalis Port Apt 95
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Closed fracture of hip
+- Acute bronchitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2013-09-20T14:25:41Z)
+- Depression screening (procedure) (Date: 2013-09-20T14:41:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-09-20T14:53:34Z)
+- Assessment of substance use (procedure) (Date: 2013-09-20T15:22:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-09-20T15:34:22Z)
+- Anticipatory guidance (procedure) (Date: 2013-09-20T15:45:09Z)
+- Depression screening (procedure) (Date: 2014-09-26T14:25:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-09-26T14:40:19Z)
+- Assessment of substance use (procedure) (Date: 2014-09-26T15:02:23Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-09-26T15:12:23Z)
+- Anticipatory guidance (procedure) (Date: 2014-09-26T15:31:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-02T14:25:41Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-02T14:25:41Z)
+- Depression screening (procedure) (Date: 2015-10-02T14:48:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-02T14:58:33Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-07T14:25:41Z)
+- Depression screening (procedure) (Date: 2016-10-07T14:54:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-07T15:05:35Z)
+- Assessment of substance use (procedure) (Date: 2017-10-13T14:25:41Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-13T14:25:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-10-13T14:36:11Z)
+- Anticipatory guidance (procedure) (Date: 2017-10-13T14:56:49Z)
+- Assessment of substance use (procedure) (Date: 2018-10-19T14:25:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-19T14:39:48Z)
+- Health risks education (procedure) (Date: 2018-10-19T15:08:49Z)
+- Pelvis X-ray (Date: 2019-01-04T14:25:41Z)
+- Admission to orthopedic department (Date: 2019-01-04T14:25:41Z)
+- Measurement of respiratory function (procedure) (Date: 2019-05-17T21:25:41Z)
+- Depression screening (procedure) (Date: 2019-05-31T14:25:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-31T14:36:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-25T14:25:41Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-25T14:25:41Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-25T15:00:29Z)
+- Depression screening (procedure) (Date: 2019-10-25T15:29:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-25T15:41:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-30T14:25:41Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-30T14:25:41Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-30T15:19:53Z)
+- Depression screening (procedure) (Date: 2020-10-30T15:42:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-30T15:55:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-05T14:25:41Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-05T14:57:11Z)
+- Depression screening (procedure) (Date: 2021-11-05T15:23:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-05T15:36:23Z)
+- Assessment of substance use (procedure) (Date: 2021-11-05T15:59:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-11-05T16:12:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T14:25:41Z: General examination of patient (procedure)
+- 2021-05-28T14:25:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-30T14:25:41Z: General examination of patient (procedure)
+- 2020-03-23T14:25:41Z: Hypertension follow-up encounter
+- 2020-01-23T14:25:41Z: Hypertension follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-11-05T16:42:08Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-11-05T15:59:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-11-05T15:23:36Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-11-05T14:57:11Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-11-05T14:57:11Z What is your current work situation?: Part-time or temporary work nan
+- 2021-11-05T14:57:11Z What is your main insurance?: Private insurance nan
+- 2021-11-05T14:57:11Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 31005 /a
+- 2021-11-05T14:57:11Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-11-05T14:57:11Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-11-05T14:57:11Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

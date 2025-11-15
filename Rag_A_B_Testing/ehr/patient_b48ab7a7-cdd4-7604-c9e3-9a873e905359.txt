@@ -1,0 +1,114 @@
+== PATIENT RECORD: Vaughn909 Crooks415 (ID: b48ab7a7-cdd4-7604-c9e3-9a873e905359) ==
+
+== Demographics ==
+Patient ID: b48ab7a7-cdd4-7604-c9e3-9a873e905359
+Name: Vaughn909 Crooks415
+Gender: M
+Birthdate: 1937-11-04
+Address: 478 Miller Bridge Apt 0
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 40+ - severely obese (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Stroke
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Chronic sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Fracture of clavicle
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Colonoscopy (Date: 2012-11-04T04:28:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-16T01:31:21Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-16T02:15:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-22T01:31:21Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-22T02:25:13Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-11-22T02:52:42Z)
+- Depression screening (procedure) (Date: 2013-11-22T03:12:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-22T03:22:40Z)
+- Assessment of substance use (procedure) (Date: 2013-11-22T03:44:32Z)
+- Screening for drug abuse (procedure) (Date: 2013-11-22T03:58:49Z)
+- Clavicle X-ray (Date: 2014-10-30T07:09:10Z)
+- Admission to orthopedic department (Date: 2014-10-30T07:09:10Z)
+- Bone density scan (procedure) (Date: 2014-10-30T08:34:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-28T01:31:21Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-28T01:31:21Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-28T02:29:27Z)
+- Depression screening (procedure) (Date: 2014-11-28T03:04:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-28T03:15:25Z)
+- Assessment of substance use (procedure) (Date: 2014-11-28T03:40:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-28T03:53:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-04T01:31:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-04T01:31:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-04T02:24:12Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-04T02:52:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-09T01:31:21Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-09T01:31:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-12-09T02:27:11Z)
+- Assessment of substance use (procedure) (Date: 2016-12-09T02:46:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-12-09T03:00:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-15T01:31:21Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-15T02:07:17Z)
+- Depression screening (procedure) (Date: 2017-12-15T02:23:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-15T02:37:03Z)
+- Assessment of substance use (procedure) (Date: 2017-12-15T03:00:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-15T03:15:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-21T01:31:21Z)
+- Depression screening (procedure) (Date: 2018-12-21T02:08:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-21T02:22:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-27T01:31:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-12-27T02:01:53Z)
+- Depression screening (procedure) (Date: 2019-12-27T02:29:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-27T02:40:40Z)
+- Assessment of substance use (procedure) (Date: 2019-12-27T03:09:17Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-27T03:19:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-01T01:31:21Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-01T01:31:21Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-01T02:17:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-01-01T02:42:06Z)
+- Depression screening (procedure) (Date: 2021-01-01T03:03:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-01T03:13:21Z)
+- Assessment of substance use (procedure) (Date: 2021-01-01T03:43:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-01-01T03:55:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-02T01:31:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-05T01:31:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-01T01:31:21Z: General examination of patient (procedure)
+- 2020-12-22T12:31:21Z: Encounter for symptom
+- 2019-12-27T01:31:21Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-05T00:31:21Z QOLS: 1.0 {score}
+- 2021-11-05T00:31:21Z DALY: 2.4 a
+- 2021-11-05T00:31:21Z QALY: 80.6 a
+- 2021-01-01T04:20:34Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-01-01T03:43:18Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-01-01T03:03:07Z Fall risk total [Morse Fall Scale]: 27.0 {#}
+- 2021-01-01T03:03:07Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-01-01T02:42:06Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-01-01T02:17:07Z What is your current work situation?: Full-time work nan
+- 2021-01-01T02:17:07Z What is your housing situation today?: I have housing nan

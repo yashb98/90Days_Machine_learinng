@@ -1,0 +1,51 @@
+== PATIENT RECORD: Luis923 Juárez383 (ID: d3bb709c-94a8-35fe-cf31-974eba325f8b) ==
+
+== Demographics ==
+Patient ID: d3bb709c-94a8-35fe-cf31-974eba325f8b
+Name: Luis923 Juárez383
+Gender: M
+Birthdate: 2009-01-17
+Address: 197 Blick Fork Suite 49
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Otitis media
+
+== Current Medications ==
+- clonazePAM 0.25 MG Oral Tablet
+- Carbamazepine[Tegretol]
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2009-01-18T02:31:12Z)
+- Medication Reconciliation (procedure) (Date: 2009-02-22T02:31:12Z)
+- Medication Reconciliation (procedure) (Date: 2009-04-26T02:31:12Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2009-06-07T02:31:12Z)
+- Medication Reconciliation (procedure) (Date: 2009-09-27T02:31:12Z)
+- Medication Reconciliation (procedure) (Date: 2009-12-27T02:31:12Z)
+- Medication Reconciliation (procedure) (Date: 2010-03-28T02:31:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2011-03-20T02:31:12Z: Death Certification
+- 2011-02-07T02:31:12Z: Encounter for symptom
+- 2010-12-26T02:31:12Z: Well child visit (procedure)
+- 2010-06-27T02:31:12Z: Well child visit (procedure)
+- 2010-03-28T02:31:12Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2011-03-20T02:31:12Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 2011-01-18T02:31:12Z QOLS: 0.9 {score}
+- 2011-01-18T02:31:12Z DALY: 0.1 a
+- 2011-01-18T02:31:12Z QALY: 0.9 a
+- 2010-12-26T02:31:12Z Diastolic Blood Pressure: 87.0 mm[Hg]
+- 2010-12-26T02:31:12Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2010-12-26T02:31:12Z Body Weight: 10.1 kg
+- 2010-12-26T02:31:12Z Weight-for-length Per age and sex: 5.5 %
+- 2010-12-26T02:31:12Z Head Occipital-frontal circumference: 46.5 cm
+- 2010-12-26T02:31:12Z Body Height: 81.7 cm

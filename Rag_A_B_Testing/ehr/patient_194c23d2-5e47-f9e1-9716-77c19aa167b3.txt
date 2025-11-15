@@ -1,0 +1,49 @@
+== PATIENT RECORD: Mohamed943 Mann644 (ID: 194c23d2-5e47-f9e1-9716-77c19aa167b3) ==
+
+== Demographics ==
+Patient ID: 194c23d2-5e47-f9e1-9716-77c19aa167b3
+Name: Mohamed943 Mann644
+Gender: M
+Birthdate: 2017-01-02
+Address: 464 Kling Village Unit 94
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-09-11T10:20:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-11T10:20:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-12T10:20:58Z)
+- Measurement of respiratory function (procedure) (Date: 2018-09-26T04:20:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-10T10:20:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-10T10:20:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-09T10:20:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-07T10:20:58Z: Well child visit (procedure)
+- 2020-06-08T10:20:58Z: Well child visit (procedure)
+- 2019-12-09T10:20:58Z: Well child visit (procedure)
+- 2019-06-10T10:20:58Z: Well child visit (procedure)
+- 2018-12-10T10:20:58Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-02T10:20:58Z QOLS: 1.0 {score}
+- 2021-01-02T10:20:58Z DALY: 0.0 a
+- 2021-01-02T10:20:58Z QALY: 4.0 a
+- 2020-12-07T10:20:58Z Heart rate: 67.0 /min
+- 2020-12-07T10:20:58Z Body Height: 105.5 cm
+- 2020-12-07T10:20:58Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2020-12-07T10:20:58Z Body Weight: 15.7 kg
+- 2020-12-07T10:20:58Z Head Occipital-frontal circumference: 51.0 cm
+- 2020-12-07T10:20:58Z Body Mass Index: 14.1 kg/m2
+- 2020-12-07T10:20:58Z Body mass index (BMI) [Percentile] Per age and gender: 5.4 %

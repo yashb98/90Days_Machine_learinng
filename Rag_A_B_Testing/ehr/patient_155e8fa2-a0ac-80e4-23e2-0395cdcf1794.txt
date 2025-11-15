@@ -1,0 +1,54 @@
+== PATIENT RECORD: Myrtice99 Ernser583 (ID: 155e8fa2-a0ac-80e4-23e2-0395cdcf1794) ==
+
+== Demographics ==
+Patient ID: 155e8fa2-a0ac-80e4-23e2-0395cdcf1794
+Name: Myrtice99 Ernser583
+Gender: F
+Birthdate: 2008-10-11
+Address: 822 Eichmann Key Apt 39
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-09-22T03:50:14Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-28T03:50:14Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-04T03:50:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-15T03:50:14Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-21T03:50:14Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-27T03:50:14Z)
+- Depression screening (procedure) (Date: 2020-11-01T03:50:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-01T04:01:31Z)
+- Depression screening (procedure) (Date: 2021-11-07T03:50:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-11-07T04:01:13Z)
+- Assessment of substance use (procedure) (Date: 2021-11-07T04:28:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-11-07T04:38:42Z)
+- Anticipatory guidance (procedure) (Date: 2021-11-07T04:54:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-07T03:50:14Z: Well child visit (procedure)
+- 2021-11-07T03:50:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-17T03:50:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-01T03:50:14Z: Well child visit (procedure)
+- 2019-10-27T03:50:14Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-07T04:28:17Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-11-07T03:50:14Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-07T03:50:14Z Respiratory rate: 16.0 /min
+- 2021-11-07T03:50:14Z Body Height: 153.7 cm
+- 2021-11-07T03:50:14Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-11-07T03:50:14Z Body Weight: 44.8 kg
+- 2021-11-07T03:50:14Z Body Mass Index: 19.0 kg/m2
+- 2021-11-07T03:50:14Z Body mass index (BMI) [Percentile] Per age and gender: 53.2 %
+- 2021-11-07T03:50:14Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-11-07T03:50:14Z Systolic Blood Pressure: 139.0 mm[Hg]

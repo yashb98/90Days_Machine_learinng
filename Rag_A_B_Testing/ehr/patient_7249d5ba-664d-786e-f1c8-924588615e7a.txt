@@ -1,0 +1,82 @@
+== PATIENT RECORD: Cecilia788 Arroyo916 (ID: 7249d5ba-664d-786e-f1c8-924588615e7a) ==
+
+== Demographics ==
+Patient ID: 7249d5ba-664d-786e-f1c8-924588615e7a
+Name: Cecilia788 Arroyo916
+Gender: F
+Birthdate: 2004-01-21
+Address: 907 Metz Ranch
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis
+- Acute bronchitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Sputum examination (procedure) (Date: 2014-04-17T14:45:55Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-05T00:45:55Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-11T00:45:55Z)
+- Depression screening (procedure) (Date: 2016-02-11T01:13:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-02-11T01:28:28Z)
+- Assessment of substance use (procedure) (Date: 2016-02-11T01:58:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-02-11T02:12:49Z)
+- Anticipatory guidance (procedure) (Date: 2016-02-11T02:38:27Z)
+- Depression screening (procedure) (Date: 2017-02-16T00:45:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-16T00:59:17Z)
+- Assessment of substance use (procedure) (Date: 2017-02-16T01:19:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-02-16T01:32:09Z)
+- Anticipatory guidance (procedure) (Date: 2017-02-16T01:59:43Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-22T00:45:55Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-22T00:45:55Z)
+- Depression screening (procedure) (Date: 2018-02-22T01:06:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-02-22T01:19:15Z)
+- Assessment of substance use (procedure) (Date: 2018-02-22T01:45:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-02-22T01:59:34Z)
+- Anticipatory guidance (procedure) (Date: 2018-02-22T02:25:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-28T00:45:55Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-28T00:45:55Z)
+- Assessment of substance use (procedure) (Date: 2019-02-28T01:08:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-02-28T01:20:55Z)
+- Anticipatory guidance (procedure) (Date: 2019-02-28T01:44:33Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-05T00:45:55Z)
+- Assessment of substance use (procedure) (Date: 2020-03-05T01:04:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-03-05T01:17:54Z)
+- Anticipatory guidance (procedure) (Date: 2020-03-05T01:45:23Z)
+- Depression screening (procedure) (Date: 2020-08-06T00:45:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-06T00:56:43Z)
+- Assessment of substance use (procedure) (Date: 2020-08-06T01:18:44Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-08-06T01:31:08Z)
+- Anticipatory guidance (procedure) (Date: 2020-08-06T01:42:23Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-11T00:45:55Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-11T00:45:55Z)
+- Depression screening (procedure) (Date: 2021-03-11T01:07:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-11T01:19:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-11T00:45:55Z: Well child visit (procedure)
+- 2020-08-06T00:45:55Z: Encounter for check up (procedure)
+- 2020-07-30T00:45:55Z: Urgent care clinic (procedure)
+- 2020-07-23T21:45:55Z: Encounter for symptom
+- 2020-03-05T00:45:55Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-11T01:42:19Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 2021-03-11T01:07:35Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- 2021-03-11T00:45:55Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-03-11T00:45:55Z Systolic Blood Pressure: 128.0 mm[Hg]
+- 2021-03-11T00:45:55Z Body Height: 167.3 cm
+- 2021-03-11T00:45:55Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-03-11T00:45:55Z Body Weight: 67.3 kg
+- 2021-03-11T00:45:55Z Body Mass Index: 24.1 kg/m2
+- 2021-03-11T00:45:55Z Body mass index (BMI) [Percentile] Per age and gender: 79.0 %
+- 2021-03-11T00:45:55Z Tobacco smoking status NHIS: Never smoker nan

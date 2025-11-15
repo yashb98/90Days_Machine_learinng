@@ -1,0 +1,61 @@
+== PATIENT RECORD: Bobby524 Harris789 (ID: ff06d32e-e1df-b8db-484a-2d0d9e5d8461) ==
+
+== Demographics ==
+Patient ID: ff06d32e-e1df-b8db-484a-2d0d9e5d8461
+Name: Bobby524 Harris789
+Gender: M
+Birthdate: 1979-06-10
+Address: 1045 Kovacek Drive
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+- Coronary Heart Disease
+- Closed fracture of hip
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1979-06-10T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1979-07-15T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1979-11-18T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1980-05-18T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1983-05-15T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1985-05-26T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1986-06-01T13:16:42Z)
+- Pelvis X-ray (Date: 1986-07-02T13:16:42Z)
+- Admission to orthopedic department (Date: 1986-07-02T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1987-06-07T13:16:42Z)
+- Medication Reconciliation (procedure) (Date: 1988-06-12T13:16:42Z)
+- Echocardiography (procedure) (Date: 1989-04-02T13:16:42Z)
+- Percutaneous coronary intervention (Date: 1989-04-02T13:16:42Z)
+- Coronary artery bypass grafting (Date: 1989-04-02T13:16:42Z)
+
+== Recent Encounters (Last 5) ==
+- 1989-04-09T13:16:42Z: Death Certification
+- 1989-04-02T13:16:42Z: Myocardial Infarction
+- 1988-06-12T13:16:42Z: Well child visit (procedure)
+- 1987-06-07T13:16:42Z: Well child visit (procedure)
+- 1986-08-25T14:53:42Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 1989-04-09T13:16:42Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1988-06-12T13:16:42Z Tobacco smoking status NHIS: Never smoker nan
+- 1988-06-12T13:16:42Z Respiratory rate: 15.0 /min
+- 1988-06-12T13:16:42Z Heart rate: 94.0 /min
+- 1988-06-12T13:16:42Z Systolic Blood Pressure: 108.0 mm[Hg]
+- 1988-06-12T13:16:42Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 1988-06-12T13:16:42Z Body mass index (BMI) [Percentile] Per age and gender: 84.5 %
+- 1988-06-12T13:16:42Z Body Mass Index: 18.6 kg/m2
+- 1988-06-12T13:16:42Z Body Weight: 28.7 kg
+- 1988-06-12T13:16:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}

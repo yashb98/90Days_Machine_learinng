@@ -1,0 +1,138 @@
+== PATIENT RECORD: Sana377 Wolff180 (ID: 28db1c55-fe99-d5c8-8fc4-bffda09ab3be) ==
+
+== Demographics ==
+Patient ID: 28db1c55-fe99-d5c8-8fc4-bffda09ab3be
+Name: Sana377 Wolff180
+Gender: F
+Birthdate: 1977-09-15
+Address: 114 Borer Club
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Miscarriage in first trimester
+- Diabetes
+- Hypertension
+- Hypertriglyceridemia (disorder)
+- Anemia (disorder)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Metabolic syndrome X (disorder)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Facial laceration
+- Viral sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Hyperglycemia (disorder)
+- Prediabetes
+- Misuses drugs (finding)
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+- Fetus with unknown complication
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Acetaminophen 325 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Natazia 28 Day Pack
+- Camila 28 Day Pack
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Removal of subcutaneous contraceptive (Date: 2012-01-05T06:09:47Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-01-05T06:30:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-02-02T06:09:47Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-02T06:09:47Z)
+- Depression screening (procedure) (Date: 2012-02-02T06:51:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-02T07:03:50Z)
+- Assessment of substance use (procedure) (Date: 2012-02-02T07:23:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-02-02T07:35:15Z)
+- Suture open wound (Date: 2012-04-14T06:32:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-07T06:09:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-07T06:09:47Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-07T06:41:26Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-07T07:06:52Z)
+- Depression screening (procedure) (Date: 2013-02-07T07:39:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-07T07:52:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-13T06:09:47Z)
+- Depression screening (procedure) (Date: 2014-02-13T06:57:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-13T07:07:47Z)
+- Assessment of substance use (procedure) (Date: 2014-02-13T07:32:18Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-13T07:44:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-19T06:09:47Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-19T06:52:35Z)
+- Depression screening (procedure) (Date: 2015-02-19T07:11:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-19T07:22:31Z)
+- Removal of subcutaneous contraceptive (Date: 2016-01-07T06:09:47Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-01-07T06:30:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-25T06:09:47Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-11-09T07:46:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-02T06:09:47Z)
+- Depression screening (procedure) (Date: 2017-03-02T07:02:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-02T07:13:45Z)
+- Assessment of substance use (procedure) (Date: 2017-03-02T07:37:16Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-02T07:51:34Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-11-04T08:12:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-08T06:09:47Z)
+- Depression screening (procedure) (Date: 2018-03-08T06:55:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-08T07:09:07Z)
+- Assessment of substance use (procedure) (Date: 2018-03-08T07:33:51Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-08T07:45:31Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-11-02T21:50:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-14T06:09:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-14T06:09:47Z)
+- Depression screening (procedure) (Date: 2019-03-14T07:04:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-14T07:17:31Z)
+- Assessment of substance use (procedure) (Date: 2019-03-14T07:40:06Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-14T07:50:59Z)
+- Removal of subcutaneous contraceptive (Date: 2019-05-09T06:09:47Z)
+- Standard pregnancy test (Date: 2019-07-04T06:09:47Z)
+- Ultrasound scan for fetal viability (Date: 2019-07-04T06:09:47Z)
+- Physical examination (Date: 2019-07-12T06:09:47Z)
+- Depression screening (Date: 2019-07-12T06:09:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-19T06:09:47Z)
+- Depression screening (procedure) (Date: 2020-03-19T07:09:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-19T07:22:22Z)
+- Assessment of substance use (procedure) (Date: 2020-03-19T07:47:55Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-19T08:02:21Z)
+- Intramuscular injection (Date: 2020-10-22T22:42:28Z)
+- Intramuscular injection (Date: 2021-02-04T06:09:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-25T06:09:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-25T06:09:47Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-25T06:40:00Z)
+- Screening for domestic abuse (procedure) (Date: 2021-03-25T07:01:37Z)
+- Depression screening (procedure) (Date: 2021-03-25T07:31:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-25T07:43:06Z)
+- Assessment of substance use (procedure) (Date: 2021-03-25T08:11:18Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-25T08:22:09Z)
+- Intramuscular injection (Date: 2021-05-06T06:09:47Z)
+- Intramuscular injection (Date: 2021-08-05T06:09:47Z)
+- Intramuscular injection (Date: 2021-11-04T06:09:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T06:09:47Z: Patient encounter procedure
+- 2021-08-05T06:09:47Z: Patient encounter procedure
+- 2021-05-20T06:09:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-06T06:09:47Z: Patient encounter procedure
+- 2021-04-22T06:09:47Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-15T06:09:47Z QOLS: 0.8 {score}
+- 2021-09-15T06:09:47Z DALY: 4.2 a
+- 2021-09-15T06:09:47Z QALY: 38.8 a
+- 2021-03-25T08:44:55Z Total score [DAST-10]: 0.0 {score}
+- 2021-03-25T08:11:18Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-25T07:31:49Z Total score [HARK]: 0.0 {score}
+- 2021-03-25T07:01:37Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 18.0 {score}
+- 2021-03-25T06:40:00Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-03-25T06:40:00Z Are you a refugee?: No nan
+- 2021-03-25T06:40:00Z What is your housing situation today?: I have housing nan

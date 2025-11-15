@@ -1,0 +1,121 @@
+== PATIENT RECORD: Loretta235 Bosco882 (ID: 509f9a77-2a22-f98b-c539-9a44057efb51) ==
+
+== Demographics ==
+Patient ID: 509f9a77-2a22-f98b-c539-9a44057efb51
+Name: Loretta235 Bosco882
+Gender: F
+Birthdate: 1965-02-08
+Address: 291 Vandervort Ferry
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Body mass index 30+ - obesity (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Prediabetes
+- Anemia (disorder)
+- Social isolation (finding)
+- Diabetes
+- Normal pregnancy
+- Fetus with unknown complication
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Whiplash injury to neck
+- Part-time employment (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Errin 28 Day Pack
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 2012-06-04T10:20:07Z)
+- Ultrasound scan for fetal viability (Date: 2012-06-04T10:20:07Z)
+- Physical examination (Date: 2012-06-17T10:20:07Z)
+- Depression screening (Date: 2012-06-17T10:20:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-09-24T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-24T10:20:07Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-24T11:04:54Z)
+- Depression screening (procedure) (Date: 2012-09-24T11:30:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-24T11:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-19T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-19T10:20:07Z)
+- Depression screening (procedure) (Date: 2013-08-19T10:54:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-19T11:06:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-08-19T11:33:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-30T10:20:07Z)
+- Assessment of substance use (procedure) (Date: 2013-09-30T11:11:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-09-30T11:22:15Z)
+- Insertion of intrauterine contraceptive device (Date: 2013-12-07T20:20:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-06T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-06T10:20:07Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-06T10:53:27Z)
+- Depression screening (procedure) (Date: 2014-10-06T11:32:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-06T11:43:26Z)
+- Assessment of substance use (procedure) (Date: 2014-10-06T12:10:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-06T12:25:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-12T10:20:07Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-12T10:53:38Z)
+- Assessment of substance use (procedure) (Date: 2015-10-12T11:17:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-12T11:28:48Z)
+- Removal of intrauterine device (Date: 2015-12-07T10:20:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-17T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-17T10:20:07Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-17T11:09:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-23T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-23T10:20:07Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-23T11:14:09Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-23T11:31:09Z)
+- Depression screening (procedure) (Date: 2017-10-23T12:10:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-23T12:25:27Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-23T12:50:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-29T10:20:07Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-29T11:20:05Z)
+- Assessment of substance use (procedure) (Date: 2018-10-29T11:45:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-29T11:57:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-04T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-04T10:20:07Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-04T10:52:19Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-04T11:08:13Z)
+- Depression screening (procedure) (Date: 2019-11-04T11:41:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-04T11:52:46Z)
+- Assessment of substance use (procedure) (Date: 2019-11-04T12:20:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-04T12:30:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-09T10:20:07Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-09T10:20:07Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-09T11:16:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-15T10:20:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-15T10:20:07Z: General examination of patient (procedure)
+- 2021-04-26T10:20:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-05T10:20:07Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-09T10:20:07Z: General examination of patient (procedure)
+- 2019-11-04T10:20:07Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T10:20:07Z Hemoglobin [Mass/volume] in Blood: 12.7 g/dL
+- 2021-11-15T10:20:07Z Hematocrit [Volume Fraction] of Blood by Automated count: 49.4 %
+- 2021-11-15T10:20:07Z Platelet distribution width [Entitic volume] in Blood by Automated count: 225.5 fL
+- 2021-11-15T10:20:07Z Platelets [#/volume] in Blood by Automated count: 420.4 10*3/uL
+- 2021-11-15T10:20:07Z Erythrocyte distribution width [Entitic volume] by Automated count: 41.5 fL
+- 2021-11-15T10:20:07Z MCHC [Mass/volume] by Automated count: 35.9 g/dL
+- 2021-11-15T10:20:07Z MCH [Entitic mass] by Automated count: 32.7 pg
+- 2021-11-15T10:20:07Z MCV [Entitic volume] by Automated count: 88.9 fL
+- 2021-11-15T10:20:07Z Chloride: 108.0 mmol/L
+- 2021-11-15T10:20:07Z Estimated Glomerular Filtration Rate: 131.5 mL/min/{1.73_m2}

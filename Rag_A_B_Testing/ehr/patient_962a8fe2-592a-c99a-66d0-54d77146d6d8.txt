@@ -1,0 +1,136 @@
+== PATIENT RECORD: Gerda633 Lind531 (ID: 962a8fe2-592a-c99a-66d0-54d77146d6d8) ==
+
+== Demographics ==
+Patient ID: 962a8fe2-592a-c99a-66d0-54d77146d6d8
+Name: Gerda633 Lind531
+Gender: F
+Birthdate: 1965-03-25
+Address: 343 Nienow Passage
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Viral sinusitis (disorder)
+- Escherichia coli urinary tract infection
+- Laceration of thigh
+- Chronic low back pain (finding)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Fetus with unknown complication
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Polyp of colon
+- Recurrent rectal polyp
+- Overlapping malignant neoplasm of colon
+- Prediabetes
+- First degree burn
+
+== Current Medications ==
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Etonogestrel 68 MG Drug Implant
+- Camila 28 Day Pack
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Errin 28 Day Pack
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+- tramadol hydrochloride 50 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Removal of subcutaneous contraceptive (Date: 2009-12-03T16:22:35Z)
+- Insertion of subcutaneous contraceptive (Date: 2009-12-03T16:53:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-04-14T16:22:35Z)
+- Depression screening (procedure) (Date: 2011-04-14T16:57:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-04-14T17:08:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-18T16:22:35Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-18T17:00:55Z)
+- Depression screening (procedure) (Date: 2013-04-18T17:22:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-18T17:34:49Z)
+- Assessment of substance use (procedure) (Date: 2013-04-18T17:54:50Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-18T18:09:45Z)
+- Suture open wound (Date: 2013-08-09T16:22:35Z)
+- Removal of subcutaneous contraceptive (Date: 2013-12-05T16:22:35Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-12-05T17:00:03Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-04T16:22:35Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-07T16:55:07Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-10T17:37:18Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-13T18:12:24Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T18:59:30Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T19:51:14Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T20:37:26Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T21:14:36Z)
+- Removal of subcutaneous contraceptive (Date: 2014-05-15T16:22:35Z)
+- Standard pregnancy test (Date: 2014-07-10T16:22:35Z)
+- Ultrasound scan for fetal viability (Date: 2014-07-10T16:22:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-17T16:22:35Z)
+- Physical examination (Date: 2014-07-18T16:22:35Z)
+- Depression screening (Date: 2014-07-18T16:22:35Z)
+- Depression screening (procedure) (Date: 2014-07-17T16:55:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-17T17:06:41Z)
+- Assessment of substance use (procedure) (Date: 2014-07-17T17:35:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-07-17T17:49:27Z)
+- Colonoscopy (Date: 2015-03-26T16:22:35Z)
+- Screening for occult blood in feces (procedure) (Date: 2015-03-26T17:00:37Z)
+- Rectal polypectomy (Date: 2015-03-26T17:00:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-23T16:22:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-23T16:57:59Z)
+- Depression screening (procedure) (Date: 2015-07-23T17:24:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-23T17:36:54Z)
+- Assessment of substance use (procedure) (Date: 2015-07-23T17:58:02Z)
+- Screening for drug abuse (procedure) (Date: 2015-07-23T18:08:24Z)
+- Colonoscopy (Date: 2016-03-27T17:00:37Z)
+- Rectal polypectomy (Date: 2016-03-27T17:28:10Z)
+- Partial resection of colon (Date: 2016-04-13T21:28:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-28T16:22:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-28T16:22:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-28T17:03:25Z)
+- Screening for domestic abuse (procedure) (Date: 2016-07-28T17:26:31Z)
+- Depression screening (procedure) (Date: 2016-07-28T18:00:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-28T18:12:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-03T16:22:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-03T16:54:29Z)
+- Screening for domestic abuse (procedure) (Date: 2017-08-03T17:19:51Z)
+- Depression screening (procedure) (Date: 2017-08-03T18:01:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-03T18:14:37Z)
+- Assessment of substance use (procedure) (Date: 2017-08-03T18:35:12Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-03T18:45:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-09T16:22:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-09T17:12:18Z)
+- Depression screening (procedure) (Date: 2018-08-09T17:32:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-09T17:47:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-15T16:22:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-15T17:03:04Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-15T17:24:45Z)
+- Assessment of substance use (procedure) (Date: 2019-08-15T18:09:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-15T18:22:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2019-10-31T16:22:35Z: Death Certification
+- 2019-08-15T16:22:35Z: General examination of patient (procedure)
+- 2018-08-09T16:22:35Z: General examination of patient (procedure)
+- 2018-04-13T16:47:59Z: Encounter for 'check-up'
+- 2018-03-25T16:47:59Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2019-10-31T16:22:35Z Cause of Death [US Standard Certificate of Death]: Overlapping malignant neoplasm of colon nan
+- 2019-08-15T18:43:25Z Total score [AUDIT-C]: 1.0 {score}
+- 2019-08-15T18:09:11Z Total score [HARK]: 0.0 {score}
+- 2019-08-15T17:24:45Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2019-08-15T17:03:04Z What is your current work situation?: Full-time work nan
+- 2019-08-15T17:03:04Z What is the highest level of school that you have finished?: More than high school nan
+- 2019-08-15T17:03:04Z What address do you live at?: 343 Nienow Passage nan
+- 2019-08-15T17:03:04Z Are you worried about losing your housing?: No nan
+- 2019-08-15T17:03:04Z What is your housing situation today?: I have housing nan
+- 2019-08-15T17:03:04Z How many family members  including yourself  do you currently live with?: 2.0 {#}

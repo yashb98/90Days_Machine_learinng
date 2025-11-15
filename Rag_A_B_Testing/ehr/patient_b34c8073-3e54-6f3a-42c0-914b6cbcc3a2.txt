@@ -1,0 +1,102 @@
+== PATIENT RECORD: Eddie505 Beier427 (ID: b34c8073-3e54-6f3a-42c0-914b6cbcc3a2) ==
+
+== Demographics ==
+Patient ID: b34c8073-3e54-6f3a-42c0-914b6cbcc3a2
+Name: Eddie505 Beier427
+Gender: M
+Birthdate: 1960-03-30
+Address: 872 Herzog Esplanade Unit 90
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Severe anxiety (panic) (finding
+- Full-time employment (finding)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Coronary Heart Disease
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Penicillin V Potassium 500 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2000-04-05T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2000-04-05T15:52:56Z)
+- Assessment of substance use (procedure) (Date: 2000-04-05T16:16:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-04-05T16:26:51Z)
+- Throat culture (procedure) (Date: 2001-05-08T12:11:53Z)
+- Throat culture (procedure) (Date: 2001-11-15T19:11:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-04-10T15:11:53Z)
+- Medication Reconciliation (procedure) (Date: 2002-04-10T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2002-04-10T16:07:28Z)
+- Depression screening (procedure) (Date: 2002-04-10T16:28:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-04-10T16:42:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2002-04-10T17:08:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-04-16T15:11:53Z)
+- Medication Reconciliation (procedure) (Date: 2003-04-16T15:11:53Z)
+- Assessment of substance use (procedure) (Date: 2003-04-16T16:10:36Z)
+- Screening for drug abuse (procedure) (Date: 2003-04-16T16:20:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-04-21T15:11:53Z)
+- Medication Reconciliation (procedure) (Date: 2004-04-21T15:11:53Z)
+- Depression screening (procedure) (Date: 2004-04-21T15:57:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-04-21T16:10:32Z)
+- Assessment of substance use (procedure) (Date: 2004-04-21T16:34:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-04-21T16:45:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-04-27T15:11:53Z)
+- Screening for domestic abuse (procedure) (Date: 2005-04-27T15:54:43Z)
+- Depression screening (procedure) (Date: 2005-04-27T16:30:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-04-27T16:43:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-05-03T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2006-05-03T15:54:52Z)
+- Depression screening (procedure) (Date: 2006-05-03T16:16:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-05-03T16:28:32Z)
+- Assessment of substance use (procedure) (Date: 2006-05-03T16:55:14Z)
+- Screening for drug abuse (procedure) (Date: 2006-05-03T17:08:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-05-09T15:11:53Z)
+- Screening for domestic abuse (procedure) (Date: 2007-05-09T15:58:04Z)
+- Assessment of substance use (procedure) (Date: 2007-05-09T16:31:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2007-05-09T16:45:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-05-14T15:11:53Z)
+- Depression screening (procedure) (Date: 2008-05-14T15:59:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-05-14T16:10:34Z)
+- Assessment of substance use (procedure) (Date: 2008-05-14T16:37:33Z)
+- Screening for drug abuse (procedure) (Date: 2008-05-14T16:49:41Z)
+- Echocardiography (procedure) (Date: 2008-07-02T15:11:53Z)
+- Percutaneous coronary intervention (Date: 2008-07-02T15:11:53Z)
+- Coronary artery bypass grafting (Date: 2008-07-02T15:11:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2008-07-09T15:11:53Z: Death Certification
+- 2008-07-02T15:11:53Z: Myocardial Infarction
+- 2008-05-14T15:11:53Z: General examination of patient (procedure)
+- 2007-05-09T15:11:53Z: General examination of patient (procedure)
+- 2006-05-03T15:11:53Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2008-07-09T15:11:53Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 2008-05-14T17:15:02Z Total score [DAST-10]: 1.0 {score}
+- 2008-05-14T16:37:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2008-05-14T15:59:01Z What is your current work situation?: Part-time or temporary work nan
+- 2008-05-14T15:59:01Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2008-05-14T15:59:01Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2008-05-14T15:59:01Z Are you a refugee?: No nan
+- 2008-05-14T15:59:01Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2008-05-14T15:59:01Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2008-05-14T15:59:01Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

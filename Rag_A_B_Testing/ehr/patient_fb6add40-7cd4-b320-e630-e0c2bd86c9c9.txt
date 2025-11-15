@@ -1,0 +1,149 @@
+== PATIENT RECORD: Hiedi833 Mills423 (ID: fb6add40-7cd4-b320-e630-e0c2bd86c9c9) ==
+
+== Demographics ==
+Patient ID: fb6add40-7cd4-b320-e630-e0c2bd86c9c9
+Name: Hiedi833 Mills423
+Gender: F
+Birthdate: 1952-08-21
+Address: 839 Huels Lodge
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Hypertension
+- Only received primary school education (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Victim of intimate partner abuse (finding)
+- Malignant neoplasm of breast (disorder)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Fracture of ankle
+- Hyperlipidemia
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Mammography (procedure) (Date: 2012-04-16T13:05:38Z)
+- Manual pelvic examination (procedure) (Date: 2012-04-16T13:24:32Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-04-16T13:34:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-07T16:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-07T16:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-07T17:36:58Z)
+- Assessment of substance use (procedure) (Date: 2012-06-07T17:53:23Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-07T18:07:59Z)
+- Colonoscopy (Date: 2012-08-21T17:46:27Z)
+- Mammography (procedure) (Date: 2013-05-05T13:46:54Z)
+- Manual pelvic examination (procedure) (Date: 2013-05-05T14:05:46Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-05-05T14:18:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-13T16:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-13T16:40:35Z)
+- Depression screening (procedure) (Date: 2013-06-13T17:37:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-13T17:50:38Z)
+- Assessment of substance use (procedure) (Date: 2013-06-13T18:10:50Z)
+- Screening for drug abuse (procedure) (Date: 2013-06-13T18:25:34Z)
+- Mammography (procedure) (Date: 2014-05-13T14:36:15Z)
+- Manual pelvic examination (procedure) (Date: 2014-05-13T15:00:20Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-05-13T15:12:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-19T16:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-19T16:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-19T17:27:09Z)
+- Assessment of substance use (procedure) (Date: 2014-06-19T17:47:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-06-19T17:58:37Z)
+- Mammography (procedure) (Date: 2015-04-21T15:31:29Z)
+- Manual pelvic examination (procedure) (Date: 2015-04-21T15:51:02Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-04-21T16:03:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-25T16:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-25T16:40:35Z)
+- Screening for domestic abuse (procedure) (Date: 2015-06-25T17:19:21Z)
+- Depression screening (procedure) (Date: 2015-06-25T17:49:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-25T18:03:59Z)
+- Assessment of substance use (procedure) (Date: 2015-06-25T18:28:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-06-25T18:43:10Z)
+- Mammography (procedure) (Date: 2016-03-28T16:18:25Z)
+- Manual pelvic examination (procedure) (Date: 2016-03-28T16:42:16Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-03-28T16:52:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-30T16:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-30T16:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-30T17:15:47Z)
+- Depression screening (procedure) (Date: 2016-06-30T17:45:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-30T17:56:10Z)
+- Mammography (procedure) (Date: 2017-03-10T17:09:58Z)
+- Manual pelvic examination (procedure) (Date: 2017-03-10T17:34:13Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-03-10T17:44:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-06T16:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-06T17:20:31Z)
+- Depression screening (procedure) (Date: 2017-07-06T17:39:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-06T17:53:43Z)
+- Assessment of substance use (procedure) (Date: 2017-07-06T18:15:55Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-06T18:30:16Z)
+- Colonoscopy (Date: 2017-08-21T18:21:14Z)
+- Mammography (procedure) (Date: 2018-03-25T18:03:06Z)
+- Manual pelvic examination (procedure) (Date: 2018-03-25T18:25:57Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-03-25T18:40:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-12T16:40:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-12T17:18:03Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-07-12T17:43:56Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-12T18:03:21Z)
+- Depression screening (procedure) (Date: 2018-07-12T18:46:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-12T18:59:01Z)
+- Ankle X-ray (Date: 2019-03-26T16:52:42Z)
+- Bone immobilization (Date: 2019-03-26T16:52:42Z)
+- Bone density scan (procedure) (Date: 2019-03-26T17:25:15Z)
+- Mammography (procedure) (Date: 2019-04-09T18:58:58Z)
+- Manual pelvic examination (procedure) (Date: 2019-04-09T19:15:28Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-04-09T19:29:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-18T16:40:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-18T17:17:15Z)
+- Depression screening (procedure) (Date: 2019-07-18T17:38:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-18T17:49:56Z)
+- Assessment of substance use (procedure) (Date: 2019-07-18T18:19:14Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-18T18:29:49Z)
+- Mammography (procedure) (Date: 2020-04-30T19:43:21Z)
+- Manual pelvic examination (procedure) (Date: 2020-04-30T20:01:15Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-04-30T20:12:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-23T16:40:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-23T16:40:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-07-23T17:34:50Z)
+- Depression screening (procedure) (Date: 2020-07-23T18:03:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-23T18:17:47Z)
+- Assessment of substance use (procedure) (Date: 2020-07-23T18:43:42Z)
+- Screening for drug abuse (procedure) (Date: 2020-07-23T18:55:15Z)
+- Mammography (procedure) (Date: 2021-05-06T20:30:27Z)
+- Manual pelvic examination (procedure) (Date: 2021-05-06T20:52:45Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-05-06T21:03:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-29T16:40:35Z)
+- Assessment of substance use (procedure) (Date: 2021-07-29T17:39:58Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-29T17:53:39Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-19T16:40:35Z: Follow-up encounter
+- 2021-07-29T16:40:35Z: General examination of patient (procedure)
+- 2021-05-06T20:52:45Z: Gynecology service (qualifier value)
+- 2021-05-06T20:30:27Z: Screening surveillance (regime/therapy)
+- 2021-05-06T20:30:27Z: Postoperative follow-up visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-21T16:40:35Z QOLS: 0.8 {score}
+- 2021-08-21T16:40:35Z QALY: 60.6 a
+- 2021-08-21T16:40:35Z DALY: 7.4 a
+- 2021-07-29T18:15:03Z Total score [DAST-10]: 2.0 {score}
+- 2021-07-29T17:39:58Z Are you worried about losing your housing?: No nan
+- 2021-07-29T17:39:58Z What address do you live at?: 839 Huels Lodge nan
+- 2021-07-29T17:39:58Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-07-29T17:39:58Z What is your current work situation?: Part-time or temporary work nan
+- 2021-07-29T17:39:58Z What is your main insurance?: Medicare nan
+- 2021-07-29T17:39:58Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 20412 /a

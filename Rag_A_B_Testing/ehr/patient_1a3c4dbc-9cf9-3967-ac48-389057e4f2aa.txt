@@ -1,0 +1,46 @@
+== PATIENT RECORD: Billie243 Grady603 (ID: 1a3c4dbc-9cf9-3967-ac48-389057e4f2aa) ==
+
+== Demographics ==
+Patient ID: 1a3c4dbc-9cf9-3967-ac48-389057e4f2aa
+Name: Billie243 Grady603
+Gender: M
+Birthdate: 2014-11-23
+Address: 433 DuBuque Promenade Unit 71
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-03-02T01:04:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-03T01:04:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-02T01:04:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-30T01:04:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-29T01:04:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-04T01:04:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-15T01:04:42Z: Well child visit (procedure)
+- 2020-11-09T01:04:42Z: Well child visit (procedure)
+- 2019-11-04T01:04:42Z: Well child visit (procedure)
+- 2019-09-05T01:04:42Z: Emergency room admission (procedure)
+- 2018-10-29T01:04:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T01:04:42Z Body Height: 114.9 cm
+- 2021-11-15T01:04:42Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-15T01:04:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-11-15T01:04:42Z Body Weight: 20.1 kg
+- 2021-11-15T01:04:42Z Body Mass Index: 15.3 kg/m2
+- 2021-11-15T01:04:42Z Body mass index (BMI) [Percentile] Per age and gender: 42.9 %
+- 2021-11-15T01:04:42Z Diastolic Blood Pressure: 70.0 mm[Hg]
+- 2021-11-15T01:04:42Z Systolic Blood Pressure: 123.0 mm[Hg]
+- 2021-11-15T01:04:42Z Heart rate: 100.0 /min
+- 2021-11-15T01:04:42Z Respiratory rate: 15.0 /min

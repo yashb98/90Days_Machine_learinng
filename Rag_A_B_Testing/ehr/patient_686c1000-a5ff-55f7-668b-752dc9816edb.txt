@@ -1,0 +1,160 @@
+== PATIENT RECORD: Kenyetta225 Nader710 (ID: 686c1000-a5ff-55f7-668b-752dc9816edb) ==
+
+== Demographics ==
+Patient ID: 686c1000-a5ff-55f7-668b-752dc9816edb
+Name: Kenyetta225 Nader710
+Gender: F
+Birthdate: 1995-03-08
+Address: 656 Bernhard Burg
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Severe anxiety (panic) (finding
+- Normal pregnancy
+- Preeclampsia
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Seasonique 91 Day Pack
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-04-25T19:26:49Z)
+- Depression screening (procedure) (Date: 2012-04-25T19:50:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-25T20:05:05Z)
+- Assessment of substance use (procedure) (Date: 2012-04-25T20:28:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-04-25T20:41:41Z)
+- Anticipatory guidance (procedure) (Date: 2012-04-25T21:10:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-01T19:26:49Z)
+- Depression screening (procedure) (Date: 2013-05-01T20:22:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-01T20:35:28Z)
+- Assessment of substance use (procedure) (Date: 2013-05-01T20:55:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-05-01T21:08:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-07T19:26:49Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-07T20:19:37Z)
+- Screening for domestic abuse (procedure) (Date: 2014-05-07T20:34:57Z)
+- Assessment of substance use (procedure) (Date: 2014-05-07T21:19:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-05-07T21:32:22Z)
+- Standard pregnancy test (Date: 2015-08-26T19:26:49Z)
+- Ultrasound scan for fetal viability (Date: 2015-08-26T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2015-08-26T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2015-08-26T19:26:49Z)
+- Blood typing  RH typing (Date: 2015-08-26T19:26:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-08-26T19:26:49Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-08-26T19:26:49Z)
+- Human immunodeficiency virus antigen test (Date: 2015-08-26T19:26:49Z)
+- Chlamydia antigen test (Date: 2015-08-26T19:26:49Z)
+- Gonorrhea infection test (Date: 2015-08-26T19:26:49Z)
+- Syphilis infection test (Date: 2015-08-26T19:26:49Z)
+- Urine culture (Date: 2015-08-26T19:26:49Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-08-26T19:26:49Z)
+- Urine screening test for diabetes (Date: 2015-08-26T19:26:49Z)
+- Hepatitis C antibody test (Date: 2015-08-26T19:26:49Z)
+- Rubella screening (Date: 2015-08-26T19:26:49Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-08-26T19:26:49Z)
+- Skin test for tuberculosis (Date: 2015-08-26T19:26:49Z)
+- Urine protein test (Date: 2015-08-26T19:26:49Z)
+- Physical examination of mother (Date: 2015-08-26T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2015-09-23T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2015-09-23T19:26:49Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-09-23T19:26:49Z)
+- Fetal anatomy study (Date: 2015-10-21T19:26:49Z)
+- Alpha-fetoprotein test (Date: 2015-10-21T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2015-10-21T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2015-10-21T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2015-11-18T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2015-11-18T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2015-12-16T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2015-12-16T19:26:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-01-13T19:26:49Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2016-01-13T19:26:49Z)
+- Urine screening for glucose (Date: 2016-01-13T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2016-01-13T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2016-01-13T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2016-02-10T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2016-02-10T19:26:49Z)
+- Epidural anesthesia (Date: 2016-03-09T19:26:49Z)
+- Premature birth of newborn (Date: 2016-03-09T19:26:49Z)
+- Physical examination following birth (Date: 2016-04-20T19:26:49Z)
+- Depression screening (Date: 2016-04-20T19:26:49Z)
+- Standard pregnancy test (Date: 2016-09-14T19:26:49Z)
+- Ultrasound scan for fetal viability (Date: 2016-09-14T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2016-09-14T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2016-09-14T19:26:49Z)
+- Blood typing  RH typing (Date: 2016-09-14T19:26:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-09-14T19:26:49Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-09-14T19:26:49Z)
+- Human immunodeficiency virus antigen test (Date: 2016-09-14T19:26:49Z)
+- Chlamydia antigen test (Date: 2016-09-14T19:26:49Z)
+- Gonorrhea infection test (Date: 2016-09-14T19:26:49Z)
+- Syphilis infection test (Date: 2016-09-14T19:26:49Z)
+- Urine culture (Date: 2016-09-14T19:26:49Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-09-14T19:26:49Z)
+- Urine screening test for diabetes (Date: 2016-09-14T19:26:49Z)
+- Hepatitis C antibody test (Date: 2016-09-14T19:26:49Z)
+- Rubella screening (Date: 2016-09-14T19:26:49Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-09-14T19:26:49Z)
+- Skin test for tuberculosis (Date: 2016-09-14T19:26:49Z)
+- Urine protein test (Date: 2016-09-14T19:26:49Z)
+- Physical examination of mother (Date: 2016-09-14T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2016-10-12T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2016-10-12T19:26:49Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-10-12T19:26:49Z)
+- Fetal anatomy study (Date: 2016-11-09T19:26:49Z)
+- Alpha-fetoprotein test (Date: 2016-11-09T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2016-11-09T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2016-11-09T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2016-12-07T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2016-12-07T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2017-01-04T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2017-01-04T19:26:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-02-01T19:26:49Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2017-02-01T19:26:49Z)
+- Urine screening for glucose (Date: 2017-02-01T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2017-02-01T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2017-02-01T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2017-03-01T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2017-03-01T19:26:49Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2017-03-29T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2017-03-29T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2017-03-29T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2017-04-12T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2017-04-12T19:26:49Z)
+- Evaluation of uterine fundal height (Date: 2017-04-19T19:26:49Z)
+- Auscultation of the fetal heart (Date: 2017-04-19T19:26:49Z)
+- Episiotomy (Date: 2017-04-26T19:26:49Z)
+- Childbirth (Date: 2017-04-26T19:26:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-10T19:26:49Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-10T19:26:49Z)
+- Physical examination following birth (Date: 2017-06-07T19:26:49Z)
+- Depression screening (Date: 2017-06-07T19:26:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-13T19:26:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-02T19:26:49Z: Encounter for symptom
+- 2021-05-17T19:26:49Z: Consultation for treatment
+- 2020-05-13T19:26:49Z: General examination of patient (procedure)
+- 2019-05-28T19:26:49Z: Consultation for treatment
+- 2018-10-06T22:26:49Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-09-02T19:26:49Z Body temperature: 37.2 Cel
+- 2021-03-08T19:26:49Z QOLS: 1.0 {score}
+- 2021-03-08T19:26:49Z DALY: 0.0 a
+- 2021-03-08T19:26:49Z QALY: 25.0 a
+- 2020-05-13T20:19:24Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2020-05-13T20:19:24Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2020-05-13T20:19:24Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2020-05-13T20:19:24Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-05-13T20:19:24Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 81086 /a
+- 2020-05-13T20:19:24Z What language are you most comfortable speaking?: English nan

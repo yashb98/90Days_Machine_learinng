@@ -1,0 +1,65 @@
+== PATIENT RECORD: Jenifer459 Abshire638 (ID: 27050e3a-dba0-61b9-3041-373c323e16a4) ==
+
+== Demographics ==
+Patient ID: 27050e3a-dba0-61b9-3041-373c323e16a4
+Name: Jenifer459 Abshire638
+Gender: F
+Birthdate: 2004-02-20
+Address: 783 Yundt Burg
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Trinessa 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-02-28T14:31:23Z)
+- Depression screening (procedure) (Date: 2016-03-11T14:31:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-03-11T14:46:20Z)
+- Depression screening (procedure) (Date: 2017-03-17T14:31:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-03-17T14:44:47Z)
+- Assessment of substance use (procedure) (Date: 2017-03-17T15:09:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-03-17T15:20:13Z)
+- Anticipatory guidance (procedure) (Date: 2017-03-17T15:33:01Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-23T14:31:23Z)
+- Depression screening (procedure) (Date: 2018-03-23T14:57:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-23T15:09:55Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-29T14:31:23Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-29T14:31:23Z)
+- Assessment of substance use (procedure) (Date: 2019-03-29T14:47:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-03-29T14:57:59Z)
+- Health risks education (procedure) (Date: 2019-03-29T15:10:34Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-03T14:31:23Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-03T14:31:23Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-09T14:31:23Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-09T14:31:23Z)
+- Assessment of substance use (procedure) (Date: 2021-04-09T15:01:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-04-09T15:13:24Z)
+- Anticipatory guidance (procedure) (Date: 2021-04-09T15:42:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-09T14:31:23Z: Well child visit (procedure)
+- 2021-02-03T14:31:23Z: Consultation for treatment
+- 2020-04-03T14:31:23Z: Well child visit (procedure)
+- 2020-02-09T14:31:23Z: Consultation for treatment
+- 2019-03-29T14:31:23Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-09T15:01:05Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-04-09T14:31:23Z Systolic Blood Pressure: 118.0 mm[Hg]
+- 2021-04-09T14:31:23Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-09T14:31:23Z Body Height: 151.6 cm
+- 2021-04-09T14:31:23Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-04-09T14:31:23Z Body Weight: 44.4 kg
+- 2021-04-09T14:31:23Z Body Mass Index: 19.3 kg/m2
+- 2021-04-09T14:31:23Z Body mass index (BMI) [Percentile] Per age and gender: 27.7 %
+- 2021-04-09T14:31:23Z Diastolic Blood Pressure: 90.0 mm[Hg]
+- 2021-04-09T14:31:23Z Heart rate: 95.0 /min

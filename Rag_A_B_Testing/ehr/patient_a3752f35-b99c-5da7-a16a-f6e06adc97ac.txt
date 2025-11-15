@@ -1,0 +1,65 @@
+== PATIENT RECORD: Marty115 Wisozk929 (ID: a3752f35-b99c-5da7-a16a-f6e06adc97ac) ==
+
+== Demographics ==
+Patient ID: a3752f35-b99c-5da7-a16a-f6e06adc97ac
+Name: Marty115 Wisozk929
+Gender: M
+Birthdate: 1993-10-14
+Address: 1076 Von Boulevard
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-08T06:56:48Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-08T06:56:48Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-08T07:50:45Z)
+- Depression screening (procedure) (Date: 2011-12-08T08:06:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-08T08:19:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-13T06:56:48Z)
+- Depression screening (procedure) (Date: 2012-12-13T07:50:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-13T08:04:04Z)
+- Assessment of substance use (procedure) (Date: 2012-12-13T08:33:54Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-13T08:48:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-17T06:56:48Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-17T06:56:48Z)
+- Depression screening (procedure) (Date: 2015-12-17T07:46:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-17T07:57:42Z)
+- Assessment of substance use (procedure) (Date: 2015-12-17T08:19:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-17T08:30:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-20T06:56:48Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-20T07:45:36Z)
+- Assessment of substance use (procedure) (Date: 2018-12-20T08:01:43Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-20T08:12:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-01T06:56:48Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-03T06:56:48Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-11T02:56:48Z: Encounter for symptom
+- 2018-12-20T06:56:48Z: General examination of patient (procedure)
+- 2015-12-17T06:56:48Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-14T06:56:48Z QOLS: 1.0 {score}
+- 2021-10-14T06:56:48Z DALY: 0.0 a
+- 2021-10-14T06:56:48Z QALY: 27.0 a
+- 2020-10-14T06:56:48Z QALY: 26.0 a
+- 2020-10-14T06:56:48Z DALY: 0.0 a
+- 2020-10-14T06:56:48Z QOLS: 1.0 {score}
+- 2019-10-14T06:56:48Z QALY: 25.0 a
+- 2019-10-14T06:56:48Z DALY: 0.0 a
+- 2019-10-14T06:56:48Z QOLS: 1.0 {score}
+- 2018-12-20T08:33:29Z Total score [DAST-10]: 0.0 {score}

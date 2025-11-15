@@ -1,0 +1,121 @@
+== PATIENT RECORD: Aurelio227 Wehner319 (ID: 0f14bd45-9faa-6216-31b1-d46e7f73d4fe) ==
+
+== Demographics ==
+Patient ID: 0f14bd45-9faa-6216-31b1-d46e7f73d4fe
+Name: Aurelio227 Wehner319
+Gender: M
+Birthdate: 1970-03-15
+Address: 480 Keeling Gardens Unit 16
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Anemia (disorder)
+- Part-time employment (finding)
+- Fracture of ankle
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Second degree burn
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-23T09:36:38Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-23T10:10:08Z)
+- Assessment of substance use (procedure) (Date: 2012-09-23T10:30:04Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-23T10:40:48Z)
+- Ankle X-ray (Date: 2013-03-12T08:27:03Z)
+- Bone immobilization (Date: 2013-03-12T08:27:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-29T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-29T09:36:38Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-29T10:25:20Z)
+- Screening for domestic abuse (procedure) (Date: 2013-09-29T10:47:08Z)
+- Depression screening (procedure) (Date: 2013-09-29T11:23:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-29T11:35:06Z)
+- Assessment of substance use (procedure) (Date: 2013-09-29T11:56:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-09-29T12:11:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-13T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-13T09:36:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-05T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-05T09:36:38Z)
+- Assessment of substance use (procedure) (Date: 2014-10-05T10:13:47Z)
+- Screening for drug abuse (procedure) (Date: 2014-10-05T10:27:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-11T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-11T09:36:38Z)
+- Depression screening (procedure) (Date: 2015-10-11T10:09:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-11T10:23:20Z)
+- Assessment of substance use (procedure) (Date: 2015-10-11T10:51:54Z)
+- Screening for drug abuse (procedure) (Date: 2015-10-11T11:02:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-16T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-16T09:36:38Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-16T10:19:21Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-16T10:45:01Z)
+- Depression screening (procedure) (Date: 2016-10-16T11:10:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-16T11:21:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-22T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-22T09:36:38Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-22T10:24:46Z)
+- Depression screening (procedure) (Date: 2017-10-22T11:05:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-22T11:18:57Z)
+- Assessment of substance use (procedure) (Date: 2017-10-22T11:42:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-22T11:55:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-28T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-28T09:36:38Z)
+- Screening for domestic abuse (procedure) (Date: 2018-10-28T10:10:16Z)
+- Depression screening (procedure) (Date: 2018-10-28T10:53:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-28T11:06:25Z)
+- Assessment of substance use (procedure) (Date: 2018-10-28T11:35:00Z)
+- Screening for drug abuse (procedure) (Date: 2018-10-28T11:45:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-03T09:36:38Z)
+- Assessment of substance use (procedure) (Date: 2019-11-03T10:28:29Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-03T10:39:07Z)
+- Colonoscopy (Date: 2020-03-15T09:36:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-08T09:36:38Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-08T10:23:37Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-08T10:50:36Z)
+- Depression screening (procedure) (Date: 2020-11-08T11:22:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-08T11:34:37Z)
+- Assessment of substance use (procedure) (Date: 2020-11-08T12:03:23Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-08T12:16:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-14T09:36:38Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-14T09:36:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T09:36:38Z: General examination of patient (procedure)
+- 2021-05-02T09:36:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-04T09:36:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-08T09:36:38Z: General examination of patient (procedure)
+- 2020-06-16T18:36:38Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 2021-11-14T09:36:38Z Leukocytes [#/volume] in Blood by Automated count: 6.4 10*3/uL
+- 2021-11-14T09:36:38Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-14T09:36:38Z Triglycerides: 123.5 mg/dL
+- 2021-11-14T09:36:38Z Low Density Lipoprotein Cholesterol: 89.8 mg/dL
+- 2021-11-14T09:36:38Z High Density Lipoprotein Cholesterol: 78.9 mg/dL
+- 2021-11-14T09:36:38Z Chloride: 107.4 mmol/L
+- 2021-11-14T09:36:38Z Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- 2021-11-14T09:36:38Z Hemoglobin [Mass/volume] in Blood: 13.1 g/dL
+- 2021-11-14T09:36:38Z Hematocrit [Volume Fraction] of Blood by Automated count: 46.6 %
+- 2021-11-14T09:36:38Z MCV [Entitic volume] by Automated count: 89.0 fL

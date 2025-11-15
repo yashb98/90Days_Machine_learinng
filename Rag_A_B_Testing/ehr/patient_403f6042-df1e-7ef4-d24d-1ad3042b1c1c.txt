@@ -1,0 +1,64 @@
+== PATIENT RECORD: Tona622 O'Keefe54 (ID: 403f6042-df1e-7ef4-d24d-1ad3042b1c1c) ==
+
+== Demographics ==
+Patient ID: 403f6042-df1e-7ef4-d24d-1ad3042b1c1c
+Name: Tona622 O'Keefe54
+Gender: F
+Birthdate: 2007-08-02
+Address: 162 Mills Terrace
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Viral sinusitis (disorder)
+- Laceration of forearm
+- Severe anxiety (panic) (finding
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-01-12T01:46:16Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-24T21:46:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-10T21:46:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-16T21:46:16Z)
+- Suture open wound (Date: 2019-02-02T21:46:16Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-22T21:46:16Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-22T21:46:16Z)
+- Depression screening (procedure) (Date: 2019-08-22T22:03:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-22T22:15:57Z)
+- Depression screening (procedure) (Date: 2020-08-27T21:46:16Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-27T21:46:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-27T21:59:06Z)
+- Assessment of substance use (procedure) (Date: 2020-08-27T22:19:52Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-08-27T22:34:02Z)
+- Health risks education (procedure) (Date: 2020-08-27T23:02:21Z)
+- Assessment of substance use (procedure) (Date: 2021-09-02T21:46:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-09-02T22:00:57Z)
+- Anticipatory guidance (procedure) (Date: 2021-09-02T22:11:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-02T21:46:16Z: Well child visit (procedure)
+- 2021-08-12T21:46:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-22T21:46:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-05T23:46:16Z: Encounter for symptom
+- 2020-08-27T21:46:16Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-02T21:46:16Z Respiratory rate: 15.0 /min
+- 2021-09-02T21:46:16Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-02T21:46:16Z Body Height: 162.8 cm
+- 2021-09-02T21:46:16Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-09-02T21:46:16Z Body Weight: 47.9 kg
+- 2021-09-02T21:46:16Z Body Mass Index: 18.1 kg/m2
+- 2021-09-02T21:46:16Z Body mass index (BMI) [Percentile] Per age and gender: 30.6 %
+- 2021-09-02T21:46:16Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-09-02T21:46:16Z Systolic Blood Pressure: 106.0 mm[Hg]
+- 2021-09-02T21:46:16Z Heart rate: 62.0 /min

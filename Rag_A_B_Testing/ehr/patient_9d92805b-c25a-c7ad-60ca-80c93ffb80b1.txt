@@ -1,0 +1,117 @@
+== PATIENT RECORD: Frances376 Smitham825 (ID: 9d92805b-c25a-c7ad-60ca-80c93ffb80b1) ==
+
+== Demographics ==
+Patient ID: 9d92805b-c25a-c7ad-60ca-80c93ffb80b1
+Name: Frances376 Smitham825
+Gender: M
+Birthdate: 1938-09-30
+Address: 898 Bernier Mews
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Osteoarthritis of hip
+- Has a criminal record (finding)
+- Hyperlipidemia
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Atrial Fibrillation
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-10T06:40:58Z)
+- Assessment of substance use (procedure) (Date: 2012-02-10T07:15:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-02-10T07:29:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-15T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-02-15T07:31:40Z)
+- Depression screening (procedure) (Date: 2013-02-15T07:57:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-15T08:08:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-21T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-02-21T07:24:36Z)
+- Depression screening (procedure) (Date: 2014-02-21T07:51:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-21T08:03:07Z)
+- Colonoscopy (Date: 2015-01-07T10:10:52Z)
+- Catheter ablation of tissue of heart (Date: 2015-02-27T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-27T06:40:58Z)
+- Depression screening (procedure) (Date: 2015-02-27T07:39:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-27T07:51:59Z)
+- Assessment of substance use (procedure) (Date: 2015-02-27T08:13:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-27T08:26:07Z)
+- Electrical cardioversion (Date: 2016-03-04T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-04T06:40:58Z)
+- Assessment of substance use (procedure) (Date: 2016-03-04T07:17:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-03-04T07:32:30Z)
+- Electrical cardioversion (Date: 2017-03-10T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-10T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-10T07:25:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-03-10T07:51:14Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-10T08:14:38Z)
+- Depression screening (procedure) (Date: 2017-03-10T08:45:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-10T08:56:57Z)
+- Electrical cardioversion (Date: 2018-03-16T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-16T06:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-16T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-03-16T07:40:36Z)
+- Depression screening (procedure) (Date: 2018-03-16T08:05:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-16T08:19:19Z)
+- Assessment of substance use (procedure) (Date: 2018-03-16T08:40:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-16T08:53:55Z)
+- Electrical cardioversion (Date: 2019-03-22T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-22T06:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-22T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-22T07:27:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-03-22T07:53:01Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-22T08:18:39Z)
+- Catheter ablation of tissue of heart (Date: 2020-03-27T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-27T06:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-27T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-27T07:15:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-03-27T07:44:01Z)
+- Assessment of substance use (procedure) (Date: 2020-03-27T08:10:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-27T08:21:36Z)
+- Catheter ablation of tissue of heart (Date: 2021-04-02T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-02T06:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-02T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-04-02T07:32:46Z)
+- Assessment of substance use (procedure) (Date: 2021-04-02T07:48:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-04-02T08:01:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-18T06:40:58Z: Follow-up encounter
+- 2021-04-09T06:40:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-02T06:40:58Z: General examination of patient (procedure)
+- 2021-03-12T06:40:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-18T06:40:58Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-11-18T06:40:58Z Sodium: 142.4 mmol/L
+- 2021-11-18T06:40:58Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 18.6 U/L
+- 2021-11-18T06:40:58Z Triglycerides: 138.4 mg/dL
+- 2021-11-18T06:40:58Z Low Density Lipoprotein Cholesterol: 148.0 mg/dL
+- 2021-11-18T06:40:58Z High Density Lipoprotein Cholesterol: 34.6 mg/dL
+- 2021-11-18T06:40:58Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.7 U/L
+- 2021-11-18T06:40:58Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 66.9 U/L
+- 2021-11-18T06:40:58Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- 2021-11-18T06:40:58Z Globulin [Mass/volume] in Serum by calculation: 3.0 g/L
+- 2021-11-18T06:40:58Z Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL

@@ -1,0 +1,99 @@
+== PATIENT RECORD: Scottie437 Kerluke267 (ID: 788a1414-0bee-f2a6-8096-a9f2d936f42f) ==
+
+== Demographics ==
+Patient ID: 788a1414-0bee-f2a6-8096-a9f2d936f42f
+Name: Scottie437 Kerluke267
+Gender: M
+Birthdate: 1960-01-17
+Address: 848 Stanton Branch
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Not in labor force (finding)
+- Has a criminal record (finding)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Limited social contact (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Full-time employment (finding)
+- Misuses drugs (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Laceration of foot
+- Otitis media
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-23T22:41:21Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-23T23:29:42Z)
+- Depression screening (procedure) (Date: 2012-09-23T23:46:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-23T23:57:04Z)
+- Assessment of substance use (procedure) (Date: 2012-09-24T00:20:44Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-24T00:34:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-29T22:41:21Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-29T23:40:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-05T22:41:21Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-05T23:24:06Z)
+- Suture open wound (Date: 2014-11-02T00:14:47Z)
+- Colonoscopy (Date: 2015-01-17T23:14:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-11T22:41:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-11T22:41:21Z)
+- Screening for domestic abuse (procedure) (Date: 2015-10-11T23:14:22Z)
+- Depression screening (procedure) (Date: 2015-10-11T23:39:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-11T23:51:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-16T22:41:21Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-16T22:41:21Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-16T23:35:56Z)
+- Assessment of substance use (procedure) (Date: 2016-10-16T23:58:51Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-17T00:10:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-22T22:41:21Z)
+- Depression screening (procedure) (Date: 2017-10-22T23:22:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-22T23:36:01Z)
+- Assessment of substance use (procedure) (Date: 2017-10-22T23:56:54Z)
+- Screening for drug abuse (procedure) (Date: 2017-10-23T00:10:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-28T22:41:21Z)
+- Depression screening (procedure) (Date: 2018-10-28T23:25:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-28T23:39:39Z)
+- Assessment of substance use (procedure) (Date: 2018-10-29T00:06:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-29T00:21:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-03T22:41:21Z)
+- Assessment of substance use (procedure) (Date: 2019-11-03T23:13:14Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-03T23:25:42Z)
+- Colonoscopy (Date: 2020-01-17T23:49:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-08T22:41:21Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-08T23:16:55Z)
+- Assessment of substance use (procedure) (Date: 2020-11-09T00:01:44Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-09T00:13:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-14T22:41:21Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-14T22:41:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T22:41:21Z: General examination of patient (procedure)
+- 2021-09-26T22:41:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-29T22:41:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-08T22:41:21Z: General examination of patient (procedure)
+- 2020-01-17T23:49:34Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-11-14T22:41:21Z MCV [Entitic volume] by Automated count: 81.0 fL
+- 2021-11-14T22:41:21Z Hematocrit [Volume Fraction] of Blood by Automated count: 36.0 %
+- 2021-11-14T22:41:21Z MCHC [Mass/volume] by Automated count: 35.2 g/dL
+- 2021-11-14T22:41:21Z Erythrocyte distribution width [Entitic volume] by Automated count: 45.7 fL
+- 2021-11-14T22:41:21Z Platelets [#/volume] in Blood by Automated count: 445.1 10*3/uL
+- 2021-11-14T22:41:21Z Platelet distribution width [Entitic volume] in Blood by Automated count: 210.0 fL
+- 2021-11-14T22:41:21Z Platelet mean volume [Entitic volume] in Blood by Automated count: 11.9 fL
+- 2021-11-14T22:41:21Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-14T22:41:21Z Hemoglobin [Mass/volume] in Blood: 13.0 g/dL
+- 2021-11-14T22:41:21Z Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL

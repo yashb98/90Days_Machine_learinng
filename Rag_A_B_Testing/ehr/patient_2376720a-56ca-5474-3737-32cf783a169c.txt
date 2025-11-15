@@ -1,0 +1,99 @@
+== PATIENT RECORD: Man114 Howell947 (ID: 2376720a-56ca-5474-3737-32cf783a169c) ==
+
+== Demographics ==
+Patient ID: 2376720a-56ca-5474-3737-32cf783a169c
+Name: Man114 Howell947
+Gender: M
+Birthdate: 1987-06-09
+Address: 572 Von Skyway Suite 67
+Marital Status: M
+
+== Allergies ==
+- Grass pollen (substance)
+
+== Active Conditions / Problem List ==
+- Chronic pain
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Drug overdose
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- cetirizine hydrochloride 10 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 2011-11-29T21:22:35Z)
+- Subcutaneous immunotherapy (Date: 2011-12-24T22:00:14Z)
+- Subcutaneous immunotherapy (Date: 2012-01-16T22:26:38Z)
+- Subcutaneous immunotherapy (Date: 2012-02-08T23:02:08Z)
+- Subcutaneous immunotherapy (Date: 2012-03-05T23:22:15Z)
+- Subcutaneous immunotherapy (Date: 2012-03-27T00:11:31Z)
+- Subcutaneous immunotherapy (Date: 2012-04-23T01:07:48Z)
+- Subcutaneous immunotherapy (Date: 2012-05-16T01:43:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-05T04:02:57Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-05T04:02:57Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-05T04:54:32Z)
+- Screening for domestic abuse (procedure) (Date: 2012-06-05T05:21:53Z)
+- Subcutaneous immunotherapy (Date: 2012-06-10T02:22:09Z)
+- Subcutaneous immunotherapy (Date: 2012-07-05T03:01:19Z)
+- Subcutaneous immunotherapy (Date: 2012-08-01T03:56:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-14T04:02:57Z)
+- Depression screening (procedure) (Date: 2012-08-14T04:48:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-14T05:02:06Z)
+- Subcutaneous immunotherapy (Date: 2012-08-28T04:20:15Z)
+- Subcutaneous immunotherapy (Date: 2012-09-23T04:47:39Z)
+- Subcutaneous immunotherapy (Date: 2012-10-14T05:35:31Z)
+- Subcutaneous immunotherapy (Date: 2012-11-07T06:18:58Z)
+- Allergy screening test (Date: 2012-11-28T07:09:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-30T04:02:57Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-30T04:47:06Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-30T05:14:54Z)
+- Depression screening (procedure) (Date: 2014-12-30T05:53:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-30T06:04:08Z)
+- Plain chest X-ray (procedure) (Date: 2015-05-15T17:02:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-02T04:02:57Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-02T04:02:57Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-02T04:48:54Z)
+- Depression screening (procedure) (Date: 2015-06-02T05:16:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-02T05:28:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-18T04:02:57Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-18T04:02:57Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-18T04:54:41Z)
+- Depression screening (procedure) (Date: 2015-08-18T05:20:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-18T05:33:27Z)
+- Sputum examination (procedure) (Date: 2017-03-17T23:16:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-21T04:02:57Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-21T04:39:08Z)
+- Depression screening (procedure) (Date: 2018-08-21T05:00:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-21T05:14:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-24T04:02:57Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-24T04:58:21Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-24T05:27:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-24T04:02:57Z: General examination of patient (procedure)
+- 2021-05-16T04:02:57Z: Encounter for problem (procedure)
+- 2021-05-04T04:02:57Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-16T04:02:57Z: Encounter for problem (procedure)
+- 2021-04-06T04:02:57Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-24T06:10:27Z Total score [HARK]: 0.0 {score}
+- 2021-08-24T05:27:09Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-08-24T04:58:21Z Which race(s) are you?: White nan
+- 2021-08-24T04:58:21Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes nan
+- 2021-08-24T04:58:21Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-08-24T04:58:21Z What language are you most comfortable speaking?: English nan
+- 2021-08-24T04:58:21Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-08-24T04:58:21Z What is your housing situation today?: I have housing nan
+- 2021-08-24T04:58:21Z Are you worried about losing your housing?: No nan
+- 2021-08-24T04:58:21Z What address do you live at?: 572 Von Skyway Suite 67 nan

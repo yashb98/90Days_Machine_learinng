@@ -1,0 +1,72 @@
+== PATIENT RECORD: Kaye394 Mayert710 (ID: b74d0752-3c8d-4374-78d0-618105abb04c) ==
+
+== Demographics ==
+Patient ID: b74d0752-3c8d-4374-78d0-618105abb04c
+Name: Kaye394 Mayert710
+Gender: F
+Birthdate: 1974-02-04
+Address: 1095 West Rapid Unit 71
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Sprain of ankle
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-02-10T18:21:48Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-10T18:21:48Z)
+- Depression screening (procedure) (Date: 2014-02-10T19:07:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-10T19:20:09Z)
+- Assessment of substance use (procedure) (Date: 2014-02-10T19:41:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-10T19:51:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-15T18:21:48Z)
+- Depression screening (procedure) (Date: 2016-02-15T18:55:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-15T19:05:56Z)
+- Assessment of substance use (procedure) (Date: 2016-02-15T19:27:13Z)
+- Screening for drug abuse (procedure) (Date: 2016-02-15T19:38:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-19T18:21:48Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-19T19:07:21Z)
+- Depression screening (procedure) (Date: 2018-02-19T19:36:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-19T19:50:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-24T18:21:48Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-24T19:02:51Z)
+- Depression screening (procedure) (Date: 2020-02-24T19:27:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-24T19:42:12Z)
+- Assessment of substance use (procedure) (Date: 2020-02-24T20:02:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-24T20:13:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-02-24T18:21:48Z: General examination of patient (procedure)
+- 2019-05-26T16:21:48Z: Encounter for symptom
+- 2019-03-15T05:21:48Z: Encounter for symptom
+- 2018-02-19T18:21:48Z: General examination of patient (procedure)
+- 2016-02-15T18:21:48Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-04T19:21:48Z QOLS: 0.9 {score}
+- 2021-02-04T19:21:48Z DALY: 1.3 a
+- 2021-02-04T19:21:48Z QALY: 44.7 a
+- 2020-02-24T20:37:11Z Total score [AUDIT-C]: 6.0 {score}
+- 2020-02-24T20:02:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-02-24T19:27:16Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-02-24T19:02:51Z What is your current work situation?: Full-time work nan
+- 2020-02-24T19:02:51Z What is your main insurance?: Private insurance nan
+- 2020-02-24T19:02:51Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 89123 /a
+- 2020-02-24T19:02:51Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan

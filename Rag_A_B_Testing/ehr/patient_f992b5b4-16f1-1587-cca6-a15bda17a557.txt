@@ -1,0 +1,76 @@
+== PATIENT RECORD: Porter490 Wehner319 (ID: f992b5b4-16f1-1587-cca6-a15bda17a557) ==
+
+== Demographics ==
+Patient ID: f992b5b4-16f1-1587-cca6-a15bda17a557
+Name: Porter490 Wehner319
+Gender: M
+Birthdate: 1983-04-01
+Address: 337 Schmeler Bay Apt 29
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Acute bacterial sinusitis (disorder)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Pulmonary emphysema (disorder)
+- Anemia (disorder)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-06-14T01:35:39Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-14T02:23:04Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-14T02:41:16Z)
+- Depression screening (procedure) (Date: 2014-06-14T03:25:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-14T03:38:58Z)
+- Assessment of substance use (procedure) (Date: 2014-06-14T04:06:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-06-14T04:19:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-17T01:35:39Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-17T02:15:28Z)
+- Assessment of substance use (procedure) (Date: 2017-06-17T02:34:19Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-17T02:46:05Z)
+- Spirometry (procedure) (Date: 2020-06-20T01:35:39Z)
+- Peripheral blood smear interpretation (Date: 2020-06-20T01:35:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-20T01:35:39Z)
+- Review of systems (procedure) (Date: 2020-06-20T02:05:39Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-20T02:23:11Z)
+- Brief general examination (procedure) (Date: 2020-06-20T02:34:53Z)
+- Depression screening (procedure) (Date: 2020-06-20T02:11:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-20T02:23:33Z)
+- Assessment of substance use (procedure) (Date: 2020-06-20T02:44:07Z)
+- Screening for drug abuse (procedure) (Date: 2020-06-20T02:58:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-29T01:35:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-01T01:35:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-20T01:35:39Z: Encounter for problem
+- 2020-06-20T01:35:39Z: General examination of patient (procedure)
+- 2020-04-11T01:35:39Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-02T00:35:39Z QOLS: 1.0 {score}
+- 2021-04-02T00:35:39Z DALY: 0.0 a
+- 2021-04-02T00:35:39Z QALY: 37.0 a
+- 2020-06-20T03:28:11Z Total score [DAST-10]: 0.0 {score}
+- 2020-06-20T02:44:07Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-06-20T02:11:17Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-06-20T02:11:17Z What address do you live at?: 337 Schmeler Bay Apt 29 nan
+- 2020-06-20T02:11:17Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-06-20T02:11:17Z What is your current work situation?: Full-time work nan
+- 2020-06-20T02:11:17Z What is your main insurance?: Medicaid nan

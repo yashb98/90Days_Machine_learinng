@@ -1,0 +1,54 @@
+== PATIENT RECORD: Brooks264 Rowe323 (ID: 798f8865-ab80-0353-df73-b87b1d1f4b8f) ==
+
+== Demographics ==
+Patient ID: 798f8865-ab80-0353-df73-b87b1d1f4b8f
+Name: Brooks264 Rowe323
+Gender: M
+Birthdate: 2012-04-29
+Address: 195 Ondricka Trailer
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+- Acute bronchitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 500 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-03T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-07T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-06T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-05T20:02:00Z)
+- X-ray or wrist (Date: 2015-04-22T20:02:00Z)
+- Bone immobilization (Date: 2015-04-22T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-20T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-03T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-15T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-21T20:02:00Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-02T20:02:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-02T20:02:00Z: Well child visit (procedure)
+- 2020-04-26T20:02:00Z: Well child visit (procedure)
+- 2019-04-21T20:02:00Z: Well child visit (procedure)
+- 2018-04-15T20:02:00Z: Well child visit (procedure)
+- 2017-06-02T20:02:00Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-02T20:02:00Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-02T20:02:00Z Body Height: 134.8 cm
+- 2021-05-02T20:02:00Z Body Weight: 35.6 kg
+- 2021-05-02T20:02:00Z Body Mass Index: 19.6 kg/m2
+- 2021-05-02T20:02:00Z Body mass index (BMI) [Percentile] Per age and gender: 90.5 %
+- 2021-05-02T20:02:00Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-05-02T20:02:00Z Systolic Blood Pressure: 127.0 mm[Hg]
+- 2021-05-02T20:02:00Z Heart rate: 67.0 /min
+- 2021-05-02T20:02:00Z Respiratory rate: 15.0 /min
+- 2021-05-02T20:02:00Z Tobacco smoking status NHIS: Never smoker nan

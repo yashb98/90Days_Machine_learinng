@@ -1,0 +1,37 @@
+== PATIENT RECORD: Juliette736 McClure239 (ID: 363f50e2-9771-dfb4-1ff5-3d7db24b9ada) ==
+
+== Demographics ==
+Patient ID: 363f50e2-9771-dfb4-1ff5-3d7db24b9ada
+Name: Juliette736 McClure239
+Gender: F
+Birthdate: 2021-09-04
+Address: 293 Pacocha Knoll Unit 74
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-10-09T11:15:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-09T11:15:10Z: Well child visit (procedure)
+- 2021-09-04T11:15:10Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-09T11:15:10Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-10-09T11:15:10Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-10-09T11:15:10Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-09T11:15:10Z Respiratory rate: 13.0 /min
+- 2021-10-09T11:15:10Z Heart rate: 64.0 /min
+- 2021-10-09T11:15:10Z Systolic Blood Pressure: 113.0 mm[Hg]
+- 2021-10-09T11:15:10Z Body Height: 51.7 cm
+- 2021-10-09T11:15:10Z Head Occipital-frontal circumference: 35.9 cm
+- 2021-10-09T11:15:10Z Weight-for-length Per age and sex: 43.6 %
+- 2021-10-09T11:15:10Z Body Weight: 3.9 kg

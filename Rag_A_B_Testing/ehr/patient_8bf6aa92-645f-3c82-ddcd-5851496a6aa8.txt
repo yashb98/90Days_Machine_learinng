@@ -1,0 +1,220 @@
+== PATIENT RECORD: Ethelyn789 Vandervort697 (ID: 8bf6aa92-645f-3c82-ddcd-5851496a6aa8) ==
+
+== Demographics ==
+Patient ID: 8bf6aa92-645f-3c82-ddcd-5851496a6aa8
+Name: Ethelyn789 Vandervort697
+Gender: F
+Birthdate: 1967-05-07
+Address: 372 Jakubowski Vista Unit 76
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Unemployed (finding)
+- Lack of access to transportation (finding)
+- Social isolation (finding)
+- Transport problems (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Sprain of ankle
+- Malignant neoplasm of breast (disorder)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Stress (finding)
+- Fracture of clavicle
+- Reports of violence in the environment (finding)
+- Stroke
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Paclitaxel 100 MG Injection
+- Carboplatin 10 MG/ML Injectable Solution
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2011-12-11T06:57:17Z)
+- Intramuscular injection (Date: 2012-03-11T06:57:17Z)
+- Intramuscular injection (Date: 2012-06-10T06:57:17Z)
+- Intramuscular injection (Date: 2012-09-09T06:57:17Z)
+- Intramuscular injection (Date: 2012-12-09T06:57:17Z)
+- Intramuscular injection (Date: 2013-03-10T06:57:17Z)
+- Screening mammography (procedure) (Date: 2013-03-30T06:57:17Z)
+- Ultrasonography of bilateral breasts (procedure) (Date: 2013-03-30T07:17:01Z)
+- Biopsy of breast (procedure) (Date: 2013-03-30T07:33:18Z)
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) (Date: 2013-03-30T08:18:25Z)
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) (Date: 2013-03-31T22:18:25Z)
+- Chemotherapy (procedure) (Date: 2013-04-11T19:19:25Z)
+- Chemotherapy (procedure) (Date: 2013-05-02T05:07:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-26T06:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-26T06:57:17Z)
+- Chemotherapy (procedure) (Date: 2013-05-24T20:29:47Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-26T07:53:10Z)
+- Depression screening (procedure) (Date: 2013-05-26T08:20:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-26T08:33:02Z)
+- Intramuscular injection (Date: 2013-06-09T06:57:17Z)
+- Chemotherapy (procedure) (Date: 2013-06-15T16:22:22Z)
+- Chemotherapy (procedure) (Date: 2013-07-08T08:09:30Z)
+- Chemotherapy (procedure) (Date: 2013-07-30T05:40:12Z)
+- Chemotherapy (procedure) (Date: 2013-08-20T03:00:07Z)
+- Intramuscular injection (Date: 2013-09-08T06:57:17Z)
+- Chemotherapy (procedure) (Date: 2013-09-10T03:12:41Z)
+- Sentinel lymph node biopsy (procedure) (Date: 2013-09-25T07:03:19Z)
+- Excision of sentinel lymph node (procedure) (Date: 2013-09-25T07:44:55Z)
+- Lumpectomy of breast (procedure) (Date: 2013-09-25T08:34:29Z)
+- Chemotherapy (procedure) (Date: 2013-10-03T04:53:30Z)
+- Chemotherapy (procedure) (Date: 2013-10-23T12:06:30Z)
+- Chemotherapy (procedure) (Date: 2013-11-14T00:48:30Z)
+- Intramuscular injection (Date: 2013-12-08T06:57:17Z)
+- Chemotherapy (procedure) (Date: 2013-12-04T23:26:30Z)
+- Chemotherapy (procedure) (Date: 2013-12-24T02:37:30Z)
+- Chemotherapy (procedure) (Date: 2014-01-13T00:06:30Z)
+- Chemotherapy (procedure) (Date: 2014-02-02T01:07:30Z)
+- Chemotherapy (procedure) (Date: 2014-02-22T05:17:30Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-02-22T06:18:30Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-02-23T17:25:04Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-02-25T00:28:02Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-02-26T10:16:16Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-02-27T14:31:33Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-02-28T22:18:14Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-02T06:40:11Z)
+- Intramuscular injection (Date: 2014-03-09T06:57:17Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-03T13:23:06Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-04T14:41:23Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-05T19:21:37Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-07T07:21:29Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-08T11:27:27Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-09T13:00:20Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-10T14:13:38Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-11T22:05:17Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-13T08:23:18Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-14T13:00:21Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-15T17:24:04Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-17T00:07:25Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-18T02:04:51Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-19T14:26:05Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-21T00:26:46Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-22T04:54:05Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-23T07:48:48Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-24T14:57:05Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-25T16:30:49Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-26T21:59:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-27T23:54:47Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-29T07:05:46Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-30T16:55:20Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-03-31T21:33:32Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-02T04:50:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-03T08:57:50Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-04T20:11:12Z)
+- Intramuscular injection (Date: 2014-06-08T06:57:17Z)
+- Intramuscular injection (Date: 2014-09-07T06:57:17Z)
+- Intramuscular injection (Date: 2014-12-07T06:57:17Z)
+- Intramuscular injection (Date: 2015-03-08T06:57:17Z)
+- Mammography (procedure) (Date: 2015-03-02T01:34:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-31T06:57:17Z)
+- Intramuscular injection (Date: 2015-06-07T06:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-31T07:30:09Z)
+- Screening for domestic abuse (procedure) (Date: 2015-05-31T07:59:17Z)
+- Intramuscular injection (Date: 2015-09-06T06:57:17Z)
+- Intramuscular injection (Date: 2015-12-06T06:57:17Z)
+- Clavicle X-ray (Date: 2015-12-03T06:57:17Z)
+- Admission to orthopedic department (Date: 2015-12-03T06:57:17Z)
+- Mammography (procedure) (Date: 2016-02-22T01:52:36Z)
+- Intramuscular injection (Date: 2016-03-06T06:57:17Z)
+- Intramuscular injection (Date: 2016-06-05T06:57:17Z)
+- Intramuscular injection (Date: 2016-09-04T06:57:17Z)
+- Intramuscular injection (Date: 2016-12-04T06:57:17Z)
+- Mammography (procedure) (Date: 2017-01-04T02:15:20Z)
+- Intramuscular injection (Date: 2017-03-05T06:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-07T06:57:17Z)
+- Colonoscopy (Date: 2017-05-07T06:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-07T06:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-07T07:32:28Z)
+- Assessment of substance use (procedure) (Date: 2017-05-07T07:57:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-07T08:09:38Z)
+- Intramuscular injection (Date: 2017-06-04T06:57:17Z)
+- Intramuscular injection (Date: 2017-09-03T06:57:17Z)
+- Intramuscular injection (Date: 2017-12-03T06:57:17Z)
+- Mammography (procedure) (Date: 2017-12-18T02:31:38Z)
+- Intramuscular injection (Date: 2018-03-04T06:57:17Z)
+- Echocardiography (procedure) (Date: 2018-03-11T06:57:17Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2018-03-11T06:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-13T06:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-13T06:57:17Z)
+- Depression screening (procedure) (Date: 2018-05-13T07:50:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-13T08:01:10Z)
+- Assessment of substance use (procedure) (Date: 2018-05-13T08:26:55Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-13T08:41:28Z)
+- Intramuscular injection (Date: 2018-06-03T06:57:17Z)
+- Intramuscular injection (Date: 2018-09-02T06:57:17Z)
+- Mammography (procedure) (Date: 2018-11-18T02:48:07Z)
+- Intramuscular injection (Date: 2018-12-02T06:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-10T06:57:17Z)
+- Screening for domestic abuse (procedure) (Date: 2019-02-10T07:52:51Z)
+- Depression screening (procedure) (Date: 2019-02-10T08:23:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-10T08:34:18Z)
+- Assessment of substance use (procedure) (Date: 2019-02-10T09:03:31Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-10T09:16:49Z)
+- Intramuscular injection (Date: 2019-03-03T06:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-19T06:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-19T06:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-19T07:49:58Z)
+- Depression screening (procedure) (Date: 2019-05-19T08:18:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-19T08:31:08Z)
+- Intramuscular injection (Date: 2019-06-02T06:57:17Z)
+- Intramuscular injection (Date: 2019-09-01T06:57:17Z)
+- Mammography (procedure) (Date: 2019-10-27T03:04:02Z)
+- Intramuscular injection (Date: 2019-12-01T06:57:17Z)
+- Intramuscular injection (Date: 2020-03-01T06:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-24T06:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-24T06:57:17Z)
+- Intramuscular injection (Date: 2020-05-31T06:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-24T07:28:13Z)
+- Assessment of substance use (procedure) (Date: 2020-05-24T07:53:24Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-24T08:03:59Z)
+- Sputum examination (procedure) (Date: 2020-07-29T04:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-09T06:57:17Z)
+- Depression screening (procedure) (Date: 2020-08-09T07:49:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-09T08:01:53Z)
+- Assessment of substance use (procedure) (Date: 2020-08-09T08:27:30Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-09T08:41:15Z)
+- Intramuscular injection (Date: 2020-08-30T06:57:17Z)
+- Mammography (procedure) (Date: 2020-10-20T03:22:50Z)
+- Intramuscular injection (Date: 2020-11-29T06:57:17Z)
+- Intramuscular injection (Date: 2021-02-28T06:57:17Z)
+- Intramuscular injection (Date: 2021-05-30T06:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-30T06:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-30T06:57:17Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-30T07:53:28Z)
+- Depression screening (procedure) (Date: 2021-05-30T08:38:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-30T08:51:08Z)
+- Assessment of substance use (procedure) (Date: 2021-05-30T09:16:17Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-30T09:29:12Z)
+- Intramuscular injection (Date: 2021-08-29T06:57:17Z)
+- Mammography (procedure) (Date: 2021-09-19T03:37:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-19T03:37:57Z: Screening surveillance (regime/therapy)
+- 2021-09-19T03:37:57Z: Postoperative follow-up visit (procedure)
+- 2021-08-29T06:57:17Z: Patient encounter procedure
+- 2021-05-30T06:57:17Z: Patient encounter procedure
+- 2021-05-30T06:57:17Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-30T09:50:29Z Total score [DAST-10]: 2.0 {score}
+- 2021-05-30T09:16:17Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-30T08:38:00Z Total score [HARK]: 0.0 {score}
+- 2021-05-30T07:53:28Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-05-30T07:53:28Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-05-30T07:53:28Z Are you worried about losing your housing?: No nan
+- 2021-05-30T07:53:28Z What address do you live at?: 372 Jakubowski Vista Unit 76 nan
+- 2021-05-30T07:53:28Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-05-30T07:53:28Z What is your current work situation?: Unemployed (finding) nan
+- 2021-05-30T07:53:28Z What is your main insurance?: Private insurance nan

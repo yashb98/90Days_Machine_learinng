@@ -1,0 +1,54 @@
+== PATIENT RECORD: Damien170 Ebert178 (ID: c32ba41a-49da-124e-8858-e6398d9f43ca) ==
+
+== Demographics ==
+Patient ID: c32ba41a-49da-124e-8858-e6398d9f43ca
+Name: Damien170 Ebert178
+Gender: M
+Birthdate: 2009-06-02
+Address: 252 Johnson Route
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Concussion with no loss of consciousness
+- Viral sinusitis (disorder)
+- Otitis media
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-05-08T23:24:27Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-06T23:24:27Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-19T23:24:27Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-07T23:24:27Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-13T23:24:27Z)
+- Sputum examination (procedure) (Date: 2014-12-05T03:24:27Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-16T23:24:27Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-22T23:24:27Z)
+- Depression screening (procedure) (Date: 2021-06-22T23:42:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-06-22T23:55:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-06T23:24:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-22T23:24:27Z: Well child visit (procedure)
+- 2021-06-15T23:24:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-16T23:24:27Z: Well child visit (procedure)
+- 2019-06-11T23:24:27Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-23T00:19:24Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 26.0 {score}
+- 2021-06-22T23:42:44Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-06-22T23:24:27Z Diastolic Blood Pressure: 73.0 mm[Hg]
+- 2021-06-22T23:24:27Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-22T23:24:27Z Respiratory rate: 14.0 /min
+- 2021-06-22T23:24:27Z Heart rate: 99.0 /min
+- 2021-06-22T23:24:27Z Systolic Blood Pressure: 130.0 mm[Hg]
+- 2021-06-22T23:24:27Z Body mass index (BMI) [Percentile] Per age and gender: 73.4 %
+- 2021-06-22T23:24:27Z Body Mass Index: 19.5 kg/m2
+- 2021-06-22T23:24:27Z Body Weight: 44.8 kg

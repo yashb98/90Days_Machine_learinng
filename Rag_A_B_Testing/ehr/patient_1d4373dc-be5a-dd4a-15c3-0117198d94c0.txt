@@ -1,0 +1,61 @@
+== PATIENT RECORD: Cheri871 Prosacco716 (ID: 1d4373dc-be5a-dd4a-15c3-0117198d94c0) ==
+
+== Demographics ==
+Patient ID: 1d4373dc-be5a-dd4a-15c3-0117198d94c0
+Name: Cheri871 Prosacco716
+Gender: F
+Birthdate: 2008-08-13
+Address: 494 Grant Park Unit 87
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-18T13:34:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-30T13:34:58Z)
+- Throat culture (procedure) (Date: 2015-03-30T10:34:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-05T13:34:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-10T13:34:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-28T13:34:58Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-02T13:34:58Z)
+- Depression screening (procedure) (Date: 2020-09-02T13:53:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-09-02T14:05:54Z)
+- Assessment of substance use (procedure) (Date: 2020-09-02T14:32:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-09-02T14:46:39Z)
+- Anticipatory guidance (procedure) (Date: 2020-09-02T15:04:23Z)
+- Throat culture (procedure) (Date: 2021-05-24T09:34:58Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-08T13:34:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-08T13:34:58Z)
+- Assessment of substance use (procedure) (Date: 2021-09-08T13:59:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-09-08T14:11:39Z)
+- Anticipatory guidance (procedure) (Date: 2021-09-08T14:22:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-08T13:34:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-08T13:34:58Z: Well child visit (procedure)
+- 2021-08-11T13:34:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-02T13:34:58Z: Urgent care clinic (procedure)
+- 2021-05-24T09:34:58Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-09-08T13:59:31Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-09-08T13:34:58Z Respiratory rate: 13.0 /min
+- 2021-09-08T13:34:58Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-08T13:34:58Z Body Height: 154.9 cm
+- 2021-09-08T13:34:58Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-09-08T13:34:58Z Body Weight: 61.8 kg
+- 2021-09-08T13:34:58Z Body Mass Index: 25.8 kg/m2
+- 2021-09-08T13:34:58Z Body mass index (BMI) [Percentile] Per age and gender: 94.3 %
+- 2021-09-08T13:34:58Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-09-08T13:34:58Z Systolic Blood Pressure: 113.0 mm[Hg]

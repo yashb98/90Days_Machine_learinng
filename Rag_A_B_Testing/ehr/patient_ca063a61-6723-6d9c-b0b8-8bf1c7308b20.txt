@@ -1,0 +1,119 @@
+== PATIENT RECORD: Britt177 Sanford861 (ID: ca063a61-6723-6d9c-b0b8-8bf1c7308b20) ==
+
+== Demographics ==
+Patient ID: ca063a61-6723-6d9c-b0b8-8bf1c7308b20
+Name: Britt177 Sanford861
+Gender: F
+Birthdate: 1951-02-22
+Address: 266 Stroman Loaf
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Prediabetes
+- Miscarriage in first trimester
+- Idiopathic atrophic hypothyroidism
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Osteoporosis (disorder)
+
+== Current Medications ==
+- Levothyroxine Sodium 0.075 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-26T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-26T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-26T20:06:31Z)
+- Depression screening (procedure) (Date: 2012-04-26T20:35:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-26T20:50:24Z)
+- Assessment of substance use (procedure) (Date: 2012-04-26T21:17:21Z)
+- Screening for drug abuse (procedure) (Date: 2012-04-26T21:30:58Z)
+- Measurement of respiratory function (procedure) (Date: 2012-11-16T14:24:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-02T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-02T20:13:31Z)
+- Depression screening (procedure) (Date: 2013-05-02T20:35:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-02T20:50:18Z)
+- Assessment of substance use (procedure) (Date: 2013-05-02T21:16:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-05-02T21:29:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-08T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-08T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-08T20:08:13Z)
+- Screening for domestic abuse (procedure) (Date: 2014-05-08T20:37:23Z)
+- Assessment of substance use (procedure) (Date: 2014-05-08T21:08:00Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-08T21:18:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-14T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-14T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-14T20:22:55Z)
+- Depression screening (procedure) (Date: 2015-05-14T20:38:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-14T20:52:36Z)
+- Assessment of substance use (procedure) (Date: 2015-05-14T21:17:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-05-14T21:32:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-19T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-19T19:24:18Z)
+- Depression screening (procedure) (Date: 2016-05-19T20:21:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-19T20:31:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-25T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-25T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-25T20:19:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-31T19:24:18Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-31T20:17:19Z)
+- Depression screening (procedure) (Date: 2018-05-31T20:50:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-31T21:02:31Z)
+- Assessment of substance use (procedure) (Date: 2018-05-31T21:31:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-05-31T21:41:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-06T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-06T20:08:10Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-06-06T20:26:46Z)
+- Depression screening (procedure) (Date: 2019-06-06T20:56:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-06T21:11:10Z)
+- Assessment of substance use (procedure) (Date: 2019-06-06T21:39:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-06-06T21:54:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-11T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-11T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-11T19:56:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-06-11T20:17:56Z)
+- Depression screening (procedure) (Date: 2020-06-11T20:35:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-11T20:48:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-11T21:16:56Z)
+- Assessment of substance use (procedure) (Date: 2020-06-11T21:45:18Z)
+- Screening for drug abuse (procedure) (Date: 2020-06-11T21:57:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-17T19:24:18Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-17T19:24:18Z)
+- Bone density scan (procedure) (Date: 2021-06-17T19:24:18Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-17T19:59:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-06-17T20:28:58Z)
+- Depression screening (procedure) (Date: 2021-06-17T20:52:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-17T21:04:23Z)
+- Assessment of substance use (procedure) (Date: 2021-06-17T21:28:48Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-17T21:39:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-17T19:24:18Z: General examination of patient (procedure)
+- 2021-03-18T19:24:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-25T19:24:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-11T19:24:18Z: General examination of patient (procedure)
+- 2019-06-06T19:24:18Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-17T22:00:59Z Total score [DAST-10]: 1.0 {score}
+- 2021-06-17T21:28:48Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-06-17T20:52:47Z Fall risk total [Morse Fall Scale]: 6.0 {#}
+- 2021-06-17T20:52:47Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-06-17T20:28:58Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-06-17T19:59:15Z Are you worried about losing your housing?: No nan
+- 2021-06-17T19:59:15Z What language are you most comfortable speaking?: English nan
+- 2021-06-17T19:59:15Z How many family members  including yourself  do you currently live with?: 8.0 {#}
+- 2021-06-17T19:59:15Z Are you a refugee?: No nan
+- 2021-06-17T19:59:15Z What address do you live at?: 266 Stroman Loaf nan

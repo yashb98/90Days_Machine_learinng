@@ -1,0 +1,115 @@
+== PATIENT RECORD: Gerardo48 Herman763 (ID: 62857336-4176-3277-206d-58ba274aed30) ==
+
+== Demographics ==
+Patient ID: 62857336-4176-3277-206d-58ba274aed30
+Name: Gerardo48 Herman763
+Gender: M
+Birthdate: 1962-10-02
+Address: 635 Becker Course
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Severe anxiety (panic) (finding
+- Full-time employment (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Social isolation (finding)
+- Whiplash injury to neck
+
+== Current Medications ==
+- ferrous sulfate 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-02T11:34:19Z)
+- Colonoscopy (Date: 2012-10-02T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-02T12:19:54Z)
+- Depression screening (procedure) (Date: 2012-10-02T12:38:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-02T12:50:08Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-10-02T13:11:44Z)
+- Assessment of substance use (procedure) (Date: 2012-10-02T13:32:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-02T13:43:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-08T11:34:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-08T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-08T12:11:41Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-08T12:34:36Z)
+- Depression screening (procedure) (Date: 2013-10-08T13:05:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-08T13:18:28Z)
+- Assessment of substance use (procedure) (Date: 2013-10-08T13:46:12Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-08T13:59:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-14T11:34:19Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-14T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-14T12:32:07Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-14T12:56:59Z)
+- Depression screening (procedure) (Date: 2014-10-14T13:27:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-14T13:41:35Z)
+- Assessment of substance use (procedure) (Date: 2014-10-14T14:03:14Z)
+- Screening for drug abuse (procedure) (Date: 2014-10-14T14:13:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-20T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-20T12:07:15Z)
+- Depression screening (procedure) (Date: 2015-10-20T12:32:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-20T12:45:47Z)
+- Assessment of substance use (procedure) (Date: 2015-10-20T13:06:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-20T13:21:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-25T11:34:19Z)
+- Depression screening (procedure) (Date: 2016-10-25T12:13:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-25T12:27:27Z)
+- Assessment of substance use (procedure) (Date: 2016-10-25T12:54:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-25T13:04:38Z)
+- Colonoscopy (Date: 2017-10-02T12:17:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-31T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-31T12:05:43Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-31T12:26:46Z)
+- Depression screening (procedure) (Date: 2017-10-31T12:59:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-31T13:13:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-06T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-06T12:14:17Z)
+- Depression screening (procedure) (Date: 2018-11-06T12:35:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-06T12:49:04Z)
+- Assessment of substance use (procedure) (Date: 2018-11-06T13:17:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-06T13:28:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-12T11:34:19Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-12T12:16:42Z)
+- Depression screening (procedure) (Date: 2019-11-12T13:00:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-12T13:14:05Z)
+- Assessment of substance use (procedure) (Date: 2019-11-12T13:41:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-12T13:55:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-17T11:34:19Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-17T11:34:19Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-17T12:16:09Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-17T12:38:14Z)
+- Depression screening (procedure) (Date: 2020-11-17T13:16:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-17T13:29:01Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-17T13:58:45Z)
+- Assessment of substance use (procedure) (Date: 2020-11-17T14:21:45Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-17T14:36:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-20T11:34:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-30T11:34:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-17T11:34:19Z: General examination of patient (procedure)
+- 2019-11-12T11:34:19Z: General examination of patient (procedure)
+- 2018-11-06T11:34:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-02T11:34:19Z QOLS: 1.0 {score}
+- 2021-10-02T11:34:19Z DALY: 0.9 a
+- 2021-10-02T11:34:19Z QALY: 57.1 a
+- 2020-11-17T14:57:04Z Total score [DAST-10]: 1.0 {score}
+- 2020-11-17T14:21:45Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 9.0 {score}
+- 2020-11-17T13:58:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 6.0 {score}
+- 2020-11-17T13:16:47Z Total score [HARK]: 0.0 {score}
+- 2020-11-17T12:38:14Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2020-11-17T12:16:09Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2020-11-17T12:16:09Z What is your housing situation today?: I have housing nan

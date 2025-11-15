@@ -1,0 +1,67 @@
+== PATIENT RECORD: Milton509 Effertz744 (ID: ba98c858-d00a-77a3-3453-ba337ffdaead) ==
+
+== Demographics ==
+Patient ID: ba98c858-d00a-77a3-3453-ba337ffdaead
+Name: Milton509 Effertz744
+Gender: M
+Birthdate: 2004-04-08
+Address: 236 Osinski Gateway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Second degree burn
+- Sprain of ankle
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-04-17T23:37:35Z)
+- Depression screening (procedure) (Date: 2016-04-28T23:37:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-04-28T23:51:19Z)
+- Assessment of substance use (procedure) (Date: 2016-04-29T00:20:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-04-29T00:34:23Z)
+- Anticipatory guidance (procedure) (Date: 2016-04-29T01:02:20Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-04T23:37:35Z)
+- Depression screening (procedure) (Date: 2017-05-05T00:01:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-05T00:14:45Z)
+- Depression screening (procedure) (Date: 2018-05-10T23:37:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-05-10T23:51:21Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-16T23:37:35Z)
+- Assessment of substance use (procedure) (Date: 2019-05-16T23:55:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-05-17T00:09:18Z)
+- Anticipatory guidance (procedure) (Date: 2019-05-17T00:22:32Z)
+- Depression screening (procedure) (Date: 2020-05-21T23:37:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-21T23:48:47Z)
+- Assessment of substance use (procedure) (Date: 2020-05-22T00:18:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-22T00:31:22Z)
+- Anticipatory guidance (procedure) (Date: 2020-05-22T00:57:03Z)
+- Depression screening (procedure) (Date: 2021-05-27T23:37:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-27T23:48:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-30T23:37:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-09T23:37:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-27T23:37:35Z: Well child visit (procedure)
+- 2020-06-12T23:37:35Z: Emergency room admission (procedure)
+- 2020-05-21T23:37:35Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-28T00:17:54Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-05-27T23:37:35Z Systolic Blood Pressure: 118.0 mm[Hg]
+- 2021-05-27T23:37:35Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-27T23:37:35Z Body Height: 163.2 cm
+- 2021-05-27T23:37:35Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-05-27T23:37:35Z Body Weight: 58.8 kg
+- 2021-05-27T23:37:35Z Body Mass Index: 22.1 kg/m2
+- 2021-05-27T23:37:35Z Body mass index (BMI) [Percentile] Per age and gender: 60.3 %
+- 2021-05-27T23:37:35Z Diastolic Blood Pressure: 90.0 mm[Hg]
+- 2021-05-27T23:37:35Z Heart rate: 66.0 /min

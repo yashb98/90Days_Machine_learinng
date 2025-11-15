@@ -1,0 +1,79 @@
+== PATIENT RECORD: Noriko180 Herman763 (ID: 39b4eaac-6d32-3610-6cdf-20196fd708cb) ==
+
+== Demographics ==
+Patient ID: 39b4eaac-6d32-3610-6cdf-20196fd708cb
+Name: Noriko180 Herman763
+Gender: F
+Birthdate: 2005-04-13
+Address: 1024 Russel Divide Suite 36
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Child attention deficit disorder
+- Fracture of forearm
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Sputum examination (procedure) (Date: 2012-09-06T01:20:18Z)
+- Depression screening (procedure) (Date: 2017-05-03T09:20:18Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-03T09:20:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-03T09:33:54Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-09T09:20:18Z)
+- Assessment of substance use (procedure) (Date: 2018-05-09T09:49:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-09T10:02:38Z)
+- Anticipatory guidance (procedure) (Date: 2018-05-09T10:23:54Z)
+- Upper arm X-ray (Date: 2018-06-08T10:00:35Z)
+- Bone immobilization (Date: 2018-06-08T10:00:35Z)
+- Cognitive and behavioral therapy (Date: 2018-06-29T09:20:18Z)
+- Cognitive and behavioral therapy (Date: 2018-07-31T10:20:18Z)
+- Cognitive and behavioral therapy (Date: 2018-09-08T11:20:18Z)
+- Cognitive and behavioral therapy (Date: 2018-10-17T12:20:18Z)
+- Cognitive and behavioral therapy (Date: 2018-11-16T13:20:18Z)
+- Cognitive and behavioral therapy (Date: 2018-12-15T14:20:18Z)
+- Cognitive and behavioral therapy (Date: 2019-01-24T15:20:18Z)
+- Cognitive and behavioral therapy (Date: 2019-03-02T16:20:18Z)
+- Cognitive and behavioral therapy (Date: 2019-04-12T17:20:18Z)
+- Depression screening (procedure) (Date: 2019-05-15T09:20:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-15T09:31:21Z)
+- Assessment of substance use (procedure) (Date: 2019-05-15T09:55:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-05-15T10:08:28Z)
+- Anticipatory guidance (procedure) (Date: 2019-05-15T10:31:37Z)
+- Cognitive and behavioral therapy (Date: 2019-05-23T18:20:18Z)
+- Cognitive and behavioral therapy (Date: 2019-06-28T19:20:18Z)
+- Cognitive and behavioral therapy (Date: 2019-08-02T20:20:18Z)
+- Assessment of substance use (procedure) (Date: 2020-05-20T09:20:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-20T09:31:39Z)
+- Anticipatory guidance (procedure) (Date: 2020-05-20T09:59:13Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-26T09:20:18Z)
+- Depression screening (procedure) (Date: 2021-05-26T09:37:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-26T09:51:00Z)
+- Assessment of substance use (procedure) (Date: 2021-05-26T10:15:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-26T10:26:08Z)
+- Anticipatory guidance (procedure) (Date: 2021-05-26T10:46:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-08T09:20:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-18T09:20:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-26T09:20:18Z: Well child visit (procedure)
+- 2020-05-20T09:20:18Z: Well child visit (procedure)
+- 2019-08-02T20:20:18Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-05-26T10:15:42Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 23.0 {score}
+- 2021-05-26T09:37:56Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-05-26T09:20:18Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-26T09:20:18Z Hemoglobin [Mass/volume] in Blood: 16.0 g/dL
+- 2021-05-26T09:20:18Z Hematocrit [Volume Fraction] of Blood by Automated count: 44.8 %
+- 2021-05-26T09:20:18Z MCV [Entitic volume] by Automated count: 82.1 fL
+- 2021-05-26T09:20:18Z MCH [Entitic mass] by Automated count: 32.4 pg
+- 2021-05-26T09:20:18Z MCHC [Mass/volume] by Automated count: 34.2 g/dL
+- 2021-05-26T09:20:18Z Erythrocyte distribution width [Entitic volume] by Automated count: 39.2 fL
+- 2021-05-26T09:20:18Z Platelets [#/volume] in Blood by Automated count: 253.6 10*3/uL

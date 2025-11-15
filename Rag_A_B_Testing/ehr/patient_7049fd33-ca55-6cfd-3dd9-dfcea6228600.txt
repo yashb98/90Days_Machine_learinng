@@ -1,0 +1,73 @@
+== PATIENT RECORD: Parker433 Davis923 (ID: 7049fd33-ca55-6cfd-3dd9-dfcea6228600) ==
+
+== Demographics ==
+Patient ID: 7049fd33-ca55-6cfd-3dd9-dfcea6228600
+Name: Parker433 Davis923
+Gender: M
+Birthdate: 1979-01-18
+Address: 901 Hintz Harbor Apt 84
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Viral sinusitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-04-04T08:03:58Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-04T08:34:42Z)
+- Depression screening (procedure) (Date: 2013-04-04T09:06:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-04T09:18:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-07T08:03:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-07T08:49:09Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-07T09:11:38Z)
+- Depression screening (procedure) (Date: 2016-04-07T09:37:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-07T09:51:37Z)
+- Assessment of substance use (procedure) (Date: 2016-04-07T10:19:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-07T10:31:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-24T08:03:58Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-24T09:00:38Z)
+- Depression screening (procedure) (Date: 2019-01-24T09:26:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-24T09:38:11Z)
+- Assessment of substance use (procedure) (Date: 2019-01-24T09:59:54Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-24T10:10:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-28T08:03:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-28T08:03:58Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-28T08:47:37Z)
+- Depression screening (procedure) (Date: 2021-01-28T09:14:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-28T09:26:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-13T08:03:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-22T08:03:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-28T08:03:58Z: General examination of patient (procedure)
+- 2019-01-24T08:03:58Z: General examination of patient (procedure)
+- 2019-01-24T03:03:58Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-01-28T09:49:52Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-01-28T09:14:59Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- 2021-01-28T08:47:37Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-01-28T08:47:37Z What is your housing situation today?: I have housing nan
+- 2021-01-28T08:47:37Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-01-28T08:47:37Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-01-28T08:47:37Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-01-28T08:47:37Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: Yes  it has kept me from medical appointments or from getting my medications nan
+- 2021-01-28T08:47:37Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-01-28T08:47:37Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 91859 /a

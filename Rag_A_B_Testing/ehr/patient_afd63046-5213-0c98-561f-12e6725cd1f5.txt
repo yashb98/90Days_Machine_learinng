@@ -1,0 +1,108 @@
+== PATIENT RECORD: Pattie91 West559 (ID: afd63046-5213-0c98-561f-12e6725cd1f5) ==
+
+== Demographics ==
+Patient ID: afd63046-5213-0c98-561f-12e6725cd1f5
+Name: Pattie91 West559
+Gender: F
+Birthdate: 1956-10-25
+Address: 1020 Dibbert Crossroad
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Appendicitis
+- History of appendectomy
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Drug overdose
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-29T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-29T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-29T11:16:46Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-29T11:34:06Z)
+- Depression screening (procedure) (Date: 2012-11-29T11:59:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-29T12:13:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-05T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-05T10:39:56Z)
+- Depression screening (procedure) (Date: 2013-12-05T11:39:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-05T11:54:03Z)
+- Measurement of respiratory function (procedure) (Date: 2014-09-21T08:00:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-09T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-09T11:37:11Z)
+- Depression screening (procedure) (Date: 2014-10-09T12:06:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-09T12:21:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-11T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-11T11:28:20Z)
+- Depression screening (procedure) (Date: 2014-12-11T11:53:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-11T12:04:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-21T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-21T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-21T11:33:02Z)
+- Depression screening (procedure) (Date: 2015-05-21T11:59:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-21T12:10:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-17T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-17T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-17T11:29:09Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-17T11:56:03Z)
+- Depression screening (procedure) (Date: 2015-12-17T12:40:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-17T12:51:18Z)
+- Colonoscopy (Date: 2016-10-25T11:49:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-22T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-22T10:39:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-28T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-28T10:39:56Z)
+- Screening for domestic abuse (procedure) (Date: 2017-12-28T11:10:04Z)
+- Depression screening (procedure) (Date: 2017-12-28T11:38:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-28T11:51:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-03T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-03T11:33:40Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-03T12:02:29Z)
+- Depression screening (procedure) (Date: 2019-01-03T12:33:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-03T12:47:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-09T10:39:56Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-09T11:19:39Z)
+- Depression screening (procedure) (Date: 2020-01-09T11:49:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-09T12:01:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-14T10:39:56Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-14T10:39:56Z)
+- Screening for domestic abuse (procedure) (Date: 2021-01-14T11:30:57Z)
+- Depression screening (procedure) (Date: 2021-01-14T12:00:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-14T12:15:24Z)
+- Colonoscopy (Date: 2021-10-25T12:27:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-25T12:27:41Z: Encounter for 'check-up'
+- 2021-06-08T10:39:56Z: Encounter for problem (procedure)
+- 2021-05-09T10:39:56Z: Encounter for problem (procedure)
+- 2021-04-09T10:39:56Z: Encounter for problem (procedure)
+- 2021-03-25T10:39:56Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-25T10:39:56Z QOLS: 0.4 {score}
+- 2021-10-25T10:39:56Z DALY: 23.5 a
+- 2021-10-25T10:39:56Z QALY: 40.5 a
+- 2021-01-14T12:42:09Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-01-14T12:00:50Z Total score [HARK]: 4.0 {score}
+- 2021-01-14T11:30:57Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-01-14T11:30:57Z What address do you live at?: 1020 Dibbert Crossroad nan
+- 2021-01-14T11:30:57Z Are you worried about losing your housing?: No nan
+- 2021-01-14T11:30:57Z What is your current work situation?: Full-time work nan
+- 2021-01-14T11:30:57Z What is your housing situation today?: I have housing nan

@@ -1,0 +1,135 @@
+== PATIENT RECORD: Kelley882 Lockman863 (ID: 0f3fd5c2-7b2c-c3a7-a8da-9598c37470e2) ==
+
+== Demographics ==
+Patient ID: 0f3fd5c2-7b2c-c3a7-a8da-9598c37470e2
+Name: Kelley882 Lockman863
+Gender: M
+Birthdate: 1960-03-30
+Address: 205 Larkin Fort Apt 15
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Osteoarthritis of knee
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Polyp of colon
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Chronic congestive heart failure (disorder)
+- Reports of violence in the environment (finding)
+- Gout
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- Naproxen 500 MG Oral Tablet
+- Allopurinol 100 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-11-30T15:11:53Z)
+- Depression screening (procedure) (Date: 2011-11-30T15:58:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-11-30T16:12:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-05T15:11:53Z)
+- Depression screening (procedure) (Date: 2012-12-05T16:01:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-05T16:12:02Z)
+- Assessment of substance use (procedure) (Date: 2012-12-05T16:38:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-12-05T16:50:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-11T15:11:53Z)
+- Assessment of substance use (procedure) (Date: 2013-12-11T15:47:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-11T16:01:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-17T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-17T16:05:58Z)
+- Depression screening (procedure) (Date: 2014-12-17T16:29:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-17T16:41:03Z)
+- Assessment of substance use (procedure) (Date: 2014-12-17T17:08:36Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-17T17:21:00Z)
+- Colonoscopy (Date: 2015-03-31T15:42:42Z)
+- Screening for occult blood in feces (procedure) (Date: 2015-03-31T16:08:41Z)
+- Rectal polypectomy (Date: 2015-03-31T16:08:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-23T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-23T16:03:22Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-23T16:26:53Z)
+- Depression screening (procedure) (Date: 2015-12-23T17:07:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-23T17:18:11Z)
+- Assessment of substance use (procedure) (Date: 2015-12-23T17:38:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-23T17:51:48Z)
+- Colonoscopy (Date: 2016-04-20T16:08:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-28T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-28T15:56:47Z)
+- Assessment of substance use (procedure) (Date: 2016-12-28T16:12:58Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-28T16:23:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-03T15:11:53Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-03T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-03T15:45:30Z)
+- Screening for domestic abuse (procedure) (Date: 2018-01-03T16:08:09Z)
+- Depression screening (procedure) (Date: 2018-01-03T16:48:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-03T16:59:52Z)
+- Assessment of substance use (procedure) (Date: 2018-01-03T17:24:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-03T17:37:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-09T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-09T16:08:01Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-09T16:30:31Z)
+- Depression screening (procedure) (Date: 2019-01-09T17:00:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-09T17:10:45Z)
+- Electrocardiographic procedure (Date: 2019-09-10T15:11:53Z)
+- Cardiovascular stress testing (procedure) (Date: 2019-09-10T15:20:23Z)
+- Plain chest X-ray (procedure) (Date: 2019-09-10T16:16:41Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2019-09-10T16:16:41Z)
+- Echocardiography (procedure) (Date: 2019-09-28T16:34:14Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-28T16:34:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-15T15:11:53Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-15T16:04:58Z)
+- Depression screening (procedure) (Date: 2020-01-15T16:24:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-15T16:36:05Z)
+- Assessment of substance use (procedure) (Date: 2020-01-15T16:59:50Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-15T17:14:31Z)
+- Echocardiography (procedure) (Date: 2020-03-26T16:34:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-26T16:34:14Z)
+- Echocardiography (procedure) (Date: 2020-09-22T16:34:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-22T16:34:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-20T15:11:53Z)
+- Depression screening (procedure) (Date: 2021-01-20T15:54:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-20T16:06:12Z)
+- Oxygen administration by mask (procedure) (Date: 2021-03-21T16:34:14Z)
+- Placing subject in prone position (procedure) (Date: 2021-03-21T16:34:14Z)
+- Plain chest X-ray (procedure) (Date: 2021-03-21T16:34:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-21T16:34:14Z)
+- Electrocardiographic procedure (Date: 2021-03-21T16:34:14Z)
+- Oxygen administration by mask (procedure) (Date: 2021-03-21T16:43:32Z)
+- Placing subject in prone position (procedure) (Date: 2021-03-21T16:43:32Z)
+- Heart failure education (procedure) (Date: 2021-03-22T16:43:32Z)
+- Colonoscopy (Date: 2021-04-20T16:34:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-11T15:11:53Z: Death Certification
+- 2021-08-03T17:17:10Z: Telemedicine consultation with patient
+- 2021-08-02T17:17:10Z: Telemedicine consultation with patient
+- 2021-07-31T17:17:10Z: Telemedicine consultation with patient
+- 2021-07-30T17:17:10Z: Telemedicine consultation with patient
+
+== Recent Observations (Last 10) ==
+- 2021-08-11T15:11:53Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2021-08-03T17:17:10Z Systolic Blood Pressure: 116.0 mm[Hg]
+- 2021-08-03T17:17:10Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-08-02T17:17:10Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-08-02T17:17:10Z Systolic Blood Pressure: 120.0 mm[Hg]
+- 2021-07-31T17:17:10Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-07-31T17:17:10Z Systolic Blood Pressure: 127.0 mm[Hg]
+- 2021-07-30T17:17:10Z Systolic Blood Pressure: 130.0 mm[Hg]
+- 2021-07-30T17:17:10Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-07-27T17:17:10Z Systolic Blood Pressure: 136.0 mm[Hg]

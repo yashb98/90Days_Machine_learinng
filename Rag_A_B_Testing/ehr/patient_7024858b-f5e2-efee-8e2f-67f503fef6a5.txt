@@ -1,0 +1,84 @@
+== PATIENT RECORD: Rosalia943 Klocko335 (ID: 7024858b-f5e2-efee-8e2f-67f503fef6a5) ==
+
+== Demographics ==
+Patient ID: 7024858b-f5e2-efee-8e2f-67f503fef6a5
+Name: Rosalia943 Klocko335
+Gender: F
+Birthdate: 1969-01-03
+Address: 898 Wisoky Green
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Norinyl 1+50 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ortho Tri-Cyclen 28 Day Pack
+- Levonorgestrel 0.00354 MG/HR Drug Implant
+- Diazepam 5 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1987-02-28T04:45:24Z)
+- Medication Reconciliation (procedure) (Date: 1987-02-28T04:45:24Z)
+- Assessment of anxiety (procedure) (Date: 1987-02-28T05:30:13Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-03-05T04:45:24Z)
+- Medication Reconciliation (procedure) (Date: 1988-03-05T04:45:24Z)
+- Depression screening (procedure) (Date: 1988-03-05T05:33:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-03-05T05:45:16Z)
+- Assessment of substance use (procedure) (Date: 1988-03-05T06:10:15Z)
+- Screening for drug abuse (procedure) (Date: 1988-03-05T06:23:39Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-03-09T04:45:24Z)
+- Assessment of anxiety (procedure) (Date: 1991-03-09T05:26:07Z)
+- Screening for domestic abuse (procedure) (Date: 1991-03-09T05:51:56Z)
+- Depression screening (procedure) (Date: 1991-03-09T06:35:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-03-09T06:48:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-03-12T04:45:24Z)
+- Depression screening (procedure) (Date: 1994-03-12T05:41:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-03-12T05:52:24Z)
+- Assessment of substance use (procedure) (Date: 1994-03-12T06:17:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1994-03-12T06:31:57Z)
+- Insertion of subcutaneous contraceptive (Date: 1995-10-28T04:45:24Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1996-01-18T04:45:24Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1996-07-13T06:03:23Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-12-07T04:45:24Z)
+- Medication Reconciliation (procedure) (Date: 1996-12-07T04:45:24Z)
+- Assessment of anxiety (procedure) (Date: 1996-12-07T05:24:27Z)
+- Screening for domestic abuse (procedure) (Date: 1996-12-07T05:45:50Z)
+- Depression screening (procedure) (Date: 1996-12-07T06:26:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-12-07T06:36:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1996-12-07T06:59:33Z)
+- Assessment of substance use (procedure) (Date: 1996-12-07T07:21:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-12-07T07:32:23Z)
+
+== Recent Encounters (Last 5) ==
+- 1997-02-22T04:45:24Z: Death Certification
+- 1996-12-07T04:45:24Z: Encounter for check up (procedure)
+- 1996-11-27T17:45:24Z: Encounter for symptom
+- 1996-10-22T05:17:38Z: Consultation for treatment
+- 1996-07-13T06:03:23Z: Emergency Room Admission
+
+== Recent Observations (Last 10) ==
+- 1997-02-22T04:45:24Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1996-12-07T07:53:04Z Total score [AUDIT-C]: 2.0 {score}
+- 1996-12-07T07:21:32Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 14.0 {score}
+- 1996-12-07T06:59:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 1996-12-07T06:26:07Z Total score [HARK]: 0.0 {score}
+- 1996-12-07T05:45:50Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 1996-12-07T05:24:27Z What is your current work situation?: Full-time work nan
+- 1996-12-07T05:24:27Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1996-12-07T05:24:27Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1996-12-07T05:24:27Z Are you a refugee?: No nan

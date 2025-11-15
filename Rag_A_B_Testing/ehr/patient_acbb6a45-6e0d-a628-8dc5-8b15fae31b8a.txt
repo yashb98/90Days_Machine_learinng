@@ -1,0 +1,47 @@
+== PATIENT RECORD: Brunilda665 Will178 (ID: acbb6a45-6e0d-a628-8dc5-8b15fae31b8a) ==
+
+== Demographics ==
+Patient ID: acbb6a45-6e0d-a628-8dc5-8b15fae31b8a
+Name: Brunilda665 Will178
+Gender: F
+Birthdate: 2018-09-26
+Address: 956 Walker Neck Apt 1
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-09-26T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-31T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-02T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-06T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-05T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-04T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-02T16:45:30Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-01T16:45:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-01T16:45:30Z: Well child visit (procedure)
+- 2021-03-03T16:45:30Z: Well child visit (procedure)
+- 2020-09-02T16:45:30Z: Well child visit (procedure)
+- 2020-03-04T16:45:30Z: Well child visit (procedure)
+- 2019-12-04T16:45:30Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-26T16:45:30Z QOLS: 1.0 {score}
+- 2021-09-26T16:45:30Z DALY: 0.0 a
+- 2021-09-26T16:45:30Z QALY: 2.0 a
+- 2021-09-01T16:45:30Z Systolic Blood Pressure: 110.0 mm[Hg]
+- 2021-09-01T16:45:30Z Body Height: 89.8 cm
+- 2021-09-01T16:45:30Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-09-01T16:45:30Z Body Weight: 11.9 kg
+- 2021-09-01T16:45:30Z Weight-for-length Per age and sex: 13.6 %
+- 2021-09-01T16:45:30Z Head Occipital-frontal circumference: 47.0 cm
+- 2021-09-01T16:45:30Z Body Mass Index: 14.8 kg/m2

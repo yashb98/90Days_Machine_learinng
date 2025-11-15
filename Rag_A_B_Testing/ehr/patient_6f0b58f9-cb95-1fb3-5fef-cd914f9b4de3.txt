@@ -1,0 +1,165 @@
+== PATIENT RECORD: Devon268 Bernhard322 (ID: 6f0b58f9-cb95-1fb3-5fef-cd914f9b4de3) ==
+
+== Demographics ==
+Patient ID: 6f0b58f9-cb95-1fb3-5fef-cd914f9b4de3
+Name: Devon268 Bernhard322
+Gender: F
+Birthdate: 1980-11-15
+Address: 1065 Sporer Underpass
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Concussion with no loss of consciousness
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Escherichia coli urinary tract infection
+- Normal pregnancy
+- Miscarriage in first trimester
+- Fetus with unknown complication
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Preeclampsia
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Jolivette 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-24T17:04:34Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-24T17:04:34Z)
+- Depression screening (procedure) (Date: 2012-03-24T17:49:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-24T18:03:48Z)
+- Assessment of substance use (procedure) (Date: 2012-03-24T18:32:38Z)
+- Screening for drug abuse (procedure) (Date: 2012-03-24T18:44:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-30T17:04:34Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-30T17:41:45Z)
+- Depression screening (procedure) (Date: 2013-03-30T18:04:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-30T18:15:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-05T17:04:34Z)
+- Depression screening (procedure) (Date: 2014-04-05T17:51:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-05T18:04:24Z)
+- Assessment of substance use (procedure) (Date: 2014-04-05T18:25:25Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-05T18:39:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-11T17:04:34Z)
+- Depression screening (procedure) (Date: 2015-04-11T18:02:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-11T18:13:12Z)
+- Assessment of substance use (procedure) (Date: 2015-04-11T18:41:36Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-11T18:52:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-16T17:04:34Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-16T17:36:28Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-16T18:04:25Z)
+- Assessment of substance use (procedure) (Date: 2016-04-16T18:45:01Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-16T18:58:56Z)
+- Standard pregnancy test (Date: 2016-07-09T17:04:34Z)
+- Ultrasound scan for fetal viability (Date: 2016-07-09T17:04:34Z)
+- Physical examination (Date: 2016-07-21T17:04:34Z)
+- Depression screening (Date: 2016-07-21T17:04:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-22T17:04:34Z)
+- Depression screening (procedure) (Date: 2017-04-22T17:52:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-22T18:03:31Z)
+- Assessment of substance use (procedure) (Date: 2017-04-22T18:24:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-22T18:35:39Z)
+- Standard pregnancy test (Date: 2017-12-23T17:04:34Z)
+- Ultrasound scan for fetal viability (Date: 2017-12-23T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2017-12-23T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2017-12-23T17:04:34Z)
+- Blood typing  RH typing (Date: 2017-12-23T17:04:34Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-12-23T17:04:34Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2017-12-23T17:04:34Z)
+- Human immunodeficiency virus antigen test (Date: 2017-12-23T17:04:34Z)
+- Chlamydia antigen test (Date: 2017-12-23T17:04:34Z)
+- Gonorrhea infection test (Date: 2017-12-23T17:04:34Z)
+- Syphilis infection test (Date: 2017-12-23T17:04:34Z)
+- Urine culture (Date: 2017-12-23T17:04:34Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2017-12-23T17:04:34Z)
+- Urine screening test for diabetes (Date: 2017-12-23T17:04:34Z)
+- Hepatitis C antibody test (Date: 2017-12-23T17:04:34Z)
+- Rubella screening (Date: 2017-12-23T17:04:34Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2017-12-23T17:04:34Z)
+- Skin test for tuberculosis (Date: 2017-12-23T17:04:34Z)
+- Urine protein test (Date: 2017-12-23T17:04:34Z)
+- Physical examination of mother (Date: 2017-12-23T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-01-20T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-01-20T17:04:34Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2018-01-20T17:04:34Z)
+- Fetal anatomy study (Date: 2018-02-17T17:04:34Z)
+- Alpha-fetoprotein test (Date: 2018-02-17T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-02-17T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-02-17T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-03-17T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-03-17T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-04-14T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-04-14T17:04:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-28T17:04:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-28T17:04:34Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-05-12T17:04:34Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2018-05-12T17:04:34Z)
+- Urine screening for glucose (Date: 2018-05-12T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-05-12T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-05-12T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-06-09T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-06-09T17:04:34Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2018-07-07T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-07-07T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-07-07T17:04:34Z)
+- Evaluation of uterine fundal height (Date: 2018-07-21T17:04:34Z)
+- Auscultation of the fetal heart (Date: 2018-07-21T17:04:34Z)
+- Childbirth (Date: 2018-07-28T17:04:34Z)
+- Physical examination following birth (Date: 2018-09-08T17:04:34Z)
+- Depression screening (Date: 2018-09-08T17:04:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-04T17:04:34Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-04T17:04:34Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-04T17:46:09Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-04T18:11:21Z)
+- Insertion of subcutaneous contraceptive (Date: 2019-09-11T17:04:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-09T17:04:34Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-09T17:04:34Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-09T17:45:15Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-09T18:11:18Z)
+- Depression screening (procedure) (Date: 2020-05-09T18:39:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-09T18:53:00Z)
+- Assessment of substance use (procedure) (Date: 2020-05-09T19:14:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-09T19:25:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-15T17:04:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-15T17:04:34Z)
+- Assessment of substance use (procedure) (Date: 2021-05-15T18:02:31Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-15T18:13:22Z)
+- Removal of subcutaneous contraceptive (Date: 2021-10-02T17:04:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-02T17:04:34Z: Patient encounter procedure
+- 2021-08-31T17:36:44Z: Consultation for treatment
+- 2021-07-31T17:04:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-15T17:04:34Z: General examination of patient (procedure)
+- 2020-09-05T17:36:44Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T17:04:34Z QOLS: 0.9 {score}
+- 2021-11-15T17:04:34Z DALY: 0.6 a
+- 2021-11-15T17:04:34Z QALY: 39.4 a
+- 2021-05-15T18:37:24Z Total score [DAST-10]: 0.0 {score}
+- 2021-05-15T18:02:31Z Which race(s) are you?: White nan
+- 2021-05-15T18:02:31Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-05-15T18:02:31Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-05-15T18:02:31Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-15T18:02:31Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 73377 /a
+- 2021-05-15T18:02:31Z What is your main insurance?: Private insurance nan

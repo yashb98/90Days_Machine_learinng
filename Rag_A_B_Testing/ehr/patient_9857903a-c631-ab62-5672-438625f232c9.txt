@@ -1,0 +1,53 @@
+== PATIENT RECORD: Felice694 Rodriguez71 (ID: 9857903a-c631-ab62-5672-438625f232c9) ==
+
+== Demographics ==
+Patient ID: 9857903a-c631-ab62-5672-438625f232c9
+Name: Felice694 Rodriguez71
+Gender: F
+Birthdate: 2008-12-20
+Address: 604 Brekke Haven
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-11-26T20:00:14Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-06T20:00:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-23T20:00:14Z)
+- Throat culture (procedure) (Date: 2019-01-12T01:00:14Z)
+- Depression screening (procedure) (Date: 2021-01-09T20:00:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-09T20:00:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-01-09T20:10:18Z)
+- Assessment of substance use (procedure) (Date: 2021-01-09T20:33:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-01-09T20:46:40Z)
+- Anticipatory guidance (procedure) (Date: 2021-01-09T21:07:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T20:00:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-16T20:00:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-09T20:00:14Z: Well child visit (procedure)
+- 2020-01-04T20:00:14Z: Well child visit (procedure)
+- 2019-01-12T01:00:14Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-01-09T20:33:18Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-01-09T20:00:14Z Body Height: 146.0 cm
+- 2021-01-09T20:00:14Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-01-09T20:00:14Z Body Weight: 33.7 kg
+- 2021-01-09T20:00:14Z Body Mass Index: 15.8 kg/m2
+- 2021-01-09T20:00:14Z Body mass index (BMI) [Percentile] Per age and gender: 14.9 %
+- 2021-01-09T20:00:14Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-01-09T20:00:14Z Systolic Blood Pressure: 102.0 mm[Hg]
+- 2021-01-09T20:00:14Z Heart rate: 69.0 /min
+- 2021-01-09T20:00:14Z Respiratory rate: 14.0 /min

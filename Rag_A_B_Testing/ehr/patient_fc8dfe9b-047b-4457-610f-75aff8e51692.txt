@@ -1,0 +1,112 @@
+== PATIENT RECORD: Colin861 Barrows492 (ID: fc8dfe9b-047b-4457-610f-75aff8e51692) ==
+
+== Demographics ==
+Patient ID: fc8dfe9b-047b-4457-610f-75aff8e51692
+Name: Colin861 Barrows492
+Gender: M
+Birthdate: 1999-09-07
+Address: 886 Rutherford Wynd Suite 40
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Only received primary school education (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Has a criminal record (finding)
+- Acute viral pharyngitis (disorder)
+- Misuses drugs (finding)
+- Full-time employment (finding)
+- Stress (finding)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-10-02T10:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-02T10:04:14Z)
+- Depression screening (procedure) (Date: 2012-10-02T10:34:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-10-02T10:44:31Z)
+- Assessment of substance use (procedure) (Date: 2012-10-02T11:08:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-10-02T11:19:39Z)
+- Anticipatory guidance (procedure) (Date: 2012-10-02T11:40:03Z)
+- Sputum examination (procedure) (Date: 2012-12-30T02:04:14Z)
+- Assessment of anxiety (procedure) (Date: 2013-01-08T10:04:14Z)
+- Depression screening (procedure) (Date: 2013-01-08T10:22:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-01-08T10:33:43Z)
+- Assessment of substance use (procedure) (Date: 2013-01-08T11:01:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-01-08T11:15:36Z)
+- Anticipatory guidance (procedure) (Date: 2013-01-08T11:34:08Z)
+- Depression screening (procedure) (Date: 2013-10-08T10:04:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-10-08T10:14:34Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-14T10:04:14Z)
+- Depression screening (procedure) (Date: 2014-10-14T10:27:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-10-14T10:41:36Z)
+- Assessment of substance use (procedure) (Date: 2014-10-14T11:07:53Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-10-14T11:21:51Z)
+- Anticipatory guidance (procedure) (Date: 2014-10-14T11:46:21Z)
+- Depression screening (procedure) (Date: 2015-10-20T10:04:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-20T10:17:06Z)
+- Assessment of substance use (procedure) (Date: 2015-10-20T10:45:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-10-20T10:59:49Z)
+- Health risks education (procedure) (Date: 2015-10-20T11:25:30Z)
+- Assessment of substance use (procedure) (Date: 2016-10-25T10:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-25T10:04:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-25T10:17:47Z)
+- Anticipatory guidance (procedure) (Date: 2016-10-25T10:46:06Z)
+- Sputum examination (procedure) (Date: 2017-08-17T20:14:05Z)
+- Depression screening (procedure) (Date: 2017-08-22T10:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-22T10:04:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-22T10:16:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-31T10:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-31T10:04:14Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-31T10:59:19Z)
+- Depression screening (procedure) (Date: 2017-10-31T11:28:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-31T11:38:51Z)
+- Assessment of substance use (procedure) (Date: 2017-10-31T12:06:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-31T12:19:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-06T10:04:14Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-06T10:42:06Z)
+- Assessment of substance use (procedure) (Date: 2018-11-06T11:07:51Z)
+- Screening for drug abuse (procedure) (Date: 2018-11-06T11:19:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-12T10:04:14Z)
+- Depression screening (procedure) (Date: 2019-11-12T10:41:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-12T10:52:45Z)
+- Assessment of substance use (procedure) (Date: 2019-11-12T11:14:31Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-12T11:29:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-17T10:04:14Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-17T10:54:57Z)
+- Depression screening (procedure) (Date: 2020-11-17T11:14:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-17T11:25:02Z)
+- Assessment of substance use (procedure) (Date: 2020-11-17T11:46:29Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-17T11:56:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-11-17T10:04:14Z: General examination of patient (procedure)
+- 2019-11-12T10:04:14Z: General examination of patient (procedure)
+- 2018-11-06T10:04:14Z: General examination of patient (procedure)
+- 2018-08-02T18:04:14Z: Encounter for symptom
+- 2017-10-31T10:04:14Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-07T10:04:14Z QOLS: 1.0 {score}
+- 2021-09-07T10:04:14Z DALY: 0.0 a
+- 2021-09-07T10:04:14Z QALY: 21.0 a
+- 2020-11-17T12:21:01Z Total score [DAST-10]: 1.0 {score}
+- 2020-11-17T11:46:29Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-11-17T11:14:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 12.0 {score}
+- 2020-11-17T10:54:57Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-11-17T10:54:57Z What is your current work situation?: Part-time or temporary work nan
+- 2020-11-17T10:54:57Z What is your main insurance?: Private insurance nan
+- 2020-11-17T10:54:57Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 54196 /a

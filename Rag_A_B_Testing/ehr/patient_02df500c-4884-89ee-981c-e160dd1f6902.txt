@@ -1,0 +1,57 @@
+== PATIENT RECORD: Tijuana228 Abbott774 (ID: 02df500c-4884-89ee-981c-e160dd1f6902) ==
+
+== Demographics ==
+Patient ID: 02df500c-4884-89ee-981c-e160dd1f6902
+Name: Tijuana228 Abbott774
+Gender: F
+Birthdate: 2012-11-06
+Address: 926 Kiehn Alley Suite 71
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Cough (finding)
+- Fatigue (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-12-11T06:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-12T06:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-16T06:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-14T06:36:35Z)
+- Measurement of respiratory function (procedure) (Date: 2014-03-03T13:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-14T06:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-17T06:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-03T06:36:35Z)
+- Face mask (physical object) (Date: 2020-12-10T06:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-09T06:36:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T06:36:35Z: Well child visit (procedure)
+- 2021-05-21T09:36:35Z: Encounter for symptom
+- 2020-12-10T06:36:35Z: Encounter for symptom (procedure)
+- 2020-11-03T06:36:35Z: Well child visit (procedure)
+- 2020-11-02T16:36:35Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T06:36:35Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-11-09T06:36:35Z Body Height: 131.9 cm
+- 2021-11-09T06:36:35Z Body Weight: 33.0 kg
+- 2021-11-09T06:36:35Z Body Mass Index: 19.0 kg/m2
+- 2021-11-09T06:36:35Z Body mass index (BMI) [Percentile] Per age and gender: 84.1 %
+- 2021-11-09T06:36:35Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-11-09T06:36:35Z Systolic Blood Pressure: 104.0 mm[Hg]
+- 2021-11-09T06:36:35Z Heart rate: 88.0 /min
+- 2021-11-09T06:36:35Z Respiratory rate: 15.0 /min
+- 2021-11-09T06:36:35Z Tobacco smoking status NHIS: Never smoker nan

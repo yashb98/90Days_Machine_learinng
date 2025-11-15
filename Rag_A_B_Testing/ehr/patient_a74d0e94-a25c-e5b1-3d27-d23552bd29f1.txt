@@ -1,0 +1,57 @@
+== PATIENT RECORD: Sydney660 O'Hara248 (ID: a74d0e94-a25c-e5b1-3d27-d23552bd29f1) ==
+
+== Demographics ==
+Patient ID: a74d0e94-a25c-e5b1-3d27-d23552bd29f1
+Name: Sydney660 O'Hara248
+Gender: M
+Birthdate: 2014-05-13
+Address: 156 Muller Ferry
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Fracture of clavicle
+- Second degree burn
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-05-13T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-17T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-19T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-20T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-21T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-18T08:09:58Z)
+- Throat culture (procedure) (Date: 2017-01-28T15:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-18T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-17T08:09:58Z)
+- Clavicle X-ray (Date: 2018-01-22T08:09:58Z)
+- Admission to orthopedic department (Date: 2018-01-22T08:09:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-04-17T08:09:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-17T08:09:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-04T08:09:58Z: Well child visit (procedure)
+- 2020-07-27T09:58:58Z: Encounter for 'check-up'
+- 2020-06-18T09:58:58Z: Emergency room admission (procedure)
+- 2020-04-28T08:09:58Z: Well child visit (procedure)
+- 2020-02-27T23:09:58Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-13T08:09:58Z QOLS: 1.0 {score}
+- 2021-05-13T08:09:58Z DALY: 0.1 a
+- 2021-05-13T08:09:58Z QALY: 5.9 a
+- 2021-05-04T08:09:58Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-04T08:09:58Z Body Height: 121.4 cm
+- 2021-05-04T08:09:58Z Body Weight: 25.2 kg
+- 2021-05-04T08:09:58Z Body Mass Index: 17.1 kg/m2
+- 2021-05-04T08:09:58Z Body mass index (BMI) [Percentile] Per age and gender: 82.2 %
+- 2021-05-04T08:09:58Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-05-04T08:09:58Z Systolic Blood Pressure: 129.0 mm[Hg]

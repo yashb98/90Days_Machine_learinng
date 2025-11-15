@@ -1,0 +1,129 @@
+== PATIENT RECORD: Mathew182 O'Conner199 (ID: 987453c3-b90f-a21e-08b8-3e940923c52b) ==
+
+== Demographics ==
+Patient ID: 987453c3-b90f-a21e-08b8-3e940923c52b
+Name: Mathew182 O'Conner199
+Gender: M
+Birthdate: 1942-03-08
+Address: 767 Green Track Apt 63
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Transport problems (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Diabetes
+- Anemia (disorder)
+- Hypertension
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Social isolation (finding)
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Not in labor force (finding)
+- Osteoporosis (disorder)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- amLODIPine 2.5 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-02T11:09:45Z)
+- Bone density scan (procedure) (Date: 2012-09-02T11:09:45Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-02T11:57:10Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-09-02T12:19:46Z)
+- Assessment of substance use (procedure) (Date: 2012-09-02T12:47:25Z)
+- Screening for drug abuse (procedure) (Date: 2012-09-02T13:02:18Z)
+- Colonoscopy (Date: 2013-03-16T13:56:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-08T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-08T11:09:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-09-08T11:41:29Z)
+- Depression screening (procedure) (Date: 2013-09-08T12:08:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-08T12:22:54Z)
+- Assessment of substance use (procedure) (Date: 2013-09-08T12:50:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-09-08T13:00:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-14T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-14T11:09:45Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-14T12:08:04Z)
+- Depression screening (procedure) (Date: 2014-09-14T12:36:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-14T12:49:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-20T11:09:45Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-20T11:59:38Z)
+- Screening for domestic abuse (procedure) (Date: 2015-09-20T12:21:27Z)
+- Depression screening (procedure) (Date: 2015-09-20T12:56:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-20T13:06:39Z)
+- Assessment of substance use (procedure) (Date: 2015-09-20T13:33:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-09-20T13:47:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-06T11:09:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-06T12:00:26Z)
+- Depression screening (procedure) (Date: 2015-12-06T12:18:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-06T12:30:16Z)
+- Assessment of substance use (procedure) (Date: 2015-12-06T12:55:13Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-06T13:06:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-25T11:09:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-09-25T11:56:10Z)
+- Screening for domestic abuse (procedure) (Date: 2016-09-25T12:16:39Z)
+- Depression screening (procedure) (Date: 2016-09-25T12:56:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-25T13:10:04Z)
+- Assessment of substance use (procedure) (Date: 2016-09-25T13:34:53Z)
+- Screening for drug abuse (procedure) (Date: 2016-09-25T13:49:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-01T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-01T11:09:45Z)
+- Depression screening (procedure) (Date: 2017-10-01T11:43:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-01T11:56:18Z)
+- Assessment of substance use (procedure) (Date: 2017-10-01T12:24:51Z)
+- Screening for drug abuse (procedure) (Date: 2017-10-01T12:38:44Z)
+- Colonoscopy (Date: 2018-03-16T14:32:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-07T11:09:45Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-07T11:54:51Z)
+- Screening for domestic abuse (procedure) (Date: 2018-10-07T12:24:46Z)
+- Depression screening (procedure) (Date: 2018-10-07T13:04:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-07T13:16:02Z)
+- Assessment of substance use (procedure) (Date: 2018-10-07T13:36:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-07T13:46:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-13T11:09:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-10-13T12:07:36Z)
+- Screening for domestic abuse (procedure) (Date: 2019-10-13T12:31:48Z)
+- Assessment of substance use (procedure) (Date: 2019-10-13T13:11:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-13T13:24:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-18T11:09:45Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-18T11:56:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-10-18T12:14:23Z)
+- Depression screening (procedure) (Date: 2020-10-18T12:41:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-18T12:55:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-24T11:09:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-10-24T12:07:20Z)
+- Depression screening (procedure) (Date: 2021-10-24T12:35:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-24T12:49:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-24T11:09:45Z: General examination of patient (procedure)
+- 2021-02-28T11:09:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-31T11:09:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-18T11:09:45Z: General examination of patient (procedure)
+- 2019-10-13T11:09:45Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T13:13:44Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-24T12:35:47Z Fall risk total [Morse Fall Scale]: 42.0 {#}
+- 2021-10-24T12:35:47Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-10-24T12:07:20Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-10-24T12:07:20Z What is your current work situation?: Full-time work nan
+- 2021-10-24T12:07:20Z What language are you most comfortable speaking?: English nan
+- 2021-10-24T12:07:20Z What is your housing situation today?: I have housing nan
+- 2021-10-24T12:07:20Z Are you worried about losing your housing?: Yes nan
+- 2021-10-24T12:07:20Z What address do you live at?: 767 Green Track Apt 63 nan
+- 2021-10-24T12:07:20Z What is the highest level of school that you have finished?: More than high school nan

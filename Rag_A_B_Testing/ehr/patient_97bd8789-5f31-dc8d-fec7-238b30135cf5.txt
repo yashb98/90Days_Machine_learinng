@@ -1,0 +1,64 @@
+== PATIENT RECORD: Franklyn361 Abshire638 (ID: 97bd8789-5f31-dc8d-fec7-238b30135cf5) ==
+
+== Demographics ==
+Patient ID: 97bd8789-5f31-dc8d-fec7-238b30135cf5
+Name: Franklyn361 Abshire638
+Gender: M
+Birthdate: 1995-01-04
+Address: 884 Bergstrom Meadow Suite 49
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Viral sinusitis (disorder)
+- Sprain of wrist
+
+== Current Medications ==
+- clonazePAM 0.25 MG Oral Tablet
+- Carbamazepine[Tegretol]
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Diazepam 5 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1998-12-09T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 1999-12-15T21:45:21Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2000-04-05T21:45:21Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2001-02-05T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2003-01-01T21:45:21Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2003-05-29T21:45:21Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2003-09-09T22:48:26Z)
+- Medication Reconciliation (procedure) (Date: 2004-01-07T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2005-01-12T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2006-01-18T21:45:21Z)
+- Assessment of anxiety (procedure) (Date: 2007-01-24T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2007-01-24T21:45:21Z)
+- Depression screening (procedure) (Date: 2007-01-24T22:04:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2007-01-24T22:15:41Z)
+- Assessment of anxiety (procedure) (Date: 2008-01-30T21:45:21Z)
+- Depression screening (procedure) (Date: 2008-01-30T22:01:01Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2008-01-30T22:11:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2008-06-25T21:45:21Z: Death Certification
+- 2008-04-21T21:45:21Z: Emergency room admission (procedure)
+- 2008-01-30T21:45:21Z: Well child visit (procedure)
+- 2007-01-24T21:45:21Z: Well child visit (procedure)
+- 2006-01-18T21:45:21Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2008-06-25T21:45:21Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 2008-01-30T22:35:18Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2008-01-30T22:01:01Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2008-01-30T21:45:21Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2008-01-30T21:45:21Z Body Height: 145.9 cm
+- 2008-01-30T21:45:21Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2008-01-30T21:45:21Z Body Weight: 54.1 kg
+- 2008-01-30T21:45:21Z Body mass index (BMI) [Percentile] Per age and gender: 95.3 %
+- 2008-01-30T21:45:21Z Body Mass Index: 25.4 kg/m2
+- 2008-01-30T21:45:21Z Systolic Blood Pressure: 131.0 mm[Hg]

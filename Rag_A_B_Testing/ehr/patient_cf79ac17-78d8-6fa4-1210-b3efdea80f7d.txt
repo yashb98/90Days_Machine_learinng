@@ -1,0 +1,101 @@
+== PATIENT RECORD: Francisco472 Mora209 (ID: cf79ac17-78d8-6fa4-1210-b3efdea80f7d) ==
+
+== Demographics ==
+Patient ID: cf79ac17-78d8-6fa4-1210-b3efdea80f7d
+Name: Francisco472 Mora209
+Gender: M
+Birthdate: 1974-06-27
+Address: 478 Rosenbaum Common Apt 50
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Refugee (person)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Injury of tendon of the rotator cuff of shoulder
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-08T07:09:14Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-08T07:09:14Z)
+- Assessment of substance use (procedure) (Date: 2011-12-08T07:43:37Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-08T07:54:41Z)
+- Vasectomy (Date: 2012-09-08T07:09:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-13T07:09:14Z)
+- Depression screening (procedure) (Date: 2012-12-13T07:55:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-13T08:09:03Z)
+- Assessment of substance use (procedure) (Date: 2012-12-13T08:32:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-12-13T08:44:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-19T07:09:14Z)
+- Screening for domestic abuse (procedure) (Date: 2013-12-19T07:47:08Z)
+- Depression screening (procedure) (Date: 2013-12-19T08:20:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-19T08:34:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-25T07:09:14Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-25T07:59:16Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-25T08:14:27Z)
+- Depression screening (procedure) (Date: 2014-12-25T08:42:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-25T08:53:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-31T07:09:14Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-31T07:09:14Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-31T07:55:39Z)
+- Depression screening (procedure) (Date: 2015-12-31T08:12:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-31T08:25:23Z)
+- Assessment of substance use (procedure) (Date: 2015-12-31T08:48:07Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-31T09:00:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-05T07:09:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-05T07:09:14Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-05T07:53:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-11T07:09:14Z)
+- Assessment of substance use (procedure) (Date: 2018-01-11T07:59:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-11T08:13:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-17T07:09:14Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-17T08:07:10Z)
+- Assessment of substance use (procedure) (Date: 2019-01-17T08:35:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-17T08:47:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-23T07:09:14Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-23T08:07:40Z)
+- Depression screening (procedure) (Date: 2020-01-23T08:26:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-23T08:41:17Z)
+- Assessment of substance use (procedure) (Date: 2020-01-23T09:02:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-23T09:16:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-28T07:09:14Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-28T07:56:45Z)
+- Depression screening (procedure) (Date: 2021-01-28T08:18:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-28T08:29:50Z)
+- Assessment of substance use (procedure) (Date: 2021-01-28T08:51:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-01-28T09:02:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-18T07:09:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-28T07:09:14Z: General examination of patient (procedure)
+- 2021-01-21T07:09:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-01-23T07:09:14Z: General examination of patient (procedure)
+- 2019-01-17T07:09:14Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-27T07:09:14Z QOLS: 1.0 {score}
+- 2021-06-27T07:09:14Z DALY: 0.0 a
+- 2021-06-27T07:09:14Z QALY: 46.0 a
+- 2021-01-28T09:29:20Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-01-28T08:51:18Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-01-28T08:18:24Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-01-28T07:56:45Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-01-28T07:56:45Z Are you a refugee?: Yes nan
+- 2021-01-28T07:56:45Z What is your housing situation today?: I have housing nan
+- 2021-01-28T07:56:45Z Are you worried about losing your housing?: No nan

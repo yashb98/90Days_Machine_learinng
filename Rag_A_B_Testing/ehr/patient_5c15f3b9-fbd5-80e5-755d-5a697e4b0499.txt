@@ -1,0 +1,93 @@
+== PATIENT RECORD: Ellen406 Windler79 (ID: 5c15f3b9-fbd5-80e5-755d-5a697e4b0499) ==
+
+== Demographics ==
+Patient ID: 5c15f3b9-fbd5-80e5-755d-5a697e4b0499
+Name: Ellen406 Windler79
+Gender: F
+Birthdate: 2003-02-28
+Address: 377 Gutmann Meadow
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Cough (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+
+== Current Medications ==
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-03-14T07:38:58Z)
+- Depression screening (procedure) (Date: 2015-03-20T07:38:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-20T07:38:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-03-20T07:52:07Z)
+- Assessment of substance use (procedure) (Date: 2015-03-20T08:15:56Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-03-20T08:28:48Z)
+- Anticipatory guidance (procedure) (Date: 2015-03-20T08:51:19Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-25T07:38:58Z)
+- Depression screening (procedure) (Date: 2016-03-25T08:08:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-03-25T08:19:58Z)
+- Assessment of substance use (procedure) (Date: 2016-03-25T08:45:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-03-25T08:56:05Z)
+- Anticipatory guidance (procedure) (Date: 2016-03-25T09:22:02Z)
+- Throat culture (procedure) (Date: 2016-12-05T10:38:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-09T07:38:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-09T07:38:58Z)
+- Depression screening (procedure) (Date: 2016-12-09T08:00:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-12-09T08:10:51Z)
+- Assessment of substance use (procedure) (Date: 2016-12-09T08:34:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-12-09T08:44:53Z)
+- Anticipatory guidance (procedure) (Date: 2016-12-09T08:56:27Z)
+- Depression screening (procedure) (Date: 2017-03-31T07:38:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-31T07:38:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-03-31T07:50:47Z)
+- Assessment of substance use (procedure) (Date: 2017-03-31T08:12:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-03-31T08:23:37Z)
+- Anticipatory guidance (procedure) (Date: 2017-03-31T08:45:14Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-06T07:38:58Z)
+- Depression screening (procedure) (Date: 2018-04-06T08:05:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-04-06T08:17:13Z)
+- Assessment of substance use (procedure) (Date: 2018-04-06T08:42:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-04-06T08:54:45Z)
+- Anticipatory guidance (procedure) (Date: 2018-04-06T09:10:53Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-12T07:38:58Z)
+- Depression screening (procedure) (Date: 2019-04-12T08:02:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-04-12T08:17:14Z)
+- Assessment of substance use (procedure) (Date: 2019-04-12T08:41:11Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-04-12T08:55:51Z)
+- Anticipatory guidance (procedure) (Date: 2019-04-12T09:19:16Z)
+- Depression screening (procedure) (Date: 2020-04-17T07:38:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-04-17T07:53:36Z)
+- Face mask (physical object) (Date: 2020-09-26T07:38:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-23T07:38:58Z)
+- Assessment of substance use (procedure) (Date: 2021-04-23T08:22:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-04-23T08:37:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-28T07:38:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-30T07:38:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-23T07:38:58Z: General examination of patient (procedure)
+- 2021-02-06T07:38:58Z: Consultation for treatment
+- 2020-09-26T07:38:58Z: Encounter for symptom (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-23T09:00:37Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-04-23T08:22:44Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-04-23T08:22:44Z Are you worried about losing your housing?: No nan
+- 2021-04-23T08:22:44Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-04-23T08:22:44Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-04-23T08:22:44Z Are you a refugee?: No nan
+- 2021-04-23T08:22:44Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-04-23T08:22:44Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-04-23T08:22:44Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-04-23T08:22:44Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

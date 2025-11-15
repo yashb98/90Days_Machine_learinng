@@ -1,0 +1,63 @@
+== PATIENT RECORD: Elvin140 Senger904 (ID: a47eed09-9942-9cbf-9220-2843ded300e9) ==
+
+== Demographics ==
+Patient ID: a47eed09-9942-9cbf-9220-2843ded300e9
+Name: Elvin140 Senger904
+Gender: M
+Birthdate: 2007-01-26
+Address: 526 Kub Flat Apt 73
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of wrist
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-01-11T06:42:30Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-17T06:42:30Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-23T06:42:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-09T06:42:30Z)
+- Depression screening (procedure) (Date: 2019-02-15T06:42:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-02-15T06:57:12Z)
+- Assessment of substance use (procedure) (Date: 2019-02-15T07:19:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-02-15T07:31:49Z)
+- Health risks education (procedure) (Date: 2019-02-15T07:58:30Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-21T06:42:30Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-21T06:42:30Z)
+- Assessment of substance use (procedure) (Date: 2020-02-21T07:02:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-02-21T07:15:36Z)
+- Health risks education (procedure) (Date: 2020-02-21T07:36:54Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-26T06:42:30Z)
+- Depression screening (procedure) (Date: 2021-02-26T07:05:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-02-26T07:17:16Z)
+- Assessment of substance use (procedure) (Date: 2021-02-26T07:45:56Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-02-26T07:56:58Z)
+- Anticipatory guidance (procedure) (Date: 2021-02-26T08:23:06Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-16T06:42:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-18T06:42:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-09T13:42:30Z: Encounter for symptom
+- 2021-02-26T06:42:30Z: Well child visit (procedure)
+- 2020-02-21T06:42:30Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-26T07:45:56Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-02-26T07:05:33Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-02-26T06:42:30Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-02-26T06:42:30Z Respiratory rate: 14.0 /min
+- 2021-02-26T06:42:30Z Body Height: 166.6 cm
+- 2021-02-26T06:42:30Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-02-26T06:42:30Z Body Weight: 69.2 kg
+- 2021-02-26T06:42:30Z Body Mass Index: 25.0 kg/m2
+- 2021-02-26T06:42:30Z Body mass index (BMI) [Percentile] Per age and gender: 92.9 %
+- 2021-02-26T06:42:30Z Diastolic Blood Pressure: 72.0 mm[Hg]

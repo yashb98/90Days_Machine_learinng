@@ -1,0 +1,96 @@
+== PATIENT RECORD: José Emilio366 Cadena322 (ID: 7f571b07-f9a5-da74-3547-5f83bedcc5b7) ==
+
+== Demographics ==
+Patient ID: 7f571b07-f9a5-da74-3547-5f83bedcc5b7
+Name: José Emilio366 Cadena322
+Gender: M
+Birthdate: 1955-12-26
+Address: 212 Bahringer Lock Unit 83
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Chronic sinusitis (disorder)
+- Refugee (person)
+- Social isolation (finding)
+- Prediabetes
+- Chronic intractable migraine without aura
+- Anemia (disorder)
+- Chronic pain
+- Impacted molars
+- Drug overdose
+- Stroke
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Has a criminal record (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-30T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-30T17:33:12Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-30T17:48:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-04T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-04T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-04T17:59:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-10T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-10T17:40:54Z)
+- Depression screening (procedure) (Date: 2014-02-10T18:06:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-10T18:20:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-16T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-16T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-22T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-22T17:38:44Z)
+- Depression screening (procedure) (Date: 2016-02-22T17:55:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-22T18:09:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-27T17:01:16Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-27T17:51:28Z)
+- Depression screening (procedure) (Date: 2017-02-27T18:31:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-27T18:43:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-05T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-05T17:49:18Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-05T18:09:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-27T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-27T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-27T17:44:21Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-27T18:00:48Z)
+- Depression screening (procedure) (Date: 2018-08-27T18:30:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-27T18:43:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-11T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-11T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-11T17:47:50Z)
+- Depression screening (procedure) (Date: 2019-03-11T18:04:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-11T18:17:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-16T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-22T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-22T17:47:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-03-22T18:12:04Z)
+- Depression screening (procedure) (Date: 2021-03-22T18:39:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-22T18:49:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T17:01:16Z: Encounter for problem (procedure)
+- 2021-10-11T17:01:16Z: Encounter for problem (procedure)
+- 2021-04-26T17:01:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-05T17:01:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-22T17:01:16Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-22T19:12:32Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-22T18:39:24Z Fall risk total [Morse Fall Scale]: 4.0 {#}
+- 2021-03-22T18:39:24Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-03-22T18:12:04Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-03-22T17:47:21Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-03-22T17:47:21Z What language are you most comfortable speaking?: Language other than English nan
+- 2021-03-22T17:47:21Z Are you worried about losing your housing?: No nan
+- 2021-03-22T17:47:21Z What address do you live at?: 212 Bahringer Lock Unit 83 nan
+- 2021-03-22T17:47:21Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-03-22T17:47:21Z What is your current work situation?: Full-time work nan

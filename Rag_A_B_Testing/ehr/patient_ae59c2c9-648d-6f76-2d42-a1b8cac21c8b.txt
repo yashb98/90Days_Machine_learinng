@@ -1,0 +1,60 @@
+== PATIENT RECORD: Allan198 Koelpin146 (ID: ae59c2c9-648d-6f76-2d42-a1b8cac21c8b) ==
+
+== Demographics ==
+Patient ID: ae59c2c9-648d-6f76-2d42-a1b8cac21c8b
+Name: Allan198 Koelpin146
+Gender: M
+Birthdate: 1935-03-23
+Address: 1025 Mosciski Flat Apt 85
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+- Childhood asthma
+- Coronary Heart Disease
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+
+== Current Medications ==
+- Aspirin 81 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- 1 ML Epinephrine 1 MG/ML Injection
+- Atropine Sulfate 1 MG/ML Injectable Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1936-05-30T10:04:43Z)
+- Medication Reconciliation (procedure) (Date: 1936-08-29T10:04:43Z)
+- Medication Reconciliation (procedure) (Date: 1937-08-28T10:04:43Z)
+- Medication Reconciliation (procedure) (Date: 1938-02-26T10:04:43Z)
+- Medication Reconciliation (procedure) (Date: 1938-08-27T10:04:43Z)
+- Asthma screening (Date: 1939-07-14T10:04:43Z)
+- Medication Reconciliation (procedure) (Date: 1943-03-20T10:04:43Z)
+- Echocardiography (procedure) (Date: 1945-10-20T10:04:43Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 1945-10-20T10:04:43Z)
+- Catheter ablation of tissue of heart (Date: 1945-10-20T10:04:43Z)
+
+== Recent Encounters (Last 5) ==
+- 1945-10-27T10:04:43Z: Death Certification
+- 1945-10-20T10:04:43Z: Cardiac Arrest
+- 1945-03-31T10:04:43Z: Well child visit (procedure)
+- 1944-10-15T10:04:43Z: Encounter for symptom
+- 1944-06-24T05:04:43Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 1945-10-27T10:04:43Z Cause of Death [US Standard Certificate of Death]: Cardiac Arrest nan
+- 1945-03-31T10:04:43Z Tobacco smoking status NHIS: Never smoker nan
+- 1945-03-31T10:04:43Z Respiratory rate: 15.0 /min
+- 1945-03-31T10:04:43Z Heart rate: 61.0 /min
+- 1945-03-31T10:04:43Z Systolic Blood Pressure: 131.0 mm[Hg]
+- 1945-03-31T10:04:43Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 1945-03-31T10:04:43Z Body mass index (BMI) [Percentile] Per age and gender: 96.4 %
+- 1945-03-31T10:04:43Z Body Mass Index: 23.2 kg/m2
+- 1945-03-31T10:04:43Z Body Weight: 43.8 kg
+- 1945-03-31T10:04:43Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}

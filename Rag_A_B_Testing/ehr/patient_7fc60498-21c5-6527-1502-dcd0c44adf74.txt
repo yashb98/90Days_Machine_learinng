@@ -1,0 +1,46 @@
+== PATIENT RECORD: Epifania219 Lemke654 (ID: 7fc60498-21c5-6527-1502-dcd0c44adf74) ==
+
+== Demographics ==
+Patient ID: 7fc60498-21c5-6527-1502-dcd0c44adf74
+Name: Epifania219 Lemke654
+Gender: F
+Birthdate: 2019-06-15
+Address: 338 Crona Landing Apt 21
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Second degree burn
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-06-15T17:31:20Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-21T17:31:20Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-22T17:31:20Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-21T17:31:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-22T17:31:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-23T17:31:20Z: Encounter for 'check-up'
+- 2021-08-26T17:31:20Z: Emergency room admission (procedure)
+- 2021-06-13T03:31:20Z: Encounter for symptom
+- 2021-05-22T17:31:20Z: Well child visit (procedure)
+- 2020-11-21T17:31:20Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-15T17:31:20Z QOLS: 1.0 {score}
+- 2021-06-15T17:31:20Z DALY: 0.0 a
+- 2021-06-15T17:31:20Z QALY: 1.0 a
+- 2021-05-22T17:31:20Z Systolic Blood Pressure: 115.0 mm[Hg]
+- 2021-05-22T17:31:20Z Body Height: 86.7 cm
+- 2021-05-22T17:31:20Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-05-22T17:31:20Z Body Weight: 13.4 kg
+- 2021-05-22T17:31:20Z Weight-for-length Per age and sex: 86.7 %
+- 2021-05-22T17:31:20Z Head Occipital-frontal circumference: 47.9 cm
+- 2021-05-22T17:31:20Z Diastolic Blood Pressure: 74.0 mm[Hg]

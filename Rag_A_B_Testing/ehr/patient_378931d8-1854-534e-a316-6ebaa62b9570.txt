@@ -1,0 +1,95 @@
+== PATIENT RECORD: Ching589 Morar593 (ID: 378931d8-1854-534e-a316-6ebaa62b9570) ==
+
+== Demographics ==
+Patient ID: 378931d8-1854-534e-a316-6ebaa62b9570
+Name: Ching589 Morar593
+Gender: F
+Birthdate: 1994-02-19
+Address: 1014 Cartwright Key Suite 95
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Has a criminal record (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+
+== Current Medications ==
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Levora 0.15/30 28 Day Pack
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-14T17:32:41Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-14T18:20:24Z)
+- Depression screening (procedure) (Date: 2012-04-14T19:01:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-14T19:14:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-20T17:32:41Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-20T18:22:59Z)
+- Depression screening (procedure) (Date: 2013-04-20T18:59:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-20T19:10:21Z)
+- Assessment of substance use (procedure) (Date: 2013-04-20T19:33:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-20T19:44:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-23T17:32:41Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-23T17:32:41Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-23T18:27:59Z)
+- Depression screening (procedure) (Date: 2016-04-23T18:55:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-23T19:08:07Z)
+- Assessment of substance use (procedure) (Date: 2016-04-23T19:31:20Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-23T19:45:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-27T17:32:41Z)
+- Screening for domestic abuse (procedure) (Date: 2019-04-27T18:28:27Z)
+- Assessment of substance use (procedure) (Date: 2019-04-27T19:02:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-04-27T19:13:12Z)
+- Standard pregnancy test (Date: 2019-07-06T17:32:41Z)
+- Ultrasound scan for fetal viability (Date: 2019-07-06T17:32:41Z)
+- Evaluation of uterine fundal height (Date: 2019-07-06T17:32:41Z)
+- Auscultation of the fetal heart (Date: 2019-07-06T17:32:41Z)
+- Blood typing  RH typing (Date: 2019-07-06T17:32:41Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-06T17:32:41Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-07-06T17:32:41Z)
+- Human immunodeficiency virus antigen test (Date: 2019-07-06T17:32:41Z)
+- Chlamydia antigen test (Date: 2019-07-06T17:32:41Z)
+- Gonorrhea infection test (Date: 2019-07-06T17:32:41Z)
+- Syphilis infection test (Date: 2019-07-06T17:32:41Z)
+- Urine culture (Date: 2019-07-06T17:32:41Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-07-06T17:32:41Z)
+- Urine screening test for diabetes (Date: 2019-07-06T17:32:41Z)
+- Hepatitis C antibody test (Date: 2019-07-06T17:32:41Z)
+- Rubella screening (Date: 2019-07-06T17:32:41Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-07-06T17:32:41Z)
+- Skin test for tuberculosis (Date: 2019-07-06T17:32:41Z)
+- Urine protein test (Date: 2019-07-06T17:32:41Z)
+- Physical examination of mother (Date: 2019-07-06T17:32:41Z)
+- Evaluation of uterine fundal height (Date: 2019-08-03T17:32:41Z)
+- Auscultation of the fetal heart (Date: 2019-08-03T17:32:41Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-08-03T17:32:41Z)
+- Physical examination (Date: 2019-09-12T17:32:41Z)
+- Depression screening (Date: 2019-09-12T17:32:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T17:32:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-16T17:32:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-09-12T17:32:41Z: Prenatal visit
+- 2019-08-31T17:32:41Z: Prenatal visit
+- 2019-08-03T17:32:41Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-02-19T17:32:41Z QOLS: 1.0 {score}
+- 2021-02-19T17:32:41Z DALY: 0.0 a
+- 2021-02-19T17:32:41Z QALY: 26.0 a
+- 2020-02-19T17:32:41Z QOLS: 1.0 {score}
+- 2020-02-19T17:32:41Z DALY: 0.0 a
+- 2020-02-19T17:32:41Z QALY: 25.0 a
+- 2019-04-27T19:36:45Z Total score [AUDIT-C]: 1.0 {score}
+- 2019-04-27T19:02:55Z Total score [HARK]: 0.0 {score}
+- 2019-04-27T18:28:27Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2019-04-27T18:28:27Z What is your main insurance?: Private insurance nan

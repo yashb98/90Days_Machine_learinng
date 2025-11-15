@@ -1,0 +1,76 @@
+== PATIENT RECORD: Son314 Rodriguez71 (ID: bb4116b4-db28-ec8f-cce5-6ec08b2ea0a0) ==
+
+== Demographics ==
+Patient ID: bb4116b4-db28-ec8f-cce5-6ec08b2ea0a0
+Name: Son314 Rodriguez71
+Gender: M
+Birthdate: 1981-10-06
+Address: 1011 Stoltenberg Vista
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Concussion with no loss of consciousness
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-12-18T23:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-18T23:29:19Z)
+- Depression screening (procedure) (Date: 2012-12-19T00:06:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-19T00:19:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-23T23:29:19Z)
+- Depression screening (procedure) (Date: 2013-07-24T00:08:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-24T00:19:42Z)
+- Assessment of substance use (procedure) (Date: 2013-07-24T00:43:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-24T00:53:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-22T23:29:19Z)
+- Depression screening (procedure) (Date: 2015-12-23T00:22:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-23T00:34:05Z)
+- Assessment of substance use (procedure) (Date: 2015-12-23T00:54:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-23T01:08:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-25T23:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-25T23:29:19Z)
+- Depression screening (procedure) (Date: 2018-12-26T00:07:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-26T00:17:11Z)
+- Assessment of substance use (procedure) (Date: 2018-12-26T00:39:40Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-26T00:52:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-12T23:29:19Z)
+- Depression screening (procedure) (Date: 2021-10-13T00:19:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-13T00:29:46Z)
+- Assessment of substance use (procedure) (Date: 2021-10-13T00:55:31Z)
+- Screening for drug abuse (procedure) (Date: 2021-10-13T01:09:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-12T23:29:19Z: General examination of patient (procedure)
+- 2021-05-04T23:29:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-06T02:11:52Z: Encounter for 'check-up'
+- 2020-06-04T02:11:52Z: Emergency room admission (procedure)
+- 2018-12-25T23:29:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-13T01:30:33Z Total score [DAST-10]: 2.0 {score}
+- 2021-10-13T00:55:31Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-10-13T00:19:22Z Are you Hispanic or Latino?: No nan
+- 2021-10-13T00:19:22Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-10-13T00:19:22Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-10-13T00:19:22Z What language are you most comfortable speaking?: English nan
+- 2021-10-13T00:19:22Z How many family members  including yourself  do you currently live with?: 8.0 {#}
+- 2021-10-13T00:19:22Z What is your housing situation today?: I have housing nan
+- 2021-10-13T00:19:22Z Are you worried about losing your housing?: Yes nan
+- 2021-10-13T00:19:22Z What address do you live at?: 1011 Stoltenberg Vista nan

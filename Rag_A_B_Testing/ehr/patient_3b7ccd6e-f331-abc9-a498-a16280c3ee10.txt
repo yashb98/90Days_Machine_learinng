@@ -1,0 +1,134 @@
+== PATIENT RECORD: Sanjuana985 Ritchie586 (ID: 3b7ccd6e-f331-abc9-a498-a16280c3ee10) ==
+
+== Demographics ==
+Patient ID: 3b7ccd6e-f331-abc9-a498-a16280c3ee10
+Name: Sanjuana985 Ritchie586
+Gender: F
+Birthdate: 1978-12-03
+Address: 1048 Wyman Center Unit 36
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+- Not in labor force (finding)
+- Streptococcal sore throat (disorder)
+- Headache (finding)
+- Nausea (finding)
+- Vomiting symptom (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Etonogestrel 68 MG Drug Implant
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Liletta 52 MG Intrauterine System
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Penicillin V Potassium 500 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-09-09T15:20:45Z)
+- Removal of subcutaneous contraceptive (Date: 2012-10-07T10:20:45Z)
+- Standard pregnancy test (Date: 2012-12-02T10:20:45Z)
+- Ultrasound scan for fetal viability (Date: 2012-12-02T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2012-12-02T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2012-12-02T10:20:45Z)
+- Blood typing  RH typing (Date: 2012-12-02T10:20:45Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-12-02T10:20:45Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-12-02T10:20:45Z)
+- Human immunodeficiency virus antigen test (Date: 2012-12-02T10:20:45Z)
+- Chlamydia antigen test (Date: 2012-12-02T10:20:45Z)
+- Gonorrhea infection test (Date: 2012-12-02T10:20:45Z)
+- Syphilis infection test (Date: 2012-12-02T10:20:45Z)
+- Urine culture (Date: 2012-12-02T10:20:45Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-12-02T10:20:45Z)
+- Urine screening test for diabetes (Date: 2012-12-02T10:20:45Z)
+- Hepatitis C antibody test (Date: 2012-12-02T10:20:45Z)
+- Rubella screening (Date: 2012-12-02T10:20:45Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-12-02T10:20:45Z)
+- Skin test for tuberculosis (Date: 2012-12-02T10:20:45Z)
+- Urine protein test (Date: 2012-12-02T10:20:45Z)
+- Physical examination of mother (Date: 2012-12-02T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2012-12-30T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2012-12-30T10:20:45Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-12-30T10:20:45Z)
+- Fetal anatomy study (Date: 2013-01-27T10:20:45Z)
+- Alpha-fetoprotein test (Date: 2013-01-27T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2013-01-27T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-01-27T10:20:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-17T10:20:45Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-17T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2013-02-24T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-02-24T10:20:45Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-17T11:18:02Z)
+- Evaluation of uterine fundal height (Date: 2013-03-24T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-03-24T10:20:45Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-04-21T10:20:45Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2013-04-21T10:20:45Z)
+- Urine screening for glucose (Date: 2013-04-21T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2013-04-21T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-04-21T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2013-05-19T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-05-19T10:20:45Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-06-16T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2013-06-16T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-06-16T10:20:45Z)
+- Evaluation of uterine fundal height (Date: 2013-06-30T10:20:45Z)
+- Auscultation of the fetal heart (Date: 2013-06-30T10:20:45Z)
+- Augmentation of labor (Date: 2013-07-07T10:20:45Z)
+- Childbirth (Date: 2013-07-07T10:20:45Z)
+- Physical examination following birth (Date: 2013-08-18T10:20:45Z)
+- Depression screening (Date: 2013-08-18T10:20:45Z)
+- Insertion of intrauterine contraceptive device (Date: 2015-08-17T20:45:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-21T10:20:45Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-21T10:20:45Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-21T11:20:36Z)
+- Depression screening (procedure) (Date: 2016-02-21T11:42:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-21T11:55:06Z)
+- Intramuscular injection (Date: 2017-08-06T21:29:49Z)
+- Throat culture (procedure) (Date: 2018-02-26T20:20:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-09T10:20:45Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-09T10:20:45Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-09T10:56:17Z)
+- Depression screening (procedure) (Date: 2018-12-09T11:17:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-09T11:29:43Z)
+- Intramuscular injection (Date: 2020-07-21T21:44:30Z)
+- Replacement of contraceptive intrauterine device (Date: 2020-08-23T10:20:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-13T10:20:45Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-13T10:20:45Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-13T10:57:06Z)
+- Face mask (physical object) (Date: 2021-01-03T10:20:45Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-07-16T22:01:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-16T22:01:29Z: Consultation for treatment
+- 2021-06-20T10:20:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-30T10:20:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-03T10:20:45Z: Encounter for symptom (procedure)
+- 2020-12-13T10:20:45Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-03T11:37:55Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-01-03T10:34:05Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-01-03T10:34:05Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-01-03T10:20:45Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-01-03T10:20:45Z Body temperature: 38.1 Cel
+- 2021-01-03T10:20:45Z Body Weight: 71.9 kg
+- 2021-01-03T10:20:45Z Systolic Blood Pressure: 105.0 mm[Hg]
+- 2021-01-03T10:20:45Z Oxygen saturation in Arterial blood: 81.3 %
+- 2021-01-03T10:20:45Z Heart rate: 121.2 /min
+- 2021-01-03T10:20:45Z Respiratory rate: 39.2 /min

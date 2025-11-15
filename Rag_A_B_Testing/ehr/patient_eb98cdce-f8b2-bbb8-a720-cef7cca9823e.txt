@@ -1,0 +1,49 @@
+== PATIENT RECORD: Shalanda398 Price929 (ID: eb98cdce-f8b2-bbb8-a720-cef7cca9823e) ==
+
+== Demographics ==
+Patient ID: eb98cdce-f8b2-bbb8-a720-cef7cca9823e
+Name: Shalanda398 Price929
+Gender: F
+Birthdate: 2011-04-11
+Address: 789 Kovacek Brook Unit 78
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Injury of tendon of the rotator cuff of shoulder
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-19T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-18T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-17T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-18T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-16T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-28T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-03T01:23:49Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-09T01:23:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-20T01:23:49Z: Well child visit (procedure)
+- 2020-04-14T01:23:49Z: Well child visit (procedure)
+- 2019-04-09T01:23:49Z: Well child visit (procedure)
+- 2018-04-03T01:23:49Z: Well child visit (procedure)
+- 2017-03-28T01:23:49Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-20T01:23:49Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-20T01:23:49Z Body Height: 143.7 cm
+- 2021-04-20T01:23:49Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-04-20T01:23:49Z Body Weight: 38.2 kg
+- 2021-04-20T01:23:49Z Body Mass Index: 18.5 kg/m2
+- 2021-04-20T01:23:49Z Body mass index (BMI) [Percentile] Per age and gender: 72.9 %
+- 2021-04-20T01:23:49Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-04-20T01:23:49Z Systolic Blood Pressure: 134.0 mm[Hg]
+- 2021-04-20T01:23:49Z Heart rate: 97.0 /min
+- 2021-04-20T01:23:49Z Respiratory rate: 15.0 /min

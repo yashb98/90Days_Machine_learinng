@@ -1,0 +1,51 @@
+== PATIENT RECORD: Augustine565 Dickinson688 (ID: a8eed586-7fc7-e064-78ee-c6d227039940) ==
+
+== Demographics ==
+Patient ID: a8eed586-7fc7-e064-78ee-c6d227039940
+Name: Augustine565 Dickinson688
+Gender: M
+Birthdate: 2015-12-12
+Address: 936 Mohr Rapid Suite 31
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-12-12T22:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-16T22:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-19T22:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-20T22:01:59Z)
+- Throat culture (procedure) (Date: 2017-04-07T19:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-18T22:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-17T22:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-16T22:01:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-16T22:01:59Z: Encounter for symptom
+- 2020-11-21T22:01:59Z: Well child visit (procedure)
+- 2020-11-02T22:01:59Z: Encounter for symptom
+- 2019-11-16T22:01:59Z: Well child visit (procedure)
+- 2019-05-18T22:01:59Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-12T22:01:59Z QOLS: 1.0 {score}
+- 2020-12-12T22:01:59Z DALY: 0.0 a
+- 2020-12-12T22:01:59Z QALY: 4.0 a
+- 2020-11-21T22:01:59Z Tobacco smoking status NHIS: Never smoker nan
+- 2020-11-21T22:01:59Z Body Height: 104.4 cm
+- 2020-11-21T22:01:59Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2020-11-21T22:01:59Z Body Weight: 16.0 kg
+- 2020-11-21T22:01:59Z Body Mass Index: 14.7 kg/m2
+- 2020-11-21T22:01:59Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2020-11-21T22:01:59Z Systolic Blood Pressure: 128.0 mm[Hg]

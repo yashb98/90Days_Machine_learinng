@@ -1,0 +1,102 @@
+== PATIENT RECORD: Geri861 Padberg411 (ID: f99e1c5e-40c9-aa06-3e00-f2d944dc3ae0) ==
+
+== Demographics ==
+Patient ID: f99e1c5e-40c9-aa06-3e00-f2d944dc3ae0
+Name: Geri861 Padberg411
+Gender: F
+Birthdate: 1944-11-18
+Address: 152 Hilpert Junction
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Miscarriage in first trimester
+- Chronic intractable migraine without aura
+- Chronic pain
+- Impacted molars
+- Drug overdose
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Hyperlipidemia
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-25T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2012-02-25T15:57:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-02-25T16:13:08Z)
+- Screening for domestic abuse (procedure) (Date: 2012-02-25T16:34:21Z)
+- Depression screening (procedure) (Date: 2012-02-25T17:18:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-25T17:31:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-02T14:58:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-02T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-02T15:42:36Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-02T16:01:59Z)
+- Depression screening (procedure) (Date: 2013-03-02T16:36:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-02T16:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-08T14:58:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-08T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-08T15:35:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-14T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-14T15:28:53Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-14T15:54:13Z)
+- Throat culture (procedure) (Date: 2016-02-17T07:58:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-19T14:58:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-03-19T15:38:30Z)
+- Screening for domestic abuse (procedure) (Date: 2016-03-19T16:00:41Z)
+- Depression screening (procedure) (Date: 2016-03-19T16:35:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-19T16:47:54Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-03-19T17:08:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-25T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-25T15:54:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-03-25T16:18:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-31T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-31T15:35:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-03-31T16:04:06Z)
+- Depression screening (procedure) (Date: 2018-03-31T16:21:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-31T16:35:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-06T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-06T15:48:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-04-06T16:16:28Z)
+- Depression screening (procedure) (Date: 2019-04-06T16:34:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-06T16:48:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-11T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-11T15:32:04Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-04-11T15:53:50Z)
+- Depression screening (procedure) (Date: 2020-04-11T16:09:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-11T16:22:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-17T14:58:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-17T15:57:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-04-17T16:16:53Z)
+- Depression screening (procedure) (Date: 2021-04-17T16:36:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-17T16:49:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T01:58:35Z: Encounter for symptom
+- 2021-05-15T14:58:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T14:58:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T14:58:35Z: General examination of patient (procedure)
+- 2021-02-07T14:58:35Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-11-18T15:58:35Z QOLS: 0.4 {score}
+- 2021-11-18T15:58:35Z DALY: 23.2 a
+- 2021-11-18T15:58:35Z QALY: 52.8 a
+- 2021-11-04T01:58:35Z Body temperature: 37.7 Cel
+- 2021-04-17T17:17:19Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-04-17T16:36:34Z Fall risk total [Morse Fall Scale]: 37.0 {#}
+- 2021-04-17T16:36:34Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-04-17T16:16:53Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-04-17T15:57:42Z What is your current work situation?: Full-time work nan
+- 2021-04-17T15:57:42Z What is your housing situation today?: I have housing nan

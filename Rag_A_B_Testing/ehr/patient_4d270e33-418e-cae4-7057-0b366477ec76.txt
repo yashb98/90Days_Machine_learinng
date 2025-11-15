@@ -1,0 +1,122 @@
+== PATIENT RECORD: Brendon298 Hermann103 (ID: 4d270e33-418e-cae4-7057-0b366477ec76) ==
+
+== Demographics ==
+Patient ID: 4d270e33-418e-cae4-7057-0b366477ec76
+Name: Brendon298 Hermann103
+Gender: M
+Birthdate: 1964-12-10
+Address: 168 Schinner Ferry
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Not in labor force (finding)
+- Body mass index 30+ - obesity (finding)
+- Diabetes
+- Anemia (disorder)
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Prediabetes
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-27T03:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-27T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-27T04:12:13Z)
+- Depression screening (procedure) (Date: 2012-01-27T04:37:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-27T04:47:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-01T03:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-01T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-01T04:20:02Z)
+- Depression screening (procedure) (Date: 2013-02-01T04:40:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-01T04:51:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-02-01T05:18:29Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-05T03:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-07T03:33:58Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T04:20:19Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T05:06:40Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-07T04:26:44Z)
+- Depression screening (procedure) (Date: 2014-02-07T04:53:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-07T05:05:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T05:53:23Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T06:44:52Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T07:36:37Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-23T08:22:13Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-26T09:07:32Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-01T10:05:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-04T11:03:45Z)
+- Colonoscopy (Date: 2014-12-12T03:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-13T03:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-13T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-13T04:22:08Z)
+- Depression screening (procedure) (Date: 2015-02-13T04:40:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-13T04:53:55Z)
+- Assessment of substance use (procedure) (Date: 2015-02-13T05:23:04Z)
+- Screening for drug abuse (procedure) (Date: 2015-02-13T05:37:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-19T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-19T04:13:23Z)
+- Depression screening (procedure) (Date: 2016-02-19T04:30:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-19T04:42:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-24T03:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-24T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-24T04:28:04Z)
+- Depression screening (procedure) (Date: 2017-02-24T04:51:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-24T05:02:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-02T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-02T04:27:11Z)
+- Assessment of substance use (procedure) (Date: 2018-03-02T04:44:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-02T04:58:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-08T03:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-08T04:12:31Z)
+- Depression screening (procedure) (Date: 2019-03-08T04:38:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-08T04:49:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-08T05:15:36Z)
+- Assessment of substance use (procedure) (Date: 2019-03-08T05:40:14Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-08T05:54:41Z)
+- Plain chest X-ray (procedure) (Date: 2019-07-15T11:33:58Z)
+- Colonoscopy (Date: 2019-12-12T04:01:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-13T03:33:58Z)
+- Assessment of substance use (procedure) (Date: 2020-03-13T04:33:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-13T04:43:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-19T03:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-19T03:33:58Z)
+- Depression screening (procedure) (Date: 2021-03-19T04:29:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-19T04:41:15Z)
+- Sputum examination (procedure) (Date: 2021-10-06T15:33:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-06T15:33:58Z: Encounter for symptom
+- 2021-04-09T03:33:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-19T03:33:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-19T03:33:58Z: General examination of patient (procedure)
+- 2020-03-13T03:33:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-19T05:01:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-19T04:29:21Z Are you a refugee?: No nan
+- 2021-03-19T04:29:21Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 57759 /a
+- 2021-03-19T04:29:21Z What is your housing situation today?: I have housing nan
+- 2021-03-19T04:29:21Z Are you worried about losing your housing?: No nan
+- 2021-03-19T04:29:21Z What address do you live at?: 168 Schinner Ferry nan
+- 2021-03-19T04:29:21Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-03-19T04:29:21Z What is your main insurance?: Private insurance nan
+- 2021-03-19T04:29:21Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-19T04:29:21Z What language are you most comfortable speaking?: English nan

@@ -1,0 +1,142 @@
+== PATIENT RECORD: Oren284 Vandervort697 (ID: af7711e2-9168-bf9a-63de-9fe3e5bad22d) ==
+
+== Demographics ==
+Patient ID: af7711e2-9168-bf9a-63de-9fe3e5bad22d
+Name: Oren284 Vandervort697
+Gender: M
+Birthdate: 1996-01-06
+Address: 184 Murray Gardens Apt 13
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Sulfamethoxazole / Trimethoprim
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-02-18T20:11:20Z)
+- Depression screening (procedure) (Date: 2012-02-18T20:34:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-02-18T20:47:25Z)
+- Assessment of substance use (procedure) (Date: 2012-02-18T21:12:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-02-18T21:26:47Z)
+- Anticipatory guidance (procedure) (Date: 2012-02-18T21:53:45Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-23T20:11:20Z)
+- Depression screening (procedure) (Date: 2013-02-23T20:29:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-02-23T20:42:29Z)
+- Assessment of substance use (procedure) (Date: 2013-02-23T21:09:32Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-02-23T21:20:21Z)
+- Anticipatory guidance (procedure) (Date: 2013-02-23T21:45:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-01T20:11:20Z)
+- Screening for domestic abuse (procedure) (Date: 2014-03-01T21:02:33Z)
+- Depression screening (procedure) (Date: 2014-03-01T21:33:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-01T21:45:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-03-01T22:05:35Z)
+- Assessment of substance use (procedure) (Date: 2014-03-01T22:29:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-03-01T22:41:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-30T20:11:20Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-30T21:03:45Z)
+- Screening for domestic abuse (procedure) (Date: 2014-08-30T21:21:47Z)
+- Depression screening (procedure) (Date: 2014-08-30T21:57:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-30T22:12:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-07T20:11:20Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-07T20:11:20Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-07T20:56:56Z)
+- Depression screening (procedure) (Date: 2015-03-07T21:14:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-07T21:28:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-03-07T21:53:10Z)
+- Assessment of substance use (procedure) (Date: 2015-03-07T22:14:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-07T22:25:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-12T20:11:20Z)
+- Assessment of substance use (procedure) (Date: 2016-03-12T20:46:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-03-12T20:56:09Z)
+- Throat culture (procedure) (Date: 2017-01-05T20:11:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-18T20:11:20Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-18T20:11:20Z)
+- Depression screening (procedure) (Date: 2017-03-18T21:04:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-18T21:19:16Z)
+- Throat culture (procedure) (Date: 2018-03-13T13:11:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-24T20:11:20Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-24T20:11:20Z)
+- Depression screening (procedure) (Date: 2018-03-24T21:07:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-24T21:20:28Z)
+- Assessment of substance use (procedure) (Date: 2018-03-24T21:47:48Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-24T21:57:49Z)
+- Throat culture (procedure) (Date: 2018-05-24T20:11:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-02T20:11:20Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-02T20:11:20Z)
+- Depression screening (procedure) (Date: 2018-06-02T20:53:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-02T21:06:38Z)
+- Assessment of substance use (procedure) (Date: 2018-06-02T21:36:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-02T21:47:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-30T20:11:20Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-30T20:41:51Z)
+- Depression screening (procedure) (Date: 2019-03-30T21:10:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-30T21:24:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-04T20:11:20Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-04T20:51:54Z)
+- Measurement of respiratory function (procedure) (Date: 2020-09-13T04:11:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-26T20:11:20Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-26T20:53:32Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-26T21:17:40Z)
+- Depression screening (procedure) (Date: 2020-09-26T22:02:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-26T22:13:21Z)
+- Assessment of substance use (procedure) (Date: 2020-09-26T22:34:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-26T22:46:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-10T20:11:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-10T20:11:20Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-10T21:07:13Z)
+- Depression screening (procedure) (Date: 2021-04-10T21:22:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-10T21:35:23Z)
+- Assessment of substance use (procedure) (Date: 2021-04-10T21:58:19Z)
+- Screening for drug abuse (procedure) (Date: 2021-04-10T22:09:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-10T20:11:20Z: General examination of patient (procedure)
+- 2020-09-26T20:11:20Z: Encounter for check up (procedure)
+- 2020-09-19T20:11:20Z: Urgent care clinic (procedure)
+- 2020-09-13T04:11:20Z: Encounter for symptom
+- 2020-04-04T20:11:20Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-10T22:37:08Z Total score [DAST-10]: 2.0 {score}
+- 2021-04-10T21:58:19Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-04-10T21:22:55Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-04-10T21:07:13Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-04-10T21:07:13Z What is your current work situation?: Full-time work nan
+- 2021-04-10T21:07:13Z Are you worried about losing your housing?: No nan
+- 2021-04-10T21:07:13Z What address do you live at?: 184 Murray Gardens Apt 13 nan
+- 2021-04-10T21:07:13Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-04-10T21:07:13Z What is your main insurance?: Private insurance nan
+- 2021-04-10T21:07:13Z How many family members  including yourself  do you currently live with?: 5.0 {#}

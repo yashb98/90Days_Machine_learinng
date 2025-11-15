@@ -1,0 +1,44 @@
+== PATIENT RECORD: Shona685 Swift555 (ID: 46a347db-536c-5074-ab87-66802ca5395b) ==
+
+== Demographics ==
+Patient ID: 46a347db-536c-5074-ab87-66802ca5395b
+Name: Shona685 Swift555
+Gender: F
+Birthdate: 2017-08-06
+Address: 617 Lubowitz Stravenue Unit 37
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-08-06T07:41:14Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-15T07:41:14Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-14T07:41:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-12T07:41:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-11T07:41:14Z: Well child visit (procedure)
+- 2021-01-10T07:41:14Z: Well child visit (procedure)
+- 2020-07-12T07:41:14Z: Well child visit (procedure)
+- 2020-01-12T07:41:14Z: Well child visit (procedure)
+- 2019-07-14T07:41:14Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-06T07:41:14Z QOLS: 1.0 {score}
+- 2021-08-06T07:41:14Z DALY: 0.0 a
+- 2021-08-06T07:41:14Z QALY: 3.0 a
+- 2021-07-11T07:41:14Z Heart rate: 61.0 /min
+- 2021-07-11T07:41:14Z Body Height: 100.1 cm
+- 2021-07-11T07:41:14Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-11T07:41:14Z Body Weight: 16.4 kg
+- 2021-07-11T07:41:14Z Head Occipital-frontal circumference: 48.5 cm
+- 2021-07-11T07:41:14Z Body Mass Index: 16.3 kg/m2
+- 2021-07-11T07:41:14Z Body mass index (BMI) [Percentile] Per age and gender: 76.8 %

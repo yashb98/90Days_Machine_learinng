@@ -1,0 +1,53 @@
+== PATIENT RECORD: Reta616 Koch169 (ID: 9dff13cc-4283-5466-7f55-481d0c7267e0) ==
+
+== Demographics ==
+Patient ID: 9dff13cc-4283-5466-7f55-481d0c7267e0
+Name: Reta616 Koch169
+Gender: F
+Birthdate: 2014-08-24
+Address: 758 Sawayn Vale Unit 10
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Otitis media
+- Injury of anterior cruciate ligament
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-09-28T12:01:59Z)
+- Throat culture (procedure) (Date: 2014-10-26T00:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-30T12:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-03T12:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-02T12:01:59Z)
+- Knee X-ray (Date: 2019-04-30T12:01:59Z)
+- Surgical manipulation of joint of knee (Date: 2019-05-07T12:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-04T12:01:59Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-09T12:01:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-15T12:01:59Z: Well child visit (procedure)
+- 2020-08-09T12:01:59Z: Well child visit (procedure)
+- 2019-08-04T12:01:59Z: Well child visit (procedure)
+- 2019-05-07T12:01:59Z: Non-urgent orthopedic admission
+- 2019-04-30T12:01:59Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-24T12:01:59Z QOLS: 1.0 {score}
+- 2021-08-24T12:01:59Z DALY: 0.0 a
+- 2021-08-24T12:01:59Z QALY: 6.0 a
+- 2021-08-15T12:01:59Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-15T12:01:59Z Body Height: 114.1 cm
+- 2021-08-15T12:01:59Z Body Weight: 25.0 kg
+- 2021-08-15T12:01:59Z Body Mass Index: 19.2 kg/m2
+- 2021-08-15T12:01:59Z Body mass index (BMI) [Percentile] Per age and gender: 93.8 %
+- 2021-08-15T12:01:59Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-08-15T12:01:59Z Systolic Blood Pressure: 130.0 mm[Hg]

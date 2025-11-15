@@ -1,0 +1,134 @@
+== PATIENT RECORD: Lora418 Kilback373 (ID: b75fc5f1-10f0-5103-82f3-e7957a48132a) ==
+
+== Demographics ==
+Patient ID: b75fc5f1-10f0-5103-82f3-e7957a48132a
+Name: Lora418 Kilback373
+Gender: F
+Birthdate: 1962-04-23
+Address: 468 Bins Track Suite 3
+Marital Status: S
+
+== Allergies ==
+- Animal dander (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Body mass index 30+ - obesity (finding)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Fracture of clavicle
+- Not in labor force (finding)
+- Osteoarthritis of knee
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-19T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-19T20:31:00Z)
+- Depression screening (procedure) (Date: 2011-12-19T20:51:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-19T21:04:53Z)
+- Assessment of substance use (procedure) (Date: 2011-12-19T21:30:15Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-19T21:43:00Z)
+- Colonoscopy (Date: 2012-04-23T19:55:48Z)
+- Removal of subcutaneous contraceptive (Date: 2012-10-29T19:55:48Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-10-29T20:34:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-24T19:55:48Z)
+- Depression screening (procedure) (Date: 2012-12-24T20:47:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-24T20:58:05Z)
+- Clavicle X-ray (Date: 2013-06-14T20:08:37Z)
+- Admission to orthopedic department (Date: 2013-06-14T20:08:37Z)
+- Bone density scan (procedure) (Date: 2013-06-14T21:36:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-30T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-30T20:28:42Z)
+- Depression screening (procedure) (Date: 2013-12-30T20:47:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-30T21:01:35Z)
+- Assessment of substance use (procedure) (Date: 2013-12-30T21:28:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-30T21:42:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-05T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-05T20:47:19Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-05T21:07:55Z)
+- Depression screening (procedure) (Date: 2015-01-05T21:35:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-05T21:48:23Z)
+- Assessment of substance use (procedure) (Date: 2015-01-05T22:15:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-05T22:29:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-11T19:55:48Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-11T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-11T20:52:45Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-11T21:10:23Z)
+- Depression screening (procedure) (Date: 2016-01-11T21:39:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-11T21:50:04Z)
+- Assessment of substance use (procedure) (Date: 2016-01-11T22:17:18Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-11T22:29:10Z)
+- Removal of subcutaneous contraceptive (Date: 2016-10-31T19:55:48Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-10-31T20:16:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-16T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-16T20:41:07Z)
+- Depression screening (procedure) (Date: 2017-01-16T21:08:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-16T21:19:45Z)
+- Assessment of substance use (procedure) (Date: 2017-01-16T21:43:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-16T21:54:11Z)
+- Colonoscopy (Date: 2017-04-23T20:22:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-22T19:55:48Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-22T19:55:48Z)
+- Depression screening (procedure) (Date: 2018-01-22T20:33:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-22T20:47:20Z)
+- Measurement of respiratory function (procedure) (Date: 2018-08-01T02:05:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-06T19:55:48Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-06T20:36:47Z)
+- Depression screening (procedure) (Date: 2018-08-06T21:02:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-06T21:14:07Z)
+- Assessment of substance use (procedure) (Date: 2018-08-06T21:41:36Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-06T21:54:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-28T19:55:48Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-28T19:55:48Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-28T20:54:37Z)
+- Depression screening (procedure) (Date: 2019-01-28T21:39:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-28T21:54:19Z)
+- Assessment of substance use (procedure) (Date: 2019-01-28T22:23:49Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-28T22:36:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-03T19:55:48Z)
+- Depression screening (procedure) (Date: 2020-02-03T20:27:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-03T20:40:10Z)
+- Assessment of substance use (procedure) (Date: 2020-02-03T21:08:52Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-03T21:19:23Z)
+- Removal of subcutaneous contraceptive (Date: 2020-11-02T19:55:48Z)
+- Insertion of subcutaneous contraceptive (Date: 2020-11-02T20:26:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-08T19:55:48Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-08T19:55:48Z)
+- Depression screening (procedure) (Date: 2021-02-08T20:30:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-08T20:44:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-12T19:55:48Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-15T19:55:48Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-08T19:55:48Z: General examination of patient (procedure)
+- 2020-11-02T19:55:48Z: Patient encounter procedure
+- 2020-04-20T15:55:48Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-04-23T18:55:48Z QOLS: 0.9 {score}
+- 2021-04-23T18:55:48Z DALY: 3.9 a
+- 2021-04-23T18:55:48Z QALY: 54.1 a
+- 2021-02-08T21:05:23Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-02-08T20:30:04Z Which race(s) are you?: White nan
+- 2021-02-08T20:30:04Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-02-08T20:30:04Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-02-08T20:30:04Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-02-08T20:30:04Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 151269 /a
+- 2021-02-08T20:30:04Z What is your main insurance?: Private insurance nan

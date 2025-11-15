@@ -1,0 +1,47 @@
+== PATIENT RECORD: Leana211 Keeling57 (ID: b3700252-f7e3-e8f9-aca4-6a759c52f4b9) ==
+
+== Demographics ==
+Patient ID: b3700252-f7e3-e8f9-aca4-6a759c52f4b9
+Name: Leana211 Keeling57
+Gender: F
+Birthdate: 2019-03-10
+Address: 240 Fisher Tunnel Apt 11
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Injury of medial collateral ligament of knee
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-04-14T13:28:37Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-17T13:28:37Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-16T13:28:37Z)
+- Knee X-ray (Date: 2020-12-30T13:28:37Z)
+- Surgical manipulation of joint of knee (Date: 2021-01-06T13:28:37Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-15T13:28:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-15T13:28:37Z: Well child visit (procedure)
+- 2021-02-14T13:28:37Z: Well child visit (procedure)
+- 2021-01-06T13:28:37Z: Non-urgent orthopedic admission
+- 2020-12-30T13:28:37Z: Emergency room admission (procedure)
+- 2020-08-31T13:28:37Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-08-15T13:28:37Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-08-15T13:28:37Z Body mass index (BMI) [Percentile] Per age and gender: 43.4 %
+- 2021-08-15T13:28:37Z Body Height: 90.2 cm
+- 2021-08-15T13:28:37Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-08-15T13:28:37Z Body Weight: 12.9 kg
+- 2021-08-15T13:28:37Z Weight-for-length Per age and sex: 49.4 %
+- 2021-08-15T13:28:37Z Head Occipital-frontal circumference: 48.4 cm
+- 2021-08-15T13:28:37Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-15T13:28:37Z Respiratory rate: 13.0 /min
+- 2021-08-15T13:28:37Z Heart rate: 63.0 /min

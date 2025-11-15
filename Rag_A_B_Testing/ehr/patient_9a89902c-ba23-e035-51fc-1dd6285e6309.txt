@@ -1,0 +1,91 @@
+== PATIENT RECORD: Trisha327 Murray856 (ID: 9a89902c-ba23-e035-51fc-1dd6285e6309) ==
+
+== Demographics ==
+Patient ID: 9a89902c-ba23-e035-51fc-1dd6285e6309
+Name: Trisha327 Murray856
+Gender: F
+Birthdate: 1976-08-02
+Address: 751 Altenwerth Ferry Suite 32
+Marital Status: M
+
+== Allergies ==
+- Soya bean (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Normal pregnancy
+- Prediabetes
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Astemizole 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Streptococcus pneumoniae group B antigen test (Date: 2011-12-19T05:53:28Z)
+- Evaluation of uterine fundal height (Date: 2011-12-19T05:53:28Z)
+- Auscultation of the fetal heart (Date: 2011-12-19T05:53:28Z)
+- Childbirth (Date: 2012-01-02T05:53:28Z)
+- Physical examination following birth (Date: 2012-02-13T05:53:28Z)
+- Depression screening (Date: 2012-02-13T05:53:28Z)
+- Bilateral tubal ligation (Date: 2012-02-24T05:53:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-21T05:53:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-21T05:53:28Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-21T06:43:41Z)
+- Depression screening (procedure) (Date: 2013-10-21T07:04:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-21T07:19:12Z)
+- Assessment of substance use (procedure) (Date: 2013-10-21T07:41:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-21T07:54:01Z)
+- Measurement of respiratory function (procedure) (Date: 2015-04-10T08:53:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-20T05:53:28Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-20T06:30:40Z)
+- Depression screening (procedure) (Date: 2015-04-20T06:52:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-20T07:05:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-11T05:53:28Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-11T05:53:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-08T05:53:28Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-08T05:53:28Z)
+- Depression screening (procedure) (Date: 2016-08-08T06:26:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-08T06:39:49Z)
+- Assessment of substance use (procedure) (Date: 2016-08-08T07:01:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-08-08T07:13:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-13T05:53:28Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-13T06:25:15Z)
+- Depression screening (procedure) (Date: 2018-08-13T07:01:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-13T07:15:27Z)
+- Assessment of substance use (procedure) (Date: 2018-08-13T07:40:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-08-13T07:50:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-17T05:53:28Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-17T06:36:28Z)
+- Depression screening (procedure) (Date: 2020-08-17T07:04:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-17T07:19:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-17T07:42:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-24T05:53:28Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-26T05:53:28Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-17T05:53:28Z: General examination of patient (procedure)
+- 2018-08-13T05:53:28Z: General examination of patient (procedure)
+- 2016-08-08T05:53:28Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-02T05:53:28Z QOLS: 1.0 {score}
+- 2021-08-02T05:53:28Z DALY: 0.5 a
+- 2021-08-02T05:53:28Z QALY: 43.5 a
+- 2020-08-17T08:08:50Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 22.0 {score}
+- 2020-08-17T07:42:25Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2020-08-17T07:04:37Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2020-08-17T06:36:28Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-08-17T06:36:28Z What is your current work situation?: Full-time work nan
+- 2020-08-17T06:36:28Z What is your housing situation today?: I have housing nan
+- 2020-08-17T06:36:28Z Are you worried about losing your housing?: No nan

@@ -1,0 +1,140 @@
+== PATIENT RECORD: Graham902 Willms744 (ID: 2c293700-fabf-3c0c-8d1a-67cd127dcb12) ==
+
+== Demographics ==
+Patient ID: 2c293700-fabf-3c0c-8d1a-67cd127dcb12
+Name: Graham902 Willms744
+Gender: M
+Birthdate: 1926-11-12
+Address: 1060 O'Keefe Estate Apt 76
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Chronic sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Osteoarthritis of knee
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Smokes tobacco daily
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Reports of violence in the environment (finding)
+- Atrial Fibrillation
+- Alzheimer's disease (disorder)
+- Fracture of ankle
+- Laceration of forearm
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- 24hr nicotine transdermal patch
+- Acetaminophen 325 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1999-03-19T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 1999-03-19T10:42:42Z)
+- Screening for domestic abuse (procedure) (Date: 1999-03-19T11:14:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-03-24T10:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-03-24T11:34:52Z)
+- Depression screening (procedure) (Date: 2000-03-24T11:58:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-03-24T12:12:45Z)
+- Assessment of substance use (procedure) (Date: 2000-03-24T12:35:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-03-24T12:47:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-11-17T10:42:42Z)
+- Depression screening (procedure) (Date: 2000-11-17T11:40:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-11-17T11:54:32Z)
+- Assessment of substance use (procedure) (Date: 2000-11-17T12:18:07Z)
+- Screening for drug abuse (procedure) (Date: 2000-11-17T12:32:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-03-30T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 2001-03-30T10:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-03-30T11:32:47Z)
+- Depression screening (procedure) (Date: 2001-03-30T11:54:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-03-30T12:09:18Z)
+- Assessment of substance use (procedure) (Date: 2001-03-30T12:35:55Z)
+- Screening for drug abuse (procedure) (Date: 2001-03-30T12:48:03Z)
+- Colonoscopy (Date: 2001-11-11T13:35:18Z)
+- Electrical cardioversion (Date: 2002-04-05T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-04-05T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 2002-04-05T10:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-04-05T11:17:27Z)
+- Depression screening (procedure) (Date: 2002-04-05T11:39:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-04-05T11:51:35Z)
+- Assessment of substance use (procedure) (Date: 2002-04-05T12:13:04Z)
+- Screening for drug abuse (procedure) (Date: 2002-04-05T12:26:12Z)
+- Electrical cardioversion (Date: 2003-04-11T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-04-11T10:42:42Z)
+- Depression screening (procedure) (Date: 2003-04-11T11:33:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-04-11T11:47:10Z)
+- Ankle X-ray (Date: 2003-06-02T11:40:35Z)
+- Bone immobilization (Date: 2003-06-02T11:40:35Z)
+- Bone density scan (procedure) (Date: 2003-06-02T12:23:49Z)
+- Electrical cardioversion (Date: 2004-04-16T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-04-16T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 2004-04-16T10:42:42Z)
+- Depression screening (procedure) (Date: 2004-04-16T11:40:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-04-16T11:53:48Z)
+- Electrical cardioversion (Date: 2005-04-22T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-04-22T10:42:42Z)
+- Measurement of respiratory function (procedure) (Date: 2005-04-27T22:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-04-22T11:13:10Z)
+- Depression screening (procedure) (Date: 2005-04-22T11:41:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-04-22T11:54:37Z)
+- Electrical cardioversion (Date: 2005-05-06T10:42:42Z)
+- Electrical cardioversion (Date: 2005-05-13T10:42:42Z)
+- Electrical cardioversion (Date: 2006-04-28T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-04-28T10:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-04-28T11:17:39Z)
+- Screening for domestic abuse (procedure) (Date: 2006-04-28T11:40:38Z)
+- Depression screening (procedure) (Date: 2006-04-28T12:17:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-04-28T12:29:22Z)
+- Electrical cardioversion (Date: 2007-05-04T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-05-04T10:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-05-04T11:21:09Z)
+- Screening for domestic abuse (procedure) (Date: 2007-05-04T11:45:27Z)
+- Depression screening (procedure) (Date: 2007-05-04T12:22:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-05-04T12:36:09Z)
+- Assessment of substance use (procedure) (Date: 2007-05-04T12:59:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2007-05-04T13:13:30Z)
+- Suture open wound (Date: 2007-09-26T12:23:49Z)
+- Electrical cardioversion (Date: 2008-05-09T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-05-09T10:42:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-05-09T11:37:23Z)
+- Assessment of substance use (procedure) (Date: 2008-05-09T12:05:47Z)
+- Screening for drug abuse (procedure) (Date: 2008-05-09T12:19:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2008-06-06T10:42:42Z: Death Certification
+- 2008-05-09T10:42:42Z: General examination of patient (procedure)
+- 2007-10-23T10:42:42Z: Office Visit
+- 2007-09-26T12:23:49Z: Emergency room admission (procedure)
+- 2007-05-04T10:42:42Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2008-06-06T10:42:42Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 2008-05-09T12:40:56Z Total score [DAST-10]: 2.0 {score}
+- 2008-05-09T12:05:47Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2008-05-09T12:05:47Z Fall risk total [Morse Fall Scale]: 38.0 {#}
+- 2008-05-09T11:37:23Z What is your current work situation?: Full-time work nan
+- 2008-05-09T11:37:23Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2008-05-09T11:37:23Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2008-05-09T11:37:23Z Are you a refugee?: No nan
+- 2008-05-09T11:37:23Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2008-05-09T11:37:23Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

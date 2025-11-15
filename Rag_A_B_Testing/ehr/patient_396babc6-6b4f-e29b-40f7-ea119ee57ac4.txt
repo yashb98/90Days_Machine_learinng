@@ -1,0 +1,104 @@
+== PATIENT RECORD: Ralph813 Herzog843 (ID: 396babc6-6b4f-e29b-40f7-ea119ee57ac4) ==
+
+== Demographics ==
+Patient ID: 396babc6-6b4f-e29b-40f7-ea119ee57ac4
+Name: Ralph813 Herzog843
+Gender: M
+Birthdate: 1980-10-24
+Address: 361 Heller Trailer Apt 72
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Opioid abuse (disorder)
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-02T13:01:36Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-02T13:44:07Z)
+- Depression screening (procedure) (Date: 2012-03-02T14:11:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-02T14:26:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-08T13:01:36Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-08T13:01:36Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-08T13:56:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-14T13:01:36Z)
+- Depression screening (procedure) (Date: 2014-03-14T13:49:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-14T14:00:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-28T13:01:36Z)
+- Depression screening (procedure) (Date: 2014-03-28T13:44:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-28T13:55:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-20T13:01:36Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-20T13:56:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-25T13:01:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-25T13:01:36Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-25T13:46:03Z)
+- Depression screening (procedure) (Date: 2016-03-25T14:06:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-25T14:16:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-31T13:01:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-31T13:01:36Z)
+- Depression screening (procedure) (Date: 2017-03-31T14:00:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-31T14:12:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-06T13:01:36Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-06T13:55:47Z)
+- Screening for domestic abuse (procedure) (Date: 2018-04-06T14:20:41Z)
+- Depression screening (procedure) (Date: 2018-04-06T15:00:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-06T15:15:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-04-06T15:37:34Z)
+- Sputum examination (procedure) (Date: 2019-01-06T06:01:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-12T13:01:36Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-12T13:01:36Z)
+- Depression screening (procedure) (Date: 2019-04-12T13:40:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-12T13:53:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-04-12T14:14:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-17T13:01:36Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-17T13:01:36Z)
+- Depression screening (procedure) (Date: 2020-04-17T13:48:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-17T14:01:20Z)
+- Sputum examination (procedure) (Date: 2020-05-09T02:01:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-22T13:01:36Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-22T13:58:04Z)
+- Depression screening (procedure) (Date: 2020-05-22T14:17:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-22T14:28:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-23T13:01:36Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-23T13:01:36Z)
+- Depression screening (procedure) (Date: 2021-04-23T13:46:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-23T13:57:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-23T13:01:36Z: General examination of patient (procedure)
+- 2020-05-22T13:01:36Z: Encounter for check up (procedure)
+- 2020-05-15T13:01:36Z: Urgent care clinic (procedure)
+- 2020-05-09T02:01:36Z: Encounter for symptom
+- 2020-04-17T13:01:36Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T13:01:36Z QOLS: 0.7 {score}
+- 2021-10-24T13:01:36Z QALY: 37.9 a
+- 2021-10-24T13:01:36Z DALY: 2.1 a
+- 2021-04-23T14:19:11Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-04-23T13:46:36Z What is your housing situation today?: I have housing nan
+- 2021-04-23T13:46:36Z Are you worried about losing your housing?: No nan
+- 2021-04-23T13:46:36Z What address do you live at?: 361 Heller Trailer Apt 72 nan
+- 2021-04-23T13:46:36Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-04-23T13:46:36Z What is your main insurance?: Private insurance nan
+- 2021-04-23T13:46:36Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 109310 /a

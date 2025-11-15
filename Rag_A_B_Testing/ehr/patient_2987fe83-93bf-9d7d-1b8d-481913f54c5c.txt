@@ -1,0 +1,73 @@
+== PATIENT RECORD: Tracy345 Kassulke119 (ID: 2987fe83-93bf-9d7d-1b8d-481913f54c5c) ==
+
+== Demographics ==
+Patient ID: 2987fe83-93bf-9d7d-1b8d-481913f54c5c
+Name: Tracy345 Kassulke119
+Gender: M
+Birthdate: 1987-08-23
+Address: 261 Emard Gardens Apt 53
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Transport problems (finding)
+- Part-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Full-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Lack of access to transportation (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Stress (finding)
+- Laceration of forearm
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-28T23:09:15Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-28T23:50:59Z)
+- Depression screening (procedure) (Date: 2012-10-29T00:12:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-29T00:26:26Z)
+- Assessment of substance use (procedure) (Date: 2012-10-29T00:51:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-29T01:03:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-01T23:09:15Z)
+- Depression screening (procedure) (Date: 2015-11-01T23:53:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-02T00:04:45Z)
+- Assessment of substance use (procedure) (Date: 2015-11-02T00:25:00Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-02T00:39:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-04T23:09:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-04T23:09:15Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-05T00:03:49Z)
+- Depression screening (procedure) (Date: 2018-11-05T00:46:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-05T00:58:46Z)
+- Suture open wound (Date: 2019-09-25T23:46:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-07T23:09:15Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-07T23:09:15Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-07T23:43:48Z)
+- Depression screening (procedure) (Date: 2021-11-08T00:11:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-08T00:22:42Z)
+- Assessment of substance use (procedure) (Date: 2021-11-08T00:48:13Z)
+- Screening for drug abuse (procedure) (Date: 2021-11-08T00:59:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-07T23:09:15Z: General examination of patient (procedure)
+- 2021-05-02T23:09:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-04T23:09:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-09-25T23:46:08Z: Emergency room admission (procedure)
+- 2018-11-04T23:09:15Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-08T01:21:21Z Total score [DAST-10]: 0.0 {score}
+- 2021-11-08T00:48:13Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-11-08T00:11:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- 2021-11-07T23:43:48Z What is your main insurance?: Private insurance nan
+- 2021-11-07T23:43:48Z What is your housing situation today?: I have housing nan
+- 2021-11-07T23:43:48Z What address do you live at?: 261 Emard Gardens Apt 53 nan
+- 2021-11-07T23:43:48Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-11-07T23:43:48Z What is your current work situation?: Part-time or temporary work nan
+- 2021-11-07T23:43:48Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 198488 /a
+- 2021-11-07T23:43:48Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan

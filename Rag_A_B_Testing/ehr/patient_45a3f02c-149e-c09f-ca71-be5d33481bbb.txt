@@ -1,0 +1,112 @@
+== PATIENT RECORD: India495 Bosco882 (ID: 45a3f02c-149e-c09f-ca71-be5d33481bbb) ==
+
+== Demographics ==
+Patient ID: 45a3f02c-149e-c09f-ca71-be5d33481bbb
+Name: India495 Bosco882
+Gender: F
+Birthdate: 1911-11-04
+Address: 818 Gutmann Highlands
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Pulmonary emphysema (disorder)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Stress (finding)
+- Sprain of wrist
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Aspirin 81 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 1966-04-30T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1966-04-30T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1966-04-30T09:42:27Z)
+- Depression screening (procedure) (Date: 1966-04-30T10:05:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1966-04-30T10:19:40Z)
+- Assessment of substance use (procedure) (Date: 1966-04-30T10:45:35Z)
+- Screening for drug abuse (procedure) (Date: 1966-04-30T10:59:16Z)
+- Colonoscopy (Date: 1966-11-04T09:17:56Z)
+- Spirometry (procedure) (Date: 1967-05-06T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1967-05-06T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1967-05-06T08:46:25Z)
+- Depression screening (procedure) (Date: 1967-05-06T09:18:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1967-05-06T09:30:06Z)
+- Assessment of substance use (procedure) (Date: 1967-05-06T09:52:41Z)
+- Screening for drug abuse (procedure) (Date: 1967-05-06T10:05:02Z)
+- Spirometry (procedure) (Date: 1968-05-11T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1968-05-11T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1968-05-11T08:46:25Z)
+- Depression screening (procedure) (Date: 1968-05-11T09:43:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1968-05-11T09:55:27Z)
+- Spirometry (procedure) (Date: 1969-05-17T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1969-05-17T08:46:25Z)
+- Depression screening (procedure) (Date: 1969-05-17T09:19:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1969-05-17T09:32:20Z)
+- Assessment of substance use (procedure) (Date: 1969-05-17T09:54:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1969-05-17T10:08:16Z)
+- Spirometry (procedure) (Date: 1970-05-23T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1970-05-23T08:46:25Z)
+- Depression screening (procedure) (Date: 1970-05-23T09:28:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1970-05-23T09:38:59Z)
+- Spirometry (procedure) (Date: 1971-05-29T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1971-05-29T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1971-05-29T09:33:00Z)
+- Assessment of substance use (procedure) (Date: 1971-05-29T09:56:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1971-05-29T10:07:20Z)
+- Colonoscopy (Date: 1971-11-04T09:49:06Z)
+- Spirometry (procedure) (Date: 1972-06-03T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1972-06-03T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1972-06-03T09:42:38Z)
+- Assessment of substance use (procedure) (Date: 1972-06-03T09:58:55Z)
+- Screening for drug abuse (procedure) (Date: 1972-06-03T10:12:57Z)
+- Spirometry (procedure) (Date: 1973-06-09T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1973-06-09T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1973-06-09T08:46:25Z)
+- Screening for domestic abuse (procedure) (Date: 1973-06-09T09:37:48Z)
+- Depression screening (procedure) (Date: 1973-06-09T10:02:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1973-06-09T10:14:39Z)
+- Assessment of substance use (procedure) (Date: 1973-06-09T10:37:45Z)
+- Screening for drug abuse (procedure) (Date: 1973-06-09T10:52:24Z)
+- Spirometry (procedure) (Date: 1974-06-15T08:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1974-06-15T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1974-06-15T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1974-06-15T09:17:44Z)
+- Depression screening (procedure) (Date: 1974-06-15T09:44:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1974-06-15T09:56:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1974-06-15T10:18:04Z)
+- Spirometry (procedure) (Date: 1975-06-21T08:46:25Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 1975-06-21T08:46:25Z)
+
+== Recent Encounters (Last 5) ==
+- 1975-06-28T08:46:25Z: Death Certification
+- 1975-06-21T08:46:25Z: General examination of patient (procedure)
+- 1974-06-15T08:46:25Z: General examination of patient (procedure)
+- 1973-06-09T08:46:25Z: General examination of patient (procedure)
+- 1973-05-31T16:46:25Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 1975-06-28T08:46:25Z Cause of Death [US Standard Certificate of Death]: Pulmonary emphysema (disorder) nan
+- 1975-06-21T08:46:25Z FEV1/FVC: 25.0 %
+- 1974-06-15T10:45:29Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 22.0 {score}
+- 1974-06-15T10:18:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 1974-06-15T09:44:21Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 1974-06-15T09:17:44Z What is your current work situation?: Full-time work nan
+- 1974-06-15T09:17:44Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1974-06-15T09:17:44Z Are you a refugee?: No nan
+- 1974-06-15T09:17:44Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 1974-06-15T09:17:44Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan

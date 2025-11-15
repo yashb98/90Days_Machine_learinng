@@ -1,0 +1,112 @@
+== PATIENT RECORD: Nathalie366 Reichel38 (ID: b1d84e5c-1c09-c772-2ee1-ca095df0d435) ==
+
+== Demographics ==
+Patient ID: b1d84e5c-1c09-c772-2ee1-ca095df0d435
+Name: Nathalie366 Reichel38
+Gender: F
+Birthdate: 1911-11-04
+Address: 204 Hills Branch
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Sepsis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Has a criminal record (finding)
+- Alzheimer's disease (disorder)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1987-11-21T08:46:25Z)
+- Depression screening (procedure) (Date: 1987-11-21T09:20:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-11-21T09:31:14Z)
+- Assessment of substance use (procedure) (Date: 1987-11-21T09:53:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1987-11-21T10:05:50Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-11-26T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1988-11-26T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1988-11-26T09:17:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1988-11-26T09:46:18Z)
+- Screening for domestic abuse (procedure) (Date: 1988-11-26T10:09:05Z)
+- Depression screening (procedure) (Date: 1988-11-26T10:40:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-11-26T10:51:44Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-12-02T08:46:25Z)
+- Screening for domestic abuse (procedure) (Date: 1989-12-02T09:40:18Z)
+- Depression screening (procedure) (Date: 1989-12-02T10:24:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-12-02T10:36:51Z)
+- Assessment of substance use (procedure) (Date: 1989-12-02T11:02:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-12-02T11:17:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-12-08T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1990-12-08T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1990-12-08T09:29:34Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1990-12-08T09:52:43Z)
+- Assessment of substance use (procedure) (Date: 1990-12-08T10:13:21Z)
+- Screening for drug abuse (procedure) (Date: 1990-12-08T10:24:24Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-12-14T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1991-12-14T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1991-12-14T09:24:10Z)
+- Depression screening (procedure) (Date: 1991-12-14T09:44:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-12-14T09:56:33Z)
+- Assessment of substance use (procedure) (Date: 1991-12-14T10:24:32Z)
+- Screening for drug abuse (procedure) (Date: 1991-12-14T10:38:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-12-19T08:46:25Z)
+- Depression screening (procedure) (Date: 1992-12-19T09:43:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-12-19T09:54:54Z)
+- Assessment of substance use (procedure) (Date: 1992-12-19T10:14:56Z)
+- Screening for drug abuse (procedure) (Date: 1992-12-19T10:29:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-12-25T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1993-12-25T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-12-25T09:25:44Z)
+- Screening for domestic abuse (procedure) (Date: 1993-12-25T09:44:05Z)
+- Depression screening (procedure) (Date: 1993-12-25T10:24:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-12-25T10:35:50Z)
+- Assessment of substance use (procedure) (Date: 1993-12-25T11:03:16Z)
+- Screening for drug abuse (procedure) (Date: 1993-12-25T11:16:03Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-12-31T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1994-12-31T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-12-31T09:23:14Z)
+- Depression screening (procedure) (Date: 1994-12-31T09:52:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-12-31T10:06:06Z)
+- Assessment of substance use (procedure) (Date: 1994-12-31T10:26:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1994-12-31T10:38:48Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-01-06T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1996-01-06T09:29:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-01-06T09:45:29Z)
+- Depression screening (procedure) (Date: 1996-01-06T10:09:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-01-06T10:24:26Z)
+
+== Recent Encounters (Last 5) ==
+- 1996-12-21T08:46:25Z: Death Certification
+- 1996-01-06T08:46:25Z: General examination of patient (procedure)
+- 1994-12-31T08:46:25Z: General examination of patient (procedure)
+- 1994-09-10T08:46:25Z: Urgent care clinic (procedure)
+- 1994-09-03T08:46:25Z: Emergency Encounter
+
+== Recent Observations (Last 10) ==
+- 1996-12-21T08:46:25Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 1996-01-06T10:51:28Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 1996-01-06T10:09:28Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 1996-01-06T10:09:28Z Fall risk total [Morse Fall Scale]: 82.0 {#}
+- 1996-01-06T09:45:29Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 1996-01-06T09:29:22Z What is your current work situation?: Full-time work nan
+- 1996-01-06T09:29:22Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1996-01-06T09:29:22Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1996-01-06T09:29:22Z Are you a refugee?: No nan
+- 1996-01-06T09:29:22Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan

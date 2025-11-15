@@ -1,0 +1,87 @@
+== PATIENT RECORD: Chong355 Boehm581 (ID: 83bd6a6c-8c7f-da8f-0cd8-9bec34c64a1e) ==
+
+== Demographics ==
+Patient ID: 83bd6a6c-8c7f-da8f-0cd8-9bec34c64a1e
+Name: Chong355 Boehm581
+Gender: M
+Birthdate: 1973-06-02
+Address: 354 Abernathy Loaf Unit 50
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Anemia (disorder)
+- Otitis media
+- Fracture of ankle
+- Not in labor force (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-06-08T21:24:29Z)
+- Peripheral blood smear interpretation (Date: 2013-06-08T21:24:29Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-08T22:20:14Z)
+- Depression screening (procedure) (Date: 2013-06-08T22:37:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-08T22:51:49Z)
+- Review of systems (procedure) (Date: 2013-06-08T21:54:29Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-08T22:13:46Z)
+- Brief general examination (procedure) (Date: 2013-06-08T22:26:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-13T21:24:29Z)
+- Screening for domestic abuse (procedure) (Date: 2015-06-13T21:59:12Z)
+- Depression screening (procedure) (Date: 2015-06-13T22:34:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-13T22:44:33Z)
+- Assessment of substance use (procedure) (Date: 2015-06-13T23:11:40Z)
+- Screening for drug abuse (procedure) (Date: 2015-06-13T23:26:24Z)
+- Ankle X-ray (Date: 2016-07-29T22:04:07Z)
+- Bone immobilization (Date: 2016-07-29T22:04:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-17T21:24:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-17T21:24:29Z)
+- Depression screening (procedure) (Date: 2017-06-17T22:23:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-17T22:38:52Z)
+- Assessment of substance use (procedure) (Date: 2017-06-17T23:00:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-17T23:11:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-22T21:24:29Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-22T21:24:29Z)
+- Screening for domestic abuse (procedure) (Date: 2019-06-22T21:56:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-26T21:24:29Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-26T22:04:17Z)
+- Depression screening (procedure) (Date: 2021-06-26T22:31:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-26T22:46:27Z)
+- Assessment of substance use (procedure) (Date: 2021-06-26T23:11:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-26T23:21:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-26T21:24:29Z: General examination of patient (procedure)
+- 2021-05-08T21:24:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T21:24:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-06-22T21:24:29Z: General examination of patient (procedure)
+- 2017-06-17T21:24:29Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-26T23:49:06Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-06-26T23:11:08Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-26T22:31:44Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-06-26T22:04:17Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-06-26T22:04:17Z What is your main insurance?: Private insurance nan
+- 2021-06-26T22:04:17Z Are you worried about losing your housing?: No nan
+- 2021-06-26T22:04:17Z What address do you live at?: 354 Abernathy Loaf Unit 50 nan
+- 2021-06-26T22:04:17Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-06-26T22:04:17Z What is your current work situation?: Full-time work nan
+- 2021-06-26T22:04:17Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 93687 /a

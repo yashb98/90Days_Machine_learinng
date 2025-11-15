@@ -1,0 +1,119 @@
+== PATIENT RECORD: Lamar193 McDermott739 (ID: edc8dc01-9e25-8cb5-c18e-9b9b75ccd1ee) ==
+
+== Demographics ==
+Patient ID: edc8dc01-9e25-8cb5-c18e-9b9b75ccd1ee
+Name: Lamar193 McDermott739
+Gender: M
+Birthdate: 1918-11-27
+Address: 257 Bogisich Trafficway
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Coronary Heart Disease
+- Full-time employment (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Laceration of hand
+- Alzheimer's disease (disorder)
+- Pneumonia
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Amlodipine 5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Donepezil hydrochloride 10 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1999-05-19T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-05-19T16:51:33Z)
+- Screening for domestic abuse (procedure) (Date: 1999-05-19T17:15:00Z)
+- Depression screening (procedure) (Date: 1999-05-19T17:52:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-05-19T18:06:39Z)
+- Assessment of substance use (procedure) (Date: 1999-05-19T18:32:40Z)
+- Screening for drug abuse (procedure) (Date: 1999-05-19T18:44:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-05-24T15:56:07Z)
+- Assessment of substance use (procedure) (Date: 2000-05-24T16:27:06Z)
+- Screening for drug abuse (procedure) (Date: 2000-05-24T16:41:04Z)
+- Suture open wound (Date: 2000-10-03T16:29:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-05-30T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-05-30T16:35:03Z)
+- Depression screening (procedure) (Date: 2001-05-30T16:56:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-05-30T17:11:04Z)
+- Assessment of substance use (procedure) (Date: 2001-05-30T17:36:59Z)
+- Screening for drug abuse (procedure) (Date: 2001-05-30T17:48:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-06-05T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2002-06-05T16:52:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-06-05T17:19:17Z)
+- Depression screening (procedure) (Date: 2002-06-05T17:47:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-06-05T18:00:20Z)
+- Assessment of substance use (procedure) (Date: 2002-06-05T18:20:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-06-05T18:32:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-06-11T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2003-06-11T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2003-06-11T16:28:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-06-11T16:45:35Z)
+- Screening for domestic abuse (procedure) (Date: 2003-06-11T17:12:13Z)
+- Depression screening (procedure) (Date: 2003-06-11T17:46:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-06-11T18:00:53Z)
+- Assessment of substance use (procedure) (Date: 2003-06-11T18:28:31Z)
+- Screening for drug abuse (procedure) (Date: 2003-06-11T18:38:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-06-16T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2004-06-16T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2004-06-16T16:42:48Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-06-16T17:09:19Z)
+- Screening for domestic abuse (procedure) (Date: 2004-06-16T17:34:41Z)
+- Depression screening (procedure) (Date: 2004-06-16T18:19:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-06-16T18:30:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-06-22T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2005-06-22T15:56:07Z)
+- Depression screening (procedure) (Date: 2005-06-22T16:35:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-06-22T16:48:11Z)
+- Assessment of substance use (procedure) (Date: 2005-06-22T17:14:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-06-22T17:27:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-06-28T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2006-06-28T16:44:37Z)
+- Depression screening (procedure) (Date: 2006-06-28T17:03:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-06-28T17:16:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-07-04T15:56:07Z)
+- Depression screening (procedure) (Date: 2007-07-04T16:47:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-07-04T17:01:46Z)
+- Assessment of substance use (procedure) (Date: 2007-07-04T17:24:27Z)
+- Screening for drug abuse (procedure) (Date: 2007-07-04T17:35:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-07-09T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2008-07-09T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2008-07-09T16:42:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-07-09T17:03:31Z)
+- Depression screening (procedure) (Date: 2008-07-09T17:28:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-07-09T17:40:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2009-02-18T15:56:07Z: Death Certification
+- 2009-01-30T15:56:07Z: Hospital admission
+- 2009-01-25T15:56:07Z: Follow-up encounter
+- 2008-07-09T15:56:07Z: General examination of patient (procedure)
+- 2008-01-26T15:56:07Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2009-02-18T15:56:07Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2009-01-25T15:56:07Z Albumin [Mass/volume] in Serum or Plasma: 5.0 g/dL
+- 2009-01-25T15:56:07Z Glucose: 80.7 mg/dL
+- 2009-01-25T15:56:07Z Urea Nitrogen: 9.4 mg/dL
+- 2009-01-25T15:56:07Z Creatinine: 2.6 mg/dL
+- 2009-01-25T15:56:07Z Sodium: 143.9 mmol/L
+- 2009-01-25T15:56:07Z Potassium: 4.1 mmol/L
+- 2009-01-25T15:56:07Z Chloride: 109.3 mmol/L
+- 2009-01-25T15:56:07Z Carbon Dioxide: 23.6 mmol/L
+- 2009-01-25T15:56:07Z Glomerular filtration rate/1.73 sq M.predicted: 80.0 mL/min

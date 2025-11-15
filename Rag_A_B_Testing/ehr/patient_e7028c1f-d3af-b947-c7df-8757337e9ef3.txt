@@ -1,0 +1,66 @@
+== PATIENT RECORD: Brent147 Metz686 (ID: e7028c1f-d3af-b947-c7df-8757337e9ef3) ==
+
+== Demographics ==
+Patient ID: e7028c1f-d3af-b947-c7df-8757337e9ef3
+Name: Brent147 Metz686
+Gender: M
+Birthdate: 1990-10-09
+Address: 205 Runolfsson Manor Unit 74
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+- Laceration of foot
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-12-11T06:38:36Z)
+- Screening for domestic abuse (procedure) (Date: 2012-12-11T07:23:38Z)
+- Assessment of substance use (procedure) (Date: 2012-12-11T07:57:37Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-11T08:10:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-15T06:38:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-15T06:38:36Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-15T07:14:57Z)
+- Assessment of substance use (procedure) (Date: 2015-12-15T07:34:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-15T07:44:15Z)
+- Suture open wound (Date: 2017-11-27T06:38:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-18T06:38:36Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-18T06:38:36Z)
+- Depression screening (procedure) (Date: 2018-12-18T07:34:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-18T07:48:28Z)
+- Assessment of substance use (procedure) (Date: 2018-12-18T08:09:22Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-18T08:23:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2018-12-18T06:38:36Z: General examination of patient (procedure)
+- 2018-05-08T06:38:36Z: Encounter for symptom
+- 2017-11-27T06:38:36Z: Emergency room admission (procedure)
+- 2015-12-15T06:38:36Z: General examination of patient (procedure)
+- 2012-12-11T06:38:36Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-09T06:38:36Z QOLS: 1.0 {score}
+- 2021-10-09T06:38:36Z DALY: 0.0 a
+- 2021-10-09T06:38:36Z QALY: 30.0 a
+- 2020-10-09T06:38:36Z QOLS: 1.0 {score}
+- 2020-10-09T06:38:36Z DALY: 0.0 a
+- 2020-10-09T06:38:36Z QALY: 29.0 a
+- 2019-10-09T06:38:36Z QALY: 28.0 a
+- 2019-10-09T06:38:36Z QOLS: 1.0 {score}
+- 2019-10-09T06:38:36Z DALY: 0.0 a
+- 2018-12-18T08:44:12Z Total score [DAST-10]: 1.0 {score}

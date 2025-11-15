@@ -1,0 +1,153 @@
+== PATIENT RECORD: Jennie425 Leuschke194 (ID: 08c062dd-284c-1b1c-3475-8122032000fc) ==
+
+== Demographics ==
+Patient ID: 08c062dd-284c-1b1c-3475-8122032000fc
+Name: Jennie425 Leuschke194
+Gender: F
+Birthdate: 1974-08-10
+Address: 777 Boehm Bridge
+Marital Status: S
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Lisinopril
+- Cow's milk (substance)
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+- Normal pregnancy
+- Not in labor force (finding)
+- Sprain of ankle
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- losartan potassium 25 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Yaz 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-21T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-21T05:03:33Z)
+- Depression screening (procedure) (Date: 2012-01-21T05:23:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-21T05:35:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-26T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-01-26T05:08:39Z)
+- Assessment of substance use (procedure) (Date: 2013-01-26T05:38:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-01-26T05:50:43Z)
+- Insertion of intrauterine contraceptive device (Date: 2013-11-29T17:33:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-01T04:12:09Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-01T04:44:47Z)
+- Depression screening (procedure) (Date: 2014-02-01T05:11:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-01T05:24:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-02-01T05:51:29Z)
+- Assessment of substance use (procedure) (Date: 2014-02-01T06:20:31Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-01T06:33:02Z)
+- Removal of subcutaneous contraceptive (Date: 2014-12-20T04:12:09Z)
+- Insertion of subcutaneous contraceptive (Date: 2014-12-20T04:38:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-07T04:12:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-07T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-07T05:01:37Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-07T05:18:45Z)
+- Assessment of substance use (procedure) (Date: 2015-02-07T05:44:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-07T05:55:30Z)
+- Insertion of intrauterine contraceptive device (Date: 2015-11-24T14:22:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-13T04:12:09Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-13T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-13T04:50:42Z)
+- Depression screening (procedure) (Date: 2016-02-13T05:18:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-13T05:30:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-22T04:12:09Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-22T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-22T05:05:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-18T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-18T04:47:05Z)
+- Depression screening (procedure) (Date: 2017-02-18T05:06:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-18T05:18:04Z)
+- Removal of subcutaneous contraceptive (Date: 2017-09-16T04:12:09Z)
+- Standard pregnancy test (Date: 2017-11-11T04:12:09Z)
+- Ultrasound scan for fetal viability (Date: 2017-11-11T04:12:09Z)
+- Evaluation of uterine fundal height (Date: 2017-11-11T04:12:09Z)
+- Auscultation of the fetal heart (Date: 2017-11-11T04:12:09Z)
+- Blood typing  RH typing (Date: 2017-11-11T04:12:09Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-11-11T04:12:09Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2017-11-11T04:12:09Z)
+- Human immunodeficiency virus antigen test (Date: 2017-11-11T04:12:09Z)
+- Chlamydia antigen test (Date: 2017-11-11T04:12:09Z)
+- Gonorrhea infection test (Date: 2017-11-11T04:12:09Z)
+- Syphilis infection test (Date: 2017-11-11T04:12:09Z)
+- Urine culture (Date: 2017-11-11T04:12:09Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2017-11-11T04:12:09Z)
+- Urine screening test for diabetes (Date: 2017-11-11T04:12:09Z)
+- Hepatitis C antibody test (Date: 2017-11-11T04:12:09Z)
+- Rubella screening (Date: 2017-11-11T04:12:09Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2017-11-11T04:12:09Z)
+- Skin test for tuberculosis (Date: 2017-11-11T04:12:09Z)
+- Urine protein test (Date: 2017-11-11T04:12:09Z)
+- Physical examination of mother (Date: 2017-11-11T04:12:09Z)
+- Evaluation of uterine fundal height (Date: 2017-12-09T04:12:09Z)
+- Auscultation of the fetal heart (Date: 2017-12-09T04:12:09Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2017-12-09T04:12:09Z)
+- Physical examination (Date: 2018-01-26T04:12:09Z)
+- Depression screening (Date: 2018-01-26T04:12:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-24T04:12:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-24T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-24T04:59:18Z)
+- Depression screening (procedure) (Date: 2018-02-24T05:21:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-24T05:35:28Z)
+- Assessment of substance use (procedure) (Date: 2018-02-24T05:59:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-02-24T06:13:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-02T04:12:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-02T04:12:09Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-02T04:43:23Z)
+- Depression screening (procedure) (Date: 2019-03-02T05:11:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-02T05:25:10Z)
+- Assessment of substance use (procedure) (Date: 2019-03-02T05:52:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-02T06:05:16Z)
+- Insertion of subcutaneous contraceptive (Date: 2020-01-17T04:12:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-07T04:12:09Z)
+- Depression screening (procedure) (Date: 2020-03-07T04:53:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-07T05:07:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-13T04:12:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-13T04:12:09Z)
+- Depression screening (procedure) (Date: 2021-03-13T04:43:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-13T04:54:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-14T04:12:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-24T04:12:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-13T04:12:09Z: General examination of patient (procedure)
+- 2021-01-11T04:42:27Z: Consultation for treatment
+- 2020-03-07T04:12:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-10T04:12:09Z QOLS: 0.3 {score}
+- 2021-08-10T04:12:09Z QALY: 13.6 a
+- 2021-08-10T04:12:09Z DALY: 32.4 a
+- 2021-03-13T05:15:38Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-13T04:43:28Z What is your housing situation today?: I have housing nan
+- 2021-03-13T04:43:28Z Are you worried about losing your housing?: No nan
+- 2021-03-13T04:43:28Z What address do you live at?: 777 Boehm Bridge nan
+- 2021-03-13T04:43:28Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-13T04:43:28Z What is your current work situation?: Full-time work nan
+- 2021-03-13T04:43:28Z What is your main insurance?: Private insurance nan

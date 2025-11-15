@@ -1,0 +1,72 @@
+== PATIENT RECORD: Ana972 Bonilla161 (ID: 68f34b8e-efce-ce3e-836d-a815503c7b56) ==
+
+== Demographics ==
+Patient ID: 68f34b8e-efce-ce3e-836d-a815503c7b56
+Name: Ana972 Bonilla161
+Gender: F
+Birthdate: 2006-07-02
+Address: 733 Ward Arcade Unit 36
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Fracture of forearm
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Fracture subluxation of wrist
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-12-21T19:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-05T06:47:31Z)
+- Upper arm X-ray (Date: 2017-10-21T07:04:57Z)
+- Bone immobilization (Date: 2017-10-21T07:04:57Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-22T06:47:31Z)
+- Assessment of substance use (procedure) (Date: 2018-07-22T07:05:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-07-22T07:18:22Z)
+- Health risks education (procedure) (Date: 2018-07-22T07:47:48Z)
+- Throat culture (procedure) (Date: 2018-11-03T03:47:31Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-28T06:47:31Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-28T06:47:31Z)
+- Depression screening (procedure) (Date: 2019-07-28T07:08:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-07-28T07:23:25Z)
+- Assessment of substance use (procedure) (Date: 2019-07-28T07:45:51Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-07-28T08:00:07Z)
+- Anticipatory guidance (procedure) (Date: 2019-07-28T08:23:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-02T06:47:31Z)
+- Assessment of substance use (procedure) (Date: 2020-08-02T07:12:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-08-02T07:24:36Z)
+- Anticipatory guidance (procedure) (Date: 2020-08-02T07:45:43Z)
+- X-ray or wrist (Date: 2021-05-04T07:38:45Z)
+- Bone immobilization (Date: 2021-05-04T07:38:45Z)
+- Depression screening (procedure) (Date: 2021-08-08T06:47:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-08T06:58:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-07T06:47:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-17T06:47:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-08T06:47:31Z: Well child visit (procedure)
+- 2021-07-23T08:22:42Z: Encounter for 'check-up'
+- 2021-05-04T07:38:45Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-08T07:19:06Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-08-08T06:47:31Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-08T06:47:31Z Body Height: 174.2 cm
+- 2021-08-08T06:47:31Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-08-08T06:47:31Z Body Weight: 59.0 kg
+- 2021-08-08T06:47:31Z Body Mass Index: 19.4 kg/m2
+- 2021-08-08T06:47:31Z Body mass index (BMI) [Percentile] Per age and gender: 42.4 %
+- 2021-08-08T06:47:31Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-08-08T06:47:31Z Systolic Blood Pressure: 123.0 mm[Hg]
+- 2021-08-08T06:47:31Z Heart rate: 81.0 /min

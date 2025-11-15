@@ -1,0 +1,77 @@
+== PATIENT RECORD: Giuseppe872 Jaskolski867 (ID: c580eef6-e1bc-0a18-9d50-72acd9c9f95a) ==
+
+== Demographics ==
+Patient ID: c580eef6-e1bc-0a18-9d50-72acd9c9f95a
+Name: Giuseppe872 Jaskolski867
+Gender: M
+Birthdate: 1975-11-30
+Address: 1003 Smith Walk
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Localized  primary osteoarthritis of the hand
+- Viral sinusitis (disorder)
+- Otitis media
+- Streptococcal sore throat (disorder)
+- Acute bronchitis (disorder)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-02-17T23:24:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-17T23:24:19Z)
+- Assessment of substance use (procedure) (Date: 2013-02-17T23:57:25Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-18T00:12:02Z)
+- Throat culture (procedure) (Date: 2015-10-14T02:24:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-06T23:24:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-06T23:24:19Z)
+- Depression screening (procedure) (Date: 2015-12-07T00:23:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-07T00:33:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-12-07T00:57:05Z)
+- Assessment of substance use (procedure) (Date: 2015-12-07T01:18:59Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-07T01:30:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-10T23:24:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-10T23:24:19Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-11T00:13:18Z)
+- Depression screening (procedure) (Date: 2017-12-11T00:40:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-11T00:53:36Z)
+- Assessment of substance use (procedure) (Date: 2017-12-11T01:19:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-11T01:32:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-15T23:24:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-15T23:24:19Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-16T00:04:11Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-16T00:25:52Z)
+- Assessment of substance use (procedure) (Date: 2019-12-16T00:55:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-12-16T01:08:39Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-12T23:24:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-12-15T23:24:19Z: General examination of patient (procedure)
+- 2018-05-27T23:24:19Z: Urgent care clinic (procedure)
+- 2018-05-20T14:24:19Z: Encounter for symptom
+- 2017-12-10T23:24:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-11-30T23:24:19Z QOLS: 1.0 {score}
+- 2020-11-30T23:24:19Z DALY: 0.3 a
+- 2020-11-30T23:24:19Z QALY: 43.7 a
+- 2019-12-16T01:33:05Z Total score [AUDIT-C]: 2.0 {score}
+- 2019-12-16T00:55:55Z Total score [HARK]: 0.0 {score}
+- 2019-12-16T00:25:52Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2019-12-16T00:04:11Z What is the highest level of school that you have finished?: More than high school nan
+- 2019-12-16T00:04:11Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2019-12-16T00:04:11Z What is your main insurance?: Private insurance nan
+- 2019-12-16T00:04:11Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 33570 /a

@@ -1,0 +1,50 @@
+== PATIENT RECORD: Mateo562 Cardenas331 (ID: 19162199-ffeb-d890-6d5e-ed7afe08f1c0) ==
+
+== Demographics ==
+Patient ID: 19162199-ffeb-d890-6d5e-ed7afe08f1c0
+Name: Mateo562 Cardenas331
+Gender: M
+Birthdate: 2011-03-12
+Address: 952 Carroll Parade
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-18T18:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-16T18:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-17T18:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-15T18:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-16T18:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-14T18:42:44Z)
+- Throat culture (procedure) (Date: 2016-07-16T04:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-03T18:42:44Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-20T18:42:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-20T18:42:44Z: Well child visit (procedure)
+- 2020-03-14T18:42:44Z: Well child visit (procedure)
+- 2019-03-09T18:42:44Z: Well child visit (procedure)
+- 2018-03-03T18:42:44Z: Well child visit (procedure)
+- 2017-02-25T18:42:44Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-20T18:42:44Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-03-20T18:42:44Z Body Height: 136.8 cm
+- 2021-03-20T18:42:44Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-03-20T18:42:44Z Body Weight: 40.1 kg
+- 2021-03-20T18:42:44Z Body Mass Index: 21.4 kg/m2
+- 2021-03-20T18:42:44Z Body mass index (BMI) [Percentile] Per age and gender: 93.5 %
+- 2021-03-20T18:42:44Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-03-20T18:42:44Z Systolic Blood Pressure: 109.0 mm[Hg]
+- 2021-03-20T18:42:44Z Heart rate: 91.0 /min
+- 2021-03-20T18:42:44Z Respiratory rate: 12.0 /min

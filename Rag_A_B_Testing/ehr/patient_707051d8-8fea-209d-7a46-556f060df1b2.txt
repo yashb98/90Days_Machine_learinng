@@ -1,0 +1,68 @@
+== PATIENT RECORD: Essie785 Kuhn96 (ID: 707051d8-8fea-209d-7a46-556f060df1b2) ==
+
+== Demographics ==
+Patient ID: 707051d8-8fea-209d-7a46-556f060df1b2
+Name: Essie785 Kuhn96
+Gender: F
+Birthdate: 1978-02-27
+Address: 368 Jones Parade Suite 96
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Seizure disorder
+- History of single seizure (situation)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Cefaclor 250 MG Oral Capsule
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Aspirin 81 MG Oral Tablet
+- clonazePAM 0.25 MG Oral Tablet
+- Diazepam 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1981-08-04T04:06:42Z)
+- Medication Reconciliation (procedure) (Date: 1982-02-02T04:06:42Z)
+- Medication Reconciliation (procedure) (Date: 1983-02-08T04:06:42Z)
+- Medication Reconciliation (procedure) (Date: 1986-02-25T04:06:42Z)
+- Throat culture (procedure) (Date: 1987-01-13T19:06:42Z)
+- Medication Reconciliation (procedure) (Date: 1987-03-03T04:06:42Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1988-01-12T04:06:42Z)
+- Measurement of respiratory function (procedure) (Date: 1988-03-15T19:06:42Z)
+- Depression screening (procedure) (Date: 1990-03-20T04:06:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1990-03-20T04:21:01Z)
+- Assessment of substance use (procedure) (Date: 1990-03-20T04:47:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1990-03-20T04:59:08Z)
+- Anticipatory guidance (procedure) (Date: 1990-03-20T05:25:45Z)
+- Depression screening (procedure) (Date: 1991-03-26T04:06:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1991-03-26T04:20:17Z)
+- Assessment of substance use (procedure) (Date: 1991-03-26T04:46:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1991-03-26T04:57:50Z)
+- Anticipatory guidance (procedure) (Date: 1991-03-26T05:10:59Z)
+
+== Recent Encounters (Last 5) ==
+- 1991-06-18T04:06:42Z: Death Certification
+- 1991-03-26T04:06:42Z: Well child visit (procedure)
+- 1990-03-20T04:06:42Z: Well child visit (procedure)
+- 1989-03-14T04:06:42Z: Well child visit (procedure)
+- 1988-03-22T04:06:42Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 1991-06-18T04:06:42Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1991-03-26T04:46:41Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 1991-03-26T04:06:42Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 1991-03-26T04:06:42Z Body Height: 165.8 cm
+- 1991-03-26T04:06:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 1991-03-26T04:06:42Z Body Weight: 44.9 kg
+- 1991-03-26T04:06:42Z Body mass index (BMI) [Percentile] Per age and gender: 14.8 %
+- 1991-03-26T04:06:42Z Body Mass Index: 16.3 kg/m2
+- 1991-03-26T04:06:42Z Systolic Blood Pressure: 135.0 mm[Hg]
+- 1991-03-26T04:06:42Z Heart rate: 87.0 /min

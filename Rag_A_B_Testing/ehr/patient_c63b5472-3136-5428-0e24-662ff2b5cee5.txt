@@ -1,0 +1,146 @@
+== PATIENT RECORD: Vania595 Mills423 (ID: c63b5472-3136-5428-0e24-662ff2b5cee5) ==
+
+== Demographics ==
+Patient ID: c63b5472-3136-5428-0e24-662ff2b5cee5
+Name: Vania595 Mills423
+Gender: F
+Birthdate: 1979-05-07
+Address: 639 Stamm Union Suite 86
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Prediabetes
+- Misuses drugs (finding)
+- Normal pregnancy
+- Viral sinusitis (disorder)
+- Otitis media
+- Anemia (disorder)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Seasonique 91 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Mirena 52 MG Intrauterine System
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Liletta 52 MG Intrauterine System
+- Trinessa 28 Day Pack
+- Kyleena 19.5 MG Intrauterine System
+
+== Past Procedures ==
+- Replacement of contraceptive intrauterine device (Date: 2013-07-01T16:56:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-22T16:56:23Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-22T16:56:23Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-22T17:38:01Z)
+- Depression screening (procedure) (Date: 2013-07-22T18:11:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-22T18:21:35Z)
+- Assessment of substance use (procedure) (Date: 2013-07-22T18:48:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-22T19:00:17Z)
+- Removal of intrauterine device (Date: 2013-08-12T16:56:23Z)
+- Standard pregnancy test (Date: 2013-10-07T16:56:23Z)
+- Ultrasound scan for fetal viability (Date: 2013-10-07T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2013-10-07T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2013-10-07T16:56:23Z)
+- Blood typing  RH typing (Date: 2013-10-07T16:56:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-10-07T16:56:23Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2013-10-07T16:56:23Z)
+- Human immunodeficiency virus antigen test (Date: 2013-10-07T16:56:23Z)
+- Chlamydia antigen test (Date: 2013-10-07T16:56:23Z)
+- Gonorrhea infection test (Date: 2013-10-07T16:56:23Z)
+- Syphilis infection test (Date: 2013-10-07T16:56:23Z)
+- Urine culture (Date: 2013-10-07T16:56:23Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2013-10-07T16:56:23Z)
+- Urine screening test for diabetes (Date: 2013-10-07T16:56:23Z)
+- Hepatitis C antibody test (Date: 2013-10-07T16:56:23Z)
+- Rubella screening (Date: 2013-10-07T16:56:23Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2013-10-07T16:56:23Z)
+- Skin test for tuberculosis (Date: 2013-10-07T16:56:23Z)
+- Urine protein test (Date: 2013-10-07T16:56:23Z)
+- Physical examination of mother (Date: 2013-10-07T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2013-11-04T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2013-11-04T16:56:23Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2013-11-04T16:56:23Z)
+- Fetal anatomy study (Date: 2013-12-02T16:56:23Z)
+- Alpha-fetoprotein test (Date: 2013-12-02T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2013-12-02T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2013-12-02T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2013-12-30T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2013-12-30T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2014-01-27T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2014-01-27T16:56:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-02-24T16:56:23Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2014-02-24T16:56:23Z)
+- Urine screening for glucose (Date: 2014-02-24T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2014-02-24T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2014-02-24T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2014-03-24T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2014-03-24T16:56:23Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2014-04-21T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2014-04-21T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2014-04-21T16:56:23Z)
+- Evaluation of uterine fundal height (Date: 2014-05-05T16:56:23Z)
+- Auscultation of the fetal heart (Date: 2014-05-05T16:56:23Z)
+- Childbirth (Date: 2014-05-12T16:56:23Z)
+- Physical examination following birth (Date: 2014-06-23T16:56:23Z)
+- Depression screening (Date: 2014-06-23T16:56:23Z)
+- Insertion of subcutaneous contraceptive (Date: 2015-06-18T16:56:23Z)
+- Insertion of intrauterine contraceptive device (Date: 2016-06-17T11:29:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-25T16:56:23Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-25T16:56:23Z)
+- Screening for domestic abuse (procedure) (Date: 2016-07-25T17:50:48Z)
+- Depression screening (procedure) (Date: 2016-07-25T18:32:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-25T18:44:11Z)
+- Assessment of substance use (procedure) (Date: 2016-07-25T19:07:28Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-25T19:18:41Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-06-12T12:14:56Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-06-11T10:47:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-13T16:56:23Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-13T16:56:23Z)
+- Peripheral blood smear interpretation (Date: 2019-05-13T16:56:23Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-13T17:33:25Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-13T17:53:14Z)
+- Depression screening (procedure) (Date: 2019-05-13T18:23:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-13T18:34:20Z)
+- Assessment of substance use (procedure) (Date: 2019-05-13T18:56:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-13T19:06:23Z)
+- Review of systems (procedure) (Date: 2019-05-13T17:26:23Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-13T17:40:44Z)
+- Brief general examination (procedure) (Date: 2019-05-13T17:51:28Z)
+- Removal of subcutaneous contraceptive (Date: 2019-07-01T16:56:23Z)
+- Insertion of subcutaneous contraceptive (Date: 2019-07-01T17:36:22Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-06-04T11:49:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-17T16:56:23Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-17T17:28:27Z)
+- Depression screening (procedure) (Date: 2021-05-17T18:01:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-17T18:16:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-17T18:38:11Z)
+- Assessment of substance use (procedure) (Date: 2021-05-17T19:06:03Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-17T19:17:09Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-05-30T12:35:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-30T12:35:05Z: Consultation for treatment
+- 2021-05-17T16:56:23Z: General examination of patient (procedure)
+- 2021-03-22T16:56:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-01T16:56:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-04T11:49:02Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T19:46:42Z Total score [DAST-10]: 1.0 {score}
+- 2021-05-17T19:06:03Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 4.0 {score}
+- 2021-05-17T18:38:11Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-05-17T18:01:26Z Total score [HARK]: 0.0 {score}
+- 2021-05-17T17:28:27Z What is your current work situation?: Full-time work nan
+- 2021-05-17T17:28:27Z What is your main insurance?: Private insurance nan
+- 2021-05-17T17:28:27Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 46908 /a
+- 2021-05-17T17:28:27Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-17T17:28:27Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-05-17T17:28:27Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

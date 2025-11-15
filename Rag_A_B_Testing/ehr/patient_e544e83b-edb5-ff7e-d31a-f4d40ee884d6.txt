@@ -1,0 +1,57 @@
+== PATIENT RECORD: José Emilio366 Niño185 (ID: e544e83b-edb5-ff7e-d31a-f4d40ee884d6) ==
+
+== Demographics ==
+Patient ID: e544e83b-edb5-ff7e-d31a-f4d40ee884d6
+Name: José Emilio366 Niño185
+Gender: M
+Birthdate: 2011-07-14
+Address: 1082 Mohr Well Apt 29
+Marital Status: nan
+
+== Allergies ==
+- Animal dander (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Fracture of ankle
+- Otitis media
+- Concussion with loss of consciousness
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-23T02:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-23T02:21:36Z)
+- Allergy screening test (Date: 2012-05-20T15:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-21T02:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-21T02:21:36Z)
+- Ankle X-ray (Date: 2014-07-26T02:21:36Z)
+- Bone immobilization (Date: 2014-07-26T02:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-19T02:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-24T02:21:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-30T02:21:36Z)
+- Throat culture (procedure) (Date: 2021-09-23T23:21:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-23T23:21:36Z: Encounter for symptom
+- 2021-07-23T02:21:36Z: Well child visit (procedure)
+- 2020-07-17T02:21:36Z: Well child visit (procedure)
+- 2020-07-15T02:41:50Z: Encounter for 'check-up'
+- 2020-05-08T02:41:50Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-23T23:21:36Z Body temperature: 37.3 Cel
+- 2021-07-23T02:21:36Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-07-23T02:21:36Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-23T02:21:36Z Respiratory rate: 15.0 /min
+- 2021-07-23T02:21:36Z Heart rate: 67.0 /min
+- 2021-07-23T02:21:36Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2021-07-23T02:21:36Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-07-23T02:21:36Z Body mass index (BMI) [Percentile] Per age and gender: 68.9 %
+- 2021-07-23T02:21:36Z Body Mass Index: 17.8 kg/m2
+- 2021-07-23T02:21:36Z Body Weight: 32.3 kg

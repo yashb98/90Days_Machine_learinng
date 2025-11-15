@@ -1,0 +1,126 @@
+== PATIENT RECORD: Mohammad578 Mann644 (ID: 9ac43dbb-44d6-871e-b411-a1c18c61b55e) ==
+
+== Demographics ==
+Patient ID: 9ac43dbb-44d6-871e-b411-a1c18c61b55e
+Name: Mohammad578 Mann644
+Gender: M
+Birthdate: 1942-10-15
+Address: 730 Kessler Common Unit 54
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Stress (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Anemia (disorder)
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Bleeding from anus
+- Protracted diarrhea
+- Malignant tumor of colon
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1987-05-07T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1987-05-07T20:10:59Z)
+- Assessment of anxiety (procedure) (Date: 1987-05-07T20:48:44Z)
+- Depression screening (procedure) (Date: 1987-05-07T21:13:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-05-07T21:27:24Z)
+- Assessment of substance use (procedure) (Date: 1987-05-07T21:48:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1987-05-07T22:03:42Z)
+- Measurement of respiratory function (procedure) (Date: 1988-03-21T10:22:18Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-05-12T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1988-05-12T20:10:59Z)
+- Peripheral blood smear interpretation (Date: 1988-05-12T20:10:59Z)
+- Screening for domestic abuse (procedure) (Date: 1988-05-12T20:53:50Z)
+- Depression screening (procedure) (Date: 1988-05-12T21:18:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-05-12T21:29:59Z)
+- Assessment of substance use (procedure) (Date: 1988-05-12T21:50:34Z)
+- Screening for drug abuse (procedure) (Date: 1988-05-12T22:05:15Z)
+- Review of systems (procedure) (Date: 1988-05-12T20:40:59Z)
+- Medication Reconciliation (procedure) (Date: 1988-05-12T20:57:47Z)
+- Brief general examination (procedure) (Date: 1988-05-12T21:11:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-05-18T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1989-05-18T20:10:59Z)
+- Depression screening (procedure) (Date: 1989-05-18T20:58:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-05-18T21:12:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-05-24T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1990-05-24T20:10:59Z)
+- Depression screening (procedure) (Date: 1990-05-24T20:44:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-05-24T20:55:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-05-30T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1991-05-30T20:10:59Z)
+- Assessment of anxiety (procedure) (Date: 1991-05-30T21:06:36Z)
+- Screening for domestic abuse (procedure) (Date: 1991-05-30T21:34:00Z)
+- Depression screening (procedure) (Date: 1991-05-30T22:07:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-05-30T22:19:57Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-06-04T20:10:59Z)
+- Assessment of anxiety (procedure) (Date: 1992-06-04T20:46:45Z)
+- Screening for domestic abuse (procedure) (Date: 1992-06-04T21:02:51Z)
+- Depression screening (procedure) (Date: 1992-06-04T21:29:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-06-04T21:39:11Z)
+- Colonoscopy (Date: 1993-04-10T16:10:59Z)
+- Partial resection of colon (Date: 1993-04-26T03:53:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1993-05-26T01:53:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-06-10T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1993-06-10T20:10:59Z)
+- Screening for domestic abuse (procedure) (Date: 1993-06-10T21:03:57Z)
+- Depression screening (procedure) (Date: 1993-06-10T21:43:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-06-10T21:55:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1993-06-10T22:17:24Z)
+- Assessment of substance use (procedure) (Date: 1993-06-10T22:38:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1993-06-10T22:51:44Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1993-06-25T13:53:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1993-07-28T06:53:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1993-08-31T09:53:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1993-09-29T09:53:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 1993-11-01T09:53:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-06-16T20:10:59Z)
+- Medication Reconciliation (procedure) (Date: 1994-06-16T20:10:59Z)
+- Screening for domestic abuse (procedure) (Date: 1994-06-16T21:04:11Z)
+- Depression screening (procedure) (Date: 1994-06-16T21:35:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-06-16T21:45:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1994-06-16T22:11:59Z)
+- Assessment of substance use (procedure) (Date: 1994-06-16T22:33:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1994-06-16T22:45:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-06-22T20:10:59Z)
+- Depression screening (procedure) (Date: 1995-06-22T20:41:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-06-22T20:52:56Z)
+
+== Recent Encounters (Last 5) ==
+- 1996-05-16T20:10:59Z: Death Certification
+- 1995-06-22T20:10:59Z: General examination of patient (procedure)
+- 1994-06-16T20:10:59Z: General examination of patient (procedure)
+- 1993-11-01T09:53:16Z: Encounter for problem
+- 1993-09-29T09:53:16Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 1996-05-16T20:10:59Z Cause of Death [US Standard Certificate of Death]: Malignant tumor of colon nan
+- 1995-06-22T21:22:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 1995-06-22T20:41:49Z What is your current work situation?: Full-time work nan
+- 1995-06-22T20:41:49Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1995-06-22T20:41:49Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1995-06-22T20:41:49Z Are you a refugee?: No nan
+- 1995-06-22T20:41:49Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 1995-06-22T20:41:49Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 1995-06-22T20:41:49Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 1995-06-22T20:41:49Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

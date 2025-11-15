@@ -1,0 +1,71 @@
+== PATIENT RECORD: Caleb651 Lind531 (ID: ce1b17d2-15ee-aa1c-bdd1-8be89ba22acf) ==
+
+== Demographics ==
+Patient ID: ce1b17d2-15ee-aa1c-bdd1-8be89ba22acf
+Name: Caleb651 Lind531
+Gender: M
+Birthdate: 2005-03-25
+Address: 870 Beer Approach
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-03-22T14:12:42Z)
+- Throat culture (procedure) (Date: 2014-04-26T07:12:42Z)
+- Measurement of respiratory function (procedure) (Date: 2015-06-02T19:12:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-08T14:12:42Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-14T14:12:42Z)
+- Depression screening (procedure) (Date: 2017-04-14T14:29:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-04-14T14:40:58Z)
+- Assessment of substance use (procedure) (Date: 2017-04-14T15:06:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-04-14T15:16:38Z)
+- Health risks education (procedure) (Date: 2017-04-14T15:40:32Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-20T14:12:42Z)
+- Depression screening (procedure) (Date: 2018-04-20T14:35:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-04-20T14:50:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-26T14:12:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-26T14:12:42Z)
+- Assessment of substance use (procedure) (Date: 2019-04-26T14:38:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-04-26T14:50:46Z)
+- Anticipatory guidance (procedure) (Date: 2019-04-26T15:01:06Z)
+- Depression screening (procedure) (Date: 2020-05-01T14:12:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-01T14:26:45Z)
+- Assessment of substance use (procedure) (Date: 2020-05-01T14:53:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-01T15:06:13Z)
+- Health risks education (procedure) (Date: 2020-05-01T15:23:12Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-07T14:12:42Z)
+- Depression screening (procedure) (Date: 2021-05-07T14:40:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-07T14:53:14Z)
+- Assessment of substance use (procedure) (Date: 2021-05-07T15:20:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-07T15:32:04Z)
+- Health risks education (procedure) (Date: 2021-05-07T15:59:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-20T14:12:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-30T14:12:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-07T14:12:42Z: Well child visit (procedure)
+- 2020-09-05T21:12:42Z: Encounter for symptom
+- 2020-05-01T14:12:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-07T15:20:50Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-05-07T14:40:46Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-05-07T14:12:42Z Platelet mean volume [Entitic volume] in Blood by Automated count: 10.7 fL
+- 2021-05-07T14:12:42Z Platelet distribution width [Entitic volume] in Blood by Automated count: 347.6 fL
+- 2021-05-07T14:12:42Z Respiratory rate: 12.0 /min
+- 2021-05-07T14:12:42Z Leukocytes [#/volume] in Blood by Automated count: 6.7 10*3/uL
+- 2021-05-07T14:12:42Z Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- 2021-05-07T14:12:42Z Hemoglobin [Mass/volume] in Blood: 17.4 g/dL
+- 2021-05-07T14:12:42Z Hematocrit [Volume Fraction] of Blood by Automated count: 42.9 %
+- 2021-05-07T14:12:42Z MCV [Entitic volume] by Automated count: 94.9 fL

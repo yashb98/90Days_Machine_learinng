@@ -1,0 +1,132 @@
+== PATIENT RECORD: Julia241 Madrigal893 (ID: 7f4ecb1c-eb6f-f819-0d42-b86912ee0d38) ==
+
+== Demographics ==
+Patient ID: 7f4ecb1c-eb6f-f819-0d42-b86912ee0d38
+Name: Julia241 Madrigal893
+Gender: F
+Birthdate: 1911-07-14
+Address: 961 Tremblay Brook
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Hypertension
+- Received higher education (finding)
+- Body mass index 40+ - severely obese (finding)
+- Refugee (person)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Miscarriage in first trimester
+- Prediabetes
+- Limited social contact (finding)
+- Recurrent urinary tract infection
+- Full-time employment (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Alzheimer's disease (disorder)
+- Impacted molars
+- Chronic intractable migraine without aura
+- Chronic pain
+- Fracture of clavicle
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+- Drug overdose
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1985-07-19T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 1985-07-19T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 1985-07-19T19:19:55Z)
+- Depression screening (procedure) (Date: 1985-07-19T19:47:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-07-19T20:01:13Z)
+- Assessment of substance use (procedure) (Date: 1985-07-19T20:21:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1985-07-19T20:34:21Z)
+- Throat culture (procedure) (Date: 1986-05-27T22:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-07-25T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 1986-07-25T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 1986-07-25T19:31:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1986-07-25T19:57:33Z)
+- Assessment of substance use (procedure) (Date: 1986-07-25T20:18:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1986-07-25T20:30:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-07-31T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 1987-07-31T19:42:49Z)
+- Depression screening (procedure) (Date: 1987-07-31T20:05:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-07-31T20:19:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1987-07-31T20:46:34Z)
+- Assessment of substance use (procedure) (Date: 1987-07-31T21:08:31Z)
+- Screening for drug abuse (procedure) (Date: 1987-07-31T21:19:58Z)
+- Colonoscopy (Date: 1988-01-02T22:24:14Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-08-05T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 1988-08-05T18:47:25Z)
+- Depression screening (procedure) (Date: 1988-08-05T19:24:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-08-05T19:38:11Z)
+- Assessment of substance use (procedure) (Date: 1988-08-05T20:05:43Z)
+- Screening for drug abuse (procedure) (Date: 1988-08-05T20:16:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-08-11T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 1989-08-11T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 1989-08-11T19:19:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1989-08-11T19:40:12Z)
+- Depression screening (procedure) (Date: 1989-08-11T19:59:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-08-11T20:10:05Z)
+- Extraction of wisdom tooth (Date: 1990-02-04T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-08-17T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 1990-08-17T18:47:25Z)
+- Screening for domestic abuse (procedure) (Date: 1990-08-17T19:19:14Z)
+- Depression screening (procedure) (Date: 1990-08-17T19:49:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-08-17T20:01:10Z)
+- Extraction of wisdom tooth (Date: 1991-04-15T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-08-23T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1991-08-23T19:34:35Z)
+- Assessment of substance use (procedure) (Date: 1991-08-23T19:50:46Z)
+- Screening for drug abuse (procedure) (Date: 1991-08-23T20:04:31Z)
+- Extraction of wisdom tooth (Date: 1991-10-31T18:47:25Z)
+- Extraction of wisdom tooth (Date: 1992-04-20T18:47:25Z)
+- Clavicle X-ray (Date: 1992-06-10T19:26:26Z)
+- Admission to orthopedic department (Date: 1992-06-10T19:26:26Z)
+- Bone density scan (procedure) (Date: 1992-06-10T20:31:26Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-08-28T18:47:25Z)
+- Screening for domestic abuse (procedure) (Date: 1992-08-28T19:24:33Z)
+- Depression screening (procedure) (Date: 1992-08-28T19:51:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-08-28T20:03:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-09-03T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 1993-09-03T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 1993-09-03T19:20:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-09-03T19:36:06Z)
+- Depression screening (procedure) (Date: 1993-09-03T20:04:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-09-03T20:16:45Z)
+- Assessment of substance use (procedure) (Date: 1993-09-03T20:40:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1993-09-03T20:54:47Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-09-09T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-09-09T19:37:53Z)
+- Depression screening (procedure) (Date: 1994-09-09T19:54:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-09-09T20:08:17Z)
+
+== Recent Encounters (Last 5) ==
+- 1994-12-09T18:47:25Z: Death Certification
+- 1994-09-09T18:47:25Z: General examination of patient (procedure)
+- 1994-07-15T18:47:25Z: Urgent care clinic (procedure)
+- 1994-07-08T18:47:25Z: Urgent care clinic (procedure)
+- 1994-07-01T18:47:25Z: Emergency Encounter
+
+== Recent Observations (Last 10) ==
+- 1994-12-09T18:47:25Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 1994-09-09T20:28:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 1994-09-09T19:54:35Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 1994-09-09T19:54:35Z Fall risk total [Morse Fall Scale]: 30.0 {#}
+- 1994-09-09T19:37:53Z What is your current work situation?: Part-time or temporary work nan
+- 1994-09-09T19:37:53Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1994-09-09T19:37:53Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1994-09-09T19:37:53Z Are you a refugee?: Yes nan
+- 1994-09-09T19:37:53Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 1994-09-09T19:37:53Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan

@@ -1,0 +1,68 @@
+== PATIENT RECORD: Roscoe437 Marquardt819 (ID: 6ca8bd16-892f-5fe6-ce6e-c9e16d6523e9) ==
+
+== Demographics ==
+Patient ID: 6ca8bd16-892f-5fe6-ce6e-c9e16d6523e9
+Name: Roscoe437 Marquardt819
+Gender: M
+Birthdate: 2007-04-16
+Address: 429 Wehner Landing
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+- Whiplash injury to neck
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-04-01T18:15:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-13T18:15:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-24T18:15:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-30T18:15:42Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-06T18:15:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-06T18:15:42Z)
+- Depression screening (procedure) (Date: 2019-05-06T18:34:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-06T18:48:17Z)
+- Assessment of substance use (procedure) (Date: 2019-05-06T19:12:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-05-06T19:26:14Z)
+- Anticipatory guidance (procedure) (Date: 2019-05-06T19:56:13Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-11T18:15:42Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-11T18:15:42Z)
+- Depression screening (procedure) (Date: 2020-05-11T18:36:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-11T18:50:03Z)
+- Assessment of substance use (procedure) (Date: 2020-05-11T19:11:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-11T19:23:32Z)
+- Anticipatory guidance (procedure) (Date: 2020-05-11T19:47:17Z)
+- Depression screening (procedure) (Date: 2021-05-17T18:15:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-17T18:28:39Z)
+- Assessment of substance use (procedure) (Date: 2021-05-17T18:55:56Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-17T19:06:59Z)
+- Health risks education (procedure) (Date: 2021-05-17T19:24:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-17T18:15:42Z: Well child visit (procedure)
+- 2021-03-25T06:15:42Z: Encounter for symptom
+- 2020-05-11T18:15:42Z: Well child visit (procedure)
+- 2019-05-06T18:15:42Z: Well child visit (procedure)
+- 2018-04-30T18:15:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T18:55:56Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-05-17T18:15:42Z Respiratory rate: 12.0 /min
+- 2021-05-17T18:15:42Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-17T18:15:42Z Body Height: 153.7 cm
+- 2021-05-17T18:15:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-05-17T18:15:42Z Body Weight: 40.2 kg
+- 2021-05-17T18:15:42Z Body Mass Index: 17.0 kg/m2
+- 2021-05-17T18:15:42Z Body mass index (BMI) [Percentile] Per age and gender: 15.2 %
+- 2021-05-17T18:15:42Z Diastolic Blood Pressure: 84.0 mm[Hg]
+- 2021-05-17T18:15:42Z Systolic Blood Pressure: 129.0 mm[Hg]

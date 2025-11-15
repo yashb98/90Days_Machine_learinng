@@ -1,0 +1,115 @@
+== PATIENT RECORD: Ermelinda113 Kerluke267 (ID: 6ab08a28-1670-be6a-f2c9-f2e248700836) ==
+
+== Demographics ==
+Patient ID: 6ab08a28-1670-be6a-f2c9-f2e248700836
+Name: Ermelinda113 Kerluke267
+Gender: F
+Birthdate: 2001-04-01
+Address: 184 Dooley Annex Unit 31
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Acute bacterial sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Body mass index 40+ - severely obese (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Jolivette 28 Day Pack
+- Seasonique 91 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Errin 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2013-04-22T01:56:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-04-22T02:09:26Z)
+- Assessment of substance use (procedure) (Date: 2013-04-22T02:34:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-04-22T02:49:24Z)
+- Health risks education (procedure) (Date: 2013-04-22T03:07:28Z)
+- Throat culture (procedure) (Date: 2014-03-14T13:56:22Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-28T01:56:22Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-28T01:56:22Z)
+- Depression screening (procedure) (Date: 2014-04-28T02:12:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-04-28T02:22:46Z)
+- Assessment of substance use (procedure) (Date: 2014-04-28T02:43:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-04-28T02:56:46Z)
+- Anticipatory guidance (procedure) (Date: 2014-04-28T03:22:51Z)
+- Throat culture (procedure) (Date: 2014-11-24T22:56:22Z)
+- Depression screening (procedure) (Date: 2015-05-04T01:56:22Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-04T01:56:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-04T02:08:11Z)
+- Assessment of substance use (procedure) (Date: 2015-05-04T02:34:56Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-04T02:47:02Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-04T03:01:10Z)
+- Depression screening (procedure) (Date: 2016-05-09T01:56:22Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-09T01:56:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-09T02:09:42Z)
+- Assessment of substance use (procedure) (Date: 2016-05-09T02:29:57Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-09T02:44:16Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-09T03:06:25Z)
+- Depression screening (procedure) (Date: 2017-05-15T01:56:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-15T02:07:46Z)
+- Assessment of substance use (procedure) (Date: 2017-05-15T02:29:55Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-05-15T02:41:40Z)
+- Anticipatory guidance (procedure) (Date: 2017-05-15T03:08:59Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-21T01:56:22Z)
+- Depression screening (procedure) (Date: 2018-05-21T02:17:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-05-21T02:32:22Z)
+- Assessment of substance use (procedure) (Date: 2018-05-21T02:55:57Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-21T03:10:14Z)
+- Anticipatory guidance (procedure) (Date: 2018-05-21T03:37:37Z)
+- Sputum examination (procedure) (Date: 2019-03-09T10:56:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-27T01:56:22Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-27T02:50:02Z)
+- Depression screening (procedure) (Date: 2019-05-27T03:27:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-27T03:40:19Z)
+- Assessment of substance use (procedure) (Date: 2019-05-27T04:05:10Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-27T04:19:19Z)
+- Referral to hypertension clinic (Date: 2019-10-24T01:56:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-01T01:56:22Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-01T02:52:16Z)
+- Depression screening (procedure) (Date: 2020-06-01T03:15:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-01T03:27:20Z)
+- Throat culture (procedure) (Date: 2020-09-08T12:56:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-07T01:56:22Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-07T01:56:22Z)
+- Assessment of substance use (procedure) (Date: 2021-06-07T02:53:56Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-07T03:04:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-07T01:56:22Z: General examination of patient (procedure)
+- 2021-03-01T01:56:22Z: Consultation for treatment
+- 2020-09-21T01:56:22Z: Urgent care clinic (procedure)
+- 2020-09-14T01:56:22Z: Urgent care clinic (procedure)
+- 2020-09-08T12:56:22Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-06-07T03:30:17Z Total score [DAST-10]: 2.0 {score}
+- 2021-06-07T02:53:56Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-06-07T02:53:56Z What address do you live at?: 184 Dooley Annex Unit 31 nan
+- 2021-06-07T02:53:56Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-06-07T02:53:56Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-06-07T02:53:56Z Are you a refugee?: No nan
+- 2021-06-07T02:53:56Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-06-07T02:53:56Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-06-07T02:53:56Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-07T02:53:56Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

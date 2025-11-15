@@ -1,0 +1,203 @@
+== PATIENT RECORD: Renee555 Hilll811 (ID: 863410e4-cd33-2f03-47b6-01fa2bc39753) ==
+
+== Demographics ==
+Patient ID: 863410e4-cd33-2f03-47b6-01fa2bc39753
+Name: Renee555 Hilll811
+Gender: F
+Birthdate: 2002-05-31
+Address: 748 Greenholt Loaf Unit 79
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Childhood asthma
+- Seasonal allergic rhinitis
+- Laceration of thigh
+- Closed fracture of hip
+- Acute viral pharyngitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Headache (finding)
+- Cough (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Limited social contact (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 160 MG Chewable Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- Trinessa 28 Day Pack
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-08T19:02:17Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-14T19:02:17Z)
+- Suture open wound (Date: 2014-03-22T19:02:17Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-20T19:02:17Z)
+- Depression screening (procedure) (Date: 2014-06-20T19:25:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-06-20T19:37:21Z)
+- Assessment of substance use (procedure) (Date: 2014-06-20T19:59:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-06-20T20:12:52Z)
+- Anticipatory guidance (procedure) (Date: 2014-06-20T20:37:51Z)
+- Allergy screening test (Date: 2015-06-05T19:02:17Z)
+- Depression screening (procedure) (Date: 2015-06-26T19:02:17Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-26T19:02:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-26T19:16:08Z)
+- Assessment of substance use (procedure) (Date: 2015-06-26T19:44:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-26T19:58:05Z)
+- Anticipatory guidance (procedure) (Date: 2015-06-26T20:26:12Z)
+- Subcutaneous immunotherapy (Date: 2015-06-30T19:39:48Z)
+- Subcutaneous immunotherapy (Date: 2015-07-25T20:38:09Z)
+- Subcutaneous immunotherapy (Date: 2015-08-15T21:36:55Z)
+- Subcutaneous immunotherapy (Date: 2015-09-09T22:23:50Z)
+- Subcutaneous immunotherapy (Date: 2015-10-04T22:42:58Z)
+- Subcutaneous immunotherapy (Date: 2015-10-30T23:28:40Z)
+- Subcutaneous immunotherapy (Date: 2015-11-24T23:48:35Z)
+- Subcutaneous immunotherapy (Date: 2015-12-16T00:24:46Z)
+- Subcutaneous immunotherapy (Date: 2016-01-09T00:49:08Z)
+- Subcutaneous immunotherapy (Date: 2016-01-30T01:39:00Z)
+- Subcutaneous immunotherapy (Date: 2016-02-26T01:59:06Z)
+- Subcutaneous immunotherapy (Date: 2016-03-19T02:48:09Z)
+- Subcutaneous immunotherapy (Date: 2016-04-10T03:43:08Z)
+- Subcutaneous immunotherapy (Date: 2016-05-07T04:27:22Z)
+- Subcutaneous immunotherapy (Date: 2016-05-30T04:55:29Z)
+- Subcutaneous immunotherapy (Date: 2016-06-23T05:42:17Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-01T19:02:17Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-01T19:02:17Z)
+- Depression screening (procedure) (Date: 2016-07-01T19:30:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-07-01T19:44:27Z)
+- Subcutaneous immunotherapy (Date: 2016-07-14T06:41:03Z)
+- Subcutaneous immunotherapy (Date: 2016-08-09T07:06:36Z)
+- Subcutaneous immunotherapy (Date: 2016-09-05T07:58:06Z)
+- Subcutaneous immunotherapy (Date: 2016-09-26T08:44:45Z)
+- Subcutaneous immunotherapy (Date: 2016-10-20T09:03:41Z)
+- Subcutaneous immunotherapy (Date: 2016-11-16T09:47:19Z)
+- Subcutaneous immunotherapy (Date: 2016-12-10T10:16:56Z)
+- Subcutaneous immunotherapy (Date: 2016-12-31T10:54:10Z)
+- Subcutaneous immunotherapy (Date: 2017-01-21T11:37:05Z)
+- Subcutaneous immunotherapy (Date: 2017-02-13T12:12:01Z)
+- Subcutaneous immunotherapy (Date: 2017-03-12T13:10:23Z)
+- Subcutaneous immunotherapy (Date: 2017-04-02T13:45:16Z)
+- Subcutaneous immunotherapy (Date: 2017-04-26T14:31:20Z)
+- Subcutaneous immunotherapy (Date: 2017-05-17T15:30:54Z)
+- Subcutaneous immunotherapy (Date: 2017-06-08T16:17:45Z)
+- Subcutaneous immunotherapy (Date: 2017-06-30T17:03:40Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-07T19:02:17Z)
+- Depression screening (procedure) (Date: 2017-07-07T19:18:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-07-07T19:30:48Z)
+- Assessment of substance use (procedure) (Date: 2017-07-07T19:52:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-07-07T20:07:11Z)
+- Anticipatory guidance (procedure) (Date: 2017-07-07T20:31:12Z)
+- Subcutaneous immunotherapy (Date: 2017-07-26T17:21:52Z)
+- Subcutaneous immunotherapy (Date: 2017-08-22T17:39:58Z)
+- Subcutaneous immunotherapy (Date: 2017-09-14T18:36:55Z)
+- Subcutaneous immunotherapy (Date: 2017-10-10T19:11:56Z)
+- Subcutaneous immunotherapy (Date: 2017-11-03T19:45:11Z)
+- Subcutaneous immunotherapy (Date: 2017-11-26T20:29:53Z)
+- Subcutaneous immunotherapy (Date: 2017-12-17T21:27:26Z)
+- Subcutaneous immunotherapy (Date: 2018-01-11T22:06:16Z)
+- Subcutaneous immunotherapy (Date: 2018-02-02T22:48:19Z)
+- Subcutaneous immunotherapy (Date: 2018-02-24T23:46:28Z)
+- Subcutaneous immunotherapy (Date: 2018-03-24T00:31:36Z)
+- Subcutaneous immunotherapy (Date: 2018-04-16T01:09:07Z)
+- Pelvis X-ray (Date: 2018-05-11T19:16:13Z)
+- Admission to orthopedic department (Date: 2018-05-11T19:16:13Z)
+- Subcutaneous immunotherapy (Date: 2018-05-12T02:01:36Z)
+- Intramuscular injection (Date: 2018-05-20T19:02:17Z)
+- Subcutaneous immunotherapy (Date: 2018-06-06T02:45:45Z)
+- Subcutaneous immunotherapy (Date: 2018-07-02T03:44:03Z)
+- Depression screening (procedure) (Date: 2018-07-13T19:02:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-07-13T19:16:34Z)
+- Subcutaneous immunotherapy (Date: 2018-07-23T04:23:52Z)
+- Subcutaneous immunotherapy (Date: 2018-08-18T04:43:26Z)
+- Intramuscular injection (Date: 2018-08-31T19:02:17Z)
+- Subcutaneous immunotherapy (Date: 2018-09-14T05:20:25Z)
+- Subcutaneous immunotherapy (Date: 2018-10-06T06:13:36Z)
+- Subcutaneous immunotherapy (Date: 2018-10-29T06:46:25Z)
+- Subcutaneous immunotherapy (Date: 2018-11-20T07:19:56Z)
+- Intramuscular injection (Date: 2018-11-30T19:02:17Z)
+- Subcutaneous immunotherapy (Date: 2018-12-13T08:08:24Z)
+- Subcutaneous immunotherapy (Date: 2019-01-09T09:06:36Z)
+- Subcutaneous immunotherapy (Date: 2019-01-31T10:05:04Z)
+- Intramuscular injection (Date: 2019-03-01T19:02:17Z)
+- Subcutaneous immunotherapy (Date: 2019-02-24T10:55:47Z)
+- Subcutaneous immunotherapy (Date: 2019-03-19T11:40:37Z)
+- Subcutaneous immunotherapy (Date: 2019-04-14T12:19:41Z)
+- Subcutaneous immunotherapy (Date: 2019-05-09T13:13:25Z)
+- Intramuscular injection (Date: 2019-05-31T19:02:17Z)
+- Allergy screening test (Date: 2019-06-04T13:46:41Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-19T19:02:17Z)
+- Assessment of substance use (procedure) (Date: 2019-07-19T19:20:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-07-19T19:32:12Z)
+- Anticipatory guidance (procedure) (Date: 2019-07-19T19:51:47Z)
+- Intramuscular injection (Date: 2019-08-30T19:02:17Z)
+- Intramuscular injection (Date: 2019-11-29T19:02:17Z)
+- Intramuscular injection (Date: 2020-02-28T19:02:17Z)
+- Intramuscular injection (Date: 2020-05-29T19:02:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-24T19:02:17Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-24T19:02:17Z)
+- Depression screening (procedure) (Date: 2020-07-24T19:34:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-24T19:48:17Z)
+- Intramuscular injection (Date: 2020-08-28T19:02:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-30T19:02:17Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-30T19:02:17Z)
+- Screening for domestic abuse (procedure) (Date: 2020-10-30T19:58:45Z)
+- Depression screening (procedure) (Date: 2020-10-30T20:37:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-30T20:48:07Z)
+- Assessment of substance use (procedure) (Date: 2020-10-30T21:09:12Z)
+- Screening for drug abuse (procedure) (Date: 2020-10-30T21:20:37Z)
+- Intramuscular injection (Date: 2020-11-27T19:02:17Z)
+- Face mask (physical object) (Date: 2021-02-12T19:02:17Z)
+- Intramuscular injection (Date: 2021-02-26T19:02:17Z)
+- Intramuscular injection (Date: 2021-05-28T19:02:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-30T19:02:17Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-30T19:45:50Z)
+- Screening for domestic abuse (procedure) (Date: 2021-07-30T20:08:48Z)
+- Depression screening (procedure) (Date: 2021-07-30T20:44:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-30T20:57:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-07-30T21:22:33Z)
+- Assessment of substance use (procedure) (Date: 2021-07-30T21:44:10Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-30T21:55:01Z)
+- Intramuscular injection (Date: 2021-08-27T19:02:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-27T19:02:17Z: Patient encounter procedure
+- 2021-07-30T19:02:17Z: General examination of patient (procedure)
+- 2021-06-04T19:02:17Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-28T19:02:17Z: Patient encounter procedure
+- 2021-05-14T19:02:17Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-30T22:16:43Z Total score [DAST-10]: 2.0 {score}
+- 2021-07-30T21:44:10Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 3.0 {score}
+- 2021-07-30T21:22:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-07-30T20:44:32Z Total score [HARK]: 0.0 {score}
+- 2021-07-30T20:08:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-07-30T19:45:50Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-07-30T19:45:50Z What is your main insurance?: Private insurance nan
+- 2021-07-30T19:45:50Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 23488 /a
+- 2021-07-30T19:45:50Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-07-30T19:45:50Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

@@ -1,0 +1,138 @@
+== PATIENT RECORD: Bettina657 Nienow652 (ID: 5b03f610-14e2-e72c-1eb0-3fdcebcbd38d) ==
+
+== Demographics ==
+Patient ID: 5b03f610-14e2-e72c-1eb0-3fdcebcbd38d
+Name: Bettina657 Nienow652
+Gender: F
+Birthdate: 1937-03-16
+Address: 125 Pfeffer Dale
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Impacted molars
+- Chronic intractable migraine without aura
+- Chronic pain
+- Drug overdose
+- Coronary Heart Disease
+- Limited social contact (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Osteoporosis (disorder)
+- Homeless (finding)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Alzheimer's disease (disorder)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Alendronic acid 10 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2003-06-18T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-06-18T03:54:03Z)
+- Depression screening (procedure) (Date: 2003-06-18T04:09:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-06-18T04:19:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-06-23T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-06-23T04:04:40Z)
+- Depression screening (procedure) (Date: 2004-06-23T04:33:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-06-23T04:44:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-06-29T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2005-06-29T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-06-29T03:54:04Z)
+- Depression screening (procedure) (Date: 2005-06-29T04:12:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-06-29T04:26:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-07-05T03:13:14Z)
+- Depression screening (procedure) (Date: 2006-07-05T03:45:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-07-05T04:00:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-07-11T03:13:14Z)
+- Bone density scan (procedure) (Date: 2007-07-11T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2007-07-11T03:46:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-07-11T04:05:11Z)
+- Depression screening (procedure) (Date: 2007-07-11T04:31:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-07-11T04:43:31Z)
+- Information gathering (procedure) (Date: 2007-10-21T03:13:14Z)
+- Information gathering (procedure) (Date: 2007-11-20T03:13:14Z)
+- Information gathering (procedure) (Date: 2007-12-20T03:13:14Z)
+- Information gathering (procedure) (Date: 2008-01-19T03:13:14Z)
+- Information gathering (procedure) (Date: 2008-02-18T03:13:14Z)
+- Information gathering (procedure) (Date: 2008-03-19T03:13:14Z)
+- Information gathering (procedure) (Date: 2008-04-18T03:13:14Z)
+- Information gathering (procedure) (Date: 2008-05-18T03:13:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-07-16T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2008-07-16T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2008-07-16T03:51:44Z)
+- Depression screening (procedure) (Date: 2008-07-16T04:20:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-07-16T04:33:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2008-07-16T04:56:07Z)
+- Throat culture (procedure) (Date: 2009-02-23T14:13:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-07-22T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2009-07-22T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-07-22T03:53:49Z)
+- Depression screening (procedure) (Date: 2009-07-22T04:22:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-07-22T04:34:29Z)
+- Throat culture (procedure) (Date: 2009-09-05T23:13:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-11-11T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2009-11-11T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2009-11-11T03:59:53Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-11-11T04:17:35Z)
+- Depression screening (procedure) (Date: 2009-11-11T04:33:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-11-11T04:46:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-07-28T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2010-07-28T03:47:00Z)
+- Depression screening (procedure) (Date: 2010-07-28T04:07:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-07-28T04:20:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-08-03T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2011-08-03T03:44:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-08-03T04:12:12Z)
+- Depression screening (procedure) (Date: 2011-08-03T04:35:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-08-03T04:49:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-08T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-08-08T03:50:16Z)
+- Depression screening (procedure) (Date: 2012-08-08T04:10:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-08T04:23:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-08-08T04:49:54Z)
+- Echocardiography (procedure) (Date: 2012-10-17T03:13:14Z)
+- Percutaneous coronary intervention (Date: 2012-10-17T03:13:14Z)
+- Coronary artery bypass grafting (Date: 2012-10-17T03:13:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2012-10-24T03:13:14Z: Death Certification
+- 2012-10-17T03:13:14Z: Myocardial Infarction
+- 2012-09-28T03:13:14Z: Encounter for problem (procedure)
+- 2012-08-29T03:13:14Z: Encounter for problem (procedure)
+- 2012-08-08T03:13:14Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2012-10-24T03:13:14Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 2012-08-08T05:11:52Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 27.0 {score}
+- 2012-08-08T04:49:54Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2012-08-08T04:10:18Z Fall risk total [Morse Fall Scale]: 107.0 {#}
+- 2012-08-08T04:10:18Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2012-08-08T03:50:16Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2012-08-08T03:50:16Z What is your current work situation?: Part-time or temporary work nan
+- 2012-08-08T03:50:16Z What is your main insurance?: Medicare nan
+- 2012-08-08T03:50:16Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 32030 /a
+- 2012-08-08T03:50:16Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

@@ -1,0 +1,70 @@
+== PATIENT RECORD: Andres25 Hintz995 (ID: 420b3566-8788-f95c-0401-f317a9b445e5) ==
+
+== Demographics ==
+Patient ID: 420b3566-8788-f95c-0401-f317a9b445e5
+Name: Andres25 Hintz995
+Gender: M
+Birthdate: 1982-11-25
+Address: 784 Rice Esplanade
+Marital Status: M
+
+== Allergies ==
+- Animal dander (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Streptococcal sore throat (disorder)
+- Fracture of clavicle
+- Stress (finding)
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- Fexofenadine hydrochloride 60 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Penicillin V Potassium 500 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-01-19T13:28:52Z)
+- Clavicle X-ray (Date: 2013-10-10T13:09:12Z)
+- Admission to orthopedic department (Date: 2013-10-10T13:09:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-06T12:28:52Z)
+- Depression screening (procedure) (Date: 2014-02-06T13:25:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-06T13:36:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-09T12:28:52Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-09T12:28:52Z)
+- Depression screening (procedure) (Date: 2017-02-09T13:00:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-09T13:13:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-09T13:38:09Z)
+- Assessment of substance use (procedure) (Date: 2017-02-09T14:06:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-09T14:17:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-13T12:28:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-13T12:28:52Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-13T13:24:17Z)
+- Throat culture (procedure) (Date: 2021-04-18T00:28:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-18T00:28:52Z: Encounter for symptom
+- 2021-02-04T12:28:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-07T12:28:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-02-13T12:28:52Z: General examination of patient (procedure)
+- 2017-02-09T12:28:52Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-18T00:28:52Z Body temperature: 39.2 Cel
+- 2020-11-25T12:28:52Z QOLS: 1.0 {score}
+- 2020-11-25T12:28:52Z DALY: 0.3 a
+- 2020-11-25T12:28:52Z QALY: 36.7 a
+- 2020-02-13T13:40:04Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- 2020-02-13T13:24:17Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 264188 /a
+- 2020-02-13T13:24:17Z Are you worried about losing your housing?: No nan
+- 2020-02-13T13:24:17Z What address do you live at?: 784 Rice Esplanade nan
+- 2020-02-13T13:24:17Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2020-02-13T13:24:17Z What is your current work situation?: Full-time work nan

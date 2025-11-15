@@ -1,0 +1,132 @@
+== PATIENT RECORD: Maddie576 Stokes453 (ID: fb666e77-dcb0-f7cc-91f1-4c805cafd94a) ==
+
+== Demographics ==
+Patient ID: fb666e77-dcb0-f7cc-91f1-4c805cafd94a
+Name: Maddie576 Stokes453
+Gender: F
+Birthdate: 1926-10-13
+Address: 739 Wiza Ville
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Impacted molars
+- Chronic pain
+- Chronic intractable migraine without aura
+- Drug overdose
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Polyp of colon
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Otitis media
+- Stroke
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1995-06-28T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1995-06-28T18:44:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-06-28T19:25:45Z)
+- Screening for domestic abuse (procedure) (Date: 1995-06-28T19:52:44Z)
+- Depression screening (procedure) (Date: 1995-06-28T20:26:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-06-28T20:39:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1995-06-28T21:07:53Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-08-02T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1995-08-02T19:21:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-08-02T19:45:08Z)
+- Depression screening (procedure) (Date: 1995-08-02T20:15:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-08-02T20:25:53Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-09-20T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1995-09-20T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1995-09-20T19:26:56Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-09-20T19:52:20Z)
+- Screening for domestic abuse (procedure) (Date: 1995-09-20T20:13:38Z)
+- Depression screening (procedure) (Date: 1995-09-20T20:42:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-09-20T20:54:56Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-09-25T18:44:36Z)
+- Screening for domestic abuse (procedure) (Date: 1996-09-25T19:44:15Z)
+- Depression screening (procedure) (Date: 1996-09-25T20:24:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-09-25T20:37:17Z)
+- Colonoscopy (Date: 1996-10-12T20:55:35Z)
+- Screening for occult blood in feces (procedure) (Date: 1996-10-12T21:34:40Z)
+- Rectal polypectomy (Date: 1996-10-12T21:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-10-01T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1997-10-01T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1997-10-01T19:28:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-10-01T19:48:34Z)
+- Depression screening (procedure) (Date: 1997-10-01T20:08:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-10-01T20:21:43Z)
+- Colonoscopy (Date: 1997-12-09T21:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-10-07T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 1998-10-07T18:44:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-10-07T19:34:05Z)
+- Depression screening (procedure) (Date: 1998-10-07T20:02:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-10-07T20:14:57Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-10-13T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 1999-10-13T19:23:30Z)
+- Depression screening (procedure) (Date: 1999-10-13T19:43:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-10-13T19:58:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-10-18T18:44:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-10-18T19:20:21Z)
+- Screening for domestic abuse (procedure) (Date: 2000-10-18T19:43:00Z)
+- Depression screening (procedure) (Date: 2000-10-18T20:16:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-10-18T20:28:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-10-24T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 2001-10-24T18:44:36Z)
+- Depression screening (procedure) (Date: 2001-10-24T19:33:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-10-24T19:46:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-10-30T18:44:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-10-30T19:27:43Z)
+- Depression screening (procedure) (Date: 2002-10-30T19:48:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-10-30T20:00:01Z)
+- Colonoscopy (Date: 2002-12-09T22:17:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-11-05T18:44:36Z)
+- Medication Reconciliation (procedure) (Date: 2003-11-05T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 2003-11-05T19:44:30Z)
+- Screening for domestic abuse (procedure) (Date: 2003-11-05T20:09:52Z)
+- Depression screening (procedure) (Date: 2003-11-05T20:54:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-11-05T21:04:59Z)
+- Sputum examination (procedure) (Date: 2004-04-18T20:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-05-05T18:44:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-05-05T19:15:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-11-10T18:44:36Z)
+- Assessment of anxiety (procedure) (Date: 2004-11-10T19:17:57Z)
+- Depression screening (procedure) (Date: 2004-11-10T19:40:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-11-10T19:50:33Z)
+- Echocardiography (procedure) (Date: 2005-06-15T18:44:36Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2005-06-15T18:44:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2005-06-22T18:44:36Z: Death Certification
+- 2005-06-15T18:44:36Z: Stroke
+- 2005-05-18T18:44:36Z: Encounter for problem (procedure)
+- 2005-01-24T18:44:36Z: Encounter for problem (procedure)
+- 2004-12-25T18:44:36Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2005-06-22T18:44:36Z Cause of Death [US Standard Certificate of Death]: Stroke nan
+- 2004-11-10T20:19:50Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2004-11-10T19:40:15Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2004-11-10T19:17:57Z What is your main insurance?: Medicare nan
+- 2004-11-10T19:17:57Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2004-11-10T19:17:57Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2004-11-10T19:17:57Z Are you a refugee?: No nan
+- 2004-11-10T19:17:57Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2004-11-10T19:17:57Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2004-11-10T19:17:57Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

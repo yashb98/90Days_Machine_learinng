@@ -1,0 +1,41 @@
+== PATIENT RECORD: Hassan290 Wyman904 (ID: b1b0fe43-a0f7-3ea6-67f8-0b5a3afd5a8e) ==
+
+== Demographics ==
+Patient ID: b1b0fe43-a0f7-3ea6-67f8-0b5a3afd5a8e
+Name: Hassan290 Wyman904
+Gender: M
+Birthdate: 2020-02-02
+Address: 606 Ferry Quay Unit 80
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-02-02T06:37:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-11T06:37:21Z: Well child visit (procedure)
+- 2021-04-11T06:37:21Z: Well child visit (procedure)
+- 2021-01-10T06:37:21Z: Well child visit (procedure)
+- 2020-10-11T06:37:21Z: Well child visit (procedure)
+- 2020-07-12T06:37:21Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-11T06:37:21Z Weight-for-length Per age and sex: 59.8 %
+- 2021-07-11T06:37:21Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-11T06:37:21Z Respiratory rate: 12.0 /min
+- 2021-07-11T06:37:21Z Heart rate: 91.0 /min
+- 2021-07-11T06:37:21Z Systolic Blood Pressure: 133.0 mm[Hg]
+- 2021-07-11T06:37:21Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-07-11T06:37:21Z Head Occipital-frontal circumference: 46.9 cm
+- 2021-07-11T06:37:21Z Body Weight: 11.1 kg
+- 2021-07-11T06:37:21Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-07-11T06:37:21Z Body Height: 79.5 cm

@@ -1,0 +1,113 @@
+== PATIENT RECORD: Randell912 Reinger292 (ID: 32f516f7-b223-278c-d0de-5c0b9d70654c) ==
+
+== Demographics ==
+Patient ID: 32f516f7-b223-278c-d0de-5c0b9d70654c
+Name: Randell912 Reinger292
+Gender: M
+Birthdate: 1986-02-05
+Address: 800 O'Hara Fort Apt 20
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Anemia (disorder)
+- Social isolation (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Full-time employment (finding)
+- Chronic low back pain (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-16T13:22:52Z)
+- Peripheral blood smear interpretation (Date: 2012-05-16T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2012-05-16T13:54:18Z)
+- Depression screening (procedure) (Date: 2012-05-16T14:16:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-16T14:27:04Z)
+- Assessment of substance use (procedure) (Date: 2012-05-16T14:47:17Z)
+- Screening for drug abuse (procedure) (Date: 2012-05-16T14:57:23Z)
+- Review of systems (procedure) (Date: 2012-05-16T13:52:52Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-16T14:03:18Z)
+- Brief general examination (procedure) (Date: 2012-05-16T14:12:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-22T13:22:52Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-22T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-22T14:10:19Z)
+- Depression screening (procedure) (Date: 2013-05-22T14:32:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-22T14:43:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-28T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-28T14:06:41Z)
+- Depression screening (procedure) (Date: 2014-05-28T14:35:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-28T14:46:41Z)
+- Assessment of substance use (procedure) (Date: 2014-05-28T15:13:03Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-28T15:24:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-03T13:22:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-03T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-03T14:02:58Z)
+- Depression screening (procedure) (Date: 2015-06-03T14:26:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-03T14:40:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-08T13:22:52Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-08T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-08T14:22:24Z)
+- Depression screening (procedure) (Date: 2016-06-08T14:38:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-08T14:49:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-14T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-14T14:08:57Z)
+- Screening for domestic abuse (procedure) (Date: 2017-06-14T14:36:00Z)
+- Depression screening (procedure) (Date: 2017-06-14T15:15:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-14T15:29:41Z)
+- Assessment of substance use (procedure) (Date: 2017-06-14T15:57:27Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-14T16:07:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-20T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-20T14:14:04Z)
+- Depression screening (procedure) (Date: 2018-06-20T14:40:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-20T14:52:01Z)
+- Assessment of substance use (procedure) (Date: 2018-06-20T15:20:01Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-20T15:34:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-26T13:22:52Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-26T13:22:52Z)
+- Depression screening (procedure) (Date: 2019-06-26T14:21:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-26T14:35:28Z)
+- Assessment of substance use (procedure) (Date: 2019-06-26T14:59:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-06-26T15:14:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-01T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-01T14:17:31Z)
+- Assessment of substance use (procedure) (Date: 2020-07-01T14:46:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-07-01T14:57:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-07T13:22:52Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-07T13:22:52Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-07T13:53:14Z)
+- Assessment of substance use (procedure) (Date: 2021-07-07T14:17:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-07T14:29:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-07T13:22:52Z: General examination of patient (procedure)
+- 2021-04-14T13:22:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-24T13:22:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-01T13:22:52Z: General examination of patient (procedure)
+- 2019-06-26T13:22:52Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-07T14:57:37Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-07-07T14:17:24Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-07-07T13:53:14Z What is your current work situation?: Part-time or temporary work nan
+- 2021-07-07T13:53:14Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-07-07T13:53:14Z What address do you live at?: 800 O'Hara Fort Apt 20 nan
+- 2021-07-07T13:53:14Z Are you worried about losing your housing?: No nan
+- 2021-07-07T13:53:14Z What is your housing situation today?: I have housing nan
+- 2021-07-07T13:53:14Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-07-07T13:53:14Z What language are you most comfortable speaking?: English nan
+- 2021-07-07T13:53:14Z Have you been discharged from the armed forces of the United States?: No nan

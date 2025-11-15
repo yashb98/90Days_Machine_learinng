@@ -1,0 +1,110 @@
+== PATIENT RECORD: Joey457 Stoltenberg489 (ID: 41deca00-d1c8-0478-3ff7-a074db2cf397) ==
+
+== Demographics ==
+Patient ID: 41deca00-d1c8-0478-3ff7-a074db2cf397
+Name: Joey457 Stoltenberg489
+Gender: M
+Birthdate: 1958-06-17
+Address: 830 Hackett Wynd Suite 52
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Chronic sinusitis (disorder)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Coronary Heart Disease
+- Acute viral pharyngitis (disorder)
+- Stroke
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-28T09:20:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-05T09:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-05T10:14:05Z)
+- Depression screening (procedure) (Date: 2013-03-05T10:38:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-05T10:48:18Z)
+- Colonoscopy (Date: 2013-06-17T09:46:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-11T09:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-11T10:14:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-17T09:20:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-17T09:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-17T09:58:03Z)
+- Depression screening (procedure) (Date: 2015-03-17T10:26:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-17T10:39:08Z)
+- Assessment of substance use (procedure) (Date: 2015-03-17T11:07:37Z)
+- Screening for drug abuse (procedure) (Date: 2015-03-17T11:18:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-22T09:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-22T10:02:56Z)
+- Screening for domestic abuse (procedure) (Date: 2016-03-22T10:24:16Z)
+- Depression screening (procedure) (Date: 2016-03-22T11:02:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-22T11:13:29Z)
+- Assessment of substance use (procedure) (Date: 2016-03-22T11:33:53Z)
+- Screening for drug abuse (procedure) (Date: 2016-03-22T11:48:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-28T09:20:09Z)
+- Depression screening (procedure) (Date: 2017-03-28T09:51:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-28T10:05:18Z)
+- Assessment of substance use (procedure) (Date: 2017-03-28T10:30:01Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-28T10:44:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-03T09:20:09Z)
+- Depression screening (procedure) (Date: 2018-04-03T10:16:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-03T10:26:51Z)
+- Colonoscopy (Date: 2018-06-17T10:31:30Z)
+- Echocardiography (procedure) (Date: 2018-11-20T09:20:09Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2018-11-20T09:20:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-09T09:20:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-09T09:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-09T10:18:25Z)
+- Assessment of substance use (procedure) (Date: 2019-04-09T10:45:59Z)
+- Screening for drug abuse (procedure) (Date: 2019-04-09T11:00:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-14T09:20:09Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-14T09:20:09Z)
+- Depression screening (procedure) (Date: 2020-04-14T10:10:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-14T10:23:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-20T09:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-20T09:53:35Z)
+- Depression screening (procedure) (Date: 2021-04-20T10:08:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-20T10:20:53Z)
+- Assessment of substance use (procedure) (Date: 2021-04-20T10:47:36Z)
+- Screening for drug abuse (procedure) (Date: 2021-04-20T11:00:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-31T09:20:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-10T09:20:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-20T09:20:09Z: General examination of patient (procedure)
+- 2020-04-14T09:20:09Z: General examination of patient (procedure)
+- 2019-04-09T09:20:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-17T09:20:09Z QOLS: 1.0 {score}
+- 2021-06-17T09:20:09Z DALY: 0.2 a
+- 2021-06-17T09:20:09Z QALY: 61.8 a
+- 2021-04-20T11:29:34Z Total score [DAST-10]: 2.0 {score}
+- 2021-04-20T10:47:36Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-04-20T10:08:37Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-04-20T09:53:35Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-04-20T09:53:35Z What is your current work situation?: Full-time work nan
+- 2021-04-20T09:53:35Z What is your housing situation today?: I have housing nan
+- 2021-04-20T09:53:35Z Are you worried about losing your housing?: Yes nan

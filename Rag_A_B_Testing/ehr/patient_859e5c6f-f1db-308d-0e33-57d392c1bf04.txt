@@ -1,0 +1,74 @@
+== PATIENT RECORD: Augustine565 Gorczany269 (ID: 859e5c6f-f1db-308d-0e33-57d392c1bf04) ==
+
+== Demographics ==
+Patient ID: 859e5c6f-f1db-308d-0e33-57d392c1bf04
+Name: Augustine565 Gorczany269
+Gender: M
+Birthdate: 2009-09-19
+Address: 591 Bartoletti Spur Suite 22
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Coronary Heart Disease
+- Acute bronchitis (disorder)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Appendicitis
+- History of appendectomy
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Acetaminophen 325 MG Oral Tablet
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-26T02:25:00Z)
+- Echocardiography (procedure) (Date: 2013-01-20T02:25:00Z)
+- Percutaneous coronary intervention (Date: 2013-01-20T02:25:00Z)
+- Coronary artery bypass grafting (Date: 2013-01-20T02:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-24T02:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-25T02:25:00Z)
+- Throat culture (procedure) (Date: 2013-12-30T23:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-31T02:25:00Z)
+- Plain chest X-ray (procedure) (Date: 2015-03-15T17:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-22T02:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-06T02:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-23T02:25:00Z)
+- Sputum examination (procedure) (Date: 2019-02-19T12:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-29T02:25:00Z)
+- Appendectomy (Date: 2020-02-17T10:25:00Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-04T02:25:00Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-10T02:25:00Z)
+- Assessment of substance use (procedure) (Date: 2021-10-10T02:43:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-10-10T02:57:58Z)
+- Anticipatory guidance (procedure) (Date: 2021-10-10T03:25:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-31T02:25:00Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-10T02:25:00Z: Well child visit (procedure)
+- 2021-10-03T02:25:00Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-04T02:25:00Z: Well child visit (procedure)
+- 2020-07-01T00:25:00Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T02:43:50Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-10-10T02:25:00Z Body mass index (BMI) [Percentile] Per age and gender: 34.5 %
+- 2021-10-10T02:25:00Z Respiratory rate: 14.0 /min
+- 2021-10-10T02:25:00Z Body Height: 134.4 cm
+- 2021-10-10T02:25:00Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-10-10T02:25:00Z Body Weight: 30.6 kg
+- 2021-10-10T02:25:00Z Body Mass Index: 17.0 kg/m2
+- 2021-10-10T02:25:00Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-10T02:25:00Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-10-10T02:25:00Z Systolic Blood Pressure: 102.0 mm[Hg]

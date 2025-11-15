@@ -1,0 +1,123 @@
+== PATIENT RECORD: Long300 Thompson596 (ID: d92df2e8-3c36-b226-ac2f-0318da0327b8) ==
+
+== Demographics ==
+Patient ID: d92df2e8-3c36-b226-ac2f-0318da0327b8
+Name: Long300 Thompson596
+Gender: M
+Birthdate: 1999-04-24
+Address: 545 Crooks Bridge Apt 25
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of ankle
+- Concussion injury of brain
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Hypertension
+- Only received primary school education (finding)
+- Not in labor force (finding)
+- Acute bacterial sinusitis (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Full-time employment (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-05-19T13:17:41Z)
+- Depression screening (procedure) (Date: 2012-05-19T13:33:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-19T13:45:53Z)
+- Depression screening (procedure) (Date: 2013-05-25T13:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-25T13:17:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-25T13:29:57Z)
+- Assessment of substance use (procedure) (Date: 2013-05-25T13:51:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-25T14:05:56Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-25T14:22:32Z)
+- Ankle X-ray (Date: 2013-10-21T13:17:41Z)
+- Bone immobilization (Date: 2013-10-21T13:17:41Z)
+- Depression screening (procedure) (Date: 2014-05-31T13:17:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-31T13:28:52Z)
+- Assessment of substance use (procedure) (Date: 2014-05-31T13:52:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-31T14:03:05Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-31T14:22:56Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-06T13:17:41Z)
+- Depression screening (procedure) (Date: 2015-06-06T13:43:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-06T13:57:10Z)
+- Assessment of substance use (procedure) (Date: 2015-06-06T14:19:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-06T14:30:20Z)
+- Anticipatory guidance (procedure) (Date: 2015-06-06T14:59:44Z)
+- Depression screening (procedure) (Date: 2016-06-11T13:17:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-11T13:31:23Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-01T13:17:41Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-04T14:10:14Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-07T15:06:41Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-10T16:00:45Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-13T16:53:08Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-16T17:41:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-17T13:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-17T13:17:41Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-19T18:31:54Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-22T19:22:12Z)
+- Depression screening (procedure) (Date: 2017-06-17T14:11:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-17T14:22:01Z)
+- Assessment of substance use (procedure) (Date: 2017-06-17T14:46:42Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-17T14:57:09Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-25T20:09:38Z)
+- Movement therapy (regime/therapy) (Date: 2017-06-28T21:09:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-23T13:17:41Z)
+- Screening for domestic abuse (procedure) (Date: 2018-06-23T13:50:36Z)
+- Depression screening (procedure) (Date: 2018-06-23T14:31:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-23T14:44:12Z)
+- Assessment of substance use (procedure) (Date: 2018-06-23T15:11:20Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-23T15:25:50Z)
+- Measurement of respiratory function (procedure) (Date: 2018-07-14T14:17:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-21T13:17:41Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-21T14:04:27Z)
+- Depression screening (procedure) (Date: 2018-07-21T14:24:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-21T14:35:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-29T13:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-29T13:17:41Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-29T14:09:15Z)
+- Depression screening (procedure) (Date: 2019-06-29T14:34:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-29T14:44:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-04T13:17:41Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-04T13:51:03Z)
+- Depression screening (procedure) (Date: 2020-07-04T14:08:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-04T14:20:21Z)
+- Assessment of substance use (procedure) (Date: 2020-07-04T14:47:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-07-04T15:01:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-10T13:17:41Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-10T13:17:41Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-10T13:59:46Z)
+- Depression screening (procedure) (Date: 2021-07-10T14:28:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-10T14:40:13Z)
+- Assessment of substance use (procedure) (Date: 2021-07-10T15:01:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-10T15:15:13Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-17T13:17:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-10T13:17:41Z: General examination of patient (procedure)
+- 2021-06-26T13:17:41Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-04T13:17:41Z: General examination of patient (procedure)
+- 2019-06-29T13:17:41Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-10T15:44:20Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-07-10T15:01:49Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-10T14:28:47Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-07-10T13:59:46Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-07-10T13:59:46Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-07-10T13:59:46Z Are you worried about losing your housing?: No nan
+- 2021-07-10T13:59:46Z What address do you live at?: 545 Crooks Bridge Apt 25 nan
+- 2021-07-10T13:59:46Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-07-10T13:59:46Z What is your current work situation?: Full-time work nan
+- 2021-07-10T13:59:46Z What is your main insurance?: Private insurance nan

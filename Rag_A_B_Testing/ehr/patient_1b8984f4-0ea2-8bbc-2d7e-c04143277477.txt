@@ -1,0 +1,104 @@
+== PATIENT RECORD: Leroy603 Rippin620 (ID: 1b8984f4-0ea2-8bbc-2d7e-c04143277477) ==
+
+== Demographics ==
+Patient ID: 1b8984f4-0ea2-8bbc-2d7e-c04143277477
+Name: Leroy603 Rippin620
+Gender: M
+Birthdate: 1997-03-20
+Address: 149 Purdy Brook
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Prediabetes
+- Anemia (disorder)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-04-26T08:07:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-26T08:20:48Z)
+- Assessment of substance use (procedure) (Date: 2012-04-26T08:42:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-04-26T08:56:22Z)
+- Health risks education (procedure) (Date: 2012-04-26T09:16:30Z)
+- Assessment of substance use (procedure) (Date: 2013-05-02T08:07:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-02T08:20:36Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-02T08:31:20Z)
+- Depression screening (procedure) (Date: 2014-05-08T08:07:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-08T08:20:58Z)
+- Assessment of substance use (procedure) (Date: 2014-05-08T08:49:45Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-08T09:02:14Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-08T09:31:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-14T08:07:19Z)
+- Screening for domestic abuse (procedure) (Date: 2015-05-14T08:58:31Z)
+- Depression screening (procedure) (Date: 2015-05-14T09:29:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-14T09:41:37Z)
+- Assessment of substance use (procedure) (Date: 2015-05-14T10:03:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-05-14T10:15:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-19T08:07:19Z)
+- Depression screening (procedure) (Date: 2016-05-19T08:42:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-19T08:53:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-25T08:07:19Z)
+- Peripheral blood smear interpretation (Date: 2017-05-25T08:07:19Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-25T08:53:55Z)
+- Screening for domestic abuse (procedure) (Date: 2017-05-25T09:17:16Z)
+- Depression screening (procedure) (Date: 2017-05-25T09:45:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-25T09:55:28Z)
+- Assessment of substance use (procedure) (Date: 2017-05-25T10:21:51Z)
+- Screening for drug abuse (procedure) (Date: 2017-05-25T10:34:38Z)
+- Review of systems (procedure) (Date: 2017-05-25T08:37:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-25T08:54:10Z)
+- Brief general examination (procedure) (Date: 2017-05-25T08:59:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-31T08:07:19Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-31T08:07:19Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-31T08:41:57Z)
+- Depression screening (procedure) (Date: 2018-05-31T09:10:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-31T09:22:38Z)
+- Assessment of substance use (procedure) (Date: 2018-05-31T09:51:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-05-31T10:03:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-06T08:07:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-06T08:07:19Z)
+- Assessment of substance use (procedure) (Date: 2019-06-06T08:45:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-06-06T09:00:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-11T08:07:19Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-11T08:58:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-17T08:07:19Z)
+- Depression screening (procedure) (Date: 2021-06-17T08:45:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-17T08:56:59Z)
+- Assessment of substance use (procedure) (Date: 2021-06-17T09:23:50Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-17T09:34:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-23T08:07:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-02T08:07:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-17T08:07:19Z: General examination of patient (procedure)
+- 2020-06-11T08:07:19Z: General examination of patient (procedure)
+- 2019-06-06T08:07:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-17T10:03:07Z Total score [DAST-10]: 0.0 {score}
+- 2021-06-17T09:23:50Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-06-17T08:45:23Z What address do you live at?: 149 Purdy Brook nan
+- 2021-06-17T08:45:23Z What language are you most comfortable speaking?: Language other than English nan
+- 2021-06-17T08:45:23Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-06-17T08:45:23Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week nan
+- 2021-06-17T08:45:23Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-17T08:45:23Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-06-17T08:45:23Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 128850 /a
+- 2021-06-17T08:45:23Z What is your main insurance?: Private insurance nan

@@ -1,0 +1,44 @@
+== PATIENT RECORD: Kirstin394 Crooks415 (ID: 43169892-50d5-afc6-e713-d9dd1a2657d3) ==
+
+== Demographics ==
+Patient ID: 43169892-50d5-afc6-e713-d9dd1a2657d3
+Name: Kirstin394 Crooks415
+Gender: F
+Birthdate: 1968-01-12
+Address: 319 Skiles Village Unit 56
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Bullet wound
+
+== Current Medications ==
+- Penicillin G 375 MG/ML Injectable Solution
+- Aspirin 81 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1968-01-12T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 1968-02-16T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 1968-09-20T11:40:58Z)
+
+== Recent Encounters (Last 5) ==
+- 1970-01-23T11:40:58Z: Death Certification
+- 1970-01-16T11:40:58Z: Emergency room admission (procedure)
+- 1969-12-19T11:40:58Z: Well child visit (procedure)
+- 1969-06-20T11:40:58Z: Well child visit (procedure)
+- 1969-03-21T11:40:58Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1970-01-23T11:40:58Z Cause of Death [US Standard Certificate of Death]: Bullet wound nan
+- 1969-12-19T11:40:58Z Tobacco smoking status NHIS: Never smoker nan
+- 1969-12-19T11:40:58Z Respiratory rate: 15.0 /min
+- 1969-12-19T11:40:58Z Heart rate: 88.0 /min
+- 1969-12-19T11:40:58Z Systolic Blood Pressure: 127.0 mm[Hg]
+- 1969-12-19T11:40:58Z Diastolic Blood Pressure: 72.0 mm[Hg]
+- 1969-12-19T11:40:58Z Head Occipital-frontal circumference: 44.9 cm
+- 1969-12-19T11:40:58Z Weight-for-length Per age and sex: 84.6 %
+- 1969-12-19T11:40:58Z Body Weight: 11.4 kg
+- 1969-12-19T11:40:58Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}

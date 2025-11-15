@@ -1,0 +1,109 @@
+== PATIENT RECORD: Esther279 Toy286 (ID: d432ac90-2b10-097f-9a30-093555da284f) ==
+
+== Demographics ==
+Patient ID: d432ac90-2b10-097f-9a30-093555da284f
+Name: Esther279 Toy286
+Gender: F
+Birthdate: 1970-08-20
+Address: 931 Herman Vale Unit 62
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Unhealthy alcohol drinking behavior (finding)
+- Body mass index 30+ - obesity (finding)
+- Part-time employment (finding)
+- Chronic low back pain (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Etonogestrel 68 MG Drug Implant
+- Camila 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Liletta 52 MG Intrauterine System
+- Jolivette 28 Day Pack
+- Errin 28 Day Pack
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Insertion of subcutaneous contraceptive (Date: 2012-03-11T08:43:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-30T13:44:31Z)
+- Depression screening (procedure) (Date: 2012-08-30T14:33:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-30T14:47:55Z)
+- Assessment of substance use (procedure) (Date: 2012-08-30T15:08:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-08-30T15:23:20Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-04T13:44:31Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-07T14:33:43Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-10T15:28:29Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-13T16:22:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-16T17:15:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-19T18:12:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-22T19:12:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-25T20:02:19Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-28T20:54:56Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-03T21:53:32Z)
+- Intramuscular injection (Date: 2014-03-01T09:07:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-04T13:44:31Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-04T13:44:31Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-04T14:32:59Z)
+- Depression screening (procedure) (Date: 2014-09-04T14:49:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-04T15:03:25Z)
+- Insertion of intrauterine contraceptive device (Date: 2015-02-28T11:18:22Z)
+- Replacement of contraceptive intrauterine device (Date: 2015-04-23T13:44:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-08T13:44:31Z)
+- Depression screening (procedure) (Date: 2016-09-08T14:35:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-08T14:46:19Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-02-19T14:22:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-13T13:44:31Z)
+- Depression screening (procedure) (Date: 2018-09-13T14:26:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-13T14:37:48Z)
+- Assessment of substance use (procedure) (Date: 2018-09-13T14:58:28Z)
+- Screening for drug abuse (procedure) (Date: 2018-09-13T15:13:17Z)
+- Measurement of respiratory function (procedure) (Date: 2020-02-26T21:44:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-12T13:44:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-12T13:44:31Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-12T14:21:13Z)
+- Depression screening (procedure) (Date: 2020-03-12T14:48:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-12T14:59:06Z)
+- Assessment of substance use (procedure) (Date: 2020-03-12T15:27:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-12T15:39:13Z)
+- Replacement of contraceptive intrauterine device (Date: 2020-04-23T13:44:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-20T13:44:31Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-20T14:19:10Z)
+- Depression screening (procedure) (Date: 2020-08-20T14:48:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-20T14:59:44Z)
+- Assessment of substance use (procedure) (Date: 2020-08-20T15:26:04Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-20T15:40:08Z)
+- Removal of intrauterine device (Date: 2021-02-11T13:44:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-26T13:44:31Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-26T14:34:56Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-26T14:53:57Z)
+- Assessment of substance use (procedure) (Date: 2021-08-26T15:31:56Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-26T15:44:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-26T13:44:31Z: General examination of patient (procedure)
+- 2021-05-13T13:44:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-15T13:44:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-11T13:44:31Z: Patient encounter procedure
+- 2020-08-20T13:44:31Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-26T16:13:57Z Total score [DAST-10]: 2.0 {score}
+- 2021-08-26T15:31:56Z Total score [HARK]: 0.0 {score}
+- 2021-08-26T14:53:57Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- 2021-08-26T14:34:56Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-08-26T14:34:56Z How many family members  including yourself  do you currently live with?: 3.0 {#}
+- 2021-08-26T14:34:56Z Are you worried about losing your housing?: No nan
+- 2021-08-26T14:34:56Z What address do you live at?: 931 Herman Vale Unit 62 nan
+- 2021-08-26T14:34:56Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-26T14:34:56Z What is your current work situation?: Full-time work nan
+- 2021-08-26T14:34:56Z What is your main insurance?: Medicaid nan

@@ -1,0 +1,55 @@
+== PATIENT RECORD: Bryce11 Schinner682 (ID: 81d042b4-40c3-976a-efb0-b9e36a0f28e1) ==
+
+== Demographics ==
+Patient ID: 81d042b4-40c3-976a-efb0-b9e36a0f28e1
+Name: Bryce11 Schinner682
+Gender: M
+Birthdate: 2006-03-05
+Address: 187 Orn Vale
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Acute viral pharyngitis (disorder)
+- Sprain of wrist
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2013-02-09T15:08:03Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-24T23:08:03Z)
+- Depression screening (procedure) (Date: 2018-03-25T23:08:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-25T23:18:34Z)
+- Assessment of substance use (procedure) (Date: 2018-03-25T23:47:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-03-25T23:59:12Z)
+- Anticipatory guidance (procedure) (Date: 2018-03-26T00:12:38Z)
+- Depression screening (procedure) (Date: 2019-03-31T23:08:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-31T23:21:15Z)
+- Depression screening (procedure) (Date: 2021-04-11T23:08:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-04-11T23:20:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-11T23:08:03Z: Well child visit (procedure)
+- 2020-04-05T23:08:03Z: Well child visit (procedure)
+- 2019-03-31T23:08:03Z: Well child visit (procedure)
+- 2018-11-03T22:08:03Z: Encounter for symptom
+- 2018-09-08T22:08:03Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-04-11T23:43:04Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-04-11T23:08:03Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-11T23:08:03Z Respiratory rate: 14.0 /min
+- 2021-04-11T23:08:03Z Body Height: 176.7 cm
+- 2021-04-11T23:08:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-04-11T23:08:03Z Body Weight: 80.1 kg
+- 2021-04-11T23:08:03Z Body Mass Index: 25.7 kg/m2
+- 2021-04-11T23:08:03Z Body mass index (BMI) [Percentile] Per age and gender: 92.6 %
+- 2021-04-11T23:08:03Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-04-11T23:08:03Z Systolic Blood Pressure: 117.0 mm[Hg]

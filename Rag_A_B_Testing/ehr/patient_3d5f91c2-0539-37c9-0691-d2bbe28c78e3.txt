@@ -1,0 +1,124 @@
+== PATIENT RECORD: Lashonda618 Klein929 (ID: 3d5f91c2-0539-37c9-0691-d2bbe28c78e3) ==
+
+== Demographics ==
+Patient ID: 3d5f91c2-0539-37c9-0691-d2bbe28c78e3
+Name: Lashonda618 Klein929
+Gender: F
+Birthdate: 2002-03-01
+Address: 1030 Ledner Club Unit 86
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Laceration of foot
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+- Laceration of thigh
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Naproxen sodium 220 MG Oral Tablet
+- Seasonique 91 Day Pack
+- Camila 28 Day Pack
+- tramadol hydrochloride 50 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-03-15T15:15:34Z)
+- Throat culture (procedure) (Date: 2013-05-15T18:15:34Z)
+- Measurement of respiratory function (procedure) (Date: 2013-06-04T10:15:34Z)
+- Suture open wound (Date: 2013-07-26T15:15:34Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-21T15:15:34Z)
+- Depression screening (procedure) (Date: 2014-03-21T15:44:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-03-21T15:55:01Z)
+- Assessment of substance use (procedure) (Date: 2014-03-21T16:16:53Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-03-21T16:31:06Z)
+- Anticipatory guidance (procedure) (Date: 2014-03-21T16:43:14Z)
+- Throat culture (procedure) (Date: 2014-04-22T16:15:34Z)
+- Throat culture (procedure) (Date: 2014-09-04T05:15:34Z)
+- Depression screening (procedure) (Date: 2014-09-12T15:15:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-09-12T15:27:36Z)
+- Assessment of substance use (procedure) (Date: 2014-09-12T15:48:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-09-12T15:59:51Z)
+- Anticipatory guidance (procedure) (Date: 2014-09-12T16:21:28Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-27T15:15:34Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-27T15:15:34Z)
+- Assessment of substance use (procedure) (Date: 2015-03-27T15:34:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-03-27T15:46:46Z)
+- Anticipatory guidance (procedure) (Date: 2015-03-27T16:00:00Z)
+- Depression screening (procedure) (Date: 2016-04-01T15:15:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-04-01T15:28:49Z)
+- Assessment of substance use (procedure) (Date: 2016-04-01T15:53:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-04-01T16:07:18Z)
+- Anticipatory guidance (procedure) (Date: 2016-04-01T16:19:08Z)
+- Plain chest X-ray (procedure) (Date: 2016-06-11T06:15:34Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-07T15:15:34Z)
+- Depression screening (procedure) (Date: 2017-04-07T15:40:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-04-07T15:52:17Z)
+- Assessment of substance use (procedure) (Date: 2017-04-07T16:21:52Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-04-07T16:32:29Z)
+- Health risks education (procedure) (Date: 2017-04-07T16:52:02Z)
+- Suture open wound (Date: 2017-08-10T15:31:15Z)
+- Assessment of substance use (procedure) (Date: 2018-04-13T15:15:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-13T15:15:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-04-13T15:26:04Z)
+- Anticipatory guidance (procedure) (Date: 2018-04-13T15:42:35Z)
+- Throat culture (procedure) (Date: 2019-01-26T02:15:34Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-19T15:15:34Z)
+- Depression screening (procedure) (Date: 2019-04-19T15:33:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-04-19T15:44:19Z)
+- Assessment of substance use (procedure) (Date: 2019-04-19T16:04:28Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-04-19T16:14:54Z)
+- Health risks education (procedure) (Date: 2019-04-19T16:40:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-24T15:15:34Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-24T15:15:34Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-24T15:49:17Z)
+- Depression screening (procedure) (Date: 2020-04-24T16:06:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-24T16:18:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-30T15:15:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-30T15:15:34Z)
+- Depression screening (procedure) (Date: 2021-04-30T15:56:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-30T16:07:10Z)
+- Assessment of substance use (procedure) (Date: 2021-04-30T16:36:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-04-30T16:51:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-30T15:15:34Z: General examination of patient (procedure)
+- 2021-04-16T15:15:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-26T15:15:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-02T15:15:34Z: Consultation for treatment
+- 2020-12-27T15:15:34Z: Follow-up encounter (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-30T17:16:12Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-04-30T16:36:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-04-30T15:56:04Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-04-30T15:56:04Z What address do you live at?: 1030 Ledner Club Unit 86 nan
+- 2021-04-30T15:56:04Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-04-30T15:56:04Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-04-30T15:56:04Z Are you a refugee?: No nan
+- 2021-04-30T15:56:04Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-04-30T15:56:04Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-04-30T15:56:04Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan

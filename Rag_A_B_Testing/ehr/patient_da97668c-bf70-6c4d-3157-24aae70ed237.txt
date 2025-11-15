@@ -1,0 +1,198 @@
+== PATIENT RECORD: Talisha682 Parisian75 (ID: da97668c-bf70-6c4d-3157-24aae70ed237) ==
+
+== Demographics ==
+Patient ID: da97668c-bf70-6c4d-3157-24aae70ed237
+Name: Talisha682 Parisian75
+Gender: F
+Birthdate: 1928-11-13
+Address: 1039 Kautzer Knoll
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Full-time employment (finding)
+- Refugee (person)
+- Unhealthy alcohol drinking behavior (finding)
+- Osteoarthritis of knee
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Misuses drugs (finding)
+- Chronic pain
+- Chronic intractable migraine without aura
+- Impacted molars
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Alzheimer's disease (disorder)
+- Hyperlipidemia
+- Drug overdose
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+- Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Donepezil hydrochloride 10 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 1990-06-20T01:20:11Z)
+- Subcutaneous immunotherapy (Date: 1990-07-13T01:51:24Z)
+- Subcutaneous immunotherapy (Date: 1990-08-06T02:19:38Z)
+- Subcutaneous immunotherapy (Date: 1990-08-28T03:09:00Z)
+- Subcutaneous immunotherapy (Date: 1990-09-20T03:49:08Z)
+- Subcutaneous immunotherapy (Date: 1990-10-12T04:05:04Z)
+- Subcutaneous immunotherapy (Date: 1990-11-08T04:53:38Z)
+- Subcutaneous immunotherapy (Date: 1990-12-05T05:52:19Z)
+- Subcutaneous immunotherapy (Date: 1990-12-29T06:14:48Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-01-22T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1991-01-22T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1991-01-19T06:54:54Z)
+- Assessment of anxiety (procedure) (Date: 1991-01-22T21:23:00Z)
+- Depression screening (procedure) (Date: 1991-01-22T21:50:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-01-22T22:01:17Z)
+- Assessment of substance use (procedure) (Date: 1991-01-22T22:28:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1991-01-22T22:42:55Z)
+- Extraction of wisdom tooth (Date: 1991-01-30T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1991-02-15T07:48:35Z)
+- Subcutaneous immunotherapy (Date: 1991-03-08T08:23:36Z)
+- Subcutaneous immunotherapy (Date: 1991-03-29T09:19:20Z)
+- Subcutaneous immunotherapy (Date: 1991-04-22T09:35:02Z)
+- Subcutaneous immunotherapy (Date: 1991-05-18T10:32:04Z)
+- Subcutaneous immunotherapy (Date: 1991-06-11T11:13:38Z)
+- Extraction of wisdom tooth (Date: 1991-06-18T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1991-07-03T11:42:11Z)
+- Subcutaneous immunotherapy (Date: 1991-07-30T12:27:21Z)
+- Extraction of wisdom tooth (Date: 1991-08-24T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1991-08-25T13:09:26Z)
+- Subcutaneous immunotherapy (Date: 1991-09-19T14:00:57Z)
+- Subcutaneous immunotherapy (Date: 1991-10-16T14:40:43Z)
+- Subcutaneous immunotherapy (Date: 1991-11-10T15:05:43Z)
+- Subcutaneous immunotherapy (Date: 1991-12-01T15:36:19Z)
+- Subcutaneous immunotherapy (Date: 1991-12-26T16:28:09Z)
+- Subcutaneous immunotherapy (Date: 1992-01-17T16:44:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-01-28T20:45:19Z)
+- Depression screening (procedure) (Date: 1992-01-28T21:26:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-01-28T21:40:55Z)
+- Assessment of substance use (procedure) (Date: 1992-01-28T22:10:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1992-01-28T22:23:56Z)
+- Subcutaneous immunotherapy (Date: 1992-02-08T17:25:43Z)
+- Subcutaneous immunotherapy (Date: 1992-03-04T18:24:24Z)
+- Subcutaneous immunotherapy (Date: 1992-03-29T18:41:51Z)
+- Subcutaneous immunotherapy (Date: 1992-04-25T19:23:17Z)
+- Subcutaneous immunotherapy (Date: 1992-05-16T19:38:27Z)
+- Subcutaneous immunotherapy (Date: 1992-06-06T19:59:54Z)
+- Subcutaneous immunotherapy (Date: 1992-06-27T20:19:17Z)
+- Extraction of wisdom tooth (Date: 1992-07-11T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1992-07-21T21:05:15Z)
+- Subcutaneous immunotherapy (Date: 1992-08-11T21:59:18Z)
+- Extraction of wisdom tooth (Date: 1992-09-07T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1992-09-05T22:50:59Z)
+- Subcutaneous immunotherapy (Date: 1992-10-02T23:35:24Z)
+- Extraction of wisdom tooth (Date: 1992-10-21T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1992-10-28T23:52:25Z)
+- Subcutaneous immunotherapy (Date: 1992-11-23T00:31:33Z)
+- Subcutaneous immunotherapy (Date: 1992-12-19T01:11:21Z)
+- Subcutaneous immunotherapy (Date: 1993-01-11T01:34:24Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-02-02T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1993-02-02T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1993-02-01T02:05:17Z)
+- Depression screening (procedure) (Date: 1993-02-02T21:40:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-02-02T21:53:06Z)
+- Assessment of substance use (procedure) (Date: 1993-02-02T22:14:00Z)
+- Screening for drug abuse (procedure) (Date: 1993-02-02T22:25:34Z)
+- Subcutaneous immunotherapy (Date: 1993-02-26T02:23:33Z)
+- Subcutaneous immunotherapy (Date: 1993-03-25T02:48:51Z)
+- Extraction of wisdom tooth (Date: 1993-04-20T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1993-04-18T03:11:36Z)
+- Subcutaneous immunotherapy (Date: 1993-05-15T04:06:40Z)
+- Subcutaneous immunotherapy (Date: 1993-06-06T04:24:56Z)
+- Subcutaneous immunotherapy (Date: 1993-07-03T04:44:58Z)
+- Subcutaneous immunotherapy (Date: 1993-07-26T05:16:57Z)
+- Extraction of wisdom tooth (Date: 1993-08-07T20:45:19Z)
+- Subcutaneous immunotherapy (Date: 1993-08-22T05:56:27Z)
+- Subcutaneous immunotherapy (Date: 1993-09-15T06:42:36Z)
+- Subcutaneous immunotherapy (Date: 1993-10-09T07:03:25Z)
+- Subcutaneous immunotherapy (Date: 1993-11-03T07:54:18Z)
+- Subcutaneous immunotherapy (Date: 1993-11-30T08:37:17Z)
+- Subcutaneous immunotherapy (Date: 1993-12-27T09:13:59Z)
+- Allergy screening test (Date: 1994-01-18T09:40:53Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-02-08T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1994-02-08T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 1994-02-08T21:22:54Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-02-08T21:49:11Z)
+- Screening for domestic abuse (procedure) (Date: 1994-02-08T22:12:13Z)
+- Depression screening (procedure) (Date: 1994-02-08T22:38:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-02-08T22:50:19Z)
+- Assessment of substance use (procedure) (Date: 1994-02-08T23:12:43Z)
+- Screening for drug abuse (procedure) (Date: 1994-02-08T23:27:09Z)
+- Extraction of wisdom tooth (Date: 1994-04-14T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-02-14T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1995-02-14T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-02-14T21:22:20Z)
+- Depression screening (procedure) (Date: 1995-02-14T21:49:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-02-14T22:01:23Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-02-20T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1996-02-20T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-02-20T21:20:28Z)
+- Screening for domestic abuse (procedure) (Date: 1996-02-20T21:43:23Z)
+- Depression screening (procedure) (Date: 1996-02-20T22:23:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-02-20T22:35:43Z)
+- Throat culture (procedure) (Date: 1996-10-07T23:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-02-25T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 1997-02-25T21:26:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-02-25T21:48:27Z)
+- Depression screening (procedure) (Date: 1997-02-25T22:13:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-02-25T22:28:11Z)
+- Assessment of substance use (procedure) (Date: 1997-02-25T22:53:37Z)
+- Screening for drug abuse (procedure) (Date: 1997-02-25T23:08:13Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-03-03T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1998-03-03T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 1998-03-03T21:31:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-03-03T21:58:59Z)
+- Screening for domestic abuse (procedure) (Date: 1998-03-03T22:25:49Z)
+- Depression screening (procedure) (Date: 1998-03-03T23:05:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-03-03T23:19:58Z)
+- Assessment of substance use (procedure) (Date: 1998-03-03T23:40:06Z)
+- Screening for drug abuse (procedure) (Date: 1998-03-03T23:50:20Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-03-09T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 1999-03-09T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-03-09T21:43:09Z)
+- Depression screening (procedure) (Date: 1999-03-09T22:05:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-03-09T22:20:47Z)
+- Assessment of substance use (procedure) (Date: 1999-03-09T22:48:37Z)
+- Screening for drug abuse (procedure) (Date: 1999-03-09T23:00:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-03-14T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2000-03-14T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-03-14T21:16:49Z)
+- Depression screening (procedure) (Date: 2000-03-14T21:36:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-03-14T21:47:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2000-05-23T20:45:19Z: Death Certification
+- 2000-05-11T20:45:19Z: Emergency Room Admission
+- 2000-03-29T20:45:19Z: Follow-up encounter
+- 2000-03-14T20:45:19Z: General examination of patient (procedure)
+- 2000-02-29T20:45:19Z: Office Visit
+
+== Recent Observations (Last 10) ==
+- 2000-05-23T20:45:19Z Cause of Death [US Standard Certificate of Death]: Drug overdose nan
+- 2000-03-29T20:45:19Z Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- 2000-03-29T20:45:19Z Glucose: 70.4 mg/dL
+- 2000-03-29T20:45:19Z Urea Nitrogen: 17.5 mg/dL
+- 2000-03-29T20:45:19Z Creatinine: 3.4 mg/dL
+- 2000-03-29T20:45:19Z Calcium: 9.7 mg/dL
+- 2000-03-29T20:45:19Z Potassium: 4.5 mmol/L
+- 2000-03-29T20:45:19Z Chloride: 103.9 mmol/L
+- 2000-03-29T20:45:19Z Carbon Dioxide: 28.0 mmol/L
+- 2000-03-29T20:45:19Z Glomerular filtration rate/1.73 sq M.predicted: 74.3 mL/min

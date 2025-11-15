@@ -1,0 +1,129 @@
+== PATIENT RECORD: Lashawnda573 O'Hara248 (ID: 6b3a5686-0f63-5ce4-cc03-0bba2052f7b1) ==
+
+== Demographics ==
+Patient ID: 6b3a5686-0f63-5ce4-cc03-0bba2052f7b1
+Name: Lashawnda573 O'Hara248
+Gender: F
+Birthdate: 1958-10-28
+Address: 230 Robel Drive Suite 95
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Lack of access to transportation (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Appendicitis
+- History of appendectomy
+- Severe anxiety (panic) (finding
+- Escherichia coli urinary tract infection
+- Polyp of colon
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-20T14:49:27Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-20T15:34:01Z)
+- Depression screening (procedure) (Date: 2012-11-20T16:07:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-20T16:17:53Z)
+- Assessment of substance use (procedure) (Date: 2012-11-20T16:45:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-20T16:59:57Z)
+- Colonoscopy (Date: 2013-10-28T15:27:28Z)
+- Screening for occult blood in feces (procedure) (Date: 2013-10-28T16:00:53Z)
+- Rectal polypectomy (Date: 2013-10-28T16:00:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-26T14:49:27Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-26T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-26T15:26:27Z)
+- Depression screening (procedure) (Date: 2013-11-26T15:49:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-26T16:00:08Z)
+- Assessment of substance use (procedure) (Date: 2013-11-26T16:24:28Z)
+- Screening for drug abuse (procedure) (Date: 2013-11-26T16:36:56Z)
+- Colonoscopy (Date: 2014-10-24T16:00:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-02T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-02T15:35:30Z)
+- Depression screening (procedure) (Date: 2014-12-02T15:58:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-02T16:10:52Z)
+- Assessment of substance use (procedure) (Date: 2014-12-02T16:38:32Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-02T16:52:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-08T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-08T15:19:31Z)
+- Depression screening (procedure) (Date: 2015-12-08T15:46:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-08T15:56:56Z)
+- Assessment of substance use (procedure) (Date: 2015-12-08T16:24:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-08T16:35:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-13T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-13T15:35:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-19T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-19T15:20:53Z)
+- Screening for domestic abuse (procedure) (Date: 2017-12-19T15:47:02Z)
+- Depression screening (procedure) (Date: 2017-12-19T16:19:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-19T16:31:53Z)
+- Assessment of substance use (procedure) (Date: 2017-12-19T16:57:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-19T17:09:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-25T14:49:27Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-25T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-25T15:20:20Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-25T15:44:19Z)
+- Colonoscopy (Date: 2019-10-24T16:32:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-31T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-31T15:31:02Z)
+- Depression screening (procedure) (Date: 2019-12-31T15:54:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-31T16:06:31Z)
+- Assessment of substance use (procedure) (Date: 2019-12-31T16:28:00Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-31T16:42:53Z)
+- Measurement of respiratory function (procedure) (Date: 2020-09-27T13:49:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-06T14:49:27Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-06T14:49:27Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-06T15:20:54Z)
+- Depression screening (procedure) (Date: 2020-10-06T15:50:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-06T16:03:30Z)
+- Assessment of substance use (procedure) (Date: 2020-10-06T16:24:33Z)
+- Screening for drug abuse (procedure) (Date: 2020-10-06T16:38:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-05T14:49:27Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-05T14:49:27Z)
+- Screening for domestic abuse (procedure) (Date: 2021-01-05T15:41:43Z)
+- Depression screening (procedure) (Date: 2021-01-05T16:11:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-05T16:25:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-13T15:49:27Z: Encounter for symptom
+- 2021-07-17T15:49:27Z: Encounter for symptom
+- 2021-04-20T14:49:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-30T14:49:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-05T14:49:27Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-28T13:49:27Z QOLS: 0.8 {score}
+- 2021-10-28T13:49:27Z DALY: 6.3 a
+- 2021-10-28T13:49:27Z QALY: 55.7 a
+- 2021-01-05T16:48:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-01-05T16:11:57Z Total score [HARK]: 0.0 {score}
+- 2021-01-05T15:41:43Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-01-05T15:41:43Z Are you worried about losing your housing?: No nan
+- 2021-01-05T15:41:43Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-01-05T15:41:43Z What is your current work situation?: Full-time work nan
+- 2021-01-05T15:41:43Z What is your main insurance?: Medicaid nan

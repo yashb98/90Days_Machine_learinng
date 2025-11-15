@@ -1,0 +1,44 @@
+== PATIENT RECORD: Francisco472 Stracke611 (ID: ce032ded-978b-b56b-425f-5159d4a4038e) ==
+
+== Demographics ==
+Patient ID: ce032ded-978b-b56b-425f-5159d4a4038e
+Name: Francisco472 Stracke611
+Gender: M
+Birthdate: 1988-01-30
+Address: 1060 Legros Viaduct
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+
+== Current Medications ==
+- Diazepam 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1988-01-30T17:10:18Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1988-05-21T17:10:18Z)
+- Medication Reconciliation (procedure) (Date: 1988-07-09T17:10:18Z)
+
+== Recent Encounters (Last 5) ==
+- 1988-09-24T17:10:18Z: Death Certification
+- 1988-07-09T17:10:18Z: Well child visit (procedure)
+- 1988-05-21T17:10:18Z: Emergency Room Admission
+- 1988-05-07T17:10:18Z: Well child visit (procedure)
+- 1988-03-05T17:10:18Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1988-09-24T17:10:18Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1988-07-09T17:10:18Z Tobacco smoking status NHIS: Never smoker nan
+- 1988-07-09T17:10:18Z Respiratory rate: 14.0 /min
+- 1988-07-09T17:10:18Z Heart rate: 86.0 /min
+- 1988-07-09T17:10:18Z Systolic Blood Pressure: 104.0 mm[Hg]
+- 1988-07-09T17:10:18Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 1988-07-09T17:10:18Z Head Occipital-frontal circumference: 41.9 cm
+- 1988-07-09T17:10:18Z Weight-for-length Per age and sex: 46.6 %
+- 1988-07-09T17:10:18Z Body Weight: 7.0 kg
+- 1988-07-09T17:10:18Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}

@@ -1,0 +1,113 @@
+== PATIENT RECORD: Bryon392 Howell947 (ID: 0a168e32-7b62-8597-0e11-296871bb764f) ==
+
+== Demographics ==
+Patient ID: 0a168e32-7b62-8597-0e11-296871bb764f
+Name: Bryon392 Howell947
+Gender: M
+Birthdate: 1998-12-09
+Address: 328 Leffler Trace Unit 95
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Acute bronchitis (disorder)
+- Fracture subluxation of wrist
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Has a criminal record (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- amLODIPine 2.5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-01-05T00:33:08Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-05T00:33:08Z)
+- Depression screening (procedure) (Date: 2012-01-05T00:48:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-01-05T01:02:16Z)
+- Assessment of substance use (procedure) (Date: 2012-01-05T01:22:40Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-05T01:32:57Z)
+- Anticipatory guidance (procedure) (Date: 2012-01-05T01:43:31Z)
+- Sputum examination (procedure) (Date: 2012-05-02T09:33:08Z)
+- Depression screening (procedure) (Date: 2012-05-10T00:33:08Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-10T00:45:34Z)
+- X-ray or wrist (Date: 2012-08-13T00:33:08Z)
+- Bone immobilization (Date: 2012-08-13T00:33:08Z)
+- Assessment of substance use (procedure) (Date: 2013-01-10T00:33:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-01-10T00:46:12Z)
+- Anticipatory guidance (procedure) (Date: 2013-01-10T01:13:35Z)
+- Assessment of substance use (procedure) (Date: 2014-01-16T00:33:08Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-16T00:33:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-01-16T00:47:22Z)
+- Anticipatory guidance (procedure) (Date: 2014-01-16T01:11:48Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-22T00:33:08Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-22T00:33:08Z)
+- Assessment of substance use (procedure) (Date: 2015-01-22T00:52:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-22T01:04:42Z)
+- Anticipatory guidance (procedure) (Date: 2015-01-22T01:21:55Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-28T00:33:08Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-28T00:33:08Z)
+- Depression screening (procedure) (Date: 2016-01-28T00:52:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-01-28T01:06:50Z)
+- Depression screening (procedure) (Date: 2016-05-05T00:33:08Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-05T00:45:57Z)
+- Assessment of substance use (procedure) (Date: 2016-05-05T01:13:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-05T01:26:41Z)
+- Health risks education (procedure) (Date: 2016-05-05T01:44:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-02T00:33:08Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-02T01:08:33Z)
+- Depression screening (procedure) (Date: 2017-02-02T01:52:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-02T02:05:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-08T00:33:08Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-08T01:32:38Z)
+- Depression screening (procedure) (Date: 2018-02-08T01:50:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-08T02:02:41Z)
+- Assessment of substance use (procedure) (Date: 2018-02-08T02:31:08Z)
+- Screening for drug abuse (procedure) (Date: 2018-02-08T02:41:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-14T00:33:08Z)
+- Assessment of substance use (procedure) (Date: 2019-02-14T01:05:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-02-14T01:18:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-20T00:33:08Z)
+- Depression screening (procedure) (Date: 2020-02-20T01:16:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-20T01:30:53Z)
+- Assessment of substance use (procedure) (Date: 2020-02-20T01:59:15Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-20T02:12:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-25T00:33:08Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-25T00:33:08Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-25T01:16:45Z)
+- Depression screening (procedure) (Date: 2021-02-25T01:48:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-25T02:01:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T00:33:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-25T00:33:08Z: General examination of patient (procedure)
+- 2020-02-20T00:33:08Z: General examination of patient (procedure)
+- 2019-02-14T00:33:08Z: General examination of patient (procedure)
+- 2018-02-08T00:33:08Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-25T02:30:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-02-25T01:48:17Z Total score [HARK]: 0.0 {score}
+- 2021-02-25T01:16:45Z What language are you most comfortable speaking?: English nan
+- 2021-02-25T01:16:45Z What is your main insurance?: Private insurance nan
+- 2021-02-25T01:16:45Z Are you worried about losing your housing?: No nan
+- 2021-02-25T01:16:45Z What address do you live at?: 328 Leffler Trace Unit 95 nan
+- 2021-02-25T01:16:45Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-02-25T01:16:45Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-02-25T01:16:45Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 87192 /a
+- 2021-02-25T01:16:45Z How many family members  including yourself  do you currently live with?: 7.0 {#}

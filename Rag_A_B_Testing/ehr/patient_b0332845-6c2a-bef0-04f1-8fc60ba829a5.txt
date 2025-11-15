@@ -1,0 +1,211 @@
+== PATIENT RECORD: Elton404 Bradtke547 (ID: b0332845-6c2a-bef0-04f1-8fc60ba829a5) ==
+
+== Demographics ==
+Patient ID: b0332845-6c2a-bef0-04f1-8fc60ba829a5
+Name: Elton404 Bradtke547
+Gender: M
+Birthdate: 1913-06-10
+Address: 1002 Legros Orchard Apt 58
+Marital Status: M
+
+== Allergies ==
+- Aspirin
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Transport problems (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Diabetes
+- Anemia (disorder)
+- Has a criminal record (finding)
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Prediabetes
+- Chronic sinusitis (disorder)
+- Hyperlipidemia
+- Limited social contact (finding)
+- Social isolation (finding)
+- Alzheimer's disease (disorder)
+- Stress (finding)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Tacrine 10 MG Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 1991-09-28T13:25:31Z)
+- Subcutaneous immunotherapy (Date: 1991-10-24T13:45:10Z)
+- Subcutaneous immunotherapy (Date: 1991-11-17T14:39:53Z)
+- Subcutaneous immunotherapy (Date: 1991-12-12T15:05:22Z)
+- Subcutaneous immunotherapy (Date: 1992-01-04T15:41:31Z)
+- Subcutaneous immunotherapy (Date: 1992-01-31T16:01:00Z)
+- Subcutaneous immunotherapy (Date: 1992-02-23T16:25:56Z)
+- Subcutaneous immunotherapy (Date: 1992-03-15T17:04:57Z)
+- Subcutaneous immunotherapy (Date: 1992-04-09T17:57:50Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-04-21T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1992-04-21T21:39:56Z)
+- Screening for domestic abuse (procedure) (Date: 1992-04-21T21:58:53Z)
+- Depression screening (procedure) (Date: 1992-04-21T22:32:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-04-21T22:47:02Z)
+- Subcutaneous immunotherapy (Date: 1992-05-02T18:34:54Z)
+- Subcutaneous immunotherapy (Date: 1992-05-29T19:22:36Z)
+- Subcutaneous immunotherapy (Date: 1992-06-20T20:01:14Z)
+- Subcutaneous immunotherapy (Date: 1992-07-16T20:40:54Z)
+- Subcutaneous immunotherapy (Date: 1992-08-12T21:36:56Z)
+- Subcutaneous immunotherapy (Date: 1992-09-08T22:22:52Z)
+- Subcutaneous immunotherapy (Date: 1992-10-04T23:15:43Z)
+- Subcutaneous immunotherapy (Date: 1992-10-30T00:05:05Z)
+- Subcutaneous immunotherapy (Date: 1992-11-25T00:57:31Z)
+- Subcutaneous immunotherapy (Date: 1992-12-16T01:33:31Z)
+- Subcutaneous immunotherapy (Date: 1993-01-07T02:13:27Z)
+- Subcutaneous immunotherapy (Date: 1993-01-30T02:47:05Z)
+- Subcutaneous immunotherapy (Date: 1993-02-20T03:18:29Z)
+- Subcutaneous immunotherapy (Date: 1993-03-18T03:48:35Z)
+- Subcutaneous immunotherapy (Date: 1993-04-08T04:33:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-04-27T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1993-04-27T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-04-27T21:57:46Z)
+- Screening for domestic abuse (procedure) (Date: 1993-04-27T22:27:02Z)
+- Depression screening (procedure) (Date: 1993-04-27T22:57:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-04-27T23:11:50Z)
+- Subcutaneous immunotherapy (Date: 1993-05-04T05:22:51Z)
+- Subcutaneous immunotherapy (Date: 1993-05-30T05:47:42Z)
+- Subcutaneous immunotherapy (Date: 1993-06-23T06:36:47Z)
+- Subcutaneous immunotherapy (Date: 1993-07-17T07:21:09Z)
+- Subcutaneous immunotherapy (Date: 1993-08-10T07:53:28Z)
+- Subcutaneous immunotherapy (Date: 1993-09-06T08:33:13Z)
+- Subcutaneous immunotherapy (Date: 1993-09-29T09:01:01Z)
+- Subcutaneous immunotherapy (Date: 1993-10-20T09:25:26Z)
+- Subcutaneous immunotherapy (Date: 1993-11-14T10:06:41Z)
+- Subcutaneous immunotherapy (Date: 1993-12-10T10:51:07Z)
+- Subcutaneous immunotherapy (Date: 1994-01-02T11:11:17Z)
+- Allergy screening test (Date: 1994-01-29T11:48:18Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-05-03T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1994-05-03T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-05-03T22:01:39Z)
+- Depression screening (procedure) (Date: 1994-05-03T22:30:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-05-03T22:44:48Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-01-17T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1995-01-17T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-01-17T21:57:05Z)
+- Depression screening (procedure) (Date: 1995-01-17T22:14:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-01-17T22:26:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1995-01-17T22:52:53Z)
+- Assessment of substance use (procedure) (Date: 1995-01-17T23:21:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-01-17T23:33:50Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-03-21T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-03-21T21:37:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-03-21T22:05:20Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-05-09T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1995-05-09T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-05-09T21:47:37Z)
+- Screening for domestic abuse (procedure) (Date: 1995-05-09T22:05:16Z)
+- Depression screening (procedure) (Date: 1995-05-09T22:46:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-05-09T22:59:58Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-07-18T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1995-07-18T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-07-18T22:02:32Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-07-18T22:23:26Z)
+- Depression screening (procedure) (Date: 1995-07-18T22:40:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-07-18T22:50:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-08-15T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-08-15T22:01:44Z)
+- Depression screening (procedure) (Date: 1995-08-15T22:18:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-08-15T22:33:19Z)
+- Assessment of substance use (procedure) (Date: 1995-08-15T22:55:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-08-15T23:06:23Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-09-19T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-09-19T21:35:44Z)
+- Depression screening (procedure) (Date: 1995-09-19T22:01:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-09-19T22:11:37Z)
+- Assessment of substance use (procedure) (Date: 1995-09-19T22:39:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-09-19T22:53:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-11-21T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1995-11-21T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1995-11-21T21:34:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-11-21T21:55:32Z)
+- Depression screening (procedure) (Date: 1995-11-21T22:22:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-11-21T22:35:39Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-01-16T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1996-01-16T21:39:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-01-16T22:05:10Z)
+- Depression screening (procedure) (Date: 1996-01-16T22:24:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-01-16T22:35:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1996-01-16T22:57:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-03-12T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 1996-03-12T21:38:16Z)
+- Screening for domestic abuse (procedure) (Date: 1996-03-12T22:06:44Z)
+- Depression screening (procedure) (Date: 1996-03-12T22:40:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-03-12T22:54:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-05-14T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-05-14T22:00:05Z)
+- Depression screening (procedure) (Date: 1996-05-14T22:22:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-05-14T22:34:52Z)
+- Assessment of substance use (procedure) (Date: 1996-05-14T23:02:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-05-14T23:14:32Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-07-09T21:04:17Z)
+- Depression screening (procedure) (Date: 1996-07-09T21:38:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-07-09T21:49:11Z)
+- Assessment of substance use (procedure) (Date: 1996-07-09T22:14:09Z)
+- Screening for drug abuse (procedure) (Date: 1996-07-09T22:27:12Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-05-20T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1997-05-20T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-05-20T21:40:38Z)
+- Depression screening (procedure) (Date: 1997-05-20T22:04:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-05-20T22:17:50Z)
+- Assessment of substance use (procedure) (Date: 1997-05-20T22:44:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1997-05-20T22:58:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-05-26T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1998-05-26T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-05-26T21:46:48Z)
+- Depression screening (procedure) (Date: 1998-05-26T22:08:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-05-26T22:19:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1998-05-26T22:48:19Z)
+- Assessment of substance use (procedure) (Date: 1998-05-26T23:16:14Z)
+- Screening for drug abuse (procedure) (Date: 1998-05-26T23:29:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-06-01T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 1999-06-01T21:04:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-06-01T21:38:14Z)
+- Depression screening (procedure) (Date: 1999-06-01T22:06:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-06-01T22:21:37Z)
+- Assessment of substance use (procedure) (Date: 1999-06-01T22:51:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1999-06-01T23:03:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-06-06T21:04:17Z)
+- Assessment of anxiety (procedure) (Date: 2000-06-06T21:39:29Z)
+- Measurement of respiratory function (procedure) (Date: 2000-07-20T00:26:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-06-12T21:04:17Z)
+- Medication Reconciliation (procedure) (Date: 2001-06-12T21:04:17Z)
+- Screening for domestic abuse (procedure) (Date: 2001-06-12T22:01:51Z)
+- Depression screening (procedure) (Date: 2001-06-12T22:27:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-06-12T22:37:34Z)
+- Assessment of substance use (procedure) (Date: 2001-06-12T22:59:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-06-12T23:13:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2001-09-18T21:04:17Z: Death Certification
+- 2001-06-12T21:04:17Z: General examination of patient (procedure)
+- 2001-03-17T21:04:17Z: Follow-up encounter
+- 2000-08-08T21:04:17Z: Urgent care clinic (procedure)
+- 2000-08-01T21:04:17Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2001-09-18T21:04:17Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 2001-06-12T23:43:28Z Total score [AUDIT-C]: 0.0 {score}
+- 2001-06-12T22:59:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2001-06-12T22:27:32Z Total score [HARK]: 0.0 {score}
+- 2001-06-12T22:01:51Z What is your current work situation?: Full-time work nan
+- 2001-06-12T22:01:51Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2001-06-12T22:01:51Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2001-06-12T22:01:51Z Are you a refugee?: No nan
+- 2001-06-12T22:01:51Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2001-06-12T22:01:51Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan

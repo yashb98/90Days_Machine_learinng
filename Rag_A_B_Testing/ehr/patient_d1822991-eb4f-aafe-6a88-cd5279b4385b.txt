@@ -1,0 +1,61 @@
+== PATIENT RECORD: Solomon675 Moore224 (ID: d1822991-eb4f-aafe-6a88-cd5279b4385b) ==
+
+== Demographics ==
+Patient ID: d1822991-eb4f-aafe-6a88-cd5279b4385b
+Name: Solomon675 Moore224
+Gender: M
+Birthdate: 2017-01-09
+Address: 948 Wilkinson Passage
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-01-09T17:26:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-13T17:26:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-19T17:26:19Z)
+- Echocardiography (procedure) (Date: 2017-09-25T17:26:19Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2017-09-25T17:26:19Z)
+- Catheter ablation of tissue of heart (Date: 2017-09-25T17:26:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-18T17:26:19Z)
+- Throat culture (procedure) (Date: 2019-01-31T16:26:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-17T17:26:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-16T17:26:19Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-15T17:26:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-14T17:26:19Z: Well child visit (procedure)
+- 2020-06-15T17:26:19Z: Well child visit (procedure)
+- 2020-04-02T19:26:19Z: Encounter for symptom
+- 2019-12-16T17:26:19Z: Well child visit (procedure)
+- 2019-06-17T17:26:19Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-09T17:26:19Z QOLS: 0.9 {score}
+- 2021-01-09T17:26:19Z DALY: 0.2 a
+- 2021-01-09T17:26:19Z QALY: 2.8 a
+- 2020-12-14T17:26:19Z Heart rate: 73.0 /min
+- 2020-12-14T17:26:19Z Body Height: 98.4 cm
+- 2020-12-14T17:26:19Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2020-12-14T17:26:19Z Body Weight: 16.3 kg
+- 2020-12-14T17:26:19Z Head Occipital-frontal circumference: 48.3 cm
+- 2020-12-14T17:26:19Z Body Mass Index: 16.8 kg/m2
+- 2020-12-14T17:26:19Z Body mass index (BMI) [Percentile] Per age and gender: 82.7 %

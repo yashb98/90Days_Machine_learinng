@@ -1,0 +1,146 @@
+== PATIENT RECORD: Sebastian508 Zulauf375 (ID: 4ca51bbc-dd89-0142-9c53-1a8453a5bddd) ==
+
+== Demographics ==
+Patient ID: 4ca51bbc-dd89-0142-9c53-1a8453a5bddd
+Name: Sebastian508 Zulauf375
+Gender: M
+Birthdate: 1996-09-09
+Address: 823 Gislason Skyway
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Aspirin
+- Fish (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Childhood asthma
+- Perennial allergic rhinitis
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received certificate of high school equivalency (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 2011-12-16T07:30:12Z)
+- Subcutaneous immunotherapy (Date: 2012-01-11T08:29:32Z)
+- Subcutaneous immunotherapy (Date: 2012-02-06T09:23:27Z)
+- Subcutaneous immunotherapy (Date: 2012-02-28T09:52:20Z)
+- Subcutaneous immunotherapy (Date: 2012-03-24T10:20:59Z)
+- Subcutaneous immunotherapy (Date: 2012-04-16T11:08:24Z)
+- Subcutaneous immunotherapy (Date: 2012-05-09T11:43:36Z)
+- Plain chest X-ray (procedure) (Date: 2012-05-20T03:13:38Z)
+- Subcutaneous immunotherapy (Date: 2012-06-04T12:32:46Z)
+- Subcutaneous immunotherapy (Date: 2012-06-26T12:54:53Z)
+- Subcutaneous immunotherapy (Date: 2012-07-21T13:44:41Z)
+- Subcutaneous immunotherapy (Date: 2012-08-15T14:25:44Z)
+- Subcutaneous immunotherapy (Date: 2012-09-08T15:02:30Z)
+- Subcutaneous immunotherapy (Date: 2012-10-01T15:22:16Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-22T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-22T09:13:38Z)
+- Assessment of substance use (procedure) (Date: 2012-10-22T09:30:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-10-22T09:45:15Z)
+- Anticipatory guidance (procedure) (Date: 2012-10-22T09:57:57Z)
+- Subcutaneous immunotherapy (Date: 2012-10-23T16:22:10Z)
+- Subcutaneous immunotherapy (Date: 2012-11-19T17:15:27Z)
+- Subcutaneous immunotherapy (Date: 2012-12-14T17:42:53Z)
+- Subcutaneous immunotherapy (Date: 2013-01-04T18:36:08Z)
+- Subcutaneous immunotherapy (Date: 2013-01-31T19:16:02Z)
+- Subcutaneous immunotherapy (Date: 2013-02-25T20:12:50Z)
+- Subcutaneous immunotherapy (Date: 2013-03-21T20:41:49Z)
+- Subcutaneous immunotherapy (Date: 2013-04-17T21:29:34Z)
+- Subcutaneous immunotherapy (Date: 2013-05-09T21:57:33Z)
+- Subcutaneous immunotherapy (Date: 2013-06-02T22:22:02Z)
+- Subcutaneous immunotherapy (Date: 2013-06-27T22:42:58Z)
+- Subcutaneous immunotherapy (Date: 2013-07-24T23:00:12Z)
+- Subcutaneous immunotherapy (Date: 2013-08-20T23:39:44Z)
+- Allergy screening test (Date: 2013-09-11T00:16:29Z)
+- Depression screening (procedure) (Date: 2013-10-28T09:13:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-10-28T09:25:30Z)
+- Assessment of substance use (procedure) (Date: 2013-10-28T09:45:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-10-28T09:56:57Z)
+- Anticipatory guidance (procedure) (Date: 2013-10-28T10:18:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-03T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-03T09:13:38Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-03T10:11:14Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-03T10:30:17Z)
+- Depression screening (procedure) (Date: 2014-11-03T11:12:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-03T11:26:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-03T11:51:13Z)
+- Assessment of substance use (procedure) (Date: 2014-11-03T12:17:46Z)
+- Screening for drug abuse (procedure) (Date: 2014-11-03T12:28:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-09T09:13:38Z)
+- Depression screening (procedure) (Date: 2015-11-09T09:46:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-09T09:59:48Z)
+- Assessment of substance use (procedure) (Date: 2015-11-09T10:22:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-09T10:34:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-14T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-14T09:13:38Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-14T10:13:28Z)
+- Depression screening (procedure) (Date: 2016-11-14T10:37:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-14T10:48:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-20T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-20T09:13:38Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-20T10:02:29Z)
+- Depression screening (procedure) (Date: 2017-11-20T10:33:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-20T10:46:55Z)
+- Assessment of substance use (procedure) (Date: 2017-11-20T11:13:05Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-20T11:24:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-26T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-26T09:13:38Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-26T09:56:05Z)
+- Depression screening (procedure) (Date: 2018-11-26T10:19:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-26T10:34:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-02T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-02T09:13:38Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-02T10:11:40Z)
+- Depression screening (procedure) (Date: 2019-12-02T10:53:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-02T11:03:24Z)
+- Assessment of substance use (procedure) (Date: 2019-12-02T11:24:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-12-02T11:37:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-07T09:13:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-07T09:13:38Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-07T09:57:52Z)
+- Assessment of substance use (procedure) (Date: 2020-12-07T10:20:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-12-07T10:31:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-09T09:13:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-19T09:13:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-07T09:13:38Z: General examination of patient (procedure)
+- 2019-12-02T09:13:38Z: General examination of patient (procedure)
+- 2018-11-26T09:13:38Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T09:13:38Z QOLS: 1.0 {score}
+- 2021-09-09T09:13:38Z DALY: 0.4 a
+- 2021-09-09T09:13:38Z QALY: 23.6 a
+- 2020-12-07T10:54:27Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-12-07T10:20:39Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-12-07T09:57:52Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 35384 /a
+- 2020-12-07T09:57:52Z Are you worried about losing your housing?: No nan
+- 2020-12-07T09:57:52Z What address do you live at?: 823 Gislason Skyway nan
+- 2020-12-07T09:57:52Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2020-12-07T09:57:52Z What is your current work situation?: Full-time work nan

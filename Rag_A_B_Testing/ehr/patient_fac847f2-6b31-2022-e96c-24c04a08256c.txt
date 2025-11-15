@@ -1,0 +1,164 @@
+== PATIENT RECORD: Gladys682 Wuckert783 (ID: fac847f2-6b31-2022-e96c-24c04a08256c) ==
+
+== Demographics ==
+Patient ID: fac847f2-6b31-2022-e96c-24c04a08256c
+Name: Gladys682 Wuckert783
+Gender: F
+Birthdate: 2001-07-05
+Address: 736 Gusikowski Promenade
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Sinusitis (disorder)
+- Viral sinusitis (disorder)
+- Laceration of forearm
+- Severe anxiety (panic) (finding
+- Risk activity involvement (finding)
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Normal pregnancy
+- Nasal congestion (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Part-time employment (finding)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Seasonique 91 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Trinessa 28 Day Pack
+- Yaz 28 Day Pack
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Camila 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-07-19T09:22:20Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-25T09:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-25T09:22:20Z)
+- Depression screening (procedure) (Date: 2013-07-25T09:38:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-25T09:50:03Z)
+- Assessment of substance use (procedure) (Date: 2013-07-25T10:18:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-07-25T10:32:01Z)
+- Anticipatory guidance (procedure) (Date: 2013-07-25T10:59:08Z)
+- Depression screening (procedure) (Date: 2014-07-31T09:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-31T09:22:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-31T09:34:16Z)
+- Assessment of substance use (procedure) (Date: 2014-07-31T09:57:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-31T10:11:36Z)
+- Anticipatory guidance (procedure) (Date: 2014-07-31T10:22:06Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-06T09:22:20Z)
+- Depression screening (procedure) (Date: 2015-08-06T09:38:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-06T09:48:32Z)
+- Assessment of substance use (procedure) (Date: 2015-08-06T10:11:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-08-06T10:23:21Z)
+- Anticipatory guidance (procedure) (Date: 2015-08-06T10:45:47Z)
+- Suture open wound (Date: 2016-01-31T09:22:20Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-11T09:22:20Z)
+- Assessment of substance use (procedure) (Date: 2016-08-11T09:51:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-08-11T10:02:02Z)
+- Anticipatory guidance (procedure) (Date: 2016-08-11T10:22:10Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-17T09:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-17T09:22:20Z)
+- Depression screening (procedure) (Date: 2017-08-17T09:40:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-17T09:52:03Z)
+- Assessment of substance use (procedure) (Date: 2017-08-17T10:18:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-08-17T10:32:10Z)
+- Anticipatory guidance (procedure) (Date: 2017-08-17T10:55:50Z)
+- Depression screening (procedure) (Date: 2018-08-23T09:22:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-23T09:33:09Z)
+- Assessment of substance use (procedure) (Date: 2018-08-23T09:54:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-23T10:06:11Z)
+- Health risks education (procedure) (Date: 2018-08-23T10:33:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-29T09:22:20Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-29T10:19:53Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-29T10:45:25Z)
+- Depression screening (procedure) (Date: 2019-08-29T11:14:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-29T11:24:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-03T09:22:20Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-03T10:06:54Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-03T10:26:00Z)
+- Standard pregnancy test (Date: 2020-10-22T09:22:20Z)
+- Ultrasound scan for fetal viability (Date: 2020-10-22T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2020-10-22T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2020-10-22T09:22:20Z)
+- Blood typing  RH typing (Date: 2020-10-22T09:22:20Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-10-22T09:22:20Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2020-10-22T09:22:20Z)
+- Human immunodeficiency virus antigen test (Date: 2020-10-22T09:22:20Z)
+- Chlamydia antigen test (Date: 2020-10-22T09:22:20Z)
+- Gonorrhea infection test (Date: 2020-10-22T09:22:20Z)
+- Syphilis infection test (Date: 2020-10-22T09:22:20Z)
+- Urine culture (Date: 2020-10-22T09:22:20Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2020-10-22T09:22:20Z)
+- Urine screening test for diabetes (Date: 2020-10-22T09:22:20Z)
+- Hepatitis C antibody test (Date: 2020-10-22T09:22:20Z)
+- Rubella screening (Date: 2020-10-22T09:22:20Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2020-10-22T09:22:20Z)
+- Skin test for tuberculosis (Date: 2020-10-22T09:22:20Z)
+- Urine protein test (Date: 2020-10-22T09:22:20Z)
+- Physical examination of mother (Date: 2020-10-22T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2020-11-19T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2020-11-19T09:22:20Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2020-11-19T09:22:20Z)
+- Fetal anatomy study (Date: 2020-12-17T09:22:20Z)
+- Alpha-fetoprotein test (Date: 2020-12-17T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2020-12-17T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2020-12-17T09:22:20Z)
+- Face mask (physical object) (Date: 2020-12-20T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2021-01-14T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2021-01-14T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2021-02-11T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2021-02-11T09:22:20Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-03-11T09:22:20Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-03-11T09:22:20Z)
+- Urine screening for glucose (Date: 2021-03-11T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2021-03-11T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2021-03-11T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2021-04-08T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2021-04-08T09:22:20Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2021-05-06T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2021-05-06T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2021-05-06T09:22:20Z)
+- Evaluation of uterine fundal height (Date: 2021-05-20T09:22:20Z)
+- Auscultation of the fetal heart (Date: 2021-05-20T09:22:20Z)
+- Epidural anesthesia (Date: 2021-05-27T09:22:20Z)
+- Cesarean section (Date: 2021-05-27T09:22:20Z)
+- Physical examination following birth (Date: 2021-07-08T09:22:20Z)
+- Depression screening (Date: 2021-07-08T09:22:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-09T09:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-09T09:22:20Z)
+- Depression screening (procedure) (Date: 2021-09-09T09:54:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-09T10:06:59Z)
+- Assessment of substance use (procedure) (Date: 2021-09-09T10:32:35Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-09T10:42:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T09:22:20Z: General examination of patient (procedure)
+- 2021-07-08T09:22:20Z: Consultation for treatment
+- 2021-07-08T09:22:20Z: Postnatal visit
+- 2021-06-17T09:22:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-27T09:22:20Z: Obstetric emergency hospital admission
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T11:11:47Z Total score [DAST-10]: 1.0 {score}
+- 2021-09-09T10:32:35Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-09-09T09:54:41Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-09-09T09:54:41Z What address do you live at?: 736 Gusikowski Promenade nan
+- 2021-09-09T09:54:41Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-09-09T09:54:41Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-09-09T09:54:41Z Are you a refugee?: No nan
+- 2021-09-09T09:54:41Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-09-09T09:54:41Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-09-09T09:54:41Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

@@ -1,0 +1,83 @@
+== PATIENT RECORD: Tashina114 Runolfsdottir785 (ID: b38f6f4d-8a9d-3d94-92f8-22704c8281a2) ==
+
+== Demographics ==
+Patient ID: b38f6f4d-8a9d-3d94-92f8-22704c8281a2
+Name: Tashina114 Runolfsdottir785
+Gender: F
+Birthdate: 1966-03-13
+Address: 732 Johnston Hollow Suite 89
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Drug overdose
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-01T11:02:39Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-01T11:39:49Z)
+- Depression screening (procedure) (Date: 2012-04-01T12:01:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-01T12:15:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-05T11:02:39Z)
+- Depression screening (procedure) (Date: 2012-08-05T11:36:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-05T11:49:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-06T11:02:39Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-06T11:02:39Z)
+- Depression screening (procedure) (Date: 2014-04-06T11:48:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-06T11:59:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-13T11:02:39Z)
+- Screening for domestic abuse (procedure) (Date: 2016-03-13T11:37:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-19T11:02:39Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-19T11:02:39Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-19T11:49:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-25T11:02:39Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-25T11:43:34Z)
+- Depression screening (procedure) (Date: 2018-03-25T12:11:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-25T12:23:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-31T11:02:39Z)
+- Depression screening (procedure) (Date: 2019-03-31T11:59:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-31T12:09:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-22T11:02:39Z)
+- Depression screening (procedure) (Date: 2019-12-22T11:59:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-22T12:12:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-05T11:02:39Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-05T11:02:39Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-05T11:34:14Z)
+- Depression screening (procedure) (Date: 2020-04-05T11:52:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-05T12:06:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-11T11:02:39Z)
+- Depression screening (procedure) (Date: 2021-04-11T11:39:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-11T11:52:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-09T11:02:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-18T11:02:39Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-11T11:02:39Z: General examination of patient (procedure)
+- 2020-09-04T11:02:39Z: Encounter for problem (procedure)
+- 2020-08-05T11:02:39Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-11T12:20:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-04-11T11:39:00Z What is your housing situation today?: I have housing nan
+- 2021-04-11T11:39:00Z Which race(s) are you?: White nan
+- 2021-04-11T11:39:00Z What is your current work situation?: Part-time or temporary work nan
+- 2021-04-11T11:39:00Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-04-11T11:39:00Z What address do you live at?: 732 Johnston Hollow Suite 89 nan
+- 2021-04-11T11:39:00Z Are you worried about losing your housing?: Yes nan
+- 2021-04-11T11:39:00Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-04-11T11:39:00Z How many family members  including yourself  do you currently live with?: 2.0 {#}
+- 2021-04-11T11:39:00Z What language are you most comfortable speaking?: English nan

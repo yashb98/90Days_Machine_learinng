@@ -1,0 +1,114 @@
+== PATIENT RECORD: Sherwood961 Glover433 (ID: d29560ea-5e1b-99a1-1beb-e8dd19b67468) ==
+
+== Demographics ==
+Patient ID: d29560ea-5e1b-99a1-1beb-e8dd19b67468
+Name: Sherwood961 Glover433
+Gender: M
+Birthdate: 1961-10-25
+Address: 1089 Ruecker Track Unit 24
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Severe anxiety (panic) (finding
+- Acute viral pharyngitis (disorder)
+- Concussion injury of brain
+- Part-time employment (finding)
+- Facial laceration
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-20T14:17:49Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-20T14:54:01Z)
+- Assessment of substance use (procedure) (Date: 2012-06-20T15:21:18Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-20T15:35:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-26T14:17:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-26T14:17:49Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-26T15:17:42Z)
+- Assessment of substance use (procedure) (Date: 2013-06-26T15:39:34Z)
+- Screening for drug abuse (procedure) (Date: 2013-06-26T15:53:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-02T14:17:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-02T14:17:49Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-02T15:04:04Z)
+- Depression screening (procedure) (Date: 2014-07-02T15:33:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-02T15:45:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-08T14:17:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-08T14:17:49Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-08T14:53:58Z)
+- Depression screening (procedure) (Date: 2015-07-08T15:38:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-08T15:52:38Z)
+- Assessment of substance use (procedure) (Date: 2015-07-08T16:15:36Z)
+- Screening for drug abuse (procedure) (Date: 2015-07-08T16:26:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-13T14:17:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-13T14:17:49Z)
+- Depression screening (procedure) (Date: 2016-07-13T14:57:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-13T15:09:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-07-13T15:39:25Z)
+- Suture open wound (Date: 2016-08-10T17:40:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-19T14:17:49Z)
+- Depression screening (procedure) (Date: 2017-07-19T15:05:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-19T15:16:13Z)
+- Assessment of substance use (procedure) (Date: 2017-07-19T15:45:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-19T15:57:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-25T14:17:49Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-25T14:17:49Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-25T15:16:23Z)
+- Depression screening (procedure) (Date: 2018-07-25T15:43:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-25T15:57:37Z)
+- Assessment of substance use (procedure) (Date: 2018-07-25T16:25:28Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-25T16:36:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-31T14:17:49Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-31T14:17:49Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-31T15:15:08Z)
+- Depression screening (procedure) (Date: 2019-07-31T15:31:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-31T15:45:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-07-31T16:13:52Z)
+- Assessment of substance use (procedure) (Date: 2019-07-31T16:36:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-07-31T16:50:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-05T14:17:49Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-05T15:04:04Z)
+- Depression screening (procedure) (Date: 2020-08-05T15:26:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-05T15:40:54Z)
+- Assessment of substance use (procedure) (Date: 2020-08-05T16:09:02Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-05T16:20:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-11T14:17:49Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-11T14:56:34Z)
+- Assessment of substance use (procedure) (Date: 2021-08-11T15:39:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-08-11T15:52:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-11T14:17:49Z: General examination of patient (procedure)
+- 2020-08-05T14:17:49Z: General examination of patient (procedure)
+- 2019-07-31T14:17:49Z: General examination of patient (procedure)
+- 2019-02-26T22:17:49Z: Encounter for symptom
+- 2018-07-25T14:17:49Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-25T14:17:49Z QOLS: 0.9 {score}
+- 2021-10-25T14:17:49Z DALY: 4.8 a
+- 2021-10-25T14:17:49Z QALY: 54.2 a
+- 2021-08-11T16:20:35Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-08-11T15:39:47Z Total score [HARK]: 0.0 {score}
+- 2021-08-11T14:56:34Z Do you feel physically and emotionally safe where you currently live?: No nan
+- 2021-08-11T14:56:34Z What is your main insurance?: Private insurance nan
+- 2021-08-11T14:56:34Z What is your housing situation today?: I have housing nan
+- 2021-08-11T14:56:34Z Are you worried about losing your housing?: No nan
+- 2021-08-11T14:56:34Z What address do you live at?: 1089 Ruecker Track Unit 24 nan

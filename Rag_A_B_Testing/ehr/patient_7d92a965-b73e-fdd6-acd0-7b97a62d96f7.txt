@@ -1,0 +1,89 @@
+== PATIENT RECORD: Lou594 Dickinson688 (ID: 7d92a965-b73e-fdd6-acd0-7b97a62d96f7) ==
+
+== Demographics ==
+Patient ID: 7d92a965-b73e-fdd6-acd0-7b97a62d96f7
+Name: Lou594 Dickinson688
+Gender: M
+Birthdate: 1993-05-18
+Address: 407 Frami Frontage road
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-17T08:46:37Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-17T08:46:37Z)
+- Depression screening (procedure) (Date: 2012-07-17T09:41:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-17T09:52:46Z)
+- Measurement of respiratory function (procedure) (Date: 2012-08-25T02:46:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-09-11T08:46:37Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-11T09:29:04Z)
+- Depression screening (procedure) (Date: 2012-09-11T09:49:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-11T10:01:11Z)
+- Throat culture (procedure) (Date: 2014-02-07T15:46:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-11T08:46:37Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-11T09:44:45Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-11T10:12:52Z)
+- Depression screening (procedure) (Date: 2014-02-11T10:53:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-11T11:07:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-21T08:46:37Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-21T09:21:27Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-21T09:46:41Z)
+- Depression screening (procedure) (Date: 2015-07-21T10:18:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-21T10:30:29Z)
+- Assessment of substance use (procedure) (Date: 2015-07-21T10:54:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-21T11:08:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-24T08:46:37Z)
+- Depression screening (procedure) (Date: 2018-07-24T09:30:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-24T09:44:16Z)
+- Assessment of substance use (procedure) (Date: 2018-07-24T10:04:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-07-24T10:17:23Z)
+- Measurement of respiratory function (procedure) (Date: 2018-12-18T11:46:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-25T08:46:37Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-25T09:30:13Z)
+- Depression screening (procedure) (Date: 2018-12-25T10:04:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-25T10:16:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-12-25T10:37:23Z)
+- Assessment of substance use (procedure) (Date: 2018-12-25T11:00:41Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-25T11:12:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-27T08:46:37Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-27T08:46:37Z)
+- Depression screening (procedure) (Date: 2021-07-27T09:40:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-27T09:53:43Z)
+- Assessment of substance use (procedure) (Date: 2021-07-27T10:22:24Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-27T10:34:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-27T08:46:37Z: General examination of patient (procedure)
+- 2021-05-11T08:46:37Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-13T08:46:37Z: Administration of vaccine to produce active immunity (procedure)
+- 2018-12-25T08:46:37Z: Encounter for check up (procedure)
+- 2018-12-18T11:46:37Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-27T11:00:33Z Total score [DAST-10]: 0.0 {score}
+- 2021-07-27T10:22:24Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-07-27T09:40:05Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-07-27T09:40:05Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-07-27T09:40:05Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-07-27T09:40:05Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-07-27T09:40:05Z What address do you live at?: 407 Frami Frontage road nan
+- 2021-07-27T09:40:05Z Are you worried about losing your housing?: No nan
+- 2021-07-27T09:40:05Z What is your housing situation today?: I have housing nan
+- 2021-07-27T09:40:05Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan

@@ -1,0 +1,46 @@
+== PATIENT RECORD: Shantae970 Glover433 (ID: da6e1124-d294-58f9-ff16-a0fe6a3f30dd) ==
+
+== Demographics ==
+Patient ID: da6e1124-d294-58f9-ff16-a0fe6a3f30dd
+Name: Shantae970 Glover433
+Gender: F
+Birthdate: 2018-07-22
+Address: 493 Dietrich Avenue
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-08-26T06:07:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-30T06:07:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-31T06:07:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-30T06:07:00Z)
+- Throat culture (procedure) (Date: 2019-09-18T04:07:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-29T06:07:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-27T06:07:00Z: Well child visit (procedure)
+- 2020-12-27T06:07:00Z: Well child visit (procedure)
+- 2020-06-28T06:07:00Z: Well child visit (procedure)
+- 2019-12-29T06:07:00Z: Well child visit (procedure)
+- 2019-11-14T06:07:00Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-22T06:07:00Z QOLS: 1.0 {score}
+- 2021-07-22T06:07:00Z DALY: 0.0 a
+- 2021-07-22T06:07:00Z QALY: 2.0 a
+- 2021-06-27T06:07:00Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-06-27T06:07:00Z Body Height: 91.1 cm
+- 2021-06-27T06:07:00Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-06-27T06:07:00Z Body Weight: 14.1 kg
+- 2021-06-27T06:07:00Z Weight-for-length Per age and sex: 80.3 %
+- 2021-06-27T06:07:00Z Head Occipital-frontal circumference: 47.6 cm
+- 2021-06-27T06:07:00Z Body Mass Index: 16.9 kg/m2

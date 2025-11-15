@@ -1,0 +1,183 @@
+== PATIENT RECORD: Ula130 Goldner995 (ID: 5ebac3bc-45f8-9136-b77a-d20b40dde915) ==
+
+== Demographics ==
+Patient ID: 5ebac3bc-45f8-9136-b77a-d20b40dde915
+Name: Ula130 Goldner995
+Gender: F
+Birthdate: 1942-11-27
+Address: 408 Effertz Bridge Suite 62
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Chronic sinusitis (disorder)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Malignant neoplasm of breast (disorder)
+- Chronic obstructive bronchitis (disorder)
+- Reports of violence in the environment (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Rupture of patellar tendon
+- Hyperlipidemia
+- Victim of intimate partner abuse (finding)
+- Atrial Fibrillation
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+
+== Past Procedures ==
+- Mammography (procedure) (Date: 2012-02-28T17:16:32Z)
+- Manual pelvic examination (procedure) (Date: 2012-02-28T17:34:23Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-02-28T17:45:55Z)
+- Spirometry (procedure) (Date: 2012-03-17T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-03-17T02:24:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-03-17T03:00:58Z)
+- Screening for domestic abuse (procedure) (Date: 2012-03-17T03:25:18Z)
+- Depression screening (procedure) (Date: 2012-03-17T04:02:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-17T04:13:08Z)
+- Assessment of substance use (procedure) (Date: 2012-03-17T04:36:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-03-17T04:48:42Z)
+- Knee X-ray (Date: 2012-11-20T02:46:28Z)
+- Surgical manipulation of joint of knee (Date: 2012-11-27T02:46:28Z)
+- Colonoscopy (Date: 2012-11-27T04:49:24Z)
+- Mammography (procedure) (Date: 2013-02-17T18:01:26Z)
+- Manual pelvic examination (procedure) (Date: 2013-02-17T18:21:08Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-02-17T18:32:07Z)
+- Spirometry (procedure) (Date: 2013-03-23T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-23T02:24:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-03-23T03:20:08Z)
+- Depression screening (procedure) (Date: 2013-03-23T03:39:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-23T03:49:54Z)
+- Assessment of substance use (procedure) (Date: 2013-03-23T04:15:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-03-23T04:27:04Z)
+- Mammography (procedure) (Date: 2014-01-20T18:50:45Z)
+- Manual pelvic examination (procedure) (Date: 2014-01-20T19:06:11Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-01-20T19:21:07Z)
+- Spirometry (procedure) (Date: 2014-03-29T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-29T02:24:36Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-29T02:24:36Z)
+- Assessment of substance use (procedure) (Date: 2014-03-29T03:03:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-03-29T03:14:51Z)
+- Replacement of contraceptive intrauterine device (Date: 2015-02-07T02:24:36Z)
+- Mammography (procedure) (Date: 2015-02-05T19:32:42Z)
+- Manual pelvic examination (procedure) (Date: 2015-02-05T19:57:36Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-02-05T20:11:31Z)
+- Spirometry (procedure) (Date: 2015-04-04T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-04T02:24:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-04T02:24:36Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-04T02:58:40Z)
+- Depression screening (procedure) (Date: 2015-04-04T03:16:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-04T03:30:06Z)
+- Assessment of substance use (procedure) (Date: 2015-04-04T03:50:11Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-04T04:02:42Z)
+- Mammography (procedure) (Date: 2016-02-17T20:27:26Z)
+- Manual pelvic examination (procedure) (Date: 2016-02-17T20:51:35Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-02-17T21:03:17Z)
+- Spirometry (procedure) (Date: 2016-04-09T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-09T02:24:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-04-09T03:14:28Z)
+- Depression screening (procedure) (Date: 2016-04-09T03:42:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-09T03:56:25Z)
+- Assessment of substance use (procedure) (Date: 2016-04-09T04:25:24Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-09T04:38:42Z)
+- Mammography (procedure) (Date: 2017-02-08T21:22:17Z)
+- Manual pelvic examination (procedure) (Date: 2017-02-08T21:44:22Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-02-08T21:58:29Z)
+- Spirometry (procedure) (Date: 2017-04-15T02:24:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2017-04-15T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-15T02:24:36Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-15T03:22:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-04-15T03:45:03Z)
+- Depression screening (procedure) (Date: 2017-04-15T04:05:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-15T04:20:21Z)
+- Assessment of substance use (procedure) (Date: 2017-04-15T04:47:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-15T04:59:12Z)
+- Colonoscopy (Date: 2017-11-27T05:17:08Z)
+- Mammography (procedure) (Date: 2018-01-30T22:10:06Z)
+- Manual pelvic examination (procedure) (Date: 2018-01-30T22:33:25Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-01-30T22:44:10Z)
+- Electrical cardioversion (Date: 2018-04-21T02:24:36Z)
+- Spirometry (procedure) (Date: 2018-04-21T02:24:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2018-04-21T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-21T02:24:36Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-21T02:24:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-04-21T03:19:24Z)
+- Screening for domestic abuse (procedure) (Date: 2018-04-21T03:45:54Z)
+- Assessment of substance use (procedure) (Date: 2018-04-21T04:30:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-21T04:41:14Z)
+- Mammography (procedure) (Date: 2019-02-04T23:03:40Z)
+- Manual pelvic examination (procedure) (Date: 2019-02-04T23:23:17Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-02-04T23:34:47Z)
+- Electrical cardioversion (Date: 2019-04-27T02:24:36Z)
+- Spirometry (procedure) (Date: 2019-04-27T02:24:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2019-04-27T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-27T02:24:36Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-27T02:54:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-04-27T03:21:53Z)
+- Depression screening (procedure) (Date: 2019-04-27T03:39:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-27T03:51:19Z)
+- Assessment of substance use (procedure) (Date: 2019-04-27T04:18:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-04-27T04:30:47Z)
+- Electrical cardioversion (Date: 2019-06-01T02:24:36Z)
+- Spirometry (procedure) (Date: 2019-06-01T02:24:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2019-06-01T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-01T02:24:36Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-01T02:56:16Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-06-01T03:13:56Z)
+- Assessment of substance use (procedure) (Date: 2019-06-01T03:31:28Z)
+- Screening for drug abuse (procedure) (Date: 2019-06-01T03:42:38Z)
+- Mammography (procedure) (Date: 2020-01-03T23:48:15Z)
+- Manual pelvic examination (procedure) (Date: 2020-01-04T00:10:56Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-01-04T00:25:45Z)
+- Replacement of contraceptive intrauterine device (Date: 2020-02-08T02:24:36Z)
+- Electrical cardioversion (Date: 2020-05-02T02:24:36Z)
+- Spirometry (procedure) (Date: 2020-05-02T02:24:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2020-05-02T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-02T02:24:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-05-02T03:01:44Z)
+- Depression screening (procedure) (Date: 2020-05-02T03:18:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-02T03:29:03Z)
+- Assessment of substance use (procedure) (Date: 2020-05-02T03:52:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-02T04:04:58Z)
+- Mammography (procedure) (Date: 2021-01-01T00:36:01Z)
+- Manual pelvic examination (procedure) (Date: 2021-01-01T01:00:19Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-01-01T01:12:48Z)
+- Electrical cardioversion (Date: 2021-05-08T02:24:36Z)
+- Spirometry (procedure) (Date: 2021-05-08T02:24:36Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2021-05-08T02:24:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-08T02:24:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-05-08T03:18:17Z)
+- Assessment of substance use (procedure) (Date: 2021-05-08T03:47:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-08T03:59:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-19T02:24:36Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-22T02:24:36Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-08T02:24:36Z: General examination of patient (procedure)
+- 2021-04-29T02:24:36Z: Follow-up encounter
+- 2021-01-01T01:00:19Z: Gynecology service (qualifier value)
+
+== Recent Observations (Last 10) ==
+- 2021-05-08T04:23:23Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-05-08T03:47:26Z Fall risk total [Morse Fall Scale]: 10.0 {#}
+- 2021-05-08T03:47:26Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-05-08T03:18:17Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-05-08T03:18:17Z How many family members  including yourself  do you currently live with?: 8.0 {#}
+- 2021-05-08T03:18:17Z Are you worried about losing your housing?: No nan
+- 2021-05-08T03:18:17Z What address do you live at?: 408 Effertz Bridge Suite 62 nan
+- 2021-05-08T03:18:17Z What is your current work situation?: Part-time or temporary work nan
+- 2021-05-08T03:18:17Z What is your main insurance?: Medicare nan
+- 2021-05-08T03:18:17Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 41688 /a

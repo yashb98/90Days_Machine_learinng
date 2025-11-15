@@ -1,0 +1,104 @@
+== PATIENT RECORD: Sandy901 Raynor401 (ID: 582bf373-c5f4-2e6c-b924-e5b2bb2e102a) ==
+
+== Demographics ==
+Patient ID: 582bf373-c5f4-2e6c-b924-e5b2bb2e102a
+Name: Sandy901 Raynor401
+Gender: M
+Birthdate: 1999-04-04
+Address: 1086 Jones Meadow Suite 87
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-04-30T01:41:45Z)
+- Depression screening (procedure) (Date: 2012-04-30T01:58:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-30T02:12:23Z)
+- Assessment of substance use (procedure) (Date: 2012-04-30T02:39:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-04-30T02:53:26Z)
+- Health risks education (procedure) (Date: 2012-04-30T03:18:21Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-06T01:41:45Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-06T01:41:45Z)
+- Depression screening (procedure) (Date: 2013-05-06T02:05:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-06T02:19:46Z)
+- Assessment of substance use (procedure) (Date: 2013-05-06T02:48:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-06T03:00:36Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-06T03:22:11Z)
+- Depression screening (procedure) (Date: 2014-05-12T01:41:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-12T01:54:59Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-18T01:41:45Z)
+- Depression screening (procedure) (Date: 2015-05-18T01:59:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-18T02:14:15Z)
+- Assessment of substance use (procedure) (Date: 2015-05-18T02:41:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-18T02:51:32Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-18T03:03:55Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-23T01:41:45Z)
+- Depression screening (procedure) (Date: 2016-05-23T02:04:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-23T02:17:10Z)
+- Assessment of substance use (procedure) (Date: 2016-05-23T02:45:25Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-23T02:57:29Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-23T03:18:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-29T01:41:45Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-29T01:41:45Z)
+- Screening for domestic abuse (procedure) (Date: 2017-05-29T02:41:29Z)
+- Depression screening (procedure) (Date: 2017-05-29T03:18:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-29T03:31:20Z)
+- Assessment of substance use (procedure) (Date: 2017-05-29T03:58:49Z)
+- Screening for drug abuse (procedure) (Date: 2017-05-29T04:11:05Z)
+- Referral to hypertension clinic (Date: 2017-10-26T01:41:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-04T01:41:45Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-04T01:41:45Z)
+- Assessment of substance use (procedure) (Date: 2018-06-04T02:32:55Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-04T02:47:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-10T01:41:45Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-10T02:25:10Z)
+- Depression screening (procedure) (Date: 2019-06-10T02:50:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-10T03:01:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-10T03:29:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-15T01:41:45Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-15T02:35:25Z)
+- Depression screening (procedure) (Date: 2020-06-15T03:00:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-15T03:11:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-21T01:41:45Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-21T02:38:09Z)
+- Depression screening (procedure) (Date: 2021-06-21T03:06:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-21T03:19:51Z)
+- Assessment of substance use (procedure) (Date: 2021-06-21T03:40:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-21T03:54:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-21T01:41:45Z: General examination of patient (procedure)
+- 2021-05-17T01:41:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-19T01:41:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-15T01:41:45Z: General examination of patient (procedure)
+- 2019-06-10T01:41:45Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-21T04:18:34Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-06-21T03:40:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-21T03:06:32Z Total score [HARK]: 0.0 {score}
+- 2021-06-21T02:38:09Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-06-21T02:38:09Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-06-21T02:38:09Z What is your main insurance?: Private insurance nan
+- 2021-06-21T02:38:09Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 110746 /a
+- 2021-06-21T02:38:09Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-06-21T02:38:09Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-21T02:38:09Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

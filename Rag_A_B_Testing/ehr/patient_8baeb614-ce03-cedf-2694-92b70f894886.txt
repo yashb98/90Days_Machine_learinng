@@ -1,0 +1,58 @@
+== PATIENT RECORD: Emilie407 Kozey370 (ID: 8baeb614-ce03-cedf-2694-92b70f894886) ==
+
+== Demographics ==
+Patient ID: 8baeb614-ce03-cedf-2694-92b70f894886
+Name: Emilie407 Kozey370
+Gender: F
+Birthdate: 2013-09-16
+Address: 128 Schmitt Manor
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Fracture of ankle
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-02-25T01:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-25T01:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-27T01:41:58Z)
+- Ankle X-ray (Date: 2014-07-25T01:41:58Z)
+- Bone immobilization (Date: 2014-07-25T01:41:58Z)
+- Allergy screening test (Date: 2015-01-11T07:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-24T01:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-25T01:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-23T01:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-22T01:41:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-14T01:41:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-14T01:41:58Z: Well child visit (procedure)
+- 2021-02-24T03:41:58Z: Encounter for symptom
+- 2020-09-08T01:41:58Z: Well child visit (procedure)
+- 2019-09-03T01:41:58Z: Well child visit (procedure)
+- 2018-08-28T01:41:58Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-17T01:41:58Z QOLS: 1.0 {score}
+- 2021-09-17T01:41:58Z QALY: 7.0 a
+- 2021-09-17T01:41:58Z DALY: 0.0 a
+- 2021-09-14T01:41:58Z Body Height: 120.7 cm
+- 2021-09-14T01:41:58Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-09-14T01:41:58Z Body Weight: 22.8 kg
+- 2021-09-14T01:41:58Z Body Mass Index: 15.7 kg/m2
+- 2021-09-14T01:41:58Z Body mass index (BMI) [Percentile] Per age and gender: 46.9 %
+- 2021-09-14T01:41:58Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-09-14T01:41:58Z Heart rate: 89.0 /min

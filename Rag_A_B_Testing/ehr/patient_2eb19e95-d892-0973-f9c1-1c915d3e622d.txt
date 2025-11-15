@@ -1,0 +1,126 @@
+== PATIENT RECORD: Moira454 McLaughlin530 (ID: 2eb19e95-d892-0973-f9c1-1c915d3e622d) ==
+
+== Demographics ==
+Patient ID: 2eb19e95-d892-0973-f9c1-1c915d3e622d
+Name: Moira454 McLaughlin530
+Gender: F
+Birthdate: 1993-12-05
+Address: 1026 Carroll Extension Apt 25
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Blighted ovum
+- Limited social contact (finding)
+- Laceration of forearm
+- Antepartum eclampsia
+
+== Current Medications ==
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Yaz 28 Day Pack
+- Camila 28 Day Pack
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-29T17:35:27Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-29T17:35:27Z)
+- Depression screening (procedure) (Date: 2012-01-29T18:27:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-29T18:39:49Z)
+- Throat culture (procedure) (Date: 2012-05-04T06:35:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-03T17:35:27Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-03T17:35:27Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-03T18:13:38Z)
+- Depression screening (procedure) (Date: 2013-02-03T18:30:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-03T18:40:43Z)
+- Assessment of substance use (procedure) (Date: 2013-02-03T19:02:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-03T19:17:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-07T17:35:27Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-07T17:35:27Z)
+- Depression screening (procedure) (Date: 2016-02-07T18:10:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-07T18:24:11Z)
+- Assessment of substance use (procedure) (Date: 2016-02-07T18:49:19Z)
+- Screening for drug abuse (procedure) (Date: 2016-02-07T19:01:46Z)
+- Standard pregnancy test (Date: 2016-12-04T17:35:27Z)
+- Ultrasound scan for fetal viability (Date: 2016-12-04T17:35:27Z)
+- Physical examination (Date: 2016-12-20T17:35:27Z)
+- Depression screening (Date: 2016-12-20T17:35:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-10T17:35:27Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-10T18:12:09Z)
+- Standard pregnancy test (Date: 2019-02-24T17:35:27Z)
+- Ultrasound scan for fetal viability (Date: 2019-02-24T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-02-24T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-02-24T17:35:27Z)
+- Blood typing  RH typing (Date: 2019-02-24T17:35:27Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-02-24T17:35:27Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-02-24T17:35:27Z)
+- Human immunodeficiency virus antigen test (Date: 2019-02-24T17:35:27Z)
+- Chlamydia antigen test (Date: 2019-02-24T17:35:27Z)
+- Gonorrhea infection test (Date: 2019-02-24T17:35:27Z)
+- Syphilis infection test (Date: 2019-02-24T17:35:27Z)
+- Urine culture (Date: 2019-02-24T17:35:27Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-02-24T17:35:27Z)
+- Urine screening test for diabetes (Date: 2019-02-24T17:35:27Z)
+- Hepatitis C antibody test (Date: 2019-02-24T17:35:27Z)
+- Rubella screening (Date: 2019-02-24T17:35:27Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-02-24T17:35:27Z)
+- Skin test for tuberculosis (Date: 2019-02-24T17:35:27Z)
+- Urine protein test (Date: 2019-02-24T17:35:27Z)
+- Physical examination of mother (Date: 2019-02-24T17:35:27Z)
+- Suture open wound (Date: 2019-03-11T21:33:01Z)
+- Injection of tetanus antitoxin (Date: 2019-03-11T22:02:28Z)
+- Evaluation of uterine fundal height (Date: 2019-03-24T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-03-24T17:35:27Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-03-24T17:35:27Z)
+- Fetal anatomy study (Date: 2019-04-21T17:35:27Z)
+- Alpha-fetoprotein test (Date: 2019-04-21T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-04-21T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-04-21T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-05-19T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-05-19T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-06-16T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-06-16T17:35:27Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-14T17:35:27Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-07-14T17:35:27Z)
+- Urine screening for glucose (Date: 2019-07-14T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-07-14T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-07-14T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-08-11T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-08-11T17:35:27Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-09-08T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-09-08T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-09-08T17:35:27Z)
+- Evaluation of uterine fundal height (Date: 2019-09-22T17:35:27Z)
+- Auscultation of the fetal heart (Date: 2019-09-22T17:35:27Z)
+- Episiotomy (Date: 2019-09-29T17:35:27Z)
+- Childbirth (Date: 2019-09-29T17:35:27Z)
+- Physical examination following birth (Date: 2019-11-10T17:35:27Z)
+- Depression screening (Date: 2019-11-10T17:35:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-19T17:35:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-29T17:35:27Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-11-10T17:35:27Z: Postnatal visit
+- 2019-09-29T17:35:27Z: Obstetric emergency hospital admission
+- 2019-09-22T17:35:27Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2020-12-05T17:35:27Z QOLS: 0.9 {score}
+- 2020-12-05T17:35:27Z DALY: 0.5 a
+- 2020-12-05T17:35:27Z QALY: 25.5 a
+- 2019-12-05T17:35:27Z QOLS: 0.9 {score}
+- 2019-12-05T17:35:27Z DALY: 0.4 a
+- 2019-12-05T17:35:27Z QALY: 24.6 a
+- 2019-02-10T18:37:39Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2019-02-10T18:12:09Z What is your main insurance?: Medicaid nan
+- 2019-02-10T18:12:09Z What is your housing situation today?: I have housing nan
+- 2019-02-10T18:12:09Z Are you worried about losing your housing?: No nan

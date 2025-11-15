@@ -1,0 +1,43 @@
+== PATIENT RECORD: Terri848 Grimes165 (ID: 140c88b4-afb8-dca3-92e5-3e688aa19800) ==
+
+== Demographics ==
+Patient ID: 140c88b4-afb8-dca3-92e5-3e688aa19800
+Name: Terri848 Grimes165
+Gender: F
+Birthdate: 2018-05-20
+Address: 1004 Reichert Vale Apt 38
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-10-28T18:51:57Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-27T18:51:57Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-25T18:51:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-24T18:51:57Z: Well child visit (procedure)
+- 2021-04-25T18:51:57Z: Well child visit (procedure)
+- 2020-10-25T18:51:57Z: Well child visit (procedure)
+- 2020-04-26T18:51:57Z: Well child visit (procedure)
+- 2019-10-27T18:51:57Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T18:51:57Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-10-24T18:51:57Z Body mass index (BMI) [Percentile] Per age and gender: 87.2 %
+- 2021-10-24T18:51:57Z Body Height: 101.8 cm
+- 2021-10-24T18:51:57Z Body Weight: 17.8 kg
+- 2021-10-24T18:51:57Z Weight-for-length Per age and sex: 92.5 %
+- 2021-10-24T18:51:57Z Head Occipital-frontal circumference: 50.3 cm
+- 2021-10-24T18:51:57Z Body Mass Index: 17.1 kg/m2
+- 2021-10-24T18:51:57Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-24T18:51:57Z Respiratory rate: 13.0 /min
+- 2021-10-24T18:51:57Z Heart rate: 99.0 /min

@@ -1,0 +1,54 @@
+== PATIENT RECORD: Shad704 Jones311 (ID: 720f6209-ee05-b675-ee87-8de4b8d3919d) ==
+
+== Demographics ==
+Patient ID: 720f6209-ee05-b675-ee87-8de4b8d3919d
+Name: Shad704 Jones311
+Gender: M
+Birthdate: 2015-11-01
+Address: 741 Boehm Rapid
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-11-01T08:09:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-10T08:09:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-09T08:09:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-08T08:09:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-09T08:09:36Z)
+- Measurement of respiratory function (procedure) (Date: 2018-04-20T21:09:36Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-07T08:09:36Z)
+- Throat culture (procedure) (Date: 2019-06-14T17:09:36Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-06T08:09:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-17T08:09:36Z: Well child visit (procedure)
+- 2021-02-02T08:09:36Z: Encounter for symptom
+- 2020-10-11T08:09:36Z: Well child visit (procedure)
+- 2020-10-10T14:09:36Z: Encounter for symptom
+- 2019-10-06T08:09:36Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-01T07:09:36Z QOLS: 1.0 {score}
+- 2021-11-01T07:09:36Z DALY: 0.0 a
+- 2021-11-01T07:09:36Z QALY: 5.0 a
+- 2021-10-17T08:09:36Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-10-17T08:09:36Z Body Weight: 21.3 kg
+- 2021-10-17T08:09:36Z Body Height: 115.8 cm
+- 2021-10-17T08:09:36Z Body Mass Index: 15.9 kg/m2
+- 2021-10-17T08:09:36Z Body mass index (BMI) [Percentile] Per age and gender: 65.5 %
+- 2021-10-17T08:09:36Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-10-17T08:09:36Z MCHC [Mass/volume] by Automated count: 33.7 g/dL

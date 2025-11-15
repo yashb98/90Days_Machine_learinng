@@ -1,0 +1,111 @@
+== PATIENT RECORD: Myron933 Will178 (ID: 3d39376e-488d-8c1b-afd9-857d63d0ae75) ==
+
+== Demographics ==
+Patient ID: 3d39376e-488d-8c1b-afd9-857d63d0ae75
+Name: Myron933 Will178
+Gender: M
+Birthdate: 1940-10-21
+Address: 859 Gerlach Club
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Familial Alzheimer's disease of early onset (disorder)
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Pneumonia
+
+== Current Medications ==
+- Donepezil hydrochloride 10 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2000-12-19T00:36:30Z)
+- Assessment of anxiety (procedure) (Date: 2000-12-19T01:28:45Z)
+- Depression screening (procedure) (Date: 2000-12-19T01:50:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-12-19T02:03:57Z)
+- Assessment of substance use (procedure) (Date: 2000-12-19T02:31:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-12-19T02:43:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-12-25T00:36:30Z)
+- Medication Reconciliation (procedure) (Date: 2001-12-25T00:36:30Z)
+- Assessment of anxiety (procedure) (Date: 2001-12-25T01:12:15Z)
+- Depression screening (procedure) (Date: 2001-12-25T01:35:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-12-25T01:48:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2001-12-25T02:18:34Z)
+- Assessment of substance use (procedure) (Date: 2001-12-25T02:39:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-12-25T02:52:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-12-31T00:36:30Z)
+- Assessment of anxiety (procedure) (Date: 2002-12-31T01:21:40Z)
+- Depression screening (procedure) (Date: 2002-12-31T01:39:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-12-31T01:49:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-01-06T00:36:30Z)
+- Depression screening (procedure) (Date: 2004-01-06T01:14:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-01-06T01:27:41Z)
+- Assessment of substance use (procedure) (Date: 2004-01-06T01:56:50Z)
+- Screening for drug abuse (procedure) (Date: 2004-01-06T02:10:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-01-11T00:36:30Z)
+- Medication Reconciliation (procedure) (Date: 2005-01-11T00:36:30Z)
+- Assessment of anxiety (procedure) (Date: 2005-01-11T01:28:08Z)
+- Assessment of substance use (procedure) (Date: 2005-01-11T01:45:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-01-11T01:58:46Z)
+- Colonoscopy (Date: 2005-10-22T02:13:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-01-17T00:36:30Z)
+- Assessment of anxiety (procedure) (Date: 2006-01-17T01:19:55Z)
+- Screening for domestic abuse (procedure) (Date: 2006-01-17T01:35:03Z)
+- Depression screening (procedure) (Date: 2006-01-17T02:18:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-01-17T02:29:52Z)
+- Assessment of substance use (procedure) (Date: 2006-01-17T02:51:53Z)
+- Screening for drug abuse (procedure) (Date: 2006-01-17T03:02:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-01-23T00:36:30Z)
+- Medication Reconciliation (procedure) (Date: 2007-01-23T00:36:30Z)
+- Assessment of anxiety (procedure) (Date: 2007-01-23T01:30:03Z)
+- Depression screening (procedure) (Date: 2007-01-23T01:45:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-01-23T01:58:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-01-29T00:36:30Z)
+- Medication Reconciliation (procedure) (Date: 2008-01-29T00:36:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-01-29T01:13:12Z)
+- Depression screening (procedure) (Date: 2008-01-29T01:37:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-01-29T01:49:45Z)
+- Assessment of substance use (procedure) (Date: 2008-01-29T02:14:42Z)
+- Screening for drug abuse (procedure) (Date: 2008-01-29T02:27:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-02-03T00:36:30Z)
+- Screening for domestic abuse (procedure) (Date: 2009-02-03T01:15:09Z)
+- Depression screening (procedure) (Date: 2009-02-03T01:42:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-02-03T01:55:56Z)
+- Assessment of substance use (procedure) (Date: 2009-02-03T02:25:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-02-03T02:39:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-02-09T00:36:30Z)
+- Medication Reconciliation (procedure) (Date: 2010-02-09T00:36:30Z)
+- Depression screening (procedure) (Date: 2010-02-09T01:36:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-02-09T01:49:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2010-02-09T02:10:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2010-10-26T00:36:30Z: Death Certification
+- 2010-10-18T00:36:30Z: Hospital admission
+- 2010-02-09T00:36:30Z: General examination of patient (procedure)
+- 2009-06-23T00:36:30Z: Urgent care clinic (procedure)
+- 2009-06-12T12:36:30Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2010-10-26T00:36:30Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2010-02-09T02:31:10Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 23.0 {score}
+- 2010-02-09T02:10:48Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 6.0 {score}
+- 2010-02-09T01:36:16Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2010-02-09T01:36:16Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2010-02-09T01:36:16Z Are you a refugee?: No nan
+- 2010-02-09T01:36:16Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2010-02-09T01:36:16Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2010-02-09T01:36:16Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2010-02-09T01:36:16Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

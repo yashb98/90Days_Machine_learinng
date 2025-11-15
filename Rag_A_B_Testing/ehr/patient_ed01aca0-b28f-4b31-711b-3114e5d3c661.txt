@@ -1,0 +1,55 @@
+== PATIENT RECORD: Irish781 Torp761 (ID: ed01aca0-b28f-4b31-711b-3114e5d3c661) ==
+
+== Demographics ==
+Patient ID: ed01aca0-b28f-4b31-711b-3114e5d3c661
+Name: Irish781 Torp761
+Gender: F
+Birthdate: 2012-04-18
+Address: 531 Schoen Road
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Concussion with no loss of consciousness
+- Viral sinusitis (disorder)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-07-25T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-26T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-26T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-27T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-25T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-24T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-23T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-23T12:52:21Z)
+- Throat culture (procedure) (Date: 2018-01-19T17:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-04T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-15T12:52:21Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-21T12:52:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-01T23:52:21Z: Encounter for symptom
+- 2021-04-21T12:52:21Z: Well child visit (procedure)
+- 2020-04-15T12:52:21Z: Well child visit (procedure)
+- 2019-04-10T12:52:21Z: Well child visit (procedure)
+- 2018-04-04T12:52:21Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-21T12:52:21Z Body Mass Index: 20.1 kg/m2
+- 2021-04-21T12:52:21Z Body Height: 126.3 cm
+- 2021-04-21T12:52:21Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-04-21T12:52:21Z Body Weight: 32.0 kg
+- 2021-04-21T12:52:21Z Body mass index (BMI) [Percentile] Per age and gender: 90.0 %
+- 2021-04-21T12:52:21Z Diastolic Blood Pressure: 73.0 mm[Hg]
+- 2021-04-21T12:52:21Z Systolic Blood Pressure: 107.0 mm[Hg]
+- 2021-04-21T12:52:21Z Heart rate: 99.0 /min
+- 2021-04-21T12:52:21Z Respiratory rate: 14.0 /min
+- 2021-04-21T12:52:21Z Tobacco smoking status NHIS: Never smoker nan

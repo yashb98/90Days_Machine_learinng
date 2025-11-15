@@ -1,0 +1,97 @@
+== PATIENT RECORD: María José279 Duarte203 (ID: 4773d311-a4f3-56a3-46aa-522da4d4743b) ==
+
+== Demographics ==
+Patient ID: 4773d311-a4f3-56a3-46aa-522da4d4743b
+Name: María José279 Duarte203
+Gender: F
+Birthdate: 2002-12-30
+Address: 563 Raynor Park
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Sprain of ankle
+- Risk activity involvement (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Trinessa 28 Day Pack
+- Seasonique 91 Day Pack
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-02T20:45:00Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-23T20:45:00Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-13T20:45:00Z)
+- Depression screening (procedure) (Date: 2015-01-19T20:45:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-19T20:59:41Z)
+- Depression screening (procedure) (Date: 2016-01-25T20:45:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-01-25T20:57:11Z)
+- Assessment of substance use (procedure) (Date: 2016-01-25T21:22:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-01-25T21:33:55Z)
+- Anticipatory guidance (procedure) (Date: 2016-01-25T21:52:17Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-30T20:45:00Z)
+- Depression screening (procedure) (Date: 2017-01-30T21:01:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-01-30T21:11:30Z)
+- Assessment of substance use (procedure) (Date: 2017-01-30T21:37:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-01-30T21:47:50Z)
+- Anticipatory guidance (procedure) (Date: 2017-01-30T22:04:29Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-05T20:45:00Z)
+- Depression screening (procedure) (Date: 2018-02-05T21:02:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-02-05T21:17:40Z)
+- Assessment of substance use (procedure) (Date: 2018-02-05T21:39:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-02-05T21:54:40Z)
+- Health risks education (procedure) (Date: 2018-02-05T22:07:20Z)
+- Depression screening (procedure) (Date: 2019-02-11T20:45:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-11T20:45:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-02-11T20:57:09Z)
+- Depression screening (procedure) (Date: 2020-02-17T20:45:00Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-17T20:45:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-02-17T20:59:11Z)
+- Assessment of substance use (procedure) (Date: 2020-02-17T21:25:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-02-17T21:37:01Z)
+- Anticipatory guidance (procedure) (Date: 2020-02-17T21:57:44Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-06T20:45:00Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-09T21:38:47Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-12T22:34:11Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-15T23:21:30Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-19T00:11:49Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-22T01:04:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-22T20:45:00Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-22T20:45:00Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-25T01:58:41Z)
+- Movement therapy (regime/therapy) (Date: 2021-02-28T02:52:40Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-22T21:20:38Z)
+- Depression screening (procedure) (Date: 2021-02-22T21:45:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-22T21:59:05Z)
+- Movement therapy (regime/therapy) (Date: 2021-03-03T03:49:26Z)
+- Movement therapy (regime/therapy) (Date: 2021-03-06T04:41:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-05T05:34:40Z: Follow-up encounter (procedure)
+- 2021-03-06T04:41:02Z: Patient encounter procedure (procedure)
+- 2021-03-03T03:49:26Z: Patient encounter procedure (procedure)
+- 2021-02-28T02:52:40Z: Patient encounter procedure (procedure)
+- 2021-02-25T01:58:41Z: Patient encounter procedure (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-05T05:34:40Z What number best describes your pain on average in the past week?: 7.0 {score}
+- 2021-04-05T05:34:40Z What number best describes how  during the past week  pain has interfered with your enjoyment of life?: 7.3 {score}
+- 2021-04-05T05:34:40Z What number best describes how  during the past week  pain has interfered with your general activity?: 7.5 {score}
+- 2021-04-05T05:34:40Z Drugs of abuse 5 panel - Urine by Screen method: Negative (qualifier value) nan
+- 2021-03-06T05:34:40Z Pain severity - Reported: 1.2 {score}
+- 2021-03-03T04:41:02Z Pain severity - Reported: 7.3 {score}
+- 2021-02-28T03:49:26Z Pain severity - Reported: 3.8 {score}
+- 2021-02-25T02:52:40Z Pain severity - Reported: 5.6 {score}
+- 2021-02-22T22:27:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-02-22T21:45:25Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 12.0 {score}

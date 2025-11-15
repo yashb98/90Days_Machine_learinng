@@ -1,0 +1,59 @@
+== PATIENT RECORD: Man114 Halvorson124 (ID: f93c78a3-57b8-4858-cad5-e449f26e3857) ==
+
+== Demographics ==
+Patient ID: f93c78a3-57b8-4858-cad5-e449f26e3857
+Name: Man114 Halvorson124
+Gender: M
+Birthdate: 2008-12-10
+Address: 644 Abshire Park Suite 19
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Fracture of clavicle
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2011-12-29T21:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-20T22:28:01Z)
+- Clavicle X-ray (Date: 2013-12-23T22:28:01Z)
+- Admission to orthopedic department (Date: 2013-12-23T22:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-02T22:28:01Z)
+- Throat culture (procedure) (Date: 2016-07-15T06:28:01Z)
+- Measurement of respiratory function (procedure) (Date: 2016-08-02T16:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-10T22:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-07T22:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-13T22:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-19T22:28:01Z)
+- Throat culture (procedure) (Date: 2019-03-11T17:28:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-25T22:28:01Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-30T22:28:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-16T22:28:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-26T22:28:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-30T22:28:01Z: Well child visit (procedure)
+- 2019-12-25T22:28:01Z: Well child visit (procedure)
+- 2019-03-11T17:28:01Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2020-12-30T22:52:41Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-12-30T22:28:01Z Body Height: 148.2 cm
+- 2020-12-30T22:28:01Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2020-12-30T22:28:01Z Body Weight: 41.4 kg
+- 2020-12-30T22:28:01Z Body Mass Index: 18.8 kg/m2
+- 2020-12-30T22:28:01Z Body mass index (BMI) [Percentile] Per age and gender: 65.5 %
+- 2020-12-30T22:28:01Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2020-12-30T22:28:01Z Systolic Blood Pressure: 121.0 mm[Hg]
+- 2020-12-30T22:28:01Z Heart rate: 80.0 /min
+- 2020-12-30T22:28:01Z Respiratory rate: 12.0 /min

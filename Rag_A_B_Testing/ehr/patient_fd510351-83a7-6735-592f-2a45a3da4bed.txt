@@ -1,0 +1,104 @@
+== PATIENT RECORD: Ronnie7 Ledner144 (ID: fd510351-83a7-6735-592f-2a45a3da4bed) ==
+
+== Demographics ==
+Patient ID: fd510351-83a7-6735-592f-2a45a3da4bed
+Name: Ronnie7 Ledner144
+Gender: M
+Birthdate: 1984-02-09
+Address: 1095 Bergnaum Gate Suite 64
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Only received primary school education (finding)
+- Not in labor force (finding)
+- Chronic obstructive bronchitis (disorder)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 1998-03-13T01:32:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1998-03-13T01:44:06Z)
+- Depression screening (procedure) (Date: 1999-03-19T01:32:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1999-03-19T01:45:25Z)
+- Assessment of substance use (procedure) (Date: 1999-03-19T02:10:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1999-03-19T02:24:41Z)
+- Anticipatory guidance (procedure) (Date: 1999-03-19T02:52:50Z)
+- Assessment of anxiety (procedure) (Date: 2000-03-24T01:32:31Z)
+- Depression screening (procedure) (Date: 2000-03-24T02:01:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2000-03-24T02:15:06Z)
+- Assessment of substance use (procedure) (Date: 2000-03-24T02:38:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2000-03-24T02:52:54Z)
+- Anticipatory guidance (procedure) (Date: 2000-03-24T03:20:33Z)
+- Assessment of anxiety (procedure) (Date: 2001-03-30T01:32:31Z)
+- Medication Reconciliation (procedure) (Date: 2001-03-30T01:32:31Z)
+- Depression screening (procedure) (Date: 2001-03-30T01:57:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2001-03-30T02:12:27Z)
+- Assessment of substance use (procedure) (Date: 2001-03-30T02:36:53Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2001-03-30T02:50:18Z)
+- Anticipatory guidance (procedure) (Date: 2001-03-30T03:15:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-04-05T01:32:31Z)
+- Assessment of anxiety (procedure) (Date: 2002-04-05T02:06:45Z)
+- Depression screening (procedure) (Date: 2002-04-05T02:36:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-04-05T02:48:30Z)
+- Assessment of substance use (procedure) (Date: 2002-04-05T03:09:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-04-05T03:22:30Z)
+- Spirometry (procedure) (Date: 2003-04-11T01:32:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-04-11T01:32:31Z)
+- Depression screening (procedure) (Date: 2003-04-11T02:08:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-04-11T02:22:39Z)
+- Assessment of substance use (procedure) (Date: 2003-04-11T02:47:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-04-11T03:00:12Z)
+- Spirometry (procedure) (Date: 2005-12-30T01:32:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-12-30T01:32:31Z)
+- Medication Reconciliation (procedure) (Date: 2005-12-30T01:32:31Z)
+- Assessment of anxiety (procedure) (Date: 2005-12-30T02:29:13Z)
+- Screening for domestic abuse (procedure) (Date: 2005-12-30T02:50:26Z)
+- Depression screening (procedure) (Date: 2005-12-30T03:19:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-12-30T03:31:57Z)
+- Assessment of substance use (procedure) (Date: 2005-12-30T03:55:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-12-30T04:08:17Z)
+- Spirometry (procedure) (Date: 2006-01-13T01:32:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-01-13T01:32:31Z)
+- Depression screening (procedure) (Date: 2006-01-13T02:27:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-01-13T02:41:39Z)
+- Assessment of substance use (procedure) (Date: 2006-01-13T03:02:27Z)
+- Screening for drug abuse (procedure) (Date: 2006-01-13T03:12:45Z)
+- Spirometry (procedure) (Date: 2007-01-19T01:32:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-01-19T01:32:31Z)
+- Assessment of anxiety (procedure) (Date: 2007-01-19T02:24:51Z)
+- Depression screening (procedure) (Date: 2007-01-19T02:41:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-01-19T02:54:14Z)
+- Assessment of substance use (procedure) (Date: 2007-01-19T03:21:30Z)
+- Screening for drug abuse (procedure) (Date: 2007-01-19T03:34:01Z)
+- Spirometry (procedure) (Date: 2008-01-25T01:32:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2008-02-01T01:32:31Z: Death Certification
+- 2008-01-25T01:32:31Z: General examination of patient (procedure)
+- 2007-11-13T03:32:31Z: Encounter for symptom
+- 2007-01-19T01:32:31Z: General examination of patient (procedure)
+- 2006-01-13T01:32:31Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2008-02-01T01:32:31Z Cause of Death [US Standard Certificate of Death]: Chronic obstructive bronchitis (disorder) nan
+- 2008-01-25T01:32:31Z FEV1/FVC: 77.5 %
+- 2007-01-19T03:56:45Z Total score [DAST-10]: 1.0 {score}
+- 2007-01-19T03:21:30Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2007-01-19T02:41:45Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2007-01-19T02:24:51Z What is your current work situation?: Full-time work nan
+- 2007-01-19T02:24:51Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2007-01-19T02:24:51Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2007-01-19T02:24:51Z Are you a refugee?: No nan
+- 2007-01-19T02:24:51Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

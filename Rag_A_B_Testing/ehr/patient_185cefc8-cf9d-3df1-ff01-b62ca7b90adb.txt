@@ -1,0 +1,134 @@
+== PATIENT RECORD: Marisol435 Hilll811 (ID: 185cefc8-cf9d-3df1-ff01-b62ca7b90adb) ==
+
+== Demographics ==
+Patient ID: 185cefc8-cf9d-3df1-ff01-b62ca7b90adb
+Name: Marisol435 Hilll811
+Gender: F
+Birthdate: 1967-06-15
+Address: 379 Toy Quay Unit 10
+Marital Status: M
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+- Wheat (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Coronary Heart Disease
+- Viral sinusitis (disorder)
+- Full-time employment (finding)
+- Streptococcal sore throat (disorder)
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Penicillin V Potassium 500 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2011-12-19T13:47:01Z)
+- Measurement of respiratory function (procedure) (Date: 2012-01-03T08:47:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-05T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-05T08:47:01Z)
+- Depression screening (procedure) (Date: 2012-01-05T09:43:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-05T09:54:42Z)
+- Assessment of substance use (procedure) (Date: 2012-01-05T10:15:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-05T10:29:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-19T08:47:01Z)
+- Assessment of substance use (procedure) (Date: 2012-01-19T09:36:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-19T09:47:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-10T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-10T08:47:01Z)
+- Screening for domestic abuse (procedure) (Date: 2013-01-10T09:39:07Z)
+- Depression screening (procedure) (Date: 2013-01-10T10:07:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-10T10:19:14Z)
+- Assessment of substance use (procedure) (Date: 2013-01-10T10:40:57Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-10T10:53:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-16T08:47:01Z)
+- Screening for domestic abuse (procedure) (Date: 2014-01-16T09:43:41Z)
+- Depression screening (procedure) (Date: 2014-01-16T10:10:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-16T10:21:57Z)
+- Assessment of substance use (procedure) (Date: 2014-01-16T10:44:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-16T10:56:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-22T08:47:01Z)
+- Depression screening (procedure) (Date: 2015-01-22T09:21:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-22T09:33:18Z)
+- Assessment of substance use (procedure) (Date: 2015-01-22T09:55:40Z)
+- Screening for drug abuse (procedure) (Date: 2015-01-22T10:07:15Z)
+- Replacement of contraceptive intrauterine device (Date: 2015-06-11T08:47:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-28T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-28T08:47:01Z)
+- Depression screening (procedure) (Date: 2016-01-28T09:38:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-28T09:49:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-02T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-02T08:47:01Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-02T09:22:00Z)
+- Depression screening (procedure) (Date: 2017-02-02T10:04:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-02T10:14:47Z)
+- Assessment of substance use (procedure) (Date: 2017-02-02T10:35:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-02T10:45:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-08T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-08T08:47:01Z)
+- Depression screening (procedure) (Date: 2018-02-08T09:20:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-08T09:32:03Z)
+- Assessment of substance use (procedure) (Date: 2018-02-08T10:00:23Z)
+- Screening for drug abuse (procedure) (Date: 2018-02-08T10:10:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-14T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-14T08:47:01Z)
+- Depression screening (procedure) (Date: 2019-02-14T09:33:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-14T09:48:13Z)
+- Assessment of substance use (procedure) (Date: 2019-02-14T10:13:40Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-14T10:28:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-20T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-20T08:47:01Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-20T09:45:42Z)
+- Depression screening (procedure) (Date: 2020-02-20T10:07:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-20T10:20:22Z)
+- Assessment of substance use (procedure) (Date: 2020-02-20T10:45:35Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-20T10:56:52Z)
+- Replacement of contraceptive intrauterine device (Date: 2020-06-11T08:47:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-25T08:47:01Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-25T08:47:01Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-25T09:17:49Z)
+- Depression screening (procedure) (Date: 2021-02-25T09:43:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-25T09:55:22Z)
+- Assessment of substance use (procedure) (Date: 2021-02-25T10:18:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-02-25T10:32:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-20T08:47:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-29T08:47:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-25T08:47:01Z: General examination of patient (procedure)
+- 2020-09-01T16:47:01Z: Asthma follow-up
+- 2020-06-11T08:47:01Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-06-15T08:47:01Z QOLS: 1.0 {score}
+- 2021-06-15T08:47:01Z DALY: 0.9 a
+- 2021-06-15T08:47:01Z QALY: 52.1 a
+- 2021-02-25T10:53:16Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-02-25T10:18:07Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-02-25T09:43:12Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-02-25T09:17:49Z What address do you live at?: 379 Toy Quay Unit 10 nan
+- 2021-02-25T09:17:49Z Are you worried about losing your housing?: No nan
+- 2021-02-25T09:17:49Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-02-25T09:17:49Z What is your housing situation today?: I have housing nan

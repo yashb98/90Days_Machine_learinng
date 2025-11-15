@@ -1,0 +1,132 @@
+== PATIENT RECORD: Kenton313 Strosin214 (ID: 2af3a46e-757d-0544-452c-1231039f4a6b) ==
+
+== Demographics ==
+Patient ID: 2af3a46e-757d-0544-452c-1231039f4a6b
+Name: Kenton313 Strosin214
+Gender: M
+Birthdate: 1963-12-05
+Address: 959 Fisher Frontage road
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Diabetes
+- Anemia (disorder)
+- Hyperglycemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Prediabetes
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Refugee (person)
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Hyperlipidemia
+- Chronic low back pain (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- tramadol hydrochloride 50 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-16T22:06:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-16T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2012-02-16T23:01:58Z)
+- Depression screening (procedure) (Date: 2012-02-16T23:20:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-16T23:31:48Z)
+- Assessment of substance use (procedure) (Date: 2012-02-16T23:55:40Z)
+- Screening for drug abuse (procedure) (Date: 2012-02-17T00:10:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-19T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-19T22:42:19Z)
+- Assessment of substance use (procedure) (Date: 2012-07-19T23:10:23Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-19T23:25:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-25T22:06:18Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-25T22:06:18Z)
+- Depression screening (procedure) (Date: 2013-07-25T22:59:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-25T23:13:17Z)
+- Assessment of substance use (procedure) (Date: 2013-07-25T23:41:52Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-25T23:55:46Z)
+- Colonoscopy (Date: 2013-12-05T22:06:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-31T22:06:18Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-31T22:06:18Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-31T22:48:06Z)
+- Depression screening (procedure) (Date: 2014-07-31T23:30:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-31T23:41:47Z)
+- Assessment of substance use (procedure) (Date: 2014-08-01T00:05:48Z)
+- Screening for drug abuse (procedure) (Date: 2014-08-01T00:20:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-06T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-06T22:41:39Z)
+- Screening for domestic abuse (procedure) (Date: 2015-08-06T23:02:10Z)
+- Depression screening (procedure) (Date: 2015-08-06T23:32:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-06T23:44:44Z)
+- Assessment of substance use (procedure) (Date: 2015-08-07T00:13:38Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-07T00:25:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-10T22:06:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-10T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-10T22:40:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-11T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-11T22:57:08Z)
+- Screening for domestic abuse (procedure) (Date: 2016-08-11T23:16:26Z)
+- Assessment of substance use (procedure) (Date: 2016-08-12T00:01:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-08-12T00:14:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-17T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-17T22:51:07Z)
+- Screening for domestic abuse (procedure) (Date: 2017-08-17T23:06:07Z)
+- Depression screening (procedure) (Date: 2017-08-17T23:37:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-17T23:48:31Z)
+- Assessment of substance use (procedure) (Date: 2017-08-18T00:11:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-08-18T00:24:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-23T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-23T22:41:28Z)
+- Depression screening (procedure) (Date: 2018-08-23T23:03:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-23T23:15:29Z)
+- Assessment of substance use (procedure) (Date: 2018-08-23T23:36:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-08-23T23:46:19Z)
+- Colonoscopy (Date: 2018-12-05T22:33:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-29T22:06:18Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-29T22:06:18Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-29T22:40:27Z)
+- Depression screening (procedure) (Date: 2019-08-29T23:07:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-29T23:19:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-29T23:45:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-03T22:06:18Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-03T23:00:26Z)
+- Depression screening (procedure) (Date: 2020-09-03T23:36:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-03T23:50:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-09T22:06:18Z)
+- Depression screening (procedure) (Date: 2021-09-09T22:48:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-09T22:59:07Z)
+- Assessment of substance use (procedure) (Date: 2021-09-09T23:29:05Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-09T23:39:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T22:06:18Z: General examination of patient (procedure)
+- 2021-08-13T22:06:18Z: Follow-up encounter
+- 2020-09-03T22:06:18Z: General examination of patient (procedure)
+- 2020-08-13T22:06:18Z: Follow-up encounter
+- 2019-08-29T22:06:18Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-10T00:01:10Z Total score [DAST-10]: 0.0 {score}
+- 2021-09-09T23:29:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-09-09T22:48:21Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-09-09T22:48:21Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-09-09T22:48:21Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-09-09T22:48:21Z What is your housing situation today?: I have housing nan
+- 2021-09-09T22:48:21Z Are you worried about losing your housing?: No nan
+- 2021-09-09T22:48:21Z What address do you live at?: 959 Fisher Frontage road nan
+- 2021-09-09T22:48:21Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-09-09T22:48:21Z What is your current work situation?: Full-time work nan

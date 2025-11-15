@@ -1,0 +1,40 @@
+== PATIENT RECORD: Miguel815 Keebler762 (ID: ec3c4200-341e-dc28-d580-cf6f78d90897) ==
+
+== Demographics ==
+Patient ID: ec3c4200-341e-dc28-d580-cf6f78d90897
+Name: Miguel815 Keebler762
+Gender: M
+Birthdate: 2021-02-09
+Address: 794 Bailey Orchard
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+None on record.
+
+== Recent Encounters (Last 5) ==
+- 2021-10-20T00:45:48Z: Well child visit (procedure)
+- 2021-07-21T00:45:48Z: Well child visit (procedure)
+- 2021-05-19T00:45:48Z: Well child visit (procedure)
+- 2021-03-17T00:45:48Z: Well child visit (procedure)
+- 2021-02-10T00:45:48Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-20T00:45:48Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-20T00:45:48Z Respiratory rate: 14.0 /min
+- 2021-10-20T00:45:48Z Heart rate: 82.0 /min
+- 2021-10-20T00:45:48Z Systolic Blood Pressure: 133.0 mm[Hg]
+- 2021-10-20T00:45:48Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-10-20T00:45:48Z Head Occipital-frontal circumference: 44.8 cm
+- 2021-10-20T00:45:48Z Weight-for-length Per age and sex: 86.9 %
+- 2021-10-20T00:45:48Z Body Weight: 9.4 kg
+- 2021-10-20T00:45:48Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-10-20T00:45:48Z Body Height: 70.3 cm

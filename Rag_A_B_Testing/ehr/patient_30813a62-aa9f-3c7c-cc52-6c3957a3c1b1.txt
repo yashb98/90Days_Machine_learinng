@@ -1,0 +1,146 @@
+== PATIENT RECORD: January966 Ledner144 (ID: 30813a62-aa9f-3c7c-cc52-6c3957a3c1b1) ==
+
+== Demographics ==
+Patient ID: 30813a62-aa9f-3c7c-cc52-6c3957a3c1b1
+Name: January966 Ledner144
+Gender: F
+Birthdate: 1928-11-13
+Address: 120 Zieme Manor Unit 21
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Only received primary school education (finding)
+- Refugee (person)
+- Stress (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Chronic pain
+- Chronic intractable migraine without aura
+- Impacted molars
+- Drug overdose
+- Limited social contact (finding)
+- Atrial Fibrillation
+- Full-time employment (finding)
+- Streptococcal sore throat (disorder)
+- Stroke
+- Not in labor force (finding)
+- Social isolation (finding)
+- Acute bronchitis (disorder)
+- Osteoporosis (disorder)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+- Acetaminophen 325 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2012-05-22T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-05-22T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2012-05-22T21:42:49Z)
+- Electrical cardioversion (Date: 2013-05-28T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-28T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-28T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-28T21:38:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-05-28T22:08:15Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-28T22:23:15Z)
+- Depression screening (procedure) (Date: 2013-05-28T22:53:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-28T23:06:41Z)
+- Electrical cardioversion (Date: 2014-06-03T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-03T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-03T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-06-03T21:18:42Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-03T21:34:17Z)
+- Depression screening (procedure) (Date: 2014-06-03T22:12:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-03T22:27:00Z)
+- Catheter ablation of tissue of heart (Date: 2015-06-09T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-09T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-09T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-09T21:42:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-06-09T21:57:53Z)
+- Depression screening (procedure) (Date: 2015-06-09T22:23:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-09T22:36:49Z)
+- Throat culture (procedure) (Date: 2016-01-18T00:45:19Z)
+- Catheter ablation of tissue of heart (Date: 2016-01-26T20:45:19Z)
+- Echocardiography (procedure) (Date: 2016-05-24T20:45:19Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2016-05-24T20:45:19Z)
+- Electrical cardioversion (Date: 2016-06-14T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-14T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-14T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-06-14T21:27:44Z)
+- Screening for domestic abuse (procedure) (Date: 2016-06-14T21:44:40Z)
+- Depression screening (procedure) (Date: 2016-06-14T22:12:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-14T22:27:18Z)
+- Electrical cardioversion (Date: 2017-06-20T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-20T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-20T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-20T21:45:06Z)
+- Depression screening (procedure) (Date: 2017-06-20T22:05:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-20T22:19:00Z)
+- Electrical cardioversion (Date: 2018-06-26T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-26T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-06-26T21:24:35Z)
+- Electrical cardioversion (Date: 2018-09-11T20:45:19Z)
+- Electrical cardioversion (Date: 2018-09-18T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-18T20:45:19Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-18T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-18T21:16:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-09-18T21:36:40Z)
+- Depression screening (procedure) (Date: 2018-09-18T21:52:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-18T22:07:18Z)
+- Electrical cardioversion (Date: 2019-07-02T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-02T20:45:19Z)
+- Bone density scan (procedure) (Date: 2019-07-02T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-02T21:40:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-02T22:08:17Z)
+- Depression screening (procedure) (Date: 2019-07-02T22:27:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-02T22:38:27Z)
+- Electrical cardioversion (Date: 2020-03-24T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-24T20:45:19Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-24T21:44:22Z)
+- Depression screening (procedure) (Date: 2020-03-24T22:12:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-24T22:23:59Z)
+- Electrical cardioversion (Date: 2020-07-07T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-07T20:45:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-07-07T21:18:53Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-07T21:44:27Z)
+- Depression screening (procedure) (Date: 2020-07-07T22:20:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-07T22:33:54Z)
+- Catheter ablation of tissue of heart (Date: 2021-07-13T20:45:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-13T20:45:19Z)
+- Screening for domestic abuse (procedure) (Date: 2021-07-13T21:22:42Z)
+- Depression screening (procedure) (Date: 2021-07-13T21:57:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-13T22:12:13Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-23T20:45:19Z: Encounter for symptom
+- 2021-07-13T20:45:19Z: General examination of patient (procedure)
+- 2021-06-23T20:45:19Z: Encounter for problem (procedure)
+- 2021-05-19T20:45:19Z: Emergency Room Admission
+- 2021-04-13T20:45:19Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-13T20:45:19Z QOLS: 0.6 {score}
+- 2021-11-13T20:45:19Z DALY: 12.6 a
+- 2021-11-13T20:45:19Z QALY: 79.4 a
+- 2021-07-13T22:33:28Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-07-13T21:57:42Z Total score [HARK]: 0.0 {score}
+- 2021-07-13T21:22:42Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2021-07-13T21:22:42Z What address do you live at?: 120 Zieme Manor Unit 21 nan
+- 2021-07-13T21:22:42Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-07-13T21:22:42Z What is your current work situation?: Part-time or temporary work nan
+- 2021-07-13T21:22:42Z What is your main insurance?: Medicare nan

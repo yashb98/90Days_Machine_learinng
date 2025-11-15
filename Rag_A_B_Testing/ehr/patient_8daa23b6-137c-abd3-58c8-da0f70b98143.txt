@@ -1,0 +1,53 @@
+== PATIENT RECORD: Elenora790 Buckridge80 (ID: 8daa23b6-137c-abd3-58c8-da0f70b98143) ==
+
+== Demographics ==
+Patient ID: 8daa23b6-137c-abd3-58c8-da0f70b98143
+Name: Elenora790 Buckridge80
+Gender: F
+Birthdate: 2015-03-31
+Address: 716 Medhurst Walk Unit 96
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Laceration of forearm
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-04-01T01:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-08T01:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-09T01:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-09T01:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-09T01:06:49Z)
+- Throat culture (procedure) (Date: 2016-04-27T02:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-08T01:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-07T01:06:49Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-11T01:06:49Z)
+- Suture open wound (Date: 2021-10-09T01:06:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-09T01:06:49Z: Emergency room admission (procedure)
+- 2021-03-17T01:06:49Z: Well child visit (procedure)
+- 2020-10-13T01:06:49Z: Encounter for symptom
+- 2020-03-11T01:06:49Z: Well child visit (procedure)
+- 2019-03-06T01:06:49Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-01T01:06:49Z QOLS: 1.0 {score}
+- 2021-04-01T01:06:49Z DALY: 0.0 a
+- 2021-04-01T01:06:49Z QALY: 5.0 a
+- 2021-03-17T01:06:49Z Heart rate: 66.0 /min
+- 2021-03-17T01:06:49Z MCH [Entitic mass] by Automated count: 29.6 pg
+- 2021-03-17T01:06:49Z MCV [Entitic volume] by Automated count: 92.8 fL
+- 2021-03-17T01:06:49Z Hemoglobin [Mass/volume] in Blood: 16.8 g/dL
+- 2021-03-17T01:06:49Z Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL
+- 2021-03-17T01:06:49Z Leukocytes [#/volume] in Blood by Automated count: 4.3 10*3/uL
+- 2021-03-17T01:06:49Z Respiratory rate: 13.0 /min

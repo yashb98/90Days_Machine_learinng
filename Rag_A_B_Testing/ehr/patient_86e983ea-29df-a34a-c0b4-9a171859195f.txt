@@ -1,0 +1,66 @@
+== PATIENT RECORD: Raul814 D'Amore443 (ID: 86e983ea-29df-a34a-c0b4-9a171859195f) ==
+
+== Demographics ==
+Patient ID: 86e983ea-29df-a34a-c0b4-9a171859195f
+Name: Raul814 D'Amore443
+Gender: M
+Birthdate: 2010-03-23
+Address: 493 Koelpin Vista Apt 26
+Marital Status: nan
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Eggs (edible) (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis with seasonal variation
+- Acute viral pharyngitis (disorder)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Child attention deficit disorder
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-28T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-28T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-25T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-08T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-18T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-14T13:58:09Z)
+- Cognitive and behavioral therapy (Date: 2018-03-17T13:58:09Z)
+- Cognitive and behavioral therapy (Date: 2018-04-24T14:58:09Z)
+- Cognitive and behavioral therapy (Date: 2018-05-29T15:58:09Z)
+- Cognitive and behavioral therapy (Date: 2018-06-30T16:58:09Z)
+- Cognitive and behavioral therapy (Date: 2018-07-29T17:58:09Z)
+- Cognitive and behavioral therapy (Date: 2018-09-08T18:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-26T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-31T13:58:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-06T13:58:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-06T13:58:09Z: Well child visit (procedure)
+- 2020-11-21T12:17:09Z: Encounter for problem
+- 2020-03-31T13:58:09Z: Well child visit (procedure)
+- 2019-03-26T13:58:09Z: Well child visit (procedure)
+- 2018-09-08T18:58:09Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-04-06T13:58:09Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-06T13:58:09Z Platelet mean volume [Entitic volume] in Blood by Automated count: 9.4 fL
+- 2021-04-06T13:58:09Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-04-06T13:58:09Z Systolic Blood Pressure: 137.0 mm[Hg]
+- 2021-04-06T13:58:09Z Heart rate: 96.0 /min
+- 2021-04-06T13:58:09Z Respiratory rate: 13.0 /min
+- 2021-04-06T13:58:09Z Leukocytes [#/volume] in Blood by Automated count: 4.4 10*3/uL
+- 2021-04-06T13:58:09Z Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- 2021-04-06T13:58:09Z Hemoglobin [Mass/volume] in Blood: 13.9 g/dL
+- 2021-04-06T13:58:09Z Hematocrit [Volume Fraction] of Blood by Automated count: 40.9 %

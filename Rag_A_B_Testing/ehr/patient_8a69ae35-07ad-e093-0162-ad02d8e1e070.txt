@@ -1,0 +1,88 @@
+== PATIENT RECORD: Dorsey40 Klein929 (ID: 8a69ae35-07ad-e093-0162-ad02d8e1e070) ==
+
+== Demographics ==
+Patient ID: 8a69ae35-07ad-e093-0162-ad02d8e1e070
+Name: Dorsey40 Klein929
+Gender: M
+Birthdate: 2000-05-05
+Address: 776 Abbott Gateway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Child attention deficit disorder
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Full-time employment (finding)
+- Stress (finding)
+
+== Current Medications ==
+- atomoxetine 100 MG Oral Capsule
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-05-25T18:32:35Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-25T18:32:35Z)
+- Depression screening (procedure) (Date: 2012-05-25T18:52:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-25T19:06:50Z)
+- Assessment of substance use (procedure) (Date: 2012-05-25T19:32:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-05-25T19:42:50Z)
+- Anticipatory guidance (procedure) (Date: 2012-05-25T19:56:01Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-31T18:32:35Z)
+- Depression screening (procedure) (Date: 2013-05-31T18:55:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-31T19:09:17Z)
+- Assessment of substance use (procedure) (Date: 2013-05-31T19:29:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-31T19:43:49Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-31T20:06:49Z)
+- Depression screening (procedure) (Date: 2014-06-06T18:32:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-06-06T18:44:30Z)
+- Depression screening (procedure) (Date: 2015-06-12T18:32:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-12T18:44:22Z)
+- Assessment of substance use (procedure) (Date: 2015-06-12T19:07:32Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-12T19:18:19Z)
+- Health risks education (procedure) (Date: 2015-06-12T19:31:02Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-17T18:32:35Z)
+- Depression screening (procedure) (Date: 2016-06-17T19:01:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-17T19:14:49Z)
+- Assessment of substance use (procedure) (Date: 2016-06-17T19:38:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-17T19:49:33Z)
+- Anticipatory guidance (procedure) (Date: 2016-06-17T20:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-23T18:32:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-23T18:32:35Z)
+- Assessment of substance use (procedure) (Date: 2017-06-23T18:54:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-06-23T19:07:48Z)
+- Health risks education (procedure) (Date: 2017-06-23T19:24:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-29T18:32:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-29T19:07:28Z)
+- Depression screening (procedure) (Date: 2018-06-29T19:24:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-29T19:38:20Z)
+- Assessment of substance use (procedure) (Date: 2018-06-29T20:05:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-29T20:16:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-05T18:32:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-05T18:32:35Z)
+- Assessment of substance use (procedure) (Date: 2019-07-05T19:29:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-07-05T19:43:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-04-26T12:32:35Z: Encounter for symptom
+- 2019-07-05T18:32:35Z: General examination of patient (procedure)
+- 2018-06-29T18:32:35Z: General examination of patient (procedure)
+- 2017-07-14T21:32:35Z: Encounter for symptom
+- 2017-06-23T18:32:35Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-05T18:32:35Z QOLS: 1.0 {score}
+- 2021-05-05T18:32:35Z DALY: 0.4 a
+- 2021-05-05T18:32:35Z QALY: 19.6 a
+- 2020-05-05T18:32:35Z QOLS: 1.0 {score}
+- 2020-05-05T18:32:35Z DALY: 0.4 a
+- 2020-05-05T18:32:35Z QALY: 18.6 a
+- 2019-07-05T20:04:34Z Total score [AUDIT-C]: 2.0 {score}
+- 2019-07-05T19:29:25Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2019-07-05T19:29:25Z What is your main insurance?: Private insurance nan
+- 2019-07-05T19:29:25Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 53311 /a

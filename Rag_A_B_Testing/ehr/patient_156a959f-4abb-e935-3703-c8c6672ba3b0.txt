@@ -1,0 +1,165 @@
+== PATIENT RECORD: Craig656 Pfeffer420 (ID: 156a959f-4abb-e935-3703-c8c6672ba3b0) ==
+
+== Demographics ==
+Patient ID: 156a959f-4abb-e935-3703-c8c6672ba3b0
+Name: Craig656 Pfeffer420
+Gender: M
+Birthdate: 1942-03-08
+Address: 1011 Graham Plaza
+Marital Status: M
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Familial Alzheimer's disease of early onset (disorder)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Sepsis (disorder)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1989-10-15T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 1989-10-15T11:09:45Z)
+- Assessment of anxiety (procedure) (Date: 1989-10-15T11:58:12Z)
+- Depression screening (procedure) (Date: 1989-10-15T12:24:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-10-15T12:38:27Z)
+- Assessment of substance use (procedure) (Date: 1989-10-15T13:03:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-10-15T13:16:05Z)
+- Allergy screening test (Date: 1990-01-07T11:09:45Z)
+- Subcutaneous immunotherapy (Date: 1990-01-29T11:34:28Z)
+- Subcutaneous immunotherapy (Date: 1990-02-21T12:08:42Z)
+- Subcutaneous immunotherapy (Date: 1990-03-18T13:06:16Z)
+- Subcutaneous immunotherapy (Date: 1990-04-11T13:36:29Z)
+- Subcutaneous immunotherapy (Date: 1990-05-02T14:33:37Z)
+- Subcutaneous immunotherapy (Date: 1990-05-28T15:27:02Z)
+- Subcutaneous immunotherapy (Date: 1990-06-23T16:24:15Z)
+- Subcutaneous immunotherapy (Date: 1990-07-15T16:44:20Z)
+- Subcutaneous immunotherapy (Date: 1990-08-08T17:09:17Z)
+- Subcutaneous immunotherapy (Date: 1990-09-02T17:34:27Z)
+- Subcutaneous immunotherapy (Date: 1990-09-29T18:01:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-10-21T11:09:45Z)
+- Assessment of substance use (procedure) (Date: 1990-10-21T12:02:50Z)
+- Screening for drug abuse (procedure) (Date: 1990-10-21T12:14:11Z)
+- Subcutaneous immunotherapy (Date: 1990-10-22T18:58:27Z)
+- Subcutaneous immunotherapy (Date: 1990-11-14T19:17:37Z)
+- Subcutaneous immunotherapy (Date: 1990-12-10T20:15:27Z)
+- Subcutaneous immunotherapy (Date: 1990-12-31T20:32:59Z)
+- Subcutaneous immunotherapy (Date: 1991-01-26T21:02:08Z)
+- Subcutaneous immunotherapy (Date: 1991-02-21T21:34:36Z)
+- Subcutaneous immunotherapy (Date: 1991-03-18T21:49:57Z)
+- Subcutaneous immunotherapy (Date: 1991-04-10T22:10:06Z)
+- Subcutaneous immunotherapy (Date: 1991-05-04T22:41:38Z)
+- Subcutaneous immunotherapy (Date: 1991-05-28T23:34:48Z)
+- Subcutaneous immunotherapy (Date: 1991-06-25T00:08:04Z)
+- Subcutaneous immunotherapy (Date: 1991-07-22T00:35:01Z)
+- Subcutaneous immunotherapy (Date: 1991-08-12T00:59:47Z)
+- Subcutaneous immunotherapy (Date: 1991-09-07T01:33:41Z)
+- Subcutaneous immunotherapy (Date: 1991-09-28T02:21:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-10-27T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 1991-10-27T11:09:45Z)
+- Subcutaneous immunotherapy (Date: 1991-10-25T03:01:15Z)
+- Depression screening (procedure) (Date: 1991-10-27T11:54:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-10-27T12:09:21Z)
+- Assessment of substance use (procedure) (Date: 1991-10-27T12:32:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1991-10-27T12:46:17Z)
+- Subcutaneous immunotherapy (Date: 1991-11-17T03:52:30Z)
+- Subcutaneous immunotherapy (Date: 1991-12-11T04:24:21Z)
+- Subcutaneous immunotherapy (Date: 1992-01-04T05:17:40Z)
+- Subcutaneous immunotherapy (Date: 1992-01-29T05:33:55Z)
+- Subcutaneous immunotherapy (Date: 1992-02-20T06:12:43Z)
+- Colonoscopy (Date: 1992-03-08T11:09:45Z)
+- Subcutaneous immunotherapy (Date: 1992-03-17T06:35:30Z)
+- Subcutaneous immunotherapy (Date: 1992-04-09T07:05:41Z)
+- Subcutaneous immunotherapy (Date: 1992-05-02T07:25:10Z)
+- Subcutaneous immunotherapy (Date: 1992-05-23T08:08:11Z)
+- Subcutaneous immunotherapy (Date: 1992-06-18T08:51:09Z)
+- Subcutaneous immunotherapy (Date: 1992-07-11T09:36:21Z)
+- Subcutaneous immunotherapy (Date: 1992-08-03T10:16:08Z)
+- Subcutaneous immunotherapy (Date: 1992-08-30T11:05:13Z)
+- Subcutaneous immunotherapy (Date: 1992-09-23T11:50:02Z)
+- Subcutaneous immunotherapy (Date: 1992-10-15T12:15:18Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-11-01T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 1992-11-01T11:09:45Z)
+- Screening for domestic abuse (procedure) (Date: 1992-11-01T11:40:34Z)
+- Depression screening (procedure) (Date: 1992-11-01T12:12:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-11-01T12:26:58Z)
+- Subcutaneous immunotherapy (Date: 1992-11-05T12:36:49Z)
+- Subcutaneous immunotherapy (Date: 1992-11-30T12:55:40Z)
+- Subcutaneous immunotherapy (Date: 1992-12-23T13:51:16Z)
+- Subcutaneous immunotherapy (Date: 1993-01-19T14:44:32Z)
+- Subcutaneous immunotherapy (Date: 1993-02-14T15:11:41Z)
+- Subcutaneous immunotherapy (Date: 1993-03-07T15:42:43Z)
+- Subcutaneous immunotherapy (Date: 1993-04-01T16:33:45Z)
+- Subcutaneous immunotherapy (Date: 1993-04-26T17:02:21Z)
+- Subcutaneous immunotherapy (Date: 1993-05-20T17:51:24Z)
+- Subcutaneous immunotherapy (Date: 1993-06-16T18:27:44Z)
+- Subcutaneous immunotherapy (Date: 1993-07-13T19:09:46Z)
+- Subcutaneous immunotherapy (Date: 1993-08-05T19:56:56Z)
+- Subcutaneous immunotherapy (Date: 1993-08-31T20:39:56Z)
+- Subcutaneous immunotherapy (Date: 1993-09-25T21:36:20Z)
+- Subcutaneous immunotherapy (Date: 1993-10-18T21:52:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-11-07T11:09:45Z)
+- Depression screening (procedure) (Date: 1993-11-07T11:40:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-11-07T11:50:48Z)
+- Subcutaneous immunotherapy (Date: 1993-11-11T22:30:42Z)
+- Subcutaneous immunotherapy (Date: 1993-12-05T23:15:01Z)
+- Subcutaneous immunotherapy (Date: 1994-01-01T23:45:24Z)
+- Allergy screening test (Date: 1994-01-26T00:00:50Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-11-13T11:09:45Z)
+- Depression screening (procedure) (Date: 1994-11-13T12:02:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-11-13T12:16:03Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-11-19T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 1995-11-19T11:09:45Z)
+- Depression screening (procedure) (Date: 1995-11-19T11:53:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-11-19T12:05:47Z)
+- Assessment of substance use (procedure) (Date: 1995-11-19T12:26:52Z)
+- Screening for drug abuse (procedure) (Date: 1995-11-19T12:39:35Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-11-24T11:09:45Z)
+- Depression screening (procedure) (Date: 1996-11-24T12:00:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-11-24T12:12:37Z)
+- Assessment of substance use (procedure) (Date: 1996-11-24T12:38:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-11-24T12:51:26Z)
+- Colonoscopy (Date: 1997-03-08T11:43:31Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-11-30T11:09:45Z)
+- Depression screening (procedure) (Date: 1997-11-30T12:06:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-11-30T12:20:06Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-12-06T11:09:45Z)
+- Medication Reconciliation (procedure) (Date: 1998-12-06T11:09:45Z)
+- Depression screening (procedure) (Date: 1998-12-06T11:51:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-12-06T12:05:28Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 1999-02-04T11:09:45Z)
+- Transfer to stepdown unit (procedure) (Date: 1999-02-04T11:39:45Z)
+
+== Recent Encounters (Last 5) ==
+- 1999-06-20T11:09:45Z: Death Certification
+- 1999-02-04T11:09:45Z: Encounter for problem
+- 1998-12-06T11:09:45Z: General examination of patient (procedure)
+- 1998-02-21T11:09:45Z: Office Visit
+- 1997-11-30T11:09:45Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1999-06-20T11:09:45Z Cause of Death [US Standard Certificate of Death]: Familial Alzheimer's disease of early onset (disorder) nan
+- 1999-02-04T11:39:45Z Mean blood pressure: 75.4 mm[Hg]
+- 1999-02-04T11:09:45Z Lactate [Mass/volume] in Blood: 1.3 mmol/L
+- 1999-02-04T11:09:45Z Oxygen Saturation: 95.0 %
+- 1999-02-04T11:09:45Z Capillary refill [Time] of Nail bed: Increased capillary filling time (finding) nan
+- 1999-02-04T11:09:45Z Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value) nan
+- 1998-12-06T12:27:50Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 1998-12-06T11:51:31Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 1998-12-06T11:51:31Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan
+- 1998-12-06T11:51:31Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

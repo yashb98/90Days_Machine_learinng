@@ -1,0 +1,107 @@
+== PATIENT RECORD: Dino214 Huel628 (ID: f8d9fe9e-f635-5340-41cc-935771d6dec0) ==
+
+== Demographics ==
+Patient ID: f8d9fe9e-f635-5340-41cc-935771d6dec0
+Name: Dino214 Huel628
+Gender: M
+Birthdate: 2001-12-05
+Address: 920 Durgan Ville
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Fracture of clavicle
+- Child attention deficit disorder
+- Viral sinusitis (disorder)
+- Sprain of ankle
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- atomoxetine 100 MG Oral Capsule
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-14T18:59:58Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-19T18:59:58Z)
+- Depression screening (procedure) (Date: 2013-12-25T18:59:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-12-25T19:13:05Z)
+- Assessment of substance use (procedure) (Date: 2013-12-25T19:37:44Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-12-25T19:47:54Z)
+- Anticipatory guidance (procedure) (Date: 2013-12-25T20:04:03Z)
+- Clavicle X-ray (Date: 2014-09-28T18:59:58Z)
+- Admission to orthopedic department (Date: 2014-09-28T18:59:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-31T18:59:58Z)
+- Depression screening (procedure) (Date: 2014-12-31T19:22:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-12-31T19:34:58Z)
+- Assessment of substance use (procedure) (Date: 2014-12-31T19:57:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-12-31T20:08:11Z)
+- Anticipatory guidance (procedure) (Date: 2014-12-31T20:19:00Z)
+- Cognitive and behavioral therapy (Date: 2015-03-31T18:59:58Z)
+- Cognitive and behavioral therapy (Date: 2015-05-06T19:59:58Z)
+- Cognitive and behavioral therapy (Date: 2015-06-06T20:59:58Z)
+- Cognitive and behavioral therapy (Date: 2015-07-13T21:59:58Z)
+- Cognitive and behavioral therapy (Date: 2015-08-17T22:59:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-06T18:59:58Z)
+- Depression screening (procedure) (Date: 2016-01-06T19:15:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-01-06T19:27:56Z)
+- Assessment of substance use (procedure) (Date: 2016-01-06T19:51:25Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-01-06T20:01:45Z)
+- Anticipatory guidance (procedure) (Date: 2016-01-06T20:23:25Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-11T18:59:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-11T18:59:58Z)
+- Depression screening (procedure) (Date: 2017-01-11T19:21:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-01-11T19:33:55Z)
+- Assessment of substance use (procedure) (Date: 2017-01-11T20:00:53Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-01-11T20:11:49Z)
+- Anticipatory guidance (procedure) (Date: 2017-01-11T20:23:52Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-17T18:59:58Z)
+- Depression screening (procedure) (Date: 2018-01-17T19:18:54Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-01-17T19:32:11Z)
+- Assessment of substance use (procedure) (Date: 2018-01-17T19:59:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-01-17T20:09:04Z)
+- Health risks education (procedure) (Date: 2018-01-17T20:28:42Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-23T18:59:58Z)
+- Depression screening (procedure) (Date: 2019-01-23T19:17:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-23T19:29:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-29T18:59:58Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-29T18:59:58Z)
+- Depression screening (procedure) (Date: 2020-01-29T19:31:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-29T19:43:42Z)
+- Assessment of substance use (procedure) (Date: 2020-01-29T20:11:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-29T20:22:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-03T18:59:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-03T18:59:58Z)
+- Depression screening (procedure) (Date: 2021-02-03T19:31:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-03T19:46:33Z)
+- Assessment of substance use (procedure) (Date: 2021-02-03T20:11:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-02-03T20:26:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-18T18:59:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-21T18:59:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-03T18:59:58Z: General examination of patient (procedure)
+- 2020-01-29T18:59:58Z: General examination of patient (procedure)
+- 2019-01-23T18:59:58Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-03T20:50:13Z Total score [AUDIT-C]: 9.0 {score}
+- 2021-02-03T20:11:57Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-03T19:31:57Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-02-03T19:31:57Z What is your housing situation today?: I have housing nan
+- 2021-02-03T19:31:57Z Are you a refugee?: No nan
+- 2021-02-03T19:31:57Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-02-03T19:31:57Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-02-03T19:31:57Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week nan
+- 2021-02-03T19:31:57Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-02-03T19:31:57Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan

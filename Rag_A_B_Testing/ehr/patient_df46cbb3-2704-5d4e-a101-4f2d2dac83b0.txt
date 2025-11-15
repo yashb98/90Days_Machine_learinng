@@ -1,0 +1,140 @@
+== PATIENT RECORD: Odell776 O'Kon634 (ID: df46cbb3-2704-5d4e-a101-4f2d2dac83b0) ==
+
+== Demographics ==
+Patient ID: df46cbb3-2704-5d4e-a101-4f2d2dac83b0
+Name: Odell776 O'Kon634
+Gender: M
+Birthdate: 1947-07-19
+Address: 249 Sauer Flat
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Social isolation (finding)
+- Polyp of colon
+- Osteoporosis (disorder)
+- Fracture of forearm
+- Pathological fracture due to osteoporosis (disorder)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Limited social contact (finding)
+- Hyperlipidemia
+- Stroke
+
+== Current Medications ==
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Simvastatin 10 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-13T14:30:17Z)
+- Depression screening (procedure) (Date: 2012-10-13T15:19:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-13T15:31:58Z)
+- Assessment of substance use (procedure) (Date: 2012-10-13T15:56:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-13T16:10:46Z)
+- Upper arm X-ray (Date: 2013-07-31T17:53:17Z)
+- Bone immobilization (Date: 2013-07-31T17:53:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-19T14:30:17Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-19T14:30:17Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-19T15:13:14Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-19T15:30:00Z)
+- Depression screening (procedure) (Date: 2013-10-19T16:10:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-19T16:21:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-04T14:30:17Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-04T14:30:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-01-04T15:30:16Z)
+- Depression screening (procedure) (Date: 2014-01-04T15:45:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-04T15:59:22Z)
+- Assessment of substance use (procedure) (Date: 2014-01-04T16:28:39Z)
+- Screening for drug abuse (procedure) (Date: 2014-01-04T16:41:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-06T14:30:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T15:29:01Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T16:16:40Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T17:12:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T18:00:22Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T18:55:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T19:43:25Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T20:30:52Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T21:16:39Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T22:03:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-25T14:30:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-10-25T15:05:11Z)
+- Depression screening (procedure) (Date: 2014-10-25T15:32:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-25T15:46:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-31T14:30:17Z)
+- Depression screening (procedure) (Date: 2015-10-31T15:00:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-31T15:11:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-05T14:30:17Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-05T14:30:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-11-05T15:07:52Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-05T15:37:13Z)
+- Depression screening (procedure) (Date: 2016-11-05T16:17:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-05T16:27:44Z)
+- Assessment of substance use (procedure) (Date: 2016-11-05T16:50:58Z)
+- Screening for drug abuse (procedure) (Date: 2016-11-05T17:01:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-11T14:30:17Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-11T15:09:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-11-11T15:37:26Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-11T16:01:40Z)
+- Depression screening (procedure) (Date: 2017-11-11T16:43:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-11T16:53:54Z)
+- Assessment of substance use (procedure) (Date: 2017-11-11T17:16:14Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-11T17:28:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-17T14:30:17Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-17T15:26:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-11-17T15:47:32Z)
+- Assessment of substance use (procedure) (Date: 2018-11-17T16:08:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-17T16:20:08Z)
+- Echocardiography (procedure) (Date: 2019-09-14T14:30:17Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2019-09-14T14:30:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-23T14:30:17Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-23T14:30:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-11-23T15:26:29Z)
+- Depression screening (procedure) (Date: 2019-11-23T15:47:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-23T15:58:50Z)
+- Assessment of substance use (procedure) (Date: 2019-11-23T16:26:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-23T16:37:56Z)
+- Upper arm X-ray (Date: 2020-07-21T18:25:56Z)
+- Bone immobilization (Date: 2020-07-21T18:25:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-28T14:30:17Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-28T15:18:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-11-28T15:40:46Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-28T16:04:33Z)
+- Depression screening (procedure) (Date: 2020-11-28T16:47:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-28T17:02:35Z)
+- Assessment of substance use (procedure) (Date: 2020-11-28T17:31:26Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-28T17:45:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-08T14:30:17Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-07T14:30:17Z: Follow-up encounter
+- 2020-11-28T14:30:17Z: General examination of patient (procedure)
+- 2020-08-31T19:05:06Z: Encounter for 'check-up'
+- 2020-07-21T18:25:56Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-19T14:30:17Z QOLS: 1.0 {score}
+- 2021-07-19T14:30:17Z QALY: 71.2 a
+- 2021-07-19T14:30:17Z DALY: 1.8 a
+- 2020-12-07T14:30:17Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- 2020-12-07T14:30:17Z Globulin [Mass/volume] in Serum by calculation: 2.9 g/L
+- 2020-12-07T14:30:17Z Albumin [Mass/volume] in Serum or Plasma: 4.9 g/dL
+- 2020-12-07T14:30:17Z Protein [Mass/volume] in Serum or Plasma: 65.4 g/dL
+- 2020-12-07T14:30:17Z Glomerular filtration rate/1.73 sq M.predicted: 73.3 mL/min
+- 2020-12-07T14:30:17Z Carbon Dioxide: 24.5 mmol/L
+- 2020-12-07T14:30:17Z Chloride: 105.7 mmol/L

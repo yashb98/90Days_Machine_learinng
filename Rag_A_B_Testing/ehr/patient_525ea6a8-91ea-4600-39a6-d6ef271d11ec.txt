@@ -1,0 +1,52 @@
+== PATIENT RECORD: Antione404 Hamill307 (ID: 525ea6a8-91ea-4600-39a6-d6ef271d11ec) ==
+
+== Demographics ==
+Patient ID: 525ea6a8-91ea-4600-39a6-d6ef271d11ec
+Name: Antione404 Hamill307
+Gender: M
+Birthdate: 2010-10-27
+Address: 596 Legros Path Apt 63
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-04T13:29:45Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-04T13:29:45Z)
+- X-ray or wrist (Date: 2012-09-28T13:29:45Z)
+- Bone immobilization (Date: 2012-09-28T13:29:45Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-07T13:29:45Z)
+- Sputum examination (procedure) (Date: 2016-03-31T23:29:45Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-12T13:29:45Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-18T13:29:45Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-04T13:29:45Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-10T13:29:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T13:29:45Z: Well child visit (procedure)
+- 2020-11-04T13:29:45Z: Well child visit (procedure)
+- 2020-03-31T01:29:45Z: Encounter for symptom
+- 2019-10-30T13:29:45Z: Well child visit (procedure)
+- 2018-10-24T13:29:45Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-10T13:29:45Z Body Mass Index: 17.8 kg/m2
+- 2021-11-10T13:29:45Z Body mass index (BMI) [Percentile] Per age and gender: 60.2 %
+- 2021-11-10T13:29:45Z Respiratory rate: 15.0 /min
+- 2021-11-10T13:29:45Z Leukocytes [#/volume] in Blood by Automated count: 7.7 10*3/uL
+- 2021-11-10T13:29:45Z Erythrocytes [#/volume] in Blood by Automated count: 5.0 10*6/uL
+- 2021-11-10T13:29:45Z Hemoglobin [Mass/volume] in Blood: 12.3 g/dL
+- 2021-11-10T13:29:45Z Hematocrit [Volume Fraction] of Blood by Automated count: 38.7 %
+- 2021-11-10T13:29:45Z MCV [Entitic volume] by Automated count: 86.9 fL
+- 2021-11-10T13:29:45Z MCH [Entitic mass] by Automated count: 27.6 pg
+- 2021-11-10T13:29:45Z MCHC [Mass/volume] by Automated count: 35.0 g/dL

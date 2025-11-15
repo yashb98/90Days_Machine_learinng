@@ -1,0 +1,105 @@
+== PATIENT RECORD: Jessia669 Wisoky380 (ID: 961f61f8-ed32-f113-8450-192064b49aa9) ==
+
+== Demographics ==
+Patient ID: 961f61f8-ed32-f113-8450-192064b49aa9
+Name: Jessia669 Wisoky380
+Gender: F
+Birthdate: 2002-06-13
+Address: 106 Kerluke Rest Apt 5
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Injury of tendon of the rotator cuff of shoulder
+- Streptococcal sore throat (disorder)
+- Hypertension
+- Received higher education (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Misuses drugs (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Seasonique 91 Day Pack
+- Penicillin V Potassium 250 MG Oral Tablet
+- Kyleena 19.5 MG Intrauterine System
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-21T22:45:42Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-03T22:45:42Z)
+- Depression screening (procedure) (Date: 2014-07-03T23:07:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-03T23:18:05Z)
+- Assessment of substance use (procedure) (Date: 2014-07-03T23:38:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-03T23:49:29Z)
+- Health risks education (procedure) (Date: 2014-07-04T00:16:59Z)
+- Throat culture (procedure) (Date: 2014-12-04T05:45:42Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-09T22:45:42Z)
+- Depression screening (procedure) (Date: 2015-07-09T23:08:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-07-09T23:22:14Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-14T22:45:42Z)
+- Depression screening (procedure) (Date: 2016-07-14T23:06:54Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-07-14T23:17:06Z)
+- Assessment of substance use (procedure) (Date: 2016-07-14T23:45:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-07-15T00:00:20Z)
+- Anticipatory guidance (procedure) (Date: 2016-07-15T00:22:26Z)
+- Measurement of respiratory function (procedure) (Date: 2017-01-28T14:45:42Z)
+- Assessment of substance use (procedure) (Date: 2017-02-02T22:45:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-02T22:45:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-02-02T22:55:46Z)
+- Health risks education (procedure) (Date: 2017-02-02T23:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-20T22:45:42Z)
+- Depression screening (procedure) (Date: 2017-07-20T23:12:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-07-20T23:26:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-26T22:45:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-26T22:45:42Z)
+- Throat culture (procedure) (Date: 2019-01-27T00:45:42Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-01T22:45:42Z)
+- Depression screening (procedure) (Date: 2019-08-01T23:05:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-01T23:19:16Z)
+- Assessment of substance use (procedure) (Date: 2019-08-01T23:41:35Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-01T23:55:52Z)
+- Health risks education (procedure) (Date: 2019-08-02T00:10:43Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-05-26T04:45:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-06T22:45:42Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-06T22:45:42Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-06T23:26:40Z)
+- Assessment of substance use (procedure) (Date: 2020-08-06T23:53:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-07T00:07:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-12T22:45:42Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-12T22:45:42Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-12T23:43:55Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-13T00:07:52Z)
+- Depression screening (procedure) (Date: 2021-08-13T00:34:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-13T00:46:05Z)
+- Assessment of substance use (procedure) (Date: 2021-08-13T01:14:42Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-13T01:29:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-12T22:45:42Z: General examination of patient (procedure)
+- 2021-05-21T05:34:46Z: Consultation for treatment
+- 2021-05-13T22:45:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-22T22:45:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-03T22:45:42Z: Hypertension follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-08-13T01:52:03Z Total score [DAST-10]: 10.0 {score}
+- 2021-08-13T01:14:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-13T00:34:21Z Total score [HARK]: 0.0 {score}
+- 2021-08-13T00:07:52Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-08-12T23:43:55Z What is your current work situation?: Full-time work nan
+- 2021-08-12T23:43:55Z What is your main insurance?: Private insurance nan
+- 2021-08-12T23:43:55Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 723349 /a
+- 2021-08-12T23:43:55Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-08-12T23:43:55Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-08-12T23:43:55Z What is the highest level of school that you have finished?: More than high school nan

@@ -1,0 +1,131 @@
+== PATIENT RECORD: Ralph813 Kuhlman484 (ID: 0142b69f-57f0-9a08-4e2d-65a2b77fdea7) ==
+
+== Demographics ==
+Patient ID: 0142b69f-57f0-9a08-4e2d-65a2b77fdea7
+Name: Ralph813 Kuhlman484
+Gender: M
+Birthdate: 1926-11-12
+Address: 492 Prosacco Dale Apt 7
+Marital Status: M
+
+== Allergies ==
+- Animal dander (substance)
+- Sulfamethoxazole / Trimethoprim
+- Aspirin
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Served in armed forces (finding)
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Diabetes
+- Anemia (disorder)
+- Hypertension
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Metastasis from malignant tumor of prostate (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1981-12-11T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 1981-12-11T10:42:42Z)
+- Screening for domestic abuse (procedure) (Date: 1981-12-11T11:29:06Z)
+- Assessment of substance use (procedure) (Date: 1981-12-11T11:56:51Z)
+- Screening for drug abuse (procedure) (Date: 1981-12-11T12:09:33Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-12-17T10:42:42Z)
+- Assessment of anxiety (procedure) (Date: 1982-12-17T11:38:58Z)
+- Depression screening (procedure) (Date: 1982-12-17T12:07:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-12-17T12:21:35Z)
+- Assessment of substance use (procedure) (Date: 1982-12-17T12:41:41Z)
+- Screening for drug abuse (procedure) (Date: 1982-12-17T12:53:16Z)
+- Colonoscopy (Date: 1983-01-08T11:50:54Z)
+- Measurement of respiratory function (procedure) (Date: 1983-04-03T15:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-04-22T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 1983-04-22T10:42:42Z)
+- Assessment of anxiety (procedure) (Date: 1983-04-22T11:30:41Z)
+- Depression screening (procedure) (Date: 1983-04-22T11:53:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-04-22T12:06:45Z)
+- Assessment of substance use (procedure) (Date: 1983-04-22T12:30:49Z)
+- Screening for drug abuse (procedure) (Date: 1983-04-22T12:44:24Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-12-23T10:42:42Z)
+- Depression screening (procedure) (Date: 1983-12-23T11:12:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-12-23T11:27:11Z)
+- Assessment of substance use (procedure) (Date: 1983-12-23T11:55:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1983-12-23T12:07:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-12-28T10:42:42Z)
+- Assessment of anxiety (procedure) (Date: 1984-12-28T11:12:47Z)
+- Depression screening (procedure) (Date: 1984-12-28T11:32:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-12-28T11:43:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-01-03T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 1986-01-03T10:42:42Z)
+- Screening for domestic abuse (procedure) (Date: 1986-01-03T11:27:46Z)
+- Depression screening (procedure) (Date: 1986-01-03T11:59:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-01-03T12:11:41Z)
+- Assessment of substance use (procedure) (Date: 1986-01-03T12:35:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1986-01-03T12:48:41Z)
+- Digital examination of rectum (Date: 1987-01-09T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-01-09T10:42:42Z)
+- Assessment of anxiety (procedure) (Date: 1987-01-09T11:28:27Z)
+- Screening for domestic abuse (procedure) (Date: 1987-01-09T11:47:50Z)
+- Digital examination of rectum (Date: 1988-01-09T10:46:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-01-15T10:42:42Z)
+- Colonoscopy (Date: 1988-01-08T12:17:24Z)
+- Depression screening (procedure) (Date: 1988-01-15T11:27:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-01-15T11:40:46Z)
+- Assessment of substance use (procedure) (Date: 1988-01-15T12:06:27Z)
+- Screening for drug abuse (procedure) (Date: 1988-01-15T12:20:01Z)
+- Digital examination of rectum (Date: 1989-01-20T10:42:42Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-01-20T10:42:42Z)
+- Biopsy of prostate (Date: 1989-01-20T10:45:41Z)
+- Prostatectomy (Date: 1989-01-20T11:15:41Z)
+- Screening for domestic abuse (procedure) (Date: 1989-01-20T11:41:01Z)
+- Depression screening (procedure) (Date: 1989-01-20T12:18:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-01-20T12:30:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1989-01-20T12:59:35Z)
+- Assessment of substance use (procedure) (Date: 1989-01-20T13:27:34Z)
+- Screening for drug abuse (procedure) (Date: 1989-01-20T13:40:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-01-26T10:42:42Z)
+- Medication Reconciliation (procedure) (Date: 1990-01-26T10:42:42Z)
+- Assessment of anxiety (procedure) (Date: 1990-01-26T11:19:31Z)
+- Depression screening (procedure) (Date: 1990-01-26T11:35:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-01-26T11:50:44Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-02-01T10:42:42Z)
+- Assessment of substance use (procedure) (Date: 1991-02-01T11:19:16Z)
+- Screening for drug abuse (procedure) (Date: 1991-02-01T11:31:46Z)
+
+== Recent Encounters (Last 5) ==
+- 1991-06-21T10:42:42Z: Death Certification
+- 1991-02-01T10:42:42Z: General examination of patient (procedure)
+- 1990-01-26T10:42:42Z: General examination of patient (procedure)
+- 1990-01-05T10:42:42Z: Allergic disorder initial assessment
+- 1989-04-20T17:12:41Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 1991-06-21T10:42:42Z Cause of Death [US Standard Certificate of Death]: Neoplasm of prostate nan
+- 1991-02-01T12:00:35Z Total score [DAST-10]: 0.0 {score}
+- 1991-02-01T11:19:16Z What is your current work situation?: Part-time or temporary work nan
+- 1991-02-01T11:19:16Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1991-02-01T11:19:16Z Do you feel physically and emotionally safe where you currently live?: No nan
+- 1991-02-01T11:19:16Z Are you a refugee?: No nan
+- 1991-02-01T11:19:16Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1991-02-01T11:19:16Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 1991-02-01T11:19:16Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 1991-02-01T11:19:16Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan

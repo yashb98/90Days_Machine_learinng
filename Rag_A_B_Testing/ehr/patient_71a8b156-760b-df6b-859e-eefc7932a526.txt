@@ -1,0 +1,52 @@
+== PATIENT RECORD: Adriana394 Hintz995 (ID: 71a8b156-760b-df6b-859e-eefc7932a526) ==
+
+== Demographics ==
+Patient ID: 71a8b156-760b-df6b-859e-eefc7932a526
+Name: Adriana394 Hintz995
+Gender: F
+Birthdate: 2014-11-15
+Address: 455 Bayer Rapid Suite 75
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Laceration of forearm
+- Otitis media
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-12-20T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-25T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-24T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-23T09:49:18Z)
+- Suture open wound (Date: 2017-01-11T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-21T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-26T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-31T09:49:18Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-06T09:49:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T09:49:18Z: Well child visit (procedure)
+- 2020-10-31T09:49:18Z: Well child visit (procedure)
+- 2020-07-16T09:49:18Z: Encounter for symptom
+- 2019-10-26T09:49:18Z: Well child visit (procedure)
+- 2018-10-20T09:49:18Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T09:49:18Z QOLS: 1.0 {score}
+- 2021-11-15T09:49:18Z DALY: 0.0 a
+- 2021-11-15T09:49:18Z QALY: 6.0 a
+- 2021-11-06T09:49:18Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-06T09:49:18Z Body Height: 127.4 cm
+- 2021-11-06T09:49:18Z Body Weight: 34.8 kg
+- 2021-11-06T09:49:18Z Body Mass Index: 21.5 kg/m2
+- 2021-11-06T09:49:18Z Body mass index (BMI) [Percentile] Per age and gender: 97.9 %
+- 2021-11-06T09:49:18Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-11-06T09:49:18Z Systolic Blood Pressure: 105.0 mm[Hg]

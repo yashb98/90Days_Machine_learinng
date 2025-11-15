@@ -1,0 +1,49 @@
+== PATIENT RECORD: Jackie93 Cummerata161 (ID: 56e2acb9-efb3-f7b5-39bd-c2a1f860e553) ==
+
+== Demographics ==
+Patient ID: 56e2acb9-efb3-f7b5-39bd-c2a1f860e553
+Name: Jackie93 Cummerata161
+Gender: M
+Birthdate: 2009-11-15
+Address: 947 Runolfsdottir Lane Suite 21
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-23T04:00:00Z)
+- Throat culture (procedure) (Date: 2013-08-01T12:00:00Z)
+- Sputum examination (procedure) (Date: 2017-07-09T08:00:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-19T04:00:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-11-30T04:00:00Z: Well child visit (procedure)
+- 2019-11-25T04:00:00Z: Well child visit (procedure)
+- 2019-11-03T03:00:00Z: Encounter for symptom
+- 2018-11-19T04:00:00Z: Well child visit (procedure)
+- 2017-11-13T04:00:00Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-16T04:00:00Z QOLS: 1.0 {score}
+- 2021-11-16T04:00:00Z DALY: 0.0 a
+- 2021-11-16T04:00:00Z QALY: 11.0 a
+- 2020-11-30T04:00:00Z Leukocytes [#/volume] in Blood by Automated count: 5.6 10*3/uL
+- 2020-11-30T04:00:00Z Erythrocyte distribution width [Entitic volume] by Automated count: 39.0 fL
+- 2020-11-30T04:00:00Z MCHC [Mass/volume] by Automated count: 35.5 g/dL
+- 2020-11-30T04:00:00Z MCH [Entitic mass] by Automated count: 28.1 pg
+- 2020-11-30T04:00:00Z MCV [Entitic volume] by Automated count: 87.8 fL
+- 2020-11-30T04:00:00Z Hematocrit [Volume Fraction] of Blood by Automated count: 40.8 %
+- 2020-11-30T04:00:00Z Hemoglobin [Mass/volume] in Blood: 13.1 g/dL

@@ -1,0 +1,126 @@
+== PATIENT RECORD: Susie661 Tromp100 (ID: 70231807-0c38-db06-806e-a73e94bcd591) ==
+
+== Demographics ==
+Patient ID: 70231807-0c38-db06-806e-a73e94bcd591
+Name: Susie661 Tromp100
+Gender: F
+Birthdate: 1937-03-16
+Address: 671 Haley Corner
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Impacted molars
+- Chronic intractable migraine without aura
+- Chronic pain
+- Hyperlipidemia
+- Drug overdose
+- Social isolation (finding)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Severe anxiety (panic) (finding
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-08T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-08T03:44:08Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-08-08T04:09:57Z)
+- Screening for domestic abuse (procedure) (Date: 2012-08-08T04:30:18Z)
+- Depression screening (procedure) (Date: 2012-08-08T05:05:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-08T05:17:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-22T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-22T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-22T04:12:58Z)
+- Depression screening (procedure) (Date: 2012-08-22T04:38:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-22T04:49:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-14T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2013-08-14T04:09:10Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-08-14T04:36:14Z)
+- Depression screening (procedure) (Date: 2013-08-14T04:52:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-14T05:06:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-20T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-20T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-08-20T04:05:38Z)
+- Depression screening (procedure) (Date: 2014-08-20T04:25:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-20T04:37:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-26T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-26T03:59:32Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-08-26T04:25:34Z)
+- Depression screening (procedure) (Date: 2015-08-26T04:55:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-26T05:05:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-31T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-31T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-31T03:55:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-08-31T04:13:45Z)
+- Depression screening (procedure) (Date: 2016-08-31T04:28:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-31T04:40:52Z)
+- Measurement of respiratory function (procedure) (Date: 2017-05-23T03:13:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-31T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-05-31T04:08:47Z)
+- Depression screening (procedure) (Date: 2017-05-31T04:27:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-31T04:39:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-06T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-06T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-09-06T03:45:32Z)
+- Screening for domestic abuse (procedure) (Date: 2017-09-06T04:13:16Z)
+- Depression screening (procedure) (Date: 2017-09-06T04:57:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-06T05:11:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-12T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-12T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-12T03:43:36Z)
+- Depression screening (procedure) (Date: 2018-09-12T03:59:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-12T04:13:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-10T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-10T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-10T03:56:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-18T03:13:14Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-09-18T03:44:12Z)
+- Screening for domestic abuse (procedure) (Date: 2019-09-18T04:07:26Z)
+- Depression screening (procedure) (Date: 2019-09-18T04:34:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-18T04:45:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-23T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-23T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-23T03:45:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-09-23T04:12:06Z)
+- Depression screening (procedure) (Date: 2020-09-23T04:37:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-23T04:47:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-29T03:13:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-29T03:13:14Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-29T03:49:27Z)
+- Depression screening (procedure) (Date: 2021-09-29T04:06:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-29T04:17:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-09-29T04:39:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-29T03:13:14Z: General examination of patient (procedure)
+- 2021-07-17T03:13:14Z: Emergency Room Admission
+- 2021-04-29T03:13:14Z: Follow-up encounter
+- 2021-02-10T03:13:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-28T03:13:14Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-29T05:01:26Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 8.0 {score}
+- 2021-09-29T04:39:53Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2021-09-29T04:06:00Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- 2021-09-29T03:49:27Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-09-29T03:49:27Z What language are you most comfortable speaking?: English nan
+- 2021-09-29T03:49:27Z What is your housing situation today?: I have housing nan
+- 2021-09-29T03:49:27Z Are you worried about losing your housing?: No nan
+- 2021-09-29T03:49:27Z What address do you live at?: 671 Haley Corner nan
+- 2021-09-29T03:49:27Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-09-29T03:49:27Z What is your current work situation?: Part-time or temporary work nan

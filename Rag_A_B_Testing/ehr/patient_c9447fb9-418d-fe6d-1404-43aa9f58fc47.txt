@@ -1,0 +1,108 @@
+== PATIENT RECORD: Pauletta164 Brown30 (ID: c9447fb9-418d-fe6d-1404-43aa9f58fc47) ==
+
+== Demographics ==
+Patient ID: c9447fb9-418d-fe6d-1404-43aa9f58fc47
+Name: Pauletta164 Brown30
+Gender: F
+Birthdate: 2001-09-21
+Address: 838 Stanton Trafficway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Normal pregnancy
+- Hypertension
+- Received higher education (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Body mass index 40+ - severely obese (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Penicillin V Potassium 250 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Natazia 28 Day Pack
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2013-10-01T21:23:21Z)
+- Depression screening (procedure) (Date: 2013-10-11T10:23:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-10-11T10:36:16Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-17T10:23:21Z)
+- Depression screening (procedure) (Date: 2014-10-17T10:47:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-10-17T10:59:12Z)
+- Assessment of substance use (procedure) (Date: 2014-10-17T11:26:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-10-17T11:40:24Z)
+- Anticipatory guidance (procedure) (Date: 2014-10-17T12:06:46Z)
+- Depression screening (procedure) (Date: 2015-10-23T10:23:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-23T10:23:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-23T10:34:52Z)
+- Assessment of substance use (procedure) (Date: 2015-10-23T10:58:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-10-23T11:09:22Z)
+- Anticipatory guidance (procedure) (Date: 2015-10-23T11:35:17Z)
+- Depression screening (procedure) (Date: 2016-10-28T10:23:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-28T10:36:26Z)
+- Assessment of substance use (procedure) (Date: 2016-10-28T10:56:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-28T11:09:03Z)
+- Anticipatory guidance (procedure) (Date: 2016-10-28T11:25:58Z)
+- Assessment of substance use (procedure) (Date: 2017-11-03T10:23:21Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-03T10:23:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-11-03T10:38:16Z)
+- Anticipatory guidance (procedure) (Date: 2017-11-03T11:06:40Z)
+- Standard pregnancy test (Date: 2018-08-24T10:23:21Z)
+- Ultrasound scan for fetal viability (Date: 2018-08-24T10:23:21Z)
+- Counseling for termination of pregnancy (Date: 2018-09-08T10:23:21Z)
+- Induced termination of pregnancy (Date: 2018-09-08T10:23:21Z)
+- RhD passive immunization (Date: 2018-09-19T10:23:21Z)
+- Pregnancy termination care (Date: 2018-09-19T10:23:21Z)
+- Physical exam following abortion (Date: 2018-09-19T10:23:21Z)
+- Depression screening (Date: 2018-09-19T10:23:21Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-09T10:23:21Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-09T10:23:21Z)
+- Depression screening (procedure) (Date: 2018-11-09T10:39:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-09T10:53:12Z)
+- Assessment of substance use (procedure) (Date: 2018-11-09T11:14:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-11-09T11:26:48Z)
+- Anticipatory guidance (procedure) (Date: 2018-11-09T11:45:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-15T10:23:21Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-15T11:06:06Z)
+- Assessment of substance use (procedure) (Date: 2019-11-15T11:25:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-15T11:40:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-20T10:23:21Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-20T10:23:21Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-20T11:19:02Z)
+- Depression screening (procedure) (Date: 2020-11-20T11:57:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-20T12:09:57Z)
+- Assessment of substance use (procedure) (Date: 2020-11-20T12:35:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-11-20T12:48:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-12T10:23:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-15T10:23:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-05T10:23:21Z: Consultation for treatment
+- 2020-11-20T10:23:21Z: General examination of patient (procedure)
+- 2020-09-10T10:23:21Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-09-21T10:23:21Z QOLS: 1.0 {score}
+- 2021-09-21T10:23:21Z DALY: 0.1 a
+- 2021-09-21T10:23:21Z QALY: 18.9 a
+- 2020-11-20T13:10:29Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-11-20T12:35:48Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-11-20T11:57:28Z Total score [HARK]: 2.0 {score}
+- 2020-11-20T11:19:02Z What is your current work situation?: Full-time work nan
+- 2020-11-20T11:19:02Z What is your main insurance?: Private insurance nan
+- 2020-11-20T11:19:02Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 128426 /a
+- 2020-11-20T11:19:02Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

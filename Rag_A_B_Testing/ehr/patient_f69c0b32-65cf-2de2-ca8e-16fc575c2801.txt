@@ -1,0 +1,113 @@
+== PATIENT RECORD: Pedro316 Maya972 (ID: f69c0b32-65cf-2de2-ca8e-16fc575c2801) ==
+
+== Demographics ==
+Patient ID: f69c0b32-65cf-2de2-ca8e-16fc575c2801
+Name: Pedro316 Maya972
+Gender: M
+Birthdate: 1964-04-04
+Address: 1075 Weber Vale Apt 83
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Served in armed forces (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Refugee (person)
+- Chronic sinusitis (disorder)
+- Transport problems (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- Sertraline 100 MG Oral Tablet
+- Acetaminophen/Hydrocodone
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-28T17:54:57Z)
+- Depression screening (procedure) (Date: 2012-04-28T18:28:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-28T18:38:10Z)
+- Assessment of substance use (procedure) (Date: 2012-04-28T19:02:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-04-28T19:17:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-15T17:54:57Z)
+- Depression screening (procedure) (Date: 2014-02-15T18:46:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-15T18:56:54Z)
+- Colonoscopy (Date: 2014-04-05T17:54:57Z)
+- Measurement of respiratory function (procedure) (Date: 2014-07-23T16:08:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-02T17:54:57Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-02T17:54:57Z)
+- Depression screening (procedure) (Date: 2014-08-02T18:33:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-02T18:47:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-21T17:54:57Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-21T18:50:31Z)
+- Depression screening (procedure) (Date: 2015-02-21T19:32:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-21T19:43:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-02-21T20:12:28Z)
+- Assessment of substance use (procedure) (Date: 2015-02-21T20:37:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-21T20:50:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-27T17:54:57Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-27T18:44:12Z)
+- Depression screening (procedure) (Date: 2016-02-27T19:13:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-27T19:23:56Z)
+- Assessment of substance use (procedure) (Date: 2016-02-27T19:53:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-27T20:03:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-04T17:54:57Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-04T17:54:57Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-04T18:45:14Z)
+- Assessment of substance use (procedure) (Date: 2017-03-04T19:10:26Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-04T19:23:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-10T17:54:57Z)
+- Assessment of substance use (procedure) (Date: 2018-03-10T18:33:50Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-10T18:46:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-16T17:54:57Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-16T18:44:08Z)
+- Assessment of substance use (procedure) (Date: 2019-03-16T19:15:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-16T19:30:03Z)
+- Colonoscopy (Date: 2019-04-05T18:24:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-21T17:54:57Z)
+- Screening for domestic abuse (procedure) (Date: 2020-03-21T18:45:49Z)
+- Depression screening (procedure) (Date: 2020-03-21T19:27:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-21T19:41:09Z)
+- Assessment of substance use (procedure) (Date: 2020-03-21T20:08:41Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-21T20:20:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-27T17:54:57Z)
+- Depression screening (procedure) (Date: 2021-03-27T18:50:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-27T19:02:55Z)
+- Assessment of substance use (procedure) (Date: 2021-03-27T19:26:02Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-27T19:39:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-15T17:54:57Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-24T17:54:57Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-27T17:54:57Z: General examination of patient (procedure)
+- 2020-03-21T17:54:57Z: General examination of patient (procedure)
+- 2019-04-05T18:24:19Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-04-04T16:54:57Z QOLS: 1.0 {score}
+- 2021-04-04T16:54:57Z DALY: 0.1 a
+- 2021-04-04T16:54:57Z QALY: 55.9 a
+- 2021-03-27T20:09:12Z Total score [DAST-10]: 1.0 {score}
+- 2021-03-27T19:26:02Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-27T18:50:42Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-03-27T18:50:42Z What is your main insurance?: Private insurance nan
+- 2021-03-27T18:50:42Z What is your housing situation today?: I have housing nan
+- 2021-03-27T18:50:42Z Are you worried about losing your housing?: No nan
+- 2021-03-27T18:50:42Z What address do you live at?: 1075 Weber Vale Apt 83 nan

@@ -1,0 +1,161 @@
+== PATIENT RECORD: Milagros256 Douglas31 (ID: fae0edab-0c3d-d1ed-5fbd-bb87125da5c4) ==
+
+== Demographics ==
+Patient ID: fae0edab-0c3d-d1ed-5fbd-bb87125da5c4
+Name: Milagros256 Douglas31
+Gender: F
+Birthdate: 2004-02-18
+Address: 701 Walter Hollow Unit 21
+Marital Status: nan
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Perennial allergic rhinitis
+- Acute allergic reaction
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- predniSONE 5 MG Oral Tablet
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-02-20T06:00:59Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-26T06:00:59Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-04T06:00:59Z)
+- Injection of adrenaline (Date: 2015-05-15T12:00:59Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-09T06:00:59Z)
+- Depression screening (procedure) (Date: 2016-03-09T06:26:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-03-09T06:39:16Z)
+- Assessment of substance use (procedure) (Date: 2016-03-09T07:00:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-03-09T07:12:20Z)
+- Anticipatory guidance (procedure) (Date: 2016-03-09T07:32:06Z)
+- Depression screening (procedure) (Date: 2016-05-04T06:00:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-04T06:14:38Z)
+- Assessment of substance use (procedure) (Date: 2016-05-04T06:37:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-04T06:48:08Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-04T07:04:23Z)
+- Throat culture (procedure) (Date: 2016-09-11T08:00:59Z)
+- Assessment of anxiety (procedure) (Date: 2016-09-21T06:00:59Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-21T06:00:59Z)
+- Assessment of substance use (procedure) (Date: 2016-09-21T06:24:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-09-21T06:39:03Z)
+- Anticipatory guidance (procedure) (Date: 2016-09-21T07:03:56Z)
+- Allergy screening test (Date: 2017-02-22T06:00:59Z)
+- Depression screening (procedure) (Date: 2017-03-15T06:00:59Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-15T06:00:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-03-15T06:15:49Z)
+- Assessment of substance use (procedure) (Date: 2017-03-15T06:40:53Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-03-15T06:54:07Z)
+- Anticipatory guidance (procedure) (Date: 2017-03-15T07:19:34Z)
+- Subcutaneous immunotherapy (Date: 2017-03-17T06:33:04Z)
+- Subcutaneous immunotherapy (Date: 2017-04-10T07:08:50Z)
+- Subcutaneous immunotherapy (Date: 2017-05-04T07:24:51Z)
+- Subcutaneous immunotherapy (Date: 2017-05-31T07:43:42Z)
+- Subcutaneous immunotherapy (Date: 2017-06-27T08:34:43Z)
+- Subcutaneous immunotherapy (Date: 2017-07-23T09:14:12Z)
+- Subcutaneous immunotherapy (Date: 2017-08-18T09:43:38Z)
+- Subcutaneous immunotherapy (Date: 2017-09-12T10:30:21Z)
+- Subcutaneous immunotherapy (Date: 2017-10-04T11:24:16Z)
+- Subcutaneous immunotherapy (Date: 2017-10-31T11:49:10Z)
+- Subcutaneous immunotherapy (Date: 2017-11-27T12:47:01Z)
+- Subcutaneous immunotherapy (Date: 2017-12-24T13:19:26Z)
+- Subcutaneous immunotherapy (Date: 2018-01-18T13:36:38Z)
+- Subcutaneous immunotherapy (Date: 2018-02-13T13:59:43Z)
+- Subcutaneous immunotherapy (Date: 2018-03-12T14:37:56Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-21T06:00:59Z)
+- Depression screening (procedure) (Date: 2018-03-21T06:26:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-21T06:38:28Z)
+- Subcutaneous immunotherapy (Date: 2018-04-02T15:12:35Z)
+- Subcutaneous immunotherapy (Date: 2018-04-23T16:06:06Z)
+- Subcutaneous immunotherapy (Date: 2018-05-16T16:27:05Z)
+- Subcutaneous immunotherapy (Date: 2018-06-11T16:51:11Z)
+- Subcutaneous immunotherapy (Date: 2018-07-04T17:23:08Z)
+- Subcutaneous immunotherapy (Date: 2018-07-27T18:14:40Z)
+- Subcutaneous immunotherapy (Date: 2018-08-18T18:48:38Z)
+- Subcutaneous immunotherapy (Date: 2018-09-13T19:33:07Z)
+- Subcutaneous immunotherapy (Date: 2018-10-10T20:05:55Z)
+- Subcutaneous immunotherapy (Date: 2018-11-03T20:31:21Z)
+- Subcutaneous immunotherapy (Date: 2018-11-29T20:57:16Z)
+- Subcutaneous immunotherapy (Date: 2018-12-26T21:43:03Z)
+- Subcutaneous immunotherapy (Date: 2019-01-16T22:32:43Z)
+- Subcutaneous immunotherapy (Date: 2019-02-08T23:10:35Z)
+- Subcutaneous immunotherapy (Date: 2019-03-03T23:51:50Z)
+- Information gathering (procedure) (Date: 2019-03-16T06:00:59Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-27T06:00:59Z)
+- Depression screening (procedure) (Date: 2019-03-27T06:22:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-27T06:35:05Z)
+- Assessment of substance use (procedure) (Date: 2019-03-27T06:55:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-03-27T07:05:18Z)
+- Health risks education (procedure) (Date: 2019-03-27T07:31:33Z)
+- Subcutaneous immunotherapy (Date: 2019-03-31T00:14:12Z)
+- Information gathering (procedure) (Date: 2019-04-15T06:00:59Z)
+- Subcutaneous immunotherapy (Date: 2019-04-22T00:41:59Z)
+- Information gathering (procedure) (Date: 2019-05-15T06:00:59Z)
+- Subcutaneous immunotherapy (Date: 2019-05-16T01:39:37Z)
+- Subcutaneous immunotherapy (Date: 2019-06-09T02:39:20Z)
+- Subcutaneous immunotherapy (Date: 2019-07-01T03:15:35Z)
+- Subcutaneous immunotherapy (Date: 2019-07-28T03:35:42Z)
+- Subcutaneous immunotherapy (Date: 2019-08-22T03:52:35Z)
+- Subcutaneous immunotherapy (Date: 2019-09-16T04:37:58Z)
+- Subcutaneous immunotherapy (Date: 2019-10-07T04:55:26Z)
+- Subcutaneous immunotherapy (Date: 2019-10-30T05:20:02Z)
+- Subcutaneous immunotherapy (Date: 2019-11-23T06:10:35Z)
+- Subcutaneous immunotherapy (Date: 2019-12-17T07:07:55Z)
+- Subcutaneous immunotherapy (Date: 2020-01-10T07:52:42Z)
+- Subcutaneous immunotherapy (Date: 2020-02-06T08:28:55Z)
+- Subcutaneous immunotherapy (Date: 2020-03-02T09:19:07Z)
+- Depression screening (procedure) (Date: 2020-04-01T06:00:59Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-01T06:00:59Z)
+- Subcutaneous immunotherapy (Date: 2020-03-29T09:39:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-04-01T06:15:51Z)
+- Subcutaneous immunotherapy (Date: 2020-04-19T10:04:09Z)
+- Subcutaneous immunotherapy (Date: 2020-05-12T10:45:09Z)
+- Subcutaneous immunotherapy (Date: 2020-06-04T11:12:45Z)
+- Subcutaneous immunotherapy (Date: 2020-06-28T12:05:35Z)
+- Subcutaneous immunotherapy (Date: 2020-07-19T12:45:04Z)
+- Subcutaneous immunotherapy (Date: 2020-08-12T13:24:40Z)
+- Subcutaneous immunotherapy (Date: 2020-09-06T13:44:49Z)
+- Subcutaneous immunotherapy (Date: 2020-10-02T14:33:28Z)
+- Subcutaneous immunotherapy (Date: 2020-10-28T14:57:12Z)
+- Subcutaneous immunotherapy (Date: 2020-11-22T15:36:52Z)
+- Subcutaneous immunotherapy (Date: 2020-12-14T15:56:06Z)
+- Subcutaneous immunotherapy (Date: 2021-01-04T16:29:37Z)
+- Subcutaneous immunotherapy (Date: 2021-01-31T16:59:11Z)
+- Subcutaneous immunotherapy (Date: 2021-02-25T17:48:29Z)
+- Allergy screening test (Date: 2021-03-20T18:46:14Z)
+- Depression screening (procedure) (Date: 2021-04-07T06:00:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-04-07T06:11:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-07T06:00:59Z: Well child visit (procedure)
+- 2021-03-20T18:46:14Z: Allergic disorder follow-up assessment
+- 2021-02-25T17:48:29Z: Outpatient procedure
+- 2021-02-17T19:00:59Z: Asthma follow-up
+- 2021-01-31T16:59:11Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-04-07T06:40:06Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-04-07T06:00:59Z Heart rate: 66.0 /min
+- 2021-04-07T06:00:59Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-04-07T06:00:59Z Body Height: 182.9 cm
+- 2021-04-07T06:00:59Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-04-07T06:00:59Z Body Weight: 82.7 kg
+- 2021-04-07T06:00:59Z Body Mass Index: 24.7 kg/m2
+- 2021-04-07T06:00:59Z Tobacco smoking status NHIS: Current every day smoker nan
+- 2021-04-07T06:00:59Z Respiratory rate: 15.0 /min
+- 2021-04-07T06:00:59Z Body mass index (BMI) [Percentile] Per age and gender: 82.7 %

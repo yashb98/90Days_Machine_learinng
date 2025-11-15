@@ -1,0 +1,160 @@
+== PATIENT RECORD: Karma832 Klocko335 (ID: df9b9e5b-c894-1879-c153-3e9df381f15b) ==
+
+== Demographics ==
+Patient ID: df9b9e5b-c894-1879-c153-3e9df381f15b
+Name: Karma832 Klocko335
+Gender: F
+Birthdate: 1981-01-10
+Address: 615 Frami Crossroad
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Appendicitis
+- History of appendectomy
+- Transport problems (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Normal pregnancy
+- Streptococcal sore throat (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Escherichia coli urinary tract infection
+- Bleeding from anus
+- Protracted diarrhea
+- Secondary malignant neoplasm of colon
+
+== Current Medications ==
+- Etonogestrel 68 MG Drug Implant
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Levora 0.15/30 28 Day Pack
+- Penicillin V Potassium 500 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Errin 28 Day Pack
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2011-12-03T15:12:16Z)
+- Intramuscular injection (Date: 2012-03-03T15:12:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-03-24T15:12:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-24T15:12:16Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-24T15:49:37Z)
+- Depression screening (procedure) (Date: 2012-03-24T16:12:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-24T16:26:55Z)
+- Assessment of substance use (procedure) (Date: 2012-03-24T16:54:08Z)
+- Screening for drug abuse (procedure) (Date: 2012-03-24T17:08:30Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-05-06T16:00:38Z)
+- Intramuscular injection (Date: 2012-06-02T15:12:16Z)
+- Intramuscular injection (Date: 2012-09-01T15:12:16Z)
+- Intramuscular injection (Date: 2012-12-01T15:12:16Z)
+- Intramuscular injection (Date: 2013-03-02T15:12:16Z)
+- Intramuscular injection (Date: 2013-06-01T15:12:16Z)
+- Intramuscular injection (Date: 2013-08-31T15:12:16Z)
+- Intramuscular injection (Date: 2013-11-30T15:12:16Z)
+- Intramuscular injection (Date: 2014-03-01T15:12:16Z)
+- Intramuscular injection (Date: 2014-05-31T15:12:16Z)
+- Intramuscular injection (Date: 2014-08-30T15:12:16Z)
+- Intramuscular injection (Date: 2014-11-29T15:12:16Z)
+- Intramuscular injection (Date: 2015-02-28T15:12:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-28T15:12:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-28T15:12:16Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-28T15:51:38Z)
+- Depression screening (procedure) (Date: 2015-03-28T16:16:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-28T16:31:03Z)
+- Assessment of substance use (procedure) (Date: 2015-03-28T16:51:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-28T17:01:37Z)
+- Intramuscular injection (Date: 2015-05-30T15:12:16Z)
+- Intramuscular injection (Date: 2015-08-29T15:12:16Z)
+- Intramuscular injection (Date: 2015-11-28T15:12:16Z)
+- Intramuscular injection (Date: 2016-02-27T15:12:16Z)
+- Standard pregnancy test (Date: 2016-04-30T15:12:16Z)
+- Ultrasound scan for fetal viability (Date: 2016-04-30T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-04-30T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-04-30T15:12:16Z)
+- Blood typing  RH typing (Date: 2016-04-30T15:12:16Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-04-30T15:12:16Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-04-30T15:12:16Z)
+- Human immunodeficiency virus antigen test (Date: 2016-04-30T15:12:16Z)
+- Chlamydia antigen test (Date: 2016-04-30T15:12:16Z)
+- Gonorrhea infection test (Date: 2016-04-30T15:12:16Z)
+- Syphilis infection test (Date: 2016-04-30T15:12:16Z)
+- Urine culture (Date: 2016-04-30T15:12:16Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-04-30T15:12:16Z)
+- Urine screening test for diabetes (Date: 2016-04-30T15:12:16Z)
+- Hepatitis C antibody test (Date: 2016-04-30T15:12:16Z)
+- Rubella screening (Date: 2016-04-30T15:12:16Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-04-30T15:12:16Z)
+- Skin test for tuberculosis (Date: 2016-04-30T15:12:16Z)
+- Urine protein test (Date: 2016-04-30T15:12:16Z)
+- Physical examination of mother (Date: 2016-04-30T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-05-28T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-05-28T15:12:16Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-05-28T15:12:16Z)
+- Fetal anatomy study (Date: 2016-06-25T15:12:16Z)
+- Alpha-fetoprotein test (Date: 2016-06-25T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-06-25T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-06-25T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-07-23T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-07-23T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-08-20T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-08-20T15:12:16Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-09-17T15:12:16Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2016-09-17T15:12:16Z)
+- Urine screening for glucose (Date: 2016-09-17T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-09-17T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-09-17T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-10-15T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-10-15T15:12:16Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2016-11-12T15:12:16Z)
+- Evaluation of uterine fundal height (Date: 2016-11-12T15:12:16Z)
+- Auscultation of the fetal heart (Date: 2016-11-12T15:12:16Z)
+- Episiotomy (Date: 2016-11-26T15:12:16Z)
+- Childbirth (Date: 2016-11-26T15:12:16Z)
+- Physical examination following birth (Date: 2017-01-07T15:12:16Z)
+- Depression screening (Date: 2017-01-07T15:12:16Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-01-10T07:12:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-31T15:12:16Z)
+- Depression screening (procedure) (Date: 2018-03-31T16:07:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-31T16:17:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-16T15:12:16Z)
+- Depression screening (procedure) (Date: 2021-01-16T16:12:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-16T16:24:28Z)
+- Assessment of substance use (procedure) (Date: 2021-01-16T16:50:43Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-16T17:04:03Z)
+- Colonoscopy (Date: 2021-06-06T03:12:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-06-25T21:56:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-07-30T11:56:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-09-03T05:56:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-10-03T05:56:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-11-06T12:56:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T12:56:01Z: Encounter for problem
+- 2021-10-03T05:56:01Z: Encounter for problem
+- 2021-09-03T05:56:01Z: Encounter for problem
+- 2021-07-30T11:56:01Z: Encounter for problem
+- 2021-06-26T15:12:16Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-06T12:56:01Z Glomerular filtration rate/1.73 sq M.predicted: 17.6 mL/min
+- 2021-11-06T12:56:01Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 27.1 U/L
+- 2021-11-06T12:56:01Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 7.0 {score}
+- 2021-11-06T12:56:01Z Glucose: 64.2 mg/dL
+- 2021-11-06T12:56:01Z Urea Nitrogen: 14.8 mg/dL
+- 2021-11-06T12:56:01Z Creatinine: 2.7 mg/dL
+- 2021-11-06T12:56:01Z Calcium: 8.5 mg/dL
+- 2021-11-06T12:56:01Z Sodium: 136.9 mmol/L
+- 2021-11-06T12:56:01Z Potassium: 4.0 mmol/L
+- 2021-11-06T12:56:01Z Chloride: 105.4 mmol/L

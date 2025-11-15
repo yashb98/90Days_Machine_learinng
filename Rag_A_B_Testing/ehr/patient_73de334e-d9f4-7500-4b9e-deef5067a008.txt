@@ -1,0 +1,114 @@
+== PATIENT RECORD: Hollis7 Wisoky380 (ID: 73de334e-d9f4-7500-4b9e-deef5067a008) ==
+
+== Demographics ==
+Patient ID: 73de334e-d9f4-7500-4b9e-deef5067a008
+Name: Hollis7 Wisoky380
+Gender: M
+Birthdate: 1962-09-10
+Address: 300 Dietrich Course
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Transport problems (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Anemia (disorder)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Localized  primary osteoarthritis of the hand
+- Reports of violence in the environment (finding)
+- Severe anxiety (panic) (finding
+- Part-time employment (finding)
+- Injury of medial collateral ligament of knee
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-11T01:44:06Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-11T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-11T02:19:30Z)
+- Depression screening (procedure) (Date: 2012-09-11T02:44:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-11T02:56:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-17T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-17T02:25:58Z)
+- Screening for domestic abuse (procedure) (Date: 2013-09-17T02:42:56Z)
+- Depression screening (procedure) (Date: 2013-09-17T03:27:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-17T03:39:40Z)
+- Assessment of substance use (procedure) (Date: 2013-09-17T04:02:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-09-17T04:13:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-23T01:44:06Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-23T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-23T02:36:10Z)
+- Depression screening (procedure) (Date: 2014-09-23T03:00:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-23T03:10:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-29T01:44:06Z)
+- Screening for domestic abuse (procedure) (Date: 2015-09-29T02:28:22Z)
+- Depression screening (procedure) (Date: 2015-09-29T03:07:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-29T03:22:09Z)
+- Assessment of substance use (procedure) (Date: 2015-09-29T03:50:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-09-29T04:05:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-04T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-04T02:38:32Z)
+- Assessment of substance use (procedure) (Date: 2016-10-04T03:00:17Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-04T03:15:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-10T01:44:06Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-10T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-10T02:21:45Z)
+- Assessment of substance use (procedure) (Date: 2017-10-10T02:43:41Z)
+- Screening for drug abuse (procedure) (Date: 2017-10-10T02:58:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-16T01:44:06Z)
+- Depression screening (procedure) (Date: 2018-10-16T02:17:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-16T02:32:53Z)
+- Knee X-ray (Date: 2018-12-03T02:18:36Z)
+- Surgical manipulation of joint of knee (Date: 2018-12-10T02:18:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-22T01:44:06Z)
+- Depression screening (procedure) (Date: 2019-10-22T02:42:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-22T02:54:39Z)
+- Assessment of substance use (procedure) (Date: 2019-10-22T03:21:24Z)
+- Screening for drug abuse (procedure) (Date: 2019-10-22T03:36:17Z)
+- Face mask (physical object) (Date: 2020-07-12T01:44:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-27T01:44:06Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-27T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-27T02:21:41Z)
+- Depression screening (procedure) (Date: 2020-10-27T02:46:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-27T02:59:20Z)
+- Assessment of substance use (procedure) (Date: 2020-10-27T03:22:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-10-27T03:33:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-02T01:44:06Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-02T01:44:06Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-02T02:22:30Z)
+- Depression screening (procedure) (Date: 2021-11-02T02:44:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-02T02:58:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-02T01:44:06Z: General examination of patient (procedure)
+- 2020-10-27T01:44:06Z: General examination of patient (procedure)
+- 2020-07-12T01:44:06Z: Encounter for symptom (procedure)
+- 2019-10-22T01:44:06Z: General examination of patient (procedure)
+- 2018-12-10T02:18:36Z: Non-urgent orthopedic admission
+
+== Recent Observations (Last 10) ==
+- 2021-11-02T03:18:24Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-11-02T02:44:58Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-11-02T02:22:30Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-11-02T02:22:30Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-11-02T02:22:30Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-11-02T02:22:30Z What is your housing situation today?: I have housing nan
+- 2021-11-02T02:22:30Z Are you worried about losing your housing?: Yes nan
+- 2021-11-02T02:22:30Z What address do you live at?: 300 Dietrich Course nan
+- 2021-11-02T02:22:30Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-11-02T02:22:30Z What is your main insurance?: Private insurance nan

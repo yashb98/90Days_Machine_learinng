@@ -1,0 +1,70 @@
+== PATIENT RECORD: Abel832 Dooley940 (ID: 50253c1b-528a-3481-74a5-3a879de27675) ==
+
+== Demographics ==
+Patient ID: 50253c1b-528a-3481-74a5-3a879de27675
+Name: Abel832 Dooley940
+Gender: M
+Birthdate: 2004-09-23
+Address: 608 Marks Row
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Fracture of forearm
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2016-03-17T10:07:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-14T03:07:09Z)
+- Depression screening (procedure) (Date: 2016-10-14T03:22:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-14T03:36:16Z)
+- Upper arm X-ray (Date: 2017-09-06T03:07:09Z)
+- Bone immobilization (Date: 2017-09-06T03:07:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-10-20T03:07:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-20T03:07:09Z)
+- Depression screening (procedure) (Date: 2017-10-20T03:29:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-20T03:43:15Z)
+- Depression screening (procedure) (Date: 2018-10-26T03:07:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-26T03:18:08Z)
+- Assessment of substance use (procedure) (Date: 2018-10-26T03:39:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-26T03:50:20Z)
+- Anticipatory guidance (procedure) (Date: 2018-10-26T04:09:58Z)
+- Depression screening (procedure) (Date: 2019-11-01T03:07:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-01T03:07:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-01T03:19:40Z)
+- Throat culture (procedure) (Date: 2020-06-06T18:07:09Z)
+- Depression screening (procedure) (Date: 2020-11-06T03:07:09Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-06T03:07:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-06T03:21:58Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-12T03:07:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-12T03:07:09Z)
+- Depression screening (procedure) (Date: 2021-11-12T03:35:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-11-12T03:48:22Z)
+- Assessment of substance use (procedure) (Date: 2021-11-12T04:13:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-11-12T04:26:18Z)
+- Anticipatory guidance (procedure) (Date: 2021-11-12T04:40:11Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-12T03:07:09Z: Well child visit (procedure)
+- 2021-05-07T03:07:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-16T03:07:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-06T03:07:09Z: Well child visit (procedure)
+- 2020-06-06T18:07:09Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-12T04:13:41Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-11-12T03:35:19Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-11-12T03:07:09Z Heart rate: 94.0 /min
+- 2021-11-12T03:07:09Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-12T03:07:09Z Body Height: 168.1 cm
+- 2021-11-12T03:07:09Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-11-12T03:07:09Z Body Weight: 56.8 kg
+- 2021-11-12T03:07:09Z Body Mass Index: 20.1 kg/m2
+- 2021-11-12T03:07:09Z Body mass index (BMI) [Percentile] Per age and gender: 32.4 %
+- 2021-11-12T03:07:09Z Diastolic Blood Pressure: 79.0 mm[Hg]

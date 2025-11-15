@@ -1,0 +1,135 @@
+== PATIENT RECORD: Amee396 Hessel84 (ID: 4b54af52-ee73-f8d0-beef-7c3d292b4ec6) ==
+
+== Demographics ==
+Patient ID: 4b54af52-ee73-f8d0-beef-7c3d292b4ec6
+Name: Amee396 Hessel84
+Gender: F
+Birthdate: 1953-06-26
+Address: 727 Yost Drive
+Marital Status: M
+
+== Allergies ==
+- Eggs (edible) (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Refugee (person)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Social isolation (finding)
+- Chronic intractable migraine without aura
+- Acute bronchitis (disorder)
+- Hyperlipidemia
+- Cough (finding)
+- Diarrhea symptom (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Injury of medial collateral ligament of knee
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-13T11:25:47Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-13T11:25:47Z)
+- Assessment of substance use (procedure) (Date: 2012-04-13T12:23:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-04-13T12:33:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-19T11:25:47Z)
+- Depression screening (procedure) (Date: 2013-04-19T12:09:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-19T12:24:44Z)
+- Assessment of substance use (procedure) (Date: 2013-04-19T12:47:21Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-19T13:01:22Z)
+- Colonoscopy (Date: 2013-06-26T12:55:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-05T11:25:47Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T12:12:52Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T13:02:40Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T13:58:55Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T14:56:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T15:44:34Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-23T16:44:10Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-26T17:31:01Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-01T18:19:18Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-04T19:14:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-25T11:25:47Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-25T11:25:47Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-25T12:23:56Z)
+- Assessment of substance use (procedure) (Date: 2014-04-25T12:51:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-25T13:02:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-01T11:25:47Z)
+- Assessment of substance use (procedure) (Date: 2015-05-01T12:04:27Z)
+- Screening for drug abuse (procedure) (Date: 2015-05-01T12:17:21Z)
+- Sputum examination (procedure) (Date: 2016-02-28T16:25:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-06T11:25:47Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-06T12:25:38Z)
+- Screening for domestic abuse (procedure) (Date: 2016-05-06T12:51:04Z)
+- Depression screening (procedure) (Date: 2016-05-06T13:28:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-06T13:42:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-12T11:25:47Z)
+- Screening for domestic abuse (procedure) (Date: 2017-05-12T12:04:14Z)
+- Depression screening (procedure) (Date: 2017-05-12T12:42:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-12T12:53:02Z)
+- Assessment of substance use (procedure) (Date: 2017-05-12T13:17:41Z)
+- Screening for drug abuse (procedure) (Date: 2017-05-12T13:30:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-18T11:25:47Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-18T11:25:47Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-18T11:56:15Z)
+- Depression screening (procedure) (Date: 2018-05-18T12:13:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-18T12:25:23Z)
+- Colonoscopy (Date: 2018-06-26T13:39:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-24T11:25:47Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-24T12:24:15Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-24T12:41:23Z)
+- Depression screening (procedure) (Date: 2019-05-24T13:20:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-24T13:32:07Z)
+- Assessment of substance use (procedure) (Date: 2019-05-24T13:54:03Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-24T14:05:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-29T11:25:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-05-29T12:22:44Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-29T12:41:01Z)
+- Depression screening (procedure) (Date: 2020-05-29T13:13:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-29T13:27:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-29T13:55:02Z)
+- Assessment of substance use (procedure) (Date: 2020-05-29T14:15:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-29T14:27:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-04T11:25:47Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-04T12:11:41Z)
+- Depression screening (procedure) (Date: 2021-06-04T12:31:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-04T12:46:32Z)
+- Assessment of substance use (procedure) (Date: 2021-06-04T13:10:12Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-04T13:21:55Z)
+- Face mask (physical object) (Date: 2021-06-29T11:25:47Z)
+- Knee X-ray (Date: 2021-09-03T12:24:27Z)
+- Surgical manipulation of joint of knee (Date: 2021-09-10T12:24:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-10T12:24:27Z: Non-urgent orthopedic admission
+- 2021-09-03T12:24:27Z: Emergency room admission (procedure)
+- 2021-06-29T11:25:47Z: Encounter for symptom (procedure)
+- 2021-06-13T11:25:47Z: Follow-up encounter
+- 2021-06-04T11:25:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-29T12:50:39Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-06-29T11:37:48Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-06-29T11:37:48Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

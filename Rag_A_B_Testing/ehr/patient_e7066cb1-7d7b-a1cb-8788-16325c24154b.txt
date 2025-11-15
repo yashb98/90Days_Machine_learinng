@@ -1,0 +1,60 @@
+== PATIENT RECORD: Wilber603 Rath779 (ID: e7066cb1-7d7b-a1cb-8788-16325c24154b) ==
+
+== Demographics ==
+Patient ID: e7066cb1-7d7b-a1cb-8788-16325c24154b
+Name: Wilber603 Rath779
+Gender: M
+Birthdate: 2012-07-19
+Address: 421 Reichel Boulevard
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+- Cough (finding)
+- Muscle pain (finding)
+- Joint pain (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-10-25T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-27T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-28T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-26T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-25T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-25T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-05T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-11T16:24:04Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-16T16:24:04Z)
+- Face mask (physical object) (Date: 2020-10-13T16:24:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-22T16:24:04Z: Well child visit (procedure)
+- 2020-10-13T16:24:04Z: Encounter for symptom (procedure)
+- 2020-07-16T16:24:04Z: Well child visit (procedure)
+- 2019-07-11T16:24:04Z: Well child visit (procedure)
+- 2018-07-05T16:24:04Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-22T16:24:04Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-07-22T16:24:04Z Body Height: 131.0 cm
+- 2021-07-22T16:24:04Z Body Weight: 31.1 kg
+- 2021-07-22T16:24:04Z Body Mass Index: 18.1 kg/m2
+- 2021-07-22T16:24:04Z Body mass index (BMI) [Percentile] Per age and gender: 80.6 %
+- 2021-07-22T16:24:04Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-07-22T16:24:04Z Systolic Blood Pressure: 119.0 mm[Hg]
+- 2021-07-22T16:24:04Z Heart rate: 75.0 /min
+- 2021-07-22T16:24:04Z Respiratory rate: 14.0 /min
+- 2021-07-22T16:24:04Z Tobacco smoking status NHIS: Never smoker nan

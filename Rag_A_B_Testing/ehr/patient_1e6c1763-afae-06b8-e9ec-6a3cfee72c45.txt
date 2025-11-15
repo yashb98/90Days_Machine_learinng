@@ -1,0 +1,51 @@
+== PATIENT RECORD: Anderson154 Haag279 (ID: 1e6c1763-afae-06b8-e9ec-6a3cfee72c45) ==
+
+== Demographics ==
+Patient ID: 1e6c1763-afae-06b8-e9ec-6a3cfee72c45
+Name: Anderson154 Haag279
+Gender: M
+Birthdate: 2012-09-30
+Address: 166 Jerde Pathway Suite 28
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-11-04T14:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-06T14:21:16Z)
+- Throat culture (procedure) (Date: 2014-06-23T22:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-04T14:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-10T14:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-14T14:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-16T14:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-22T14:21:16Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-03T14:21:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T14:21:16Z: Well child visit (procedure)
+- 2020-09-27T14:21:16Z: Well child visit (procedure)
+- 2019-09-22T14:21:16Z: Well child visit (procedure)
+- 2018-09-16T14:21:16Z: Well child visit (procedure)
+- 2018-01-14T14:21:16Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-03T14:21:16Z Body mass index (BMI) [Percentile] Per age and gender: 92.4 %
+- 2021-10-03T14:21:16Z Body Mass Index: 20.1 kg/m2
+- 2021-10-03T14:21:16Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-10-03T14:21:16Z Systolic Blood Pressure: 136.0 mm[Hg]
+- 2021-10-03T14:21:16Z Heart rate: 76.0 /min
+- 2021-10-03T14:21:16Z Respiratory rate: 15.0 /min
+- 2021-10-03T14:21:16Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-03T14:21:16Z Body Weight: 37.9 kg
+- 2021-10-03T14:21:16Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-10-03T14:21:16Z Body Height: 137.4 cm

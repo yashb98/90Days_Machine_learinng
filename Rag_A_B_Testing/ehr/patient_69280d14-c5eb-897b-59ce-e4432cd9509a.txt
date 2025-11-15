@@ -1,0 +1,79 @@
+== PATIENT RECORD: Suzan149 Franecki195 (ID: 69280d14-c5eb-897b-59ce-e4432cd9509a) ==
+
+== Demographics ==
+Patient ID: 69280d14-c5eb-897b-59ce-e4432cd9509a
+Name: Suzan149 Franecki195
+Gender: F
+Birthdate: 2008-09-22
+Address: 584 Runte Ville
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Childhood asthma
+- Otitis media
+- Perennial allergic rhinitis
+- Acute viral pharyngitis (disorder)
+- Fracture of ankle
+- Acute bronchitis (disorder)
+- Sprain of wrist
+- Sprain of ankle
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-08-27T10:44:24Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-02T10:44:24Z)
+- Throat culture (procedure) (Date: 2014-05-11T19:44:24Z)
+- Ankle X-ray (Date: 2015-11-09T11:19:53Z)
+- Bone immobilization (Date: 2015-11-09T11:19:53Z)
+- Measurement of respiratory function (procedure) (Date: 2016-07-13T11:44:24Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-19T10:44:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-01T10:44:24Z)
+- Depression screening (procedure) (Date: 2020-10-12T10:44:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-12T10:44:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-10-12T10:57:03Z)
+- Allergy screening test (Date: 2021-09-27T10:44:24Z)
+- Depression screening (procedure) (Date: 2021-10-18T10:44:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-18T10:44:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-10-18T10:56:08Z)
+- Assessment of substance use (procedure) (Date: 2021-10-18T11:25:58Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-10-18T11:40:35Z)
+- Anticipatory guidance (procedure) (Date: 2021-10-18T12:03:33Z)
+- Subcutaneous immunotherapy (Date: 2021-10-19T11:09:26Z)
+- Subcutaneous immunotherapy (Date: 2021-11-13T12:03:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T12:03:21Z: Outpatient procedure
+- 2021-10-19T11:09:26Z: Outpatient procedure
+- 2021-10-18T10:44:24Z: Well child visit (procedure)
+- 2021-09-27T10:44:24Z: Allergic disorder initial assessment
+- 2021-06-28T10:44:24Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-18T11:25:58Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-10-18T10:44:24Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-10-18T10:44:24Z Body Height: 165.4 cm
+- 2021-10-18T10:44:24Z Body Weight: 50.2 kg
+- 2021-10-18T10:44:24Z Body Mass Index: 18.3 kg/m2
+- 2021-10-18T10:44:24Z Body mass index (BMI) [Percentile] Per age and gender: 44.1 %
+- 2021-10-18T10:44:24Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2021-10-18T10:44:24Z Systolic Blood Pressure: 105.0 mm[Hg]
+- 2021-10-18T10:44:24Z Respiratory rate: 12.0 /min
+- 2021-10-18T10:44:24Z Tobacco smoking status NHIS: Never smoker nan

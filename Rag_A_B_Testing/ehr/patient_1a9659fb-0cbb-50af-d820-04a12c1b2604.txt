@@ -1,0 +1,56 @@
+== PATIENT RECORD: Sylvia544 Collins926 (ID: 1a9659fb-0cbb-50af-d820-04a12c1b2604) ==
+
+== Demographics ==
+Patient ID: 1a9659fb-0cbb-50af-d820-04a12c1b2604
+Name: Sylvia544 Collins926
+Gender: F
+Birthdate: 2008-10-24
+Address: 482 Collier Spur Apt 44
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of wrist
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Child attention deficit disorder
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-03-31T02:11:48Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-29T02:11:48Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-31T02:11:48Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-22T02:11:48Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-03T02:11:48Z)
+- Depression screening (procedure) (Date: 2020-11-14T02:11:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-14T02:21:53Z)
+- Depression screening (procedure) (Date: 2021-09-04T02:11:48Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-04T02:11:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-09-04T02:25:24Z)
+- Assessment of substance use (procedure) (Date: 2021-09-04T02:53:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-09-04T03:05:20Z)
+- Anticipatory guidance (procedure) (Date: 2021-09-04T03:22:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-05T13:11:48Z: Encounter for symptom
+- 2021-09-04T02:11:48Z: Encounter for check up (procedure)
+- 2020-11-14T02:11:48Z: Well child visit (procedure)
+- 2020-01-15T21:11:48Z: Encounter for symptom
+- 2019-11-09T02:11:48Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-25T02:11:48Z QOLS: 1.0 {score}
+- 2021-10-25T02:11:48Z DALY: 0.1 a
+- 2021-10-25T02:11:48Z QALY: 11.9 a
+- 2021-09-04T02:53:31Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-09-04T02:11:48Z Body Height: 158.7 cm
+- 2021-09-04T02:11:48Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-09-04T02:11:48Z Body Mass Index: 25.3 kg/m2
+- 2021-09-04T02:11:48Z Body mass index (BMI) [Percentile] Per age and gender: 93.7 %
+- 2021-09-04T02:11:48Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-09-04T02:11:48Z Systolic Blood Pressure: 100.0 mm[Hg]

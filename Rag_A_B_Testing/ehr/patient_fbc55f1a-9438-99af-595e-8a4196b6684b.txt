@@ -1,0 +1,136 @@
+== PATIENT RECORD: Bee658 Jacobi462 (ID: fbc55f1a-9438-99af-595e-8a4196b6684b) ==
+
+== Demographics ==
+Patient ID: fbc55f1a-9438-99af-595e-8a4196b6684b
+Name: Bee658 Jacobi462
+Gender: F
+Birthdate: 1993-04-27
+Address: 227 Labadie Alley
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Wheat (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Perennial allergic rhinitis
+- Impacted molars
+- Chronic intractable migraine without aura
+- Chronic pain
+- Risk activity involvement (finding)
+- Hypertension
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+- Severe anxiety (panic) (finding
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Drug overdose
+- Normal pregnancy
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Errin 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-26T12:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-26T12:51:35Z)
+- Depression screening (procedure) (Date: 2012-06-26T13:19:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-26T13:32:14Z)
+- Assessment of substance use (procedure) (Date: 2012-06-26T13:55:29Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-26T14:09:02Z)
+- Measurement of respiratory function (procedure) (Date: 2013-04-14T20:16:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-30T12:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-30T12:56:09Z)
+- Depression screening (procedure) (Date: 2013-04-30T13:23:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-30T13:36:02Z)
+- Assessment of substance use (procedure) (Date: 2013-04-30T14:02:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-30T14:16:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-02T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-02T12:16:42Z)
+- Depression screening (procedure) (Date: 2013-07-02T13:11:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-02T13:21:47Z)
+- Assessment of substance use (procedure) (Date: 2013-07-02T13:43:14Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-02T13:53:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-08T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-08T12:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-08T12:49:29Z)
+- Throat culture (procedure) (Date: 2015-07-04T02:16:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-14T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-14T12:16:42Z)
+- Depression screening (procedure) (Date: 2015-07-14T13:16:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-14T13:29:15Z)
+- Assessment of substance use (procedure) (Date: 2015-07-14T13:50:18Z)
+- Screening for drug abuse (procedure) (Date: 2015-07-14T14:00:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-19T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-19T12:16:42Z)
+- Depression screening (procedure) (Date: 2016-07-19T13:14:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-19T13:27:22Z)
+- Assessment of substance use (procedure) (Date: 2016-07-19T13:54:29Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-19T14:05:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-25T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-25T12:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-25T13:13:06Z)
+- Depression screening (procedure) (Date: 2017-07-25T13:39:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-25T13:52:04Z)
+- Assessment of substance use (procedure) (Date: 2017-07-25T14:14:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-25T14:28:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-31T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-31T12:16:42Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-31T12:57:47Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-31T13:14:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-06T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-06T12:16:42Z)
+- Depression screening (procedure) (Date: 2019-08-06T12:55:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-06T13:05:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-06T13:30:05Z)
+- Standard pregnancy test (Date: 2020-08-04T12:16:42Z)
+- Ultrasound scan for fetal viability (Date: 2020-08-04T12:16:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-11T12:16:42Z)
+- Counseling for termination of pregnancy (Date: 2020-08-21T12:16:42Z)
+- Induced termination of pregnancy (Date: 2020-08-21T12:16:42Z)
+- Pregnancy termination care (Date: 2020-08-30T12:16:42Z)
+- Physical exam following abortion (Date: 2020-08-30T12:16:42Z)
+- Depression screening (Date: 2020-08-30T12:16:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-17T12:16:42Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-17T12:16:42Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-17T13:13:39Z)
+- Depression screening (procedure) (Date: 2021-08-17T13:45:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-17T13:56:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-22T12:16:42Z: Encounter for problem (procedure)
+- 2021-09-22T12:16:42Z: Encounter for problem (procedure)
+- 2021-08-23T12:16:42Z: Encounter for problem (procedure)
+- 2021-08-17T12:16:42Z: General examination of patient (procedure)
+- 2021-07-24T12:16:42Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-17T14:18:49Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-08-17T13:45:03Z Total score [HARK]: 3.0 {score}
+- 2021-08-17T13:13:39Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-08-17T13:13:39Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 37589 /a
+- 2021-08-17T13:13:39Z What is your main insurance?: Private insurance nan
+- 2021-08-17T13:13:39Z What is your current work situation?: Full-time work nan
+- 2021-08-17T13:13:39Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-08-17T13:13:39Z What address do you live at?: 227 Labadie Alley nan
+- 2021-08-17T13:13:39Z Are you worried about losing your housing?: No nan
+- 2021-08-17T13:13:39Z What is your housing situation today?: I have housing nan

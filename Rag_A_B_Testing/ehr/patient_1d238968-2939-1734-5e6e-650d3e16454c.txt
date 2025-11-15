@@ -1,0 +1,80 @@
+== PATIENT RECORD: Mason910 Hettinger594 (ID: 1d238968-2939-1734-5e6e-650d3e16454c) ==
+
+== Demographics ==
+Patient ID: 1d238968-2939-1734-5e6e-650d3e16454c
+Name: Mason910 Hettinger594
+Gender: M
+Birthdate: 1975-12-24
+Address: 823 Bechtelar Dam
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Limited social contact (finding)
+- Anemia (disorder)
+- Not in labor force (finding)
+- Gout
+- Concussion with no loss of consciousness
+- Fracture of rib
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+
+== Current Medications ==
+- Naproxen 500 MG Oral Tablet
+- Allopurinol 100 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-03-14T02:27:10Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-14T03:20:06Z)
+- Depression screening (procedure) (Date: 2013-03-14T03:56:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-14T04:10:11Z)
+- Assessment of substance use (procedure) (Date: 2013-03-14T04:34:09Z)
+- Screening for drug abuse (procedure) (Date: 2013-03-14T04:47:23Z)
+- Chest X-ray (Date: 2015-01-26T04:36:56Z)
+- Bone immobilization (Date: 2015-01-26T04:36:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-31T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-31T02:27:10Z)
+- Assessment of substance use (procedure) (Date: 2015-12-31T03:03:59Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-31T03:18:50Z)
+- Echocardiography (procedure) (Date: 2016-04-07T02:27:10Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2016-04-07T02:27:10Z)
+- Catheter ablation of tissue of heart (Date: 2016-04-07T02:27:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-04T02:27:10Z)
+- Depression screening (procedure) (Date: 2018-01-04T03:23:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-04T03:34:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-09T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-09T02:27:10Z)
+- Depression screening (procedure) (Date: 2020-01-09T03:19:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-09T03:32:46Z)
+- Assessment of substance use (procedure) (Date: 2020-01-09T03:53:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-09T04:08:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-01-09T02:27:10Z: General examination of patient (procedure)
+- 2018-01-04T02:27:10Z: General examination of patient (procedure)
+- 2016-04-07T02:27:10Z: Cardiac Arrest
+- 2015-12-31T02:27:10Z: General examination of patient (procedure)
+- 2015-03-20T05:07:40Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2020-12-25T02:27:10Z QOLS: 0.6 {score}
+- 2020-12-25T02:27:10Z DALY: 3.5 a
+- 2020-12-25T02:27:10Z QALY: 40.5 a
+- 2020-01-09T04:31:25Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-01-09T03:53:43Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-01-09T03:19:56Z What is your current work situation?: Full-time work nan
+- 2020-01-09T03:19:56Z What is your main insurance?: Private insurance nan
+- 2020-01-09T03:19:56Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 53805 /a
+- 2020-01-09T03:19:56Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone nan
+- 2020-01-09T03:19:56Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

@@ -1,0 +1,79 @@
+== PATIENT RECORD: Alton320 Parker433 (ID: 1cd0fcc2-1fc9-6471-510b-2b524494d9f3) ==
+
+== Demographics ==
+Patient ID: 1cd0fcc2-1fc9-6471-510b-2b524494d9f3
+Name: Alton320 Parker433
+Gender: M
+Birthdate: 2004-02-01
+Address: 176 Botsford Avenue
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Child attention deficit disorder
+- Risk activity involvement (finding)
+- Diarrhea symptom (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-30T00:31:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-04T00:31:42Z)
+- Cognitive and behavioral therapy (Date: 2014-10-05T00:31:42Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-22T00:31:42Z)
+- Depression screening (procedure) (Date: 2016-02-22T00:58:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-02-22T01:13:32Z)
+- Assessment of substance use (procedure) (Date: 2016-02-22T01:40:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-02-22T01:50:42Z)
+- Health risks education (procedure) (Date: 2016-02-22T02:20:09Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-27T00:31:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-27T00:31:42Z)
+- Depression screening (procedure) (Date: 2017-02-27T00:59:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-27T01:14:56Z)
+- Depression screening (procedure) (Date: 2018-03-05T00:31:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-05T00:45:59Z)
+- Depression screening (procedure) (Date: 2019-03-11T00:31:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-11T00:31:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-11T00:45:44Z)
+- Assessment of substance use (procedure) (Date: 2019-03-11T01:09:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-03-11T01:20:56Z)
+- Anticipatory guidance (procedure) (Date: 2019-03-11T01:36:22Z)
+- Depression screening (procedure) (Date: 2020-03-16T00:31:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-03-16T00:43:11Z)
+- Assessment of substance use (procedure) (Date: 2020-03-16T01:03:45Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-03-16T01:16:50Z)
+- Health risks education (procedure) (Date: 2020-03-16T01:36:57Z)
+- Face mask (physical object) (Date: 2021-03-20T00:31:42Z)
+- Depression screening (procedure) (Date: 2021-03-22T00:31:42Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-22T00:31:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-22T00:42:39Z)
+- Assessment of substance use (procedure) (Date: 2021-03-22T01:05:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-03-22T01:16:40Z)
+- Anticipatory guidance (procedure) (Date: 2021-03-22T01:45:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-05T00:31:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-07T00:31:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-22T00:31:42Z: Well child visit (procedure)
+- 2021-03-20T00:31:42Z: Encounter for symptom (procedure)
+- 2020-03-16T00:31:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-22T01:05:07Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-03-22T00:31:42Z Body Mass Index: 21.2 kg/m2
+- 2021-03-22T00:31:42Z Heart rate: 91.0 /min
+- 2021-03-22T00:31:42Z Body Height: 175.4 cm
+- 2021-03-22T00:31:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-03-22T00:31:42Z Body Weight: 65.3 kg
+- 2021-03-22T00:31:42Z Body mass index (BMI) [Percentile] Per age and gender: 49.0 %
+- 2021-03-22T00:31:42Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-03-22T00:31:42Z Systolic Blood Pressure: 117.0 mm[Hg]
+- 2021-03-22T00:31:42Z Respiratory rate: 14.0 /min

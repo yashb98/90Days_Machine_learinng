@@ -1,0 +1,37 @@
+== PATIENT RECORD: Tabatha105 Schaefer657 (ID: ef3624d5-0c77-e990-c856-064916d06155) ==
+
+== Demographics ==
+Patient ID: ef3624d5-0c77-e990-c856-064916d06155
+Name: Tabatha105 Schaefer657
+Gender: F
+Birthdate: 2021-09-24
+Address: 608 Green Light
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-10-29T13:38:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-29T13:38:08Z: Well child visit (procedure)
+- 2021-09-24T13:38:08Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-29T13:38:08Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-10-29T13:38:08Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-10-29T13:38:08Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-29T13:38:08Z Respiratory rate: 13.0 /min
+- 2021-10-29T13:38:08Z Heart rate: 100.0 /min
+- 2021-10-29T13:38:08Z Systolic Blood Pressure: 120.0 mm[Hg]
+- 2021-10-29T13:38:08Z Body Height: 53.6 cm
+- 2021-10-29T13:38:08Z Head Occipital-frontal circumference: 37.0 cm
+- 2021-10-29T13:38:08Z Weight-for-length Per age and sex: 1.8 %
+- 2021-10-29T13:38:08Z Body Weight: 3.7 kg

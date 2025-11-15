@@ -1,0 +1,51 @@
+== PATIENT RECORD: Ozella681 Ortiz186 (ID: f2308839-f572-e86e-8f29-cb0fd61e0f57) ==
+
+== Demographics ==
+Patient ID: f2308839-f572-e86e-8f29-cb0fd61e0f57
+Name: Ozella681 Ortiz186
+Gender: F
+Birthdate: 2013-08-21
+Address: 726 Hills Passage
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Otitis media
+- Facial laceration
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-11-27T17:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-29T17:36:35Z)
+- Measurement of respiratory function (procedure) (Date: 2015-03-16T00:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-25T17:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-27T17:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-27T17:36:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-01T17:36:35Z)
+- Suture open wound (Date: 2020-12-31T17:36:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-18T17:36:35Z: Well child visit (procedure)
+- 2020-12-31T17:36:35Z: Emergency room admission (procedure)
+- 2020-08-12T17:36:35Z: Well child visit (procedure)
+- 2019-08-07T17:36:35Z: Well child visit (procedure)
+- 2018-08-01T17:36:35Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-21T17:36:35Z QOLS: 1.0 {score}
+- 2021-08-21T17:36:35Z QALY: 7.0 a
+- 2021-08-21T17:36:35Z DALY: 0.0 a
+- 2021-08-18T17:36:35Z Body Height: 128.2 cm
+- 2021-08-18T17:36:35Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-08-18T17:36:35Z Body Weight: 27.7 kg
+- 2021-08-18T17:36:35Z Body Mass Index: 16.8 kg/m2
+- 2021-08-18T17:36:35Z Body mass index (BMI) [Percentile] Per age and gender: 69.2 %
+- 2021-08-18T17:36:35Z Diastolic Blood Pressure: 72.0 mm[Hg]
+- 2021-08-18T17:36:35Z Heart rate: 80.0 /min

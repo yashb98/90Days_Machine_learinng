@@ -1,0 +1,208 @@
+== PATIENT RECORD: Tommye961 Simonis280 (ID: 57b53310-98a9-f011-69c0-02068c37d83b) ==
+
+== Demographics ==
+Patient ID: 57b53310-98a9-f011-69c0-02068c37d83b
+Name: Tommye961 Simonis280
+Gender: F
+Birthdate: 1972-07-13
+Address: 893 McGlynn Street
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Prediabetes
+- Not in labor force (finding)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Fetus with unknown complication
+- Acute Cholecystitis
+- Cholelithiasis
+- Anemia (disorder)
+- Antepartum eclampsia
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Seasonique 91 Day Pack
+- Camila 28 Day Pack
+- 1 ML heparin sodium  porcine 5000 UNT/ML Injection
+- Sodium Chloride 9 MG/ML Injectable Solution
+- 2 ML Ondansetron 2 MG/ML Injection
+- 1 ML Morphine Sulfate 5 MG/ML Injection
+- Piperacillin 4000 MG / tazobactam 500 MG Injection
+- Midazolam 1 MG/ML Injectable Solution
+- 100 ML Propofol 10 MG/ML Injection
+- Rocuronium bromide 10 MG/ML Injectable Solution
+- Isoflurane 999 MG/ML Inhalant Solution
+- remifentanil 2 MG Injection
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Yaz 28 Day Pack
+- Liletta 52 MG Intrauterine System
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-19T22:00:29Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-19T22:00:29Z)
+- Depression screening (procedure) (Date: 2012-07-19T22:41:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-19T22:56:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-24T22:00:29Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-24T22:00:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-28T22:00:29Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-28T22:39:20Z)
+- Standard pregnancy test (Date: 2016-09-29T22:00:29Z)
+- Ultrasound scan for fetal viability (Date: 2016-09-29T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2016-09-29T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2016-09-29T22:00:29Z)
+- Blood typing  RH typing (Date: 2016-09-29T22:00:29Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-09-29T22:00:29Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-09-29T22:00:29Z)
+- Human immunodeficiency virus antigen test (Date: 2016-09-29T22:00:29Z)
+- Chlamydia antigen test (Date: 2016-09-29T22:00:29Z)
+- Gonorrhea infection test (Date: 2016-09-29T22:00:29Z)
+- Syphilis infection test (Date: 2016-09-29T22:00:29Z)
+- Urine culture (Date: 2016-09-29T22:00:29Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-09-29T22:00:29Z)
+- Urine screening test for diabetes (Date: 2016-09-29T22:00:29Z)
+- Hepatitis C antibody test (Date: 2016-09-29T22:00:29Z)
+- Rubella screening (Date: 2016-09-29T22:00:29Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-09-29T22:00:29Z)
+- Skin test for tuberculosis (Date: 2016-09-29T22:00:29Z)
+- Urine protein test (Date: 2016-09-29T22:00:29Z)
+- Physical examination of mother (Date: 2016-09-29T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2016-10-27T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2016-10-27T22:00:29Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-10-27T22:00:29Z)
+- Fetal anatomy study (Date: 2016-11-24T22:00:29Z)
+- Alpha-fetoprotein test (Date: 2016-11-24T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2016-11-24T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2016-11-24T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2016-12-22T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2016-12-22T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2017-01-19T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2017-01-19T22:00:29Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-02-16T22:00:29Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2017-02-16T22:00:29Z)
+- Urine screening for glucose (Date: 2017-02-16T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2017-02-16T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2017-02-16T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2017-03-16T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2017-03-16T22:00:29Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2017-04-13T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2017-04-13T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2017-04-13T22:00:29Z)
+- Episiotomy (Date: 2017-04-27T22:00:29Z)
+- Childbirth (Date: 2017-04-27T22:00:29Z)
+- Physical examination following birth (Date: 2017-06-08T22:00:29Z)
+- Depression screening (Date: 2017-06-08T22:00:29Z)
+- Standard pregnancy test (Date: 2017-09-07T22:00:29Z)
+- Ultrasound scan for fetal viability (Date: 2017-09-07T22:00:29Z)
+- Physical examination (Date: 2017-09-21T22:00:29Z)
+- Depression screening (Date: 2017-09-21T22:00:29Z)
+- Electrocardiographic procedure (Date: 2018-05-11T13:00:29Z)
+- Ultrasonography of abdomen  right upper quadrant and epigastrium (Date: 2018-05-11T13:09:56Z)
+- Intubation (Date: 2018-05-11T14:46:56Z)
+- Laparoscopic Removal of Gall Bladder (Date: 2018-05-11T14:53:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-02T22:00:29Z)
+- Peripheral blood smear interpretation (Date: 2018-08-02T22:00:29Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-02T22:32:27Z)
+- Review of systems (procedure) (Date: 2018-08-02T22:30:29Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-02T22:47:49Z)
+- Brief general examination (procedure) (Date: 2018-08-02T23:01:58Z)
+- Standard pregnancy test (Date: 2018-08-23T22:00:29Z)
+- Ultrasound scan for fetal viability (Date: 2018-08-23T22:00:29Z)
+- Counseling for termination of pregnancy (Date: 2018-09-01T22:00:29Z)
+- Induced termination of pregnancy (Date: 2018-09-01T22:00:29Z)
+- Pregnancy termination care (Date: 2018-09-09T22:00:29Z)
+- Physical exam following abortion (Date: 2018-09-09T22:00:29Z)
+- Depression screening (Date: 2018-09-09T22:00:29Z)
+- Standard pregnancy test (Date: 2019-02-14T22:00:29Z)
+- Ultrasound scan for fetal viability (Date: 2019-02-14T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-02-14T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-02-14T22:00:29Z)
+- Blood typing  RH typing (Date: 2019-02-14T22:00:29Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-02-14T22:00:29Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-02-14T22:00:29Z)
+- Human immunodeficiency virus antigen test (Date: 2019-02-14T22:00:29Z)
+- Chlamydia antigen test (Date: 2019-02-14T22:00:29Z)
+- Gonorrhea infection test (Date: 2019-02-14T22:00:29Z)
+- Syphilis infection test (Date: 2019-02-14T22:00:29Z)
+- Urine culture (Date: 2019-02-14T22:00:29Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-02-14T22:00:29Z)
+- Urine screening test for diabetes (Date: 2019-02-14T22:00:29Z)
+- Hepatitis C antibody test (Date: 2019-02-14T22:00:29Z)
+- Rubella screening (Date: 2019-02-14T22:00:29Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-02-14T22:00:29Z)
+- Skin test for tuberculosis (Date: 2019-02-14T22:00:29Z)
+- Urine protein test (Date: 2019-02-14T22:00:29Z)
+- Physical examination of mother (Date: 2019-02-14T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-03-14T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-03-14T22:00:29Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-03-14T22:00:29Z)
+- Fetal anatomy study (Date: 2019-04-11T22:00:29Z)
+- Alpha-fetoprotein test (Date: 2019-04-11T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-04-11T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-04-11T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-05-09T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-05-09T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-06-06T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-06-06T22:00:29Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-04T22:00:29Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-07-04T22:00:29Z)
+- Urine screening for glucose (Date: 2019-07-04T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-07-04T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-07-04T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-08-01T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-08-01T22:00:29Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-08-29T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-08-29T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-08-29T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-09-12T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-09-12T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-09-19T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-09-19T22:00:29Z)
+- Evaluation of uterine fundal height (Date: 2019-09-26T22:00:29Z)
+- Auscultation of the fetal heart (Date: 2019-09-26T22:00:29Z)
+- Medical induction of labor (Date: 2019-10-03T22:00:29Z)
+- Childbirth (Date: 2019-10-03T22:00:29Z)
+- Physical examination following birth (Date: 2019-11-14T22:00:29Z)
+- Depression screening (Date: 2019-11-14T22:00:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-06T22:00:29Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-06T22:38:38Z)
+- Depression screening (procedure) (Date: 2020-08-06T23:11:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-06T23:21:09Z)
+- Assessment of substance use (procedure) (Date: 2020-08-06T23:46:55Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-07T00:00:41Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-11-12T19:00:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-17T22:00:29Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-17T22:35:04Z)
+- Depression screening (procedure) (Date: 2020-12-17T22:51:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-17T23:04:13Z)
+- Assessment of substance use (procedure) (Date: 2020-12-17T23:25:50Z)
+- Screening for drug abuse (procedure) (Date: 2020-12-17T23:39:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-11T22:00:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-18T22:00:29Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-17T22:00:29Z: Encounter for check up (procedure)
+- 2020-12-14T19:00:29Z: Encounter for symptom
+- 2020-11-12T19:00:29Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-07-13T22:00:29Z QOLS: 0.9 {score}
+- 2021-07-13T22:00:29Z DALY: 0.4 a
+- 2021-07-13T22:00:29Z QALY: 47.6 a
+- 2020-12-18T00:06:53Z Total score [DAST-10]: 0.0 {score}
+- 2020-12-17T23:25:50Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-12-17T22:51:23Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2020-12-17T22:35:04Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2020-12-17T22:35:04Z What is your current work situation?: Full-time work nan
+- 2020-12-17T22:35:04Z What is your main insurance?: Private insurance nan
+- 2020-12-17T22:35:04Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 59035 /a

@@ -1,0 +1,112 @@
+== PATIENT RECORD: Gerry91 Treutel973 (ID: ceec80e3-5c50-be88-198c-e98375c8e8a2) ==
+
+== Demographics ==
+Patient ID: ceec80e3-5c50-be88-198c-e98375c8e8a2
+Name: Gerry91 Treutel973
+Gender: M
+Birthdate: 1977-09-12
+Address: 830 Lebsack Brook
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Social isolation (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-06T14:27:33Z)
+- Depression screening (procedure) (Date: 2012-02-06T15:05:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-06T15:15:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-11T14:27:33Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-11T14:27:33Z)
+- Depression screening (procedure) (Date: 2013-02-11T15:20:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-11T15:32:55Z)
+- Assessment of substance use (procedure) (Date: 2013-02-11T16:01:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-11T16:14:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-17T14:27:33Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-17T14:27:33Z)
+- Depression screening (procedure) (Date: 2014-02-17T15:20:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-17T15:34:07Z)
+- Assessment of substance use (procedure) (Date: 2014-02-17T16:03:10Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-17T16:15:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-30T14:27:33Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-30T14:27:33Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-30T15:20:19Z)
+- Depression screening (procedure) (Date: 2014-06-30T15:49:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-30T16:00:51Z)
+- Assessment of substance use (procedure) (Date: 2014-06-30T16:21:04Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-30T16:33:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-23T14:27:33Z)
+- Depression screening (procedure) (Date: 2015-02-23T15:16:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-23T15:30:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-29T14:27:33Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-29T15:19:23Z)
+- Depression screening (procedure) (Date: 2016-02-29T16:00:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-29T16:11:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-06T14:27:33Z)
+- Depression screening (procedure) (Date: 2017-03-06T15:05:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-06T15:20:30Z)
+- Assessment of substance use (procedure) (Date: 2017-03-06T15:41:28Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-06T15:55:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-12T14:27:33Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-12T15:03:25Z)
+- Assessment of substance use (procedure) (Date: 2018-03-12T15:30:54Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-12T15:43:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-18T14:27:33Z)
+- Depression screening (procedure) (Date: 2019-03-18T15:12:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-18T15:24:58Z)
+- Assessment of substance use (procedure) (Date: 2019-03-18T15:45:20Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-18T15:55:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-23T14:27:33Z)
+- Screening for domestic abuse (procedure) (Date: 2020-03-23T15:07:18Z)
+- Depression screening (procedure) (Date: 2020-03-23T15:40:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-23T15:54:19Z)
+- Assessment of substance use (procedure) (Date: 2020-03-23T16:22:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-23T16:35:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-29T14:27:33Z)
+- Depression screening (procedure) (Date: 2021-03-29T14:57:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-29T15:09:34Z)
+- Assessment of substance use (procedure) (Date: 2021-03-29T15:36:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-29T15:47:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-29T14:27:33Z: General examination of patient (procedure)
+- 2021-03-22T14:27:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-03-23T14:27:33Z: General examination of patient (procedure)
+- 2019-03-18T14:27:33Z: General examination of patient (procedure)
+- 2018-03-12T14:27:33Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-12T14:27:33Z QOLS: 0.7 {score}
+- 2021-09-12T14:27:33Z DALY: 10.5 a
+- 2021-09-12T14:27:33Z QALY: 32.5 a
+- 2021-03-29T16:17:49Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-03-29T15:36:46Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-29T14:57:55Z What is your current work situation?: Full-time work nan
+- 2021-03-29T14:57:55Z What language are you most comfortable speaking?: English nan
+- 2021-03-29T14:57:55Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-03-29T14:57:55Z What is your housing situation today?: I have housing nan
+- 2021-03-29T14:57:55Z Are you worried about losing your housing?: Yes nan

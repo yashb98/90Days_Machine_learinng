@@ -1,0 +1,120 @@
+== PATIENT RECORD: Art115 Lesch175 (ID: 3436e704-73e4-11da-241d-7adeccd97a0d) ==
+
+== Demographics ==
+Patient ID: 3436e704-73e4-11da-241d-7adeccd97a0d
+Name: Art115 Lesch175
+Gender: M
+Birthdate: 1953-02-08
+Address: 295 Cormier Trailer
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Chronic intractable migraine without aura
+- Body mass index 30+ - obesity (finding)
+- Chronic pain
+- Impacted molars
+- Drug overdose
+- Hyperlipidemia
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Social isolation (finding)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Polyp of colon
+- Viral sinusitis (disorder)
+- Sprain of ankle
+- Homeless (finding)
+- Injury of tendon of the rotator cuff of shoulder
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-01T10:36:25Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-01T11:33:35Z)
+- Colonoscopy (Date: 2013-02-08T11:57:15Z)
+- Screening for occult blood in feces (procedure) (Date: 2013-02-08T12:41:04Z)
+- Rectal polypectomy (Date: 2013-02-08T12:41:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-07T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-07T10:36:25Z)
+- Depression screening (procedure) (Date: 2013-04-07T11:17:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-07T11:29:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-16T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-16T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-16T11:15:37Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-16T11:30:43Z)
+- Depression screening (procedure) (Date: 2014-02-16T12:01:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-16T12:11:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-13T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-13T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-13T11:34:56Z)
+- Colonoscopy (Date: 2014-07-21T12:41:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-19T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-19T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-19T11:29:26Z)
+- Depression screening (procedure) (Date: 2015-04-19T11:54:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-19T12:05:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-24T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-24T10:36:25Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-24T11:34:42Z)
+- Depression screening (procedure) (Date: 2016-04-24T12:14:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-24T12:24:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-30T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-30T11:16:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-06T10:36:25Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-06T11:13:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-12T10:36:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-05-12T11:35:01Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-12T11:54:37Z)
+- Depression screening (procedure) (Date: 2019-05-12T12:19:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-12T12:31:38Z)
+- Colonoscopy (Date: 2019-07-21T13:07:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-17T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-17T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-17T11:08:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-05-17T11:38:27Z)
+- Depression screening (procedure) (Date: 2020-05-17T11:57:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-17T12:10:45Z)
+- Information gathering (procedure) (Date: 2020-06-16T10:36:25Z)
+- Information gathering (procedure) (Date: 2020-07-16T10:36:25Z)
+- Information gathering (procedure) (Date: 2020-08-15T10:36:25Z)
+- Information gathering (procedure) (Date: 2020-10-14T10:36:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-23T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-23T10:36:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-05-23T11:28:46Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-23T11:58:35Z)
+- Depression screening (procedure) (Date: 2021-05-23T12:28:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-23T12:38:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-21T13:10:45Z: Encounter for 'check-up'
+- 2021-09-13T10:36:25Z: Drug rehabilitation and detoxification
+- 2021-08-09T13:10:45Z: Encounter for problem
+- 2021-06-19T10:36:25Z: Encounter for problem (procedure)
+- 2021-05-23T10:36:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-13T10:36:25Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+- 2021-05-23T13:06:38Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-05-23T12:28:30Z Total score [HARK]: 0.0 {score}
+- 2021-05-23T11:58:35Z Fall risk total [Morse Fall Scale]: 95.0 {#}
+- 2021-05-23T11:58:35Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-05-23T11:28:46Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-05-23T11:28:46Z What is your current work situation?: Full-time work nan
+- 2021-05-23T11:28:46Z What is your housing situation today?: I have housing nan
+- 2021-05-23T11:28:46Z Are you worried about losing your housing?: No nan
+- 2021-05-23T11:28:46Z What is the highest level of school that you have finished?: High school diploma or GED nan

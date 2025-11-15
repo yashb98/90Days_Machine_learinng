@@ -1,0 +1,98 @@
+== PATIENT RECORD: Kristopher775 Strosin214 (ID: 8470167f-f7da-8fb6-6972-45209f7b7842) ==
+
+== Demographics ==
+Patient ID: 8470167f-f7da-8fb6-6972-45209f7b7842
+Name: Kristopher775 Strosin214
+Gender: M
+Birthdate: 2000-01-05
+Address: 688 Dickinson Course Apt 38
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of rib
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-01-26T04:12:34Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-26T04:12:34Z)
+- Depression screening (procedure) (Date: 2012-01-26T04:35:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-01-26T04:45:34Z)
+- Assessment of anxiety (procedure) (Date: 2013-01-31T04:12:34Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-31T04:12:34Z)
+- Depression screening (procedure) (Date: 2013-01-31T04:37:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-01-31T04:52:05Z)
+- Chest X-ray (Date: 2014-01-08T04:12:34Z)
+- Bone immobilization (Date: 2014-01-08T04:12:34Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-02-06T04:12:34Z)
+- Assessment of substance use (procedure) (Date: 2014-02-06T04:34:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-02-06T04:47:52Z)
+- Anticipatory guidance (procedure) (Date: 2014-02-06T05:16:21Z)
+- Depression screening (procedure) (Date: 2015-02-12T04:12:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-02-12T04:26:28Z)
+- Depression screening (procedure) (Date: 2016-02-18T04:12:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-02-18T04:24:33Z)
+- Assessment of substance use (procedure) (Date: 2016-02-18T04:46:51Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-02-18T05:00:50Z)
+- Health risks education (procedure) (Date: 2016-02-18T05:15:34Z)
+- Depression screening (procedure) (Date: 2017-02-23T04:12:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-23T04:26:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-01T04:12:34Z)
+- Depression screening (procedure) (Date: 2018-03-01T05:11:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-01T05:23:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-07T04:12:34Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-07T04:42:50Z)
+- Assessment of substance use (procedure) (Date: 2019-03-07T05:01:06Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-07T05:11:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-12T04:12:34Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-12T05:04:23Z)
+- Screening for domestic abuse (procedure) (Date: 2020-03-12T05:22:20Z)
+- Depression screening (procedure) (Date: 2020-03-12T06:00:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-12T06:12:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-28T04:12:34Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-28T05:01:48Z)
+- Depression screening (procedure) (Date: 2020-05-28T05:22:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-28T05:37:03Z)
+- Assessment of substance use (procedure) (Date: 2020-05-28T05:58:17Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-28T06:08:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-18T04:12:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-18T04:12:34Z)
+- Screening for domestic abuse (procedure) (Date: 2021-03-18T04:51:38Z)
+- Depression screening (procedure) (Date: 2021-03-18T05:26:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-18T05:37:55Z)
+- Assessment of substance use (procedure) (Date: 2021-03-18T06:07:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-18T06:20:43Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-18T04:12:34Z: General examination of patient (procedure)
+- 2020-05-28T04:12:34Z: Encounter for check up (procedure)
+- 2020-05-22T03:12:34Z: Encounter for symptom
+- 2020-03-12T04:12:34Z: General examination of patient (procedure)
+- 2019-03-07T04:12:34Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-18T06:46:48Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-03-18T06:07:24Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-18T05:26:09Z Total score [HARK]: 0.0 {score}
+- 2021-03-18T04:51:38Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-18T04:51:38Z What is your current work situation?: Full-time work nan
+- 2021-03-18T04:51:38Z What is your main insurance?: Private insurance nan
+- 2021-03-18T04:51:38Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone nan
+- 2021-03-18T04:51:38Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-18T04:51:38Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-03-18T04:51:38Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 25314 /a

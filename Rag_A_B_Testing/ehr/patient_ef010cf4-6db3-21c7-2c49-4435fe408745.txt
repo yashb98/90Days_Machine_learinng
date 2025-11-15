@@ -1,0 +1,100 @@
+== PATIENT RECORD: Nicholas495 Heaney114 (ID: ef010cf4-6db3-21c7-2c49-4435fe408745) ==
+
+== Demographics ==
+Patient ID: ef010cf4-6db3-21c7-2c49-4435fe408745
+Name: Nicholas495 Heaney114
+Gender: M
+Birthdate: 1981-07-13
+Address: 596 Jaskolski Tunnel
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic intractable migraine without aura
+- Impacted molars
+- Chronic pain
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Drug overdose
+- Social isolation (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Chronic low back pain (finding)
+- Acute bronchitis (disorder)
+- Otitis media
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-25T03:46:21Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-25T03:46:21Z)
+- Depression screening (procedure) (Date: 2012-09-25T04:23:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-25T04:35:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-23T03:46:21Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-23T03:46:21Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-23T04:33:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T03:46:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T04:33:49Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T05:31:04Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T06:17:43Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T07:05:53Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T07:51:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T08:37:44Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T09:26:00Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T10:12:02Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-08T11:10:37Z)
+- Measurement of respiratory function (procedure) (Date: 2014-07-02T09:46:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-29T03:46:21Z)
+- Screening for domestic abuse (procedure) (Date: 2015-09-29T04:38:38Z)
+- Depression screening (procedure) (Date: 2015-09-29T05:04:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-29T05:16:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-09-29T05:42:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-02T03:46:21Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-02T03:46:21Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-02T04:22:47Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-02T04:50:01Z)
+- Depression screening (procedure) (Date: 2016-02-02T05:15:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-02T05:28:19Z)
+- Sputum examination (procedure) (Date: 2016-08-26T19:46:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-02T03:46:21Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-02T03:46:21Z)
+- Depression screening (procedure) (Date: 2018-10-02T04:40:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-02T04:51:32Z)
+- Echocardiography (procedure) (Date: 2021-05-18T03:46:21Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2021-05-18T03:46:21Z)
+- Catheter ablation of tissue of heart (Date: 2021-05-18T03:46:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-20T03:46:21Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-20T04:30:02Z)
+- Depression screening (procedure) (Date: 2021-07-20T04:54:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-20T05:08:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-20T03:46:21Z: General examination of patient (procedure)
+- 2021-05-18T03:46:21Z: Cardiac Arrest
+- 2021-04-20T03:46:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-23T03:46:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-11-24T03:46:21Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-20T05:29:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-07-20T04:54:16Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-07-20T04:30:02Z Are you Hispanic or Latino?: No nan
+- 2021-07-20T04:30:02Z What is your current work situation?: Full-time work nan
+- 2021-07-20T04:30:02Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-07-20T04:30:02Z What language are you most comfortable speaking?: English nan
+- 2021-07-20T04:30:02Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-07-20T04:30:02Z What is your housing situation today?: I have housing nan
+- 2021-07-20T04:30:02Z Are you worried about losing your housing?: No nan
+- 2021-07-20T04:30:02Z What address do you live at?: 596 Jaskolski Tunnel nan

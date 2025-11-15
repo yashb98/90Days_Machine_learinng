@@ -1,0 +1,160 @@
+== PATIENT RECORD: Oneida64 Tromp100 (ID: 753e1440-87ec-7175-29e7-73bf24f5c7f0) ==
+
+== Demographics ==
+Patient ID: 753e1440-87ec-7175-29e7-73bf24f5c7f0
+Name: Oneida64 Tromp100
+Gender: F
+Birthdate: 1940-08-02
+Address: 145 Streich Bay
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Appendicitis
+- History of appendectomy
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Miscarriage in first trimester
+- Malignant neoplasm of breast (disorder)
+- Prediabetes
+- Hyperlipidemia
+- Anemia (disorder)
+- Reports of violence in the environment (finding)
+- Limited social contact (finding)
+- Osteoporosis (disorder)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Sprain of ankle
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-02T04:50:31Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-02T04:50:31Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-02T05:43:27Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-12-02T06:07:26Z)
+- Depression screening (procedure) (Date: 2011-12-02T06:28:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-02T06:38:30Z)
+- Assessment of substance use (procedure) (Date: 2011-12-02T07:05:39Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-02T07:15:54Z)
+- Mammography (procedure) (Date: 2012-05-12T08:05:08Z)
+- Manual pelvic examination (procedure) (Date: 2012-05-12T08:23:37Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-05-12T08:35:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-07T04:50:31Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-07T05:44:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-12-07T06:09:54Z)
+- Depression screening (procedure) (Date: 2012-12-07T06:35:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-07T06:50:32Z)
+- Assessment of substance use (procedure) (Date: 2012-12-07T07:12:21Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-07T07:27:12Z)
+- Mammography (procedure) (Date: 2013-06-04T08:54:12Z)
+- Manual pelvic examination (procedure) (Date: 2013-06-04T09:11:28Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-06-04T09:25:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-13T04:50:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-12-13T05:49:56Z)
+- Depression screening (procedure) (Date: 2013-12-13T06:06:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-13T06:19:34Z)
+- Assessment of substance use (procedure) (Date: 2013-12-13T06:49:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-13T07:03:28Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-05T04:50:31Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T05:36:02Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T06:32:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T07:26:30Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T08:13:10Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T09:11:09Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-23T09:57:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-26T10:50:37Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-01T11:42:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-04T12:42:34Z)
+- Mammography (procedure) (Date: 2014-06-02T09:35:45Z)
+- Manual pelvic examination (procedure) (Date: 2014-06-02T09:54:35Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-06-02T10:06:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-19T04:50:31Z)
+- Depression screening (procedure) (Date: 2014-12-19T05:23:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-19T05:37:06Z)
+- Assessment of substance use (procedure) (Date: 2014-12-19T06:06:27Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-19T06:20:25Z)
+- Mammography (procedure) (Date: 2015-06-08T10:17:06Z)
+- Manual pelvic examination (procedure) (Date: 2015-06-08T10:39:54Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-06-08T10:51:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-25T04:50:31Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-25T05:38:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-25T05:56:03Z)
+- Assessment of substance use (procedure) (Date: 2015-12-25T06:13:35Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-25T06:28:22Z)
+- Mammography (procedure) (Date: 2016-06-10T11:08:22Z)
+- Manual pelvic examination (procedure) (Date: 2016-06-10T11:32:48Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-06-10T11:44:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-30T04:50:31Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-30T05:35:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-12-30T05:55:58Z)
+- Depression screening (procedure) (Date: 2016-12-30T06:12:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-30T06:23:18Z)
+- Assessment of substance use (procedure) (Date: 2016-12-30T06:51:46Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-30T07:03:34Z)
+- Mammography (procedure) (Date: 2017-06-03T11:58:59Z)
+- Manual pelvic examination (procedure) (Date: 2017-06-03T12:17:10Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-06-03T12:27:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-05T04:50:31Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-05T04:50:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-01-05T05:32:23Z)
+- Depression screening (procedure) (Date: 2018-01-05T05:53:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-05T06:04:28Z)
+- Mammography (procedure) (Date: 2018-06-05T12:39:33Z)
+- Manual pelvic examination (procedure) (Date: 2018-06-05T12:58:46Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-06-05T13:09:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-11T04:50:31Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-11T05:46:50Z)
+- Depression screening (procedure) (Date: 2019-01-11T06:06:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-11T06:19:01Z)
+- Mammography (procedure) (Date: 2019-06-21T13:26:56Z)
+- Manual pelvic examination (procedure) (Date: 2019-06-21T13:48:18Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-06-21T14:02:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-17T04:50:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-01-17T05:47:23Z)
+- Depression screening (procedure) (Date: 2020-01-17T06:05:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-17T06:18:51Z)
+- Assessment of substance use (procedure) (Date: 2020-01-17T06:41:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-17T06:53:25Z)
+- Mammography (procedure) (Date: 2020-06-07T14:15:18Z)
+- Manual pelvic examination (procedure) (Date: 2020-06-07T14:34:11Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-06-07T14:46:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-22T04:50:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-01-22T05:40:41Z)
+- Depression screening (procedure) (Date: 2021-01-22T06:09:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-22T06:19:18Z)
+- Assessment of substance use (procedure) (Date: 2021-01-22T06:43:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-01-22T06:54:53Z)
+- Mammography (procedure) (Date: 2021-05-10T15:03:14Z)
+- Manual pelvic examination (procedure) (Date: 2021-05-10T15:21:34Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-05-10T15:32:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T04:50:31Z: Follow-up encounter
+- 2021-05-10T15:21:34Z: Gynecology service (qualifier value)
+- 2021-05-10T15:03:14Z: Screening surveillance (regime/therapy)
+- 2021-05-10T15:03:14Z: Postoperative follow-up visit (procedure)
+- 2021-03-12T04:50:31Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T04:50:31Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 109.4 U/L
+- 2021-09-09T04:50:31Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 33.8 U/L
+- 2021-09-09T04:50:31Z Triglycerides: 135.0 mg/dL
+- 2021-09-09T04:50:31Z Low Density Lipoprotein Cholesterol: 132.4 mg/dL
+- 2021-09-09T04:50:31Z High Density Lipoprotein Cholesterol: 77.6 mg/dL
+- 2021-09-09T04:50:31Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 58.9 U/L
+- 2021-09-09T04:50:31Z Bilirubin.total [Mass/volume] in Serum or Plasma: 1.0 mg/dL
+- 2021-09-09T04:50:31Z Globulin [Mass/volume] in Serum by calculation: 2.5 g/L
+- 2021-09-09T04:50:31Z Albumin [Mass/volume] in Serum or Plasma: 4.2 g/dL
+- 2021-09-09T04:50:31Z Protein [Mass/volume] in Serum or Plasma: 63.0 g/dL

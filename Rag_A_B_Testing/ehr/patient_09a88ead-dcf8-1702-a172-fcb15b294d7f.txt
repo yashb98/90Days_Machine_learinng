@@ -1,0 +1,209 @@
+== PATIENT RECORD: Janeth814 Grant908 (ID: 09a88ead-dcf8-1702-a172-fcb15b294d7f) ==
+
+== Demographics ==
+Patient ID: 09a88ead-dcf8-1702-a172-fcb15b294d7f
+Name: Janeth814 Grant908
+Gender: F
+Birthdate: 1995-12-10
+Address: 969 Hettinger Lodge
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Laceration of hand
+- Rupture of patellar tendon
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Normal pregnancy
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Lack of access to transportation (finding)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Laceration of thigh
+- Unhealthy alcohol drinking behavior (finding)
+- Facial laceration
+- Cough (finding)
+- Sore throat symptom (finding)
+- Sputum finding (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Diarrhea symptom (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Natazia 28 Day Pack
+- Jolivette 28 Day Pack
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Levora 0.15/30 28 Day Pack
+- Yaz 28 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-01-22T07:36:32Z)
+- Depression screening (procedure) (Date: 2012-01-22T07:52:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-01-22T08:03:30Z)
+- Assessment of substance use (procedure) (Date: 2012-01-22T08:32:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-22T08:44:02Z)
+- Health risks education (procedure) (Date: 2012-01-22T08:54:47Z)
+- Depression screening (procedure) (Date: 2013-01-27T07:36:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-01-27T07:50:16Z)
+- Suture open wound (Date: 2013-02-09T07:36:32Z)
+- Knee X-ray (Date: 2014-01-08T07:48:11Z)
+- Surgical manipulation of joint of knee (Date: 2014-01-15T07:48:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-02T07:36:32Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-02T07:36:32Z)
+- Depression screening (procedure) (Date: 2014-02-02T08:29:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-02T08:39:23Z)
+- Assessment of substance use (procedure) (Date: 2014-02-02T09:06:38Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-02T09:19:56Z)
+- Standard pregnancy test (Date: 2014-04-20T07:36:32Z)
+- Ultrasound scan for fetal viability (Date: 2014-04-20T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-04-20T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-04-20T07:36:32Z)
+- Blood typing  RH typing (Date: 2014-04-20T07:36:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-04-20T07:36:32Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2014-04-20T07:36:32Z)
+- Human immunodeficiency virus antigen test (Date: 2014-04-20T07:36:32Z)
+- Chlamydia antigen test (Date: 2014-04-20T07:36:32Z)
+- Gonorrhea infection test (Date: 2014-04-20T07:36:32Z)
+- Syphilis infection test (Date: 2014-04-20T07:36:32Z)
+- Urine culture (Date: 2014-04-20T07:36:32Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2014-04-20T07:36:32Z)
+- Urine screening test for diabetes (Date: 2014-04-20T07:36:32Z)
+- Hepatitis C antibody test (Date: 2014-04-20T07:36:32Z)
+- Rubella screening (Date: 2014-04-20T07:36:32Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2014-04-20T07:36:32Z)
+- Skin test for tuberculosis (Date: 2014-04-20T07:36:32Z)
+- Urine protein test (Date: 2014-04-20T07:36:32Z)
+- Physical examination of mother (Date: 2014-04-20T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-05-18T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-05-18T07:36:32Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2014-05-18T07:36:32Z)
+- Fetal anatomy study (Date: 2014-06-15T07:36:32Z)
+- Alpha-fetoprotein test (Date: 2014-06-15T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-06-15T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-06-15T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-07-13T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-07-13T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-08-10T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-08-10T07:36:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-09-07T07:36:32Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2014-09-07T07:36:32Z)
+- Urine screening for glucose (Date: 2014-09-07T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-09-07T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-09-07T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-10-05T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-10-05T07:36:32Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2014-11-02T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-11-02T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-11-02T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2014-11-16T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2014-11-16T07:36:32Z)
+- Medical induction of labor (Date: 2014-11-23T07:36:32Z)
+- Childbirth (Date: 2014-11-23T07:36:32Z)
+- Physical examination following birth (Date: 2015-01-04T07:36:32Z)
+- Depression screening (Date: 2015-01-04T07:36:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-08T07:36:32Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-08T07:36:32Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-08T08:23:05Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-08T08:45:02Z)
+- Assessment of substance use (procedure) (Date: 2015-02-08T09:25:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-08T09:38:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-14T07:36:32Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-14T08:27:41Z)
+- Depression screening (procedure) (Date: 2016-02-14T09:11:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-14T09:22:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-19T07:36:32Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-19T08:30:27Z)
+- Depression screening (procedure) (Date: 2017-02-19T08:49:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-19T09:03:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-19T09:27:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-25T07:36:32Z)
+- Depression screening (procedure) (Date: 2018-02-25T08:29:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-25T08:39:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-03T07:36:32Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-03T07:36:32Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-03T08:14:12Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-03T08:34:42Z)
+- Depression screening (procedure) (Date: 2019-03-03T09:06:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-03T09:18:31Z)
+- Assessment of substance use (procedure) (Date: 2019-03-03T09:42:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-03T09:52:29Z)
+- Suture open wound (Date: 2019-11-07T10:46:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-08T07:36:32Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-08T07:36:32Z)
+- Depression screening (procedure) (Date: 2020-03-08T08:23:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-08T08:37:55Z)
+- Assessment of substance use (procedure) (Date: 2020-03-08T09:03:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-08T09:14:40Z)
+- Suture open wound (Date: 2020-09-29T10:57:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-14T07:36:32Z)
+- Assessment of substance use (procedure) (Date: 2021-03-14T08:26:54Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-14T08:39:15Z)
+- Face mask (physical object) (Date: 2021-06-08T07:36:32Z)
+- Standard pregnancy test (Date: 2021-07-11T07:36:32Z)
+- Ultrasound scan for fetal viability (Date: 2021-07-11T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2021-07-11T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2021-07-11T07:36:32Z)
+- Blood typing  RH typing (Date: 2021-07-11T07:36:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-07-11T07:36:32Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-07-11T07:36:32Z)
+- Human immunodeficiency virus antigen test (Date: 2021-07-11T07:36:32Z)
+- Chlamydia antigen test (Date: 2021-07-11T07:36:32Z)
+- Gonorrhea infection test (Date: 2021-07-11T07:36:32Z)
+- Syphilis infection test (Date: 2021-07-11T07:36:32Z)
+- Urine culture (Date: 2021-07-11T07:36:32Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-07-11T07:36:32Z)
+- Urine screening test for diabetes (Date: 2021-07-11T07:36:32Z)
+- Hepatitis C antibody test (Date: 2021-07-11T07:36:32Z)
+- Rubella screening (Date: 2021-07-11T07:36:32Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-07-11T07:36:32Z)
+- Skin test for tuberculosis (Date: 2021-07-11T07:36:32Z)
+- Urine protein test (Date: 2021-07-11T07:36:32Z)
+- Physical examination of mother (Date: 2021-07-11T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2021-08-08T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2021-08-08T07:36:32Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-08-08T07:36:32Z)
+- Fetal anatomy study (Date: 2021-09-05T07:36:32Z)
+- Alpha-fetoprotein test (Date: 2021-09-05T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2021-09-05T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2021-09-05T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2021-10-03T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2021-10-03T07:36:32Z)
+- Evaluation of uterine fundal height (Date: 2021-10-31T07:36:32Z)
+- Auscultation of the fetal heart (Date: 2021-10-31T07:36:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T07:36:32Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-31T07:36:32Z: Prenatal visit
+- 2021-10-17T07:36:32Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-03T07:36:32Z: Prenatal visit
+- 2021-09-05T07:36:32Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-06-08T09:09:22Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-06-08T07:47:58Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-06-08T07:47:58Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2021-06-08T07:36:32Z Heart rate: 100.5 /min
+- 2021-06-08T07:36:32Z Body temperature: 38.2 Cel
+- 2021-06-08T07:36:32Z Respiratory rate: 12.4 /min
+- 2021-06-08T07:36:32Z Oxygen saturation in Arterial blood: 83.7 %
+- 2021-06-08T07:36:32Z Diastolic Blood Pressure: 84.0 mm[Hg]
+- 2021-06-08T07:36:32Z Systolic Blood Pressure: 126.0 mm[Hg]
+- 2021-06-08T07:36:32Z Body Weight: 52.3 kg

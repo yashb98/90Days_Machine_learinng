@@ -1,0 +1,58 @@
+== PATIENT RECORD: Sunshine777 Friesen796 (ID: ce0cf6c2-6420-9443-5fcf-d60b8398048e) ==
+
+== Demographics ==
+Patient ID: ce0cf6c2-6420-9443-5fcf-d60b8398048e
+Name: Sunshine777 Friesen796
+Gender: F
+Birthdate: 2010-09-09
+Address: 1060 Lang Wynd Unit 84
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Fracture subluxation of wrist
+- Atopic dermatitis
+- Seasonal allergic rhinitis
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- X-ray or wrist (Date: 2013-05-09T05:12:47Z)
+- Bone immobilization (Date: 2013-05-09T05:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-31T05:12:47Z)
+- Throat culture (procedure) (Date: 2018-07-31T13:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-06T05:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-17T05:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-23T05:12:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-23T05:12:47Z: Well child visit (procedure)
+- 2021-08-20T10:12:47Z: Encounter for symptom
+- 2020-09-17T05:12:47Z: Well child visit (procedure)
+- 2019-09-12T05:12:47Z: Well child visit (procedure)
+- 2018-09-06T05:12:47Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-23T05:12:47Z Body Mass Index: 19.7 kg/m2
+- 2021-09-23T05:12:47Z Body mass index (BMI) [Percentile] Per age and gender: 76.8 %
+- 2021-09-23T05:12:47Z Respiratory rate: 14.0 /min
+- 2021-09-23T05:12:47Z Leukocytes [#/volume] in Blood by Automated count: 7.3 10*3/uL
+- 2021-09-23T05:12:47Z Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- 2021-09-23T05:12:47Z Hemoglobin [Mass/volume] in Blood: 14.4 g/dL
+- 2021-09-23T05:12:47Z Hematocrit [Volume Fraction] of Blood by Automated count: 44.6 %
+- 2021-09-23T05:12:47Z MCV [Entitic volume] by Automated count: 88.3 fL
+- 2021-09-23T05:12:47Z MCH [Entitic mass] by Automated count: 32.8 pg
+- 2021-09-23T05:12:47Z MCHC [Mass/volume] by Automated count: 35.6 g/dL

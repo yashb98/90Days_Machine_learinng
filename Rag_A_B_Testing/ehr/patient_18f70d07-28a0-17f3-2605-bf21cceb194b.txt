@@ -1,0 +1,43 @@
+== PATIENT RECORD: Ernestina649 Fahey393 (ID: 18f70d07-28a0-17f3-2605-bf21cceb194b) ==
+
+== Demographics ==
+Patient ID: 18f70d07-28a0-17f3-2605-bf21cceb194b
+Name: Ernestina649 Fahey393
+Gender: F
+Birthdate: 2020-02-08
+Address: 631 Muller Junction Apt 77
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-03-14T12:59:41Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-17T12:59:41Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-20T12:59:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-09T02:59:41Z: Encounter for symptom
+- 2021-07-17T12:59:41Z: Well child visit (procedure)
+- 2021-04-17T12:59:41Z: Well child visit (procedure)
+- 2021-03-20T12:59:41Z: Encounter for check up (procedure)
+- 2021-03-13T12:59:41Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-17T12:59:41Z Body Height: 80.1 cm
+- 2021-07-17T12:59:41Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-17T12:59:41Z Respiratory rate: 14.0 /min
+- 2021-07-17T12:59:41Z Heart rate: 77.0 /min
+- 2021-07-17T12:59:41Z Systolic Blood Pressure: 109.0 mm[Hg]
+- 2021-07-17T12:59:41Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-07-17T12:59:41Z Head Occipital-frontal circumference: 46.5 cm
+- 2021-07-17T12:59:41Z Weight-for-length Per age and sex: 31.9 %
+- 2021-07-17T12:59:41Z Body Weight: 10.3 kg
+- 2021-07-17T12:59:41Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}

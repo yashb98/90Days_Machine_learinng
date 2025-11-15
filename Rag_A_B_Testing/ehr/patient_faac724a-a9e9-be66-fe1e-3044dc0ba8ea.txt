@@ -1,0 +1,46 @@
+== PATIENT RECORD: Brandon214 Watsica258 (ID: faac724a-a9e9-be66-fe1e-3044dc0ba8ea) ==
+
+== Demographics ==
+Patient ID: faac724a-a9e9-be66-fe1e-3044dc0ba8ea
+Name: Brandon214 Watsica258
+Gender: F
+Birthdate: 2020-12-04
+Address: 734 Brakus Pathway Unit 28
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Dyspnea (finding)
+- Wheezing (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-12-04T08:26:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-14T08:26:20Z)
+- Face mask (physical object) (Date: 2021-07-04T08:26:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-13T08:26:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-12T08:26:20Z: Well child visit (procedure)
+- 2021-08-13T08:26:20Z: Well child visit (procedure)
+- 2021-07-04T08:26:20Z: Encounter for symptom (procedure)
+- 2021-05-14T08:26:20Z: Well child visit (procedure)
+- 2021-03-12T08:26:20Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-12T08:26:20Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-12T08:26:20Z Respiratory rate: 15.0 /min
+- 2021-11-12T08:26:20Z Heart rate: 71.0 /min
+- 2021-11-12T08:26:20Z Systolic Blood Pressure: 132.0 mm[Hg]
+- 2021-11-12T08:26:20Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-11-12T08:26:20Z Head Occipital-frontal circumference: 43.9 cm
+- 2021-11-12T08:26:20Z Weight-for-length Per age and sex: 82.3 %
+- 2021-11-12T08:26:20Z Body Weight: 9.4 kg
+- 2021-11-12T08:26:20Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-11-12T08:26:20Z Body Height: 70.8 cm

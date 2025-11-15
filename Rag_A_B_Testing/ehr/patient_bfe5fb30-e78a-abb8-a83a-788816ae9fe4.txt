@@ -1,0 +1,54 @@
+== PATIENT RECORD: Shelby741 Muller251 (ID: bfe5fb30-e78a-abb8-a83a-788816ae9fe4) ==
+
+== Demographics ==
+Patient ID: bfe5fb30-e78a-abb8-a83a-788816ae9fe4
+Name: Shelby741 Muller251
+Gender: M
+Birthdate: 2014-10-16
+Address: 860 Boyer Underpass
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Fracture of forearm
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-06-25T11:38:25Z)
+- Throat culture (procedure) (Date: 2016-03-11T06:38:25Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-21T11:38:25Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-20T11:38:25Z)
+- Throat culture (procedure) (Date: 2018-10-08T08:38:25Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-26T11:38:25Z)
+- Upper arm X-ray (Date: 2021-06-30T11:38:25Z)
+- Bone immobilization (Date: 2021-06-30T11:38:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-10-07T11:38:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-24T12:19:43Z: Encounter for 'check-up'
+- 2021-10-07T11:38:25Z: Well child visit (procedure)
+- 2021-06-30T11:38:25Z: Emergency room admission (procedure)
+- 2020-10-01T11:38:25Z: Well child visit (procedure)
+- 2019-09-26T11:38:25Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-16T11:38:25Z QOLS: 1.0 {score}
+- 2021-10-16T11:38:25Z DALY: 0.0 a
+- 2021-10-16T11:38:25Z QALY: 6.0 a
+- 2021-10-07T11:56:25Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-10-07T11:56:25Z Fall risk total [Morse Fall Scale]: 1.0 {#}
+- 2021-10-07T11:38:25Z Body Height: 121.4 cm
+- 2021-10-07T11:38:25Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-10-07T11:38:25Z Body Mass Index: 14.7 kg/m2
+- 2021-10-07T11:38:25Z Body mass index (BMI) [Percentile] Per age and gender: 27.2 %
+- 2021-10-07T11:38:25Z Diastolic Blood Pressure: 77.0 mm[Hg]

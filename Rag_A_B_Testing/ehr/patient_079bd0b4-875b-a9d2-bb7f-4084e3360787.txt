@@ -1,0 +1,102 @@
+== PATIENT RECORD: Armando772 Stiedemann542 (ID: 079bd0b4-875b-a9d2-bb7f-4084e3360787) ==
+
+== Demographics ==
+Patient ID: 079bd0b4-875b-a9d2-bb7f-4084e3360787
+Name: Armando772 Stiedemann542
+Gender: M
+Birthdate: 1998-09-09
+Address: 327 Veum Arcade Apt 93
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received higher education (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Sprain of wrist
+- Limited social contact (finding)
+- Sepsis (disorder)
+- Chronic pain
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-10-10T23:26:44Z)
+- Assessment of substance use (procedure) (Date: 2012-10-10T23:46:49Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-10-10T23:59:52Z)
+- Anticipatory guidance (procedure) (Date: 2012-10-11T00:13:45Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-16T23:26:44Z)
+- Depression screening (procedure) (Date: 2013-10-16T23:51:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-10-17T00:02:33Z)
+- Assessment of substance use (procedure) (Date: 2013-10-17T00:28:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-10-17T00:43:01Z)
+- Anticipatory guidance (procedure) (Date: 2013-10-17T00:53:22Z)
+- Depression screening (procedure) (Date: 2014-10-22T23:26:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-10-22T23:41:01Z)
+- Depression screening (procedure) (Date: 2015-10-28T23:26:44Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-28T23:26:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-28T23:38:11Z)
+- Assessment of substance use (procedure) (Date: 2015-10-29T00:06:02Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-10-29T00:19:11Z)
+- Anticipatory guidance (procedure) (Date: 2015-10-29T00:41:50Z)
+- Movement therapy (regime/therapy) (Date: 2016-10-17T23:26:44Z)
+- Movement therapy (regime/therapy) (Date: 2016-10-21T00:23:17Z)
+- Movement therapy (regime/therapy) (Date: 2016-10-24T01:16:41Z)
+- Movement therapy (regime/therapy) (Date: 2016-10-27T02:05:17Z)
+- Movement therapy (regime/therapy) (Date: 2016-10-30T02:50:52Z)
+- Movement therapy (regime/therapy) (Date: 2016-11-02T03:45:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-02T23:26:44Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-02T23:26:44Z)
+- Movement therapy (regime/therapy) (Date: 2016-11-05T04:45:13Z)
+- Movement therapy (regime/therapy) (Date: 2016-11-08T05:41:15Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-03T00:19:50Z)
+- Depression screening (procedure) (Date: 2016-11-03T00:48:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-03T00:59:57Z)
+- Assessment of substance use (procedure) (Date: 2016-11-03T01:20:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-03T01:34:17Z)
+- Movement therapy (regime/therapy) (Date: 2016-11-11T06:31:57Z)
+- Movement therapy (regime/therapy) (Date: 2016-11-14T07:25:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-08T23:26:44Z)
+- Depression screening (procedure) (Date: 2017-11-09T00:19:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-09T00:32:24Z)
+- Assessment of substance use (procedure) (Date: 2017-11-09T00:59:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-09T01:10:36Z)
+- Measurement of respiratory function (procedure) (Date: 2020-04-11T15:26:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-11T23:26:44Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-12T00:26:09Z)
+- Depression screening (procedure) (Date: 2020-11-12T00:50:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-12T01:01:06Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2021-01-07T23:26:44Z)
+- Transfer to stepdown unit (procedure) (Date: 2021-01-07T23:56:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-30T23:26:44Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-27T23:26:44Z: Encounter Inpatient
+- 2021-06-02T23:26:44Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-07T23:26:44Z: Encounter for problem
+- 2020-11-11T23:26:44Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T23:26:44Z QOLS: 1.0 {score}
+- 2021-09-09T23:26:44Z DALY: 0.0 a
+- 2021-09-09T23:26:44Z QALY: 22.0 a
+- 2021-06-27T23:26:44Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 6.0 {score}
+- 2021-01-07T23:56:44Z Mean blood pressure: 70.3 mm[Hg]
+- 2021-01-07T23:26:44Z Lactate [Mass/volume] in Blood: 1.7 mmol/L
+- 2021-01-07T23:26:44Z Oxygen Saturation: 94.0 %
+- 2021-01-07T23:26:44Z Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value) nan
+- 2021-01-07T23:26:44Z Capillary refill [Time] of Nail bed: Increased capillary filling time (finding) nan
+- 2020-11-12T01:23:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}

@@ -1,0 +1,77 @@
+== PATIENT RECORD: Amos720 Wehner319 (ID: bd7cc2ff-e160-e880-a29c-2fca1a3dd4d4) ==
+
+== Demographics ==
+Patient ID: bd7cc2ff-e160-e880-a29c-2fca1a3dd4d4
+Name: Amos720 Wehner319
+Gender: M
+Birthdate: 1990-03-07
+Address: 723 Boehm Overpass Suite 45
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Coronary Heart Disease
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1997-02-27T02:41:19Z)
+- Measurement of respiratory function (procedure) (Date: 1999-03-23T02:41:19Z)
+- Medication Reconciliation (procedure) (Date: 1999-04-01T02:41:19Z)
+- Throat culture (procedure) (Date: 1999-07-02T21:41:19Z)
+- Medication Reconciliation (procedure) (Date: 2001-03-22T02:41:19Z)
+- Assessment of anxiety (procedure) (Date: 2002-03-28T02:41:19Z)
+- Assessment of substance use (procedure) (Date: 2002-03-28T03:10:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2002-03-28T03:24:02Z)
+- Anticipatory guidance (procedure) (Date: 2002-03-28T03:36:27Z)
+- Depression screening (procedure) (Date: 2003-04-03T02:41:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2003-04-03T02:55:22Z)
+- Depression screening (procedure) (Date: 2004-04-08T02:41:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2004-04-08T02:54:03Z)
+- Assessment of substance use (procedure) (Date: 2004-04-08T03:14:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2004-04-08T03:27:13Z)
+- Anticipatory guidance (procedure) (Date: 2004-04-08T03:48:22Z)
+- Depression screening (procedure) (Date: 2005-04-14T02:41:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2005-04-14T02:55:44Z)
+- Assessment of substance use (procedure) (Date: 2005-04-14T03:20:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2005-04-14T03:33:27Z)
+- Health risks education (procedure) (Date: 2005-04-14T04:01:36Z)
+- Echocardiography (procedure) (Date: 2005-09-22T02:41:19Z)
+- Percutaneous coronary intervention (Date: 2005-09-22T02:41:19Z)
+- Coronary artery bypass grafting (Date: 2005-09-22T02:41:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2005-09-29T02:41:19Z: Death Certification
+- 2005-09-22T02:41:19Z: Myocardial Infarction
+- 2005-04-14T02:41:19Z: Well child visit (procedure)
+- 2004-06-17T05:41:19Z: Encounter for symptom
+- 2004-04-08T02:41:19Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2005-09-29T02:41:19Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 2005-04-14T03:20:00Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 2005-04-14T02:41:19Z Diastolic Blood Pressure: 69.0 mm[Hg]
+- 2005-04-14T02:41:19Z Body Height: 165.2 cm
+- 2005-04-14T02:41:19Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2005-04-14T02:41:19Z Body Weight: 72.8 kg
+- 2005-04-14T02:41:19Z Body mass index (BMI) [Percentile] Per age and gender: 94.7 %
+- 2005-04-14T02:41:19Z Body Mass Index: 26.7 kg/m2
+- 2005-04-14T02:41:19Z Systolic Blood Pressure: 115.0 mm[Hg]
+- 2005-04-14T02:41:19Z Heart rate: 99.0 /min

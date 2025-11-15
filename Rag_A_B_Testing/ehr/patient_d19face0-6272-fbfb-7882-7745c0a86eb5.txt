@@ -1,0 +1,97 @@
+== PATIENT RECORD: Carl856 Kunze215 (ID: d19face0-6272-fbfb-7882-7745c0a86eb5) ==
+
+== Demographics ==
+Patient ID: d19face0-6272-fbfb-7882-7745c0a86eb5
+Name: Carl856 Kunze215
+Gender: M
+Birthdate: 1970-12-12
+Address: 596 Flatley Ranch Unit 93
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Body mass index 30+ - obesity (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Second degree burn
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-11-03T17:51:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-10T07:51:34Z)
+- Peripheral blood smear interpretation (Date: 2012-11-10T07:51:34Z)
+- Depression screening (procedure) (Date: 2012-11-10T08:34:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-10T08:46:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-11-10T09:08:41Z)
+- Assessment of substance use (procedure) (Date: 2012-11-10T09:36:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-10T09:51:20Z)
+- Review of systems (procedure) (Date: 2012-11-10T08:21:34Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-10T08:34:07Z)
+- Brief general examination (procedure) (Date: 2012-11-10T08:42:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-22T07:51:34Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-22T08:36:43Z)
+- Depression screening (procedure) (Date: 2012-12-22T09:05:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-22T09:18:36Z)
+- Assessment of substance use (procedure) (Date: 2012-12-22T09:40:18Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-22T09:54:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-27T07:51:34Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-27T08:48:11Z)
+- Depression screening (procedure) (Date: 2014-12-27T09:19:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-27T09:29:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-12-27T09:52:09Z)
+- Assessment of substance use (procedure) (Date: 2014-12-27T10:20:43Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-27T10:32:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-31T07:51:34Z)
+- Screening for domestic abuse (procedure) (Date: 2016-12-31T08:36:26Z)
+- Depression screening (procedure) (Date: 2016-12-31T09:10:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-31T09:23:28Z)
+- Assessment of substance use (procedure) (Date: 2016-12-31T09:52:23Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-31T10:02:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-05T07:51:34Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-05T07:51:34Z)
+- Depression screening (procedure) (Date: 2019-01-05T08:43:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-05T08:58:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-12T07:51:34Z)
+- Colonoscopy (Date: 2020-12-12T07:51:34Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-12T08:50:25Z)
+- Assessment of substance use (procedure) (Date: 2020-12-12T09:19:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-12-12T09:34:39Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-30T07:51:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-02T07:51:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-12T07:51:34Z: Encounter for 'check-up'
+- 2020-12-12T07:51:34Z: General examination of patient (procedure)
+- 2019-01-05T07:51:34Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-12T09:59:51Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-12-12T09:19:56Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-12-12T08:50:25Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-12-12T08:50:25Z What language are you most comfortable speaking?: English nan
+- 2020-12-12T08:50:25Z Are you worried about losing your housing?: No nan
+- 2020-12-12T08:50:25Z What address do you live at?: 596 Flatley Ranch Unit 93 nan
+- 2020-12-12T08:50:25Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-12-12T08:50:25Z What is your current work situation?: Full-time work nan
+- 2020-12-12T08:50:25Z What is your main insurance?: Private insurance nan
+- 2020-12-12T08:50:25Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 30544 /a

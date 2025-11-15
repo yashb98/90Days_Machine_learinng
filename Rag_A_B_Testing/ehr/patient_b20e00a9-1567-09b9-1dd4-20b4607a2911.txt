@@ -1,0 +1,46 @@
+== PATIENT RECORD: Hertha832 Lesch175 (ID: b20e00a9-1567-09b9-1dd4-20b4607a2911) ==
+
+== Demographics ==
+Patient ID: b20e00a9-1567-09b9-1dd4-20b4607a2911
+Name: Hertha832 Lesch175
+Gender: F
+Birthdate: 2017-03-02
+Address: 1055 Kunde Fork
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-04-06T22:04:28Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-10T22:04:28Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-08T22:04:28Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-06T22:04:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-04T22:04:28Z: Well child visit (procedure)
+- 2020-08-06T22:04:28Z: Well child visit (procedure)
+- 2020-02-06T22:04:28Z: Well child visit (procedure)
+- 2019-08-08T22:04:28Z: Well child visit (procedure)
+- 2019-06-25T13:04:28Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-03-02T22:04:28Z QOLS: 1.0 {score}
+- 2021-03-02T22:04:28Z DALY: 0.0 a
+- 2021-03-02T22:04:28Z QALY: 3.0 a
+- 2021-02-04T22:04:28Z Heart rate: 93.0 /min
+- 2021-02-04T22:04:28Z Body Height: 99.8 cm
+- 2021-02-04T22:04:28Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-02-04T22:04:28Z Body Weight: 15.1 kg
+- 2021-02-04T22:04:28Z Head Occipital-frontal circumference: 48.4 cm
+- 2021-02-04T22:04:28Z Body Mass Index: 15.2 kg/m2
+- 2021-02-04T22:04:28Z Body mass index (BMI) [Percentile] Per age and gender: 44.1 %

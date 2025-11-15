@@ -1,0 +1,49 @@
+== PATIENT RECORD: Johnny786 Blick895 (ID: 361cf862-7199-0230-c62d-3a3319bdc1d6) ==
+
+== Demographics ==
+Patient ID: 361cf862-7199-0230-c62d-3a3319bdc1d6
+Name: Johnny786 Blick895
+Gender: M
+Birthdate: 2019-10-02
+Address: 1052 Herzog Wynd
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Fracture of rib
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-10-02T13:23:03Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-06T13:23:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-11T13:23:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-09T13:23:03Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-10T13:23:03Z)
+- Chest X-ray (Date: 2021-07-18T13:23:03Z)
+- Bone immobilization (Date: 2021-07-18T13:23:03Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-08T13:23:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-12T14:00:44Z: Encounter for 'check-up'
+- 2021-09-08T13:23:03Z: Well child visit (procedure)
+- 2021-07-18T13:23:03Z: Emergency room admission (procedure)
+- 2021-03-10T13:23:03Z: Well child visit (procedure)
+- 2021-01-24T13:23:03Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-02T13:23:03Z QOLS: 1.0 {score}
+- 2021-10-02T13:23:03Z DALY: 0.0 a
+- 2021-10-02T13:23:03Z QALY: 1.0 a
+- 2021-09-08T13:23:03Z Systolic Blood Pressure: 127.0 mm[Hg]
+- 2021-09-08T13:23:03Z Body Height: 91.0 cm
+- 2021-09-08T13:23:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-09-08T13:23:03Z Body Weight: 12.8 kg
+- 2021-09-08T13:23:03Z Weight-for-length Per age and sex: 27.3 %
+- 2021-09-08T13:23:03Z Head Occipital-frontal circumference: 50.3 cm
+- 2021-09-08T13:23:03Z Diastolic Blood Pressure: 72.0 mm[Hg]

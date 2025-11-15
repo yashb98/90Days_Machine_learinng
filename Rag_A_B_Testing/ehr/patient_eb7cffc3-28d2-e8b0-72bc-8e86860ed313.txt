@@ -1,0 +1,228 @@
+== PATIENT RECORD: Shonna561 Cassin499 (ID: eb7cffc3-28d2-e8b0-72bc-8e86860ed313) ==
+
+== Demographics ==
+Patient ID: eb7cffc3-28d2-e8b0-72bc-8e86860ed313
+Name: Shonna561 Cassin499
+Gender: F
+Birthdate: 1962-04-23
+Address: 246 Gusikowski Underpass
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Stress (finding)
+- Diabetes
+- Not in labor force (finding)
+- Sprain of ankle
+- Viral sinusitis (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Laceration of hand
+- Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+- Malignant neoplasm of breast (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Has a criminal record (finding)
+- Acute viral pharyngitis (disorder)
+- Chronic congestive heart failure (disorder)
+- Cystitis
+
+== Current Medications ==
+- Etonogestrel 68 MG Drug Implant
+- Ortho Tri-Cyclen 28 Day Pack
+- Naproxen sodium 220 MG Oral Tablet
+- Errin 28 Day Pack
+- Jolivette 28 Day Pack
+- Natazia 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Paclitaxel 100 MG Injection
+- Cyclophosphamide 1000 MG Injection
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Insertion of subcutaneous contraceptive (Date: 2007-03-23T16:11:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-05-12T19:55:48Z)
+- Depression screening (procedure) (Date: 2008-05-12T20:33:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-05-12T20:47:29Z)
+- Assessment of substance use (procedure) (Date: 2008-05-12T21:14:08Z)
+- Screening for drug abuse (procedure) (Date: 2008-05-12T21:27:24Z)
+- Replacement of contraceptive intrauterine device (Date: 2009-05-04T19:55:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-05-17T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2010-05-17T20:38:41Z)
+- Depression screening (procedure) (Date: 2010-05-17T21:06:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-05-17T21:17:15Z)
+- Assessment of substance use (procedure) (Date: 2010-05-17T21:46:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-05-17T21:58:15Z)
+- Suture open wound (Date: 2011-11-08T21:01:54Z)
+- Insertion of intrauterine contraceptive device (Date: 2012-03-01T10:40:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-23T19:55:48Z)
+- Colonoscopy (Date: 2012-04-23T19:55:48Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-23T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-23T20:53:48Z)
+- Depression screening (procedure) (Date: 2012-04-23T21:09:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-23T21:24:08Z)
+- Assessment of substance use (procedure) (Date: 2012-04-23T21:49:12Z)
+- Screening for drug abuse (procedure) (Date: 2012-04-23T21:59:32Z)
+- Removal of intrauterine device (Date: 2013-03-04T19:55:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-29T19:55:48Z)
+- Depression screening (procedure) (Date: 2013-04-29T20:31:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-29T20:43:59Z)
+- Screening mammography (procedure) (Date: 2013-05-21T19:55:48Z)
+- Ultrasonography of bilateral breasts (procedure) (Date: 2013-05-21T20:15:03Z)
+- Biopsy of breast (procedure) (Date: 2013-05-21T20:30:58Z)
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) (Date: 2013-05-21T21:26:14Z)
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) (Date: 2013-05-23T06:26:14Z)
+- Chemotherapy (procedure) (Date: 2013-05-28T14:00:14Z)
+- Chemotherapy (procedure) (Date: 2013-06-19T09:45:42Z)
+- Chemotherapy (procedure) (Date: 2013-07-10T17:47:31Z)
+- Chemotherapy (procedure) (Date: 2013-07-31T13:46:10Z)
+- Chemotherapy (procedure) (Date: 2013-08-23T13:20:36Z)
+- Chemotherapy (procedure) (Date: 2013-09-14T19:06:53Z)
+- Chemotherapy (procedure) (Date: 2013-10-04T12:46:21Z)
+- Chemotherapy (procedure) (Date: 2013-10-26T01:58:11Z)
+- Lumpectomy of breast (procedure) (Date: 2013-11-14T02:40:49Z)
+- Chemotherapy (procedure) (Date: 2013-11-24T19:09:39Z)
+- Chemotherapy (procedure) (Date: 2013-12-16T06:58:39Z)
+- Chemotherapy (procedure) (Date: 2014-01-05T22:30:39Z)
+- Chemotherapy (procedure) (Date: 2014-01-27T01:31:39Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T19:55:48Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T20:46:42Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T21:43:49Z)
+- Chemotherapy (procedure) (Date: 2014-02-16T13:33:39Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T22:40:25Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T23:28:53Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T00:23:33Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T01:21:26Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T02:13:28Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T03:04:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-08T03:57:10Z)
+- Chemotherapy (procedure) (Date: 2014-03-10T08:43:39Z)
+- Chemotherapy (procedure) (Date: 2014-04-01T02:06:39Z)
+- Chemotherapy (procedure) (Date: 2014-04-21T14:56:39Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-21T16:48:39Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-23T02:05:36Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-24T10:44:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-25T12:16:57Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-26T18:47:06Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-28T05:22:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-05T19:55:48Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-29T13:17:31Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-04-30T14:44:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-01T19:45:48Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-03T02:41:38Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-04T07:59:58Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-05T15:49:06Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-06T22:06:02Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-08T02:03:57Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-09T11:37:33Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-10T17:40:30Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-12T03:45:30Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-13T12:47:01Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-14T14:52:28Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-16T01:10:34Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-17T01:37:19Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-18T13:04:44Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-19T23:56:55Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-21T06:03:57Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-22T09:07:28Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-23T12:56:29Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-24T21:53:55Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-25T23:33:36Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-27T11:14:58Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-28T16:26:18Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-30T00:59:08Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-05-31T07:54:58Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-06-01T09:03:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2014-06-02T14:51:15Z)
+- Electrocardiographic procedure (Date: 2014-09-18T19:55:48Z)
+- Cardiovascular stress testing (procedure) (Date: 2014-09-18T20:04:23Z)
+- Plain chest X-ray (procedure) (Date: 2014-09-18T21:00:56Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2014-09-18T21:00:56Z)
+- Echocardiography (procedure) (Date: 2014-10-05T21:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-05T21:27:36Z)
+- Echocardiography (procedure) (Date: 2015-04-03T21:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-03T21:27:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-11T19:55:48Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-11T19:55:48Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-11T20:45:18Z)
+- Depression screening (procedure) (Date: 2015-05-11T21:02:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-11T21:13:38Z)
+- Assessment of substance use (procedure) (Date: 2015-05-11T21:39:36Z)
+- Screening for drug abuse (procedure) (Date: 2015-05-11T21:54:17Z)
+- Mammography (procedure) (Date: 2015-05-16T14:19:39Z)
+- Echocardiography (procedure) (Date: 2015-09-30T21:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-30T21:27:36Z)
+- Mammography (procedure) (Date: 2016-03-21T14:37:10Z)
+- Oxygen administration by mask (procedure) (Date: 2016-03-28T21:27:36Z)
+- Placing subject in prone position (procedure) (Date: 2016-03-28T21:27:36Z)
+- Plain chest X-ray (procedure) (Date: 2016-03-28T21:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-28T21:27:36Z)
+- Electrocardiographic procedure (Date: 2016-03-28T21:27:36Z)
+- Oxygen administration by mask (procedure) (Date: 2016-03-28T21:34:43Z)
+- Placing subject in prone position (procedure) (Date: 2016-03-28T21:34:43Z)
+- Heart failure education (procedure) (Date: 2016-03-29T21:34:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-16T19:55:48Z)
+- Screening for domestic abuse (procedure) (Date: 2016-05-16T20:49:04Z)
+- Depression screening (procedure) (Date: 2016-05-16T21:25:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-16T21:40:33Z)
+- Assessment of substance use (procedure) (Date: 2016-05-16T22:03:52Z)
+- Screening for drug abuse (procedure) (Date: 2016-05-16T22:17:18Z)
+- Oxygen administration by mask (procedure) (Date: 2016-05-24T22:29:15Z)
+- Placing subject in prone position (procedure) (Date: 2016-05-24T22:29:15Z)
+- Plain chest X-ray (procedure) (Date: 2016-05-24T22:29:15Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-24T22:29:15Z)
+- Electrocardiographic procedure (Date: 2016-05-24T22:29:15Z)
+- Echocardiography (procedure) (Date: 2016-05-24T22:34:29Z)
+- Oxygen administration by mask (procedure) (Date: 2016-05-24T22:34:29Z)
+- Placing subject in prone position (procedure) (Date: 2016-05-24T22:34:29Z)
+- Heart failure education (procedure) (Date: 2016-05-25T22:34:29Z)
+- Oxygen administration by mask (procedure) (Date: 2016-06-25T23:21:03Z)
+- Placing subject in prone position (procedure) (Date: 2016-06-25T23:21:03Z)
+- Plain chest X-ray (procedure) (Date: 2016-06-25T23:21:03Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-25T23:21:03Z)
+- Electrocardiographic procedure (Date: 2016-06-25T23:21:03Z)
+- Echocardiography (procedure) (Date: 2016-06-25T23:26:29Z)
+- Oxygen administration by mask (procedure) (Date: 2016-06-25T23:26:29Z)
+- Placing subject in prone position (procedure) (Date: 2016-06-25T23:26:29Z)
+- Heart failure education (procedure) (Date: 2016-06-26T23:26:29Z)
+- Oxygen administration by mask (procedure) (Date: 2016-07-20T00:13:23Z)
+- Placing subject in prone position (procedure) (Date: 2016-07-20T00:13:23Z)
+- Plain chest X-ray (procedure) (Date: 2016-07-20T00:13:23Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-20T00:13:23Z)
+- Electrocardiographic procedure (Date: 2016-07-20T00:13:23Z)
+- Echocardiography (procedure) (Date: 2016-07-20T00:18:57Z)
+- Oxygen administration by mask (procedure) (Date: 2016-07-20T00:18:57Z)
+- Placing subject in prone position (procedure) (Date: 2016-07-20T00:18:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2016-08-01T19:55:48Z: Death Certification
+- 2016-07-20T00:13:23Z: Admission to intensive care unit (procedure)
+- 2016-07-20T00:13:23Z: Encounter for Problem
+- 2016-07-19T00:13:23Z: Telemedicine consultation with patient
+- 2016-07-18T00:13:23Z: Telemedicine consultation with patient
+
+== Recent Observations (Last 10) ==
+- 2016-08-01T19:55:48Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2016-07-20T12:18:57Z Glucose [Mass/volume] in Serum or Plasma: 111.2 mg/dL
+- 2016-07-20T12:18:57Z MCHC [Mass/volume] by Automated count: 33.8 g/dL
+- 2016-07-20T12:18:57Z Carbon dioxide  total [Moles/volume] in Serum or Plasma: 24.9 mmol/L
+- 2016-07-20T12:18:57Z Potassium [Moles/volume] in Serum or Plasma: 5.0 mmol/L
+- 2016-07-20T12:18:57Z Sodium [Moles/volume] in Serum or Plasma: 140.6 mmol/L
+- 2016-07-20T12:18:57Z Calcium [Mass/volume] in Serum or Plasma: 9.5 mg/dL
+- 2016-07-20T12:18:57Z Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- 2016-07-20T12:18:57Z Urea nitrogen [Mass/volume] in Serum or Plasma: 10.6 mg/dL
+- 2016-07-20T12:18:57Z Platelets [#/volume] in Blood by Automated count: 248.6 10*3/uL

@@ -1,0 +1,129 @@
+== PATIENT RECORD: Chandra831 Gerlach374 (ID: 33ee607c-5afa-d4ff-85bc-3191531cf8c1) ==
+
+== Demographics ==
+Patient ID: 33ee607c-5afa-d4ff-85bc-3191531cf8c1
+Name: Chandra831 Gerlach374
+Gender: F
+Birthdate: 1911-11-04
+Address: 112 Sporer Ramp
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Osteoporosis (disorder)
+- Part-time employment (finding)
+- Hyperlipidemia
+- Victim of intimate partner abuse (finding)
+- Alzheimer's disease (disorder)
+- Stress (finding)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Second degree burn
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1980-02-16T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1980-02-16T08:46:25Z)
+- Depression screening (procedure) (Date: 1980-02-16T09:39:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1980-02-16T09:50:28Z)
+- Assessment of substance use (procedure) (Date: 1980-02-16T10:19:48Z)
+- Screening for drug abuse (procedure) (Date: 1980-02-16T10:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-02-21T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1981-02-21T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1981-02-21T09:45:08Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1981-02-21T10:14:49Z)
+- Depression screening (procedure) (Date: 1981-02-21T10:42:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-02-21T10:52:27Z)
+- Assessment of substance use (procedure) (Date: 1981-02-21T11:16:39Z)
+- Screening for drug abuse (procedure) (Date: 1981-02-21T11:27:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-02-27T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1982-02-27T09:45:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1982-02-27T10:03:03Z)
+- Assessment of substance use (procedure) (Date: 1982-02-27T10:23:23Z)
+- Screening for drug abuse (procedure) (Date: 1982-02-27T10:35:04Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-03-05T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1983-03-05T09:32:14Z)
+- Depression screening (procedure) (Date: 1983-03-05T09:56:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-03-05T10:07:52Z)
+- Assessment of substance use (procedure) (Date: 1983-03-05T10:34:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1983-03-05T10:46:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-03-10T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1984-03-10T09:33:33Z)
+- Screening for domestic abuse (procedure) (Date: 1984-03-10T09:50:42Z)
+- Assessment of substance use (procedure) (Date: 1984-03-10T10:22:45Z)
+- Screening for drug abuse (procedure) (Date: 1984-03-10T10:37:39Z)
+- Sputum examination (procedure) (Date: 1984-11-17T19:46:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-12-08T08:46:25Z)
+- Depression screening (procedure) (Date: 1984-12-08T09:19:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-12-08T09:34:01Z)
+- Assessment of substance use (procedure) (Date: 1984-12-08T10:03:39Z)
+- Screening for drug abuse (procedure) (Date: 1984-12-08T10:17:41Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-03-16T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1985-03-16T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1985-03-16T09:22:14Z)
+- Depression screening (procedure) (Date: 1985-03-16T09:46:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-03-16T09:56:55Z)
+- Assessment of substance use (procedure) (Date: 1985-03-16T10:24:53Z)
+- Screening for drug abuse (procedure) (Date: 1985-03-16T10:37:31Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-03-22T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1986-03-22T09:37:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1986-03-22T09:54:07Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-03-28T08:46:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1987-03-28T09:21:00Z)
+- Depression screening (procedure) (Date: 1987-03-28T09:41:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-03-28T09:54:36Z)
+- Assessment of substance use (procedure) (Date: 1987-03-28T10:20:44Z)
+- Screening for drug abuse (procedure) (Date: 1987-03-28T10:35:05Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-04-02T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1988-04-02T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1988-04-02T09:33:50Z)
+- Depression screening (procedure) (Date: 1988-04-02T09:58:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-04-02T10:08:38Z)
+- Assessment of substance use (procedure) (Date: 1988-04-02T10:35:10Z)
+- Screening for drug abuse (procedure) (Date: 1988-04-02T10:48:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-04-08T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1989-04-08T09:42:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1989-04-08T10:06:37Z)
+- Screening for domestic abuse (procedure) (Date: 1989-04-08T10:21:59Z)
+- Assessment of substance use (procedure) (Date: 1989-04-08T10:57:26Z)
+- Screening for drug abuse (procedure) (Date: 1989-04-08T11:10:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-05-27T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1989-05-27T08:46:25Z)
+- Assessment of anxiety (procedure) (Date: 1989-05-27T09:41:41Z)
+- Depression screening (procedure) (Date: 1989-05-27T10:10:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-05-27T10:24:12Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-09-02T08:46:25Z)
+- Medication Reconciliation (procedure) (Date: 1989-09-02T08:46:25Z)
+
+== Recent Encounters (Last 5) ==
+- 1989-09-16T08:46:25Z: Death Certification
+- 1989-09-02T08:46:25Z: Encounter for check up (procedure)
+- 1989-08-28T08:46:25Z: Encounter for symptom
+- 1989-05-27T08:46:25Z: Encounter for check up (procedure)
+- 1989-05-20T08:46:25Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 1989-09-16T08:46:25Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 1989-09-02T08:46:25Z Body Height: 158.1 cm
+- 1989-09-02T08:46:25Z Tobacco smoking status NHIS: Never smoker nan
+- 1989-09-02T08:46:25Z Respiratory rate: 15.0 /min
+- 1989-09-02T08:46:25Z Heart rate: 97.0 /min
+- 1989-09-02T08:46:25Z Systolic Blood Pressure: 125.0 mm[Hg]
+- 1989-09-02T08:46:25Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 1989-09-02T08:46:25Z Body Mass Index: 28.6 kg/m2
+- 1989-09-02T08:46:25Z Body Weight: 71.4 kg
+- 1989-09-02T08:46:25Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}

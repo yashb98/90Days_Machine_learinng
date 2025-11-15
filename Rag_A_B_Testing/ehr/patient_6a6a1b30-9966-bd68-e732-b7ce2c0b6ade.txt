@@ -1,0 +1,49 @@
+== PATIENT RECORD: Roberto515 Quiroz936 (ID: 6a6a1b30-9966-bd68-e732-b7ce2c0b6ade) ==
+
+== Demographics ==
+Patient ID: 6a6a1b30-9966-bd68-e732-b7ce2c0b6ade
+Name: Roberto515 Quiroz936
+Gender: M
+Birthdate: 2013-11-19
+Address: 759 Schimmel Hollow Unit 24
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-12-24T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-29T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-28T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-27T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-28T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-25T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-24T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-05T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-10T07:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-16T07:15:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-16T07:15:57Z: Well child visit (procedure)
+- 2020-11-10T07:15:57Z: Well child visit (procedure)
+- 2019-11-05T07:15:57Z: Well child visit (procedure)
+- 2018-10-30T07:15:57Z: Well child visit (procedure)
+- 2017-10-24T07:15:57Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-19T07:15:57Z QOLS: 1.0 {score}
+- 2021-11-19T07:15:57Z QALY: 7.0 a
+- 2021-11-19T07:15:57Z DALY: 0.0 a
+- 2021-11-16T07:15:57Z Body Height: 130.8 cm
+- 2021-11-16T07:15:57Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-11-16T07:15:57Z Body Weight: 33.1 kg
+- 2021-11-16T07:15:57Z Body Mass Index: 19.3 kg/m2
+- 2021-11-16T07:15:57Z Body mass index (BMI) [Percentile] Per age and gender: 93.1 %
+- 2021-11-16T07:15:57Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2021-11-16T07:15:57Z Heart rate: 62.0 /min

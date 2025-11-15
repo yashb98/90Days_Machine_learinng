@@ -1,0 +1,81 @@
+== PATIENT RECORD: Randal152 Robel940 (ID: 3ce79121-6f1a-8d00-726d-bc0af611d017) ==
+
+== Demographics ==
+Patient ID: 3ce79121-6f1a-8d00-726d-bc0af611d017
+Name: Randal152 Robel940
+Gender: M
+Birthdate: 1972-07-15
+Address: 168 Koch Light Unit 42
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Osteoarthritis of knee
+- Stress (finding)
+- Social isolation (finding)
+- Severe anxiety (panic) (finding
+- Viral sinusitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- Fexofenadine hydrochloride 60 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-22T00:27:34Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-22T00:27:34Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-22T01:14:02Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-22T01:30:44Z)
+- Depression screening (procedure) (Date: 2012-07-22T01:59:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-22T02:10:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-27T00:27:34Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-27T01:24:32Z)
+- Depression screening (procedure) (Date: 2014-07-27T01:45:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-27T01:56:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-31T00:27:34Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-31T01:00:05Z)
+- Depression screening (procedure) (Date: 2016-07-31T01:16:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-31T01:31:13Z)
+- Assessment of substance use (procedure) (Date: 2016-07-31T01:58:33Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-31T02:09:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-05T00:27:34Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-05T01:16:20Z)
+- Depression screening (procedure) (Date: 2018-08-05T01:39:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-05T01:50:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-05T02:17:52Z)
+- Assessment of substance use (procedure) (Date: 2018-08-05T02:42:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-08-05T02:56:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-09T00:27:34Z)
+- Depression screening (procedure) (Date: 2020-08-09T01:18:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-09T01:32:00Z)
+- Assessment of substance use (procedure) (Date: 2020-08-09T01:56:48Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-09T02:10:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-09T00:27:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-18T00:27:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-28T00:48:37Z: Emergency room admission (procedure)
+- 2020-08-09T00:27:34Z: General examination of patient (procedure)
+- 2018-08-05T00:27:34Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-16T00:27:34Z QOLS: 1.0 {score}
+- 2021-07-16T00:27:34Z DALY: 0.6 a
+- 2021-07-16T00:27:34Z QALY: 47.4 a
+- 2020-08-09T02:36:07Z Total score [DAST-10]: 2.0 {score}
+- 2020-08-09T01:56:48Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-08-09T01:18:53Z What is your current work situation?: Full-time work nan
+- 2020-08-09T01:18:53Z What is your main insurance?: Private insurance nan
+- 2020-08-09T01:18:53Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 177235 /a
+- 2020-08-09T01:18:53Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-08-09T01:18:53Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

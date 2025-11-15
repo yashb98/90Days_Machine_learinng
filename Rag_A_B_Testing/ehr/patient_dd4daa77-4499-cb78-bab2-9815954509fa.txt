@@ -1,0 +1,158 @@
+== PATIENT RECORD: Anne636 Gleason633 (ID: dd4daa77-4499-cb78-bab2-9815954509fa) ==
+
+== Demographics ==
+Patient ID: dd4daa77-4499-cb78-bab2-9815954509fa
+Name: Anne636 Gleason633
+Gender: F
+Birthdate: 1960-08-19
+Address: 330 Bogisich Knoll
+Marital Status: M
+
+== Allergies ==
+- Lisinopril
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Pulmonary emphysema (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Normal pregnancy
+- Antepartum eclampsia
+- Part-time employment (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Mestranol / Norethynodrel [Enovid]
+- Norinyl 1+50 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Ortho Tri-Cyclen 28 Day Pack
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 1982-10-22T18:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-10-22T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 1982-10-22T19:17:14Z)
+- Depression screening (procedure) (Date: 1982-10-22T19:38:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-10-22T19:50:52Z)
+- Assessment of substance use (procedure) (Date: 1982-10-22T20:19:48Z)
+- Screening for drug abuse (procedure) (Date: 1982-10-22T20:32:00Z)
+- Measurement of respiratory function (procedure) (Date: 1983-01-24T14:18:43Z)
+- Throat culture (procedure) (Date: 1985-06-11T05:18:43Z)
+- Spirometry (procedure) (Date: 1985-10-25T18:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-10-25T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 1985-10-25T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 1985-10-25T19:03:57Z)
+- Screening for domestic abuse (procedure) (Date: 1985-10-25T19:25:50Z)
+- Depression screening (procedure) (Date: 1985-10-25T20:07:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-10-25T20:21:05Z)
+- Assessment of substance use (procedure) (Date: 1985-10-25T20:43:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1985-10-25T20:54:40Z)
+- Spirometry (procedure) (Date: 1986-10-31T18:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-10-31T18:18:43Z)
+- Standard pregnancy test (Date: 1986-12-19T18:18:43Z)
+- Ultrasound scan for fetal viability (Date: 1986-12-19T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1986-12-19T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1986-12-19T18:18:43Z)
+- Blood typing  RH typing (Date: 1986-12-19T18:18:43Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1986-12-19T18:18:43Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1986-12-19T18:18:43Z)
+- Human immunodeficiency virus antigen test (Date: 1986-12-19T18:18:43Z)
+- Chlamydia antigen test (Date: 1986-12-19T18:18:43Z)
+- Gonorrhea infection test (Date: 1986-12-19T18:18:43Z)
+- Syphilis infection test (Date: 1986-12-19T18:18:43Z)
+- Urine culture (Date: 1986-12-19T18:18:43Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1986-12-19T18:18:43Z)
+- Urine screening test for diabetes (Date: 1986-12-19T18:18:43Z)
+- Hepatitis C antibody test (Date: 1986-12-19T18:18:43Z)
+- Rubella screening (Date: 1986-12-19T18:18:43Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1986-12-19T18:18:43Z)
+- Skin test for tuberculosis (Date: 1986-12-19T18:18:43Z)
+- Urine protein test (Date: 1986-12-19T18:18:43Z)
+- Physical examination of mother (Date: 1986-12-19T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-01-16T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-01-16T18:18:43Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1987-01-16T18:18:43Z)
+- Fetal anatomy study (Date: 1987-02-13T18:18:43Z)
+- Alpha-fetoprotein test (Date: 1987-02-13T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-02-13T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-02-13T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-03-13T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-03-13T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-04-10T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-04-10T18:18:43Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1987-05-08T18:18:43Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1987-05-08T18:18:43Z)
+- Urine screening for glucose (Date: 1987-05-08T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-05-08T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-05-08T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-06-05T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-06-05T18:18:43Z)
+- Streptococcus pneumoniae group B antigen test (Date: 1987-07-03T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-07-03T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-07-03T18:18:43Z)
+- Evaluation of uterine fundal height (Date: 1987-07-17T18:18:43Z)
+- Auscultation of the fetal heart (Date: 1987-07-17T18:18:43Z)
+- Augmentation of labor (Date: 1987-07-24T18:18:43Z)
+- Childbirth (Date: 1987-07-24T18:18:43Z)
+- Physical examination following birth (Date: 1987-09-04T18:18:43Z)
+- Depression screening (Date: 1987-09-04T18:18:43Z)
+- Spirometry (procedure) (Date: 1987-11-06T18:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-11-06T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 1987-11-06T19:14:49Z)
+- Depression screening (procedure) (Date: 1987-11-06T19:30:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-11-06T19:45:02Z)
+- Assessment of substance use (procedure) (Date: 1987-11-06T20:09:11Z)
+- Screening for drug abuse (procedure) (Date: 1987-11-06T20:21:53Z)
+- Spirometry (procedure) (Date: 1988-11-11T18:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-11-11T18:18:43Z)
+- Depression screening (procedure) (Date: 1988-11-11T19:15:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-11-11T19:26:26Z)
+- Assessment of substance use (procedure) (Date: 1988-11-11T19:51:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1988-11-11T20:02:35Z)
+- Spirometry (procedure) (Date: 1989-11-17T18:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-11-17T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 1989-11-17T18:18:43Z)
+- Screening for domestic abuse (procedure) (Date: 1989-11-17T18:54:01Z)
+- Assessment of substance use (procedure) (Date: 1989-11-17T19:35:41Z)
+- Screening for drug abuse (procedure) (Date: 1989-11-17T19:49:43Z)
+- Allergy screening test (Date: 1990-01-05T18:18:43Z)
+- Subcutaneous immunotherapy (Date: 1990-01-28T18:44:47Z)
+- Subcutaneous immunotherapy (Date: 1990-02-20T19:03:57Z)
+- Subcutaneous immunotherapy (Date: 1990-03-18T19:43:43Z)
+- Subcutaneous immunotherapy (Date: 1990-04-14T20:09:53Z)
+- Subcutaneous immunotherapy (Date: 1990-05-08T20:43:27Z)
+- Subcutaneous immunotherapy (Date: 1990-05-30T21:22:21Z)
+- Subcutaneous immunotherapy (Date: 1990-06-23T22:15:37Z)
+- Subcutaneous immunotherapy (Date: 1990-07-18T23:14:29Z)
+- Subcutaneous immunotherapy (Date: 1990-08-12T23:54:34Z)
+- Subcutaneous immunotherapy (Date: 1990-09-05T00:40:27Z)
+- Subcutaneous immunotherapy (Date: 1990-09-28T01:18:29Z)
+- Subcutaneous immunotherapy (Date: 1990-10-22T01:39:21Z)
+- Subcutaneous immunotherapy (Date: 1990-11-16T01:55:17Z)
+- Spirometry (procedure) (Date: 1990-11-23T18:18:43Z)
+
+== Recent Encounters (Last 5) ==
+- 1990-11-30T18:18:43Z: Death Certification
+- 1990-11-23T18:18:43Z: General examination of patient (procedure)
+- 1990-11-16T01:55:17Z: Outpatient procedure
+- 1990-10-22T01:39:21Z: Outpatient procedure
+- 1990-09-28T01:18:29Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 1990-11-30T18:18:43Z Cause of Death [US Standard Certificate of Death]: Pulmonary emphysema (disorder) nan
+- 1990-11-23T18:18:43Z FEV1/FVC: 64.0 %
+- 1990-01-05T18:44:47Z Cow milk IgE Ab in Serum: 0.3 kU/L
+- 1990-01-05T18:44:47Z Peanut IgE Ab in Serum: 0.1 kU/L
+- 1990-01-05T18:44:47Z Walnut IgE Ab in Serum: 0.2 kU/L
+- 1990-01-05T18:44:47Z Codfish IgE Ab in Serum: 0.3 kU/L
+- 1990-01-05T18:44:47Z Wheat IgE Ab in Serum: 0.2 kU/L
+- 1990-01-05T18:44:47Z Egg white IgE Ab in Serum: 0.3 kU/L
+- 1990-01-05T18:44:47Z Soybean IgE Ab in Serum: 0.1 kU/L
+- 1990-01-05T18:44:47Z Shrimp IgE Ab in Serum: 0.3 kU/L

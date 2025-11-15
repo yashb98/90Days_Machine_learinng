@@ -1,0 +1,70 @@
+== PATIENT RECORD: Coy949 Schaden604 (ID: 409330fa-7ffd-dbfb-4eba-2349d58a6324) ==
+
+== Demographics ==
+Patient ID: 409330fa-7ffd-dbfb-4eba-2349d58a6324
+Name: Coy949 Schaden604
+Gender: M
+Birthdate: 1979-02-28
+Address: 434 Hickle Throughway Suite 15
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-05-15T07:03:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-15T08:02:43Z)
+- Assessment of substance use (procedure) (Date: 2013-05-15T08:23:19Z)
+- Screening for drug abuse (procedure) (Date: 2013-05-15T08:37:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-18T07:03:09Z)
+- Screening for domestic abuse (procedure) (Date: 2016-05-18T07:41:56Z)
+- Depression screening (procedure) (Date: 2016-05-18T08:12:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-18T08:27:25Z)
+- Assessment of substance use (procedure) (Date: 2016-05-18T08:56:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-18T09:07:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-06T07:03:09Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-06T07:42:52Z)
+- Depression screening (procedure) (Date: 2019-03-06T08:06:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-06T08:19:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-06T08:49:54Z)
+- Assessment of substance use (procedure) (Date: 2019-03-06T09:10:58Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-06T09:23:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-10T07:03:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-10T07:03:09Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-10T07:51:13Z)
+- Depression screening (procedure) (Date: 2021-03-10T08:16:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-10T08:30:49Z)
+- Assessment of substance use (procedure) (Date: 2021-03-10T08:59:35Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-10T09:12:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-31T07:03:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-10T07:03:09Z: General examination of patient (procedure)
+- 2021-03-10T07:03:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-03-06T07:03:09Z: General examination of patient (procedure)
+- 2016-05-18T07:03:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-10T09:37:38Z Total score [DAST-10]: 1.0 {score}
+- 2021-03-10T08:59:35Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-10T08:16:08Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-03-10T07:51:13Z What address do you live at?: 434 Hickle Throughway Suite 15 nan
+- 2021-03-10T07:51:13Z What is your housing situation today?: I have housing nan
+- 2021-03-10T07:51:13Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-03-10T07:51:13Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-03-10T07:51:13Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week nan
+- 2021-03-10T07:51:13Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-03-10T07:51:13Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

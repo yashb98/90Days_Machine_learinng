@@ -1,0 +1,75 @@
+== PATIENT RECORD: Miguel815 Krajcik437 (ID: b39931a4-6a56-6b7d-5845-1fe6ea3540ed) ==
+
+== Demographics ==
+Patient ID: b39931a4-6a56-6b7d-5845-1fe6ea3540ed
+Name: Miguel815 Krajcik437
+Gender: M
+Birthdate: 1993-02-27
+Address: 156 Bergnaum Lane Unit 60
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Victim of intimate partner abuse (finding)
+- Transport problems (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-28T14:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-28T14:21:52Z)
+- Peripheral blood smear interpretation (Date: 2012-04-28T14:21:52Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-28T15:04:20Z)
+- Depression screening (procedure) (Date: 2012-04-28T15:42:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-28T15:56:20Z)
+- Assessment of substance use (procedure) (Date: 2012-04-28T16:22:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-04-28T16:34:27Z)
+- Review of systems (procedure) (Date: 2012-04-28T14:51:52Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-28T15:05:02Z)
+- Brief general examination (procedure) (Date: 2012-04-28T15:19:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-02T14:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-02T14:21:52Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-02T14:53:16Z)
+- Depression screening (procedure) (Date: 2015-05-02T15:09:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-02T15:21:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-05T14:21:52Z)
+- Assessment of substance use (procedure) (Date: 2018-05-05T15:15:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-05-05T15:27:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-08T14:21:52Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-08T14:21:52Z)
+- Depression screening (procedure) (Date: 2021-05-08T15:12:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-08T15:23:17Z)
+- Assessment of substance use (procedure) (Date: 2021-05-08T15:44:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-08T15:57:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T14:21:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-16T14:21:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-08T14:21:52Z: General examination of patient (procedure)
+- 2021-03-24T21:21:52Z: Encounter for symptom
+- 2020-08-04T04:21:52Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-08T16:25:21Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-05-08T15:44:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-05-08T15:12:44Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: Yes  it has kept me from medical appointments or from getting my medications nan
+- 2021-05-08T15:12:44Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 103312 /a
+- 2021-05-08T15:12:44Z What address do you live at?: 156 Bergnaum Lane Unit 60 nan
+- 2021-05-08T15:12:44Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-05-08T15:12:44Z What is your current work situation?: Full-time work nan
+- 2021-05-08T15:12:44Z What is your main insurance?: Private insurance nan
+- 2021-05-08T15:12:44Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-08T15:12:44Z How many family members  including yourself  do you currently live with?: 8.0 {#}

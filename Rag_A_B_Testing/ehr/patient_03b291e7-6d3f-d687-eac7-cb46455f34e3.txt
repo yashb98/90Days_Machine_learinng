@@ -1,0 +1,109 @@
+== PATIENT RECORD: Rudolf736 Reilly981 (ID: 03b291e7-6d3f-d687-eac7-cb46455f34e3) ==
+
+== Demographics ==
+Patient ID: 03b291e7-6d3f-d687-eac7-cb46455f34e3
+Name: Rudolf736 Reilly981
+Gender: M
+Birthdate: 1938-05-16
+Address: 576 Dare Corner Apt 25
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Lack of access to transportation (finding)
+- Social isolation (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Chronic sinusitis (disorder)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-01T04:02:52Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-01T04:56:57Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-01T05:26:32Z)
+- Depression screening (procedure) (Date: 2012-10-01T06:11:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-01T06:24:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-07T04:02:52Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-07T04:02:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-10-07T04:43:32Z)
+- Depression screening (procedure) (Date: 2013-10-07T05:06:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-07T05:17:52Z)
+- Assessment of substance use (procedure) (Date: 2013-10-07T05:43:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-07T05:54:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-13T04:02:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-10-13T05:01:21Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-13T05:20:36Z)
+- Assessment of substance use (procedure) (Date: 2014-10-13T06:05:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-13T06:15:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-19T04:02:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-19T04:02:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-10-19T05:00:58Z)
+- Depression screening (procedure) (Date: 2015-10-19T05:29:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-19T05:41:57Z)
+- Assessment of substance use (procedure) (Date: 2015-10-19T06:04:32Z)
+- Screening for drug abuse (procedure) (Date: 2015-10-19T06:15:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-24T04:02:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-10-24T04:59:56Z)
+- Depression screening (procedure) (Date: 2016-10-24T05:27:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-24T05:40:55Z)
+- Assessment of substance use (procedure) (Date: 2016-10-24T06:10:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-24T06:22:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-30T04:02:52Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-30T04:02:52Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-30T04:59:45Z)
+- Depression screening (procedure) (Date: 2017-10-30T05:19:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-30T05:33:00Z)
+- Assessment of substance use (procedure) (Date: 2017-10-30T06:02:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-30T06:15:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-05T04:02:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-11-05T04:45:17Z)
+- Assessment of substance use (procedure) (Date: 2018-11-05T05:00:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-05T05:14:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-11T04:02:52Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-11T04:02:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-11T04:43:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-11-11T05:05:11Z)
+- Depression screening (procedure) (Date: 2019-11-11T05:24:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-11T05:34:25Z)
+- Assessment of substance use (procedure) (Date: 2019-11-11T05:59:09Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-11T06:10:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-16T04:02:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-16T04:02:52Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-16T04:36:52Z)
+- Depression screening (procedure) (Date: 2020-11-16T05:06:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-16T05:19:43Z)
+- Assessment of substance use (procedure) (Date: 2020-11-16T05:45:33Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-16T05:58:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-24T14:02:52Z: Encounter for symptom
+- 2021-03-01T04:02:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-01T04:02:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-16T04:02:52Z: General examination of patient (procedure)
+- 2019-11-11T04:02:52Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-16T04:02:52Z QOLS: 1.0 {score}
+- 2021-05-16T04:02:52Z DALY: 0.3 a
+- 2021-05-16T04:02:52Z QALY: 81.7 a
+- 2020-11-16T06:23:51Z Total score [DAST-10]: 2.0 {score}
+- 2020-11-16T05:45:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-11-16T05:06:00Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 11.0 {score}
+- 2020-11-16T04:36:52Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-11-16T04:36:52Z What is your current work situation?: Full-time work nan
+- 2020-11-16T04:36:52Z What is your housing situation today?: I have housing nan
+- 2020-11-16T04:36:52Z Are you worried about losing your housing?: No nan

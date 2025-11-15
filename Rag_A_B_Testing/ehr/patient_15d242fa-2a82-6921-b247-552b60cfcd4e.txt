@@ -1,0 +1,120 @@
+== PATIENT RECORD: Nelson403 Jast432 (ID: 15d242fa-2a82-6921-b247-552b60cfcd4e) ==
+
+== Demographics ==
+Patient ID: 15d242fa-2a82-6921-b247-552b60cfcd4e
+Name: Nelson403 Jast432
+Gender: M
+Birthdate: 1953-05-05
+Address: 631 Daugherty Estate
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Concussion with no loss of consciousness
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2012-04-21T17:40:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-26T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-26T07:40:43Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-26T08:21:18Z)
+- Screening for domestic abuse (procedure) (Date: 2012-06-26T08:46:19Z)
+- Assessment of substance use (procedure) (Date: 2012-06-26T09:26:21Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-26T09:39:13Z)
+- Colonoscopy (Date: 2013-05-05T08:42:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-02T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-02T07:40:43Z)
+- Depression screening (procedure) (Date: 2013-07-02T08:35:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-02T08:49:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T07:40:43Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T08:28:20Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T09:16:00Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T10:12:10Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T10:57:25Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T11:46:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T12:31:23Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T13:25:44Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T14:14:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-08T15:06:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-08T07:40:43Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-08T08:35:59Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-08T08:51:07Z)
+- Depression screening (procedure) (Date: 2014-07-08T09:30:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-08T09:43:59Z)
+- Assessment of substance use (procedure) (Date: 2014-07-08T10:09:43Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-08T10:19:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-14T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-14T07:40:43Z)
+- Depression screening (procedure) (Date: 2015-07-14T08:40:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-14T08:53:52Z)
+- Assessment of substance use (procedure) (Date: 2015-07-14T09:15:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-14T09:26:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-19T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-19T07:40:43Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-19T08:33:19Z)
+- Screening for domestic abuse (procedure) (Date: 2016-07-19T09:02:12Z)
+- Depression screening (procedure) (Date: 2016-07-19T09:27:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-19T09:37:46Z)
+- Assessment of substance use (procedure) (Date: 2016-07-19T09:57:51Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-19T10:12:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-25T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-25T07:40:43Z)
+- Depression screening (procedure) (Date: 2017-07-25T08:25:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-25T08:35:52Z)
+- Assessment of substance use (procedure) (Date: 2017-07-25T09:02:58Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-25T09:14:31Z)
+- Colonoscopy (Date: 2018-05-05T09:21:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-31T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-31T07:40:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-07-31T08:29:18Z)
+- Depression screening (procedure) (Date: 2018-07-31T08:54:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-31T09:05:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-06T07:40:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-08-06T08:32:59Z)
+- Assessment of substance use (procedure) (Date: 2019-08-06T08:56:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-06T09:08:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-11T07:40:43Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-11T08:26:17Z)
+- Depression screening (procedure) (Date: 2020-08-11T08:42:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-11T08:55:08Z)
+- Assessment of substance use (procedure) (Date: 2020-08-11T09:17:52Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-11T09:32:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-17T07:40:43Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-17T07:40:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-08-17T08:33:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-17T07:40:43Z: General examination of patient (procedure)
+- 2021-05-25T22:40:43Z: Encounter for symptom
+- 2021-03-16T07:40:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-16T07:40:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-11T07:40:43Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-17T08:53:51Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-08-17T08:53:51Z Fall risk total [Morse Fall Scale]: 14.0 {#}
+- 2021-08-17T08:33:02Z What is your current work situation?: Full-time work nan
+- 2021-08-17T08:33:02Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-17T08:33:02Z What address do you live at?: 631 Daugherty Estate nan
+- 2021-08-17T08:33:02Z Are you worried about losing your housing?: Yes nan
+- 2021-08-17T08:33:02Z What is your housing situation today?: I have housing nan
+- 2021-08-17T08:33:02Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan
+- 2021-08-17T08:33:02Z What language are you most comfortable speaking?: English nan
+- 2021-08-17T08:33:02Z Have you been discharged from the armed forces of the United States?: No nan

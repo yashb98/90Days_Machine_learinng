@@ -1,0 +1,53 @@
+== PATIENT RECORD: Charlott617 Ryan260 (ID: 6eca45da-1034-4775-72fd-fa3012b4ca45) ==
+
+== Demographics ==
+Patient ID: 6eca45da-1034-4775-72fd-fa3012b4ca45
+Name: Charlott617 Ryan260
+Gender: F
+Birthdate: 2011-09-13
+Address: 856 Ankunding Mews
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Concussion with no loss of consciousness
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-20T23:23:15Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-21T23:23:15Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-21T23:23:15Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-19T23:23:15Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-26T23:23:15Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-20T23:23:15Z)
+- Throat culture (procedure) (Date: 2018-08-09T18:23:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-04T23:23:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-22T23:23:15Z: Encounter for 'check-up'
+- 2021-09-21T23:23:15Z: Well child visit (procedure)
+- 2021-08-27T23:23:15Z: Emergency room admission (procedure)
+- 2020-09-15T23:23:15Z: Well child visit (procedure)
+- 2019-09-10T23:23:15Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-21T23:23:15Z Systolic Blood Pressure: 118.0 mm[Hg]
+- 2021-09-21T23:23:15Z Body Height: 126.8 cm
+- 2021-09-21T23:23:15Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-09-21T23:23:15Z Body Weight: 31.1 kg
+- 2021-09-21T23:23:15Z Body Mass Index: 19.3 kg/m2
+- 2021-09-21T23:23:15Z Body mass index (BMI) [Percentile] Per age and gender: 80.6 %
+- 2021-09-21T23:23:15Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-09-21T23:23:15Z Heart rate: 95.0 /min
+- 2021-09-21T23:23:15Z Respiratory rate: 13.0 /min
+- 2021-09-21T23:23:15Z Tobacco smoking status NHIS: Never smoker nan

@@ -1,0 +1,98 @@
+== PATIENT RECORD: Erin498 Mann644 (ID: c2b9dc8a-cfe1-da50-5e72-140b66e43996) ==
+
+== Demographics ==
+Patient ID: c2b9dc8a-cfe1-da50-5e72-140b66e43996
+Name: Erin498 Mann644
+Gender: M
+Birthdate: 1999-03-22
+Address: 397 Lang Way Apt 34
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-04-17T01:29:34Z)
+- Depression screening (procedure) (Date: 2012-04-17T01:49:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-17T02:00:06Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-23T01:29:34Z)
+- Depression screening (procedure) (Date: 2013-04-23T01:50:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-04-23T02:04:26Z)
+- Assessment of substance use (procedure) (Date: 2013-04-23T02:31:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-04-23T02:41:17Z)
+- Anticipatory guidance (procedure) (Date: 2013-04-23T03:08:29Z)
+- Depression screening (procedure) (Date: 2014-04-29T01:29:34Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-29T01:29:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-04-29T01:41:02Z)
+- Assessment of substance use (procedure) (Date: 2014-04-29T02:07:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-04-29T02:18:27Z)
+- Anticipatory guidance (procedure) (Date: 2014-04-29T02:37:42Z)
+- Depression screening (procedure) (Date: 2015-05-05T01:29:34Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-05T01:29:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-05T01:43:35Z)
+- Assessment of substance use (procedure) (Date: 2015-05-05T02:13:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-05T02:26:02Z)
+- Health risks education (procedure) (Date: 2015-05-05T02:42:50Z)
+- Depression screening (procedure) (Date: 2016-05-10T01:29:34Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-10T01:29:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-10T01:41:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-16T01:29:34Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-16T02:25:56Z)
+- Depression screening (procedure) (Date: 2017-05-16T02:52:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-16T03:06:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-22T01:29:34Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-22T02:01:15Z)
+- Depression screening (procedure) (Date: 2018-05-22T02:29:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-22T02:42:20Z)
+- Assessment of substance use (procedure) (Date: 2018-05-22T03:12:00Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-22T03:25:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-28T01:29:34Z)
+- Depression screening (procedure) (Date: 2019-05-28T02:02:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-28T02:13:43Z)
+- Assessment of substance use (procedure) (Date: 2019-05-28T02:34:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-28T02:46:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-02T01:29:34Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-02T01:29:34Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-02T02:28:15Z)
+- Depression screening (procedure) (Date: 2020-06-02T02:54:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-02T03:06:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-08T01:29:34Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-08T02:18:20Z)
+- Assessment of substance use (procedure) (Date: 2021-06-08T02:41:20Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-08T02:52:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-16T01:29:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-19T01:29:34Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-08T01:29:34Z: General examination of patient (procedure)
+- 2020-06-02T01:29:34Z: General examination of patient (procedure)
+- 2019-05-28T01:29:34Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-08T03:20:43Z Total score [DAST-10]: 2.0 {score}
+- 2021-06-08T02:41:20Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 15.0 {score}
+- 2021-06-08T02:18:20Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2021-06-08T02:18:20Z How many family members  including yourself  do you currently live with?: 2.0 {#}
+- 2021-06-08T02:18:20Z Are you a refugee?: No nan
+- 2021-06-08T02:18:20Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-06-08T02:18:20Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-06-08T02:18:20Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-06-08T02:18:20Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-08T02:18:20Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 13915 /a

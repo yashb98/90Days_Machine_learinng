@@ -1,0 +1,78 @@
+== PATIENT RECORD: Vivienne78 Doyle959 (ID: a706bd75-a69b-5bb8-db87-8a29b45c989d) ==
+
+== Demographics ==
+Patient ID: a706bd75-a69b-5bb8-db87-8a29b45c989d
+Name: Vivienne78 Doyle959
+Gender: F
+Birthdate: 2003-12-06
+Address: 264 King Bay
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Yaz 28 Day Pack
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2011-11-29T16:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-04T02:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-09T02:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-15T02:51:32Z)
+- Depression screening (procedure) (Date: 2015-12-27T02:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-27T02:51:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-12-27T03:02:48Z)
+- Assessment of substance use (procedure) (Date: 2015-12-27T03:32:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-12-27T03:46:32Z)
+- Anticipatory guidance (procedure) (Date: 2015-12-27T04:15:22Z)
+- Depression screening (procedure) (Date: 2017-01-01T02:51:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-01-01T03:03:11Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-07T02:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-07T02:51:32Z)
+- Depression screening (procedure) (Date: 2018-01-07T03:21:27Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-01-07T03:31:27Z)
+- Depression screening (procedure) (Date: 2019-01-13T02:51:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-13T03:04:30Z)
+- Assessment of substance use (procedure) (Date: 2019-01-13T03:25:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-01-13T03:38:33Z)
+- Anticipatory guidance (procedure) (Date: 2019-01-13T03:53:41Z)
+- Depression screening (procedure) (Date: 2020-01-19T02:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-19T02:51:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-01-19T03:05:28Z)
+- Assessment of substance use (procedure) (Date: 2020-01-19T03:33:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-01-19T03:47:32Z)
+- Anticipatory guidance (procedure) (Date: 2020-01-19T04:13:58Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-05T02:51:32Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-05T02:51:32Z)
+- Depression screening (procedure) (Date: 2020-04-05T03:20:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-04-05T03:35:45Z)
+- Depression screening (procedure) (Date: 2021-01-24T02:51:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-01-24T03:02:11Z)
+- Assessment of substance use (procedure) (Date: 2021-01-24T03:28:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-01-24T03:41:49Z)
+- Anticipatory guidance (procedure) (Date: 2021-01-24T04:01:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-13T02:51:32Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-23T02:51:32Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-24T02:51:32Z: Well child visit (procedure)
+- 2020-11-20T02:51:32Z: Consultation for treatment
+- 2020-04-05T02:51:32Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-24T03:28:12Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-01-24T02:51:32Z Body mass index (BMI) [Percentile] Per age and gender: 95.6 %
+- 2021-01-24T02:51:32Z Systolic Blood Pressure: 117.0 mm[Hg]
+- 2021-01-24T02:51:32Z Body Height: 167.1 cm
+- 2021-01-24T02:51:32Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-01-24T02:51:32Z Body Weight: 84.7 kg
+- 2021-01-24T02:51:32Z Body Mass Index: 30.3 kg/m2
+- 2021-01-24T02:51:32Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-01-24T02:51:32Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-01-24T02:51:32Z Respiratory rate: 14.0 /min

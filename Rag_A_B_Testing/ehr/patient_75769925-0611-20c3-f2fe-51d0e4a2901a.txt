@@ -1,0 +1,59 @@
+== PATIENT RECORD: Von197 Botsford977 (ID: 75769925-0611-20c3-f2fe-51d0e4a2901a) ==
+
+== Demographics ==
+Patient ID: 75769925-0611-20c3-f2fe-51d0e4a2901a
+Name: Von197 Botsford977
+Gender: M
+Birthdate: 2012-05-05
+Address: 1029 Schuppe Spur Apt 92
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Laceration of forearm
+- Viral sinusitis (disorder)
+- Coronary Heart Disease
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-08-11T11:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-13T11:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-12T11:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-13T11:23:04Z)
+- Measurement of respiratory function (procedure) (Date: 2013-08-30T04:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-11T11:23:04Z)
+- Suture open wound (Date: 2015-01-30T11:23:04Z)
+- Injection of tetanus antitoxin (Date: 2015-01-30T11:47:43Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-11T11:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-15T11:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-21T11:23:04Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-08T11:23:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-08T11:23:04Z: Well child visit (procedure)
+- 2020-05-02T11:23:04Z: Well child visit (procedure)
+- 2019-04-27T11:23:04Z: Well child visit (procedure)
+- 2018-04-21T11:23:04Z: Well child visit (procedure)
+- 2017-04-15T11:23:04Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-08T11:23:04Z Body Mass Index: 16.1 kg/m2
+- 2021-05-08T11:23:04Z Body Height: 132.5 cm
+- 2021-05-08T11:23:04Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-05-08T11:23:04Z Body Weight: 28.3 kg
+- 2021-05-08T11:23:04Z Body mass index (BMI) [Percentile] Per age and gender: 49.4 %
+- 2021-05-08T11:23:04Z Diastolic Blood Pressure: 72.0 mm[Hg]
+- 2021-05-08T11:23:04Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-05-08T11:23:04Z Heart rate: 94.0 /min
+- 2021-05-08T11:23:04Z Respiratory rate: 13.0 /min
+- 2021-05-08T11:23:04Z Tobacco smoking status NHIS: Never smoker nan

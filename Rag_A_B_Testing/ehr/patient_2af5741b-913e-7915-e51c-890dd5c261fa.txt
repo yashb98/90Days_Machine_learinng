@@ -1,0 +1,121 @@
+== PATIENT RECORD: Janna498 Shanahan202 (ID: 2af5741b-913e-7915-e51c-890dd5c261fa) ==
+
+== Demographics ==
+Patient ID: 2af5741b-913e-7915-e51c-890dd5c261fa
+Name: Janna498 Shanahan202
+Gender: F
+Birthdate: 1963-06-04
+Address: 851 Anderson Street Suite 89
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Chronic sinusitis (disorder)
+- Gout
+- Social isolation (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Streptococcal sore throat (disorder)
+- Concussion with no loss of consciousness
+- Limited social contact (finding)
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-17T14:02:11Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-17T14:36:52Z)
+- Depression screening (procedure) (Date: 2012-01-17T15:05:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-17T15:16:01Z)
+- Assessment of substance use (procedure) (Date: 2012-01-17T15:43:26Z)
+- Screening for drug abuse (procedure) (Date: 2012-01-17T15:55:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-22T14:02:11Z)
+- Screening for domestic abuse (procedure) (Date: 2013-01-22T14:45:03Z)
+- Depression screening (procedure) (Date: 2013-01-22T15:21:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-22T15:34:12Z)
+- Assessment of substance use (procedure) (Date: 2013-01-22T16:01:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-01-22T16:14:08Z)
+- Colonoscopy (Date: 2013-06-04T14:02:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-28T14:02:11Z)
+- Depression screening (procedure) (Date: 2014-01-28T14:53:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-28T15:03:34Z)
+- Throat culture (procedure) (Date: 2014-10-17T02:02:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-03T14:02:11Z)
+- Depression screening (procedure) (Date: 2015-02-03T14:47:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-03T14:59:48Z)
+- Assessment of substance use (procedure) (Date: 2015-02-03T15:29:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-03T15:43:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-09T14:02:11Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-09T14:32:49Z)
+- Depression screening (procedure) (Date: 2016-02-09T14:58:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-09T15:08:34Z)
+- Assessment of substance use (procedure) (Date: 2016-02-09T15:37:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-09T15:48:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-14T14:02:11Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-14T14:02:11Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-14T14:38:59Z)
+- Assessment of substance use (procedure) (Date: 2017-02-14T15:00:31Z)
+- Screening for drug abuse (procedure) (Date: 2017-02-14T15:12:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-20T14:02:11Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-20T14:02:11Z)
+- Depression screening (procedure) (Date: 2018-02-20T15:00:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-20T15:14:04Z)
+- Colonoscopy (Date: 2018-06-04T14:44:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-26T14:02:11Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-26T14:02:11Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-26T14:50:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-03T14:02:11Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-03T14:02:11Z)
+- Depression screening (procedure) (Date: 2020-03-03T14:49:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-03T15:03:38Z)
+- Assessment of substance use (procedure) (Date: 2020-03-03T15:25:28Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-03T15:39:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-09T14:02:11Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-09T14:46:46Z)
+- Depression screening (procedure) (Date: 2021-03-09T15:04:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-09T15:17:49Z)
+- Assessment of substance use (procedure) (Date: 2021-03-09T15:42:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-09T15:54:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-04T14:02:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-13T14:02:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-09T14:02:11Z: General examination of patient (procedure)
+- 2020-03-03T14:02:11Z: General examination of patient (procedure)
+- 2019-02-26T14:02:11Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-04T14:02:11Z QOLS: 0.7 {score}
+- 2021-06-04T14:02:11Z DALY: 9.1 a
+- 2021-06-04T14:02:11Z QALY: 47.9 a
+- 2021-03-09T16:20:34Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-03-09T15:42:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-09T15:04:19Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- 2021-03-09T14:46:46Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-03-09T14:46:46Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-09T14:46:46Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-03-09T14:46:46Z What is your housing situation today?: I have housing nan

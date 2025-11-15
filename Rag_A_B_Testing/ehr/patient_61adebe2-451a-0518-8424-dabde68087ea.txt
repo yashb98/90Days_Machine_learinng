@@ -1,0 +1,46 @@
+== PATIENT RECORD: Norma469 Apodaca347 (ID: 61adebe2-451a-0518-8424-dabde68087ea) ==
+
+== Demographics ==
+Patient ID: 61adebe2-451a-0518-8424-dabde68087ea
+Name: Norma469 Apodaca347
+Gender: F
+Birthdate: 2020-02-05
+Address: 226 McDermott Harbor Suite 17
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-02-05T13:06:29Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-13T13:06:29Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-15T13:06:29Z)
+- Measurement of respiratory function (procedure) (Date: 2020-10-04T21:06:29Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-14T13:06:29Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-21T13:06:29Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-14T13:06:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-25T13:06:29Z: Encounter for check up (procedure)
+- 2021-08-14T12:28:35Z: Encounter for symptom
+- 2021-07-14T13:06:29Z: Well child visit (procedure)
+- 2021-04-14T13:06:29Z: Well child visit (procedure)
+- 2021-01-13T13:06:29Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-25T13:06:29Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-08-25T13:06:29Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-25T13:06:29Z Respiratory rate: 14.0 /min
+- 2021-08-25T13:06:29Z Heart rate: 71.0 /min
+- 2021-08-25T13:06:29Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-08-25T13:06:29Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-08-25T13:06:29Z Head Occipital-frontal circumference: 44.7 cm
+- 2021-08-25T13:06:29Z Weight-for-length Per age and sex: 82.1 %
+- 2021-08-25T13:06:29Z Body Weight: 10.6 kg
+- 2021-08-25T13:06:29Z Body Height: 76.2 cm

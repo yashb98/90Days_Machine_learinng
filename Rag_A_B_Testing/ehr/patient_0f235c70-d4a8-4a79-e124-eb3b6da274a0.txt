@@ -1,0 +1,153 @@
+== PATIENT RECORD: Dovie983 Fay398 (ID: 0f235c70-d4a8-4a79-e124-eb3b6da274a0) ==
+
+== Demographics ==
+Patient ID: 0f235c70-d4a8-4a79-e124-eb3b6da274a0
+Name: Dovie983 Fay398
+Gender: F
+Birthdate: 1992-01-05
+Address: 194 Muller Mill Suite 76
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Escherichia coli urinary tract infection
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Cystitis
+- Prediabetes
+- Anemia (disorder)
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+- Sepsis (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Natazia 28 Day Pack
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Trinessa 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Liletta 52 MG Intrauterine System
+- NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule
+- Seasonique 91 Day Pack
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Yaz 28 Day Pack
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-03-09T17:22:10Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-09T17:22:10Z)
+- Depression screening (procedure) (Date: 2014-03-09T17:52:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-09T18:02:50Z)
+- Assessment of substance use (procedure) (Date: 2014-03-09T18:28:01Z)
+- Screening for drug abuse (procedure) (Date: 2014-03-09T18:40:38Z)
+- Insertion of intrauterine contraceptive device (Date: 2016-01-11T16:22:10Z)
+- Removal of intrauterine device (Date: 2016-02-28T17:22:10Z)
+- Standard pregnancy test (Date: 2016-04-24T17:22:10Z)
+- Ultrasound scan for fetal viability (Date: 2016-04-24T17:22:10Z)
+- Counseling for termination of pregnancy (Date: 2016-05-11T17:22:10Z)
+- Induced termination of pregnancy (Date: 2016-05-11T17:22:10Z)
+- Pregnancy termination care (Date: 2016-05-24T17:22:10Z)
+- Physical exam following abortion (Date: 2016-05-24T17:22:10Z)
+- Depression screening (Date: 2016-05-24T17:22:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-12T17:22:10Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-12T17:22:10Z)
+- Peripheral blood smear interpretation (Date: 2017-03-12T17:22:10Z)
+- Depression screening (procedure) (Date: 2017-03-12T17:55:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-12T18:09:00Z)
+- Assessment of substance use (procedure) (Date: 2017-03-12T18:37:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-12T18:49:10Z)
+- Review of systems (procedure) (Date: 2017-03-12T17:52:10Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-12T18:10:44Z)
+- Brief general examination (procedure) (Date: 2017-03-12T18:28:31Z)
+- Standard pregnancy test (Date: 2018-05-13T17:22:10Z)
+- Ultrasound scan for fetal viability (Date: 2018-05-13T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-05-13T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-05-13T17:22:10Z)
+- Blood typing  RH typing (Date: 2018-05-13T17:22:10Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-05-13T17:22:10Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2018-05-13T17:22:10Z)
+- Human immunodeficiency virus antigen test (Date: 2018-05-13T17:22:10Z)
+- Chlamydia antigen test (Date: 2018-05-13T17:22:10Z)
+- Gonorrhea infection test (Date: 2018-05-13T17:22:10Z)
+- Syphilis infection test (Date: 2018-05-13T17:22:10Z)
+- Urine culture (Date: 2018-05-13T17:22:10Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2018-05-13T17:22:10Z)
+- Urine screening test for diabetes (Date: 2018-05-13T17:22:10Z)
+- Hepatitis C antibody test (Date: 2018-05-13T17:22:10Z)
+- Rubella screening (Date: 2018-05-13T17:22:10Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2018-05-13T17:22:10Z)
+- Skin test for tuberculosis (Date: 2018-05-13T17:22:10Z)
+- Urine protein test (Date: 2018-05-13T17:22:10Z)
+- Physical examination of mother (Date: 2018-05-13T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-06-10T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-06-10T17:22:10Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2018-06-10T17:22:10Z)
+- Fetal anatomy study (Date: 2018-07-08T17:22:10Z)
+- Alpha-fetoprotein test (Date: 2018-07-08T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-07-08T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-07-08T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-08-05T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-08-05T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-09-02T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-09-02T17:22:10Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-09-30T17:22:10Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2018-09-30T17:22:10Z)
+- Urine screening for glucose (Date: 2018-09-30T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-09-30T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-09-30T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-10-28T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-10-28T17:22:10Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2018-11-25T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-11-25T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-11-25T17:22:10Z)
+- Evaluation of uterine fundal height (Date: 2018-12-09T17:22:10Z)
+- Auscultation of the fetal heart (Date: 2018-12-09T17:22:10Z)
+- Childbirth (Date: 2018-12-16T17:22:10Z)
+- Physical examination following birth (Date: 2019-01-27T17:22:10Z)
+- Depression screening (Date: 2019-01-27T17:22:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-15T17:22:10Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-15T18:10:21Z)
+- Depression screening (procedure) (Date: 2020-03-15T18:32:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-15T18:42:33Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2020-04-29T17:22:10Z)
+- Transfer to stepdown unit (procedure) (Date: 2020-04-29T17:52:10Z)
+- Throat culture (procedure) (Date: 2021-02-07T12:22:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-14T17:22:10Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-14T18:07:58Z)
+- Depression screening (procedure) (Date: 2021-02-14T18:34:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-14T18:46:41Z)
+- Standard pregnancy test (Date: 2021-07-11T17:22:10Z)
+- Ultrasound scan for fetal viability (Date: 2021-07-11T17:22:10Z)
+- Counseling for termination of pregnancy (Date: 2021-07-24T17:22:10Z)
+- Induced termination of pregnancy (Date: 2021-07-24T17:22:10Z)
+- Pregnancy termination care (Date: 2021-08-02T17:22:10Z)
+- Physical exam following abortion (Date: 2021-08-02T17:22:10Z)
+- Depression screening (Date: 2021-08-02T17:22:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-02T17:22:10Z: Prenatal visit
+- 2021-07-24T17:22:10Z: Patient-initiated encounter
+- 2021-07-11T17:22:10Z: Prenatal initial visit
+- 2021-04-11T17:22:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-14T17:22:10Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-14T19:15:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-14T18:34:25Z Total score [HARK]: 0.0 {score}
+- 2021-02-14T18:07:58Z Are you a refugee?: No nan
+- 2021-02-14T18:07:58Z What address do you live at?: 194 Muller Mill Suite 76 nan
+- 2021-02-14T18:07:58Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-02-14T18:07:58Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-02-14T18:07:58Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-02-14T18:07:58Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-02-14T18:07:58Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-02-14T18:07:58Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

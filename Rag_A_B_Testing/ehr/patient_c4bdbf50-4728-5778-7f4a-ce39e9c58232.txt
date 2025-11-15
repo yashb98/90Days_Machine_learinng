@@ -1,0 +1,223 @@
+== PATIENT RECORD: Svetlana462 Tremblay80 (ID: c4bdbf50-4728-5778-7f4a-ce39e9c58232) ==
+
+== Demographics ==
+Patient ID: c4bdbf50-4728-5778-7f4a-ce39e9c58232
+Name: Svetlana462 Tremblay80
+Gender: F
+Birthdate: 1917-05-15
+Address: 919 Reilly Wall Suite 89
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Severe anxiety (panic) (finding
+- Limited social contact (finding)
+- Normal pregnancy
+- Preeclampsia
+- Acute viral pharyngitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Sepsis (disorder)
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 1932-06-21T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1932-06-21T11:58:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1932-06-21T12:11:56Z)
+- Assessment of substance use (procedure) (Date: 1932-06-21T12:38:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1932-06-21T12:50:13Z)
+- Anticipatory guidance (procedure) (Date: 1932-06-21T13:02:46Z)
+- Depression screening (procedure) (Date: 1933-06-27T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1933-06-27T11:58:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1933-06-27T12:11:37Z)
+- Assessment of substance use (procedure) (Date: 1933-06-27T12:31:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1933-06-27T12:44:02Z)
+- Anticipatory guidance (procedure) (Date: 1933-06-27T12:55:34Z)
+- Depression screening (procedure) (Date: 1934-07-03T11:58:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1934-07-03T12:09:32Z)
+- Assessment of substance use (procedure) (Date: 1934-07-03T12:31:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1934-07-03T12:42:11Z)
+- Anticipatory guidance (procedure) (Date: 1934-07-03T13:08:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1935-07-09T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1935-07-09T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1935-07-09T12:29:41Z)
+- Depression screening (procedure) (Date: 1935-07-09T12:44:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1935-07-09T12:56:06Z)
+- Assessment of health and social care needs (procedure) (Date: 1936-07-14T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1936-07-14T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1936-07-14T12:54:41Z)
+- Screening for domestic abuse (procedure) (Date: 1936-07-14T13:14:53Z)
+- Depression screening (procedure) (Date: 1936-07-14T13:55:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1936-07-14T14:08:12Z)
+- Standard pregnancy test (Date: 1936-12-01T11:58:49Z)
+- Ultrasound scan for fetal viability (Date: 1936-12-01T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1936-12-01T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1936-12-01T11:58:49Z)
+- Blood typing  RH typing (Date: 1936-12-01T11:58:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1936-12-01T11:58:49Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1936-12-01T11:58:49Z)
+- Human immunodeficiency virus antigen test (Date: 1936-12-01T11:58:49Z)
+- Chlamydia antigen test (Date: 1936-12-01T11:58:49Z)
+- Gonorrhea infection test (Date: 1936-12-01T11:58:49Z)
+- Syphilis infection test (Date: 1936-12-01T11:58:49Z)
+- Urine culture (Date: 1936-12-01T11:58:49Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1936-12-01T11:58:49Z)
+- Urine screening test for diabetes (Date: 1936-12-01T11:58:49Z)
+- Hepatitis C antibody test (Date: 1936-12-01T11:58:49Z)
+- Rubella screening (Date: 1936-12-01T11:58:49Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1936-12-01T11:58:49Z)
+- Skin test for tuberculosis (Date: 1936-12-01T11:58:49Z)
+- Urine protein test (Date: 1936-12-01T11:58:49Z)
+- Physical examination of mother (Date: 1936-12-01T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1936-12-29T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1936-12-29T11:58:49Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1936-12-29T11:58:49Z)
+- Fetal anatomy study (Date: 1937-01-26T11:58:49Z)
+- Alpha-fetoprotein test (Date: 1937-01-26T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1937-01-26T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1937-01-26T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1937-02-23T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1937-02-23T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1937-03-23T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1937-03-23T11:58:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1937-04-20T11:58:49Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1937-04-20T11:58:49Z)
+- Urine screening for glucose (Date: 1937-04-20T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1937-04-20T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1937-04-20T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1937-05-18T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1937-05-18T11:58:49Z)
+- Premature birth of newborn (Date: 1937-06-15T11:58:49Z)
+- Physical examination following birth (Date: 1937-07-27T11:58:49Z)
+- Depression screening (Date: 1937-07-27T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1939-07-18T11:58:49Z)
+- Peripheral blood smear interpretation (Date: 1939-07-18T11:58:49Z)
+- Depression screening (procedure) (Date: 1939-07-18T12:29:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1939-07-18T12:44:05Z)
+- Assessment of substance use (procedure) (Date: 1939-07-18T13:12:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1939-07-18T13:25:58Z)
+- Review of systems (procedure) (Date: 1939-07-18T12:28:49Z)
+- Medication Reconciliation (procedure) (Date: 1939-07-18T12:48:47Z)
+- Brief general examination (procedure) (Date: 1939-07-18T12:56:17Z)
+- Standard pregnancy test (Date: 1940-02-20T11:58:49Z)
+- Ultrasound scan for fetal viability (Date: 1940-02-20T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-02-20T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-02-20T11:58:49Z)
+- Blood typing  RH typing (Date: 1940-02-20T11:58:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1940-02-20T11:58:49Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1940-02-20T11:58:49Z)
+- Human immunodeficiency virus antigen test (Date: 1940-02-20T11:58:49Z)
+- Chlamydia antigen test (Date: 1940-02-20T11:58:49Z)
+- Gonorrhea infection test (Date: 1940-02-20T11:58:49Z)
+- Syphilis infection test (Date: 1940-02-20T11:58:49Z)
+- Urine culture (Date: 1940-02-20T11:58:49Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1940-02-20T11:58:49Z)
+- Urine screening test for diabetes (Date: 1940-02-20T11:58:49Z)
+- Hepatitis C antibody test (Date: 1940-02-20T11:58:49Z)
+- Rubella screening (Date: 1940-02-20T11:58:49Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1940-02-20T11:58:49Z)
+- Skin test for tuberculosis (Date: 1940-02-20T11:58:49Z)
+- Urine protein test (Date: 1940-02-20T11:58:49Z)
+- Physical examination of mother (Date: 1940-02-20T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-03-19T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-03-19T11:58:49Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1940-03-19T11:58:49Z)
+- Fetal anatomy study (Date: 1940-04-16T11:58:49Z)
+- Alpha-fetoprotein test (Date: 1940-04-16T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-04-16T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-04-16T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-05-14T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-05-14T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-06-11T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-06-11T11:58:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1940-07-09T11:58:49Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1940-07-09T11:58:49Z)
+- Urine screening for glucose (Date: 1940-07-09T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-07-09T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-07-09T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-08-06T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-08-06T11:58:49Z)
+- Streptococcus pneumoniae group B antigen test (Date: 1940-09-03T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-09-03T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-09-03T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1940-09-17T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1940-09-17T11:58:49Z)
+- Medical induction of labor (Date: 1940-09-24T11:58:49Z)
+- Childbirth (Date: 1940-09-24T11:58:49Z)
+- Physical examination following birth (Date: 1940-11-05T11:58:49Z)
+- Depression screening (Date: 1940-11-05T11:58:49Z)
+- Standard pregnancy test (Date: 1941-03-25T11:58:49Z)
+- Ultrasound scan for fetal viability (Date: 1941-03-25T11:58:49Z)
+- Counseling for termination of pregnancy (Date: 1941-04-02T11:58:49Z)
+- Induced termination of pregnancy (Date: 1941-04-02T11:58:49Z)
+- Pregnancy termination care (Date: 1941-04-09T11:58:49Z)
+- Physical exam following abortion (Date: 1941-04-09T11:58:49Z)
+- Depression screening (Date: 1941-04-09T11:58:49Z)
+- Standard pregnancy test (Date: 1941-09-09T11:58:49Z)
+- Ultrasound scan for fetal viability (Date: 1941-09-09T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1941-09-09T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1941-09-09T11:58:49Z)
+- Blood typing  RH typing (Date: 1941-09-09T11:58:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1941-09-09T11:58:49Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1941-09-09T11:58:49Z)
+- Human immunodeficiency virus antigen test (Date: 1941-09-09T11:58:49Z)
+- Chlamydia antigen test (Date: 1941-09-09T11:58:49Z)
+- Gonorrhea infection test (Date: 1941-09-09T11:58:49Z)
+- Syphilis infection test (Date: 1941-09-09T11:58:49Z)
+- Urine culture (Date: 1941-09-09T11:58:49Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1941-09-09T11:58:49Z)
+- Urine screening test for diabetes (Date: 1941-09-09T11:58:49Z)
+- Hepatitis C antibody test (Date: 1941-09-09T11:58:49Z)
+- Rubella screening (Date: 1941-09-09T11:58:49Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1941-09-09T11:58:49Z)
+- Skin test for tuberculosis (Date: 1941-09-09T11:58:49Z)
+- Urine protein test (Date: 1941-09-09T11:58:49Z)
+- Physical examination of mother (Date: 1941-09-09T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1941-10-07T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1941-10-07T11:58:49Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1941-10-07T11:58:49Z)
+- Fetal anatomy study (Date: 1941-11-04T11:58:49Z)
+- Alpha-fetoprotein test (Date: 1941-11-04T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1941-11-04T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1941-11-04T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1941-12-02T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1941-12-02T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1941-12-30T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1941-12-30T11:58:49Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1942-01-27T11:58:49Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1942-01-27T11:58:49Z)
+- Urine screening for glucose (Date: 1942-01-27T11:58:49Z)
+- Evaluation of uterine fundal height (Date: 1942-01-27T11:58:49Z)
+- Auscultation of the fetal heart (Date: 1942-01-27T11:58:49Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 1942-02-05T11:58:49Z)
+- Transfer to stepdown unit (procedure) (Date: 1942-02-05T12:28:49Z)
+- Admit to ICU (procedure) (Date: 1942-02-15T03:58:49Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 1942-02-15T04:28:49Z)
+
+== Recent Encounters (Last 5) ==
+- 1942-02-05T11:58:49Z: Encounter for problem
+- 1942-01-27T11:58:49Z: Prenatal visit
+- 1941-12-30T11:58:49Z: Prenatal visit
+- 1941-12-02T11:58:49Z: Prenatal visit
+- 1941-11-04T11:58:49Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 1942-02-15T04:58:49Z Systolic Blood Pressure: 94.7 mm[Hg]
+- 1942-02-15T04:58:49Z Diastolic Blood Pressure: 54.9 mm[Hg]
+- 1942-02-15T04:58:49Z Lactate [Mass/volume] in Blood: 2.4 mmol/L
+- 1942-02-05T12:28:49Z Mean blood pressure: 97.4 mm[Hg]
+- 1942-02-05T11:58:49Z Lactate [Mass/volume] in Blood: 3.3 mmol/L
+- 1942-02-05T11:58:49Z Oxygen Saturation: 96.0 %
+- 1942-02-05T11:58:49Z Capillary refill [Time] of Nail bed: Increased capillary filling time (finding) nan
+- 1942-02-05T11:58:49Z Gram positive blood culture panel by Probe in Positive blood culture: Positive (qualifier value) nan
+- 1940-09-24T21:58:49Z Body temperature: 37.1 Cel
+- 1939-07-18T13:49:24Z Total score [AUDIT-C]: 1.0 {score}

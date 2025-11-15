@@ -1,0 +1,109 @@
+== PATIENT RECORD: Claire652 Lakin515 (ID: aeabbc7e-1f5f-91fe-ac34-52c1ceca0b6b) ==
+
+== Demographics ==
+Patient ID: aeabbc7e-1f5f-91fe-ac34-52c1ceca0b6b
+Name: Claire652 Lakin515
+Gender: F
+Birthdate: 1951-01-21
+Address: 579 McClure Estate Suite 93
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Miscarriage in first trimester
+- Osteoarthritis of hip
+- Hyperlipidemia
+- Social isolation (finding)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Whiplash injury to neck
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-26T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-26T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-26T04:08:33Z)
+- Depression screening (procedure) (Date: 2012-03-26T04:34:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-26T04:44:51Z)
+- Colonoscopy (Date: 2012-06-04T22:25:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-01T03:33:02Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-01T04:07:38Z)
+- Depression screening (procedure) (Date: 2013-04-01T04:37:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-01T04:48:49Z)
+- Assessment of substance use (procedure) (Date: 2013-04-01T05:18:11Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-01T05:32:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-07T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-07T04:05:40Z)
+- Assessment of substance use (procedure) (Date: 2014-04-07T04:35:25Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-07T04:47:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-13T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-13T04:10:55Z)
+- Screening for domestic abuse (procedure) (Date: 2015-04-13T04:39:25Z)
+- Sputum examination (procedure) (Date: 2016-02-04T09:33:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-18T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-18T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-18T04:32:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-04-18T04:51:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-24T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-24T03:33:02Z)
+- Depression screening (procedure) (Date: 2017-04-24T04:30:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-24T04:40:37Z)
+- Assessment of substance use (procedure) (Date: 2017-04-24T05:06:39Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-24T05:17:25Z)
+- Colonoscopy (Date: 2017-06-04T23:03:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-30T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-30T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-30T04:12:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-06T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-06T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-06T04:21:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-05-06T04:37:41Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-06T04:56:08Z)
+- Depression screening (procedure) (Date: 2019-05-06T05:40:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-06T05:51:10Z)
+- Assessment of substance use (procedure) (Date: 2019-05-06T06:13:37Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-06T06:26:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-11T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-11T04:15:54Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-05-11T04:41:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-17T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-17T03:33:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-05-17T04:23:33Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-17T04:51:50Z)
+- Depression screening (procedure) (Date: 2021-05-17T05:36:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-17T05:50:48Z)
+- Assessment of substance use (procedure) (Date: 2021-05-17T06:19:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-17T06:32:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-17T03:33:02Z: General examination of patient (procedure)
+- 2021-04-12T03:33:02Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-15T03:33:02Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-25T03:33:02Z: Follow-up encounter
+- 2020-09-16T16:33:02Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T06:56:02Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-05-17T06:19:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-17T05:36:13Z Total score [HARK]: 0.0 {score}
+- 2021-05-17T04:51:50Z Fall risk total [Morse Fall Scale]: 111.0 {#}
+- 2021-05-17T04:51:50Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-05-17T04:23:33Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-05-17T04:23:33Z What language are you most comfortable speaking?: English nan
+- 2021-05-17T04:23:33Z What is your housing situation today?: I have housing nan
+- 2021-05-17T04:23:33Z Are you worried about losing your housing?: No nan
+- 2021-05-17T04:23:33Z What address do you live at?: 579 McClure Estate Suite 93 nan

@@ -1,0 +1,68 @@
+== PATIENT RECORD: Reyna401 Kemmer137 (ID: 3ccff3bb-35a0-bf09-e87e-ff16b4fd6a66) ==
+
+== Demographics ==
+Patient ID: 3ccff3bb-35a0-bf09-e87e-ff16b4fd6a66
+Name: Reyna401 Kemmer137
+Gender: F
+Birthdate: 2007-01-05
+Address: 217 Zboncak Bypass Apt 19
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic paralysis due to lesion of spinal cord
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-03T08:47:11Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-28T08:47:11Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-03T08:47:11Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-15T08:47:11Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-26T08:47:11Z)
+- Depression screening (procedure) (Date: 2019-02-01T08:47:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-02-01T08:58:43Z)
+- Assessment of substance use (procedure) (Date: 2019-02-01T09:20:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-02-01T09:32:42Z)
+- Anticipatory guidance (procedure) (Date: 2019-02-01T09:47:18Z)
+- Depression screening (procedure) (Date: 2020-02-07T08:47:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-02-07T08:59:09Z)
+- Assessment of substance use (procedure) (Date: 2020-02-07T09:21:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-02-07T09:32:59Z)
+- Anticipatory guidance (procedure) (Date: 2020-02-07T09:48:14Z)
+- Depression screening (procedure) (Date: 2020-10-02T08:47:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-10-02T09:01:22Z)
+- Assessment of substance use (procedure) (Date: 2020-10-02T09:23:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-10-02T09:35:18Z)
+- Anticipatory guidance (procedure) (Date: 2020-10-02T09:48:08Z)
+- Depression screening (procedure) (Date: 2021-02-12T08:47:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-02-12T08:58:12Z)
+- Assessment of substance use (procedure) (Date: 2021-02-12T09:26:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-02-12T09:41:06Z)
+- Anticipatory guidance (procedure) (Date: 2021-02-12T10:04:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T08:47:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-15T08:47:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-12T08:47:11Z: Well child visit (procedure)
+- 2021-01-04T08:47:11Z: Consultation for treatment
+- 2020-10-02T08:47:11Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-12T09:26:14Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 8.0 {score}
+- 2021-02-12T08:47:11Z Body Mass Index: 18.2 kg/m2
+- 2021-02-12T08:47:11Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-02-12T08:47:11Z Body Height: 161.0 cm
+- 2021-02-12T08:47:11Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-02-12T08:47:11Z Body Weight: 47.1 kg
+- 2021-02-12T08:47:11Z Body mass index (BMI) [Percentile] Per age and gender: 32.3 %
+- 2021-02-12T08:47:11Z Diastolic Blood Pressure: 90.0 mm[Hg]
+- 2021-02-12T08:47:11Z Systolic Blood Pressure: 130.0 mm[Hg]
+- 2021-02-12T08:47:11Z Heart rate: 98.0 /min

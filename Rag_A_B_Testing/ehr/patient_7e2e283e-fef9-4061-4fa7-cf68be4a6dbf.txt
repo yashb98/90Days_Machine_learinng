@@ -1,0 +1,53 @@
+== PATIENT RECORD: Latesha830 Breitenberg711 (ID: 7e2e283e-fef9-4061-4fa7-cf68be4a6dbf) ==
+
+== Demographics ==
+Patient ID: 7e2e283e-fef9-4061-4fa7-cf68be4a6dbf
+Name: Latesha830 Breitenberg711
+Gender: F
+Birthdate: 2017-03-25
+Address: 963 Langosh Station
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Cough (finding)
+- Sputum finding (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-03-25T22:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-29T22:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-02T22:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-03T22:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-02T22:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-29T22:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-27T22:15:24Z)
+- Face mask (physical object) (Date: 2021-04-17T22:15:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-17T22:15:24Z: Encounter for symptom (procedure)
+- 2021-02-27T22:15:24Z: Well child visit (procedure)
+- 2020-08-29T22:15:24Z: Well child visit (procedure)
+- 2020-02-29T22:15:24Z: Well child visit (procedure)
+- 2019-08-31T22:15:24Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-17T23:39:07Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-04-17T22:25:52Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-04-17T22:25:52Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

@@ -1,0 +1,150 @@
+== PATIENT RECORD: María Teresa440 Valadez233 (ID: 02ceca12-357f-981e-dcf3-3d26d3c1ff82) ==
+
+== Demographics ==
+Patient ID: 02ceca12-357f-981e-dcf3-3d26d3c1ff82
+Name: María Teresa440 Valadez233
+Gender: F
+Birthdate: 1963-07-03
+Address: 245 Wehner Center
+Marital Status: M
+
+== Allergies ==
+- Animal dander (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Not in labor force (finding)
+- Prediabetes
+- Anemia (disorder)
+- Diabetes
+- Miscarriage in first trimester
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+- Victim of intimate partner abuse (finding)
+- Full-time employment (finding)
+- Hyperglycemia (disorder)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Polyp of colon
+- Severe anxiety (panic) (finding
+- Acute viral pharyngitis (disorder)
+- Recurrent rectal polyp
+- Malignant tumor of colon
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- Loratadine 10 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Etonogestrel 68 MG Drug Implant
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Replacement of contraceptive intrauterine device (Date: 2012-06-27T06:15:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-01T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-01T07:01:04Z)
+- Depression screening (procedure) (Date: 2012-08-01T07:30:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-01T07:44:27Z)
+- Assessment of substance use (procedure) (Date: 2012-08-01T08:08:18Z)
+- Screening for drug abuse (procedure) (Date: 2012-08-01T08:21:54Z)
+- Intramuscular injection (Date: 2013-04-01T11:59:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-15T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-15T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-15T06:46:15Z)
+- Depression screening (procedure) (Date: 2013-05-15T07:15:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-15T07:28:48Z)
+- Colonoscopy (Date: 2013-07-03T06:15:28Z)
+- Screening for occult blood in feces (procedure) (Date: 2013-07-03T06:46:52Z)
+- Rectal polypectomy (Date: 2013-07-03T06:46:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-07T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2013-08-07T06:55:51Z)
+- Assessment of substance use (procedure) (Date: 2013-08-07T07:20:48Z)
+- Screening for drug abuse (procedure) (Date: 2013-08-07T07:32:01Z)
+- Removal of intrauterine device (Date: 2014-04-09T06:15:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-13T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-13T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-13T07:06:30Z)
+- Depression screening (procedure) (Date: 2014-08-13T07:31:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-13T07:43:41Z)
+- Assessment of substance use (procedure) (Date: 2014-08-13T08:05:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-08-13T08:19:19Z)
+- Colonoscopy (Date: 2014-09-03T06:46:52Z)
+- Rectal polypectomy (Date: 2014-09-03T07:27:59Z)
+- Partial resection of colon (Date: 2014-09-17T23:27:59Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2014-10-11T05:27:59Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2014-11-13T00:27:59Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2014-12-16T06:27:59Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-01-13T13:27:59Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-02-11T03:27:59Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-03-11T14:27:59Z)
+- Measurement of respiratory function (procedure) (Date: 2015-05-22T13:15:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-03T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-03T07:13:12Z)
+- Depression screening (procedure) (Date: 2015-06-03T07:29:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-03T07:39:18Z)
+- Assessment of substance use (procedure) (Date: 2015-06-03T08:01:35Z)
+- Screening for drug abuse (procedure) (Date: 2015-06-03T08:12:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-19T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-19T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-19T07:06:51Z)
+- Depression screening (procedure) (Date: 2015-08-19T07:30:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-19T07:44:06Z)
+- Assessment of substance use (procedure) (Date: 2015-08-19T08:08:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-08-19T08:22:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-24T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-24T06:46:07Z)
+- Depression screening (procedure) (Date: 2016-08-24T07:03:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-24T07:14:54Z)
+- Assessment of substance use (procedure) (Date: 2016-08-24T07:37:59Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-24T07:48:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-30T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-30T06:15:28Z)
+- Depression screening (procedure) (Date: 2017-08-30T06:52:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-30T07:03:15Z)
+- Assessment of substance use (procedure) (Date: 2017-08-30T07:31:45Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-30T07:45:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-05T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-05T07:10:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-11T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-11T06:15:28Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-11T07:06:16Z)
+- Depression screening (procedure) (Date: 2019-09-11T07:33:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-11T07:46:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-09-11T08:09:41Z)
+- Assessment of substance use (procedure) (Date: 2019-09-11T08:31:51Z)
+- Screening for drug abuse (procedure) (Date: 2019-09-11T08:46:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-16T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-16T06:15:28Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-16T06:49:53Z)
+- Depression screening (procedure) (Date: 2020-09-16T07:34:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-16T07:49:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-22T06:15:28Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-22T06:15:28Z)
+- Assessment of substance use (procedure) (Date: 2021-09-22T07:09:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-09-22T07:22:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-22T06:15:28Z: General examination of patient (procedure)
+- 2020-09-16T06:15:28Z: General examination of patient (procedure)
+- 2019-09-11T06:15:28Z: General examination of patient (procedure)
+- 2018-09-05T06:15:28Z: General examination of patient (procedure)
+- 2017-08-30T06:15:28Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-22T07:49:18Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-09-22T07:09:38Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 16637 /a
+- 2021-09-22T07:09:38Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-09-22T07:09:38Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-09-22T07:09:38Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-09-22T07:09:38Z What language are you most comfortable speaking?: Language other than English nan
+- 2021-09-22T07:09:38Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-09-22T07:09:38Z What is your housing situation today?: I have housing nan
+- 2021-09-22T07:09:38Z Are you worried about losing your housing?: No nan
+- 2021-09-22T07:09:38Z What address do you live at?: 245 Wehner Center nan

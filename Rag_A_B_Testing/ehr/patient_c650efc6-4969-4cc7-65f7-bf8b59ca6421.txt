@@ -1,0 +1,136 @@
+== PATIENT RECORD: Briana139 Hegmann834 (ID: c650efc6-4969-4cc7-65f7-bf8b59ca6421) ==
+
+== Demographics ==
+Patient ID: c650efc6-4969-4cc7-65f7-bf8b59ca6421
+Name: Briana139 Hegmann834
+Gender: F
+Birthdate: 1917-05-15
+Address: 882 Hessel Extension
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Localized  primary osteoarthritis of the hand
+- Hyperlipidemia
+- Social isolation (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Alzheimer's disease (disorder)
+- Has a criminal record (finding)
+- Severe anxiety (panic) (finding
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Tacrine 10 MG Oral Capsule
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Colonoscopy (Date: 1992-05-14T14:51:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-10-06T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1992-10-06T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1992-10-06T12:37:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1992-10-06T13:04:11Z)
+- Screening for domestic abuse (procedure) (Date: 1992-10-06T13:24:32Z)
+- Depression screening (procedure) (Date: 1992-10-06T13:59:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-10-06T14:12:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-10-12T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-10-12T12:43:51Z)
+- Depression screening (procedure) (Date: 1993-10-12T12:58:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-10-12T13:10:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1993-10-12T13:34:57Z)
+- Assessment of substance use (procedure) (Date: 1993-10-12T14:04:55Z)
+- Screening for drug abuse (procedure) (Date: 1993-10-12T14:18:22Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-10-18T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1994-10-18T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1994-10-18T12:50:16Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-10-18T13:06:41Z)
+- Screening for domestic abuse (procedure) (Date: 1994-10-18T13:33:57Z)
+- Depression screening (procedure) (Date: 1994-10-18T14:11:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-10-18T14:22:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-04-25T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1995-04-25T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1995-04-25T12:56:53Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-04-25T13:14:14Z)
+- Depression screening (procedure) (Date: 1995-04-25T13:33:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-04-25T13:47:47Z)
+- Assessment of substance use (procedure) (Date: 1995-04-25T14:08:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-04-25T14:22:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-10-24T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1995-10-24T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1995-10-24T12:54:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-10-24T13:22:36Z)
+- Screening for domestic abuse (procedure) (Date: 1995-10-24T13:39:45Z)
+- Depression screening (procedure) (Date: 1995-10-24T14:24:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-10-24T14:36:58Z)
+- Assessment of substance use (procedure) (Date: 1995-10-24T15:02:16Z)
+- Screening for drug abuse (procedure) (Date: 1995-10-24T15:15:58Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-02-20T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1996-02-20T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1996-02-20T12:42:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-02-20T13:03:33Z)
+- Depression screening (procedure) (Date: 1996-02-20T13:30:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-02-20T13:41:30Z)
+- Assessment of substance use (procedure) (Date: 1996-02-20T14:09:32Z)
+- Screening for drug abuse (procedure) (Date: 1996-02-20T14:20:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-10-29T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1996-10-29T12:53:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-10-29T13:15:54Z)
+- Assessment of substance use (procedure) (Date: 1996-10-29T13:32:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-10-29T13:45:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-11-04T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1997-11-04T11:58:49Z)
+- Assessment of substance use (procedure) (Date: 1997-11-04T12:46:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1997-11-04T12:59:12Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-11-10T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1998-11-10T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1998-11-10T12:45:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-11-10T13:07:56Z)
+- Screening for domestic abuse (procedure) (Date: 1998-11-10T13:34:07Z)
+- Depression screening (procedure) (Date: 1998-11-10T14:10:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-11-10T14:24:52Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-11-16T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1999-11-16T12:51:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-11-16T13:11:59Z)
+- Depression screening (procedure) (Date: 1999-11-16T13:35:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-11-16T13:47:40Z)
+- Assessment of substance use (procedure) (Date: 1999-11-16T14:08:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1999-11-16T14:20:32Z)
+- Measurement of respiratory function (procedure) (Date: 2000-01-08T22:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-11-21T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-11-21T12:57:26Z)
+- Depression screening (procedure) (Date: 2000-11-21T13:14:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-11-21T13:25:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2001-11-20T11:58:49Z: Death Certification
+- 2001-08-26T11:58:49Z: Follow-up encounter
+- 2001-02-12T11:58:49Z: Office Visit
+- 2000-11-21T11:58:49Z: General examination of patient (procedure)
+- 2000-08-26T11:58:49Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2001-11-20T11:58:49Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 2001-08-26T11:58:49Z Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- 2001-08-26T11:58:49Z Glucose: 95.5 mg/dL
+- 2001-08-26T11:58:49Z Urea Nitrogen: 16.1 mg/dL
+- 2001-08-26T11:58:49Z Creatinine: 2.7 mg/dL
+- 2001-08-26T11:58:49Z Calcium: 9.4 mg/dL
+- 2001-08-26T11:58:49Z Potassium: 4.2 mmol/L
+- 2001-08-26T11:58:49Z Chloride: 102.6 mmol/L
+- 2001-08-26T11:58:49Z Carbon Dioxide: 26.5 mmol/L
+- 2001-08-26T11:58:49Z Glomerular filtration rate/1.73 sq M.predicted: 86.4 mL/min

@@ -1,0 +1,109 @@
+== PATIENT RECORD: Dara636 Hills818 (ID: f4e9db02-4f07-2d07-f7f3-fc01c45454d1) ==
+
+== Demographics ==
+Patient ID: f4e9db02-4f07-2d07-f7f3-fc01c45454d1
+Name: Dara636 Hills818
+Gender: F
+Birthdate: 1960-03-31
+Address: 668 Dare Route Apt 98
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Unemployed (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Has a criminal record (finding)
+- Reports of violence in the environment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Replacement of contraceptive intrauterine device (Date: 2012-02-02T12:33:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-12T12:33:49Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-12T12:33:49Z)
+- Depression screening (procedure) (Date: 2012-04-12T13:10:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-12T13:23:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-18T12:33:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-18T12:33:49Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-18T13:17:24Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-18T13:43:09Z)
+- Depression screening (procedure) (Date: 2013-04-18T14:26:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-18T14:40:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-24T12:33:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-24T12:33:49Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-24T13:05:59Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-24T13:34:09Z)
+- Depression screening (procedure) (Date: 2014-04-24T14:13:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-24T14:26:31Z)
+- Assessment of substance use (procedure) (Date: 2014-04-24T14:48:13Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-24T15:02:48Z)
+- Colonoscopy (Date: 2015-04-01T13:02:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-30T12:33:49Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-30T13:33:42Z)
+- Assessment of substance use (procedure) (Date: 2015-04-30T13:57:50Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-30T14:09:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-05T12:33:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-05T12:33:49Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-05T13:10:57Z)
+- Screening for domestic abuse (procedure) (Date: 2016-05-05T13:28:54Z)
+- Depression screening (procedure) (Date: 2016-05-05T14:13:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-05T14:25:17Z)
+- Replacement of contraceptive intrauterine device (Date: 2017-02-02T12:33:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-11T12:33:49Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-11T12:33:49Z)
+- Depression screening (procedure) (Date: 2017-05-11T13:22:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-11T13:36:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-17T12:33:49Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-17T13:09:14Z)
+- Depression screening (procedure) (Date: 2018-05-17T13:32:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-17T13:44:07Z)
+- Assessment of substance use (procedure) (Date: 2018-05-17T14:08:46Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-17T14:22:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-23T12:33:49Z)
+- Depression screening (procedure) (Date: 2019-05-23T13:26:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-23T13:39:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-23T14:00:08Z)
+- Assessment of substance use (procedure) (Date: 2019-05-23T14:26:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-23T14:40:39Z)
+- Colonoscopy (Date: 2020-03-31T13:38:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-28T12:33:49Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-28T12:33:49Z)
+- Depression screening (procedure) (Date: 2020-05-28T13:32:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-28T13:45:29Z)
+- Assessment of substance use (procedure) (Date: 2020-05-28T14:13:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-28T14:27:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-03T12:33:49Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-03T13:30:28Z)
+- Depression screening (procedure) (Date: 2021-06-03T14:02:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-03T14:12:39Z)
+- Assessment of substance use (procedure) (Date: 2021-06-03T14:37:47Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-03T14:48:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-03T12:33:49Z: General examination of patient (procedure)
+- 2021-04-15T12:33:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-25T12:33:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-05-28T12:33:49Z: General examination of patient (procedure)
+- 2020-03-31T13:38:12Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-06-03T15:16:59Z Total score [DAST-10]: 1.0 {score}
+- 2021-06-03T14:37:47Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-06-03T14:02:08Z Total score [HARK]: 0.0 {score}
+- 2021-06-03T13:30:28Z Are you Hispanic or Latino?: No nan
+- 2021-06-03T13:30:28Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-06-03T13:30:28Z What language are you most comfortable speaking?: English nan
+- 2021-06-03T13:30:28Z How many family members  including yourself  do you currently live with?: 1.0 {#}
+- 2021-06-03T13:30:28Z What is your housing situation today?: I have housing nan
+- 2021-06-03T13:30:28Z Are you worried about losing your housing?: No nan
+- 2021-06-03T13:30:28Z What address do you live at?: 668 Dare Route Apt 98 nan

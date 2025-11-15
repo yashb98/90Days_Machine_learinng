@@ -1,0 +1,43 @@
+== PATIENT RECORD: Cinthia596 Cremin516 (ID: 221517f1-556c-2b5b-0553-6e26aa4466a1) ==
+
+== Demographics ==
+Patient ID: 221517f1-556c-2b5b-0553-6e26aa4466a1
+Name: Cinthia596 Cremin516
+Gender: F
+Birthdate: 2010-07-16
+Address: 363 Rice Frontage road Unit 20
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-22T06:46:09Z)
+- Throat culture (procedure) (Date: 2018-04-06T07:46:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-13T06:46:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-30T06:46:09Z: Well child visit (procedure)
+- 2021-05-28T04:46:09Z: Encounter for symptom
+- 2020-07-24T06:46:09Z: Well child visit (procedure)
+- 2019-07-19T06:46:09Z: Well child visit (procedure)
+- 2018-07-13T06:46:09Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-30T06:46:09Z Body Mass Index: 16.5 kg/m2
+- 2021-07-30T06:46:09Z Body mass index (BMI) [Percentile] Per age and gender: 33.9 %
+- 2021-07-30T06:46:09Z Respiratory rate: 12.0 /min
+- 2021-07-30T06:46:09Z Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL
+- 2021-07-30T06:46:09Z Erythrocytes [#/volume] in Blood by Automated count: 5.5 10*6/uL
+- 2021-07-30T06:46:09Z Hemoglobin [Mass/volume] in Blood: 17.3 g/dL
+- 2021-07-30T06:46:09Z Hematocrit [Volume Fraction] of Blood by Automated count: 42.6 %
+- 2021-07-30T06:46:09Z MCV [Entitic volume] by Automated count: 92.4 fL
+- 2021-07-30T06:46:09Z MCH [Entitic mass] by Automated count: 28.5 pg
+- 2021-07-30T06:46:09Z MCHC [Mass/volume] by Automated count: 33.0 g/dL

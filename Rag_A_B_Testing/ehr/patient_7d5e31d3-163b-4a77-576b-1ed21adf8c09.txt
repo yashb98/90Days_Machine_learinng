@@ -1,0 +1,41 @@
+== PATIENT RECORD: Eli762 Douglas31 (ID: 7d5e31d3-163b-4a77-576b-1ed21adf8c09) ==
+
+== Demographics ==
+Patient ID: 7d5e31d3-163b-4a77-576b-1ed21adf8c09
+Name: Eli762 Douglas31
+Gender: M
+Birthdate: 2021-01-24
+Address: 981 Feeney Vista
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-01-24T15:05:12Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-28T15:05:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T15:05:12Z: Well child visit (procedure)
+- 2021-07-04T15:05:12Z: Well child visit (procedure)
+- 2021-05-02T15:05:12Z: Well child visit (procedure)
+- 2021-02-28T15:05:12Z: Well child visit (procedure)
+- 2021-01-24T15:05:12Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-03T15:05:12Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-03T15:05:12Z Respiratory rate: 14.0 /min
+- 2021-10-03T15:05:12Z Heart rate: 72.0 /min
+- 2021-10-03T15:05:12Z Systolic Blood Pressure: 108.0 mm[Hg]
+- 2021-10-03T15:05:12Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2021-10-03T15:05:12Z Head Occipital-frontal circumference: 46.1 cm
+- 2021-10-03T15:05:12Z Weight-for-length Per age and sex: 0.2 %
+- 2021-10-03T15:05:12Z Body Weight: 7.6 kg
+- 2021-10-03T15:05:12Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-10-03T15:05:12Z Body Height: 73.2 cm

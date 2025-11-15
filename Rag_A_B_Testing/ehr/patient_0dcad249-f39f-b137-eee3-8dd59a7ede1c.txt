@@ -1,0 +1,67 @@
+== PATIENT RECORD: Dwayne786 Fisher429 (ID: 0dcad249-f39f-b137-eee3-8dd59a7ede1c) ==
+
+== Demographics ==
+Patient ID: 0dcad249-f39f-b137-eee3-8dd59a7ede1c
+Name: Dwayne786 Fisher429
+Gender: M
+Birthdate: 2001-04-19
+Address: 105 Wuckert Crossroad
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Laceration of thigh
+- Seizure disorder
+- History of single seizure (situation)
+- Fracture of forearm
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Diazepam 5 MG Oral Tablet
+- Carbamazepine[Tegretol]
+- clonazePAM 0.25 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2006-03-31T02:50:03Z)
+- Medication Reconciliation (procedure) (Date: 2007-04-06T02:50:03Z)
+- Medication Reconciliation (procedure) (Date: 2009-04-17T02:50:03Z)
+- Suture open wound (Date: 2010-04-18T02:50:03Z)
+- Injection of tetanus antitoxin (Date: 2010-04-18T03:16:44Z)
+- Medication Reconciliation (procedure) (Date: 2011-04-29T02:50:03Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2011-08-13T02:50:03Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 2011-09-19T03:51:03Z)
+- Assessment of substance use (procedure) (Date: 2013-05-10T02:50:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-10T03:04:03Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-10T03:15:50Z)
+- Upper arm X-ray (Date: 2014-03-21T03:34:36Z)
+- Bone immobilization (Date: 2014-03-21T03:34:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-05-16T02:50:03Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-16T02:50:03Z)
+- Depression screening (procedure) (Date: 2014-05-16T03:18:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-16T03:28:17Z)
+- Assessment of substance use (procedure) (Date: 2014-05-16T03:48:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-16T04:02:32Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-16T04:21:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2015-02-13T02:50:03Z: Death Certification
+- 2014-06-13T04:16:09Z: Encounter for 'check-up'
+- 2014-05-16T02:50:03Z: Well child visit (procedure)
+- 2014-03-21T03:34:36Z: Emergency room admission (procedure)
+- 2013-05-10T02:50:03Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2015-04-20T02:50:03Z QOLS: 0.7 {score}
+- 2015-04-20T02:50:03Z DALY: 0.8 a
+- 2015-04-20T02:50:03Z QALY: 12.2 a
+- 2015-02-13T02:50:03Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 2014-05-16T03:48:24Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 25.0 {score}
+- 2014-05-16T03:18:13Z Fall risk total [Morse Fall Scale]: 4.0 {#}
+- 2014-05-16T03:18:13Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2014-05-16T02:50:03Z Body Weight: 51.5 kg
+- 2014-05-16T02:50:03Z Body Mass Index: 21.5 kg/m2
+- 2014-05-16T02:50:03Z Body mass index (BMI) [Percentile] Per age and gender: 83.1 %

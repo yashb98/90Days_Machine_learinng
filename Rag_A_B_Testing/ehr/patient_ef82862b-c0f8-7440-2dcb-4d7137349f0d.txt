@@ -1,0 +1,253 @@
+== PATIENT RECORD: Melodie819 Cormier289 (ID: ef82862b-c0f8-7440-2dcb-4d7137349f0d) ==
+
+== Demographics ==
+Patient ID: ef82862b-c0f8-7440-2dcb-4d7137349f0d
+Name: Melodie819 Cormier289
+Gender: F
+Birthdate: 1988-08-04
+Address: 161 Aufderhar Meadow
+Marital Status: S
+
+== Allergies ==
+- Tree pollen (substance)
+
+== Active Conditions / Problem List ==
+- Coronary Heart Disease
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Transport problems (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Refugee (person)
+- Part-time employment (finding)
+- Concussion with no loss of consciousness
+- Escherichia coli urinary tract infection
+- Sprain of ankle
+- Normal pregnancy
+- Not in labor force (finding)
+- Contact dermatitis
+- Limited social contact (finding)
+- Second degree burn
+
+== Current Medications ==
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Levora 0.15/30 28 Day Pack
+- Trinessa 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+- Hydrocortisone 10 MG/ML Topical Cream
+- cetirizine hydrochloride 10 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Jolivette 28 Day Pack
+- Amoxicillin 250 MG Oral Capsule
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2011-12-29T22:57:17Z)
+- Intramuscular injection (Date: 2012-03-29T22:57:17Z)
+- Intramuscular injection (Date: 2012-06-28T22:57:17Z)
+- Intramuscular injection (Date: 2012-09-27T22:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-01T22:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-01T22:57:17Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-01T23:30:02Z)
+- Intramuscular injection (Date: 2012-12-27T22:57:17Z)
+- Intramuscular injection (Date: 2013-03-28T22:57:17Z)
+- Intramuscular injection (Date: 2013-06-27T22:57:17Z)
+- Intramuscular injection (Date: 2013-09-26T22:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-07T22:57:17Z)
+- Depression screening (procedure) (Date: 2013-11-07T23:51:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-08T00:02:50Z)
+- Assessment of substance use (procedure) (Date: 2013-11-08T00:25:29Z)
+- Screening for drug abuse (procedure) (Date: 2013-11-08T00:39:43Z)
+- Intramuscular injection (Date: 2013-12-26T22:57:17Z)
+- Intramuscular injection (Date: 2014-03-27T22:57:17Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-06-06T23:14:55Z)
+- Intramuscular injection (Date: 2014-06-26T22:57:17Z)
+- Intramuscular injection (Date: 2014-09-25T22:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-13T22:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-13T23:36:36Z)
+- Depression screening (procedure) (Date: 2014-11-13T23:54:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-14T00:07:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-14T00:29:35Z)
+- Assessment of substance use (procedure) (Date: 2014-11-14T00:49:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-14T01:04:40Z)
+- Intramuscular injection (Date: 2014-12-25T22:57:17Z)
+- Intramuscular injection (Date: 2015-03-26T22:57:17Z)
+- Intramuscular injection (Date: 2015-06-25T22:57:17Z)
+- Intramuscular injection (Date: 2015-09-24T22:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-19T22:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-19T22:57:17Z)
+- Depression screening (procedure) (Date: 2015-11-19T23:51:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-20T00:02:20Z)
+- Assessment of substance use (procedure) (Date: 2015-11-20T00:28:44Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-20T00:43:06Z)
+- Intramuscular injection (Date: 2015-12-24T22:57:17Z)
+- Intramuscular injection (Date: 2016-03-24T22:57:17Z)
+- Intramuscular injection (Date: 2016-06-23T22:57:17Z)
+- Intramuscular injection (Date: 2016-09-22T22:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-24T22:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-24T22:57:17Z)
+- Depression screening (procedure) (Date: 2016-11-24T23:41:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-24T23:53:02Z)
+- Assessment of substance use (procedure) (Date: 2016-11-25T00:16:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-25T00:29:37Z)
+- Intramuscular injection (Date: 2016-12-22T22:57:17Z)
+- Intramuscular injection (Date: 2017-03-23T22:57:17Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-05-25T04:21:25Z)
+- Intramuscular injection (Date: 2017-06-22T22:57:17Z)
+- Standard pregnancy test (Date: 2017-11-16T22:57:17Z)
+- Ultrasound scan for fetal viability (Date: 2017-11-16T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2017-11-16T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2017-11-16T22:57:17Z)
+- Blood typing  RH typing (Date: 2017-11-16T22:57:17Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-11-16T22:57:17Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2017-11-16T22:57:17Z)
+- Human immunodeficiency virus antigen test (Date: 2017-11-16T22:57:17Z)
+- Chlamydia antigen test (Date: 2017-11-16T22:57:17Z)
+- Gonorrhea infection test (Date: 2017-11-16T22:57:17Z)
+- Syphilis infection test (Date: 2017-11-16T22:57:17Z)
+- Urine culture (Date: 2017-11-16T22:57:17Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2017-11-16T22:57:17Z)
+- Urine screening test for diabetes (Date: 2017-11-16T22:57:17Z)
+- Hepatitis C antibody test (Date: 2017-11-16T22:57:17Z)
+- Rubella screening (Date: 2017-11-16T22:57:17Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2017-11-16T22:57:17Z)
+- Skin test for tuberculosis (Date: 2017-11-16T22:57:17Z)
+- Urine protein test (Date: 2017-11-16T22:57:17Z)
+- Physical examination of mother (Date: 2017-11-16T22:57:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-30T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2017-12-14T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2017-12-14T22:57:17Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2017-12-14T22:57:17Z)
+- Fetal anatomy study (Date: 2018-01-11T22:57:17Z)
+- Alpha-fetoprotein test (Date: 2018-01-11T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-01-11T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-01-11T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-02-08T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-02-08T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-03-08T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-03-08T22:57:17Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-04-05T22:57:17Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2018-04-05T22:57:17Z)
+- Urine screening for glucose (Date: 2018-04-05T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-04-05T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-04-05T22:57:17Z)
+- Allergy screening test (Date: 2018-04-21T18:57:17Z)
+- Allergy screening test (Date: 2018-04-21T19:32:36Z)
+- Evaluation of uterine fundal height (Date: 2018-05-03T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-05-03T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2018-05-16T20:05:06Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2018-05-31T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-05-31T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-05-31T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-06-14T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-06-14T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2018-06-12T21:04:28Z)
+- Evaluation of uterine fundal height (Date: 2018-06-21T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-06-21T22:57:17Z)
+- Evaluation of uterine fundal height (Date: 2018-06-28T22:57:17Z)
+- Auscultation of the fetal heart (Date: 2018-06-28T22:57:17Z)
+- Childbirth (Date: 2018-07-05T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2018-07-03T21:53:10Z)
+- Subcutaneous immunotherapy (Date: 2018-07-28T22:28:59Z)
+- Physical examination following birth (Date: 2018-08-16T22:57:17Z)
+- Depression screening (Date: 2018-08-16T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2018-08-19T22:53:50Z)
+- Subcutaneous immunotherapy (Date: 2018-09-09T23:28:10Z)
+- Subcutaneous immunotherapy (Date: 2018-10-04T00:12:28Z)
+- Subcutaneous immunotherapy (Date: 2018-10-25T01:02:10Z)
+- Subcutaneous immunotherapy (Date: 2018-11-16T01:53:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-06T22:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-06T22:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-06T23:33:35Z)
+- Depression screening (procedure) (Date: 2018-12-06T23:59:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-07T00:14:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-12-07T00:38:20Z)
+- Subcutaneous immunotherapy (Date: 2018-12-13T02:16:10Z)
+- Subcutaneous immunotherapy (Date: 2019-01-08T02:51:05Z)
+- Subcutaneous immunotherapy (Date: 2019-02-03T03:09:44Z)
+- Subcutaneous immunotherapy (Date: 2019-02-28T03:53:05Z)
+- Subcutaneous immunotherapy (Date: 2019-03-23T04:45:40Z)
+- Subcutaneous immunotherapy (Date: 2019-04-17T05:35:48Z)
+- Subcutaneous immunotherapy (Date: 2019-05-08T05:52:54Z)
+- Subcutaneous immunotherapy (Date: 2019-05-31T06:09:44Z)
+- Subcutaneous immunotherapy (Date: 2019-06-22T06:27:19Z)
+- Subcutaneous immunotherapy (Date: 2019-07-16T06:42:36Z)
+- Subcutaneous immunotherapy (Date: 2019-08-12T07:27:38Z)
+- Subcutaneous immunotherapy (Date: 2019-09-02T08:24:23Z)
+- Subcutaneous immunotherapy (Date: 2019-09-25T08:55:58Z)
+- Subcutaneous immunotherapy (Date: 2019-10-20T09:43:18Z)
+- Subcutaneous immunotherapy (Date: 2019-11-14T10:33:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-12T22:57:17Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-12T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2019-12-09T11:28:20Z)
+- Depression screening (procedure) (Date: 2019-12-12T23:44:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-12T23:54:53Z)
+- Subcutaneous immunotherapy (Date: 2020-01-02T11:58:42Z)
+- Subcutaneous immunotherapy (Date: 2020-01-23T12:33:09Z)
+- Subcutaneous immunotherapy (Date: 2020-02-13T13:28:12Z)
+- Subcutaneous immunotherapy (Date: 2020-03-08T14:21:13Z)
+- Subcutaneous immunotherapy (Date: 2020-03-30T14:58:44Z)
+- Subcutaneous immunotherapy (Date: 2020-04-23T15:27:53Z)
+- Subcutaneous immunotherapy (Date: 2020-05-18T16:11:21Z)
+- Subcutaneous immunotherapy (Date: 2020-06-10T16:42:39Z)
+- Subcutaneous immunotherapy (Date: 2020-07-03T17:03:51Z)
+- Subcutaneous immunotherapy (Date: 2020-07-30T17:24:37Z)
+- Insertion of subcutaneous contraceptive (Date: 2020-08-05T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2020-08-20T18:19:38Z)
+- Subcutaneous immunotherapy (Date: 2020-09-13T19:15:03Z)
+- Subcutaneous immunotherapy (Date: 2020-10-04T19:52:17Z)
+- Subcutaneous immunotherapy (Date: 2020-10-31T20:47:11Z)
+- Subcutaneous immunotherapy (Date: 2020-11-25T21:17:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-17T22:57:17Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-17T23:29:03Z)
+- Depression screening (procedure) (Date: 2020-12-17T23:46:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-17T23:56:44Z)
+- Subcutaneous immunotherapy (Date: 2020-12-18T21:50:11Z)
+- Subcutaneous immunotherapy (Date: 2021-01-10T22:31:56Z)
+- Subcutaneous immunotherapy (Date: 2021-02-01T23:24:09Z)
+- Subcutaneous immunotherapy (Date: 2021-02-23T00:05:58Z)
+- Subcutaneous immunotherapy (Date: 2021-03-20T00:35:19Z)
+- Subcutaneous immunotherapy (Date: 2021-04-15T01:32:23Z)
+- Subcutaneous immunotherapy (Date: 2021-05-06T01:56:06Z)
+- Subcutaneous immunotherapy (Date: 2021-05-27T02:21:36Z)
+- Subcutaneous immunotherapy (Date: 2021-06-21T03:04:38Z)
+- Subcutaneous immunotherapy (Date: 2021-07-15T03:58:47Z)
+- Subcutaneous immunotherapy (Date: 2021-08-10T04:23:04Z)
+- Subcutaneous immunotherapy (Date: 2021-09-03T04:53:25Z)
+- Subcutaneous immunotherapy (Date: 2021-09-26T05:20:50Z)
+- Subcutaneous immunotherapy (Date: 2021-10-21T06:05:51Z)
+- Removal of subcutaneous contraceptive (Date: 2021-10-28T22:57:17Z)
+- Subcutaneous immunotherapy (Date: 2021-11-16T07:00:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-16T07:00:59Z: Outpatient procedure
+- 2021-10-28T22:57:17Z: Patient encounter procedure
+- 2021-10-21T06:05:51Z: Outpatient procedure
+- 2021-09-26T05:20:50Z: Outpatient procedure
+- 2021-09-03T04:53:25Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-08-04T22:57:17Z QOLS: 0.9 {score}
+- 2021-08-04T22:57:17Z DALY: 1.6 a
+- 2021-08-04T22:57:17Z QALY: 30.4 a
+- 2020-12-18T00:17:34Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-17T23:46:27Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2020-12-17T23:29:03Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 126864 /a
+- 2020-12-17T23:29:03Z Are you worried about losing your housing?: Yes nan
+- 2020-12-17T23:29:03Z What address do you live at?: 161 Aufderhar Meadow nan
+- 2020-12-17T23:29:03Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-12-17T23:29:03Z What is your current work situation?: Full-time work nan

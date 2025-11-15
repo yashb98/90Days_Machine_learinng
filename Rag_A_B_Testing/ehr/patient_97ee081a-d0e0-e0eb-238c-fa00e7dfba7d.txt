@@ -1,0 +1,54 @@
+== PATIENT RECORD: Lecia978 Emmerich580 (ID: 97ee081a-d0e0-e0eb-238c-fa00e7dfba7d) ==
+
+== Demographics ==
+Patient ID: 97ee081a-d0e0-e0eb-238c-fa00e7dfba7d
+Name: Lecia978 Emmerich580
+Gender: F
+Birthdate: 1961-03-23
+Address: 923 Tromp Extension Apt 91
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Viral sinusitis (disorder)
+- Seizure disorder
+- History of single seizure (situation)
+
+== Current Medications ==
+- Ampicillin 100 MG/ML Injectable Solution
+- Acetaminophen 160 MG Chewable Tablet
+- Carbamazepine[Tegretol]
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1961-04-27T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1961-08-31T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1962-03-01T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1962-08-30T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1963-02-28T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1963-08-29T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1964-02-27T10:20:03Z)
+- Medication Reconciliation (procedure) (Date: 1964-08-27T10:20:03Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1964-12-29T10:20:03Z)
+
+== Recent Encounters (Last 5) ==
+- 1966-09-08T10:20:03Z: Death Certification
+- 1966-03-03T10:20:03Z: Well child visit (procedure)
+- 1965-02-25T10:20:03Z: Well child visit (procedure)
+- 1964-12-29T10:20:03Z: Emergency Room Admission
+- 1964-10-10T13:20:03Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 1966-09-08T10:20:03Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1966-03-03T10:20:03Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 1966-03-03T10:20:03Z Body Height: 106.2 cm
+- 1966-03-03T10:20:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 1966-03-03T10:20:03Z Body Weight: 16.6 kg
+- 1966-03-03T10:20:03Z Body mass index (BMI) [Percentile] Per age and gender: 35.4 %
+- 1966-03-03T10:20:03Z Body Mass Index: 14.7 kg/m2
+- 1966-03-03T10:20:03Z Systolic Blood Pressure: 110.0 mm[Hg]
+- 1966-03-03T10:20:03Z Heart rate: 84.0 /min
+- 1966-03-03T10:20:03Z Respiratory rate: 14.0 /min

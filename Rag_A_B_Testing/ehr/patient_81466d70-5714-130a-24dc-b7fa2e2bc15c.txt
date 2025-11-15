@@ -1,0 +1,48 @@
+== PATIENT RECORD: Hershel911 Gutmann970 (ID: 81466d70-5714-130a-24dc-b7fa2e2bc15c) ==
+
+== Demographics ==
+Patient ID: 81466d70-5714-130a-24dc-b7fa2e2bc15c
+Name: Hershel911 Gutmann970
+Gender: M
+Birthdate: 2018-02-09
+Address: 995 Aufderhar Stravenue
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bacterial sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-02-09T20:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-18T20:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-20T20:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-18T20:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-19T20:30:48Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-19T20:30:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-16T20:30:48Z: Well child visit (procedure)
+- 2021-01-15T20:30:48Z: Well child visit (procedure)
+- 2020-07-17T20:30:48Z: Well child visit (procedure)
+- 2020-04-10T20:30:48Z: Encounter for check up (procedure)
+- 2020-04-07T06:30:48Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-16T20:30:48Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-07-16T20:30:48Z Body mass index (BMI) [Percentile] Per age and gender: 74.2 %
+- 2021-07-16T20:30:48Z Body Height: 102.8 cm
+- 2021-07-16T20:30:48Z Body Weight: 17.6 kg
+- 2021-07-16T20:30:48Z Weight-for-length Per age and sex: 72.6 %
+- 2021-07-16T20:30:48Z Head Occipital-frontal circumference: 51.4 cm
+- 2021-07-16T20:30:48Z Body Mass Index: 16.6 kg/m2
+- 2021-07-16T20:30:48Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-16T20:30:48Z Respiratory rate: 15.0 /min
+- 2021-07-16T20:30:48Z Heart rate: 75.0 /min

@@ -1,0 +1,75 @@
+== PATIENT RECORD: Francisca486 Hammes673 (ID: 1fe68d61-36a2-f78d-b342-9b5012e903ae) ==
+
+== Demographics ==
+Patient ID: 1fe68d61-36a2-f78d-b342-9b5012e903ae
+Name: Francisca486 Hammes673
+Gender: F
+Birthdate: 2005-03-01
+Address: 169 Erdman Rue Unit 88
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Concussion with no loss of consciousness
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Yaz 28 Day Pack
+- Errin 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-21T11:29:02Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-26T11:29:02Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-10T11:29:02Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-15T11:29:02Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-21T11:29:02Z)
+- Depression screening (procedure) (Date: 2017-03-21T11:44:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-03-21T11:59:10Z)
+- Assessment of substance use (procedure) (Date: 2017-03-21T12:23:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-03-21T12:37:56Z)
+- Health risks education (procedure) (Date: 2017-03-21T12:55:16Z)
+- Depression screening (procedure) (Date: 2018-03-27T11:29:02Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-27T11:29:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-27T11:41:05Z)
+- Assessment of substance use (procedure) (Date: 2018-03-27T12:10:51Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-03-27T12:21:53Z)
+- Anticipatory guidance (procedure) (Date: 2018-03-27T12:51:41Z)
+- Plain chest X-ray (procedure) (Date: 2018-04-24T17:29:02Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-08T11:29:02Z)
+- Assessment of substance use (procedure) (Date: 2018-05-08T11:47:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-08T11:59:09Z)
+- Anticipatory guidance (procedure) (Date: 2018-05-08T12:17:46Z)
+- Throat culture (procedure) (Date: 2018-12-04T18:29:02Z)
+- Depression screening (procedure) (Date: 2019-04-02T11:29:02Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-02T11:29:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-04-02T11:40:15Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-07T11:29:02Z)
+- Depression screening (procedure) (Date: 2021-04-13T11:29:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-04-13T11:39:57Z)
+- Assessment of substance use (procedure) (Date: 2021-04-13T12:00:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-04-13T12:14:35Z)
+- Anticipatory guidance (procedure) (Date: 2021-04-13T12:25:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-04T11:29:02Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-13T11:29:02Z: Well child visit (procedure)
+- 2021-04-06T11:29:02Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-18T11:29:02Z: Consultation for treatment
+- 2020-04-07T11:29:02Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-13T12:00:08Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-04-13T11:29:02Z Platelet mean volume [Entitic volume] in Blood by Automated count: 9.8 fL
+- 2021-04-13T11:29:02Z Platelet distribution width [Entitic volume] in Blood by Automated count: 434.6 fL
+- 2021-04-13T11:29:02Z Respiratory rate: 14.0 /min
+- 2021-04-13T11:29:02Z Leukocytes [#/volume] in Blood by Automated count: 10.2 10*3/uL
+- 2021-04-13T11:29:02Z Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- 2021-04-13T11:29:02Z Hemoglobin [Mass/volume] in Blood: 12.4 g/dL
+- 2021-04-13T11:29:02Z Hematocrit [Volume Fraction] of Blood by Automated count: 43.7 %
+- 2021-04-13T11:29:02Z MCV [Entitic volume] by Automated count: 83.0 fL
+- 2021-04-13T11:29:02Z MCH [Entitic mass] by Automated count: 30.0 pg

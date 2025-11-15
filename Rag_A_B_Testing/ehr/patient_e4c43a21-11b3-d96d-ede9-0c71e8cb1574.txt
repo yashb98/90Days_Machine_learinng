@@ -1,0 +1,42 @@
+== PATIENT RECORD: Buddy254 Gislason620 (ID: e4c43a21-11b3-d96d-ede9-0c71e8cb1574) ==
+
+== Demographics ==
+Patient ID: e4c43a21-11b3-d96d-ede9-0c71e8cb1574
+Name: Buddy254 Gislason620
+Gender: M
+Birthdate: 2021-03-07
+Address: 115 Jakubowski Branch Suite 60
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-06-13T06:27:28Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-15T06:27:28Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-14T06:27:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T06:27:28Z: Well child visit (procedure)
+- 2021-08-15T06:27:28Z: Well child visit (procedure)
+- 2021-06-13T06:27:28Z: Well child visit (procedure)
+- 2021-04-11T06:27:28Z: Well child visit (procedure)
+- 2021-03-07T06:27:28Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-14T06:27:28Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-14T06:27:28Z Respiratory rate: 13.0 /min
+- 2021-11-14T06:27:28Z Heart rate: 99.0 /min
+- 2021-11-14T06:27:28Z Systolic Blood Pressure: 103.0 mm[Hg]
+- 2021-11-14T06:27:28Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-11-14T06:27:28Z Head Occipital-frontal circumference: 45.5 cm
+- 2021-11-14T06:27:28Z Weight-for-length Per age and sex: 16.7 %
+- 2021-11-14T06:27:28Z Body Weight: 8.4 kg
+- 2021-11-14T06:27:28Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-11-14T06:27:28Z Body Height: 71.9 cm

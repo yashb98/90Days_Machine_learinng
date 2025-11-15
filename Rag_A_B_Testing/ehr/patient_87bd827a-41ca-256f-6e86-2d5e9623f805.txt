@@ -1,0 +1,86 @@
+== PATIENT RECORD: Marlen929 Batz141 (ID: 87bd827a-41ca-256f-6e86-2d5e9623f805) ==
+
+== Demographics ==
+Patient ID: 87bd827a-41ca-256f-6e86-2d5e9623f805
+Name: Marlen929 Batz141
+Gender: F
+Birthdate: 2007-10-21
+Address: 241 Muller Plaza
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Acute bronchitis (disorder)
+- Child attention deficit disorder
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- atomoxetine 100 MG Oral Capsule
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-10-06T04:13:59Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-18T04:13:59Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-29T04:13:59Z)
+- Throat culture (procedure) (Date: 2018-03-31T02:13:59Z)
+- Measurement of respiratory function (procedure) (Date: 2018-04-22T21:13:59Z)
+- Cognitive and behavioral therapy (Date: 2019-06-22T04:13:59Z)
+- Cognitive and behavioral therapy (Date: 2019-07-27T05:13:59Z)
+- Cognitive and behavioral therapy (Date: 2019-08-25T06:13:59Z)
+- Cognitive and behavioral therapy (Date: 2019-09-22T07:13:59Z)
+- Cognitive and behavioral therapy (Date: 2019-10-21T08:13:59Z)
+- Depression screening (procedure) (Date: 2019-11-10T04:13:59Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-10T04:13:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-10T04:25:03Z)
+- Assessment of substance use (procedure) (Date: 2019-11-10T04:48:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-11-10T04:58:27Z)
+- Anticipatory guidance (procedure) (Date: 2019-11-10T05:19:43Z)
+- Cognitive and behavioral therapy (Date: 2019-11-30T09:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-01-08T10:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-02-10T11:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-03-21T12:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-04-30T13:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-06-10T14:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-07-21T15:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-08-26T16:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-10-04T17:13:59Z)
+- Depression screening (procedure) (Date: 2020-11-15T04:13:59Z)
+- Cognitive and behavioral therapy (Date: 2020-11-13T18:13:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-15T04:27:47Z)
+- Assessment of substance use (procedure) (Date: 2020-11-15T04:52:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-15T05:03:11Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-15T05:29:08Z)
+- Cognitive and behavioral therapy (Date: 2020-12-13T19:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-01-23T20:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-02-28T21:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-04-09T22:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-05-08T23:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-06-07T00:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-07-15T01:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-08-21T02:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-09-18T03:13:59Z)
+- Cognitive and behavioral therapy (Date: 2021-10-18T04:13:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-20T04:13:59Z: Consultation for treatment
+- 2021-10-18T04:13:59Z: Encounter for problem
+- 2021-09-18T03:13:59Z: Encounter for problem
+- 2021-09-12T04:13:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-21T02:13:59Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-10-21T04:13:59Z QOLS: 1.0 {score}
+- 2021-10-21T04:13:59Z DALY: 0.1 a
+- 2021-10-21T04:13:59Z QALY: 12.9 a
+- 2020-11-15T04:52:50Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 9.0 {score}
+- 2020-11-15T04:13:59Z Heart rate: 78.0 /min
+- 2020-11-15T04:13:59Z Body Height: 167.5 cm
+- 2020-11-15T04:13:59Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2020-11-15T04:13:59Z Body Weight: 50.7 kg
+- 2020-11-15T04:13:59Z Body Mass Index: 18.1 kg/m2
+- 2020-11-15T04:13:59Z Body mass index (BMI) [Percentile] Per age and gender: 40.2 %

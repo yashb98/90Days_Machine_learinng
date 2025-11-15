@@ -1,0 +1,221 @@
+== PATIENT RECORD: Kizzy275 Lubowitz58 (ID: f9b25fb8-133c-51c3-96f7-34ffb1c872ec) ==
+
+== Demographics ==
+Patient ID: f9b25fb8-133c-51c3-96f7-34ffb1c872ec
+Name: Kizzy275 Lubowitz58
+Gender: F
+Birthdate: 2001-10-12
+Address: 445 Hilpert Lane Unit 53
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis with seasonal variation
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Anemia (disorder)
+- Antepartum eclampsia
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Cough (finding)
+- Sputum finding (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Stress (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+- Yaz 28 Day Pack
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Assessment of substance use (procedure) (Date: 2013-11-01T17:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-01T17:56:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-11-01T18:08:55Z)
+- Health risks education (procedure) (Date: 2013-11-01T18:21:48Z)
+- Allergy screening test (Date: 2014-10-17T17:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-07T17:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-07T17:56:47Z)
+- Depression screening (procedure) (Date: 2014-11-07T18:16:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-07T18:30:23Z)
+- Assessment of substance use (procedure) (Date: 2014-11-07T18:59:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-11-07T19:11:26Z)
+- Anticipatory guidance (procedure) (Date: 2014-11-07T19:33:00Z)
+- Subcutaneous immunotherapy (Date: 2014-11-08T18:17:58Z)
+- Subcutaneous immunotherapy (Date: 2014-11-30T18:58:42Z)
+- Depression screening (procedure) (Date: 2014-12-12T17:56:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-12-12T18:09:03Z)
+- Assessment of substance use (procedure) (Date: 2014-12-12T18:30:28Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-12-12T18:45:22Z)
+- Anticipatory guidance (procedure) (Date: 2014-12-12T19:07:09Z)
+- Subcutaneous immunotherapy (Date: 2014-12-23T19:32:11Z)
+- Subcutaneous immunotherapy (Date: 2015-01-15T20:21:23Z)
+- Subcutaneous immunotherapy (Date: 2015-02-08T20:41:08Z)
+- Subcutaneous immunotherapy (Date: 2015-03-07T21:23:57Z)
+- Subcutaneous immunotherapy (Date: 2015-04-03T22:22:53Z)
+- Subcutaneous immunotherapy (Date: 2015-04-27T23:01:40Z)
+- Subcutaneous immunotherapy (Date: 2015-05-20T23:47:17Z)
+- Subcutaneous immunotherapy (Date: 2015-06-12T00:27:35Z)
+- Subcutaneous immunotherapy (Date: 2015-07-07T01:25:42Z)
+- Subcutaneous immunotherapy (Date: 2015-08-02T01:54:57Z)
+- Subcutaneous immunotherapy (Date: 2015-08-23T02:12:24Z)
+- Subcutaneous immunotherapy (Date: 2015-09-15T02:53:07Z)
+- Subcutaneous immunotherapy (Date: 2015-10-12T03:20:37Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-13T17:56:47Z)
+- Subcutaneous immunotherapy (Date: 2015-11-07T03:49:13Z)
+- Depression screening (procedure) (Date: 2015-11-13T18:12:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-13T18:23:50Z)
+- Assessment of substance use (procedure) (Date: 2015-11-13T18:50:51Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-11-13T19:01:40Z)
+- Health risks education (procedure) (Date: 2015-11-13T19:25:06Z)
+- Subcutaneous immunotherapy (Date: 2015-11-28T04:09:06Z)
+- Subcutaneous immunotherapy (Date: 2015-12-25T04:40:43Z)
+- Subcutaneous immunotherapy (Date: 2016-01-18T05:30:04Z)
+- Subcutaneous immunotherapy (Date: 2016-02-09T06:16:20Z)
+- Subcutaneous immunotherapy (Date: 2016-03-07T06:54:31Z)
+- Subcutaneous immunotherapy (Date: 2016-04-01T07:33:42Z)
+- Subcutaneous immunotherapy (Date: 2016-04-24T08:26:35Z)
+- Subcutaneous immunotherapy (Date: 2016-05-20T09:16:27Z)
+- Subcutaneous immunotherapy (Date: 2016-06-16T10:01:35Z)
+- Subcutaneous immunotherapy (Date: 2016-07-12T10:36:12Z)
+- Subcutaneous immunotherapy (Date: 2016-08-03T11:23:06Z)
+- Subcutaneous immunotherapy (Date: 2016-08-24T12:01:22Z)
+- Subcutaneous immunotherapy (Date: 2016-09-17T12:20:02Z)
+- Subcutaneous immunotherapy (Date: 2016-10-08T13:16:11Z)
+- Subcutaneous immunotherapy (Date: 2016-10-31T13:48:44Z)
+- Depression screening (procedure) (Date: 2016-11-18T17:56:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-18T18:07:46Z)
+- Subcutaneous immunotherapy (Date: 2016-11-25T14:21:15Z)
+- Subcutaneous immunotherapy (Date: 2016-12-20T15:17:06Z)
+- Subcutaneous immunotherapy (Date: 2017-01-11T15:46:59Z)
+- Subcutaneous immunotherapy (Date: 2017-02-03T16:09:39Z)
+- Subcutaneous immunotherapy (Date: 2017-02-28T16:31:48Z)
+- Subcutaneous immunotherapy (Date: 2017-03-22T17:01:38Z)
+- Subcutaneous immunotherapy (Date: 2017-04-12T17:43:40Z)
+- Subcutaneous immunotherapy (Date: 2017-05-06T18:02:39Z)
+- Subcutaneous immunotherapy (Date: 2017-05-27T19:00:25Z)
+- Subcutaneous immunotherapy (Date: 2017-06-19T19:21:36Z)
+- Subcutaneous immunotherapy (Date: 2017-07-15T19:57:09Z)
+- Subcutaneous immunotherapy (Date: 2017-08-05T20:38:30Z)
+- Subcutaneous immunotherapy (Date: 2017-08-29T21:29:16Z)
+- Subcutaneous immunotherapy (Date: 2017-09-19T22:20:46Z)
+- Subcutaneous immunotherapy (Date: 2017-10-10T23:00:32Z)
+- Subcutaneous immunotherapy (Date: 2017-10-31T23:25:12Z)
+- Depression screening (procedure) (Date: 2017-11-24T17:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-24T17:56:47Z)
+- Subcutaneous immunotherapy (Date: 2017-11-24T00:06:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-24T18:08:20Z)
+- Assessment of substance use (procedure) (Date: 2017-11-24T18:37:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-11-24T18:50:32Z)
+- Health risks education (procedure) (Date: 2017-11-24T19:01:36Z)
+- Subcutaneous immunotherapy (Date: 2017-12-18T00:25:26Z)
+- Subcutaneous immunotherapy (Date: 2018-01-11T00:42:15Z)
+- Subcutaneous immunotherapy (Date: 2018-02-06T00:57:21Z)
+- Subcutaneous immunotherapy (Date: 2018-03-01T01:32:28Z)
+- Subcutaneous immunotherapy (Date: 2018-03-25T02:15:45Z)
+- Subcutaneous immunotherapy (Date: 2018-04-17T02:36:40Z)
+- Subcutaneous immunotherapy (Date: 2018-05-14T03:16:42Z)
+- Subcutaneous immunotherapy (Date: 2018-06-05T03:51:04Z)
+- Subcutaneous immunotherapy (Date: 2018-07-01T04:33:21Z)
+- Subcutaneous immunotherapy (Date: 2018-07-28T05:06:54Z)
+- Subcutaneous immunotherapy (Date: 2018-08-20T05:32:53Z)
+- Subcutaneous immunotherapy (Date: 2018-09-13T06:07:27Z)
+- Allergy screening test (Date: 2018-10-10T06:53:28Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-30T17:56:47Z)
+- Depression screening (procedure) (Date: 2018-11-30T18:24:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-30T18:36:51Z)
+- Standard pregnancy test (Date: 2019-02-22T17:56:47Z)
+- Ultrasound scan for fetal viability (Date: 2019-02-22T17:56:47Z)
+- Evaluation of uterine fundal height (Date: 2019-02-22T17:56:47Z)
+- Auscultation of the fetal heart (Date: 2019-02-22T17:56:47Z)
+- Blood typing  RH typing (Date: 2019-02-22T17:56:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-02-22T17:56:47Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-02-22T17:56:47Z)
+- Human immunodeficiency virus antigen test (Date: 2019-02-22T17:56:47Z)
+- Chlamydia antigen test (Date: 2019-02-22T17:56:47Z)
+- Gonorrhea infection test (Date: 2019-02-22T17:56:47Z)
+- Syphilis infection test (Date: 2019-02-22T17:56:47Z)
+- Urine culture (Date: 2019-02-22T17:56:47Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-02-22T17:56:47Z)
+- Urine screening test for diabetes (Date: 2019-02-22T17:56:47Z)
+- Hepatitis C antibody test (Date: 2019-02-22T17:56:47Z)
+- Rubella screening (Date: 2019-02-22T17:56:47Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-02-22T17:56:47Z)
+- Skin test for tuberculosis (Date: 2019-02-22T17:56:47Z)
+- Urine protein test (Date: 2019-02-22T17:56:47Z)
+- Physical examination of mother (Date: 2019-02-22T17:56:47Z)
+- Peripheral blood smear interpretation (Date: 2019-02-22T17:56:47Z)
+- Review of systems (procedure) (Date: 2019-02-22T18:26:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-22T18:42:05Z)
+- Brief general examination (procedure) (Date: 2019-02-22T18:49:01Z)
+- Evaluation of uterine fundal height (Date: 2019-03-22T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-03-22T19:07:35Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-03-22T19:07:35Z)
+- Fetal anatomy study (Date: 2019-04-19T19:07:35Z)
+- Alpha-fetoprotein test (Date: 2019-04-19T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-04-19T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-04-19T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-05-17T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-05-17T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-06-14T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-06-14T19:07:35Z)
+- Antenatal RhD antibody screening (Date: 2019-07-12T19:07:35Z)
+- RhD passive immunization (Date: 2019-07-12T19:07:35Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-12T19:07:35Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-07-12T19:07:35Z)
+- Urine screening for glucose (Date: 2019-07-12T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-07-12T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-07-12T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-08-09T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-08-09T19:07:35Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-09-06T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-09-06T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-09-06T19:07:35Z)
+- Evaluation of uterine fundal height (Date: 2019-09-20T19:07:35Z)
+- Auscultation of the fetal heart (Date: 2019-09-20T19:07:35Z)
+- Episiotomy (Date: 2019-09-27T19:07:35Z)
+- Childbirth (Date: 2019-09-27T19:07:35Z)
+- RhD passive immunization (Date: 2019-11-08T19:07:35Z)
+- Physical examination following birth (Date: 2019-11-08T19:07:35Z)
+- Depression screening (Date: 2019-11-08T19:07:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-06T17:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-06T18:38:15Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-06T19:06:34Z)
+- Depression screening (procedure) (Date: 2019-12-06T19:34:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-06T19:45:01Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-11-13T03:56:47Z)
+- Face mask (physical object) (Date: 2020-12-07T17:56:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-11T17:56:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-11T17:56:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-11T18:50:55Z)
+- Depression screening (procedure) (Date: 2020-12-11T19:07:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-11T19:22:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-11T17:56:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-21T17:56:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-11T17:56:47Z: General examination of patient (procedure)
+- 2020-12-07T17:56:47Z: Encounter for symptom (procedure)
+- 2020-11-13T03:56:47Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-10-12T17:56:47Z QOLS: 1.0 {score}
+- 2021-10-12T17:56:47Z DALY: 0.0 a
+- 2021-10-12T17:56:47Z QALY: 19.0 a
+- 2020-12-11T19:46:30Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-12-11T19:07:11Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-12-11T18:50:55Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-12-11T18:50:55Z What is your current work situation?: Full-time work nan
+- 2020-12-11T18:50:55Z What is your main insurance?: Private insurance nan
+- 2020-12-11T18:50:55Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 89674 /a
+- 2020-12-11T18:50:55Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

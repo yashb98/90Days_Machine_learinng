@@ -1,0 +1,55 @@
+== PATIENT RECORD: Micheline936 Barton704 (ID: b28a9876-7b93-c2d5-2c24-df5cefc848b0) ==
+
+== Demographics ==
+Patient ID: b28a9876-7b93-c2d5-2c24-df5cefc848b0
+Name: Micheline936 Barton704
+Gender: F
+Birthdate: 2013-06-27
+Address: 417 Johns Estate Unit 86
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-06-27T07:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-03T07:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-04T07:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-04T07:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-01T07:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-07T07:02:49Z)
+- Throat culture (procedure) (Date: 2018-07-05T06:02:49Z)
+- Measurement of respiratory function (procedure) (Date: 2019-03-29T19:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-13T07:02:49Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-24T07:02:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-24T07:02:49Z: Well child visit (procedure)
+- 2020-06-18T07:02:49Z: Well child visit (procedure)
+- 2019-06-13T07:02:49Z: Well child visit (procedure)
+- 2019-04-04T07:02:49Z: Encounter for check up (procedure)
+- 2019-03-29T19:02:49Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-06-27T07:02:49Z QOLS: 1.0 {score}
+- 2021-06-27T07:02:49Z QALY: 7.0 a
+- 2021-06-27T07:02:49Z DALY: 0.0 a
+- 2021-06-24T07:02:49Z Body Height: 121.2 cm
+- 2021-06-24T07:02:49Z Body Weight: 22.7 kg
+- 2021-06-24T07:02:49Z Body Mass Index: 15.5 kg/m2
+- 2021-06-24T07:02:49Z Body mass index (BMI) [Percentile] Per age and gender: 42.7 %
+- 2021-06-24T07:02:49Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-06-24T07:02:49Z Systolic Blood Pressure: 123.0 mm[Hg]
+- 2021-06-24T07:02:49Z Heart rate: 71.0 /min

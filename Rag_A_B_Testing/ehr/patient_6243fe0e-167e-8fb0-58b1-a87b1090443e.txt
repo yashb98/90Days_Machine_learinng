@@ -1,0 +1,53 @@
+== PATIENT RECORD: Madge238 Jones311 (ID: 6243fe0e-167e-8fb0-58b1-a87b1090443e) ==
+
+== Demographics ==
+Patient ID: 6243fe0e-167e-8fb0-58b1-a87b1090443e
+Name: Madge238 Jones311
+Gender: F
+Birthdate: 2013-03-15
+Address: 411 Gulgowski Byway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-04-19T06:59:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-21T06:59:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-23T06:59:50Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-22T06:59:50Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-21T06:59:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-23T06:59:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-01T06:59:50Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-12T06:59:50Z: Well child visit (procedure)
+- 2021-01-07T20:59:50Z: Encounter for symptom
+- 2020-09-11T06:59:50Z: Encounter for check up (procedure)
+- 2020-09-07T20:59:50Z: Encounter for symptom
+- 2020-03-06T06:59:50Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-15T06:59:50Z QOLS: 1.0 {score}
+- 2021-03-15T06:59:50Z QALY: 7.0 a
+- 2021-03-15T06:59:50Z DALY: 0.0 a
+- 2021-03-12T06:59:50Z Body Height: 123.5 cm
+- 2021-03-12T06:59:50Z Body Weight: 25.5 kg
+- 2021-03-12T06:59:50Z Body Mass Index: 16.7 kg/m2
+- 2021-03-12T06:59:50Z Body mass index (BMI) [Percentile] Per age and gender: 67.6 %
+- 2021-03-12T06:59:50Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-03-12T06:59:50Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2021-03-12T06:59:50Z Heart rate: 98.0 /min

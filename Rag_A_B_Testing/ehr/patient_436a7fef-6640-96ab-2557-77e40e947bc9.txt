@@ -1,0 +1,129 @@
+== PATIENT RECORD: Arline53 Rohan584 (ID: 436a7fef-6640-96ab-2557-77e40e947bc9) ==
+
+== Demographics ==
+Patient ID: 436a7fef-6640-96ab-2557-77e40e947bc9
+Name: Arline53 Rohan584
+Gender: F
+Birthdate: 2005-04-27
+Address: 584 Dare Station
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Fracture subluxation of wrist
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- X-ray or wrist (Date: 2013-03-23T12:41:47Z)
+- Bone immobilization (Date: 2013-03-23T12:41:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-24T12:10:26Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-30T12:10:26Z)
+- Throat culture (procedure) (Date: 2015-03-10T02:10:26Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-06T12:10:26Z)
+- Throat culture (procedure) (Date: 2015-07-19T02:10:26Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-17T12:10:26Z)
+- Depression screening (procedure) (Date: 2017-05-17T12:26:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-17T12:40:14Z)
+- Assessment of substance use (procedure) (Date: 2017-05-17T13:04:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-05-17T13:15:18Z)
+- Anticipatory guidance (procedure) (Date: 2017-05-17T13:40:29Z)
+- Depression screening (procedure) (Date: 2018-05-23T12:10:26Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-23T12:10:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-05-23T12:23:32Z)
+- Assessment of substance use (procedure) (Date: 2018-05-23T12:52:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-23T13:05:01Z)
+- Anticipatory guidance (procedure) (Date: 2018-05-23T13:30:45Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-29T12:10:26Z)
+- Depression screening (procedure) (Date: 2019-05-29T12:37:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-29T12:52:00Z)
+- Assessment of substance use (procedure) (Date: 2019-05-29T13:21:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-05-29T13:35:35Z)
+- Anticipatory guidance (procedure) (Date: 2019-05-29T13:56:14Z)
+- Depression screening (procedure) (Date: 2020-06-03T12:10:26Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-03T12:10:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-03T12:22:47Z)
+- Assessment of substance use (procedure) (Date: 2020-06-03T12:51:58Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-06-03T13:05:27Z)
+- Health risks education (procedure) (Date: 2020-06-03T13:32:31Z)
+- Standard pregnancy test (Date: 2020-09-23T12:10:26Z)
+- Ultrasound scan for fetal viability (Date: 2020-09-23T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2020-09-23T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2020-09-23T12:10:26Z)
+- Blood typing  RH typing (Date: 2020-09-23T12:10:26Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-09-23T12:10:26Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2020-09-23T12:10:26Z)
+- Human immunodeficiency virus antigen test (Date: 2020-09-23T12:10:26Z)
+- Chlamydia antigen test (Date: 2020-09-23T12:10:26Z)
+- Gonorrhea infection test (Date: 2020-09-23T12:10:26Z)
+- Syphilis infection test (Date: 2020-09-23T12:10:26Z)
+- Urine culture (Date: 2020-09-23T12:10:26Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2020-09-23T12:10:26Z)
+- Urine screening test for diabetes (Date: 2020-09-23T12:10:26Z)
+- Hepatitis C antibody test (Date: 2020-09-23T12:10:26Z)
+- Rubella screening (Date: 2020-09-23T12:10:26Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2020-09-23T12:10:26Z)
+- Skin test for tuberculosis (Date: 2020-09-23T12:10:26Z)
+- Urine protein test (Date: 2020-09-23T12:10:26Z)
+- Physical examination of mother (Date: 2020-09-23T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2020-10-21T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2020-10-21T12:10:26Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2020-10-21T12:10:26Z)
+- Fetal anatomy study (Date: 2020-11-18T12:10:26Z)
+- Alpha-fetoprotein test (Date: 2020-11-18T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2020-11-18T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2020-11-18T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2020-12-16T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2020-12-16T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2021-01-13T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2021-01-13T12:10:26Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-02-10T12:10:26Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-02-10T12:10:26Z)
+- Urine screening for glucose (Date: 2021-02-10T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2021-02-10T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2021-02-10T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2021-03-10T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2021-03-10T12:10:26Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2021-04-07T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2021-04-07T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2021-04-07T12:10:26Z)
+- Evaluation of uterine fundal height (Date: 2021-04-21T12:10:26Z)
+- Auscultation of the fetal heart (Date: 2021-04-21T12:10:26Z)
+- Episiotomy (Date: 2021-04-28T12:10:26Z)
+- Cesarean section (Date: 2021-04-28T12:10:26Z)
+- Physical examination following birth (Date: 2021-06-09T12:10:26Z)
+- Depression screening (Date: 2021-06-09T12:10:26Z)
+- Depression screening (procedure) (Date: 2021-06-09T12:10:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-06-09T12:21:06Z)
+- Assessment of substance use (procedure) (Date: 2021-06-09T12:50:44Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-06-09T13:03:07Z)
+- Health risks education (procedure) (Date: 2021-06-09T13:31:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T12:10:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-13T12:10:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-09T12:10:26Z: Consultation for treatment
+- 2021-06-09T12:10:26Z: Postnatal visit
+- 2021-06-09T12:10:26Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-09T12:50:44Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-06-09T12:10:26Z Platelet mean volume [Entitic volume] in Blood by Automated count: 10.2 fL
+- 2021-06-09T12:10:26Z Platelet distribution width [Entitic volume] in Blood by Automated count: 239.6 fL
+- 2021-06-09T12:10:26Z Respiratory rate: 14.0 /min
+- 2021-06-09T12:10:26Z Leukocytes [#/volume] in Blood by Automated count: 9.5 10*3/uL
+- 2021-06-09T12:10:26Z Erythrocytes [#/volume] in Blood by Automated count: 5.5 10*6/uL
+- 2021-06-09T12:10:26Z Hemoglobin [Mass/volume] in Blood: 14.2 g/dL
+- 2021-06-09T12:10:26Z Hematocrit [Volume Fraction] of Blood by Automated count: 47.0 %
+- 2021-06-09T12:10:26Z MCV [Entitic volume] by Automated count: 86.6 fL
+- 2021-06-09T12:10:26Z MCH [Entitic mass] by Automated count: 27.7 pg

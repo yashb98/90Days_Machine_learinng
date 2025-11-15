@@ -1,0 +1,103 @@
+== PATIENT RECORD: Dewayne363 Jacobi462 (ID: dee053f0-4e8c-4115-1f6c-80730ad7b01b) ==
+
+== Demographics ==
+Patient ID: dee053f0-4e8c-4115-1f6c-80730ad7b01b
+Name: Dewayne363 Jacobi462
+Gender: M
+Birthdate: 1948-10-01
+Address: 187 Ziemann Mall Unit 74
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Familial Alzheimer's disease of early onset (disorder)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Injury of tendon of the rotator cuff of shoulder
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Pneumonia
+
+== Current Medications ==
+- Tacrine 10 MG Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1994-10-21T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 1994-10-21T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 1994-10-21T14:52:08Z)
+- Screening for domestic abuse (procedure) (Date: 1994-10-21T15:09:14Z)
+- Depression screening (procedure) (Date: 1994-10-21T15:38:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-10-21T15:49:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1994-10-21T16:14:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-11-10T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 1995-11-10T15:17:49Z)
+- Assessment of substance use (procedure) (Date: 1995-11-10T15:38:07Z)
+- Screening for drug abuse (procedure) (Date: 1995-11-10T15:52:57Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-10-25T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 1996-10-25T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 1996-10-25T15:16:38Z)
+- Depression screening (procedure) (Date: 1996-10-25T15:39:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-10-25T15:50:25Z)
+- Assessment of substance use (procedure) (Date: 1996-10-25T16:12:53Z)
+- Screening for drug abuse (procedure) (Date: 1996-10-25T16:27:17Z)
+- Sputum examination (procedure) (Date: 1997-06-25T22:20:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-10-02T14:20:29Z)
+- Colonoscopy (Date: 1998-10-02T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 1998-10-02T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 1998-10-02T15:04:58Z)
+- Depression screening (procedure) (Date: 1998-10-02T15:26:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-10-02T15:36:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-10-08T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 1999-10-08T14:20:29Z)
+- Depression screening (procedure) (Date: 1999-10-08T15:16:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-10-08T15:30:29Z)
+- Assessment of substance use (procedure) (Date: 1999-10-08T15:55:01Z)
+- Screening for drug abuse (procedure) (Date: 1999-10-08T16:07:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-10-13T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2000-10-13T14:53:30Z)
+- Screening for domestic abuse (procedure) (Date: 2000-10-13T15:23:02Z)
+- Assessment of substance use (procedure) (Date: 2000-10-13T15:48:57Z)
+- Screening for drug abuse (procedure) (Date: 2000-10-13T16:02:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-10-19T14:20:29Z)
+- Medication Reconciliation (procedure) (Date: 2001-10-19T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2001-10-19T15:03:28Z)
+- Screening for domestic abuse (procedure) (Date: 2001-10-19T15:18:30Z)
+- Depression screening (procedure) (Date: 2001-10-19T16:00:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-10-19T16:12:19Z)
+- Assessment of substance use (procedure) (Date: 2001-10-19T16:39:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-10-19T16:50:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-10-25T14:20:29Z)
+- Assessment of anxiety (procedure) (Date: 2002-10-25T15:13:29Z)
+- Assessment of substance use (procedure) (Date: 2002-10-25T15:33:11Z)
+- Screening for drug abuse (procedure) (Date: 2002-10-25T15:43:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2003-06-13T14:20:29Z: Death Certification
+- 2003-06-01T14:20:29Z: Hospital admission
+- 2002-10-25T14:20:29Z: General examination of patient (procedure)
+- 2002-07-26T14:20:29Z: Urgent care clinic (procedure)
+- 2002-07-19T14:20:29Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2003-06-13T14:20:29Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2002-10-25T16:03:40Z Total score [DAST-10]: 2.0 {score}
+- 2002-10-25T15:33:11Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2002-10-25T15:13:29Z What is your current work situation?: Full-time work nan
+- 2002-10-25T15:13:29Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2002-10-25T15:13:29Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2002-10-25T15:13:29Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2002-10-25T15:13:29Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2002-10-25T15:13:29Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2002-10-25T15:13:29Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

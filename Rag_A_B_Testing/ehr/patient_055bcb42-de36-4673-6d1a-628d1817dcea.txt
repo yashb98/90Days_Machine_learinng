@@ -1,0 +1,69 @@
+== PATIENT RECORD: Sydney660 Kassulke119 (ID: 055bcb42-de36-4673-6d1a-628d1817dcea) ==
+
+== Demographics ==
+Patient ID: 055bcb42-de36-4673-6d1a-628d1817dcea
+Name: Sydney660 Kassulke119
+Gender: M
+Birthdate: 1981-10-18
+Address: 891 Okuneva Grove
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-12-30T19:25:40Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-30T20:09:16Z)
+- Screening for domestic abuse (procedure) (Date: 2012-12-30T20:30:57Z)
+- Depression screening (procedure) (Date: 2012-12-30T21:03:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-30T21:13:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-03T19:25:40Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-03T19:25:40Z)
+- Depression screening (procedure) (Date: 2016-01-03T20:15:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-03T20:26:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-06T19:25:40Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-06T20:03:44Z)
+- Depression screening (procedure) (Date: 2019-01-06T20:44:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-06T20:54:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-06T21:14:51Z)
+- Assessment of substance use (procedure) (Date: 2019-01-06T21:37:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-06T21:51:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-24T19:25:40Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-24T20:03:41Z)
+- Depression screening (procedure) (Date: 2021-10-24T20:30:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-24T20:44:16Z)
+- Assessment of substance use (procedure) (Date: 2021-10-24T21:10:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-10-24T21:25:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-24T19:25:40Z: General examination of patient (procedure)
+- 2021-10-22T19:25:40Z: Encounter for symptom
+- 2021-04-11T19:25:40Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-21T19:25:40Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-01-06T19:25:40Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T21:50:57Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-10-24T21:10:37Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-24T20:30:50Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 19.0 {score}
+- 2021-10-24T20:03:41Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-10-24T20:03:41Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-10-24T20:03:41Z Are you worried about losing your housing?: No nan
+- 2021-10-24T20:03:41Z What address do you live at?: 891 Okuneva Grove nan
+- 2021-10-24T20:03:41Z What is your current work situation?: Full-time work nan
+- 2021-10-24T20:03:41Z What is your main insurance?: Private insurance nan
+- 2021-10-24T20:03:41Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 183703 /a

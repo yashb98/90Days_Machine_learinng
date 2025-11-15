@@ -1,0 +1,138 @@
+== PATIENT RECORD: Morris740 Kuhlman484 (ID: f9e8b3e4-1c3f-c662-a310-516d338ee41a) ==
+
+== Demographics ==
+Patient ID: f9e8b3e4-1c3f-c662-a310-516d338ee41a
+Name: Morris740 Kuhlman484
+Gender: M
+Birthdate: 1951-09-18
+Address: 669 Stokes Lane
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Osteoarthritis of hip
+- Unhealthy alcohol drinking behavior (finding)
+- Chronic congestive heart failure (disorder)
+- Hyperlipidemia
+- Sprain of ankle
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- sacubitril 97 MG / valsartan 103 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1999-10-12T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1999-10-12T12:39:49Z)
+- Depression screening (procedure) (Date: 1999-10-12T12:56:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-10-12T13:11:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-09-18T11:58:49Z)
+- Colonoscopy (Date: 2001-09-18T11:58:49Z)
+- Screening for domestic abuse (procedure) (Date: 2001-09-18T12:35:47Z)
+- Depression screening (procedure) (Date: 2001-09-18T13:02:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-09-18T13:14:59Z)
+- Assessment of substance use (procedure) (Date: 2001-09-18T13:44:21Z)
+- Screening for drug abuse (procedure) (Date: 2001-09-18T13:55:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-09-24T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2002-09-24T12:46:43Z)
+- Screening for domestic abuse (procedure) (Date: 2002-09-24T13:10:53Z)
+- Depression screening (procedure) (Date: 2002-09-24T13:50:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-09-24T14:04:57Z)
+- Assessment of substance use (procedure) (Date: 2002-09-24T14:25:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-09-24T14:39:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-12-10T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2002-12-10T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2002-12-10T12:31:03Z)
+- Depression screening (procedure) (Date: 2002-12-10T12:51:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-12-10T13:02:48Z)
+- Assessment of substance use (procedure) (Date: 2002-12-10T13:31:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-12-10T13:43:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-09-30T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2003-09-30T12:48:15Z)
+- Screening for domestic abuse (procedure) (Date: 2003-09-30T13:18:12Z)
+- Depression screening (procedure) (Date: 2003-09-30T14:02:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-09-30T14:16:42Z)
+- Assessment of substance use (procedure) (Date: 2003-09-30T14:46:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-09-30T14:57:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-10-05T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2004-10-05T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2004-10-05T12:54:33Z)
+- Screening for domestic abuse (procedure) (Date: 2004-10-05T13:21:09Z)
+- Depression screening (procedure) (Date: 2004-10-05T13:54:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-10-05T14:06:52Z)
+- Assessment of substance use (procedure) (Date: 2004-10-05T14:27:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-10-05T14:39:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-10-11T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2005-10-11T12:53:36Z)
+- Depression screening (procedure) (Date: 2005-10-11T13:19:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-10-11T13:31:40Z)
+- Assessment of substance use (procedure) (Date: 2005-10-11T13:52:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-10-11T14:03:41Z)
+- Colonoscopy (Date: 2006-09-18T12:40:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-10-17T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2006-10-17T11:58:49Z)
+- Depression screening (procedure) (Date: 2006-10-17T12:55:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-10-17T13:06:58Z)
+- Assessment of substance use (procedure) (Date: 2006-10-17T13:33:37Z)
+- Screening for drug abuse (procedure) (Date: 2006-10-17T13:47:33Z)
+- Electrocardiographic procedure (Date: 2007-10-07T11:58:49Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2007-10-07T12:08:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-10-23T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2007-10-23T12:56:45Z)
+- Screening for domestic abuse (procedure) (Date: 2007-10-23T13:17:20Z)
+- Assessment of substance use (procedure) (Date: 2007-10-23T13:49:01Z)
+- Screening for drug abuse (procedure) (Date: 2007-10-23T14:01:40Z)
+- Echocardiography (procedure) (Date: 2007-10-23T12:28:23Z)
+- Medication Reconciliation (procedure) (Date: 2007-10-23T12:28:23Z)
+- Echocardiography (procedure) (Date: 2008-04-20T12:28:23Z)
+- Medication Reconciliation (procedure) (Date: 2008-04-20T12:28:23Z)
+- Oxygen administration by mask (procedure) (Date: 2008-10-17T12:28:23Z)
+- Placing subject in prone position (procedure) (Date: 2008-10-17T12:28:23Z)
+- Plain chest X-ray (procedure) (Date: 2008-10-17T12:28:23Z)
+- Medication Reconciliation (procedure) (Date: 2008-10-17T12:28:23Z)
+- Electrocardiographic procedure (Date: 2008-10-17T12:28:23Z)
+- Oxygen administration by mask (procedure) (Date: 2008-10-17T12:35:37Z)
+- Placing subject in prone position (procedure) (Date: 2008-10-17T12:35:37Z)
+- Heart failure education (procedure) (Date: 2008-10-18T12:35:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-10-28T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2008-10-28T12:37:27Z)
+- Depression screening (procedure) (Date: 2008-10-28T12:58:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-10-28T13:12:37Z)
+- Assessment of substance use (procedure) (Date: 2008-10-28T13:36:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2008-10-28T13:48:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2009-02-10T11:58:49Z: Death Certification
+- 2009-02-02T13:21:30Z: Telemedicine consultation with patient
+- 2009-02-01T13:21:30Z: Telemedicine consultation with patient
+- 2009-01-31T13:21:30Z: Telemedicine consultation with patient
+- 2009-01-30T13:21:30Z: Telemedicine consultation with patient
+
+== Recent Observations (Last 10) ==
+- 2009-02-10T11:58:49Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2009-02-02T13:21:30Z Systolic Blood Pressure: 111.0 mm[Hg]
+- 2009-02-02T13:21:30Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 2009-02-01T13:21:30Z Systolic Blood Pressure: 106.0 mm[Hg]
+- 2009-02-01T13:21:30Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2009-01-31T13:21:30Z Systolic Blood Pressure: 105.0 mm[Hg]
+- 2009-01-31T13:21:30Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2009-01-30T13:21:30Z Systolic Blood Pressure: 108.0 mm[Hg]
+- 2009-01-30T13:21:30Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2009-01-28T13:21:30Z Diastolic Blood Pressure: 82.0 mm[Hg]

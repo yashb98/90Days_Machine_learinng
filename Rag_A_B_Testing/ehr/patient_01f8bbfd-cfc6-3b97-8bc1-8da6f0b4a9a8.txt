@@ -1,0 +1,64 @@
+== PATIENT RECORD: Eustolia154 Barton704 (ID: 01f8bbfd-cfc6-3b97-8bc1-8da6f0b4a9a8) ==
+
+== Demographics ==
+Patient ID: 01f8bbfd-cfc6-3b97-8bc1-8da6f0b4a9a8
+Name: Eustolia154 Barton704
+Gender: F
+Birthdate: 2011-01-15
+Address: 359 Schmitt Track Unit 80
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Penicillin V
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Otitis media
+- Perennial allergic rhinitis
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Acute bacterial sinusitis (disorder)
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Hydrocortisone 10 MG/ML Topical Cream
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Clindamycin 300mg
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-06-21T13:45:07Z)
+- Throat culture (procedure) (Date: 2015-02-27T09:45:07Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-26T13:45:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-12T13:45:07Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-21T13:45:07Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-08T13:45:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T23:45:07Z: Encounter for symptom
+- 2021-01-23T13:45:07Z: Well child visit (procedure)
+- 2021-01-09T13:45:07Z: Encounter for check up (procedure)
+- 2021-01-06T00:45:07Z: Encounter for symptom
+- 2020-08-08T13:45:07Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-10T23:45:07Z Body temperature: 37.2 Cel
+- 2021-01-23T13:45:07Z Body mass index (BMI) [Percentile] Per age and gender: 91.4 %
+- 2021-01-23T13:45:07Z Body Height: 143.2 cm
+- 2021-01-23T13:45:07Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-01-23T13:45:07Z Body Weight: 44.0 kg
+- 2021-01-23T13:45:07Z Body Mass Index: 21.4 kg/m2
+- 2021-01-23T13:45:07Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2021-01-23T13:45:07Z Systolic Blood Pressure: 129.0 mm[Hg]
+- 2021-01-23T13:45:07Z Heart rate: 76.0 /min
+- 2021-01-23T13:45:07Z Respiratory rate: 14.0 /min

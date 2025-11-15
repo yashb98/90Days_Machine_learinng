@@ -1,0 +1,159 @@
+== PATIENT RECORD: Jeffery551 Brakus656 (ID: fc8e4748-86f4-1d49-af95-4c7e48678ca7) ==
+
+== Demographics ==
+Patient ID: fc8e4748-86f4-1d49-af95-4c7e48678ca7
+Name: Jeffery551 Brakus656
+Gender: M
+Birthdate: 1961-07-21
+Address: 565 Heidenreich Ramp Unit 58
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Soya bean (substance)
+- Eggs (edible) (substance)
+- Wheat (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Only received primary school education (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Pulmonary emphysema (disorder)
+- Chronic sinusitis (disorder)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Injury of tendon of the rotator cuff of shoulder
+- Sprain of ankle
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 2012-03-17T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2012-03-17T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-03-17T01:06:00Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-17T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-17T01:56:10Z)
+- Assessment of substance use (procedure) (Date: 2012-03-17T02:11:53Z)
+- Screening for drug abuse (procedure) (Date: 2012-03-17T02:25:09Z)
+- Spirometry (procedure) (Date: 2013-03-23T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2013-03-23T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-23T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-23T01:49:36Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-23T02:15:22Z)
+- Assessment of substance use (procedure) (Date: 2013-03-23T02:43:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-03-23T02:54:12Z)
+- Spirometry (procedure) (Date: 2014-03-29T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2014-03-29T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-29T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-29T01:54:57Z)
+- Depression screening (procedure) (Date: 2014-03-29T02:21:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-29T02:31:48Z)
+- Assessment of substance use (procedure) (Date: 2014-03-29T02:58:37Z)
+- Screening for drug abuse (procedure) (Date: 2014-03-29T03:09:15Z)
+- Spirometry (procedure) (Date: 2015-04-04T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2015-04-04T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-04T01:06:00Z)
+- Depression screening (procedure) (Date: 2015-04-04T01:59:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-04T02:12:36Z)
+- Assessment of substance use (procedure) (Date: 2015-04-04T02:35:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-04-04T02:48:26Z)
+- Transplant of lung (procedure) (Date: 2015-06-25T01:06:00Z)
+- Spirometry (procedure) (Date: 2016-04-09T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2016-04-09T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-09T01:06:00Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-09T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-09T02:04:55Z)
+- Assessment of substance use (procedure) (Date: 2016-04-09T02:33:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-09T02:47:29Z)
+- Spirometry (procedure) (Date: 2017-04-15T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2017-04-15T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-15T01:06:00Z)
+- Spirometry (procedure) (Date: 2018-04-21T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2018-04-21T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-21T01:06:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-21T01:06:00Z)
+- Depression screening (procedure) (Date: 2018-04-21T02:01:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-21T02:14:42Z)
+- Assessment of substance use (procedure) (Date: 2018-04-21T02:41:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-21T02:51:21Z)
+- Spirometry (procedure) (Date: 2018-05-05T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2018-05-05T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-05T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-05T01:47:53Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-05T02:16:22Z)
+- Depression screening (procedure) (Date: 2018-05-05T02:44:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-05T02:56:03Z)
+- Spirometry (procedure) (Date: 2018-06-30T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2018-06-30T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-30T01:06:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-30T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-30T01:43:29Z)
+- Depression screening (procedure) (Date: 2018-06-30T02:01:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-30T02:16:00Z)
+- Assessment of substance use (procedure) (Date: 2018-06-30T02:37:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-30T02:50:54Z)
+- Spirometry (procedure) (Date: 2019-04-27T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2019-04-27T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-27T01:06:00Z)
+- Depression screening (procedure) (Date: 2019-04-27T01:43:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-27T01:54:51Z)
+- Assessment of substance use (procedure) (Date: 2019-04-27T02:22:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-04-27T02:32:36Z)
+- Measurement of respiratory function (procedure) (Date: 2019-08-21T03:06:00Z)
+- Spirometry (procedure) (Date: 2019-09-07T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2019-09-07T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-07T01:06:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-07T01:06:00Z)
+- Screening for domestic abuse (procedure) (Date: 2019-09-07T01:56:48Z)
+- Spirometry (procedure) (Date: 2020-05-02T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2020-05-02T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-02T01:06:00Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-02T01:06:00Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-02T01:41:14Z)
+- Spirometry (procedure) (Date: 2021-05-08T01:06:00Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2021-05-08T01:06:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-08T01:06:00Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-08T01:51:35Z)
+- Depression screening (procedure) (Date: 2021-05-08T02:08:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-08T02:20:35Z)
+- Assessment of substance use (procedure) (Date: 2021-05-08T02:50:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-08T03:02:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-01T01:06:00Z: Emergency room admission (procedure)
+- 2021-06-05T01:06:00Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-08T01:06:00Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-08T01:06:00Z: General examination of patient (procedure)
+- 2020-08-24T20:06:00Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 2021-07-22T01:06:00Z QOLS: 0.9 {score}
+- 2021-07-22T01:06:00Z DALY: 1.5 a
+- 2021-07-22T01:06:00Z QALY: 57.5 a
+- 2021-05-08T03:30:34Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-05-08T02:50:29Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-05-08T02:08:06Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-05-08T01:51:35Z What is your main insurance?: Private insurance nan
+- 2021-05-08T01:51:35Z Are you worried about losing your housing?: No nan
+- 2021-05-08T01:51:35Z What address do you live at?: 565 Heidenreich Ramp Unit 58 nan
+- 2021-05-08T01:51:35Z What is the highest level of school that you have finished?: Less than high school degree nan

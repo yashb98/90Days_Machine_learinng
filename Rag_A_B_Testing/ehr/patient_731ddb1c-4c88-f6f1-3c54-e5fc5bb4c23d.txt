@@ -1,0 +1,179 @@
+== PATIENT RECORD: Jolanda321 Hyatt152 (ID: 731ddb1c-4c88-f6f1-3c54-e5fc5bb4c23d) ==
+
+== Demographics ==
+Patient ID: 731ddb1c-4c88-f6f1-3c54-e5fc5bb4c23d
+Name: Jolanda321 Hyatt152
+Gender: F
+Birthdate: 1961-12-01
+Address: 546 Block Village
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Polyp of colon
+- Limited social contact (finding)
+- Recurrent rectal polyp
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Chronic congestive heart failure (disorder)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- sacubitril 97 MG / valsartan 103 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+
+== Past Procedures ==
+- Colonoscopy (Date: 2011-12-02T14:08:35Z)
+- Screening for occult blood in feces (procedure) (Date: 2011-12-02T14:44:29Z)
+- Rectal polypectomy (Date: 2011-12-02T14:44:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-27T14:08:35Z)
+- Depression screening (procedure) (Date: 2012-07-27T14:43:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-27T14:53:39Z)
+- Colonoscopy (Date: 2013-04-20T14:44:29Z)
+- Rectal polypectomy (Date: 2013-04-20T15:18:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-02T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-02T14:08:35Z)
+- Assessment of anxiety (procedure) (Date: 2013-08-02T14:54:49Z)
+- Screening for domestic abuse (procedure) (Date: 2013-08-02T15:19:25Z)
+- Depression screening (procedure) (Date: 2013-08-02T15:50:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-02T16:02:46Z)
+- Assessment of substance use (procedure) (Date: 2013-08-02T16:25:03Z)
+- Screening for drug abuse (procedure) (Date: 2013-08-02T16:39:47Z)
+- Colonoscopy (Date: 2014-04-18T15:18:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-08T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-08T14:08:35Z)
+- Screening for domestic abuse (procedure) (Date: 2014-08-08T14:49:13Z)
+- Depression screening (procedure) (Date: 2014-08-08T15:21:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-08T15:31:53Z)
+- Electrocardiographic procedure (Date: 2015-02-02T14:08:35Z)
+- Plain chest X-ray (procedure) (Date: 2015-02-02T14:18:17Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2015-02-02T14:18:17Z)
+- Echocardiography (procedure) (Date: 2015-02-20T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-20T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-14T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-14T14:08:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-14T14:48:24Z)
+- Depression screening (procedure) (Date: 2015-08-14T15:05:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-14T15:15:41Z)
+- Assessment of substance use (procedure) (Date: 2015-08-14T15:44:55Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-14T15:58:04Z)
+- Echocardiography (procedure) (Date: 2015-08-19T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-19T14:35:34Z)
+- Echocardiography (procedure) (Date: 2016-02-15T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-15T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-19T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-19T14:08:35Z)
+- Echocardiography (procedure) (Date: 2016-08-13T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-13T14:35:34Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-19T14:52:47Z)
+- Depression screening (procedure) (Date: 2016-08-19T15:09:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-19T15:21:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-08-19T15:42:28Z)
+- Assessment of substance use (procedure) (Date: 2016-08-19T16:03:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-08-19T16:15:13Z)
+- Echocardiography (procedure) (Date: 2017-02-09T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-09T14:35:34Z)
+- Echocardiography (procedure) (Date: 2017-08-08T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-08T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-25T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-25T14:08:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-25T14:46:47Z)
+- Screening for domestic abuse (procedure) (Date: 2017-08-25T15:11:49Z)
+- Assessment of substance use (procedure) (Date: 2017-08-25T15:43:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-08-25T15:54:15Z)
+- Echocardiography (procedure) (Date: 2018-02-04T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-04T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-15T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-15T14:08:35Z)
+- Screening for domestic abuse (procedure) (Date: 2018-06-15T15:03:20Z)
+- Echocardiography (procedure) (Date: 2018-08-03T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-03T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-31T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-31T14:08:35Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-31T15:06:08Z)
+- Depression screening (procedure) (Date: 2018-08-31T15:44:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-31T15:58:47Z)
+- Assessment of substance use (procedure) (Date: 2018-08-31T16:19:18Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-31T16:32:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-28T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-28T14:08:35Z)
+- Echocardiography (procedure) (Date: 2019-01-30T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-30T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-15T14:08:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-15T14:52:59Z)
+- Screening for domestic abuse (procedure) (Date: 2019-02-15T15:15:02Z)
+- Depression screening (procedure) (Date: 2019-02-15T15:40:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-15T15:54:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-15T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-15T14:08:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-15T14:45:48Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-15T15:08:41Z)
+- Colonoscopy (Date: 2019-04-18T15:49:30Z)
+- Echocardiography (procedure) (Date: 2019-07-29T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-29T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-06T14:08:35Z)
+- Depression screening (procedure) (Date: 2019-09-06T14:49:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-06T15:03:46Z)
+- Echocardiography (procedure) (Date: 2020-01-25T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-25T14:35:34Z)
+- Echocardiography (procedure) (Date: 2020-07-23T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-23T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-11T14:08:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-11T14:08:35Z)
+- Assessment of substance use (procedure) (Date: 2020-09-11T14:52:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-11T15:04:00Z)
+- Echocardiography (procedure) (Date: 2021-01-19T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-19T14:35:34Z)
+- Echocardiography (procedure) (Date: 2021-07-18T14:35:34Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-18T14:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-17T14:08:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-17T15:07:58Z)
+- Screening for domestic abuse (procedure) (Date: 2021-09-17T15:27:24Z)
+- Depression screening (procedure) (Date: 2021-09-17T16:03:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-17T16:16:16Z)
+- Assessment of substance use (procedure) (Date: 2021-09-17T16:41:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-09-17T16:51:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-17T14:08:35Z: General examination of patient (procedure)
+- 2021-09-10T14:08:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-13T14:08:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-18T14:35:34Z: Encounter for problem
+- 2021-01-19T14:35:34Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-09-17T17:20:16Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-09-17T16:41:24Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-09-17T16:03:22Z Total score [HARK]: 0.0 {score}
+- 2021-09-17T15:27:24Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-09-17T15:07:58Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-09-17T15:07:58Z What address do you live at?: 546 Block Village nan
+- 2021-09-17T15:07:58Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-09-17T15:07:58Z What is your current work situation?: Full-time work nan
+- 2021-09-17T15:07:58Z What is your main insurance?: Private insurance nan
+- 2021-09-17T15:07:58Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 64327 /a

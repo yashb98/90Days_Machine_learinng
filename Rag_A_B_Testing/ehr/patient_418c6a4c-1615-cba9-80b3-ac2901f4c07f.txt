@@ -1,0 +1,100 @@
+== PATIENT RECORD: Laurine214 Cronin387 (ID: 418c6a4c-1615-cba9-80b3-ac2901f4c07f) ==
+
+== Demographics ==
+Patient ID: 418c6a4c-1615-cba9-80b3-ac2901f4c07f
+Name: Laurine214 Cronin387
+Gender: F
+Birthdate: 1950-09-18
+Address: 957 Fay Gateway
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Opioid abuse (disorder)
+- Reports of violence in the environment (finding)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- ferrous sulfate 325 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-26T10:49:12Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-26T11:21:08Z)
+- Depression screening (procedure) (Date: 2012-11-26T11:36:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-26T11:48:05Z)
+- Assessment of substance use (procedure) (Date: 2012-11-26T12:10:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-26T12:24:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-02T10:49:12Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-02T11:31:45Z)
+- Depression screening (procedure) (Date: 2013-12-02T11:49:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-02T12:00:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-08T10:49:12Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-08T11:43:10Z)
+- Depression screening (procedure) (Date: 2014-12-08T12:14:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-08T12:29:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-14T10:49:12Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-14T11:36:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-14T11:59:35Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-14T12:29:30Z)
+- Depression screening (procedure) (Date: 2015-12-14T13:12:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-14T13:25:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-19T10:49:12Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-19T10:49:12Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-19T11:26:54Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-12-19T11:52:19Z)
+- Depression screening (procedure) (Date: 2016-12-19T12:19:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-19T12:31:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-25T10:49:12Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-25T10:49:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-12-25T11:44:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-31T10:49:12Z)
+- Depression screening (procedure) (Date: 2018-12-31T11:28:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-31T11:41:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-06T10:49:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-01-06T11:31:13Z)
+- Depression screening (procedure) (Date: 2020-01-06T11:59:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-06T12:13:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-11T10:49:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-01-11T11:35:45Z)
+- Depression screening (procedure) (Date: 2021-01-11T11:54:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-11T12:07:39Z)
+- Throat culture (procedure) (Date: 2021-05-18T07:49:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-31T10:49:12Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-31T10:49:12Z)
+- Depression screening (procedure) (Date: 2021-05-31T11:27:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-31T11:37:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-10T10:49:12Z: Follow-up encounter
+- 2021-09-20T10:49:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-30T10:49:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-31T10:49:12Z: Encounter for check up (procedure)
+- 2021-05-24T10:49:12Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T10:49:12Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 64.0 U/L
+- 2021-10-10T10:49:12Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.4 mg/dL
+- 2021-10-10T10:49:12Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.7 U/L
+- 2021-10-10T10:49:12Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 28.8 U/L
+- 2021-10-10T10:49:12Z Total Cholesterol: 154.3 mg/dL
+- 2021-10-10T10:49:12Z Triglycerides: 156.3 mg/dL
+- 2021-10-10T10:49:12Z Low Density Lipoprotein Cholesterol: 133.4 mg/dL
+- 2021-10-10T10:49:12Z High Density Lipoprotein Cholesterol: 64.3 mg/dL
+- 2021-10-10T10:49:12Z Albumin [Mass/volume] in Serum or Plasma: 4.1 g/dL
+- 2021-10-10T10:49:12Z Protein [Mass/volume] in Serum or Plasma: 63.6 g/dL

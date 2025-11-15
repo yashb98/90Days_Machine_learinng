@@ -1,0 +1,131 @@
+== PATIENT RECORD: Willis868 Koss676 (ID: 8b1cdfbf-b2bc-1d7f-134c-5e040ee593d2) ==
+
+== Demographics ==
+Patient ID: 8b1cdfbf-b2bc-1d7f-134c-5e040ee593d2
+Name: Willis868 Koss676
+Gender: M
+Birthdate: 1926-07-19
+Address: 252 Spinka Spur Unit 52
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Transport problems (finding)
+- Part-time employment (finding)
+- Lack of access to transportation (finding)
+- Prediabetes
+- Osteoarthritis of hip
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Limited social contact (finding)
+- Stress (finding)
+- Osteoporosis (disorder)
+- Full-time employment (finding)
+- Neoplasm of prostate
+- Metastasis from malignant tumor of prostate (disorder)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- ferrous sulfate 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Digital examination of rectum (Date: 1987-09-15T22:37:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-09-21T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 1987-09-21T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 1987-09-21T23:12:12Z)
+- Depression screening (procedure) (Date: 1987-09-21T23:41:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-09-21T23:55:36Z)
+- Assessment of substance use (procedure) (Date: 1987-09-22T00:15:57Z)
+- Screening for drug abuse (procedure) (Date: 1987-09-22T00:27:55Z)
+- Colonoscopy (Date: 1987-12-20T00:16:50Z)
+- Digital examination of rectum (Date: 1988-09-26T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-09-26T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 1988-09-26T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 1988-09-26T23:07:03Z)
+- Depression screening (procedure) (Date: 1988-09-26T23:33:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-09-26T23:47:00Z)
+- Assessment of substance use (procedure) (Date: 1988-09-27T00:15:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1988-09-27T00:29:25Z)
+- Digital examination of rectum (Date: 1989-09-26T22:39:12Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-10-02T22:34:40Z)
+- Depression screening (procedure) (Date: 1989-10-02T23:07:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-10-02T23:18:55Z)
+- Assessment of substance use (procedure) (Date: 1989-10-02T23:43:45Z)
+- Screening for drug abuse (procedure) (Date: 1989-10-02T23:58:01Z)
+- Digital examination of rectum (Date: 1990-10-08T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-10-08T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 1990-10-08T22:34:40Z)
+- Assessment of substance use (procedure) (Date: 1990-10-08T23:04:59Z)
+- Screening for drug abuse (procedure) (Date: 1990-10-08T23:19:05Z)
+- Digital examination of rectum (Date: 1991-10-08T22:38:28Z)
+- Biopsy of prostate (Date: 1991-10-08T22:41:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-10-14T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 1991-10-14T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1991-10-14T23:09:44Z)
+- Depression screening (procedure) (Date: 1991-10-14T23:37:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-10-14T23:51:24Z)
+- Digital examination of rectum (Date: 1992-10-19T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-10-19T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 1992-10-19T23:22:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1992-10-19T23:49:14Z)
+- Depression screening (procedure) (Date: 1992-10-20T00:08:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-10-20T00:21:45Z)
+- Assessment of substance use (procedure) (Date: 1992-10-20T00:51:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1992-10-20T01:01:01Z)
+- Colonoscopy (Date: 1992-12-19T00:50:06Z)
+- Digital examination of rectum (Date: 1993-10-19T22:38:30Z)
+- Biopsy of prostate (Date: 1993-10-19T22:41:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-10-25T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-10-25T23:30:39Z)
+- Screening for domestic abuse (procedure) (Date: 1993-10-25T23:54:04Z)
+- Depression screening (procedure) (Date: 1993-10-26T00:27:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-10-26T00:38:05Z)
+- Assessment of substance use (procedure) (Date: 1993-10-26T01:01:46Z)
+- Screening for drug abuse (procedure) (Date: 1993-10-26T01:16:21Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-10-31T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 1994-10-31T22:34:40Z)
+- Depression screening (procedure) (Date: 1994-10-31T23:25:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-10-31T23:39:03Z)
+- Assessment of substance use (procedure) (Date: 1994-11-01T00:08:35Z)
+- Screening for drug abuse (procedure) (Date: 1994-11-01T00:19:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-11-06T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 1995-11-06T23:27:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-11-06T23:47:39Z)
+- Depression screening (procedure) (Date: 1995-11-07T00:04:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-11-07T00:14:51Z)
+- Assessment of substance use (procedure) (Date: 1995-11-07T00:42:30Z)
+- Screening for drug abuse (procedure) (Date: 1995-11-07T00:53:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-11-11T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 1996-11-11T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-11-11T23:12:21Z)
+- Screening for domestic abuse (procedure) (Date: 1996-11-11T23:41:01Z)
+- Depression screening (procedure) (Date: 1996-11-12T00:12:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-11-12T00:27:03Z)
+- Assessment of substance use (procedure) (Date: 1996-11-12T00:52:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-11-12T01:06:28Z)
+
+== Recent Encounters (Last 5) ==
+- 1997-01-06T22:34:40Z: Death Certification
+- 1996-11-11T22:34:40Z: General examination of patient (procedure)
+- 1995-11-06T22:34:40Z: General examination of patient (procedure)
+- 1994-10-31T22:34:40Z: General examination of patient (procedure)
+- 1993-10-25T22:34:40Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1997-01-06T22:34:40Z Cause of Death [US Standard Certificate of Death]: Neoplasm of prostate nan
+- 1996-11-12T01:34:38Z Total score [AUDIT-C]: 3.0 {score}
+- 1996-11-12T00:52:06Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 1996-11-12T00:12:52Z Total score [HARK]: 0.0 {score}
+- 1996-11-11T23:41:01Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 1996-11-11T23:41:01Z Fall risk total [Morse Fall Scale]: 42.0 {#}
+- 1996-11-11T23:12:21Z What is your current work situation?: Part-time or temporary work nan
+- 1996-11-11T23:12:21Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1996-11-11T23:12:21Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1996-11-11T23:12:21Z Are you a refugee?: No nan

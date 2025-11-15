@@ -1,0 +1,71 @@
+== PATIENT RECORD: Rosario163 Brekke496 (ID: 5da2277e-7922-0f7c-513d-fcb794d088e7) ==
+
+== Demographics ==
+Patient ID: 5da2277e-7922-0f7c-513d-fcb794d088e7
+Name: Rosario163 Brekke496
+Gender: M
+Birthdate: 1981-12-23
+Address: 645 Koelpin Drive
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Second degree burn
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2012-10-04T01:32:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-06T15:32:53Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-06T15:32:53Z)
+- Screening for domestic abuse (procedure) (Date: 2013-03-06T16:32:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-09T15:32:53Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-09T15:32:53Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-09T16:25:03Z)
+- Depression screening (procedure) (Date: 2016-03-09T16:46:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-09T16:57:07Z)
+- Assessment of substance use (procedure) (Date: 2016-03-09T17:26:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-03-09T17:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-13T15:32:53Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-13T15:32:53Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-13T16:14:55Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-13T16:29:59Z)
+- Depression screening (procedure) (Date: 2019-03-13T17:01:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-13T17:16:07Z)
+- Assessment of substance use (procedure) (Date: 2019-03-13T17:41:09Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-13T17:54:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-30T15:32:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-09T15:32:53Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-07-09T04:32:53Z: Encounter for symptom
+- 2019-03-13T15:32:53Z: General examination of patient (procedure)
+- 2017-12-20T15:32:53Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2020-12-23T15:32:53Z QOLS: 1.0 {score}
+- 2020-12-23T15:32:53Z DALY: 0.0 a
+- 2020-12-23T15:32:53Z QALY: 38.0 a
+- 2019-12-23T15:32:53Z QOLS: 1.0 {score}
+- 2019-12-23T15:32:53Z DALY: 0.0 a
+- 2019-12-23T15:32:53Z QALY: 37.0 a
+- 2019-07-09T04:32:53Z Body temperature: 37.5 Cel
+- 2019-03-13T18:16:56Z Total score [DAST-10]: 2.0 {score}
+- 2019-03-13T17:41:09Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-03-13T17:01:55Z Total score [HARK]: 0.0 {score}

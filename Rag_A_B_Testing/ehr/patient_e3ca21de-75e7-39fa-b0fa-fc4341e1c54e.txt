@@ -1,0 +1,71 @@
+== PATIENT RECORD: Angelyn934 Mills423 (ID: e3ca21de-75e7-39fa-b0fa-fc4341e1c54e) ==
+
+== Demographics ==
+Patient ID: e3ca21de-75e7-39fa-b0fa-fc4341e1c54e
+Name: Angelyn934 Mills423
+Gender: F
+Birthdate: 1980-04-18
+Address: 508 Lynch Row
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Only received primary school education (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Echocardiography (procedure) (Date: 2014-01-31T09:33:54Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2014-01-31T09:33:54Z)
+- Catheter ablation of tissue of heart (Date: 2014-01-31T09:33:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-04T09:33:54Z)
+- Depression screening (procedure) (Date: 2014-07-04T10:26:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-04T10:37:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-24T09:33:54Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-24T09:33:54Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-24T10:06:57Z)
+- Assessment of substance use (procedure) (Date: 2015-04-24T10:28:02Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-24T10:42:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-07T09:33:54Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-07T10:19:50Z)
+- Assessment of substance use (procedure) (Date: 2017-07-07T10:39:31Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-07T10:52:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-24T09:33:54Z)
+- Depression screening (procedure) (Date: 2020-04-24T10:15:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-24T10:26:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-09T09:33:54Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-19T09:33:54Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-24T09:33:54Z: General examination of patient (procedure)
+- 2017-07-07T09:33:54Z: General examination of patient (procedure)
+- 2015-04-24T09:33:54Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-18T08:33:54Z QOLS: 0.8 {score}
+- 2021-04-18T08:33:54Z DALY: 1.3 a
+- 2021-04-18T08:33:54Z QALY: 38.7 a
+- 2020-04-24T10:55:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-04-24T10:15:14Z Do you feel physically and emotionally safe where you currently live?: No nan
+- 2020-04-24T10:15:14Z Are you a refugee?: No nan
+- 2020-04-24T10:15:14Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-04-24T10:15:14Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-04-24T10:15:14Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2020-04-24T10:15:14Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

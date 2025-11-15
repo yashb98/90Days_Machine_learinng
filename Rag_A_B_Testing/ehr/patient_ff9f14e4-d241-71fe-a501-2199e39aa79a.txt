@@ -1,0 +1,87 @@
+== PATIENT RECORD: Andrew29 Wilkinson796 (ID: ff9f14e4-d241-71fe-a501-2199e39aa79a) ==
+
+== Demographics ==
+Patient ID: ff9f14e4-d241-71fe-a501-2199e39aa79a
+Name: Andrew29 Wilkinson796
+Gender: M
+Birthdate: 2003-07-26
+Address: 975 Aufderhar Throughway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Child attention deficit disorder
+- Otitis media
+- Risk activity involvement (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+
+== Current Medications ==
+- atomoxetine 100 MG Oral Capsule
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- tramadol hydrochloride 50 MG Oral Tablet
+
+== Past Procedures ==
+- Throat culture (procedure) (Date: 2014-07-18T08:15:40Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-09T10:15:40Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-15T10:15:40Z)
+- Depression screening (procedure) (Date: 2015-08-15T10:32:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-15T10:43:21Z)
+- Depression screening (procedure) (Date: 2016-08-20T10:15:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-08-20T10:27:13Z)
+- Assessment of substance use (procedure) (Date: 2016-08-20T10:54:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-08-20T11:07:21Z)
+- Health risks education (procedure) (Date: 2016-08-20T11:28:50Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-26T10:15:40Z)
+- Depression screening (procedure) (Date: 2017-08-26T10:31:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-26T10:43:46Z)
+- Assessment of substance use (procedure) (Date: 2017-08-26T11:06:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-08-26T11:18:25Z)
+- Health risks education (procedure) (Date: 2017-08-26T11:43:57Z)
+- Throat culture (procedure) (Date: 2018-05-14T23:15:40Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-01T10:15:40Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-01T10:15:40Z)
+- Depression screening (procedure) (Date: 2018-09-01T10:43:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-09-01T10:53:57Z)
+- Assessment of substance use (procedure) (Date: 2018-09-01T11:16:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-09-01T11:30:36Z)
+- Health risks education (procedure) (Date: 2018-09-01T11:43:57Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-07T10:15:40Z)
+- Depression screening (procedure) (Date: 2019-09-07T10:44:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-09-07T10:55:18Z)
+- Assessment of substance use (procedure) (Date: 2019-09-07T11:21:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-09-07T11:33:17Z)
+- Health risks education (procedure) (Date: 2019-09-07T11:58:57Z)
+- Depression screening (procedure) (Date: 2020-09-12T10:15:40Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-12T10:15:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-09-12T10:30:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-18T10:15:40Z)
+- Screening for domestic abuse (procedure) (Date: 2021-09-18T11:07:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-12T08:15:40Z: Follow-up encounter (procedure)
+- 2021-09-18T10:15:40Z: General examination of patient (procedure)
+- 2021-08-30T10:15:40Z: Encounter for problem (procedure)
+- 2021-05-08T10:15:40Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-10T10:15:40Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-12T08:15:40Z What number best describes how  during the past week  pain has interfered with your enjoyment of life?: 1.7 {score}
+- 2021-10-12T08:15:40Z What number best describes how  during the past week  pain has interfered with your general activity?: 3.2 {score}
+- 2021-10-12T08:15:40Z What number best describes your pain on average in the past week?: 8.3 {score}
+- 2021-09-18T11:33:33Z Total score [HARK]: 0.0 {score}
+- 2021-09-18T11:07:46Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-09-18T11:07:46Z What is your current work situation?: Full-time work nan
+- 2021-09-18T11:07:46Z What is your main insurance?: Private insurance nan
+- 2021-09-18T11:07:46Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 90050 /a
+- 2021-09-18T11:07:46Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-09-18T11:07:46Z What address do you live at?: 975 Aufderhar Throughway nan

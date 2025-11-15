@@ -1,0 +1,116 @@
+== PATIENT RECORD: Herbert830 Renner328 (ID: 53124209-6f60-0773-61ea-6580dc46b994) ==
+
+== Demographics ==
+Patient ID: 53124209-6f60-0773-61ea-6580dc46b994
+Name: Herbert830 Renner328
+Gender: M
+Birthdate: 1965-09-09
+Address: 421 Lindgren Alley
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-12T15:04:05Z)
+- Depression screening (procedure) (Date: 2012-04-12T15:40:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-12T15:54:57Z)
+- Measurement of respiratory function (procedure) (Date: 2012-11-19T18:04:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-29T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-29T15:04:05Z)
+- Depression screening (procedure) (Date: 2012-11-29T16:02:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-29T16:14:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-18T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-18T15:04:05Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-18T15:45:31Z)
+- Depression screening (procedure) (Date: 2013-04-18T16:13:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-18T16:25:36Z)
+- Assessment of substance use (procedure) (Date: 2013-04-18T16:46:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-18T17:01:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-24T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-24T15:04:05Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-24T15:47:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-30T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-30T15:04:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-30T15:42:30Z)
+- Screening for domestic abuse (procedure) (Date: 2015-04-30T16:12:12Z)
+- Depression screening (procedure) (Date: 2015-04-30T16:41:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-30T16:54:39Z)
+- Assessment of substance use (procedure) (Date: 2015-04-30T17:22:08Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-30T17:36:18Z)
+- Colonoscopy (Date: 2015-09-10T15:04:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-05T15:04:05Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-05T15:34:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-11T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-11T15:04:05Z)
+- Assessment of substance use (procedure) (Date: 2017-05-11T15:38:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-11T15:52:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-17T15:04:05Z)
+- Depression screening (procedure) (Date: 2018-05-17T15:47:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-17T16:01:45Z)
+- Assessment of substance use (procedure) (Date: 2018-05-17T16:29:05Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-17T16:44:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-23T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-23T15:04:05Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-23T15:51:36Z)
+- Depression screening (procedure) (Date: 2019-05-23T16:15:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-23T16:26:04Z)
+- Assessment of substance use (procedure) (Date: 2019-05-23T16:54:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-23T17:08:07Z)
+- Measurement of respiratory function (procedure) (Date: 2019-12-14T21:04:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-26T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-26T15:04:05Z)
+- Depression screening (procedure) (Date: 2019-12-26T15:49:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-26T16:01:42Z)
+- Assessment of substance use (procedure) (Date: 2019-12-26T16:29:46Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-26T16:41:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-28T15:04:05Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-28T15:40:07Z)
+- Depression screening (procedure) (Date: 2020-05-28T16:02:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-28T16:15:43Z)
+- Colonoscopy (Date: 2020-09-09T15:45:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-03T15:04:05Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-03T15:04:05Z)
+- Depression screening (procedure) (Date: 2021-06-03T15:49:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-03T16:02:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-06-03T16:26:05Z)
+- Assessment of substance use (procedure) (Date: 2021-06-03T16:54:49Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-03T17:07:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T16:04:05Z: Encounter for symptom
+- 2021-06-03T15:04:05Z: General examination of patient (procedure)
+- 2021-05-06T15:04:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-08T15:04:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-09T15:45:45Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T15:04:05Z QOLS: 1.0 {score}
+- 2021-09-09T15:04:05Z DALY: 0.8 a
+- 2021-09-09T15:04:05Z QALY: 54.2 a
+- 2021-06-03T17:27:55Z Total score [DAST-10]: 1.0 {score}
+- 2021-06-03T16:54:49Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 21.0 {score}
+- 2021-06-03T16:26:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 3.0 {score}
+- 2021-06-03T15:49:35Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-06-03T15:49:35Z What is your current work situation?: Unemployed (finding) nan
+- 2021-06-03T15:49:35Z What is your housing situation today?: I have housing nan
+- 2021-06-03T15:49:35Z Are you worried about losing your housing?: No nan

@@ -1,0 +1,116 @@
+== PATIENT RECORD: Josiah310 Trantow673 (ID: 50659146-2b4a-5091-ddc8-12d59f8da68c) ==
+
+== Demographics ==
+Patient ID: 50659146-2b4a-5091-ddc8-12d59f8da68c
+Name: Josiah310 Trantow673
+Gender: M
+Birthdate: 1931-10-16
+Address: 636 Reichel Rapid Unit 33
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Coronary Heart Disease
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Familial Alzheimer's disease of early onset (disorder)
+- Hyperlipidemia
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1976-02-13T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 1976-02-13T21:16:26Z)
+- Depression screening (procedure) (Date: 1976-02-13T21:38:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-02-13T21:52:00Z)
+- Assessment of substance use (procedure) (Date: 1976-02-13T22:17:41Z)
+- Screening for drug abuse (procedure) (Date: 1976-02-13T22:29:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-02-18T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 1977-02-18T20:21:02Z)
+- Depression screening (procedure) (Date: 1977-02-18T21:13:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1977-02-18T21:23:55Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-02-24T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 1978-02-24T20:21:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-03-02T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 1979-03-02T21:16:33Z)
+- Depression screening (procedure) (Date: 1979-03-02T21:42:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1979-03-02T21:53:05Z)
+- Assessment of substance use (procedure) (Date: 1979-03-02T22:19:01Z)
+- Screening for drug abuse (procedure) (Date: 1979-03-02T22:33:30Z)
+- Sputum examination (procedure) (Date: 1979-11-15T21:21:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1980-03-07T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 1980-03-07T20:21:02Z)
+- Screening for domestic abuse (procedure) (Date: 1980-03-07T20:54:45Z)
+- Depression screening (procedure) (Date: 1980-03-07T21:35:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1980-03-07T21:49:57Z)
+- Assessment of substance use (procedure) (Date: 1980-03-07T22:15:20Z)
+- Screening for drug abuse (procedure) (Date: 1980-03-07T22:27:43Z)
+- Throat culture (procedure) (Date: 1981-02-20T14:21:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-02-27T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 1981-02-27T21:13:42Z)
+- Depression screening (procedure) (Date: 1981-02-27T21:34:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-02-27T21:44:46Z)
+- Assessment of substance use (procedure) (Date: 1981-02-27T22:06:03Z)
+- Screening for drug abuse (procedure) (Date: 1981-02-27T22:18:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-03-13T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 1981-03-13T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 1981-03-13T21:09:20Z)
+- Depression screening (procedure) (Date: 1981-03-13T21:29:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-03-13T21:42:37Z)
+- Colonoscopy (Date: 1981-10-16T20:21:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-03-19T20:21:02Z)
+- Depression screening (procedure) (Date: 1982-03-19T20:55:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-03-19T21:07:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1982-03-19T21:35:20Z)
+- Assessment of substance use (procedure) (Date: 1982-03-19T22:03:44Z)
+- Screening for drug abuse (procedure) (Date: 1982-03-19T22:16:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-03-25T20:21:02Z)
+- Medication Reconciliation (procedure) (Date: 1983-03-25T20:21:02Z)
+- Screening for domestic abuse (procedure) (Date: 1983-03-25T21:00:26Z)
+- Depression screening (procedure) (Date: 1983-03-25T21:34:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-03-25T21:45:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1983-03-25T22:12:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-03-30T20:21:02Z)
+- Assessment of substance use (procedure) (Date: 1984-03-30T20:53:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1984-03-30T21:05:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-04-05T20:21:02Z)
+- Assessment of anxiety (procedure) (Date: 1985-04-05T21:00:59Z)
+- Depression screening (procedure) (Date: 1985-04-05T21:28:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-04-05T21:41:17Z)
+
+== Recent Encounters (Last 5) ==
+- 1985-06-14T20:21:02Z: Death Certification
+- 1985-04-05T20:21:02Z: General examination of patient (procedure)
+- 1985-03-09T20:21:02Z: Follow-up encounter
+- 1984-03-30T20:21:02Z: General examination of patient (procedure)
+- 1984-03-09T20:21:02Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 1985-06-14T20:21:02Z Cause of Death [US Standard Certificate of Death]: Familial Alzheimer's disease of early onset (disorder) nan
+- 1985-04-05T22:07:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1985-04-05T21:28:39Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 1985-04-05T21:00:59Z What is your main insurance?: None/uninsured nan
+- 1985-04-05T21:00:59Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1985-04-05T21:00:59Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1985-04-05T21:00:59Z Are you a refugee?: No nan
+- 1985-04-05T21:00:59Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 1985-04-05T21:00:59Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 1985-04-05T21:00:59Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

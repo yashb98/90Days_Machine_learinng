@@ -1,0 +1,136 @@
+== PATIENT RECORD: Vita624 Bosco882 (ID: 152ae6fe-9ed5-6944-0d96-f6073102f677) ==
+
+== Demographics ==
+Patient ID: 152ae6fe-9ed5-6944-0d96-f6073102f677
+Name: Vita624 Bosco882
+Gender: F
+Birthdate: 1918-12-21
+Address: 799 Bogisich Rest Apt 84
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Prediabetes
+- Anemia (disorder)
+- Localized  primary osteoarthritis of the hand
+- Has a criminal record (finding)
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Fracture of rib
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Sprain of ankle
+- Social isolation (finding)
+- Fracture subluxation of wrist
+- Acute viral pharyngitis (disorder)
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-25T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-25T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-08-25T08:12:21Z)
+- Screening for domestic abuse (procedure) (Date: 2012-08-25T08:32:23Z)
+- Depression screening (procedure) (Date: 2012-08-25T09:07:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-25T09:18:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-08-25T09:45:06Z)
+- Chest X-ray (Date: 2012-10-20T12:11:44Z)
+- Bone immobilization (Date: 2012-10-20T12:11:44Z)
+- Bone density scan (procedure) (Date: 2012-10-20T12:46:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-31T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-08-31T08:24:50Z)
+- Depression screening (procedure) (Date: 2013-08-31T08:52:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-31T09:06:33Z)
+- Assessment of substance use (procedure) (Date: 2013-08-31T09:28:48Z)
+- Screening for drug abuse (procedure) (Date: 2013-08-31T09:40:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-06T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-06T08:20:17Z)
+- Screening for domestic abuse (procedure) (Date: 2014-09-06T08:46:28Z)
+- Depression screening (procedure) (Date: 2014-09-06T09:19:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-06T09:33:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-09-06T09:57:19Z)
+- Assessment of substance use (procedure) (Date: 2014-09-06T10:18:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-09-06T10:29:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-12T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-12T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-12T08:04:54Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-09-12T08:34:53Z)
+- Assessment of substance use (procedure) (Date: 2015-09-12T08:53:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-09-12T09:04:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-17T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-17T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2016-09-17T08:05:44Z)
+- Screening for domestic abuse (procedure) (Date: 2016-09-17T08:29:31Z)
+- Depression screening (procedure) (Date: 2016-09-17T09:03:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-17T09:17:11Z)
+- Assessment of substance use (procedure) (Date: 2016-09-17T09:44:10Z)
+- Screening for drug abuse (procedure) (Date: 2016-09-17T09:57:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-23T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-23T07:30:25Z)
+- Depression screening (procedure) (Date: 2017-09-23T08:11:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-23T08:22:04Z)
+- Assessment of substance use (procedure) (Date: 2017-09-23T08:42:28Z)
+- Screening for drug abuse (procedure) (Date: 2017-09-23T08:56:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-29T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-29T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-09-29T08:06:45Z)
+- Depression screening (procedure) (Date: 2018-09-29T08:23:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-29T08:35:45Z)
+- Assessment of substance use (procedure) (Date: 2018-09-29T09:05:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-09-29T09:17:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-05T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-10-05T08:04:34Z)
+- Screening for domestic abuse (procedure) (Date: 2019-10-05T08:31:26Z)
+- Depression screening (procedure) (Date: 2019-10-05T09:14:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-05T09:25:01Z)
+- X-ray or wrist (Date: 2019-12-10T12:46:38Z)
+- Bone immobilization (Date: 2019-12-10T12:46:38Z)
+- Bone density scan (procedure) (Date: 2019-12-10T13:14:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-10T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-10T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-10T08:16:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-10-10T08:35:59Z)
+- Depression screening (procedure) (Date: 2020-10-10T08:58:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-10T09:10:29Z)
+- Assessment of substance use (procedure) (Date: 2020-10-10T09:31:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-10-10T09:43:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-16T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-16T08:10:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-10-16T08:31:02Z)
+- Depression screening (procedure) (Date: 2021-10-16T08:55:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-16T09:09:52Z)
+- Assessment of substance use (procedure) (Date: 2021-10-16T09:35:22Z)
+- Screening for drug abuse (procedure) (Date: 2021-10-16T09:45:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-16T07:30:25Z: General examination of patient (procedure)
+- 2021-03-27T07:30:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-27T07:30:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-10T07:30:25Z: General examination of patient (procedure)
+- 2020-03-31T13:14:15Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-10-16T10:12:31Z Total score [DAST-10]: 0.0 {score}
+- 2021-10-16T09:35:22Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-16T08:55:56Z Fall risk total [Morse Fall Scale]: 42.0 {#}
+- 2021-10-16T08:55:56Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-10-16T08:31:02Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2021-10-16T08:10:50Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-10-16T08:10:50Z What language are you most comfortable speaking?: English nan
+- 2021-10-16T08:10:50Z What is your housing situation today?: I have housing nan
+- 2021-10-16T08:10:50Z Are you worried about losing your housing?: No nan
+- 2021-10-16T08:10:50Z What address do you live at?: 799 Bogisich Rest Apt 84 nan

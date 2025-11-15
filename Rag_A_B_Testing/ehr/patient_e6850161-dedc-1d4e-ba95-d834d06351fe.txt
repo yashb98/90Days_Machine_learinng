@@ -1,0 +1,61 @@
+== PATIENT RECORD: Karima879 Dare640 (ID: e6850161-dedc-1d4e-ba95-d834d06351fe) ==
+
+== Demographics ==
+Patient ID: e6850161-dedc-1d4e-ba95-d834d06351fe
+Name: Karima879 Dare640
+Gender: F
+Birthdate: 1975-06-01
+Address: 1010 Turner Mews
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+- Seizure disorder
+- History of single seizure (situation)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Diazepam 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1984-06-03T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1986-06-15T19:50:42Z)
+- Depression screening (procedure) (Date: 1987-06-21T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1987-06-21T19:50:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1987-06-21T20:02:22Z)
+- Assessment of substance use (procedure) (Date: 1987-06-21T20:25:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1987-06-21T20:37:59Z)
+- Anticipatory guidance (procedure) (Date: 1987-06-21T20:49:32Z)
+- Assessment of anxiety (procedure) (Date: 1988-06-26T19:50:42Z)
+- Depression screening (procedure) (Date: 1988-06-26T20:14:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-06-26T20:26:55Z)
+- Assessment of substance use (procedure) (Date: 1988-06-26T20:52:02Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1988-06-26T21:04:34Z)
+- Health risks education (procedure) (Date: 1988-06-26T21:33:45Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1989-03-14T19:50:42Z)
+- Depression screening (procedure) (Date: 1989-07-02T19:50:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1989-07-02T20:05:09Z)
+
+== Recent Encounters (Last 5) ==
+- 1990-03-18T19:50:42Z: Death Certification
+- 1989-07-02T19:50:42Z: Well child visit (procedure)
+- 1989-03-14T19:50:42Z: Emergency Room Admission
+- 1988-06-26T19:50:42Z: Well child visit (procedure)
+- 1987-06-21T19:50:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1990-03-18T19:50:42Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1989-07-02T20:30:36Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 1989-07-02T19:50:42Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 1989-07-02T19:50:42Z Body Height: 162.5 cm
+- 1989-07-02T19:50:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 1989-07-02T19:50:42Z Body Weight: 79.3 kg
+- 1989-07-02T19:50:42Z Body mass index (BMI) [Percentile] Per age and gender: 97.3 %
+- 1989-07-02T19:50:42Z Body Mass Index: 30.1 kg/m2
+- 1989-07-02T19:50:42Z Systolic Blood Pressure: 113.0 mm[Hg]
+- 1989-07-02T19:50:42Z Heart rate: 73.0 /min

@@ -1,0 +1,59 @@
+== PATIENT RECORD: Andera917 Lindgren255 (ID: d00d8a67-a23f-6fda-d97d-2a6391685500) ==
+
+== Demographics ==
+Patient ID: d00d8a67-a23f-6fda-d97d-2a6391685500
+Name: Andera917 Lindgren255
+Gender: F
+Birthdate: 2015-02-11
+Address: 643 Corwin Row
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Lisinopril
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Perennial allergic rhinitis
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-05-20T09:14:55Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-18T09:14:55Z)
+- Allergy screening test (Date: 2019-11-25T01:14:55Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-22T09:14:55Z)
+- Throat culture (procedure) (Date: 2020-10-13T09:14:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-15T13:14:55Z: Encounter for symptom
+- 2021-01-27T09:14:55Z: Well child visit (procedure)
+- 2020-10-21T09:14:55Z: Encounter for check up (procedure)
+- 2020-10-13T09:14:55Z: Encounter for symptom
+- 2020-08-06T09:14:55Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-02-11T09:14:55Z QOLS: 1.0 {score}
+- 2021-02-11T09:14:55Z DALY: 0.0 a
+- 2021-02-11T09:14:55Z QALY: 5.0 a
+- 2021-01-27T09:14:55Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-01-27T09:14:55Z Body Height: 116.0 cm
+- 2021-01-27T09:14:55Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-01-27T09:14:55Z Body Weight: 22.1 kg
+- 2021-01-27T09:14:55Z Body Mass Index: 16.4 kg/m2
+- 2021-01-27T09:14:55Z Body mass index (BMI) [Percentile] Per age and gender: 76.7 %
+- 2021-01-27T09:14:55Z Diastolic Blood Pressure: 73.0 mm[Hg]

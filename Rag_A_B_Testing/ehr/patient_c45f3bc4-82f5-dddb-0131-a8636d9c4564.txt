@@ -1,0 +1,114 @@
+== PATIENT RECORD: Lea264 Will178 (ID: c45f3bc4-82f5-dddb-0131-a8636d9c4564) ==
+
+== Demographics ==
+Patient ID: c45f3bc4-82f5-dddb-0131-a8636d9c4564
+Name: Lea264 Will178
+Gender: F
+Birthdate: 1947-12-01
+Address: 129 Kshlerin Rapid
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-20T09:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-20T09:51:58Z)
+- Depression screening (procedure) (Date: 2012-02-20T10:23:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-20T10:36:19Z)
+- Assessment of substance use (procedure) (Date: 2012-02-20T11:00:25Z)
+- Screening for drug abuse (procedure) (Date: 2012-02-20T11:11:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-25T09:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-25T09:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-02-25T10:47:52Z)
+- Depression screening (procedure) (Date: 2013-02-25T11:11:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-25T11:25:17Z)
+- Assessment of substance use (procedure) (Date: 2013-02-25T11:53:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-25T12:05:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-03T09:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-03T10:46:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-03-03T11:08:37Z)
+- Depression screening (procedure) (Date: 2014-03-03T11:31:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-03T11:43:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-09T09:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-09T10:42:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-03-09T11:05:44Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-09T11:24:45Z)
+- Depression screening (procedure) (Date: 2015-03-09T11:51:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-09T12:03:21Z)
+- Assessment of substance use (procedure) (Date: 2015-03-09T12:30:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-09T12:41:17Z)
+- Colonoscopy (Date: 2015-12-12T13:09:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-14T09:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-14T10:50:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-03-14T11:17:32Z)
+- Screening for domestic abuse (procedure) (Date: 2016-03-14T11:38:04Z)
+- Depression screening (procedure) (Date: 2016-03-14T12:08:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-14T12:18:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-20T09:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-20T09:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-03-20T10:51:54Z)
+- Depression screening (procedure) (Date: 2017-03-20T11:12:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-20T11:22:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-26T09:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-26T09:51:58Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-26T10:40:15Z)
+- Depression screening (procedure) (Date: 2018-03-26T11:18:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-26T11:32:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-01T09:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-01T09:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-01T10:28:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-04-01T10:45:40Z)
+- Assessment of substance use (procedure) (Date: 2019-04-01T11:11:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-04-01T11:25:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-06T09:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-04-06T10:43:20Z)
+- Screening for domestic abuse (procedure) (Date: 2020-04-06T10:59:22Z)
+- Assessment of substance use (procedure) (Date: 2020-04-06T11:35:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-04-06T11:48:22Z)
+- Colonoscopy (Date: 2020-12-11T13:50:28Z)
+- Throat culture (procedure) (Date: 2021-01-09T04:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-12T09:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-04-12T10:32:15Z)
+- Depression screening (procedure) (Date: 2021-04-12T10:48:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-12T11:02:54Z)
+- Assessment of substance use (procedure) (Date: 2021-04-12T11:28:33Z)
+- Screening for drug abuse (procedure) (Date: 2021-04-12T11:41:43Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-19T09:51:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-12T09:51:58Z: General examination of patient (procedure)
+- 2021-03-22T09:51:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-09T04:51:58Z: Encounter for symptom
+- 2020-12-11T13:50:28Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-04-12T12:02:46Z Total score [DAST-10]: 1.0 {score}
+- 2021-04-12T11:28:33Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-04-12T10:48:47Z Fall risk total [Morse Fall Scale]: 9.0 {#}
+- 2021-04-12T10:48:47Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-04-12T10:32:15Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-04-12T10:32:15Z What language are you most comfortable speaking?: English nan
+- 2021-04-12T10:32:15Z Are you worried about losing your housing?: Yes nan
+- 2021-04-12T10:32:15Z What address do you live at?: 129 Kshlerin Rapid nan
+- 2021-04-12T10:32:15Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-04-12T10:32:15Z What is your current work situation?: Full-time work nan

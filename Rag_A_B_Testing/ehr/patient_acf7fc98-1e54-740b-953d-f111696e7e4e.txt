@@ -1,0 +1,144 @@
+== PATIENT RECORD: Elna874 Nikolaus26 (ID: acf7fc98-1e54-740b-953d-f111696e7e4e) ==
+
+== Demographics ==
+Patient ID: acf7fc98-1e54-740b-953d-f111696e7e4e
+Name: Elna874 Nikolaus26
+Gender: F
+Birthdate: 1918-12-21
+Address: 885 Nitzsche Trailer Unit 62
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Chronic sinusitis (disorder)
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Hypertension
+- Received higher education (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Localized  primary osteoarthritis of the hand
+- Full-time employment (finding)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Limited social contact (finding)
+- Hyperlipidemia
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Chronic congestive heart failure (disorder)
+
+== Current Medications ==
+- clonazePAM 0.25 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- sacubitril 97 MG / valsartan 103 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- losartan potassium 50 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1985-11-16T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 1985-11-16T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1985-11-16T08:06:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1985-11-16T08:24:57Z)
+- Depression screening (procedure) (Date: 1985-11-16T08:50:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-11-16T09:02:27Z)
+- Assessment of substance use (procedure) (Date: 1985-11-16T09:31:49Z)
+- Screening for drug abuse (procedure) (Date: 1985-11-16T09:43:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-11-22T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 1986-11-22T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1986-11-22T08:10:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1986-11-22T08:31:12Z)
+- Depression screening (procedure) (Date: 1986-11-22T08:50:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-11-22T09:05:09Z)
+- Assessment of substance use (procedure) (Date: 1986-11-22T09:32:50Z)
+- Screening for drug abuse (procedure) (Date: 1986-11-22T09:46:55Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-11-28T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 1987-11-28T07:30:25Z)
+- Throat culture (procedure) (Date: 1987-11-29T09:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1987-11-28T08:06:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1987-11-28T08:26:19Z)
+- Screening for domestic abuse (procedure) (Date: 1987-11-28T08:47:26Z)
+- Depression screening (procedure) (Date: 1987-11-28T09:12:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-11-28T09:25:02Z)
+- Assessment of substance use (procedure) (Date: 1987-11-28T09:50:30Z)
+- Screening for drug abuse (procedure) (Date: 1987-11-28T10:04:16Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-12-03T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1988-12-03T08:18:36Z)
+- Depression screening (procedure) (Date: 1988-12-03T08:38:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-12-03T08:50:16Z)
+- Assessment of substance use (procedure) (Date: 1988-12-03T09:15:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1988-12-03T09:26:52Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-12-09T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 1989-12-09T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1989-12-09T08:01:36Z)
+- Depression screening (procedure) (Date: 1989-12-09T08:21:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-12-09T08:34:15Z)
+- Assessment of substance use (procedure) (Date: 1989-12-09T08:58:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-12-09T09:12:09Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-12-15T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1990-12-15T08:02:53Z)
+- Assessment of substance use (procedure) (Date: 1990-12-15T08:20:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1990-12-15T08:35:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-12-21T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 1991-12-21T07:30:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1991-12-21T08:16:43Z)
+- Assessment of substance use (procedure) (Date: 1991-12-21T08:46:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1991-12-21T09:00:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-12-26T07:30:25Z)
+- Medication Reconciliation (procedure) (Date: 1992-12-26T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1992-12-26T08:05:23Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-01-01T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1994-01-01T08:06:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-01-01T08:29:21Z)
+- Screening for domestic abuse (procedure) (Date: 1994-01-01T08:51:51Z)
+- Depression screening (procedure) (Date: 1994-01-01T09:29:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-01-01T09:39:18Z)
+- Assessment of substance use (procedure) (Date: 1994-01-01T10:01:17Z)
+- Screening for drug abuse (procedure) (Date: 1994-01-01T10:12:50Z)
+- Electrocardiographic procedure (Date: 1994-02-13T07:30:25Z)
+- Cardiovascular stress testing (procedure) (Date: 1994-02-13T07:39:30Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1994-02-13T08:17:28Z)
+- Echocardiography (procedure) (Date: 1994-03-04T08:36:25Z)
+- Medication Reconciliation (procedure) (Date: 1994-03-04T08:36:25Z)
+- Oxygen administration by mask (procedure) (Date: 1994-08-31T08:36:25Z)
+- Placing subject in prone position (procedure) (Date: 1994-08-31T08:36:25Z)
+- Plain chest X-ray (procedure) (Date: 1994-08-31T08:36:25Z)
+- Medication Reconciliation (procedure) (Date: 1994-08-31T08:36:25Z)
+- Electrocardiographic procedure (Date: 1994-08-31T08:36:25Z)
+- Oxygen administration by mask (procedure) (Date: 1994-08-31T08:42:58Z)
+- Placing subject in prone position (procedure) (Date: 1994-08-31T08:42:58Z)
+- Heart failure education (procedure) (Date: 1994-09-01T08:42:58Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-01-07T07:30:25Z)
+- Assessment of anxiety (procedure) (Date: 1995-01-07T08:11:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-01-07T08:38:30Z)
+- Echocardiography (procedure) (Date: 1995-02-28T09:30:11Z)
+- Medication Reconciliation (procedure) (Date: 1995-02-28T09:30:11Z)
+
+== Recent Encounters (Last 5) ==
+- 1995-07-15T07:30:25Z: Death Certification
+- 1995-02-28T09:30:11Z: Encounter for problem
+- 1995-01-07T07:30:25Z: General examination of patient (procedure)
+- 1994-12-29T07:30:25Z: Follow-up encounter
+- 1994-08-31T08:36:25Z: Admission to intensive care unit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1995-07-15T07:30:25Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1995-02-28T09:30:11Z Carbon Dioxide: 25.4 mmol/L
+- 1995-02-28T09:30:11Z Chloride: 105.9 mmol/L
+- 1995-02-28T09:30:11Z Potassium: 4.4 mmol/L
+- 1995-02-28T09:30:11Z Sodium: 138.2 mmol/L
+- 1995-02-28T09:30:11Z Calcium: 9.2 mg/dL
+- 1995-02-28T09:30:11Z Creatinine: 1.0 mg/dL
+- 1995-02-28T09:30:11Z Urea Nitrogen: 11.8 mg/dL
+- 1995-02-28T09:30:11Z Glucose: 71.2 mg/dL
+- 1995-02-28T09:30:11Z Left ventricular Ejection fraction: 39.0 %

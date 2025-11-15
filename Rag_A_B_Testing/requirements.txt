@@ -1,0 +1,21 @@
+# --- API Gateway (app.py) ---
+Flask
+Flask-CORS
+requests
+python-dotenv
+pyarrow
+faiss-cpu
+
+
+# --- RAG Core Service (rag_core_service.py) ---
+# For data manipulation, context loading, and matrix ops (embeddings)
+pandas
+numpy
+
+# Google GenAI SDK (For live Gemini 2.5 Pro generation and embedding-001 API calls)
+google-genai 
+
+# --- Notes for Deployment ---
+# 1. This list assumes you handle the Mistral-7B inference via an external 
+#    service (like vLLM) called over HTTP.
+# 2. In a production environment, always pin your dependencies to specific versions (e.g., pandas==2.1.0).

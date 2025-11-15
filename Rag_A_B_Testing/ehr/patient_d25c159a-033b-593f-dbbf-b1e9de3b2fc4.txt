@@ -1,0 +1,118 @@
+== PATIENT RECORD: Terrell212 Wintheiser220 (ID: d25c159a-033b-593f-dbbf-b1e9de3b2fc4) ==
+
+== Demographics ==
+Patient ID: d25c159a-033b-593f-dbbf-b1e9de3b2fc4
+Name: Terrell212 Wintheiser220
+Gender: M
+Birthdate: 1980-04-01
+Address: 887 Halvorson Parade
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+
+== Past Procedures ==
+- Sputum examination (procedure) (Date: 2014-01-25T19:29:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T06:29:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T07:28:34Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T08:20:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-18T06:29:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T09:12:28Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T10:06:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T11:00:33Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-18T07:24:33Z)
+- Depression screening (procedure) (Date: 2014-02-18T07:48:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-18T08:03:06Z)
+- Assessment of substance use (procedure) (Date: 2014-02-18T08:24:15Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-18T08:38:26Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T11:57:18Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T12:46:34Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T13:33:18Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-08T14:21:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-24T06:29:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-24T06:29:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-24T07:14:10Z)
+- Depression screening (procedure) (Date: 2015-02-24T07:31:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-24T07:45:02Z)
+- Assessment of substance use (procedure) (Date: 2015-02-24T08:11:53Z)
+- Screening for drug abuse (procedure) (Date: 2015-02-24T08:24:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-01T06:29:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-01T07:24:13Z)
+- Screening for domestic abuse (procedure) (Date: 2016-03-01T07:52:32Z)
+- Assessment of substance use (procedure) (Date: 2016-03-01T08:28:12Z)
+- Screening for drug abuse (procedure) (Date: 2016-03-01T08:42:37Z)
+- Sputum examination (procedure) (Date: 2016-04-04T06:34:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-19T06:29:35Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-19T07:14:22Z)
+- Depression screening (procedure) (Date: 2016-04-19T07:52:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-19T08:06:34Z)
+- Assessment of substance use (procedure) (Date: 2016-04-19T08:31:11Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-19T08:43:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-07T06:29:35Z)
+- Depression screening (procedure) (Date: 2017-03-07T07:20:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-07T07:35:14Z)
+- Assessment of substance use (procedure) (Date: 2017-03-07T08:00:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-07T08:14:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-13T06:29:35Z)
+- Depression screening (procedure) (Date: 2018-03-13T07:20:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-13T07:32:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-19T06:29:35Z)
+- Depression screening (procedure) (Date: 2019-03-19T07:03:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-19T07:16:33Z)
+- Assessment of substance use (procedure) (Date: 2019-03-19T07:44:03Z)
+- Screening for drug abuse (procedure) (Date: 2019-03-19T07:56:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-18T06:29:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-18T06:29:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-18T07:22:04Z)
+- Screening for domestic abuse (procedure) (Date: 2019-06-18T07:45:13Z)
+- Depression screening (procedure) (Date: 2019-06-18T08:22:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-18T08:35:21Z)
+- Assessment of substance use (procedure) (Date: 2019-06-18T09:03:59Z)
+- Screening for drug abuse (procedure) (Date: 2019-06-18T09:16:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-24T06:29:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-24T06:29:35Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-24T07:07:12Z)
+- Depression screening (procedure) (Date: 2020-03-24T07:25:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-24T07:37:53Z)
+- Assessment of substance use (procedure) (Date: 2020-03-24T08:07:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-24T08:22:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-30T06:29:35Z)
+- Screening for domestic abuse (procedure) (Date: 2021-03-30T07:00:56Z)
+- Depression screening (procedure) (Date: 2021-03-30T07:32:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-30T07:44:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-13T06:29:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-30T06:29:35Z: General examination of patient (procedure)
+- 2021-03-23T06:29:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-03-24T06:29:35Z: General examination of patient (procedure)
+- 2019-06-18T06:29:35Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-01T05:29:35Z QOLS: 1.0 {score}
+- 2021-04-01T05:29:35Z DALY: 0.0 a
+- 2021-04-01T05:29:35Z QALY: 40.0 a
+- 2021-03-30T08:13:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-30T07:32:05Z Total score [HARK]: 0.0 {score}
+- 2021-03-30T07:00:56Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2021-03-30T07:00:56Z What address do you live at?: 887 Halvorson Parade nan
+- 2021-03-30T07:00:56Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-03-30T07:00:56Z What is your current work situation?: Full-time work nan
+- 2021-03-30T07:00:56Z What is your main insurance?: Medicaid nan

@@ -1,0 +1,123 @@
+== PATIENT RECORD: Ethelene252 Reilly981 (ID: 25e2030b-e0c7-3b91-d434-57693cb72659) ==
+
+== Demographics ==
+Patient ID: 25e2030b-e0c7-3b91-d434-57693cb72659
+Name: Ethelene252 Reilly981
+Gender: F
+Birthdate: 1948-01-14
+Address: 459 Walsh Estate
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Hyperlipidemia
+- Body mass index 30+ - obesity (finding)
+- Osteoarthritis of knee
+- Full-time employment (finding)
+- Chronic neck pain (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-28T14:59:38Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-28T15:39:06Z)
+- Depression screening (procedure) (Date: 2012-11-28T16:07:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-28T16:18:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-04T14:59:38Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-04T14:59:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-12-04T15:49:06Z)
+- Assessment of substance use (procedure) (Date: 2013-12-04T16:17:22Z)
+- Screening for drug abuse (procedure) (Date: 2013-12-04T16:27:33Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-03T14:59:38Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-06T15:49:49Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T16:45:23Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T17:43:41Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T18:34:04Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T19:27:20Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T20:12:36Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T21:05:16Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T21:57:13Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T22:47:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-10T14:59:38Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-10T15:46:50Z)
+- Depression screening (procedure) (Date: 2014-12-10T16:29:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-10T16:39:43Z)
+- Assessment of substance use (procedure) (Date: 2014-12-10T17:09:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-12-10T17:19:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-16T14:59:38Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-16T15:56:02Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-16T16:14:48Z)
+- Depression screening (procedure) (Date: 2015-12-16T16:34:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-16T16:48:05Z)
+- Assessment of substance use (procedure) (Date: 2015-12-16T17:08:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-16T17:22:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-21T14:59:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-21T14:59:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-12-21T15:30:11Z)
+- Depression screening (procedure) (Date: 2016-12-21T15:52:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-21T16:06:22Z)
+- Assessment of substance use (procedure) (Date: 2016-12-21T16:30:01Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-21T16:41:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-27T14:59:38Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-27T15:37:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-12-27T15:52:18Z)
+- Assessment of substance use (procedure) (Date: 2017-12-27T16:21:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-27T16:33:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-02T14:59:38Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-02T14:59:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-01-02T15:38:03Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-02T16:00:17Z)
+- Depression screening (procedure) (Date: 2019-01-02T16:25:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-02T16:39:12Z)
+- Assessment of substance use (procedure) (Date: 2019-01-02T17:04:19Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-02T17:17:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-08T14:59:38Z)
+- Depression screening (procedure) (Date: 2020-01-08T15:39:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-08T15:50:36Z)
+- Assessment of substance use (procedure) (Date: 2020-01-08T16:17:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-08T16:27:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-13T14:59:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-01-13T15:58:36Z)
+- Screening for domestic abuse (procedure) (Date: 2021-01-13T16:25:49Z)
+- Depression screening (procedure) (Date: 2021-01-13T17:06:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-13T17:18:29Z)
+- Assessment of substance use (procedure) (Date: 2021-01-13T17:40:35Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-13T17:54:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-01T14:59:38Z: Follow-up encounter
+- 2021-02-10T14:59:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-20T14:59:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-13T14:59:38Z: General examination of patient (procedure)
+- 2020-08-01T14:59:38Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-08-01T14:59:38Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 55.5 U/L
+- 2021-08-01T14:59:38Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.3 U/L
+- 2021-08-01T14:59:38Z Triglycerides: 194.6 mg/dL
+- 2021-08-01T14:59:38Z Low Density Lipoprotein Cholesterol: 105.3 mg/dL
+- 2021-08-01T14:59:38Z High Density Lipoprotein Cholesterol: 33.5 mg/dL
+- 2021-08-01T14:59:38Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 42.2 U/L
+- 2021-08-01T14:59:38Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- 2021-08-01T14:59:38Z Globulin [Mass/volume] in Serum by calculation: 2.6 g/L
+- 2021-08-01T14:59:38Z Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL
+- 2021-08-01T14:59:38Z Protein [Mass/volume] in Serum or Plasma: 66.9 g/dL

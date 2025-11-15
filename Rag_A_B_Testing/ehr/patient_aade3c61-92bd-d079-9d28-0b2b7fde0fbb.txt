@@ -1,0 +1,82 @@
+== PATIENT RECORD: Sal878 Hoppe518 (ID: aade3c61-92bd-d079-9d28-0b2b7fde0fbb) ==
+
+== Demographics ==
+Patient ID: aade3c61-92bd-d079-9d28-0b2b7fde0fbb
+Name: Sal878 Hoppe518
+Gender: M
+Birthdate: 1985-06-05
+Address: 930 Goldner Stravenue Apt 8
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Risk activity involvement (finding)
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Sprain of ankle
+- Part-time employment (finding)
+- Laceration of thigh
+- First degree burn
+- Diabetes
+- Acute bronchitis (disorder)
+- Hypertriglyceridemia (disorder)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-08-14T19:44:25Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-14T19:44:25Z)
+- Assessment of anxiety (procedure) (Date: 2013-08-14T20:44:24Z)
+- Screening for domestic abuse (procedure) (Date: 2013-08-14T21:04:43Z)
+- Depression screening (procedure) (Date: 2013-08-14T21:37:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-14T21:48:32Z)
+- Assessment of substance use (procedure) (Date: 2013-08-14T22:13:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-08-14T22:26:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-17T19:44:25Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-17T19:44:25Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-17T20:43:24Z)
+- Assessment of substance use (procedure) (Date: 2016-08-17T21:08:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-08-17T21:18:54Z)
+- Suture open wound (Date: 2017-07-15T19:44:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-21T19:44:25Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-21T19:44:25Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-21T20:29:09Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-21T20:56:13Z)
+- Assessment of substance use (procedure) (Date: 2019-08-21T21:34:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-21T21:47:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-01T19:44:25Z)
+- Depression screening (procedure) (Date: 2020-04-01T20:41:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-01T20:55:37Z)
+- Assessment of substance use (procedure) (Date: 2020-04-01T21:24:31Z)
+- Screening for drug abuse (procedure) (Date: 2020-04-01T21:34:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-19T19:44:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-21T19:44:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-01T19:44:25Z: Encounter for check up (procedure)
+- 2020-03-25T19:44:25Z: Urgent care clinic (procedure)
+- 2020-03-21T16:44:25Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-06-05T19:44:25Z QOLS: 0.7 {score}
+- 2021-06-05T19:44:25Z DALY: 6.6 a
+- 2021-06-05T19:44:25Z QALY: 28.4 a
+- 2020-06-05T19:44:25Z QOLS: 0.8 {score}
+- 2020-06-05T19:44:25Z DALY: 6.3 a
+- 2020-06-05T19:44:25Z QALY: 27.7 a
+- 2020-04-01T21:56:43Z Total score [DAST-10]: 2.0 {score}
+- 2020-04-01T21:24:31Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-04-01T20:41:04Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2020-04-01T20:41:04Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

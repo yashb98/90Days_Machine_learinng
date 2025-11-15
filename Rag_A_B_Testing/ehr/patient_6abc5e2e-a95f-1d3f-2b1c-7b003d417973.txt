@@ -1,0 +1,113 @@
+== PATIENT RECORD: Hulda44 Pouros728 (ID: 6abc5e2e-a95f-1d3f-2b1c-7b003d417973) ==
+
+== Demographics ==
+Patient ID: 6abc5e2e-a95f-1d3f-2b1c-7b003d417973
+Name: Hulda44 Pouros728
+Gender: F
+Birthdate: 1970-09-03
+Address: 248 Deckow Bypass
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Social isolation (finding)
+- Transport problems (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Primary fibromyalgia syndrome
+- Stress (finding)
+- Osteoarthritis of knee
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Naproxen 500 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Camila 28 Day Pack
+- Milnacipran hydrochloride 100 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Yaz 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Levora 0.15/30 28 Day Pack
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+
+== Past Procedures ==
+- Insertion of intrauterine contraceptive device (Date: 2012-02-04T18:10:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-09-13T10:34:24Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-13T10:34:24Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-13T11:18:07Z)
+- Screening for domestic abuse (procedure) (Date: 2012-09-13T11:47:52Z)
+- Depression screening (procedure) (Date: 2012-09-13T12:29:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-13T12:43:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-09-13T13:04:15Z)
+- Removal of subcutaneous contraceptive (Date: 2014-02-20T10:34:24Z)
+- Insertion of subcutaneous contraceptive (Date: 2014-02-20T11:00:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-18T10:34:24Z)
+- Screening for domestic abuse (procedure) (Date: 2014-09-18T11:30:03Z)
+- Depression screening (procedure) (Date: 2014-09-18T12:14:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-18T12:28:37Z)
+- Intramuscular injection (Date: 2016-01-14T18:57:55Z)
+- Measurement of respiratory function (procedure) (Date: 2016-04-19T13:34:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-22T10:34:24Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-22T10:34:24Z)
+- Depression screening (procedure) (Date: 2016-09-22T11:28:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-22T11:43:36Z)
+- Measurement of respiratory function (procedure) (Date: 2017-07-21T13:34:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-03T10:34:24Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-03T11:15:07Z)
+- Depression screening (procedure) (Date: 2017-08-03T11:30:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-03T11:45:22Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-01-03T19:17:18Z)
+- Removal of subcutaneous contraceptive (Date: 2018-02-22T10:34:24Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-02-22T11:10:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-27T10:34:24Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-27T11:28:25Z)
+- Screening for domestic abuse (procedure) (Date: 2018-09-27T11:56:57Z)
+- Depression screening (procedure) (Date: 2018-09-27T12:22:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-27T12:32:44Z)
+- Assessment of substance use (procedure) (Date: 2018-09-27T12:54:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-09-27T13:05:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-03T10:34:24Z)
+- Colonoscopy (Date: 2020-09-03T10:34:24Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-03T11:20:45Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-03T11:45:00Z)
+- Assessment of substance use (procedure) (Date: 2020-09-03T12:23:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-03T12:35:23Z)
+- Removal of subcutaneous contraceptive (Date: 2020-12-31T10:34:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-09T10:34:24Z)
+- Depression screening (procedure) (Date: 2021-09-09T11:14:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-09T11:26:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-09-09T11:46:41Z)
+- Assessment of substance use (procedure) (Date: 2021-09-09T12:08:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-09-09T12:19:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-09T10:34:24Z: General examination of patient (procedure)
+- 2020-12-31T10:34:24Z: Patient encounter procedure
+- 2020-09-03T10:34:24Z: Encounter for 'check-up'
+- 2020-09-03T10:34:24Z: General examination of patient (procedure)
+- 2020-05-06T10:34:24Z: Hospital admission
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T12:43:46Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-09-09T12:08:54Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 7.0 {score}
+- 2021-09-09T11:46:41Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-09-09T11:14:36Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 40799 /a
+- 2021-09-09T11:14:36Z What is your main insurance?: Private insurance nan
+- 2021-09-09T11:14:36Z What is your current work situation?: Full-time work nan
+- 2021-09-09T11:14:36Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-09-09T11:14:36Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-09-09T11:14:36Z Are you worried about losing your housing?: No nan
+- 2021-09-09T11:14:36Z What is your housing situation today?: I have housing nan

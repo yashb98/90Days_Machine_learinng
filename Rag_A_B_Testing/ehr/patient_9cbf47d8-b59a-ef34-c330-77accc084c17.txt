@@ -1,0 +1,160 @@
+== PATIENT RECORD: Santina680 Kub800 (ID: 9cbf47d8-b59a-ef34-c330-77accc084c17) ==
+
+== Demographics ==
+Patient ID: 9cbf47d8-b59a-ef34-c330-77accc084c17
+Name: Santina680 Kub800
+Gender: F
+Birthdate: 1934-09-09
+Address: 583 Smitham Passage Apt 99
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Hypertension
+- Prediabetes
+- Limited social contact (finding)
+- Miscarriage in first trimester
+- Has a criminal record (finding)
+- Malignant neoplasm of breast (disorder)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Alzheimer's disease (disorder)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Otitis media
+- Coronary Heart Disease
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Amoxicillin 250 MG Oral Capsule
+- Naproxen sodium 220 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Mammography (procedure) (Date: 2012-02-17T16:19:13Z)
+- Manual pelvic examination (procedure) (Date: 2012-02-17T16:40:17Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-02-17T16:54:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-07T15:07:05Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-07T15:07:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-10-07T15:41:17Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-07T16:05:03Z)
+- Depression screening (procedure) (Date: 2012-10-07T16:44:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-07T16:59:21Z)
+- Assessment of substance use (procedure) (Date: 2012-10-07T17:27:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-07T17:39:34Z)
+- Mammography (procedure) (Date: 2013-02-06T17:06:37Z)
+- Manual pelvic examination (procedure) (Date: 2013-02-06T17:29:42Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-02-06T17:43:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-13T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-13T15:39:27Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-10-13T15:56:28Z)
+- Depression screening (procedure) (Date: 2013-10-13T16:19:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-13T16:32:00Z)
+- Assessment of substance use (procedure) (Date: 2013-10-13T17:01:11Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-13T17:13:00Z)
+- Mammography (procedure) (Date: 2014-01-20T17:55:28Z)
+- Manual pelvic examination (procedure) (Date: 2014-01-20T18:12:39Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-01-20T18:25:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-19T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-19T15:38:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-10-19T16:00:04Z)
+- Depression screening (procedure) (Date: 2014-10-19T16:24:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-19T16:34:51Z)
+- Assessment of substance use (procedure) (Date: 2014-10-19T17:00:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-19T17:11:26Z)
+- Mammography (procedure) (Date: 2015-02-13T18:38:09Z)
+- Manual pelvic examination (procedure) (Date: 2015-02-13T18:58:30Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-02-13T19:12:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-25T15:07:05Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-25T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-25T15:50:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-10-25T16:13:06Z)
+- Depression screening (procedure) (Date: 2015-10-25T16:38:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-25T16:51:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-25T17:17:56Z)
+- Assessment of substance use (procedure) (Date: 2015-10-25T17:44:52Z)
+- Screening for drug abuse (procedure) (Date: 2015-10-25T17:59:21Z)
+- Mammography (procedure) (Date: 2016-01-14T19:28:08Z)
+- Manual pelvic examination (procedure) (Date: 2016-01-14T19:50:20Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-01-14T20:01:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-30T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-30T15:52:27Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-30T16:09:41Z)
+- Depression screening (procedure) (Date: 2016-10-30T16:41:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-30T16:52:32Z)
+- Assessment of substance use (procedure) (Date: 2016-10-30T17:21:57Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-30T17:35:39Z)
+- Mammography (procedure) (Date: 2016-12-19T20:18:00Z)
+- Manual pelvic examination (procedure) (Date: 2016-12-19T20:42:44Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-12-19T20:53:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-05T15:07:05Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-05T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-05T15:51:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-11-05T16:12:02Z)
+- Assessment of substance use (procedure) (Date: 2017-11-05T16:34:30Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-05T16:49:08Z)
+- Mammography (procedure) (Date: 2017-12-05T21:10:43Z)
+- Manual pelvic examination (procedure) (Date: 2017-12-05T21:29:52Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-12-05T21:40:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-11T15:07:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-11-11T15:47:34Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-11T16:05:44Z)
+- Depression screening (procedure) (Date: 2018-11-11T16:37:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-11T16:51:04Z)
+- Assessment of substance use (procedure) (Date: 2018-11-11T17:17:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-11T17:31:58Z)
+- Mammography (procedure) (Date: 2018-11-16T21:54:33Z)
+- Manual pelvic examination (procedure) (Date: 2018-11-16T22:18:28Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-11-16T22:28:31Z)
+- Mammography (procedure) (Date: 2019-10-31T22:45:56Z)
+- Manual pelvic examination (procedure) (Date: 2019-10-31T23:01:36Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-10-31T23:11:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-17T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-17T15:41:59Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-17T15:58:03Z)
+- Assessment of substance use (procedure) (Date: 2019-11-17T16:32:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-17T16:47:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-26T15:07:05Z)
+- Depression screening (procedure) (Date: 2020-07-26T16:01:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-26T16:12:01Z)
+- Mammography (procedure) (Date: 2020-11-07T23:25:19Z)
+- Manual pelvic examination (procedure) (Date: 2020-11-07T23:44:58Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-11-07T23:55:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-22T15:07:05Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-22T16:03:09Z)
+- Depression screening (procedure) (Date: 2020-11-22T16:21:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-22T16:35:44Z)
+- Mammography (procedure) (Date: 2021-10-24T00:14:23Z)
+- Manual pelvic examination (procedure) (Date: 2021-10-24T00:38:35Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-10-24T00:51:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-24T00:38:35Z: Gynecology service (qualifier value)
+- 2021-10-24T00:14:23Z: Screening surveillance (regime/therapy)
+- 2021-10-24T00:14:23Z: Postoperative follow-up visit (procedure)
+- 2021-03-14T15:07:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-21T15:07:05Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-09T15:07:05Z QOLS: 0.7 {score}
+- 2021-09-09T15:07:05Z DALY: 8.5 a
+- 2021-09-09T15:07:05Z QALY: 77.5 a
+- 2020-11-22T17:04:12Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-11-22T16:21:13Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-11-22T16:03:09Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-11-22T16:03:09Z What address do you live at?: 583 Smitham Passage Apt 99 nan
+- 2020-11-22T16:03:09Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-11-22T16:03:09Z What is your current work situation?: Full-time work nan
+- 2020-11-22T16:03:09Z What is your main insurance?: Medicare nan

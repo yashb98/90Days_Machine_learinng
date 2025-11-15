@@ -1,0 +1,79 @@
+== PATIENT RECORD: Eduardo902 Barela183 (ID: 2a1d4786-435c-6633-3b6f-b555f5d3519b) ==
+
+== Demographics ==
+Patient ID: 2a1d4786-435c-6633-3b6f-b555f5d3519b
+Name: Eduardo902 Barela183
+Gender: M
+Birthdate: 2009-03-23
+Address: 784 Hayes Vale Unit 91
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Child attention deficit disorder
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-08-27T22:04:00Z)
+- Throat culture (procedure) (Date: 2013-10-02T03:04:00Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-20T22:04:00Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-26T22:04:00Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-01T22:04:00Z)
+- Cognitive and behavioral therapy (Date: 2019-08-17T22:04:00Z)
+- Cognitive and behavioral therapy (Date: 2019-09-25T23:04:00Z)
+- Cognitive and behavioral therapy (Date: 2019-10-31T00:04:00Z)
+- Cognitive and behavioral therapy (Date: 2019-12-11T01:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-01-10T02:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-02-14T03:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-03-16T04:04:00Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-06T22:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-04-23T05:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-05-21T06:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-06-24T07:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-08-01T08:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-09-06T09:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-10-10T10:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-11-13T11:04:00Z)
+- Cognitive and behavioral therapy (Date: 2020-12-15T12:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-01-24T13:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-03-03T14:04:00Z)
+- Depression screening (procedure) (Date: 2021-04-12T22:04:00Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-12T22:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-04-11T15:04:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-04-12T22:15:26Z)
+- Assessment of substance use (procedure) (Date: 2021-04-12T22:43:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-04-12T22:56:11Z)
+- Anticipatory guidance (procedure) (Date: 2021-04-12T23:19:24Z)
+- Cognitive and behavioral therapy (Date: 2021-05-10T16:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-06-09T17:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-07-14T18:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-08-11T19:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-09-11T20:04:00Z)
+- Cognitive and behavioral therapy (Date: 2021-10-18T21:04:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-18T21:04:00Z: Encounter for problem
+- 2021-09-11T20:04:00Z: Encounter for problem
+- 2021-08-11T19:04:00Z: Encounter for problem
+- 2021-07-14T18:04:00Z: Encounter for problem
+- 2021-06-09T17:04:00Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-04-12T22:43:12Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-04-12T22:04:00Z Body Height: 146.0 cm
+- 2021-04-12T22:04:00Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-04-12T22:04:00Z Body Weight: 36.2 kg
+- 2021-04-12T22:04:00Z Body Mass Index: 17.0 kg/m2
+- 2021-04-12T22:04:00Z Body mass index (BMI) [Percentile] Per age and gender: 34.9 %
+- 2021-04-12T22:04:00Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-04-12T22:04:00Z Systolic Blood Pressure: 106.0 mm[Hg]
+- 2021-04-12T22:04:00Z Heart rate: 93.0 /min
+- 2021-04-12T22:04:00Z Respiratory rate: 12.0 /min

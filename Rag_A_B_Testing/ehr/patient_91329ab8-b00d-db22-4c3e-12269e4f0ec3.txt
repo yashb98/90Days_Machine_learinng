@@ -1,0 +1,69 @@
+== PATIENT RECORD: Joaquina124 Boyle917 (ID: 91329ab8-b00d-db22-4c3e-12269e4f0ec3) ==
+
+== Demographics ==
+Patient ID: 91329ab8-b00d-db22-4c3e-12269e4f0ec3
+Name: Joaquina124 Boyle917
+Gender: F
+Birthdate: 2003-11-23
+Address: 1037 Schinner Dale Apt 18
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Cough (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-11-26T04:29:38Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-02T04:29:38Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-14T04:29:38Z)
+- Assessment of substance use (procedure) (Date: 2015-12-14T04:58:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-12-14T05:11:58Z)
+- Anticipatory guidance (procedure) (Date: 2015-12-14T05:38:26Z)
+- Throat culture (procedure) (Date: 2016-08-30T10:29:38Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-19T04:29:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-19T04:29:38Z)
+- Depression screening (procedure) (Date: 2016-12-19T04:49:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-12-19T05:02:00Z)
+- Depression screening (procedure) (Date: 2017-12-25T04:29:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-12-25T04:43:13Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-06T04:29:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-06T04:29:38Z)
+- Assessment of substance use (procedure) (Date: 2020-01-06T04:57:45Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-01-06T05:08:00Z)
+- Anticipatory guidance (procedure) (Date: 2020-01-06T05:18:37Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-11T04:29:38Z)
+- Depression screening (procedure) (Date: 2021-01-11T04:53:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-01-11T05:04:10Z)
+- Face mask (physical object) (Date: 2021-01-25T04:29:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-17T04:29:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-25T04:29:38Z: Encounter for symptom (procedure)
+- 2021-01-11T04:29:38Z: Well child visit (procedure)
+- 2020-01-06T04:29:38Z: Well child visit (procedure)
+- 2018-12-31T04:29:38Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-25T06:03:21Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-01-25T04:40:35Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-01-25T04:40:35Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

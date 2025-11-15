@@ -1,0 +1,117 @@
+== PATIENT RECORD: Ashton21 Mitchell808 (ID: 49d56ae6-5b5e-838c-da96-3b65e201aaef) ==
+
+== Demographics ==
+Patient ID: 49d56ae6-5b5e-838c-da96-3b65e201aaef
+Name: Ashton21 Mitchell808
+Gender: F
+Birthdate: 2003-05-17
+Address: 739 Corwin Center
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Errin 28 Day Pack
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-05-25T13:09:27Z)
+- Depression screening (procedure) (Date: 2015-06-06T13:09:27Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-06T13:24:24Z)
+- Assessment of substance use (procedure) (Date: 2015-06-06T13:49:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-06T14:03:44Z)
+- Health risks education (procedure) (Date: 2015-06-06T14:18:25Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-11T13:09:27Z)
+- Depression screening (procedure) (Date: 2016-06-11T13:25:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-11T13:36:28Z)
+- Assessment of substance use (procedure) (Date: 2016-06-11T14:00:28Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-11T14:15:14Z)
+- Health risks education (procedure) (Date: 2016-06-11T14:28:21Z)
+- Depression screening (procedure) (Date: 2017-06-17T13:09:27Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-17T13:09:27Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-17T13:19:40Z)
+- Assessment of substance use (procedure) (Date: 2017-06-17T13:41:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-06-17T13:53:06Z)
+- Anticipatory guidance (procedure) (Date: 2017-06-17T14:16:41Z)
+- Intramuscular injection (Date: 2018-05-11T13:09:27Z)
+- Measurement of respiratory function (procedure) (Date: 2018-05-29T21:09:27Z)
+- Depression screening (procedure) (Date: 2018-06-09T13:09:27Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-09T13:09:27Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-06-09T13:23:55Z)
+- Intramuscular injection (Date: 2018-08-18T13:09:27Z)
+- Intramuscular injection (Date: 2018-11-17T13:09:27Z)
+- Intramuscular injection (Date: 2019-02-16T13:09:27Z)
+- Intramuscular injection (Date: 2019-05-18T13:09:27Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-29T13:09:27Z)
+- Depression screening (procedure) (Date: 2019-06-29T13:36:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-29T13:49:11Z)
+- Assessment of substance use (procedure) (Date: 2019-06-29T14:13:16Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-06-29T14:23:41Z)
+- Anticipatory guidance (procedure) (Date: 2019-06-29T14:44:46Z)
+- Intramuscular injection (Date: 2019-08-17T13:09:27Z)
+- Intramuscular injection (Date: 2019-11-16T13:09:27Z)
+- Intramuscular injection (Date: 2020-02-15T13:09:27Z)
+- Intramuscular injection (Date: 2020-05-16T13:09:27Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-04T13:09:27Z)
+- Depression screening (procedure) (Date: 2020-07-04T13:37:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-07-04T13:52:22Z)
+- Intramuscular injection (Date: 2020-08-15T13:09:27Z)
+- Intramuscular injection (Date: 2020-11-14T13:09:27Z)
+- Intramuscular injection (Date: 2021-02-13T13:09:27Z)
+- Intramuscular injection (Date: 2021-05-15T13:09:27Z)
+- Movement therapy (regime/therapy) (Date: 2021-06-24T13:09:27Z)
+- Movement therapy (regime/therapy) (Date: 2021-06-27T14:00:49Z)
+- Movement therapy (regime/therapy) (Date: 2021-06-30T14:50:11Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-03T15:48:15Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-06T16:42:54Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-09T17:36:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-10T13:09:27Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-10T13:09:27Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-12T18:26:31Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-15T19:16:04Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-10T14:01:20Z)
+- Depression screening (procedure) (Date: 2021-07-10T14:16:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-10T14:26:40Z)
+- Assessment of substance use (procedure) (Date: 2021-07-10T14:52:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-10T15:07:37Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-18T20:12:27Z)
+- Movement therapy (regime/therapy) (Date: 2021-07-21T21:06:25Z)
+- Intramuscular injection (Date: 2021-08-14T13:09:27Z)
+- Intramuscular injection (Date: 2021-11-13T13:09:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T13:09:27Z: Patient encounter procedure
+- 2021-08-27T13:09:27Z: Emergency room admission (procedure)
+- 2021-08-14T13:09:27Z: Patient encounter procedure
+- 2021-07-21T21:06:25Z: Patient encounter procedure (procedure)
+- 2021-07-18T20:12:27Z: Patient encounter procedure (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-21T22:02:12Z Pain severity - Reported: 1.4 {score}
+- 2021-07-18T21:06:25Z Pain severity - Reported: 4.6 {score}
+- 2021-07-15T20:12:27Z Pain severity - Reported: 1.6 {score}
+- 2021-07-12T19:16:04Z Pain severity - Reported: 6.2 {score}
+- 2021-07-10T15:34:53Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-07-10T14:52:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-10T14:16:21Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-07-10T14:01:20Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-07-10T14:01:20Z What is your current work situation?: Unemployed (finding) nan
+- 2021-07-10T14:01:20Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 24513 /a

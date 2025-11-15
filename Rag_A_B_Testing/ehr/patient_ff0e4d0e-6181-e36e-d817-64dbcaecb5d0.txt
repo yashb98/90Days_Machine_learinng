@@ -1,0 +1,66 @@
+== PATIENT RECORD: Domingo513 Bashirian201 (ID: ff0e4d0e-6181-e36e-d817-64dbcaecb5d0) ==
+
+== Demographics ==
+Patient ID: ff0e4d0e-6181-e36e-d817-64dbcaecb5d0
+Name: Domingo513 Bashirian201
+Gender: M
+Birthdate: 1994-08-12
+Address: 799 Labadie Orchard Apt 88
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Coronary Heart Disease
+- Acute viral pharyngitis (disorder)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2000-07-28T12:43:40Z)
+- Throat culture (procedure) (Date: 2000-08-13T11:43:40Z)
+- Medication Reconciliation (procedure) (Date: 2000-08-18T12:43:40Z)
+- Medication Reconciliation (procedure) (Date: 2001-08-03T12:43:40Z)
+- Medication Reconciliation (procedure) (Date: 2002-08-09T12:43:40Z)
+- Depression screening (procedure) (Date: 2006-09-01T12:43:40Z)
+- Medication Reconciliation (procedure) (Date: 2006-09-01T12:43:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2006-09-01T12:53:48Z)
+- Assessment of substance use (procedure) (Date: 2006-09-01T13:15:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2006-09-01T13:28:09Z)
+- Anticipatory guidance (procedure) (Date: 2006-09-01T13:56:31Z)
+- Depression screening (procedure) (Date: 2007-09-07T12:43:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2007-09-07T12:56:10Z)
+- Assessment of substance use (procedure) (Date: 2007-09-07T13:17:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2007-09-07T13:30:38Z)
+- Anticipatory guidance (procedure) (Date: 2007-09-07T13:41:00Z)
+- Echocardiography (procedure) (Date: 2008-04-04T12:43:40Z)
+- Percutaneous coronary intervention (Date: 2008-04-04T12:43:40Z)
+- Coronary artery bypass grafting (Date: 2008-04-04T12:43:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2008-04-11T12:43:40Z: Death Certification
+- 2008-04-04T12:43:40Z: Myocardial Infarction
+- 2007-09-07T12:43:40Z: Well child visit (procedure)
+- 2006-09-01T12:43:40Z: Well child visit (procedure)
+- 2005-08-26T12:43:40Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2008-04-11T12:43:40Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 2007-09-07T13:17:37Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2007-09-07T12:43:40Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2007-09-07T12:43:40Z Body Height: 154.6 cm
+- 2007-09-07T12:43:40Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2007-09-07T12:43:40Z Body Weight: 49.4 kg
+- 2007-09-07T12:43:40Z Body mass index (BMI) [Percentile] Per age and gender: 77.0 %
+- 2007-09-07T12:43:40Z Body Mass Index: 20.7 kg/m2
+- 2007-09-07T12:43:40Z Systolic Blood Pressure: 106.0 mm[Hg]
+- 2007-09-07T12:43:40Z Heart rate: 70.0 /min

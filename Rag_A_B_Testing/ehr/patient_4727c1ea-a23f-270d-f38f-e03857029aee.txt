@@ -1,0 +1,74 @@
+== PATIENT RECORD: Tristan353 Zulauf375 (ID: 4727c1ea-a23f-270d-f38f-e03857029aee) ==
+
+== Demographics ==
+Patient ID: 4727c1ea-a23f-270d-f38f-e03857029aee
+Name: Tristan353 Zulauf375
+Gender: M
+Birthdate: 1994-05-26
+Address: 1049 Dare Branch Apt 3
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Laceration of forearm
+- Not in labor force (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-19T15:07:28Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-19T16:00:23Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-19T16:21:20Z)
+- Depression screening (procedure) (Date: 2012-07-19T16:54:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-19T17:07:34Z)
+- Assessment of substance use (procedure) (Date: 2012-07-19T17:37:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-07-19T17:48:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-25T15:07:28Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-25T15:45:57Z)
+- Depression screening (procedure) (Date: 2013-07-25T16:09:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-25T16:20:13Z)
+- Suture open wound (Date: 2015-04-04T15:53:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-28T15:07:28Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-28T15:07:28Z)
+- Depression screening (procedure) (Date: 2016-07-28T15:57:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-28T16:08:22Z)
+- Assessment of substance use (procedure) (Date: 2016-07-28T16:33:52Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-28T16:46:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-02T15:07:28Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-02T15:07:28Z)
+- Assessment of substance use (procedure) (Date: 2017-11-02T15:43:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-02T15:56:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-01T15:07:28Z)
+- Depression screening (procedure) (Date: 2019-08-01T15:48:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-01T16:00:25Z)
+- Assessment of substance use (procedure) (Date: 2019-08-01T16:20:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-01T16:32:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2019-09-21T15:07:28Z: Encounter for symptom
+- 2019-08-01T15:07:28Z: General examination of patient (procedure)
+- 2017-11-02T15:07:28Z: Encounter for check up (procedure)
+- 2017-10-29T06:07:28Z: Encounter for symptom
+- 2016-07-28T15:07:28Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-26T15:07:28Z QOLS: 1.0 {score}
+- 2021-05-26T15:07:28Z DALY: 0.0 a
+- 2021-05-26T15:07:28Z QALY: 26.0 a
+- 2020-05-26T15:07:28Z QALY: 25.0 a
+- 2020-05-26T15:07:28Z QOLS: 1.0 {score}
+- 2020-05-26T15:07:28Z DALY: 0.0 a
+- 2019-08-01T16:57:00Z Total score [AUDIT-C]: 3.0 {score}
+- 2019-08-01T16:20:47Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-08-01T15:48:51Z What is your current work situation?: Full-time work nan
+- 2019-08-01T15:48:51Z What is your housing situation today?: I have housing nan

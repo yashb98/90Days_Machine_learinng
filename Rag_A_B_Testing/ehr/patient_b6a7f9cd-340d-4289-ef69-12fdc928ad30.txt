@@ -1,0 +1,132 @@
+== PATIENT RECORD: Temple691 Bruen238 (ID: b6a7f9cd-340d-4289-ef69-12fdc928ad30) ==
+
+== Demographics ==
+Patient ID: b6a7f9cd-340d-4289-ef69-12fdc928ad30
+Name: Temple691 Bruen238
+Gender: F
+Birthdate: 1912-10-07
+Address: 1081 Aufderhar Burg
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Anemia (disorder)
+- Hyperlipidemia
+- Osteoporosis (disorder)
+- Coronary Heart Disease
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Injury of tendon of the rotator cuff of shoulder
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- tramadol hydrochloride 50 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2006-06-12T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2006-06-12T20:50:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-06-12T21:07:27Z)
+- Depression screening (procedure) (Date: 2006-06-12T21:26:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-06-12T21:40:59Z)
+- Assessment of substance use (procedure) (Date: 2006-06-12T22:05:05Z)
+- Screening for drug abuse (procedure) (Date: 2006-06-12T22:16:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-06-18T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-06-18T20:25:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-06-23T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2008-06-23T20:51:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-06-23T21:07:32Z)
+- Depression screening (procedure) (Date: 2008-06-23T21:34:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-06-23T21:45:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2008-06-23T22:06:07Z)
+- Assessment of substance use (procedure) (Date: 2008-06-23T22:34:42Z)
+- Screening for drug abuse (procedure) (Date: 2008-06-23T22:45:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-06-29T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-06-29T20:39:17Z)
+- Depression screening (procedure) (Date: 2009-06-29T21:06:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-06-29T21:18:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-07-05T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-07-05T20:33:15Z)
+- Depression screening (procedure) (Date: 2010-07-05T20:51:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-07-05T21:05:43Z)
+- Assessment of substance use (procedure) (Date: 2010-07-05T21:35:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-07-05T21:48:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-07-11T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2011-07-11T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2011-07-11T20:29:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-07-11T20:46:16Z)
+- Depression screening (procedure) (Date: 2011-07-11T21:06:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-07-11T21:17:40Z)
+- Assessment of substance use (procedure) (Date: 2011-07-11T21:38:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-07-11T21:51:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-16T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-16T20:46:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-07-16T21:15:43Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-16T21:40:01Z)
+- Depression screening (procedure) (Date: 2012-07-16T22:12:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-16T22:25:09Z)
+- Assessment of substance use (procedure) (Date: 2012-07-16T22:54:32Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-16T23:07:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-22T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-22T19:51:58Z)
+- Depression screening (procedure) (Date: 2013-07-22T20:28:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-22T20:41:15Z)
+- Assessment of substance use (procedure) (Date: 2013-07-22T21:08:30Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-22T21:19:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-28T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-28T19:51:58Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-28T20:27:30Z)
+- Assessment of substance use (procedure) (Date: 2014-07-28T21:02:51Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-28T21:16:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-03T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-03T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-08-03T20:22:42Z)
+- Depression screening (procedure) (Date: 2015-08-03T20:50:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-03T21:01:46Z)
+- Assessment of substance use (procedure) (Date: 2015-08-03T21:22:15Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-03T21:33:46Z)
+- Echocardiography (procedure) (Date: 2016-03-21T19:51:58Z)
+- Percutaneous coronary intervention (Date: 2016-03-21T19:51:58Z)
+- Coronary artery bypass grafting (Date: 2016-03-21T19:51:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2016-03-28T19:51:58Z: Death Certification
+- 2016-03-21T19:51:58Z: Myocardial Infarction
+- 2016-02-13T19:51:58Z: Follow-up encounter
+- 2015-08-03T19:51:58Z: General examination of patient (procedure)
+- 2015-07-30T23:07:39Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2016-10-07T18:51:58Z QOLS: 1.0 {score}
+- 2016-10-07T18:51:58Z DALY: 1.8 a
+- 2016-10-07T18:51:58Z QALY: 101.2 a
+- 2016-03-28T19:51:58Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 2016-02-13T19:51:58Z Protein [Mass/volume] in Serum or Plasma: 62.9 g/dL
+- 2016-02-13T19:51:58Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 34.0 U/L
+- 2016-02-13T19:51:58Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 25.5 U/L
+- 2016-02-13T19:51:58Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 118.8 U/L
+- 2016-02-13T19:51:58Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- 2016-02-13T19:51:58Z Globulin [Mass/volume] in Serum by calculation: 2.1 g/L

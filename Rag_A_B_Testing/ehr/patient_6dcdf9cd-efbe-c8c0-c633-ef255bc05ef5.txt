@@ -1,0 +1,98 @@
+== PATIENT RECORD: Remedios388 Fahey393 (ID: 6dcdf9cd-efbe-c8c0-c633-ef255bc05ef5) ==
+
+== Demographics ==
+Patient ID: 6dcdf9cd-efbe-c8c0-c633-ef255bc05ef5
+Name: Remedios388 Fahey393
+Gender: F
+Birthdate: 1958-01-09
+Address: 888 Bradtke Gateway
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-27T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-27T10:36:25Z)
+- Depression screening (procedure) (Date: 2012-09-27T11:24:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-27T11:36:00Z)
+- Assessment of substance use (procedure) (Date: 2012-09-27T11:59:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-09-27T12:12:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-03T10:36:25Z)
+- Depression screening (procedure) (Date: 2013-10-03T11:28:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-03T11:42:56Z)
+- Assessment of substance use (procedure) (Date: 2013-10-03T12:03:27Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-03T12:18:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-09T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-09T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-09T11:18:11Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-09T11:45:52Z)
+- Depression screening (procedure) (Date: 2014-10-09T12:22:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-09T12:34:41Z)
+- Assessment of substance use (procedure) (Date: 2014-10-09T13:02:39Z)
+- Screening for drug abuse (procedure) (Date: 2014-10-09T13:16:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-15T10:36:25Z)
+- Assessment of substance use (procedure) (Date: 2015-10-15T11:16:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-15T11:30:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-20T10:36:25Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-20T11:28:07Z)
+- Depression screening (procedure) (Date: 2016-10-20T12:08:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-20T12:19:08Z)
+- Assessment of substance use (procedure) (Date: 2016-10-20T12:48:20Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-20T12:59:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-26T10:36:25Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-26T11:19:30Z)
+- Depression screening (procedure) (Date: 2017-10-26T11:51:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-26T12:06:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-01T10:36:25Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-01T11:12:41Z)
+- Assessment of substance use (procedure) (Date: 2018-11-01T11:45:01Z)
+- Screening for drug abuse (procedure) (Date: 2018-11-01T11:56:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-07T10:36:25Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-07T11:15:21Z)
+- Assessment of substance use (procedure) (Date: 2019-11-07T11:41:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-07T11:54:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-12T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-12T10:36:25Z)
+- Depression screening (procedure) (Date: 2020-11-12T11:17:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-12T11:31:45Z)
+- Assessment of substance use (procedure) (Date: 2020-11-12T11:56:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-11-12T12:11:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-18T10:36:25Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-18T10:36:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-18T10:36:25Z: General examination of patient (procedure)
+- 2020-11-12T10:36:25Z: General examination of patient (procedure)
+- 2019-11-07T10:36:25Z: General examination of patient (procedure)
+- 2018-11-01T10:36:25Z: General examination of patient (procedure)
+- 2017-10-26T10:36:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-18T10:36:25Z Triglycerides: 145.7 mg/dL
+- 2021-11-18T10:36:25Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-18T10:36:25Z Body Height: 155.4 cm
+- 2021-11-18T10:36:25Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-11-18T10:36:25Z Body Weight: 72.1 kg
+- 2021-11-18T10:36:25Z Body Mass Index: 29.9 kg/m2
+- 2021-11-18T10:36:25Z Diastolic Blood Pressure: 72.0 mm[Hg]
+- 2021-11-18T10:36:25Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2021-11-18T10:36:25Z Heart rate: 95.0 /min
+- 2021-11-18T10:36:25Z Respiratory rate: 13.0 /min

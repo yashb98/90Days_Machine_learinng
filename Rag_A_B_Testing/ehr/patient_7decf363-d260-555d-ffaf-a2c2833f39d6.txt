@@ -1,0 +1,150 @@
+== PATIENT RECORD: Emogene884 Schroeder447 (ID: 7decf363-d260-555d-ffaf-a2c2833f39d6) ==
+
+== Demographics ==
+Patient ID: 7decf363-d260-555d-ffaf-a2c2833f39d6
+Name: Emogene884 Schroeder447
+Gender: F
+Birthdate: 1988-05-15
+Address: 291 Hansen Branch
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+- Normal pregnancy
+- Chronic neck pain (finding)
+- Misuses drugs (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-19T15:50:43Z)
+- Standard pregnancy test (Date: 2012-09-16T15:50:43Z)
+- Ultrasound scan for fetal viability (Date: 2012-09-16T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2012-09-16T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2012-09-16T15:50:43Z)
+- Blood typing  RH typing (Date: 2012-09-16T15:50:43Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-09-16T15:50:43Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-09-16T15:50:43Z)
+- Human immunodeficiency virus antigen test (Date: 2012-09-16T15:50:43Z)
+- Chlamydia antigen test (Date: 2012-09-16T15:50:43Z)
+- Gonorrhea infection test (Date: 2012-09-16T15:50:43Z)
+- Syphilis infection test (Date: 2012-09-16T15:50:43Z)
+- Urine culture (Date: 2012-09-16T15:50:43Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-09-16T15:50:43Z)
+- Urine screening test for diabetes (Date: 2012-09-16T15:50:43Z)
+- Hepatitis C antibody test (Date: 2012-09-16T15:50:43Z)
+- Rubella screening (Date: 2012-09-16T15:50:43Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-09-16T15:50:43Z)
+- Skin test for tuberculosis (Date: 2012-09-16T15:50:43Z)
+- Urine protein test (Date: 2012-09-16T15:50:43Z)
+- Physical examination of mother (Date: 2012-09-16T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2012-10-14T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2012-10-14T15:50:43Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-10-14T15:50:43Z)
+- Fetal anatomy study (Date: 2012-11-11T15:50:43Z)
+- Alpha-fetoprotein test (Date: 2012-11-11T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2012-11-11T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2012-11-11T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2012-12-09T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2012-12-09T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2013-01-06T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2013-01-06T15:50:43Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-02-03T15:50:43Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2013-02-03T15:50:43Z)
+- Urine screening for glucose (Date: 2013-02-03T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2013-02-03T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2013-02-03T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2013-03-03T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2013-03-03T15:50:43Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-03-31T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2013-03-31T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2013-03-31T15:50:43Z)
+- Evaluation of uterine fundal height (Date: 2013-04-14T15:50:43Z)
+- Auscultation of the fetal heart (Date: 2013-04-14T15:50:43Z)
+- Medical induction of labor (Date: 2013-04-21T15:50:43Z)
+- Childbirth (Date: 2013-04-21T15:50:43Z)
+- Physical examination following birth (Date: 2013-06-02T15:50:43Z)
+- Depression screening (Date: 2013-06-02T15:50:43Z)
+- Bilateral tubal ligation (Date: 2013-06-20T15:50:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-08-25T15:50:43Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-25T15:50:43Z)
+- Depression screening (procedure) (Date: 2013-08-25T16:27:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-25T16:41:20Z)
+- Assessment of substance use (procedure) (Date: 2013-08-25T17:06:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-08-25T17:17:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-31T15:50:43Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-31T15:50:43Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-31T16:44:22Z)
+- Assessment of substance use (procedure) (Date: 2014-08-31T17:05:23Z)
+- Screening for drug abuse (procedure) (Date: 2014-08-31T17:19:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-06T15:50:43Z)
+- Depression screening (procedure) (Date: 2015-09-06T16:32:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-06T16:44:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-11T15:50:43Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-11T15:50:43Z)
+- Screening for domestic abuse (procedure) (Date: 2016-09-11T16:23:55Z)
+- Depression screening (procedure) (Date: 2016-09-11T16:54:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-11T17:07:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-17T15:50:43Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-17T15:50:43Z)
+- Depression screening (procedure) (Date: 2017-09-17T16:29:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-17T16:44:13Z)
+- Assessment of substance use (procedure) (Date: 2017-09-17T17:12:59Z)
+- Screening for drug abuse (procedure) (Date: 2017-09-17T17:27:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-23T15:50:43Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-23T16:47:40Z)
+- Screening for domestic abuse (procedure) (Date: 2018-09-23T17:13:04Z)
+- Depression screening (procedure) (Date: 2018-09-23T17:40:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-23T17:55:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-29T15:50:43Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-29T15:50:43Z)
+- Depression screening (procedure) (Date: 2019-09-29T16:25:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-29T16:40:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-04T15:50:43Z)
+- Screening for domestic abuse (procedure) (Date: 2020-10-04T16:48:04Z)
+- Depression screening (procedure) (Date: 2020-10-04T17:32:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-04T17:43:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-10T15:50:43Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-10T15:50:43Z)
+- Screening for domestic abuse (procedure) (Date: 2021-10-10T16:37:20Z)
+- Assessment of substance use (procedure) (Date: 2021-10-10T17:22:06Z)
+- Screening for drug abuse (procedure) (Date: 2021-10-10T17:33:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-10T15:50:43Z: General examination of patient (procedure)
+- 2021-09-05T15:50:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-15T15:50:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-04T15:50:43Z: General examination of patient (procedure)
+- 2019-09-29T15:50:43Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T17:58:43Z Total score [DAST-10]: 1.0 {score}
+- 2021-10-10T17:22:06Z Total score [HARK]: 0.0 {score}
+- 2021-10-10T16:37:20Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-10-10T16:37:20Z What is your main insurance?: Private insurance nan
+- 2021-10-10T16:37:20Z What is your housing situation today?: I have housing nan
+- 2021-10-10T16:37:20Z Are you worried about losing your housing?: No nan
+- 2021-10-10T16:37:20Z What address do you live at?: 291 Hansen Branch nan
+- 2021-10-10T16:37:20Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-10-10T16:37:20Z What is your current work situation?: Full-time work nan
+- 2021-10-10T16:37:20Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 95270 /a

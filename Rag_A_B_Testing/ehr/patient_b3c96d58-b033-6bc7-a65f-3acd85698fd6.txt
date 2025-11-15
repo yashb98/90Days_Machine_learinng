@@ -1,0 +1,41 @@
+== PATIENT RECORD: Raymonde315 Marvin195 (ID: b3c96d58-b033-6bc7-a65f-3acd85698fd6) ==
+
+== Demographics ==
+Patient ID: b3c96d58-b033-6bc7-a65f-3acd85698fd6
+Name: Raymonde315 Marvin195
+Gender: F
+Birthdate: 2021-05-07
+Address: 991 Boyle Forge Apt 95
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-06-11T16:07:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-15T16:07:08Z: Well child visit (procedure)
+- 2021-08-13T16:07:08Z: Well child visit (procedure)
+- 2021-06-11T16:07:08Z: Well child visit (procedure)
+- 2021-06-06T16:07:08Z: Encounter for symptom
+- 2021-05-07T16:07:08Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-15T16:07:08Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-15T16:07:08Z Respiratory rate: 13.0 /min
+- 2021-10-15T16:07:08Z Heart rate: 93.0 /min
+- 2021-10-15T16:07:08Z Systolic Blood Pressure: 125.0 mm[Hg]
+- 2021-10-15T16:07:08Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-10-15T16:07:08Z Head Occipital-frontal circumference: 41.0 cm
+- 2021-10-15T16:07:08Z Weight-for-length Per age and sex: 46.5 %
+- 2021-10-15T16:07:08Z Body Weight: 6.4 kg
+- 2021-10-15T16:07:08Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-10-15T16:07:08Z Body Height: 62.2 cm

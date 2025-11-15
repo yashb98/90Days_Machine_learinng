@@ -1,0 +1,71 @@
+== PATIENT RECORD: Thi53 Wunsch504 (ID: c1f1fcaa-82fd-d5b7-3544-c8f9708b06a8) ==
+
+== Demographics ==
+Patient ID: c1f1fcaa-82fd-d5b7-3544-c8f9708b06a8
+Name: Thi53 Wunsch504
+Gender: F
+Birthdate: 2005-07-04
+Address: 972 Tillman Branch Suite 48
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Laceration of forearm
+- Viral sinusitis (disorder)
+- Fracture of ankle
+- Sprain of ankle
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2013-06-24T06:20:52Z)
+- Suture open wound (Date: 2016-02-27T08:20:52Z)
+- Injection of tetanus antitoxin (Date: 2016-02-27T08:38:46Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-18T08:20:52Z)
+- Ankle X-ray (Date: 2017-02-22T08:52:29Z)
+- Bone immobilization (Date: 2017-02-22T08:52:29Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-24T08:20:52Z)
+- Depression screening (procedure) (Date: 2017-07-24T08:39:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-07-24T08:49:54Z)
+- Assessment of substance use (procedure) (Date: 2017-07-24T09:16:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-07-24T09:27:27Z)
+- Anticipatory guidance (procedure) (Date: 2017-07-24T09:54:03Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-30T08:20:52Z)
+- Assessment of substance use (procedure) (Date: 2019-08-05T08:20:52Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-05T08:33:14Z)
+- Anticipatory guidance (procedure) (Date: 2019-08-05T08:51:59Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-10T08:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-10T08:20:52Z)
+- Depression screening (procedure) (Date: 2020-08-10T08:47:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-10T09:01:44Z)
+- Intramuscular injection (Date: 2021-06-23T08:20:52Z)
+- Depression screening (procedure) (Date: 2021-08-16T08:20:52Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-16T08:32:03Z)
+- Intramuscular injection (Date: 2021-10-04T08:20:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-04T08:20:52Z: Patient encounter procedure
+- 2021-08-16T08:20:52Z: Well child visit (procedure)
+- 2021-06-23T08:20:52Z: Consultation for treatment
+- 2020-08-10T08:20:52Z: Well child visit (procedure)
+- 2020-02-06T09:25:31Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-16T08:56:02Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2021-08-16T08:20:52Z Body Height: 171.7 cm
+- 2021-08-16T08:20:52Z Platelet mean volume [Entitic volume] in Blood by Automated count: 11.7 fL
+- 2021-08-16T08:20:52Z Hemoglobin [Mass/volume] in Blood: 12.7 g/dL
+- 2021-08-16T08:20:52Z Hematocrit [Volume Fraction] of Blood by Automated count: 38.2 %
+- 2021-08-16T08:20:52Z MCV [Entitic volume] by Automated count: 91.2 fL
+- 2021-08-16T08:20:52Z MCH [Entitic mass] by Automated count: 31.9 pg
+- 2021-08-16T08:20:52Z MCHC [Mass/volume] by Automated count: 33.1 g/dL
+- 2021-08-16T08:20:52Z Erythrocyte distribution width [Entitic volume] by Automated count: 41.9 fL
+- 2021-08-16T08:20:52Z Platelets [#/volume] in Blood by Automated count: 276.9 10*3/uL

@@ -1,0 +1,50 @@
+== PATIENT RECORD: Waldo53 Nienow652 (ID: 3f9712f8-51e2-02e9-3ebc-0a72b0f9cac0) ==
+
+== Demographics ==
+Patient ID: 3f9712f8-51e2-02e9-3ebc-0a72b0f9cac0
+Name: Waldo53 Nienow652
+Gender: M
+Birthdate: 2014-01-19
+Address: 560 Bednar Mill Unit 33
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Otitis media
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-02-23T10:33:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-29T10:33:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-27T10:33:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-25T10:33:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-24T10:33:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-05T10:33:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-21T09:33:38Z: Encounter for symptom
+- 2021-01-10T10:33:38Z: Well child visit (procedure)
+- 2020-01-05T10:33:38Z: Well child visit (procedure)
+- 2019-09-20T10:33:38Z: Encounter for symptom
+- 2018-12-30T10:33:38Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-19T10:33:38Z QOLS: 1.0 {score}
+- 2021-01-19T10:33:38Z DALY: 0.0 a
+- 2021-01-19T10:33:38Z QALY: 6.0 a
+- 2021-01-10T10:33:38Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-01-10T10:33:38Z Body Height: 125.9 cm
+- 2021-01-10T10:33:38Z Body Weight: 27.3 kg
+- 2021-01-10T10:33:38Z Body Mass Index: 17.2 kg/m2
+- 2021-01-10T10:33:38Z Body mass index (BMI) [Percentile] Per age and gender: 83.6 %
+- 2021-01-10T10:33:38Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-01-10T10:33:38Z Systolic Blood Pressure: 134.0 mm[Hg]

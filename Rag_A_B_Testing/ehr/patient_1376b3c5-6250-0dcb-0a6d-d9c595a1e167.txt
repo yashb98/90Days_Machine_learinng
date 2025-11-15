@@ -1,0 +1,77 @@
+== PATIENT RECORD: Keneth579 Kozey370 (ID: 1376b3c5-6250-0dcb-0a6d-d9c595a1e167) ==
+
+== Demographics ==
+Patient ID: 1376b3c5-6250-0dcb-0a6d-d9c595a1e167
+Name: Keneth579 Kozey370
+Gender: M
+Birthdate: 1987-05-29
+Address: 811 Ferry Route Unit 47
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+- Body mass index 30+ - obesity (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-03T20:10:09Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-03T20:53:29Z)
+- Depression screening (procedure) (Date: 2012-08-03T21:13:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-03T21:28:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-08-03T21:52:27Z)
+- Assessment of substance use (procedure) (Date: 2012-08-03T22:18:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-08-03T22:29:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-27T20:10:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-27T20:56:28Z)
+- Depression screening (procedure) (Date: 2013-12-27T21:19:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-27T21:32:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-07T20:10:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-07T20:10:09Z)
+- Depression screening (procedure) (Date: 2015-08-07T20:41:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-07T20:54:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-10T20:10:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-10T20:10:09Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-10T20:46:42Z)
+- Depression screening (procedure) (Date: 2018-08-10T21:07:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-10T21:18:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-10T21:44:29Z)
+- Assessment of substance use (procedure) (Date: 2018-08-10T22:11:54Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-10T22:23:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-13T20:10:09Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-13T20:58:10Z)
+- Depression screening (procedure) (Date: 2021-08-13T21:22:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-13T21:36:39Z)
+- Assessment of substance use (procedure) (Date: 2021-08-13T22:06:12Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-13T22:16:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-13T20:10:09Z: General examination of patient (procedure)
+- 2021-07-02T20:10:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-11T20:10:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2018-08-10T20:10:09Z: General examination of patient (procedure)
+- 2015-08-07T20:10:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-13T22:39:01Z Total score [DAST-10]: 1.0 {score}
+- 2021-08-13T22:06:12Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-13T21:22:55Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 13.0 {score}
+- 2021-08-13T20:58:10Z What is your main insurance?: Private insurance nan
+- 2021-08-13T20:58:10Z What is your housing situation today?: I choose not to answer this question nan
+- 2021-08-13T20:58:10Z What address do you live at?: 811 Ferry Route Unit 47 nan
+- 2021-08-13T20:58:10Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-08-13T20:58:10Z What is your current work situation?: Full-time work nan
+- 2021-08-13T20:58:10Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 127616 /a
+- 2021-08-13T20:58:10Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

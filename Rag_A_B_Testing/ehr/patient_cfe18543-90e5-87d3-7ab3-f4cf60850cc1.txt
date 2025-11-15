@@ -1,0 +1,122 @@
+== PATIENT RECORD: Esteban536 Moore224 (ID: cfe18543-90e5-87d3-7ab3-f4cf60850cc1) ==
+
+== Demographics ==
+Patient ID: cfe18543-90e5-87d3-7ab3-f4cf60850cc1
+Name: Esteban536 Moore224
+Gender: M
+Birthdate: 1946-07-18
+Address: 316 Veum Crossroad Unit 31
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Osteoarthritis of knee
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Chronic neck pain (finding)
+- Viral sinusitis (disorder)
+- First degree burn
+- Victim of intimate partner abuse (finding)
+- Coronary Heart Disease
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-19T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-19T03:25:54Z)
+- Depression screening (procedure) (Date: 2012-10-19T03:45:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-19T03:55:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-25T02:53:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-10-25T03:41:02Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-25T04:03:31Z)
+- Assessment of substance use (procedure) (Date: 2013-10-25T04:43:48Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-25T04:58:27Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-05T02:53:25Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T03:41:15Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T04:38:59Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T05:32:48Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T06:25:18Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T07:23:42Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-23T08:22:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-26T09:21:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-01T10:14:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-04T11:05:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-31T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-31T02:53:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-10-31T03:51:13Z)
+- Depression screening (procedure) (Date: 2014-10-31T04:14:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-31T04:25:29Z)
+- Assessment of substance use (procedure) (Date: 2014-10-31T04:48:29Z)
+- Screening for drug abuse (procedure) (Date: 2014-10-31T05:01:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-06T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-06T03:34:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-11-06T03:55:03Z)
+- Depression screening (procedure) (Date: 2015-11-06T04:12:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-06T04:23:45Z)
+- Assessment of substance use (procedure) (Date: 2015-11-06T04:51:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-06T05:02:34Z)
+- Colonoscopy (Date: 2016-07-18T05:09:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-11T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-11T02:53:25Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-11T03:37:54Z)
+- Depression screening (procedure) (Date: 2016-11-11T04:13:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-11T04:25:29Z)
+- Assessment of substance use (procedure) (Date: 2016-11-11T04:46:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-11T04:57:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-17T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-17T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-17T03:44:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-11-17T04:04:15Z)
+- Assessment of substance use (procedure) (Date: 2017-11-17T04:33:38Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-17T04:44:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-23T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-23T03:41:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-11-23T04:03:12Z)
+- Depression screening (procedure) (Date: 2018-11-23T04:28:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-23T04:41:57Z)
+- Assessment of substance use (procedure) (Date: 2018-11-23T05:05:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-23T05:17:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-29T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-29T02:53:25Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-29T03:42:12Z)
+- Depression screening (procedure) (Date: 2019-11-29T04:12:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-29T04:23:28Z)
+- Assessment of substance use (procedure) (Date: 2019-11-29T04:51:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-29T05:05:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-04T02:53:25Z)
+- Colonoscopy (Date: 2021-07-18T05:41:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-01T06:53:25Z: Encounter for symptom
+- 2021-08-27T02:53:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-30T02:53:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-18T05:41:47Z: Encounter for 'check-up'
+- 2020-12-04T02:53:25Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-19T02:53:25Z QOLS: 1.0 {score}
+- 2021-07-19T02:53:25Z DALY: 1.7 a
+- 2021-07-19T02:53:25Z QALY: 72.3 a
+- 2020-12-04T03:38:56Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan
+- 2020-12-04T03:38:56Z Are you worried about losing your housing?: No nan
+- 2020-12-04T03:38:56Z What address do you live at?: 316 Veum Crossroad Unit 31 nan
+- 2020-12-04T03:38:56Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-12-04T03:38:56Z What is your current work situation?: Full-time work nan
+- 2020-12-04T03:38:56Z What is your main insurance?: Medicare nan
+- 2020-12-04T03:38:56Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 6093 /a

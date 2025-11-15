@@ -1,0 +1,68 @@
+== PATIENT RECORD: Jonathon205 Rice937 (ID: 5e2cd800-901b-55d3-edf4-ab6e3c7524ff) ==
+
+== Demographics ==
+Patient ID: 5e2cd800-901b-55d3-edf4-ab6e3c7524ff
+Name: Jonathon205 Rice937
+Gender: M
+Birthdate: 1983-03-13
+Address: 856 Corkery Ferry Apt 50
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Chronic sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-05-25T15:06:38Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-25T15:39:55Z)
+- Depression screening (procedure) (Date: 2014-05-25T16:02:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-25T16:16:37Z)
+- Assessment of substance use (procedure) (Date: 2014-05-25T16:41:57Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-25T16:52:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-28T15:06:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-28T15:06:38Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-28T15:46:52Z)
+- Depression screening (procedure) (Date: 2017-05-28T16:02:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-28T16:14:22Z)
+- Assessment of substance use (procedure) (Date: 2017-05-28T16:36:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-28T16:48:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-31T15:06:38Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-31T15:53:57Z)
+- Depression screening (procedure) (Date: 2020-05-31T16:19:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-31T16:30:45Z)
+- Throat culture (procedure) (Date: 2020-11-12T12:06:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-04T15:06:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-14T15:06:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-12T12:06:38Z: Encounter for symptom
+- 2020-05-31T15:06:38Z: General examination of patient (procedure)
+- 2017-06-22T15:06:38Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-03-13T15:06:38Z QOLS: 1.0 {score}
+- 2021-03-13T15:06:38Z DALY: 0.1 a
+- 2021-03-13T15:06:38Z QALY: 36.9 a
+- 2020-11-12T12:06:38Z Body temperature: 38.0 Cel
+- 2020-05-31T16:55:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-05-31T16:19:50Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2020-05-31T15:53:57Z What is your main insurance?: Private insurance nan
+- 2020-05-31T15:53:57Z Are you worried about losing your housing?: No nan
+- 2020-05-31T15:53:57Z What address do you live at?: 856 Corkery Ferry Apt 50 nan
+- 2020-05-31T15:53:57Z What is the highest level of school that you have finished?: I choose not to answer this question nan

@@ -1,0 +1,114 @@
+== PATIENT RECORD: Shena75 Larkin917 (ID: 1094e290-28ca-61c8-f170-59648b11b32e) ==
+
+== Demographics ==
+Patient ID: 1094e290-28ca-61c8-f170-59648b11b32e
+Name: Shena75 Larkin917
+Gender: F
+Birthdate: 1957-10-24
+Address: 647 Schimmel Boulevard Suite 10
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Polyp of colon
+- Whiplash injury to neck
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Sprain of wrist
+- Primary malignant neoplasm of colon
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Colonoscopy (Date: 2012-10-24T11:01:16Z)
+- Screening for occult blood in feces (procedure) (Date: 2012-10-24T11:38:53Z)
+- Rectal polypectomy (Date: 2012-10-24T11:38:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-22T10:18:38Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-22T11:09:44Z)
+- Depression screening (procedure) (Date: 2012-11-22T11:35:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-22T11:46:57Z)
+- Assessment of substance use (procedure) (Date: 2012-11-22T12:07:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-22T12:22:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-28T10:18:38Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-28T10:58:53Z)
+- Colonoscopy (Date: 2014-01-13T11:38:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-04T10:18:38Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-04T11:09:04Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-04T11:33:18Z)
+- Depression screening (procedure) (Date: 2014-12-04T12:11:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-04T12:25:46Z)
+- Assessment of substance use (procedure) (Date: 2014-12-04T12:51:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-12-04T13:04:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-10T10:18:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-10T10:18:38Z)
+- Depression screening (procedure) (Date: 2015-12-10T11:06:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-10T11:18:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-19T10:18:38Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-19T10:51:19Z)
+- Depression screening (procedure) (Date: 2016-05-19T11:12:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-19T11:22:59Z)
+- Assessment of substance use (procedure) (Date: 2016-05-19T11:51:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-19T12:05:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-15T10:18:38Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-15T10:18:38Z)
+- Screening for domestic abuse (procedure) (Date: 2016-12-15T11:06:30Z)
+- Depression screening (procedure) (Date: 2016-12-15T11:36:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-15T11:47:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-21T10:18:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-21T10:18:38Z)
+- Screening for domestic abuse (procedure) (Date: 2017-12-21T11:07:07Z)
+- Depression screening (procedure) (Date: 2017-12-21T11:47:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-21T11:59:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-12-21T12:24:49Z)
+- Assessment of substance use (procedure) (Date: 2017-12-21T12:44:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-21T12:55:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-27T10:18:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-27T10:18:38Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-27T11:16:42Z)
+- Depression screening (procedure) (Date: 2018-12-27T11:43:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-27T11:56:58Z)
+- Assessment of substance use (procedure) (Date: 2018-12-27T12:18:35Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-27T12:32:55Z)
+- Colonoscopy (Date: 2019-01-13T12:10:35Z)
+- Screening for occult blood in feces (procedure) (Date: 2019-01-13T12:49:47Z)
+- Rectal polypectomy (Date: 2019-01-13T12:49:47Z)
+- Biopsy of colon (Date: 2019-01-13T12:49:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-02T10:18:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-02T10:18:38Z)
+- Depression screening (procedure) (Date: 2020-01-02T11:02:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-02T11:13:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-07T10:18:38Z)
+- Screening for domestic abuse (procedure) (Date: 2021-01-07T10:56:07Z)
+- Assessment of substance use (procedure) (Date: 2021-01-07T11:22:37Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-07T11:34:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-19T10:18:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-29T10:18:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-07T10:18:38Z: General examination of patient (procedure)
+- 2020-09-13T03:49:47Z: Encounter for 'check-up'
+- 2020-01-02T10:18:38Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T10:18:38Z QOLS: 1.0 {score}
+- 2021-10-24T10:18:38Z QALY: 62.8 a
+- 2021-10-24T10:18:38Z DALY: 0.2 a
+- 2021-01-07T11:54:52Z Total score [DAST-10]: 1.0 {score}
+- 2021-01-07T11:22:37Z Total score [HARK]: 0.0 {score}
+- 2021-01-07T10:56:07Z What is your housing situation today?: I have housing nan
+- 2021-01-07T10:56:07Z Are you worried about losing your housing?: No nan
+- 2021-01-07T10:56:07Z What address do you live at?: 647 Schimmel Boulevard Suite 10 nan
+- 2021-01-07T10:56:07Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-01-07T10:56:07Z What is your current work situation?: Full-time work nan

@@ -1,0 +1,274 @@
+== PATIENT RECORD: Katharyn928 Toy286 (ID: 03e502b6-b810-06c1-7d65-83db077ed3ee) ==
+
+== Demographics ==
+Patient ID: 03e502b6-b810-06c1-7d65-83db077ed3ee
+Name: Katharyn928 Toy286
+Gender: F
+Birthdate: 1967-10-06
+Address: 922 Spinka Fort
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Penicillin V
+- Soya bean (substance)
+- Eggs (edible) (substance)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Unemployed (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Blighted ovum
+- Localized  primary osteoarthritis of the hand
+- Fracture subluxation of wrist
+- Suspected lung cancer (situation)
+- Non-small cell lung cancer (disorder)
+- Anemia (disorder)
+- Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Malignant neoplasm of breast (disorder)
+- Concussion injury of brain
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- Simvastatin 10 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Jolivette 28 Day Pack
+- Naproxen sodium 220 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Cisplatin 50 MG Injection
+- PACLitaxel 100 MG Injection
+- 100 ML Epirubicin Hydrochloride 2 MG/ML Injection
+- anastrozole 1 MG Oral Tablet
+- palbociclib 100 MG Oral Capsule
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2012-01-21T02:56:17Z)
+- Intramuscular injection (Date: 2012-04-21T02:56:17Z)
+- Intramuscular injection (Date: 2012-07-21T02:56:17Z)
+- Intramuscular injection (Date: 2012-10-20T02:56:17Z)
+- Intramuscular injection (Date: 2013-01-19T02:56:17Z)
+- Intramuscular injection (Date: 2013-04-20T02:56:17Z)
+- Intramuscular injection (Date: 2013-07-20T02:56:17Z)
+- Intramuscular injection (Date: 2013-10-19T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-02T02:56:17Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-02T02:56:17Z)
+- Depression screening (procedure) (Date: 2013-11-02T03:39:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-02T03:54:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-11-02T04:23:15Z)
+- Assessment of substance use (procedure) (Date: 2013-11-02T04:49:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-11-02T05:04:28Z)
+- Standard pregnancy test (Date: 2014-02-22T02:56:17Z)
+- Ultrasound scan for fetal viability (Date: 2014-02-22T02:56:17Z)
+- RhD passive immunization (Date: 2014-03-07T02:56:17Z)
+- Physical examination (Date: 2014-03-07T02:56:17Z)
+- Depression screening (Date: 2014-03-07T02:56:17Z)
+- X-ray or wrist (Date: 2015-04-03T02:56:17Z)
+- Bone immobilization (Date: 2015-04-03T02:56:17Z)
+- Standard pregnancy test (Date: 2015-05-09T02:56:17Z)
+- Ultrasound scan for fetal viability (Date: 2015-05-09T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2015-05-09T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2015-05-09T02:56:17Z)
+- Blood typing  RH typing (Date: 2015-05-09T02:56:17Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-05-09T02:56:17Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-05-09T02:56:17Z)
+- Human immunodeficiency virus antigen test (Date: 2015-05-09T02:56:17Z)
+- Chlamydia antigen test (Date: 2015-05-09T02:56:17Z)
+- Gonorrhea infection test (Date: 2015-05-09T02:56:17Z)
+- Syphilis infection test (Date: 2015-05-09T02:56:17Z)
+- Urine culture (Date: 2015-05-09T02:56:17Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-05-09T02:56:17Z)
+- Urine screening test for diabetes (Date: 2015-05-09T02:56:17Z)
+- Hepatitis C antibody test (Date: 2015-05-09T02:56:17Z)
+- Rubella screening (Date: 2015-05-09T02:56:17Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-05-09T02:56:17Z)
+- Skin test for tuberculosis (Date: 2015-05-09T02:56:17Z)
+- Urine protein test (Date: 2015-05-09T02:56:17Z)
+- Physical examination of mother (Date: 2015-05-09T02:56:17Z)
+- Evaluation of uterine fundal height (Date: 2015-06-06T02:56:17Z)
+- Auscultation of the fetal heart (Date: 2015-06-06T02:56:17Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-06-06T02:56:17Z)
+- RhD passive immunization (Date: 2015-07-18T02:56:17Z)
+- Physical examination (Date: 2015-07-18T02:56:17Z)
+- Depression screening (Date: 2015-07-18T02:56:17Z)
+- Insertion of subcutaneous contraceptive (Date: 2015-07-18T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-07T02:56:17Z)
+- Depression screening (procedure) (Date: 2015-11-07T03:27:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-07T03:38:23Z)
+- Assessment of substance use (procedure) (Date: 2015-11-07T04:08:16Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-07T04:21:56Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-07-12T03:22:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-07T02:56:17Z)
+- Colonoscopy (Date: 2017-10-07T02:56:17Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-07T02:56:17Z)
+- Depression screening (procedure) (Date: 2017-10-07T03:37:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-07T03:51:35Z)
+- Removal of subcutaneous contraceptive (Date: 2018-07-14T02:56:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-13T02:56:17Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-13T02:56:17Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-13T03:44:33Z)
+- Depression screening (procedure) (Date: 2018-10-13T04:08:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-13T04:19:30Z)
+- Assessment of substance use (procedure) (Date: 2018-10-13T04:46:36Z)
+- Screening for drug abuse (procedure) (Date: 2018-10-13T04:57:57Z)
+- Plain chest X-ray (procedure) (Date: 2019-05-04T02:56:17Z)
+- Computed tomography of chest and abdomen (Date: 2019-05-09T15:14:38Z)
+- Fine needle aspiration biopsy of lung (procedure) (Date: 2019-05-15T13:04:15Z)
+- Peripheral blood smear interpretation (Date: 2019-05-15T13:04:15Z)
+- Review of systems (procedure) (Date: 2019-05-15T13:34:15Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-15T13:51:57Z)
+- Brief general examination (procedure) (Date: 2019-05-15T14:03:02Z)
+- Magnetic resonance imaging for measurement of brain volume (procedure) (Date: 2019-05-16T16:20:30Z)
+- Hearing examination (procedure) (Date: 2019-05-16T17:30:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-05-16T18:00:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-05-16T19:29:07Z)
+- Hearing examination (procedure) (Date: 2019-06-16T11:29:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-06-16T11:59:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-06-16T12:24:07Z)
+- Hearing examination (procedure) (Date: 2019-07-21T08:24:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-07-21T08:54:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-07-21T08:57:07Z)
+- Hearing examination (procedure) (Date: 2019-08-23T12:57:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-08-23T13:27:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-08-23T15:45:07Z)
+- Hearing examination (procedure) (Date: 2019-09-21T22:45:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-09-21T23:15:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-09-21T23:52:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-19T02:56:17Z)
+- Depression screening (procedure) (Date: 2019-10-19T03:41:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-19T03:55:00Z)
+- Assessment of substance use (procedure) (Date: 2019-10-19T04:24:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-19T04:38:43Z)
+- Hearing examination (procedure) (Date: 2019-10-25T18:52:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-10-25T19:22:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-10-25T19:43:07Z)
+- Hearing examination (procedure) (Date: 2019-11-23T17:43:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-11-23T18:13:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-11-23T20:47:07Z)
+- Hearing examination (procedure) (Date: 2019-12-25T06:47:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2019-12-25T07:17:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2019-12-25T10:05:07Z)
+- Hearing examination (procedure) (Date: 2020-01-25T05:05:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-01-25T05:35:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-01-25T05:58:07Z)
+- Hearing examination (procedure) (Date: 2020-02-27T00:58:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-02-27T01:28:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-02-27T03:55:07Z)
+- Hearing examination (procedure) (Date: 2020-03-26T15:55:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-03-26T16:25:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-03-26T17:04:07Z)
+- Hearing examination (procedure) (Date: 2020-04-28T02:04:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-04-28T02:34:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-04-28T06:06:07Z)
+- Hearing examination (procedure) (Date: 2020-05-26T07:06:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-05-26T07:36:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-05-26T09:13:07Z)
+- Hearing examination (procedure) (Date: 2020-06-29T12:13:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-06-29T12:43:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-06-29T15:19:07Z)
+- Screening mammography (procedure) (Date: 2020-07-01T02:56:17Z)
+- Ultrasonography of bilateral breasts (procedure) (Date: 2020-07-01T03:14:58Z)
+- Biopsy of breast (procedure) (Date: 2020-07-01T03:40:05Z)
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) (Date: 2020-07-01T04:01:29Z)
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) (Date: 2020-07-02T22:01:29Z)
+- Excision of axillary lymph node (procedure) (Date: 2020-07-09T07:28:29Z)
+- Excision of breast tissue (procedure) (Date: 2020-07-09T08:09:46Z)
+- Chemotherapy (procedure) (Date: 2020-07-15T05:35:46Z)
+- Hearing examination (procedure) (Date: 2020-08-01T08:19:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-08-01T08:49:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-08-01T11:48:07Z)
+- Chemotherapy (procedure) (Date: 2020-08-04T01:18:46Z)
+- Chemotherapy (procedure) (Date: 2020-08-23T19:17:46Z)
+- Hearing examination (procedure) (Date: 2020-09-03T08:48:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-09-03T09:18:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-09-03T09:30:07Z)
+- Chemotherapy (procedure) (Date: 2020-09-12T23:03:46Z)
+- Chemotherapy (procedure) (Date: 2020-10-02T01:31:46Z)
+- Hearing examination (procedure) (Date: 2020-10-03T09:30:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-10-03T10:00:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-10-03T13:03:07Z)
+- Chemotherapy (procedure) (Date: 2020-10-21T20:53:46Z)
+- Hearing examination (procedure) (Date: 2020-11-03T03:03:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-11-03T03:33:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-11-03T05:53:07Z)
+- Chemotherapy (procedure) (Date: 2020-11-12T08:19:46Z)
+- Hearing examination (procedure) (Date: 2020-12-04T14:53:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2020-12-04T15:23:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2020-12-04T18:40:07Z)
+- Chemotherapy (procedure) (Date: 2020-12-05T07:12:46Z)
+- Hearing examination (procedure) (Date: 2021-01-02T05:40:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-01-02T06:10:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-01-02T06:21:07Z)
+- Hearing examination (procedure) (Date: 2021-02-03T05:21:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-02-03T05:51:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-02-03T08:29:07Z)
+- Hearing examination (procedure) (Date: 2021-03-08T02:29:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-03-08T02:59:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-03-08T06:10:07Z)
+- Hearing examination (procedure) (Date: 2021-04-07T23:10:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-04-07T23:40:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-04-08T00:53:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-17T02:56:17Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-17T02:56:17Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-17T03:26:20Z)
+- Screening for domestic abuse (procedure) (Date: 2021-04-17T03:42:45Z)
+- Depression screening (procedure) (Date: 2021-04-17T04:15:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-17T04:25:43Z)
+- Assessment of substance use (procedure) (Date: 2021-04-17T04:54:24Z)
+- Screening for drug abuse (procedure) (Date: 2021-04-17T05:07:31Z)
+- Hearing examination (procedure) (Date: 2021-05-09T20:53:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-05-09T21:23:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-05-10T00:57:07Z)
+- Hearing examination (procedure) (Date: 2021-06-13T10:57:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-06-13T11:27:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-06-13T14:55:07Z)
+- Hearing examination (procedure) (Date: 2021-07-11T14:55:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-07-11T15:25:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-07-11T18:18:07Z)
+- Hearing examination (procedure) (Date: 2021-08-11T02:18:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-08-11T02:48:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-08-11T06:43:07Z)
+- Hearing examination (procedure) (Date: 2021-09-09T22:43:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-09-09T23:13:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-09-10T01:28:07Z)
+- Hearing examination (procedure) (Date: 2021-10-13T11:28:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-10-13T11:58:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-10-13T15:15:07Z)
+- Hearing examination (procedure) (Date: 2021-11-11T13:15:07Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2021-11-11T13:45:07Z)
+- High resolution computed tomography of chest without contrast (procedure) (Date: 2021-11-11T13:52:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-11T13:15:07Z: Encounter for problem
+- 2021-11-04T02:56:17Z: Follow-up encounter
+- 2021-10-13T11:28:07Z: Encounter for problem
+- 2021-09-09T22:43:07Z: Encounter for problem
+- 2021-08-11T02:18:07Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-11-11T13:52:07Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 5.0 {score}
+- 2021-11-11T13:15:07Z Glomerular filtration rate/1.73 sq M.predicted: 23.5 mL/min
+- 2021-11-11T13:15:07Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- 2021-11-11T13:15:07Z Bilirubin.total [Presence] in Urine by Test strip: Finding of bilirubin in urine (finding) {nominal}
+- 2021-11-11T13:15:07Z Glucose [Presence] in Urine by Test strip: Urine glucose test = ++ (finding) {nominal}
+- 2021-11-11T13:15:07Z Glucose [Mass/volume] in Urine by Test strip: 2.4 mg/dL
+- 2021-11-11T13:15:07Z Color of Urine: Brown color (qualifier value) {nominal}
+- 2021-11-11T13:15:07Z Clarity of Urine: Translucent (qualifier value) {nominal}
+- 2021-11-11T13:15:07Z Odor of Urine: Urine smell ammoniacal (finding) {nominal}
+- 2021-11-11T13:15:07Z Appearance of Urine: Cloudy urine (finding) {nominal}

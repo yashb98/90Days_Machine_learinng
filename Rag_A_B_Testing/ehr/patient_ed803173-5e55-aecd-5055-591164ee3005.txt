@@ -1,0 +1,249 @@
+== PATIENT RECORD: Octavio643 Solano766 (ID: ed803173-5e55-aecd-5055-591164ee3005) ==
+
+== Demographics ==
+Patient ID: ed803173-5e55-aecd-5055-591164ee3005
+Name: Octavio643 Solano766
+Gender: M
+Birthdate: 1955-12-26
+Address: 396 Bayer Gardens Apt 81
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Only received primary school education (finding)
+- Appendicitis
+- History of appendectomy
+- Part-time employment (finding)
+- Social isolation (finding)
+- Chronic intractable migraine without aura
+- Chronic pain
+- Impacted molars
+- Body mass index 30+ - obesity (finding)
+- Diabetes
+- Anemia (disorder)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Full-time employment (finding)
+- Hyperglycemia (disorder)
+- Prediabetes
+- Stress (finding)
+- Chronic kidney disease stage 1 (disorder)
+- Diabetic renal disease (disorder)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Refugee (person)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Stroke
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+- Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+- insulin human  isophane 70 UNT/ML / Regular Insulin  Human 30 UNT/ML Injectable Suspension [Humulin]
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2003-08-04T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2003-08-04T17:47:42Z)
+- Screening for domestic abuse (procedure) (Date: 2003-08-04T18:04:31Z)
+- Depression screening (procedure) (Date: 2003-08-04T18:30:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-08-04T18:44:36Z)
+- Extraction of wisdom tooth (Date: 2003-10-15T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-03-01T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2004-03-01T17:56:23Z)
+- Screening for domestic abuse (procedure) (Date: 2004-03-01T18:25:48Z)
+- Depression screening (procedure) (Date: 2004-03-01T18:59:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-03-01T19:14:03Z)
+- Extraction of wisdom tooth (Date: 2004-05-01T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-08-09T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2004-08-09T17:01:16Z)
+- Extraction of wisdom tooth (Date: 2004-09-10T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-04-25T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2005-04-25T17:37:16Z)
+- Assessment of substance use (procedure) (Date: 2005-04-25T18:03:13Z)
+- Screening for drug abuse (procedure) (Date: 2005-04-25T18:16:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-06-20T17:01:16Z)
+- Depression screening (procedure) (Date: 2005-06-20T17:52:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-06-20T18:02:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-08-15T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2005-08-15T17:45:04Z)
+- Depression screening (procedure) (Date: 2005-08-15T18:13:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-08-15T18:25:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2005-08-15T18:49:50Z)
+- Assessment of substance use (procedure) (Date: 2005-08-15T19:18:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-08-15T19:28:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-10-17T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2005-10-17T17:01:16Z)
+- Depression screening (procedure) (Date: 2005-10-17T17:58:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-10-17T18:11:58Z)
+- Assessment of substance use (procedure) (Date: 2005-10-17T18:37:25Z)
+- Screening for drug abuse (procedure) (Date: 2005-10-17T18:49:17Z)
+- Extraction of wisdom tooth (Date: 2005-12-23T17:01:16Z)
+- Colonoscopy (Date: 2005-12-26T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-02-20T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2006-02-20T17:58:45Z)
+- Depression screening (procedure) (Date: 2006-02-20T18:25:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-02-20T18:36:49Z)
+- Assessment of substance use (procedure) (Date: 2006-02-20T19:03:47Z)
+- Screening for drug abuse (procedure) (Date: 2006-02-20T19:17:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-04-17T17:01:16Z)
+- Depression screening (procedure) (Date: 2006-04-17T17:33:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-04-17T17:43:39Z)
+- Assessment of substance use (procedure) (Date: 2006-04-17T18:10:23Z)
+- Screening for drug abuse (procedure) (Date: 2006-04-17T18:22:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-06-19T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2006-06-19T17:01:16Z)
+- Depression screening (procedure) (Date: 2006-06-19T17:36:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-06-19T17:50:41Z)
+- Assessment of substance use (procedure) (Date: 2006-06-19T18:12:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2006-06-19T18:22:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-08-21T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2006-08-21T17:01:16Z)
+- Screening for domestic abuse (procedure) (Date: 2006-08-21T17:59:52Z)
+- Depression screening (procedure) (Date: 2006-08-21T18:36:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-08-21T18:50:39Z)
+- Assessment of substance use (procedure) (Date: 2006-08-21T19:11:08Z)
+- Screening for drug abuse (procedure) (Date: 2006-08-21T19:24:34Z)
+- Extraction of wisdom tooth (Date: 2007-04-25T17:01:16Z)
+- Extraction of wisdom tooth (Date: 2007-07-22T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-08-27T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2007-08-27T17:32:46Z)
+- Depression screening (procedure) (Date: 2007-08-27T17:56:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-08-27T18:07:51Z)
+- Assessment of substance use (procedure) (Date: 2007-08-27T18:31:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2007-08-27T18:42:32Z)
+- Extraction of wisdom tooth (Date: 2007-11-22T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-09-01T17:01:16Z)
+- Extraction of wisdom tooth (Date: 2008-09-02T17:01:16Z)
+- Depression screening (procedure) (Date: 2008-09-01T17:32:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-09-01T17:46:55Z)
+- Assessment of substance use (procedure) (Date: 2008-09-01T18:07:58Z)
+- Screening for drug abuse (procedure) (Date: 2008-09-01T18:21:59Z)
+- Extraction of wisdom tooth (Date: 2008-10-09T17:01:16Z)
+- Extraction of wisdom tooth (Date: 2008-12-22T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-01-05T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2009-01-05T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2009-01-05T17:58:23Z)
+- Screening for domestic abuse (procedure) (Date: 2009-01-05T18:14:26Z)
+- Depression screening (procedure) (Date: 2009-01-05T18:56:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-01-05T19:08:51Z)
+- Assessment of substance use (procedure) (Date: 2009-01-05T19:35:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-01-05T19:50:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-03-02T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2009-03-02T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2009-03-02T17:56:37Z)
+- Depression screening (procedure) (Date: 2009-03-02T18:24:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-03-02T18:35:39Z)
+- Assessment of substance use (procedure) (Date: 2009-03-02T18:58:33Z)
+- Screening for drug abuse (procedure) (Date: 2009-03-02T19:08:43Z)
+- Extraction of wisdom tooth (Date: 2009-08-01T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-09-07T17:01:16Z)
+- Depression screening (procedure) (Date: 2009-09-07T17:36:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-09-07T17:50:37Z)
+- Assessment of substance use (procedure) (Date: 2009-09-07T18:14:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-09-07T18:28:16Z)
+- Extraction of wisdom tooth (Date: 2009-11-20T17:01:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-11-30T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2009-11-30T17:58:19Z)
+- Depression screening (procedure) (Date: 2009-11-30T18:16:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-11-30T18:30:45Z)
+- Assessment of substance use (procedure) (Date: 2009-11-30T18:52:26Z)
+- Screening for drug abuse (procedure) (Date: 2009-11-30T19:02:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-07-05T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2010-07-05T17:01:16Z)
+- Screening for domestic abuse (procedure) (Date: 2010-07-05T17:49:11Z)
+- Depression screening (procedure) (Date: 2010-07-05T18:15:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-07-05T18:30:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-09-13T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2010-09-13T17:41:59Z)
+- Screening for domestic abuse (procedure) (Date: 2010-09-13T18:00:54Z)
+- Depression screening (procedure) (Date: 2010-09-13T18:27:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-09-13T18:40:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-10-25T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2010-10-25T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2010-10-25T17:52:00Z)
+- Assessment of substance use (procedure) (Date: 2010-10-25T18:12:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-10-25T18:22:56Z)
+- Colonoscopy (Date: 2010-12-26T17:44:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-03-28T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2011-03-28T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2011-03-28T17:56:07Z)
+- Depression screening (procedure) (Date: 2011-03-28T18:19:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-03-28T18:34:39Z)
+- Assessment of substance use (procedure) (Date: 2011-03-28T18:56:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-03-28T19:07:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-05-23T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2011-05-23T17:01:16Z)
+- Depression screening (procedure) (Date: 2011-05-23T17:41:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-05-23T17:54:17Z)
+- Assessment of substance use (procedure) (Date: 2011-05-23T18:21:38Z)
+- Screening for drug abuse (procedure) (Date: 2011-05-23T18:32:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-09-19T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2011-09-19T17:01:16Z)
+- Depression screening (procedure) (Date: 2011-09-19T17:52:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-09-19T18:03:56Z)
+- Assessment of substance use (procedure) (Date: 2011-09-19T18:25:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-09-19T18:37:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-10-03T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2011-10-03T17:01:16Z)
+- Screening for domestic abuse (procedure) (Date: 2011-10-03T17:36:23Z)
+- Depression screening (procedure) (Date: 2011-10-03T18:11:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-10-03T18:22:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-11-21T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2011-11-21T17:59:38Z)
+- Depression screening (procedure) (Date: 2011-11-21T18:17:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-11-21T18:29:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-12-19T17:01:16Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-19T17:48:40Z)
+- Assessment of substance use (procedure) (Date: 2011-12-19T18:03:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-19T18:15:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-23T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-23T17:01:16Z)
+- Screening for domestic abuse (procedure) (Date: 2012-04-23T17:37:22Z)
+- Depression screening (procedure) (Date: 2012-04-23T18:09:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-23T18:23:56Z)
+- Assessment of substance use (procedure) (Date: 2012-04-23T18:47:46Z)
+- Screening for drug abuse (procedure) (Date: 2012-04-23T19:00:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-05-14T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-14T17:01:16Z)
+- Depression screening (procedure) (Date: 2012-05-14T17:57:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-14T18:08:30Z)
+- Assessment of substance use (procedure) (Date: 2012-05-14T18:29:20Z)
+- Screening for drug abuse (procedure) (Date: 2012-05-14T18:43:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-16T17:01:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-16T17:01:16Z)
+- Depression screening (procedure) (Date: 2012-07-16T17:54:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-16T18:06:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-16T18:32:45Z)
+- Assessment of substance use (procedure) (Date: 2012-07-16T18:56:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-07-16T19:10:54Z)
+- Echocardiography (procedure) (Date: 2012-09-17T17:01:16Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2012-09-17T17:01:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2012-09-24T17:01:16Z: Death Certification
+- 2012-09-17T17:01:16Z: Stroke
+- 2012-09-10T17:01:16Z: Urgent care clinic (procedure)
+- 2012-07-16T17:01:16Z: Encounter for check up (procedure)
+- 2012-07-06T17:01:16Z: Encounter for problem (procedure)
+
+== Recent Observations (Last 10) ==
+- 2012-12-26T17:01:16Z QOLS: 0.0 {score}
+- 2012-12-26T17:01:16Z QALY: 34.2 a
+- 2012-12-26T17:01:16Z DALY: 21.8 a
+- 2012-09-24T17:01:16Z Cause of Death [US Standard Certificate of Death]: Stroke nan
+- 2012-07-16T19:33:34Z Total score [AUDIT-C]: 1.0 {score}
+- 2012-07-16T18:56:51Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 12.0 {score}
+- 2012-07-16T18:32:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 3.0 {score}
+- 2012-07-16T17:54:59Z Are you a refugee?: Yes nan
+- 2012-07-16T17:54:59Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2012-07-16T17:54:59Z In the past year  have you been afraid of your partner or ex-partner?: No nan

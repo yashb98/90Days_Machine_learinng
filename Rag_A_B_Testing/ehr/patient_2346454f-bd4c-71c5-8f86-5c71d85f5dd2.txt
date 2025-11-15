@@ -1,0 +1,53 @@
+== PATIENT RECORD: Tom274 Frami345 (ID: 2346454f-bd4c-71c5-8f86-5c71d85f5dd2) ==
+
+== Demographics ==
+Patient ID: 2346454f-bd4c-71c5-8f86-5c71d85f5dd2
+Name: Tom274 Frami345
+Gender: M
+Birthdate: 2012-07-07
+Address: 776 Jenkins Ranch
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-08-11T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-16T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-14T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-11T06:27:18Z)
+- Plain chest X-ray (procedure) (Date: 2015-04-07T22:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-18T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-12T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-11T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-17T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-23T06:27:18Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-29T06:27:18Z)
+- Throat culture (procedure) (Date: 2020-07-27T16:27:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-10T06:27:18Z: Well child visit (procedure)
+- 2020-08-08T06:27:18Z: Urgent care clinic (procedure)
+- 2020-08-03T12:27:18Z: Encounter for symptom
+- 2020-08-01T06:27:18Z: Urgent care clinic (procedure)
+- 2020-07-27T16:27:18Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-10T06:27:18Z Body Weight: 35.9 kg
+- 2021-07-10T06:27:18Z Body Height: 132.0 cm
+- 2021-07-10T06:27:18Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-07-10T06:27:18Z Body Mass Index: 20.6 kg/m2
+- 2021-07-10T06:27:18Z Body mass index (BMI) [Percentile] Per age and gender: 93.9 %
+- 2021-07-10T06:27:18Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-07-10T06:27:18Z Systolic Blood Pressure: 120.0 mm[Hg]
+- 2021-07-10T06:27:18Z Heart rate: 91.0 /min
+- 2021-07-10T06:27:18Z Respiratory rate: 15.0 /min
+- 2021-07-10T06:27:18Z Tobacco smoking status NHIS: Never smoker nan

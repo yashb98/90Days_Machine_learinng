@@ -1,0 +1,110 @@
+== PATIENT RECORD: Levi940 Ratke343 (ID: 67c6597f-c239-a595-beac-b2941e7b54ff) ==
+
+== Demographics ==
+Patient ID: 67c6597f-c239-a595-beac-b2941e7b54ff
+Name: Levi940 Ratke343
+Gender: M
+Birthdate: 1964-08-20
+Address: 378 McGlynn Union
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Hyperlipidemia
+- Part-time employment (finding)
+- Streptococcal sore throat (disorder)
+- Chronic neck pain (finding)
+- Not in labor force (finding)
+- Otitis media
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-13T22:49:23Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-13T23:32:23Z)
+- Throat culture (procedure) (Date: 2013-07-14T00:49:23Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-04T22:49:23Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-07T23:28:36Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-11T00:11:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-13T22:49:23Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-14T01:02:50Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-17T01:48:43Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-20T02:34:58Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-13T23:26:18Z)
+- Depression screening (procedure) (Date: 2014-02-13T23:54:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-14T00:08:46Z)
+- Assessment of substance use (procedure) (Date: 2014-02-14T00:33:52Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-14T00:45:29Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-23T03:21:20Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-26T04:04:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-19T22:49:23Z)
+- Depression screening (procedure) (Date: 2015-02-19T23:41:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-19T23:56:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-25T22:49:23Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-25T22:49:23Z)
+- Depression screening (procedure) (Date: 2016-02-25T23:21:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-25T23:34:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-02T22:49:23Z)
+- Measurement of respiratory function (procedure) (Date: 2017-03-09T16:49:23Z)
+- Assessment of substance use (procedure) (Date: 2017-03-02T23:21:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-02T23:32:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-16T22:49:23Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-16T22:49:23Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-16T23:22:38Z)
+- Depression screening (procedure) (Date: 2017-03-16T23:46:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-16T23:56:47Z)
+- Assessment of substance use (procedure) (Date: 2017-03-17T00:18:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-17T00:31:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-08T22:49:23Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-08T23:21:35Z)
+- Depression screening (procedure) (Date: 2018-03-08T23:48:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-09T00:02:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-14T22:49:23Z)
+- Depression screening (procedure) (Date: 2019-03-14T23:38:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-14T23:52:55Z)
+- Assessment of substance use (procedure) (Date: 2019-03-15T00:13:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-15T00:26:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-19T22:49:23Z)
+- Depression screening (procedure) (Date: 2020-03-19T23:25:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-19T23:36:54Z)
+- Assessment of substance use (procedure) (Date: 2020-03-19T23:59:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-03-20T00:10:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-25T22:49:23Z)
+- Assessment of substance use (procedure) (Date: 2021-03-25T23:35:45Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-25T23:46:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-02T22:49:23Z: Follow-up encounter
+- 2021-03-25T22:49:23Z: General examination of patient (procedure)
+- 2021-01-28T22:49:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-31T22:49:23Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-02T22:49:23Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-10-02T22:49:23Z Potassium: 5.0 mmol/L
+- 2021-10-02T22:49:23Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 19.0 U/L
+- 2021-10-02T22:49:23Z Triglycerides: 111.9 mg/dL
+- 2021-10-02T22:49:23Z Low Density Lipoprotein Cholesterol: 98.9 mg/dL
+- 2021-10-02T22:49:23Z High Density Lipoprotein Cholesterol: 72.6 mg/dL
+- 2021-10-02T22:49:23Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 41.2 U/L
+- 2021-10-02T22:49:23Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 130.3 U/L
+- 2021-10-02T22:49:23Z Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- 2021-10-02T22:49:23Z Globulin [Mass/volume] in Serum by calculation: 2.7 g/L
+- 2021-10-02T22:49:23Z Albumin [Mass/volume] in Serum or Plasma: 4.5 g/dL

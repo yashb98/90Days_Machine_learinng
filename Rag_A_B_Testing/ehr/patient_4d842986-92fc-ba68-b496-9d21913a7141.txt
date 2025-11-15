@@ -1,0 +1,49 @@
+== PATIENT RECORD: Louvenia131 Wisozk929 (ID: 4d842986-92fc-ba68-b496-9d21913a7141) ==
+
+== Demographics ==
+Patient ID: 4d842986-92fc-ba68-b496-9d21913a7141
+Name: Louvenia131 Wisozk929
+Gender: F
+Birthdate: 2010-04-19
+Address: 700 Conn Common
+Marital Status: nan
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Whiplash injury to neck
+- Otitis media
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-09-24T18:06:08Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-25T18:06:08Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-04T18:06:08Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-10T18:06:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-27T18:06:08Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-03T18:06:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-03T18:06:08Z: Well child visit (procedure)
+- 2020-04-27T18:06:08Z: Well child visit (procedure)
+- 2019-04-22T18:06:08Z: Well child visit (procedure)
+- 2018-04-16T18:06:08Z: Well child visit (procedure)
+- 2017-04-10T18:06:08Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-03T18:06:08Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-03T18:06:08Z Platelet mean volume [Entitic volume] in Blood by Automated count: 11.7 fL
+- 2021-05-03T18:06:08Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-05-03T18:06:08Z Systolic Blood Pressure: 126.0 mm[Hg]
+- 2021-05-03T18:06:08Z Heart rate: 68.0 /min
+- 2021-05-03T18:06:08Z Respiratory rate: 14.0 /min
+- 2021-05-03T18:06:08Z Leukocytes [#/volume] in Blood by Automated count: 4.6 10*3/uL
+- 2021-05-03T18:06:08Z Erythrocytes [#/volume] in Blood by Automated count: 4.0 10*6/uL
+- 2021-05-03T18:06:08Z Hemoglobin [Mass/volume] in Blood: 16.8 g/dL
+- 2021-05-03T18:06:08Z Hematocrit [Volume Fraction] of Blood by Automated count: 41.4 %

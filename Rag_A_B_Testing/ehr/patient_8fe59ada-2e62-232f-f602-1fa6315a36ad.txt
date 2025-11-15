@@ -1,0 +1,129 @@
+== PATIENT RECORD: Lon587 Wyman904 (ID: 8fe59ada-2e62-232f-f602-1fa6315a36ad) ==
+
+== Demographics ==
+Patient ID: 8fe59ada-2e62-232f-f602-1fa6315a36ad
+Name: Lon587 Wyman904
+Gender: M
+Birthdate: 1967-02-28
+Address: 801 West Camp Suite 96
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Osteoarthritis of knee
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Sprain of ankle
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Polyp of colon
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-03-19T21:11:23Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-19T21:11:23Z)
+- Depression screening (procedure) (Date: 2013-03-19T22:04:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-19T22:18:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-03-19T22:44:33Z)
+- Assessment of substance use (procedure) (Date: 2013-03-19T23:05:59Z)
+- Screening for drug abuse (procedure) (Date: 2013-03-19T23:19:32Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-09T21:11:23Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-12T22:07:02Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-15T22:38:21Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-18T23:13:11Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T00:11:17Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T01:04:03Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-28T01:40:01Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-03-03T02:16:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-25T21:11:23Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-25T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-25T21:43:42Z)
+- Depression screening (procedure) (Date: 2014-03-25T22:04:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-25T22:15:01Z)
+- Assessment of substance use (procedure) (Date: 2014-03-25T22:38:29Z)
+- Screening for drug abuse (procedure) (Date: 2014-03-25T22:53:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-31T21:11:23Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-31T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-31T22:01:56Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-31T22:19:43Z)
+- Depression screening (procedure) (Date: 2015-03-31T22:45:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-31T22:59:12Z)
+- Assessment of substance use (procedure) (Date: 2015-03-31T23:19:33Z)
+- Screening for drug abuse (procedure) (Date: 2015-03-31T23:32:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-05T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-05T22:04:24Z)
+- Depression screening (procedure) (Date: 2016-04-05T22:28:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-05T22:39:12Z)
+- Colonoscopy (Date: 2017-02-28T21:11:23Z)
+- Screening for occult blood in feces (procedure) (Date: 2017-02-28T21:36:50Z)
+- Rectal polypectomy (Date: 2017-02-28T21:36:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-11T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-11T21:42:58Z)
+- Screening for domestic abuse (procedure) (Date: 2017-04-11T21:59:14Z)
+- Depression screening (procedure) (Date: 2017-04-11T22:37:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-11T22:48:16Z)
+- Assessment of substance use (procedure) (Date: 2017-04-11T23:14:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-11T23:28:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-17T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-17T21:52:27Z)
+- Depression screening (procedure) (Date: 2018-04-17T22:15:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-17T22:28:44Z)
+- Assessment of substance use (procedure) (Date: 2018-04-17T22:54:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-17T23:08:57Z)
+- Colonoscopy (Date: 2018-04-22T21:36:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-23T21:11:23Z)
+- Depression screening (procedure) (Date: 2019-04-23T21:49:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-23T22:04:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-28T21:11:23Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-28T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-28T21:58:20Z)
+- Screening for domestic abuse (procedure) (Date: 2020-04-28T22:15:57Z)
+- Assessment of substance use (procedure) (Date: 2020-04-28T22:41:59Z)
+- Screening for drug abuse (procedure) (Date: 2020-04-28T22:56:10Z)
+- Sputum examination (procedure) (Date: 2021-03-14T09:11:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-23T21:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-23T21:57:23Z)
+- Depression screening (procedure) (Date: 2021-03-23T22:23:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-23T22:35:16Z)
+- Assessment of substance use (procedure) (Date: 2021-03-23T22:58:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-23T23:09:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-04T21:11:23Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-04T22:01:10Z)
+- Assessment of substance use (procedure) (Date: 2021-05-04T22:37:39Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-04T22:51:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-04T21:11:23Z: General examination of patient (procedure)
+- 2021-03-23T21:11:23Z: Encounter for check up (procedure)
+- 2021-03-14T09:11:23Z: Encounter for symptom
+- 2020-05-02T18:11:23Z: Encounter for symptom
+- 2020-04-28T21:11:23Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-04T23:17:34Z Total score [DAST-10]: 0.0 {score}
+- 2021-05-04T22:37:39Z Total score [HARK]: 0.0 {score}
+- 2021-05-04T22:01:10Z What address do you live at?: 801 West Camp Suite 96 nan
+- 2021-05-04T22:01:10Z What language are you most comfortable speaking?: English nan
+- 2021-05-04T22:01:10Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-05-04T22:01:10Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-05-04T22:01:10Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-05-04T22:01:10Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-04T22:01:10Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 135024 /a
+- 2021-05-04T22:01:10Z What is your main insurance?: Private insurance nan

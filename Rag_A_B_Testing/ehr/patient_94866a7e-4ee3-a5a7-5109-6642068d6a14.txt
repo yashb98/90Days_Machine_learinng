@@ -1,0 +1,174 @@
+== PATIENT RECORD: Cruz300 Okuneva707 (ID: 94866a7e-4ee3-a5a7-5109-6642068d6a14) ==
+
+== Demographics ==
+Patient ID: 94866a7e-4ee3-a5a7-5109-6642068d6a14
+Name: Cruz300 Okuneva707
+Gender: F
+Birthdate: 1982-08-28
+Address: 614 Becker Ranch Suite 91
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Fish (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Chronic sinusitis (disorder)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Chronic pain
+- Not in labor force (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Normal pregnancy
+- Part-time employment (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Diabetes
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Trinessa 28 Day Pack
+- Yaz 28 Day Pack
+- Liletta 52 MG Intrauterine System
+- Mirena 52 MG Intrauterine System
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-24T20:47:47Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-24T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-24T21:37:25Z)
+- Standard pregnancy test (Date: 2012-01-14T20:47:47Z)
+- Ultrasound scan for fetal viability (Date: 2012-01-14T20:47:47Z)
+- Counseling for termination of pregnancy (Date: 2012-01-22T20:47:47Z)
+- Induced termination of pregnancy (Date: 2012-01-22T20:47:47Z)
+- Pregnancy termination care (Date: 2012-02-02T20:47:47Z)
+- Physical exam following abortion (Date: 2012-02-02T20:47:47Z)
+- Depression screening (Date: 2012-02-02T20:47:47Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-01-30T20:47:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-29T20:47:47Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-29T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-29T21:35:44Z)
+- Depression screening (procedure) (Date: 2012-12-29T21:51:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-29T22:04:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-04T20:47:47Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-04T20:47:47Z)
+- Screening for domestic abuse (procedure) (Date: 2014-01-04T21:27:00Z)
+- Depression screening (procedure) (Date: 2014-01-04T21:58:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-04T22:10:31Z)
+- Assessment of substance use (procedure) (Date: 2014-01-04T22:31:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-04T22:43:22Z)
+- Removal of subcutaneous contraceptive (Date: 2014-08-30T20:47:47Z)
+- Standard pregnancy test (Date: 2014-10-25T20:47:47Z)
+- Ultrasound scan for fetal viability (Date: 2014-10-25T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2014-10-25T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2014-10-25T20:47:47Z)
+- Blood typing  RH typing (Date: 2014-10-25T20:47:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-10-25T20:47:47Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2014-10-25T20:47:47Z)
+- Human immunodeficiency virus antigen test (Date: 2014-10-25T20:47:47Z)
+- Chlamydia antigen test (Date: 2014-10-25T20:47:47Z)
+- Gonorrhea infection test (Date: 2014-10-25T20:47:47Z)
+- Syphilis infection test (Date: 2014-10-25T20:47:47Z)
+- Urine culture (Date: 2014-10-25T20:47:47Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2014-10-25T20:47:47Z)
+- Urine screening test for diabetes (Date: 2014-10-25T20:47:47Z)
+- Hepatitis C antibody test (Date: 2014-10-25T20:47:47Z)
+- Rubella screening (Date: 2014-10-25T20:47:47Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2014-10-25T20:47:47Z)
+- Skin test for tuberculosis (Date: 2014-10-25T20:47:47Z)
+- Urine protein test (Date: 2014-10-25T20:47:47Z)
+- Physical examination of mother (Date: 2014-10-25T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2014-11-22T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2014-11-22T20:47:47Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2014-11-22T20:47:47Z)
+- Fetal anatomy study (Date: 2014-12-20T20:47:47Z)
+- Alpha-fetoprotein test (Date: 2014-12-20T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2014-12-20T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2014-12-20T20:47:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-10T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2015-01-17T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2015-01-17T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-10T21:34:02Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-10T22:01:20Z)
+- Evaluation of uterine fundal height (Date: 2015-02-14T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2015-02-14T20:47:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-03-14T20:47:47Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2015-03-14T20:47:47Z)
+- Urine screening for glucose (Date: 2015-03-14T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2015-03-14T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2015-03-14T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2015-04-11T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2015-04-11T20:47:47Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2015-05-09T20:47:47Z)
+- Evaluation of uterine fundal height (Date: 2015-05-09T20:47:47Z)
+- Auscultation of the fetal heart (Date: 2015-05-09T20:47:47Z)
+- Episiotomy (Date: 2015-05-23T20:47:47Z)
+- Cesarean section (Date: 2015-05-23T20:47:47Z)
+- Physical examination following birth (Date: 2015-07-04T20:47:47Z)
+- Depression screening (Date: 2015-07-04T20:47:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-16T20:47:47Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-16T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-16T21:28:08Z)
+- Depression screening (procedure) (Date: 2016-01-16T21:52:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-16T22:02:53Z)
+- Assessment of substance use (procedure) (Date: 2016-01-16T22:28:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-01-16T22:43:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-21T20:47:47Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-21T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-21T21:45:30Z)
+- Depression screening (procedure) (Date: 2017-01-21T22:03:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-21T22:13:43Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-06-28T18:47:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-27T20:47:47Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-27T20:47:47Z)
+- Depression screening (procedure) (Date: 2018-01-27T21:29:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-27T21:40:13Z)
+- Assessment of substance use (procedure) (Date: 2018-01-27T22:08:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-27T22:23:28Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-06-27T13:31:10Z)
+- Throat culture (procedure) (Date: 2019-01-03T22:47:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-02T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-02T21:38:39Z)
+- Depression screening (procedure) (Date: 2019-02-02T22:06:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-02T22:21:34Z)
+- Assessment of substance use (procedure) (Date: 2019-02-02T22:42:46Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-02T22:56:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-08T20:47:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-08T21:44:33Z)
+- Assessment of substance use (procedure) (Date: 2020-02-08T22:00:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-08T22:12:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-13T20:47:47Z)
+- Depression screening (procedure) (Date: 2021-02-13T21:24:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-13T21:38:35Z)
+- Assessment of substance use (procedure) (Date: 2021-02-13T22:06:17Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-13T22:21:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T20:47:47Z: Encounter for symptom
+- 2021-06-11T14:32:36Z: Consultation for treatment
+- 2021-05-15T20:47:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T20:47:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-13T20:47:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-03T20:47:47Z Body temperature: 37.8 Cel
+- 2021-08-28T20:47:47Z QOLS: 1.0 {score}
+- 2021-08-28T20:47:47Z DALY: 0.4 a
+- 2021-08-28T20:47:47Z QALY: 37.6 a
+- 2021-02-13T22:48:08Z Total score [DAST-10]: 2.0 {score}
+- 2021-02-13T22:06:17Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-02-13T21:24:13Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-02-13T21:24:13Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-02-13T21:24:13Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-02-13T21:24:13Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

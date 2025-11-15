@@ -1,0 +1,90 @@
+== PATIENT RECORD: Otto672 Schmeler639 (ID: 08c885d3-43c9-efd4-e8b3-c6140832b18f) ==
+
+== Demographics ==
+Patient ID: 08c885d3-43c9-efd4-e8b3-c6140832b18f
+Name: Otto672 Schmeler639
+Gender: M
+Birthdate: 2000-09-17
+Address: 651 Weissnat Dale Suite 59
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Severe anxiety (panic) (finding
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-10-07T15:46:19Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-07T15:46:19Z)
+- Depression screening (procedure) (Date: 2012-10-07T16:07:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-10-07T16:18:45Z)
+- Assessment of substance use (procedure) (Date: 2012-10-07T16:48:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-10-07T17:02:29Z)
+- Anticipatory guidance (procedure) (Date: 2012-10-07T17:30:12Z)
+- Depression screening (procedure) (Date: 2013-10-13T15:46:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-10-13T16:01:08Z)
+- Assessment of substance use (procedure) (Date: 2013-10-13T16:22:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-10-13T16:32:45Z)
+- Anticipatory guidance (procedure) (Date: 2013-10-13T16:47:46Z)
+- Depression screening (procedure) (Date: 2014-10-19T15:46:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-10-19T15:58:04Z)
+- Assessment of substance use (procedure) (Date: 2014-10-19T16:25:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-10-19T16:37:50Z)
+- Anticipatory guidance (procedure) (Date: 2014-10-19T17:06:35Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-25T15:46:19Z)
+- Assessment of substance use (procedure) (Date: 2015-10-25T16:04:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-10-25T16:15:46Z)
+- Health risks education (procedure) (Date: 2015-10-25T16:27:44Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-30T15:46:19Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-30T15:46:19Z)
+- Depression screening (procedure) (Date: 2016-10-30T16:12:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-30T16:23:53Z)
+- Assessment of substance use (procedure) (Date: 2016-10-30T16:46:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-30T17:00:51Z)
+- Health risks education (procedure) (Date: 2016-10-30T17:30:34Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-05T15:46:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-05T15:46:19Z)
+- Depression screening (procedure) (Date: 2017-11-05T16:14:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-05T16:27:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-11T15:46:19Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-11T16:18:35Z)
+- Depression screening (procedure) (Date: 2018-11-11T16:51:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-11T17:04:38Z)
+- Assessment of substance use (procedure) (Date: 2018-11-11T17:28:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-11T17:40:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-17T15:46:19Z)
+- Depression screening (procedure) (Date: 2019-11-17T16:32:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-17T16:44:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-17T17:13:27Z)
+- Assessment of substance use (procedure) (Date: 2019-11-17T17:38:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-17T17:52:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-30T15:46:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-02T15:46:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-01T02:46:19Z: Encounter for symptom
+- 2019-11-17T15:46:19Z: General examination of patient (procedure)
+- 2018-11-11T15:46:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-17T15:46:19Z QOLS: 1.0 {score}
+- 2021-09-17T15:46:19Z QALY: 20.0 a
+- 2021-09-17T15:46:19Z DALY: 0.0 a
+- 2020-09-17T15:46:19Z QOLS: 1.0 {score}
+- 2020-09-17T15:46:19Z QALY: 19.0 a
+- 2020-09-17T15:46:19Z DALY: 0.0 a
+- 2019-11-17T18:17:58Z Total score [AUDIT-C]: 1.0 {score}
+- 2019-11-17T17:38:39Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 19.0 {score}
+- 2019-11-17T17:13:27Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2019-11-17T16:32:04Z Are you a refugee?: No nan

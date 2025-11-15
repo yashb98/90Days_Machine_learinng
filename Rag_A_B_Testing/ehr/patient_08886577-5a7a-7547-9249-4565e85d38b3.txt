@@ -1,0 +1,147 @@
+== PATIENT RECORD: Dominga527 Kuphal363 (ID: 08886577-5a7a-7547-9249-4565e85d38b3) ==
+
+== Demographics ==
+Patient ID: 08886577-5a7a-7547-9249-4565e85d38b3
+Name: Dominga527 Kuphal363
+Gender: F
+Birthdate: 1998-09-16
+Address: 932 Pfannerstill Grove Apt 0
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Sprain of ankle
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Severe anxiety (panic) (finding
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-10-17T21:04:01Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-17T21:04:01Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-23T21:04:01Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-23T21:04:01Z)
+- Assessment of substance use (procedure) (Date: 2013-10-23T21:26:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-10-23T21:39:04Z)
+- Anticipatory guidance (procedure) (Date: 2013-10-23T21:53:57Z)
+- Assessment of anxiety (procedure) (Date: 2014-10-29T21:04:01Z)
+- Assessment of substance use (procedure) (Date: 2014-10-29T21:20:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-10-29T21:35:05Z)
+- Anticipatory guidance (procedure) (Date: 2014-10-29T21:46:52Z)
+- Measurement of respiratory function (procedure) (Date: 2015-10-26T20:04:01Z)
+- Depression screening (procedure) (Date: 2015-11-04T21:04:01Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-04T21:18:41Z)
+- Assessment of substance use (procedure) (Date: 2015-11-04T21:44:25Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-11-04T21:55:56Z)
+- Anticipatory guidance (procedure) (Date: 2015-11-04T22:18:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-09T21:04:01Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-09T21:58:31Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-09T22:18:42Z)
+- Depression screening (procedure) (Date: 2016-11-09T22:46:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-09T22:59:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-15T21:04:01Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-15T21:58:10Z)
+- Depression screening (procedure) (Date: 2017-11-15T22:23:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-15T22:37:39Z)
+- Assessment of substance use (procedure) (Date: 2017-11-15T23:00:38Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-15T23:12:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-21T21:04:01Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-21T21:37:56Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-21T21:58:11Z)
+- Depression screening (procedure) (Date: 2018-11-21T22:42:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-21T22:55:35Z)
+- Intramuscular injection (Date: 2019-08-10T21:04:01Z)
+- Intramuscular injection (Date: 2019-11-20T21:04:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-04T21:04:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-04T21:04:01Z)
+- Depression screening (procedure) (Date: 2019-12-04T21:53:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-04T22:03:30Z)
+- Assessment of substance use (procedure) (Date: 2019-12-04T22:24:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-12-04T22:39:01Z)
+- Intramuscular injection (Date: 2020-02-19T21:04:01Z)
+- Intramuscular injection (Date: 2020-05-20T21:04:01Z)
+- Intramuscular injection (Date: 2020-08-19T21:04:01Z)
+- Intramuscular injection (Date: 2020-11-18T21:04:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-09T21:04:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-09T21:04:01Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-09T21:51:11Z)
+- Screening for domestic abuse (procedure) (Date: 2020-12-09T22:09:06Z)
+- Depression screening (procedure) (Date: 2020-12-09T22:38:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-09T22:52:46Z)
+- Assessment of substance use (procedure) (Date: 2020-12-09T23:20:30Z)
+- Screening for drug abuse (procedure) (Date: 2020-12-09T23:34:43Z)
+- Intramuscular injection (Date: 2021-02-17T21:04:01Z)
+- Standard pregnancy test (Date: 2021-06-30T21:04:01Z)
+- Ultrasound scan for fetal viability (Date: 2021-06-30T21:04:01Z)
+- Evaluation of uterine fundal height (Date: 2021-06-30T21:04:01Z)
+- Auscultation of the fetal heart (Date: 2021-06-30T21:04:01Z)
+- Blood typing  RH typing (Date: 2021-06-30T21:04:01Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-06-30T21:04:01Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-06-30T21:04:01Z)
+- Human immunodeficiency virus antigen test (Date: 2021-06-30T21:04:01Z)
+- Chlamydia antigen test (Date: 2021-06-30T21:04:01Z)
+- Gonorrhea infection test (Date: 2021-06-30T21:04:01Z)
+- Syphilis infection test (Date: 2021-06-30T21:04:01Z)
+- Urine culture (Date: 2021-06-30T21:04:01Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-06-30T21:04:01Z)
+- Urine screening test for diabetes (Date: 2021-06-30T21:04:01Z)
+- Hepatitis C antibody test (Date: 2021-06-30T21:04:01Z)
+- Rubella screening (Date: 2021-06-30T21:04:01Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-06-30T21:04:01Z)
+- Skin test for tuberculosis (Date: 2021-06-30T21:04:01Z)
+- Urine protein test (Date: 2021-06-30T21:04:01Z)
+- Physical examination of mother (Date: 2021-06-30T21:04:01Z)
+- Evaluation of uterine fundal height (Date: 2021-07-28T21:04:01Z)
+- Auscultation of the fetal heart (Date: 2021-07-28T21:04:01Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-07-28T21:04:01Z)
+- Fetal anatomy study (Date: 2021-08-25T21:04:01Z)
+- Alpha-fetoprotein test (Date: 2021-08-25T21:04:01Z)
+- Evaluation of uterine fundal height (Date: 2021-08-25T21:04:01Z)
+- Auscultation of the fetal heart (Date: 2021-08-25T21:04:01Z)
+- Evaluation of uterine fundal height (Date: 2021-09-22T21:04:01Z)
+- Auscultation of the fetal heart (Date: 2021-09-22T21:04:01Z)
+- Evaluation of uterine fundal height (Date: 2021-10-20T21:04:01Z)
+- Auscultation of the fetal heart (Date: 2021-10-20T21:04:01Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-11-17T21:04:01Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-11-17T21:04:01Z)
+- Urine screening for glucose (Date: 2021-11-17T21:04:01Z)
+- Evaluation of uterine fundal height (Date: 2021-11-17T21:04:01Z)
+- Auscultation of the fetal heart (Date: 2021-11-17T21:04:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-17T21:04:01Z: Prenatal visit
+- 2021-10-20T21:04:01Z: Prenatal visit
+- 2021-09-22T21:04:01Z: Prenatal visit
+- 2021-08-25T21:04:01Z: Prenatal visit
+- 2021-07-28T21:04:01Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-09-16T21:04:01Z QOLS: 1.0 {score}
+- 2021-09-16T21:04:01Z DALY: 0.0 a
+- 2021-09-16T21:04:01Z QALY: 22.0 a
+- 2020-12-10T00:00:06Z Total score [DAST-10]: 1.0 {score}
+- 2020-12-09T23:20:30Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-09T22:38:57Z Total score [HARK]: 0.0 {score}
+- 2020-12-09T22:09:06Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 11.0 {score}
+- 2020-12-09T21:51:11Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-12-09T21:51:11Z Are you a refugee?: No nan
+- 2020-12-09T21:51:11Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

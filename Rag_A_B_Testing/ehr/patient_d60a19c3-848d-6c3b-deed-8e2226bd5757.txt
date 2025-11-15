@@ -1,0 +1,52 @@
+== PATIENT RECORD: Monica757 Nikolaus26 (ID: d60a19c3-848d-6c3b-deed-8e2226bd5757) ==
+
+== Demographics ==
+Patient ID: d60a19c3-848d-6c3b-deed-8e2226bd5757
+Name: Monica757 Nikolaus26
+Gender: F
+Birthdate: 2011-04-25
+Address: 407 Bednar Throughway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-02T23:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-01T23:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-01T23:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-30T23:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-31T23:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-29T23:31:00Z)
+- X-ray or wrist (Date: 2015-01-01T23:31:00Z)
+- Bone immobilization (Date: 2015-01-01T23:31:00Z)
+- Throat culture (procedure) (Date: 2015-02-07T09:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-10T23:31:00Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-03T23:31:00Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-03T23:31:00Z: Well child visit (procedure)
+- 2020-04-27T23:31:00Z: Well child visit (procedure)
+- 2019-04-22T23:31:00Z: Well child visit (procedure)
+- 2018-04-16T23:31:00Z: Well child visit (procedure)
+- 2017-04-10T23:31:00Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-03T23:31:00Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-03T23:31:00Z Body Height: 144.5 cm
+- 2021-05-03T23:31:00Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-05-03T23:31:00Z Body Weight: 38.6 kg
+- 2021-05-03T23:31:00Z Body Mass Index: 18.5 kg/m2
+- 2021-05-03T23:31:00Z Body mass index (BMI) [Percentile] Per age and gender: 73.0 %
+- 2021-05-03T23:31:00Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-05-03T23:31:00Z Systolic Blood Pressure: 122.0 mm[Hg]
+- 2021-05-03T23:31:00Z Heart rate: 84.0 /min
+- 2021-05-03T23:31:00Z Respiratory rate: 13.0 /min

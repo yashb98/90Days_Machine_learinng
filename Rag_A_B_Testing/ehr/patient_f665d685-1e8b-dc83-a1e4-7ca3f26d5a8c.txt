@@ -1,0 +1,157 @@
+== PATIENT RECORD: Palma671 Mann644 (ID: f665d685-1e8b-dc83-a1e4-7ca3f26d5a8c) ==
+
+== Demographics ==
+Patient ID: f665d685-1e8b-dc83-a1e4-7ca3f26d5a8c
+Name: Palma671 Mann644
+Gender: F
+Birthdate: 1971-06-27
+Address: 460 O'Keefe Wall
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Prediabetes
+- Stress (finding)
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Unhealthy alcohol drinking behavior (finding)
+- Social isolation (finding)
+- Stroke
+- Full-time employment (finding)
+- Normal pregnancy
+- Part-time employment (finding)
+- Fetus with unknown complication
+- Acute bronchitis (disorder)
+- Hyperlipidemia
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- ferrous sulfate 325 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Etonogestrel 68 MG Drug Implant
+- Camila 28 Day Pack
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Kyleena 19.5 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Replacement of contraceptive intrauterine device (Date: 2013-05-05T18:09:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-07T18:09:56Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-07T18:55:32Z)
+- Depression screening (procedure) (Date: 2013-07-07T19:23:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-07T19:37:43Z)
+- Assessment of substance use (procedure) (Date: 2013-07-07T20:05:31Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-07T20:18:20Z)
+- Intramuscular injection (Date: 2014-03-28T22:34:24Z)
+- Removal of intrauterine device (Date: 2015-05-24T18:09:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-12T18:09:56Z)
+- Standard pregnancy test (Date: 2015-07-19T18:09:56Z)
+- Ultrasound scan for fetal viability (Date: 2015-07-19T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2015-07-19T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2015-07-19T18:09:56Z)
+- Blood typing  RH typing (Date: 2015-07-19T18:09:56Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-07-19T18:09:56Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2015-07-19T18:09:56Z)
+- Human immunodeficiency virus antigen test (Date: 2015-07-19T18:09:56Z)
+- Chlamydia antigen test (Date: 2015-07-19T18:09:56Z)
+- Gonorrhea infection test (Date: 2015-07-19T18:09:56Z)
+- Syphilis infection test (Date: 2015-07-19T18:09:56Z)
+- Urine culture (Date: 2015-07-19T18:09:56Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2015-07-19T18:09:56Z)
+- Urine screening test for diabetes (Date: 2015-07-19T18:09:56Z)
+- Hepatitis C antibody test (Date: 2015-07-19T18:09:56Z)
+- Rubella screening (Date: 2015-07-19T18:09:56Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2015-07-19T18:09:56Z)
+- Skin test for tuberculosis (Date: 2015-07-19T18:09:56Z)
+- Urine protein test (Date: 2015-07-19T18:09:56Z)
+- Physical examination of mother (Date: 2015-07-19T18:09:56Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-12T19:03:25Z)
+- Evaluation of uterine fundal height (Date: 2015-08-16T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2015-08-16T18:09:56Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2015-08-16T18:09:56Z)
+- Fetal anatomy study (Date: 2015-09-13T18:09:56Z)
+- Alpha-fetoprotein test (Date: 2015-09-13T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2015-09-13T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2015-09-13T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2015-10-11T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2015-10-11T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2015-11-08T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2015-11-08T18:09:56Z)
+- Antenatal RhD antibody screening (Date: 2015-12-06T18:09:56Z)
+- RhD passive immunization (Date: 2015-12-06T18:09:56Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-12-06T18:09:56Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2015-12-06T18:09:56Z)
+- Urine screening for glucose (Date: 2015-12-06T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2015-12-06T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2015-12-06T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2016-01-03T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2016-01-03T18:09:56Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2016-01-31T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2016-01-31T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2016-01-31T18:09:56Z)
+- Evaluation of uterine fundal height (Date: 2016-02-14T18:09:56Z)
+- Auscultation of the fetal heart (Date: 2016-02-14T18:09:56Z)
+- Childbirth (Date: 2016-02-21T18:09:56Z)
+- RhD passive immunization (Date: 2016-04-03T18:09:56Z)
+- Physical examination following birth (Date: 2016-04-03T18:09:56Z)
+- Depression screening (Date: 2016-04-03T18:09:56Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-03-29T18:09:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-16T18:09:56Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-16T18:53:06Z)
+- Assessment of substance use (procedure) (Date: 2017-07-16T19:12:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-16T19:23:53Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-03-26T20:33:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-21T18:09:56Z)
+- Assessment of substance use (procedure) (Date: 2019-07-21T18:51:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-07-21T19:05:48Z)
+- Removal of subcutaneous contraceptive (Date: 2020-03-08T18:09:56Z)
+- Standard pregnancy test (Date: 2020-05-03T18:09:56Z)
+- Ultrasound scan for fetal viability (Date: 2020-05-03T18:09:56Z)
+- RhD passive immunization (Date: 2020-05-17T18:09:56Z)
+- Physical examination (Date: 2020-05-17T18:09:56Z)
+- Depression screening (Date: 2020-05-17T18:09:56Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-05-20T04:09:56Z)
+- Measurement of respiratory function (procedure) (Date: 2021-01-23T03:09:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-31T18:09:56Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-31T18:09:56Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-31T18:57:02Z)
+- Depression screening (procedure) (Date: 2021-01-31T19:17:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-31T19:30:55Z)
+- Assessment of substance use (procedure) (Date: 2021-01-31T19:54:53Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-31T20:09:32Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-05-15T04:54:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-27T18:09:56Z)
+- Colonoscopy (Date: 2021-06-27T18:09:56Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-27T18:09:56Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-27T18:40:26Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-27T19:08:40Z)
+- Depression screening (procedure) (Date: 2021-06-27T19:35:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-27T19:46:23Z)
+- Assessment of substance use (procedure) (Date: 2021-06-27T20:15:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-27T20:29:50Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-27T18:09:56Z: Encounter for 'check-up'
+- 2021-06-27T18:09:56Z: General examination of patient (procedure)
+- 2021-05-15T04:54:14Z: Consultation for treatment
+- 2021-05-09T07:09:56Z: Encounter for symptom
+- 2021-02-21T18:09:56Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-06-27T20:58:58Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-06-27T20:15:31Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-27T19:35:26Z Total score [HARK]: 0.0 {score}
+- 2021-06-27T19:08:40Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-06-27T18:40:26Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-06-27T18:40:26Z What is your main insurance?: Private insurance nan
+- 2021-06-27T18:40:26Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 57778 /a
+- 2021-06-27T18:40:26Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-06-27T18:40:26Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-27T18:40:26Z In the past year  have you been afraid of your partner or ex-partner?: No nan

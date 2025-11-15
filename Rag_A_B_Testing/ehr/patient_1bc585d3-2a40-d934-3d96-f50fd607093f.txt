@@ -1,0 +1,125 @@
+== PATIENT RECORD: Carroll471 Hirthe744 (ID: 1bc585d3-2a40-d934-3d96-f50fd607093f) ==
+
+== Demographics ==
+Patient ID: 1bc585d3-2a40-d934-3d96-f50fd607093f
+Name: Carroll471 Hirthe744
+Gender: F
+Birthdate: 1968-01-12
+Address: 124 Luettgen Crossroad
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 40+ - severely obese (finding)
+- Reports of violence in the environment (finding)
+- Has a criminal record (finding)
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Facial laceration
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Naproxen sodium 220 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-27T11:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-27T12:14:36Z)
+- Depression screening (procedure) (Date: 2012-01-27T12:43:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-27T12:53:56Z)
+- Assessment of substance use (procedure) (Date: 2012-01-27T13:16:46Z)
+- Screening for drug abuse (procedure) (Date: 2012-01-27T13:30:05Z)
+- Intramuscular injection (Date: 2012-04-17T11:40:58Z)
+- Intramuscular injection (Date: 2012-07-27T11:40:58Z)
+- Intramuscular injection (Date: 2012-10-26T11:40:58Z)
+- Intramuscular injection (Date: 2013-01-25T11:40:58Z)
+- Intramuscular injection (Date: 2013-04-12T11:51:51Z)
+- Intramuscular injection (Date: 2013-04-26T11:40:58Z)
+- Intramuscular injection (Date: 2013-07-26T11:40:58Z)
+- Intramuscular injection (Date: 2013-10-25T11:40:58Z)
+- Intramuscular injection (Date: 2014-01-24T11:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-07T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-07T11:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-07T12:16:03Z)
+- Depression screening (procedure) (Date: 2014-02-07T12:38:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-07T12:50:05Z)
+- Assessment of substance use (procedure) (Date: 2014-02-07T13:10:27Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-07T13:24:16Z)
+- Intramuscular injection (Date: 2014-04-07T12:06:19Z)
+- Intramuscular injection (Date: 2014-04-25T11:40:58Z)
+- Intramuscular injection (Date: 2014-07-25T11:40:58Z)
+- Intramuscular injection (Date: 2014-10-24T11:40:58Z)
+- Intramuscular injection (Date: 2015-01-23T11:40:58Z)
+- Insertion of intrauterine contraceptive device (Date: 2015-04-05T03:19:00Z)
+- Intramuscular injection (Date: 2015-04-24T11:40:58Z)
+- Intramuscular injection (Date: 2015-07-24T11:40:58Z)
+- Intramuscular injection (Date: 2015-10-23T11:40:58Z)
+- Suture open wound (Date: 2015-11-23T12:21:36Z)
+- Intramuscular injection (Date: 2016-01-22T11:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-12T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-12T11:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-12T12:11:08Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-12T12:40:37Z)
+- Depression screening (procedure) (Date: 2016-02-12T13:05:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-12T13:17:16Z)
+- Intramuscular injection (Date: 2016-04-22T11:40:58Z)
+- Intramuscular injection (Date: 2016-07-22T11:40:58Z)
+- Intramuscular injection (Date: 2016-10-21T11:40:58Z)
+- Intramuscular injection (Date: 2017-01-20T11:40:58Z)
+- Intramuscular injection (Date: 2017-04-21T11:40:58Z)
+- Intramuscular injection (Date: 2017-07-21T11:40:58Z)
+- Intramuscular injection (Date: 2017-10-20T11:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-12T11:40:58Z)
+- Colonoscopy (Date: 2018-01-12T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-12T11:40:58Z)
+- Intramuscular injection (Date: 2018-01-19T11:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-18T11:40:58Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-18T12:38:41Z)
+- Depression screening (procedure) (Date: 2019-01-18T13:20:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-18T13:30:59Z)
+- Assessment of substance use (procedure) (Date: 2019-01-18T13:53:27Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-18T14:08:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-24T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-24T11:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-24T12:19:49Z)
+- Screening for domestic abuse (procedure) (Date: 2020-01-24T12:38:44Z)
+- Depression screening (procedure) (Date: 2020-01-24T13:14:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-24T13:26:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-29T11:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-29T11:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-29T12:40:26Z)
+- Screening for domestic abuse (procedure) (Date: 2021-01-29T12:56:58Z)
+- Depression screening (procedure) (Date: 2021-01-29T13:35:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-29T13:49:53Z)
+- Assessment of substance use (procedure) (Date: 2021-01-29T14:14:14Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-29T14:26:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-29T14:40:58Z: Encounter for symptom
+- 2021-04-23T11:40:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-26T11:40:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-21T14:40:58Z: Encounter for symptom
+- 2021-01-29T11:40:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-29T14:47:50Z Total score [DAST-10]: 1.0 {score}
+- 2021-01-29T14:14:14Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-01-29T13:35:53Z Total score [HARK]: 0.0 {score}
+- 2021-01-29T12:56:58Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-01-29T12:40:26Z What is your current work situation?: Full-time work nan
+- 2021-01-29T12:40:26Z What is your main insurance?: Private insurance nan
+- 2021-01-29T12:40:26Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 49766 /a
+- 2021-01-29T12:40:26Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-01-29T12:40:26Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-01-29T12:40:26Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan

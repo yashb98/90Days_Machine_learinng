@@ -1,0 +1,74 @@
+== PATIENT RECORD: Ruthann382 Rolfson709 (ID: ef0b300f-2534-043f-86f7-f34119bf5bd4) ==
+
+== Demographics ==
+Patient ID: ef0b300f-2534-043f-86f7-f34119bf5bd4
+Name: Ruthann382 Rolfson709
+Gender: F
+Birthdate: 2003-10-04
+Address: 367 Hammes Quay Unit 50
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2015-10-24T20:49:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-24T20:49:09Z)
+- Depression screening (procedure) (Date: 2015-10-24T21:05:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-24T21:15:48Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-29T20:49:09Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-29T20:49:09Z)
+- Assessment of substance use (procedure) (Date: 2016-10-29T21:05:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-29T21:17:49Z)
+- Anticipatory guidance (procedure) (Date: 2016-10-29T21:47:23Z)
+- Depression screening (procedure) (Date: 2017-11-04T20:49:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-04T21:03:57Z)
+- Assessment of substance use (procedure) (Date: 2017-11-04T21:26:35Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-11-04T21:37:45Z)
+- Anticipatory guidance (procedure) (Date: 2017-11-04T21:51:43Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-10T20:49:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-10T20:49:09Z)
+- Depression screening (procedure) (Date: 2018-11-10T21:15:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-10T21:29:05Z)
+- Depression screening (procedure) (Date: 2019-11-16T20:49:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-16T20:49:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-16T21:02:36Z)
+- Assessment of substance use (procedure) (Date: 2019-11-16T21:28:35Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-11-16T21:38:35Z)
+- Anticipatory guidance (procedure) (Date: 2019-11-16T22:02:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-21T20:49:09Z)
+- Depression screening (procedure) (Date: 2020-11-21T21:06:21Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-21T21:16:45Z)
+- Assessment of substance use (procedure) (Date: 2020-11-21T21:37:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-21T21:52:28Z)
+- Health risks education (procedure) (Date: 2020-11-21T22:14:35Z)
+- Measurement of respiratory function (procedure) (Date: 2021-07-03T20:49:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-03T20:49:09Z: Encounter for symptom
+- 2021-04-24T20:49:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-03T20:49:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-21T20:49:09Z: Well child visit (procedure)
+- 2020-09-17T20:49:09Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-10-04T20:49:09Z QOLS: 1.0 {score}
+- 2021-10-04T20:49:09Z DALY: 0.0 a
+- 2021-10-04T20:49:09Z QALY: 17.0 a
+- 2020-11-21T21:37:31Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2020-11-21T21:06:21Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2020-11-21T20:49:09Z Respiratory rate: 15.0 /min
+- 2020-11-21T20:49:09Z Body Height: 157.3 cm
+- 2020-11-21T20:49:09Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2020-11-21T20:49:09Z Body Weight: 57.9 kg
+- 2020-11-21T20:49:09Z Body Mass Index: 23.4 kg/m2

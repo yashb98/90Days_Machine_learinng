@@ -1,0 +1,121 @@
+== PATIENT RECORD: Johnathan55 Reichert620 (ID: 8de0c26b-923d-7d3a-3315-9a800f7e46ec) ==
+
+== Demographics ==
+Patient ID: 8de0c26b-923d-7d3a-3315-9a800f7e46ec
+Name: Johnathan55 Reichert620
+Gender: M
+Birthdate: 1955-02-02
+Address: 251 Bartoletti Center Unit 97
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Acute bacterial sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-14T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-14T10:46:35Z)
+- Depression screening (procedure) (Date: 2012-03-14T11:19:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-14T11:33:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-20T10:46:35Z)
+- Depression screening (procedure) (Date: 2013-03-20T11:32:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-20T11:46:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-08T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-08T10:46:35Z)
+- Depression screening (procedure) (Date: 2013-05-08T11:36:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-08T11:47:20Z)
+- Assessment of substance use (procedure) (Date: 2013-05-08T12:14:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-05-08T12:27:08Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-03T10:46:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-06T11:41:52Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T12:31:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T13:22:06Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T14:18:46Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T15:10:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T16:03:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T16:54:16Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T17:46:42Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T18:39:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-26T10:46:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-26T11:21:18Z)
+- Depression screening (procedure) (Date: 2014-03-26T11:37:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-26T11:51:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-01T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-01T10:46:35Z)
+- Depression screening (procedure) (Date: 2015-04-01T11:41:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-01T11:56:03Z)
+- Assessment of substance use (procedure) (Date: 2015-04-01T12:19:42Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-01T12:32:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-06T10:46:35Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-06T11:26:49Z)
+- Depression screening (procedure) (Date: 2016-04-06T11:43:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-06T11:56:11Z)
+- Assessment of substance use (procedure) (Date: 2016-04-06T12:18:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-06T12:28:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-12T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-12T10:46:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-12T11:17:00Z)
+- Screening for domestic abuse (procedure) (Date: 2017-04-12T11:44:41Z)
+- Assessment of substance use (procedure) (Date: 2017-04-12T12:22:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-12T12:33:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-18T10:46:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-18T11:45:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-24T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-24T10:46:35Z)
+- Screening for domestic abuse (procedure) (Date: 2019-04-24T11:33:11Z)
+- Depression screening (procedure) (Date: 2019-04-24T12:13:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-24T12:27:59Z)
+- Assessment of substance use (procedure) (Date: 2019-04-24T12:57:07Z)
+- Screening for drug abuse (procedure) (Date: 2019-04-24T13:09:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-29T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-29T10:46:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-04-29T11:38:17Z)
+- Assessment of substance use (procedure) (Date: 2020-04-29T12:05:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-04-29T12:19:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-05T10:46:35Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-05T10:46:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-05T11:37:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-05-05T11:54:53Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-05T12:20:00Z)
+- Depression screening (procedure) (Date: 2021-05-05T12:57:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-05T13:10:46Z)
+- Assessment of substance use (procedure) (Date: 2021-05-05T13:35:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-05T13:49:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-05T10:46:35Z: General examination of patient (procedure)
+- 2021-02-17T10:46:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-27T10:46:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-29T10:46:35Z: General examination of patient (procedure)
+- 2019-04-24T10:46:35Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-05T14:11:27Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-05-05T13:35:54Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-05-05T12:57:59Z Total score [HARK]: 0.0 {score}
+- 2021-05-05T12:20:00Z Fall risk total [Morse Fall Scale]: 33.0 {#}
+- 2021-05-05T12:20:00Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-05-05T11:54:53Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-05-05T11:37:01Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 48546 /a
+- 2021-05-05T11:37:01Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-05-05T11:37:01Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-05-05T11:37:01Z What is your housing situation today?: I have housing nan

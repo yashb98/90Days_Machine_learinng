@@ -1,0 +1,107 @@
+== PATIENT RECORD: Cythia210 Crist667 (ID: 49b2eb30-3376-3e26-e774-08e40c0ca44a) ==
+
+== Demographics ==
+Patient ID: 49b2eb30-3376-3e26-e774-08e40c0ca44a
+Name: Cythia210 Crist667
+Gender: F
+Birthdate: 1960-10-23
+Address: 578 Metz Route
+Marital Status: S
+
+== Allergies ==
+- Soya bean (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Miscarriage in first trimester
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-01T09:07:22Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-01T09:07:22Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-01T10:05:44Z)
+- Depression screening (procedure) (Date: 2012-07-01T10:40:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-01T10:51:51Z)
+- Assessment of substance use (procedure) (Date: 2012-07-01T11:18:30Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-01T11:31:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-07T09:07:22Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-07T09:53:53Z)
+- Depression screening (procedure) (Date: 2013-07-07T10:14:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-07T10:24:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-13T09:07:22Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-13T09:07:22Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-13T09:54:05Z)
+- Depression screening (procedure) (Date: 2014-07-13T10:18:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-13T10:32:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-19T09:07:22Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-19T09:40:11Z)
+- Depression screening (procedure) (Date: 2015-07-19T09:57:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-19T10:08:07Z)
+- Colonoscopy (Date: 2015-10-24T09:35:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-24T09:07:22Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-24T09:07:22Z)
+- Assessment of substance use (procedure) (Date: 2016-07-24T09:48:28Z)
+- Screening for drug abuse (procedure) (Date: 2016-07-24T10:02:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-30T09:07:22Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-30T09:07:22Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-30T09:54:35Z)
+- Screening for domestic abuse (procedure) (Date: 2017-07-30T10:13:49Z)
+- Depression screening (procedure) (Date: 2017-07-30T10:53:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-30T11:04:19Z)
+- Assessment of substance use (procedure) (Date: 2017-07-30T11:32:43Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-30T11:44:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-05T09:07:22Z)
+- Depression screening (procedure) (Date: 2018-08-05T09:49:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-05T10:01:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-11T09:07:22Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-11T09:07:22Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-11T10:01:17Z)
+- Depression screening (procedure) (Date: 2019-08-11T10:17:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-11T10:29:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-16T09:07:22Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-16T09:49:54Z)
+- Assessment of substance use (procedure) (Date: 2020-08-16T10:06:09Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-16T10:17:22Z)
+- Colonoscopy (Date: 2020-10-23T10:12:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-22T09:07:22Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-22T09:07:22Z)
+- Depression screening (procedure) (Date: 2021-08-22T09:52:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-22T10:07:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-05T09:07:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-22T09:07:22Z: General examination of patient (procedure)
+- 2021-08-08T09:07:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-23T10:12:12Z: Encounter for 'check-up'
+- 2020-08-16T09:07:22Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-23T09:07:22Z QOLS: 0.9 {score}
+- 2021-10-23T09:07:22Z QALY: 58.6 a
+- 2021-10-23T09:07:22Z DALY: 1.4 a
+- 2021-08-22T10:34:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-08-22T09:52:28Z Are you worried about losing your housing?: Yes nan
+- 2021-08-22T09:52:28Z What address do you live at?: 578 Metz Route nan
+- 2021-08-22T09:52:28Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-08-22T09:52:28Z What is your current work situation?: Full-time work nan
+- 2021-08-22T09:52:28Z What is your main insurance?: Private insurance nan
+- 2021-08-22T09:52:28Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 131586 /a

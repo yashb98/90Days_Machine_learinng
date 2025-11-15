@@ -1,0 +1,154 @@
+== PATIENT RECORD: Elza246 Johnson679 (ID: e65573ba-e39e-bac4-2e49-2d3cf9a538b8) ==
+
+== Demographics ==
+Patient ID: e65573ba-e39e-bac4-2e49-2d3cf9a538b8
+Name: Elza246 Johnson679
+Gender: F
+Birthdate: 1965-06-03
+Address: 665 Mayert Common Apt 54
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Normal pregnancy
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Laceration of foot
+- Part-time employment (finding)
+- Has a criminal record (finding)
+
+== Current Medications ==
+- Seasonique 91 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Removal of subcutaneous contraceptive (Date: 2012-08-16T18:31:31Z)
+- Standard pregnancy test (Date: 2012-10-11T18:31:31Z)
+- Ultrasound scan for fetal viability (Date: 2012-10-11T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2012-10-11T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2012-10-11T18:31:31Z)
+- Blood typing  RH typing (Date: 2012-10-11T18:31:31Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-10-11T18:31:31Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-10-11T18:31:31Z)
+- Human immunodeficiency virus antigen test (Date: 2012-10-11T18:31:31Z)
+- Chlamydia antigen test (Date: 2012-10-11T18:31:31Z)
+- Gonorrhea infection test (Date: 2012-10-11T18:31:31Z)
+- Syphilis infection test (Date: 2012-10-11T18:31:31Z)
+- Urine culture (Date: 2012-10-11T18:31:31Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-10-11T18:31:31Z)
+- Urine screening test for diabetes (Date: 2012-10-11T18:31:31Z)
+- Hepatitis C antibody test (Date: 2012-10-11T18:31:31Z)
+- Rubella screening (Date: 2012-10-11T18:31:31Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-10-11T18:31:31Z)
+- Skin test for tuberculosis (Date: 2012-10-11T18:31:31Z)
+- Urine protein test (Date: 2012-10-11T18:31:31Z)
+- Physical examination of mother (Date: 2012-10-11T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2012-11-08T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2012-11-08T18:31:31Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-11-08T18:31:31Z)
+- Fetal anatomy study (Date: 2012-12-06T18:31:31Z)
+- Alpha-fetoprotein test (Date: 2012-12-06T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2012-12-06T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2012-12-06T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2013-01-03T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2013-01-03T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2013-01-31T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2013-01-31T18:31:31Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-02-28T18:31:31Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2013-02-28T18:31:31Z)
+- Urine screening for glucose (Date: 2013-02-28T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2013-02-28T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2013-02-28T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2013-03-28T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2013-03-28T18:31:31Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-04-25T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2013-04-25T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2013-04-25T18:31:31Z)
+- Evaluation of uterine fundal height (Date: 2013-05-09T18:31:31Z)
+- Auscultation of the fetal heart (Date: 2013-05-09T18:31:31Z)
+- Childbirth (Date: 2013-05-16T18:31:31Z)
+- Physical examination following birth (Date: 2013-06-27T18:31:31Z)
+- Depression screening (Date: 2013-06-27T18:31:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-27T18:31:31Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-27T18:31:31Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-27T19:08:29Z)
+- Depression screening (procedure) (Date: 2013-06-27T19:27:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-27T19:37:51Z)
+- Assessment of substance use (procedure) (Date: 2013-06-27T20:02:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-06-27T20:13:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-04T18:31:31Z)
+- Assessment of anxiety (procedure) (Date: 2015-06-04T19:21:12Z)
+- Depression screening (procedure) (Date: 2015-06-04T19:46:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-04T19:57:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-09T18:31:31Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-09T18:31:31Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-09T19:15:19Z)
+- Assessment of substance use (procedure) (Date: 2016-06-09T19:32:23Z)
+- Screening for drug abuse (procedure) (Date: 2016-06-09T19:44:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-15T18:31:31Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-15T18:31:31Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-15T19:24:53Z)
+- Depression screening (procedure) (Date: 2017-06-15T19:53:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-15T20:03:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-21T18:31:31Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-21T19:12:45Z)
+- Screening for domestic abuse (procedure) (Date: 2018-06-21T19:41:50Z)
+- Depression screening (procedure) (Date: 2018-06-21T20:18:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-21T20:29:28Z)
+- Assessment of substance use (procedure) (Date: 2018-06-21T20:55:39Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-21T21:08:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-27T18:31:31Z)
+- Screening for domestic abuse (procedure) (Date: 2019-06-27T19:24:11Z)
+- Depression screening (procedure) (Date: 2019-06-27T19:49:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-27T20:01:50Z)
+- Measurement of respiratory function (procedure) (Date: 2020-01-12T11:31:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-16T18:31:31Z)
+- Depression screening (procedure) (Date: 2020-01-16T19:06:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-16T19:19:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-02T18:31:31Z)
+- Depression screening (procedure) (Date: 2020-07-02T19:27:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-02T19:39:15Z)
+- Assessment of substance use (procedure) (Date: 2020-07-02T20:07:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-07-02T20:18:01Z)
+- Suture open wound (Date: 2021-01-01T18:55:45Z)
+- Measurement of respiratory function (procedure) (Date: 2021-02-28T22:31:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-11T18:31:31Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-11T19:20:27Z)
+- Depression screening (procedure) (Date: 2021-03-11T19:39:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-11T19:49:18Z)
+- Assessment of substance use (procedure) (Date: 2021-03-11T20:18:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-11T20:31:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-08T18:31:31Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-08T18:31:31Z)
+- Depression screening (procedure) (Date: 2021-07-08T19:30:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-08T19:41:27Z)
+- Assessment of substance use (procedure) (Date: 2021-07-08T20:04:38Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-08T20:18:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-08T18:31:31Z: General examination of patient (procedure)
+- 2021-03-11T18:31:31Z: Encounter for check up (procedure)
+- 2021-02-28T22:31:31Z: Encounter for symptom
+- 2021-02-25T18:31:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-28T18:31:31Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-08T20:45:06Z Total score [DAST-10]: 1.0 {score}
+- 2021-07-08T20:04:38Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-08T19:30:08Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-07-08T19:30:08Z Are you worried about losing your housing?: Yes nan
+- 2021-07-08T19:30:08Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-07-08T19:30:08Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-07-08T19:30:08Z Are you a refugee?: No nan
+- 2021-07-08T19:30:08Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-07-08T19:30:08Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Somewhat nan
+- 2021-07-08T19:30:08Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

@@ -1,0 +1,46 @@
+== PATIENT RECORD: Miguel815 Braun514 (ID: d1f767cc-a980-8bd9-8a1b-f7ada327b40c) ==
+
+== Demographics ==
+Patient ID: d1f767cc-a980-8bd9-8a1b-f7ada327b40c
+Name: Miguel815 Braun514
+Gender: M
+Birthdate: 2020-04-20
+Address: 961 Rolfson Skyway Unit 38
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-04-20T08:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-25T08:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-27T08:15:57Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-29T08:15:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-27T08:15:57Z: Well child visit (procedure)
+- 2021-07-28T08:15:57Z: Encounter for symptom
+- 2021-06-28T08:15:57Z: Well child visit (procedure)
+- 2021-04-15T08:15:57Z: Encounter for symptom
+- 2021-03-29T08:15:57Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-27T08:15:57Z Weight-for-length Per age and sex: 33.4 %
+- 2021-09-27T08:15:57Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-27T08:15:57Z Respiratory rate: 14.0 /min
+- 2021-09-27T08:15:57Z Heart rate: 67.0 /min
+- 2021-09-27T08:15:57Z Systolic Blood Pressure: 126.0 mm[Hg]
+- 2021-09-27T08:15:57Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-09-27T08:15:57Z Head Occipital-frontal circumference: 48.2 cm
+- 2021-09-27T08:15:57Z Body Weight: 11.2 kg
+- 2021-09-27T08:15:57Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-09-27T08:15:57Z Body Height: 82.8 cm

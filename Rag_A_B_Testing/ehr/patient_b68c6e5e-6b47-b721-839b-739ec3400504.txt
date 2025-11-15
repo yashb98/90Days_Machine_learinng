@@ -1,0 +1,108 @@
+== PATIENT RECORD: Jordan900 Smitham825 (ID: b68c6e5e-6b47-b721-839b-739ec3400504) ==
+
+== Demographics ==
+Patient ID: b68c6e5e-6b47-b721-839b-739ec3400504
+Name: Jordan900 Smitham825
+Gender: F
+Birthdate: 1963-03-18
+Address: 198 Herzog Ramp
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Received higher education (finding)
+- Lack of access to transportation (finding)
+- Body mass index 30+ - obesity (finding)
+- Part-time employment (finding)
+- Transport problems (finding)
+- Localized  primary osteoarthritis of the hand
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Victim of intimate partner abuse (finding)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-03-18T11:39:31Z)
+- Colonoscopy (Date: 2013-03-18T11:39:31Z)
+- Depression screening (procedure) (Date: 2013-03-18T12:21:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-18T12:31:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-24T11:39:31Z)
+- Depression screening (procedure) (Date: 2014-03-24T12:20:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-24T12:32:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-30T11:39:31Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-30T11:39:31Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-30T12:11:13Z)
+- Depression screening (procedure) (Date: 2015-03-30T12:39:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-30T12:50:57Z)
+- Assessment of substance use (procedure) (Date: 2015-03-30T13:18:07Z)
+- Screening for drug abuse (procedure) (Date: 2015-03-30T13:28:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-04T11:39:31Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-04T11:39:31Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-04T12:23:36Z)
+- Depression screening (procedure) (Date: 2016-04-04T12:43:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-04T12:55:58Z)
+- Assessment of substance use (procedure) (Date: 2016-04-04T13:17:55Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-04T13:31:56Z)
+- Sputum examination (procedure) (Date: 2016-04-17T10:39:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-10T11:39:31Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-10T12:35:13Z)
+- Depression screening (procedure) (Date: 2017-04-10T12:59:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-10T13:13:47Z)
+- Colonoscopy (Date: 2018-03-18T12:07:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-16T11:39:31Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-16T11:39:31Z)
+- Screening for domestic abuse (procedure) (Date: 2018-04-16T12:28:15Z)
+- Depression screening (procedure) (Date: 2018-04-16T12:55:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-16T13:08:37Z)
+- Assessment of substance use (procedure) (Date: 2018-04-16T13:29:45Z)
+- Screening for drug abuse (procedure) (Date: 2018-04-16T13:42:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-22T11:39:31Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-22T11:39:31Z)
+- Screening for domestic abuse (procedure) (Date: 2019-04-22T12:21:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-27T11:39:31Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-27T12:15:49Z)
+- Depression screening (procedure) (Date: 2020-04-27T12:34:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-27T12:45:03Z)
+- Assessment of substance use (procedure) (Date: 2020-04-27T13:07:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-04-27T13:22:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-03T11:39:31Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-03T12:13:41Z)
+- Depression screening (procedure) (Date: 2021-05-03T12:35:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-03T12:45:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-24T11:39:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-03T11:39:31Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-03T11:39:31Z: General examination of patient (procedure)
+- 2020-04-27T11:39:31Z: General examination of patient (procedure)
+- 2019-07-04T11:39:31Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-03T13:09:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-03T12:35:46Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-05-03T12:13:41Z Which race(s) are you?: White nan
+- 2021-05-03T12:13:41Z What address do you live at?: 198 Herzog Ramp nan
+- 2021-05-03T12:13:41Z What language are you most comfortable speaking?: English nan
+- 2021-05-03T12:13:41Z How many family members  including yourself  do you currently live with?: 8.0 {#}
+- 2021-05-03T12:13:41Z What is your housing situation today?: I have housing nan
+- 2021-05-03T12:13:41Z Are you worried about losing your housing?: No nan
+- 2021-05-03T12:13:41Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-05-03T12:13:41Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

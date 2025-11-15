@@ -1,0 +1,153 @@
+== PATIENT RECORD: Robt687 Mante251 (ID: ac58e6c6-b5d7-8fe7-a0f3-452885f7b560) ==
+
+== Demographics ==
+Patient ID: ac58e6c6-b5d7-8fe7-a0f3-452885f7b560
+Name: Robt687 Mante251
+Gender: M
+Birthdate: 1940-08-16
+Address: 819 Hauck Plaza
+Marital Status: S
+
+== Allergies ==
+- Animal dander (substance)
+- Penicillin V
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Fracture of clavicle
+- Acute bronchitis (disorder)
+- Chronic congestive heart failure (disorder)
+
+== Current Medications ==
+- doxycycline hyclate 100 MG
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2002-10-26T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2002-10-26T02:09:15Z)
+- Depression screening (procedure) (Date: 2002-10-26T02:30:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-10-26T02:42:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-11-01T01:13:51Z)
+- Depression screening (procedure) (Date: 2003-11-01T02:11:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-11-01T02:25:35Z)
+- Assessment of substance use (procedure) (Date: 2003-11-01T02:50:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-11-01T03:02:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-11-06T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2004-11-06T01:13:51Z)
+- Depression screening (procedure) (Date: 2004-11-06T02:02:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-11-06T02:12:51Z)
+- Assessment of substance use (procedure) (Date: 2004-11-06T02:38:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-11-06T02:51:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-11-12T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2005-11-12T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2005-11-12T01:59:05Z)
+- Screening for domestic abuse (procedure) (Date: 2005-11-12T02:26:56Z)
+- Depression screening (procedure) (Date: 2005-11-12T03:11:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-11-12T03:21:14Z)
+- Assessment of substance use (procedure) (Date: 2005-11-12T03:50:56Z)
+- Screening for drug abuse (procedure) (Date: 2005-11-12T04:04:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-11-18T01:13:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-11-18T01:50:19Z)
+- Screening for domestic abuse (procedure) (Date: 2006-11-18T02:20:02Z)
+- Depression screening (procedure) (Date: 2006-11-18T03:03:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-11-18T03:15:39Z)
+- Assessment of substance use (procedure) (Date: 2006-11-18T03:41:27Z)
+- Screening for drug abuse (procedure) (Date: 2006-11-18T03:53:05Z)
+- Colonoscopy (Date: 2006-12-13T03:38:37Z)
+- Clavicle X-ray (Date: 2007-06-28T02:27:57Z)
+- Admission to orthopedic department (Date: 2007-06-28T02:27:57Z)
+- Bone density scan (procedure) (Date: 2007-06-28T03:35:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-11-24T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2007-11-24T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2007-11-24T01:52:56Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-11-24T02:08:42Z)
+- Depression screening (procedure) (Date: 2007-11-24T02:28:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-11-24T02:39:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-11-29T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2008-11-29T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2008-11-29T02:10:20Z)
+- Depression screening (procedure) (Date: 2008-11-29T02:31:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-11-29T02:42:25Z)
+- Assessment of substance use (procedure) (Date: 2008-11-29T03:09:09Z)
+- Screening for drug abuse (procedure) (Date: 2008-11-29T03:23:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-12-05T01:13:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-12-05T02:08:54Z)
+- Assessment of substance use (procedure) (Date: 2009-12-05T02:33:18Z)
+- Screening for drug abuse (procedure) (Date: 2009-12-05T02:45:49Z)
+- Measurement of respiratory function (procedure) (Date: 2010-04-01T07:13:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-04-10T01:13:51Z)
+- Depression screening (procedure) (Date: 2010-04-10T02:05:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-04-10T02:19:17Z)
+- Electrocardiographic procedure (Date: 2010-09-14T01:13:51Z)
+- Plain chest X-ray (procedure) (Date: 2010-09-14T01:18:55Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2010-09-14T01:18:55Z)
+- Echocardiography (procedure) (Date: 2010-10-02T01:34:47Z)
+- Medication Reconciliation (procedure) (Date: 2010-10-02T01:34:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-12-11T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2010-12-11T01:13:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-12-11T01:53:27Z)
+- Depression screening (procedure) (Date: 2010-12-11T02:20:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-12-11T02:35:38Z)
+- Assessment of substance use (procedure) (Date: 2010-12-11T03:02:45Z)
+- Screening for drug abuse (procedure) (Date: 2010-12-11T03:17:33Z)
+- Echocardiography (procedure) (Date: 2011-03-31T01:34:47Z)
+- Medication Reconciliation (procedure) (Date: 2011-03-31T01:34:47Z)
+- Measurement of respiratory function (procedure) (Date: 2011-08-10T04:13:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-08-20T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2011-08-20T02:04:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-08-20T02:31:59Z)
+- Depression screening (procedure) (Date: 2011-08-20T02:58:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-08-20T03:09:33Z)
+- Assessment of substance use (procedure) (Date: 2011-08-20T03:36:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-08-20T03:47:01Z)
+- Oxygen administration by mask (procedure) (Date: 2011-09-27T01:34:47Z)
+- Placing subject in prone position (procedure) (Date: 2011-09-27T01:34:47Z)
+- Plain chest X-ray (procedure) (Date: 2011-09-27T01:34:47Z)
+- Medication Reconciliation (procedure) (Date: 2011-09-27T01:34:47Z)
+- Electrocardiographic procedure (Date: 2011-09-27T01:34:47Z)
+- Oxygen administration by mask (procedure) (Date: 2011-09-27T01:42:41Z)
+- Placing subject in prone position (procedure) (Date: 2011-09-27T01:42:41Z)
+- Heart failure education (procedure) (Date: 2011-09-28T01:42:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-12-17T01:13:51Z)
+- Colonoscopy (Date: 2011-12-13T04:08:10Z)
+- Depression screening (procedure) (Date: 2011-12-17T02:00:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-17T02:10:56Z)
+- Assessment of substance use (procedure) (Date: 2011-12-17T02:34:40Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-17T02:45:47Z)
+- Echocardiography (procedure) (Date: 2012-06-11T02:28:24Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-11T02:28:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2012-08-11T01:13:51Z: Death Certification
+- 2012-06-11T02:28:24Z: Encounter for problem
+- 2012-06-10T04:13:51Z: Encounter for symptom
+- 2012-06-10T02:28:24Z: Telemedicine consultation with patient
+- 2012-06-09T02:28:24Z: Telemedicine consultation with patient
+
+== Recent Observations (Last 10) ==
+- 2012-08-17T01:13:51Z QOLS: 1.0 {score}
+- 2012-08-17T01:13:51Z DALY: 0.2 a
+- 2012-08-17T01:13:51Z QALY: 70.8 a
+- 2012-08-11T01:13:51Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2012-06-11T02:28:24Z Carbon Dioxide: 25.6 mmol/L
+- 2012-06-11T02:28:24Z Chloride: 108.9 mmol/L
+- 2012-06-11T02:28:24Z Potassium: 4.8 mmol/L
+- 2012-06-11T02:28:24Z Sodium: 138.1 mmol/L
+- 2012-06-11T02:28:24Z Calcium: 8.6 mg/dL
+- 2012-06-11T02:28:24Z Creatinine: 0.9 mg/dL

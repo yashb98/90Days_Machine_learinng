@@ -1,0 +1,152 @@
+== PATIENT RECORD: Lynsey2 Rath779 (ID: 4a4fd874-cf7c-d4f5-07a1-77b844d97c5f) ==
+
+== Demographics ==
+Patient ID: 4a4fd874-cf7c-d4f5-07a1-77b844d97c5f
+Name: Lynsey2 Rath779
+Gender: F
+Birthdate: 1997-06-15
+Address: 882 Roob Track
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Laceration of thigh
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Sprain of ankle
+- Stress (finding)
+- Sprain of wrist
+- Normal pregnancy
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+- Naproxen sodium 220 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Ibuprofen 200 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2012-06-09T11:34:37Z)
+- Depression screening (procedure) (Date: 2012-07-22T11:34:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-22T11:48:45Z)
+- Assessment of substance use (procedure) (Date: 2012-07-22T12:15:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-07-22T12:29:29Z)
+- Anticipatory guidance (procedure) (Date: 2012-07-22T12:43:10Z)
+- Intramuscular injection (Date: 2012-09-16T11:34:37Z)
+- Intramuscular injection (Date: 2012-12-16T11:34:37Z)
+- Intramuscular injection (Date: 2013-03-17T11:34:37Z)
+- Intramuscular injection (Date: 2013-06-16T11:34:37Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-28T11:34:37Z)
+- Depression screening (procedure) (Date: 2013-07-28T12:04:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-28T12:14:47Z)
+- Intramuscular injection (Date: 2013-09-15T11:34:37Z)
+- Intramuscular injection (Date: 2013-12-15T11:34:37Z)
+- Intramuscular injection (Date: 2014-03-16T11:34:37Z)
+- Intramuscular injection (Date: 2014-06-15T11:34:37Z)
+- Assessment of substance use (procedure) (Date: 2014-08-03T11:34:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-08-03T11:47:53Z)
+- Anticipatory guidance (procedure) (Date: 2014-08-03T12:04:45Z)
+- Intramuscular injection (Date: 2014-09-14T11:34:37Z)
+- Suture open wound (Date: 2014-09-16T12:30:59Z)
+- Injection of tetanus antitoxin (Date: 2014-09-16T12:46:24Z)
+- Intramuscular injection (Date: 2014-12-14T11:34:37Z)
+- Intramuscular injection (Date: 2015-03-15T11:34:37Z)
+- Intramuscular injection (Date: 2015-06-14T11:34:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-09T11:34:37Z)
+- Intramuscular injection (Date: 2015-09-13T11:34:37Z)
+- Intramuscular injection (Date: 2015-12-13T11:34:37Z)
+- Intramuscular injection (Date: 2016-03-13T11:34:37Z)
+- Intramuscular injection (Date: 2016-06-12T11:34:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-14T11:34:37Z)
+- Intramuscular injection (Date: 2016-09-11T11:34:37Z)
+- Intramuscular injection (Date: 2016-12-11T11:34:37Z)
+- Intramuscular injection (Date: 2017-03-12T11:34:37Z)
+- Intramuscular injection (Date: 2017-06-11T11:34:37Z)
+- Intramuscular injection (Date: 2017-09-10T11:34:37Z)
+- Intramuscular injection (Date: 2017-12-10T11:34:37Z)
+- Intramuscular injection (Date: 2018-03-11T11:34:37Z)
+- Intramuscular injection (Date: 2018-05-09T11:50:54Z)
+- Intramuscular injection (Date: 2018-06-10T11:34:37Z)
+- Intramuscular injection (Date: 2018-09-09T11:34:37Z)
+- Intramuscular injection (Date: 2018-12-09T11:34:37Z)
+- Intramuscular injection (Date: 2019-03-10T11:34:37Z)
+- Intramuscular injection (Date: 2019-06-09T11:34:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-18T11:34:37Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-18T11:34:37Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-18T12:25:30Z)
+- Depression screening (procedure) (Date: 2019-08-18T12:47:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-18T12:57:41Z)
+- Intramuscular injection (Date: 2019-09-08T11:34:37Z)
+- Intramuscular injection (Date: 2019-12-08T11:34:37Z)
+- Intramuscular injection (Date: 2020-03-08T11:34:37Z)
+- Intramuscular injection (Date: 2020-06-07T11:34:37Z)
+- Standard pregnancy test (Date: 2020-10-04T11:34:37Z)
+- Ultrasound scan for fetal viability (Date: 2020-10-04T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2020-10-04T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2020-10-04T11:34:37Z)
+- Blood typing  RH typing (Date: 2020-10-04T11:34:37Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-10-04T11:34:37Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2020-10-04T11:34:37Z)
+- Human immunodeficiency virus antigen test (Date: 2020-10-04T11:34:37Z)
+- Chlamydia antigen test (Date: 2020-10-04T11:34:37Z)
+- Gonorrhea infection test (Date: 2020-10-04T11:34:37Z)
+- Syphilis infection test (Date: 2020-10-04T11:34:37Z)
+- Urine culture (Date: 2020-10-04T11:34:37Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2020-10-04T11:34:37Z)
+- Urine screening test for diabetes (Date: 2020-10-04T11:34:37Z)
+- Hepatitis C antibody test (Date: 2020-10-04T11:34:37Z)
+- Rubella screening (Date: 2020-10-04T11:34:37Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2020-10-04T11:34:37Z)
+- Skin test for tuberculosis (Date: 2020-10-04T11:34:37Z)
+- Urine protein test (Date: 2020-10-04T11:34:37Z)
+- Physical examination of mother (Date: 2020-10-04T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2020-11-01T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2020-11-01T11:34:37Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2020-11-01T11:34:37Z)
+- Fetal anatomy study (Date: 2020-11-29T11:34:37Z)
+- Alpha-fetoprotein test (Date: 2020-11-29T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2020-11-29T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2020-11-29T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2020-12-27T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2020-12-27T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2021-01-24T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2021-01-24T11:34:37Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-02-21T11:34:37Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-02-21T11:34:37Z)
+- Urine screening for glucose (Date: 2021-02-21T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2021-02-21T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2021-02-21T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2021-03-21T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2021-03-21T11:34:37Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2021-04-18T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2021-04-18T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2021-04-18T11:34:37Z)
+- Evaluation of uterine fundal height (Date: 2021-05-02T11:34:37Z)
+- Auscultation of the fetal heart (Date: 2021-05-02T11:34:37Z)
+- Medical induction of labor (Date: 2021-05-09T11:34:37Z)
+- Childbirth (Date: 2021-05-09T11:34:37Z)
+- Physical examination following birth (Date: 2021-06-20T11:34:37Z)
+- Depression screening (Date: 2021-06-20T11:34:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-20T11:34:37Z: Postnatal visit
+- 2021-06-06T11:34:37Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-16T11:34:37Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-09T11:34:37Z: Obstetric emergency hospital admission
+- 2021-05-02T11:34:37Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-06-15T11:34:37Z QOLS: 1.0 {score}
+- 2021-06-15T11:34:37Z DALY: 0.1 a
+- 2021-06-15T11:34:37Z QALY: 22.9 a
+- 2020-06-15T11:34:37Z QOLS: 1.0 {score}
+- 2020-06-15T11:34:37Z DALY: 0.1 a
+- 2020-06-15T11:34:37Z QALY: 21.9 a
+- 2019-08-18T13:26:02Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-08-18T12:47:36Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2019-08-18T12:25:30Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2019-08-18T12:25:30Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 197184 /a

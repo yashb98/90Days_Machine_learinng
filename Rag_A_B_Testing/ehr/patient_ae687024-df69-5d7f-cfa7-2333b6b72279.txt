@@ -1,0 +1,58 @@
+== PATIENT RECORD: Katie634 Feest103 (ID: ae687024-df69-5d7f-cfa7-2333b6b72279) ==
+
+== Demographics ==
+Patient ID: ae687024-df69-5d7f-cfa7-2333b6b72279
+Name: Katie634 Feest103
+Gender: F
+Birthdate: 1999-06-04
+Address: 370 Lueilwitz Mission Apt 8
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Streptococcal sore throat (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- First degree burn
+- Concussion with no loss of consciousness
+- Bullet wound
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2005-05-21T00:20:22Z)
+- Throat culture (procedure) (Date: 2006-01-24T23:20:22Z)
+- Medication Reconciliation (procedure) (Date: 2010-06-19T00:20:22Z)
+- Depression screening (procedure) (Date: 2011-06-25T00:20:22Z)
+- Medication Reconciliation (procedure) (Date: 2011-06-25T00:20:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2011-06-25T00:33:12Z)
+- Depression screening (procedure) (Date: 2012-06-30T00:20:22Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-30T00:20:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-06-30T00:30:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2012-10-06T00:20:22Z: Death Certification
+- 2012-09-29T00:20:22Z: Emergency room admission (procedure)
+- 2012-06-30T00:20:22Z: Well child visit (procedure)
+- 2011-06-25T00:20:22Z: Well child visit (procedure)
+- 2010-08-27T00:20:22Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2012-10-06T00:20:22Z Cause of Death [US Standard Certificate of Death]: Bullet wound nan
+- 2012-06-30T00:54:37Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2012-06-30T00:20:22Z Heart rate: 90.0 /min
+- 2012-06-30T00:20:22Z Systolic Blood Pressure: 133.0 mm[Hg]
+- 2012-06-30T00:20:22Z Body Height: 154.1 cm
+- 2012-06-30T00:20:22Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2012-06-30T00:20:22Z Body Weight: 50.7 kg
+- 2012-06-30T00:20:22Z Body Mass Index: 21.4 kg/m2
+- 2012-06-30T00:20:22Z Body mass index (BMI) [Percentile] Per age and gender: 77.8 %
+- 2012-06-30T00:20:22Z Tobacco smoking status NHIS: Never smoker nan

@@ -1,0 +1,97 @@
+== PATIENT RECORD: Tyrell880 Fadel536 (ID: 795045ce-11be-b8ac-a5c7-886d4eca732c) ==
+
+== Demographics ==
+Patient ID: 795045ce-11be-b8ac-a5c7-886d4eca732c
+Name: Tyrell880 Fadel536
+Gender: M
+Birthdate: 2007-07-08
+Address: 528 Parker Divide Unit 82
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Seasonal allergic rhinitis
+- Acute bronchitis (disorder)
+- Laceration of thigh
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-18T02:43:25Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-24T02:43:25Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-06T02:43:25Z)
+- Sputum examination (procedure) (Date: 2018-09-28T04:43:25Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-29T02:43:25Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-29T02:43:25Z)
+- Depression screening (procedure) (Date: 2019-07-29T02:58:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-07-29T03:13:32Z)
+- Assessment of substance use (procedure) (Date: 2019-07-29T03:41:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-07-29T03:53:19Z)
+- Anticipatory guidance (procedure) (Date: 2019-07-29T04:04:20Z)
+- Allergy screening test (Date: 2020-07-13T02:43:25Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-03T02:43:25Z)
+- Depression screening (procedure) (Date: 2020-08-03T03:03:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-03T03:15:59Z)
+- Assessment of substance use (procedure) (Date: 2020-08-03T03:36:54Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-08-03T03:49:30Z)
+- Anticipatory guidance (procedure) (Date: 2020-08-03T04:15:14Z)
+- Subcutaneous immunotherapy (Date: 2020-08-09T03:21:33Z)
+- Subcutaneous immunotherapy (Date: 2020-09-02T04:02:23Z)
+- Subcutaneous immunotherapy (Date: 2020-09-29T04:47:08Z)
+- Subcutaneous immunotherapy (Date: 2020-10-20T05:27:43Z)
+- Depression screening (procedure) (Date: 2020-11-09T02:43:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-09T02:55:38Z)
+- Assessment of substance use (procedure) (Date: 2020-11-09T03:19:39Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-09T03:30:45Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-09T03:43:20Z)
+- Subcutaneous immunotherapy (Date: 2020-11-13T06:00:57Z)
+- Subcutaneous immunotherapy (Date: 2020-12-08T06:22:35Z)
+- Subcutaneous immunotherapy (Date: 2021-01-02T07:12:10Z)
+- Subcutaneous immunotherapy (Date: 2021-01-25T07:55:02Z)
+- Subcutaneous immunotherapy (Date: 2021-02-20T08:19:49Z)
+- Subcutaneous immunotherapy (Date: 2021-03-14T08:39:46Z)
+- Subcutaneous immunotherapy (Date: 2021-04-10T09:18:26Z)
+- Subcutaneous immunotherapy (Date: 2021-05-01T09:43:15Z)
+- Subcutaneous immunotherapy (Date: 2021-05-23T10:12:20Z)
+- Subcutaneous immunotherapy (Date: 2021-06-14T10:37:20Z)
+- Subcutaneous immunotherapy (Date: 2021-07-10T11:31:16Z)
+- Depression screening (procedure) (Date: 2021-08-09T02:43:25Z)
+- Suture open wound (Date: 2021-08-08T03:12:05Z)
+- Subcutaneous immunotherapy (Date: 2021-08-02T12:30:34Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-09T02:56:44Z)
+- Subcutaneous immunotherapy (Date: 2021-08-24T12:59:13Z)
+- Subcutaneous immunotherapy (Date: 2021-09-20T13:37:34Z)
+- Subcutaneous immunotherapy (Date: 2021-10-17T13:54:30Z)
+- Subcutaneous immunotherapy (Date: 2021-11-11T14:22:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-11T14:22:40Z: Outpatient procedure
+- 2021-10-17T13:54:30Z: Outpatient procedure
+- 2021-09-20T13:37:34Z: Outpatient procedure
+- 2021-09-06T02:43:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-24T12:59:13Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-08-09T03:21:20Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-08-09T02:43:25Z Body Mass Index: 24.5 kg/m2
+- 2021-08-09T02:43:25Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-09T02:43:25Z Body Height: 155.1 cm
+- 2021-08-09T02:43:25Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-08-09T02:43:25Z Body Weight: 59.0 kg
+- 2021-08-09T02:43:25Z Body mass index (BMI) [Percentile] Per age and gender: 91.8 %
+- 2021-08-09T02:43:25Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-08-09T02:43:25Z Systolic Blood Pressure: 122.0 mm[Hg]
+- 2021-08-09T02:43:25Z Heart rate: 72.0 /min

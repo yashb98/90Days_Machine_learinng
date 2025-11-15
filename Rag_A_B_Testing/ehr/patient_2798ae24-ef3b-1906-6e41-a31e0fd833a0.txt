@@ -1,0 +1,47 @@
+== PATIENT RECORD: Jolynn62 Conn188 (ID: 2798ae24-ef3b-1906-6e41-a31e0fd833a0) ==
+
+== Demographics ==
+Patient ID: 2798ae24-ef3b-1906-6e41-a31e0fd833a0
+Name: Jolynn62 Conn188
+Gender: F
+Birthdate: 1973-07-14
+Address: 123 Price Vista
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Fracture of clavicle
+
+== Current Medications ==
+- Diazepam 5 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1973-10-21T00:04:07Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1973-12-12T00:04:07Z)
+- Medication Reconciliation (procedure) (Date: 1973-12-23T00:04:07Z)
+- Clavicle X-ray (Date: 1974-07-22T00:04:07Z)
+- Admission to orthopedic department (Date: 1974-07-22T00:04:07Z)
+
+== Recent Encounters (Last 5) ==
+- 1974-10-27T00:04:07Z: Death Certification
+- 1974-09-22T00:04:07Z: Well child visit (procedure)
+- 1974-09-14T01:34:07Z: Encounter for 'check-up'
+- 1974-07-22T00:04:07Z: Emergency room admission (procedure)
+- 1974-06-23T00:04:07Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1974-10-27T00:04:07Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1974-09-22T00:04:07Z Tobacco smoking status NHIS: Never smoker nan
+- 1974-09-22T00:04:07Z Respiratory rate: 15.0 /min
+- 1974-09-22T00:04:07Z Heart rate: 67.0 /min
+- 1974-09-22T00:04:07Z Systolic Blood Pressure: 108.0 mm[Hg]
+- 1974-09-22T00:04:07Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 1974-09-22T00:04:07Z Head Occipital-frontal circumference: 45.7 cm
+- 1974-09-22T00:04:07Z Weight-for-length Per age and sex: 81.2 %
+- 1974-09-22T00:04:07Z Body Weight: 10.8 kg
+- 1974-09-22T00:04:07Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}

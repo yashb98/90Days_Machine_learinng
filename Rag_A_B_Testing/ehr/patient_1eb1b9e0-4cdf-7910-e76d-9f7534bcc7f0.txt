@@ -1,0 +1,112 @@
+== PATIENT RECORD: Lavone763 Swaniawski813 (ID: 1eb1b9e0-4cdf-7910-e76d-9f7534bcc7f0) ==
+
+== Demographics ==
+Patient ID: 1eb1b9e0-4cdf-7910-e76d-9f7534bcc7f0
+Name: Lavone763 Swaniawski813
+Gender: F
+Birthdate: 1999-10-11
+Address: 876 Langworth Run Apt 41
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Fracture of clavicle
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- Trinessa 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Kyleena 19.5 MG Intrauterine System
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Jolivette 28 Day Pack
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Errin 28 Day Pack
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-11-05T13:24:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-11-05T13:35:48Z)
+- Assessment of substance use (procedure) (Date: 2012-11-05T14:01:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-11-05T14:12:23Z)
+- Anticipatory guidance (procedure) (Date: 2012-11-05T14:36:14Z)
+- Depression screening (procedure) (Date: 2013-11-11T13:24:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-11-11T13:37:59Z)
+- Sputum examination (procedure) (Date: 2014-02-15T16:24:23Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-17T13:24:23Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-17T13:24:23Z)
+- Depression screening (procedure) (Date: 2014-11-17T13:43:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-17T13:56:37Z)
+- Assessment of substance use (procedure) (Date: 2014-11-17T14:24:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-11-17T14:38:31Z)
+- Anticipatory guidance (procedure) (Date: 2014-11-17T15:02:36Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-23T13:24:23Z)
+- Depression screening (procedure) (Date: 2015-11-23T13:41:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-23T13:55:18Z)
+- Insertion of intrauterine contraceptive device (Date: 2016-09-29T10:24:23Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-28T13:24:23Z)
+- Depression screening (procedure) (Date: 2016-11-28T13:52:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-28T14:05:59Z)
+- Assessment of substance use (procedure) (Date: 2016-11-28T14:34:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-11-28T14:44:47Z)
+- Health risks education (procedure) (Date: 2016-11-28T15:11:01Z)
+- Clavicle X-ray (Date: 2017-03-04T13:38:06Z)
+- Admission to orthopedic department (Date: 2017-03-04T13:38:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-04T13:24:23Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-04T13:24:23Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-04T14:19:27Z)
+- Depression screening (procedure) (Date: 2017-12-04T14:40:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-04T14:51:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-10T13:24:23Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-10T13:24:23Z)
+- Depression screening (procedure) (Date: 2018-12-10T14:18:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-10T14:31:15Z)
+- Removal of intrauterine device (Date: 2021-09-20T13:24:23Z)
+- Standard pregnancy test (Date: 2021-11-15T13:24:23Z)
+- Ultrasound scan for fetal viability (Date: 2021-11-15T13:24:23Z)
+- Evaluation of uterine fundal height (Date: 2021-11-15T13:24:23Z)
+- Auscultation of the fetal heart (Date: 2021-11-15T13:24:23Z)
+- Blood typing  RH typing (Date: 2021-11-15T13:24:23Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-11-15T13:24:23Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-11-15T13:24:23Z)
+- Human immunodeficiency virus antigen test (Date: 2021-11-15T13:24:23Z)
+- Chlamydia antigen test (Date: 2021-11-15T13:24:23Z)
+- Gonorrhea infection test (Date: 2021-11-15T13:24:23Z)
+- Syphilis infection test (Date: 2021-11-15T13:24:23Z)
+- Urine culture (Date: 2021-11-15T13:24:23Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-11-15T13:24:23Z)
+- Urine screening test for diabetes (Date: 2021-11-15T13:24:23Z)
+- Hepatitis C antibody test (Date: 2021-11-15T13:24:23Z)
+- Rubella screening (Date: 2021-11-15T13:24:23Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-11-15T13:24:23Z)
+- Skin test for tuberculosis (Date: 2021-11-15T13:24:23Z)
+- Urine protein test (Date: 2021-11-15T13:24:23Z)
+- Physical examination of mother (Date: 2021-11-15T13:24:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-15T13:24:23Z: Prenatal initial visit
+- 2021-11-04T14:24:23Z: Encounter for symptom
+- 2021-09-20T13:24:23Z: Patient encounter procedure
+- 2020-09-08T11:21:38Z: Consultation for treatment
+- 2019-02-17T03:24:23Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-11T13:24:23Z QOLS: 1.0 {score}
+- 2021-10-11T13:24:23Z QALY: 21.0 a
+- 2021-10-11T13:24:23Z DALY: 0.0 a
+- 2020-10-11T13:24:23Z QOLS: 1.0 {score}
+- 2020-10-11T13:24:23Z QALY: 20.0 a
+- 2020-10-11T13:24:23Z DALY: 0.0 a
+- 2019-10-11T13:24:23Z DALY: 0.0 a
+- 2019-10-11T13:24:23Z QALY: 19.0 a
+- 2019-10-11T13:24:23Z QOLS: 1.0 {score}
+- 2018-12-10T14:56:31Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}

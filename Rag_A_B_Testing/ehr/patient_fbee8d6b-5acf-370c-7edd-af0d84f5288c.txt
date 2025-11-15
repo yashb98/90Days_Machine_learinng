@@ -1,0 +1,126 @@
+== PATIENT RECORD: Synthia172 Davis923 (ID: fbee8d6b-5acf-370c-7edd-af0d84f5288c) ==
+
+== Demographics ==
+Patient ID: fbee8d6b-5acf-370c-7edd-af0d84f5288c
+Name: Synthia172 Davis923
+Gender: F
+Birthdate: 2000-10-10
+Address: 114 Crona Mission Apt 98
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Sprain of ankle
+- Sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Chronic low back pain (finding)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Unemployed (finding)
+- Normal pregnancy
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Trinessa 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+- tramadol hydrochloride 50 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-10-30T23:06:33Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-05T23:06:33Z)
+- Assessment of substance use (procedure) (Date: 2013-11-05T23:23:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-11-05T23:37:32Z)
+- Anticipatory guidance (procedure) (Date: 2013-11-05T23:51:53Z)
+- Throat culture (procedure) (Date: 2014-01-05T21:06:33Z)
+- Depression screening (procedure) (Date: 2014-11-11T23:06:33Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-11T23:06:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-11T23:20:56Z)
+- Assessment of substance use (procedure) (Date: 2014-11-11T23:44:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-11-11T23:55:08Z)
+- Anticipatory guidance (procedure) (Date: 2014-11-12T00:13:39Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-17T23:06:33Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-17T23:06:33Z)
+- Depression screening (procedure) (Date: 2015-11-17T23:32:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-17T23:43:46Z)
+- Assessment of substance use (procedure) (Date: 2015-11-18T00:13:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-11-18T00:23:35Z)
+- Anticipatory guidance (procedure) (Date: 2015-11-18T00:38:59Z)
+- Depression screening (procedure) (Date: 2016-11-22T23:06:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-22T23:17:44Z)
+- Assessment of substance use (procedure) (Date: 2016-11-22T23:47:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-11-22T23:58:22Z)
+- Health risks education (procedure) (Date: 2016-11-23T00:11:08Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-28T23:06:33Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-28T23:06:33Z)
+- Depression screening (procedure) (Date: 2017-11-28T23:26:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-28T23:38:09Z)
+- Assessment of substance use (procedure) (Date: 2017-11-29T00:05:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-11-29T00:18:07Z)
+- Anticipatory guidance (procedure) (Date: 2017-11-29T00:30:07Z)
+- Movement therapy (regime/therapy) (Date: 2018-11-18T23:06:33Z)
+- Movement therapy (regime/therapy) (Date: 2018-11-22T00:01:25Z)
+- Movement therapy (regime/therapy) (Date: 2018-11-25T00:54:12Z)
+- Movement therapy (regime/therapy) (Date: 2018-11-28T01:43:48Z)
+- Movement therapy (regime/therapy) (Date: 2018-12-01T02:43:33Z)
+- Movement therapy (regime/therapy) (Date: 2018-12-04T03:40:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-04T23:06:33Z)
+- Movement therapy (regime/therapy) (Date: 2018-12-07T04:31:25Z)
+- Movement therapy (regime/therapy) (Date: 2018-12-10T05:19:44Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-04T23:43:43Z)
+- Depression screening (procedure) (Date: 2018-12-05T00:16:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-05T00:30:03Z)
+- Assessment of substance use (procedure) (Date: 2018-12-05T00:55:13Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-05T01:06:30Z)
+- Movement therapy (regime/therapy) (Date: 2018-12-13T06:19:01Z)
+- Movement therapy (regime/therapy) (Date: 2018-12-16T07:15:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-10T23:06:33Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-10T23:50:23Z)
+- Depression screening (procedure) (Date: 2019-12-11T00:12:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-11T00:22:52Z)
+- Assessment of substance use (procedure) (Date: 2019-12-11T00:49:00Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-11T01:02:43Z)
+- Standard pregnancy test (Date: 2020-10-20T23:06:33Z)
+- Ultrasound scan for fetal viability (Date: 2020-10-20T23:06:33Z)
+- Counseling for termination of pregnancy (Date: 2020-10-28T23:06:33Z)
+- Induced termination of pregnancy (Date: 2020-10-28T23:06:33Z)
+- Pregnancy termination care (Date: 2020-11-06T23:06:33Z)
+- Physical exam following abortion (Date: 2020-11-06T23:06:33Z)
+- Depression screening (Date: 2020-11-06T23:06:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-15T23:06:33Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-15T23:06:33Z)
+- Peripheral blood smear interpretation (Date: 2020-12-15T23:06:33Z)
+- Assessment of substance use (procedure) (Date: 2020-12-15T23:46:37Z)
+- Screening for drug abuse (procedure) (Date: 2020-12-16T00:01:06Z)
+- Review of systems (procedure) (Date: 2020-12-15T23:36:33Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-15T23:55:32Z)
+- Brief general examination (procedure) (Date: 2020-12-16T00:13:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-25T23:06:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-27T23:06:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-15T23:06:33Z: Encounter for problem
+- 2020-12-15T23:06:33Z: General examination of patient (procedure)
+- 2020-11-06T23:06:33Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T23:06:33Z QOLS: 1.0 {score}
+- 2021-10-10T23:06:33Z DALY: 0.1 a
+- 2021-10-10T23:06:33Z QALY: 19.9 a
+- 2020-12-16T00:24:16Z Total score [DAST-10]: 1.0 {score}
+- 2020-12-15T23:46:37Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-12-15T23:46:37Z What is your current work situation?: Unemployed (finding) nan
+- 2020-12-15T23:46:37Z What is your main insurance?: Private insurance nan
+- 2020-12-15T23:46:37Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 15294 /a
+- 2020-12-15T23:46:37Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-12-15T23:46:37Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

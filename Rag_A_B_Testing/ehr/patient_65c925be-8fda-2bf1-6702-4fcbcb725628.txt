@@ -1,0 +1,167 @@
+== PATIENT RECORD: Alayna598 Beier427 (ID: 65c925be-8fda-2bf1-6702-4fcbcb725628) ==
+
+== Demographics ==
+Patient ID: 65c925be-8fda-2bf1-6702-4fcbcb725628
+Name: Alayna598 Beier427
+Gender: F
+Birthdate: 1969-06-10
+Address: 309 McCullough Lane Unit 61
+Marital Status: M
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Eggs (edible) (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Normal pregnancy
+- Social isolation (finding)
+- Preeclampsia
+- Laceration of thigh
+- Not in labor force (finding)
+
+== Current Medications ==
+- Chlorpheniramine Maleate 2 MG/ML Oral Solution
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Etonogestrel 68 MG Drug Implant
+- Acetaminophen 325 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-20T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-20T12:34:16Z)
+- Screening for domestic abuse (procedure) (Date: 2011-12-20T13:20:33Z)
+- Assessment of substance use (procedure) (Date: 2011-12-20T14:03:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-20T14:13:19Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-09-15T14:21:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-25T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-25T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-25T13:07:40Z)
+- Depression screening (procedure) (Date: 2012-12-25T13:29:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-25T13:43:09Z)
+- Insertion of intrauterine contraceptive device (Date: 2013-09-15T05:49:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-31T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-31T12:34:16Z)
+- Depression screening (procedure) (Date: 2013-12-31T13:21:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-31T13:32:49Z)
+- Assessment of substance use (procedure) (Date: 2013-12-31T13:53:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-31T14:06:53Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-09-13T10:30:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-06T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-06T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-06T13:08:34Z)
+- Depression screening (procedure) (Date: 2015-01-06T13:37:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-06T13:51:05Z)
+- Assessment of substance use (procedure) (Date: 2015-01-06T14:17:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-06T14:31:50Z)
+- Replacement of contraceptive intrauterine device (Date: 2015-10-06T12:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-12T12:34:16Z)
+- Depression screening (procedure) (Date: 2016-01-12T13:04:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-12T13:18:07Z)
+- Assessment of substance use (procedure) (Date: 2016-01-12T13:45:21Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-12T14:00:10Z)
+- Removal of intrauterine device (Date: 2016-06-21T12:34:16Z)
+- Standard pregnancy test (Date: 2016-08-16T12:34:16Z)
+- Ultrasound scan for fetal viability (Date: 2016-08-16T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2016-08-16T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2016-08-16T12:34:16Z)
+- Blood typing  RH typing (Date: 2016-08-16T12:34:16Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-08-16T12:34:16Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-08-16T12:34:16Z)
+- Human immunodeficiency virus antigen test (Date: 2016-08-16T12:34:16Z)
+- Chlamydia antigen test (Date: 2016-08-16T12:34:16Z)
+- Gonorrhea infection test (Date: 2016-08-16T12:34:16Z)
+- Syphilis infection test (Date: 2016-08-16T12:34:16Z)
+- Urine culture (Date: 2016-08-16T12:34:16Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-08-16T12:34:16Z)
+- Urine screening test for diabetes (Date: 2016-08-16T12:34:16Z)
+- Hepatitis C antibody test (Date: 2016-08-16T12:34:16Z)
+- Rubella screening (Date: 2016-08-16T12:34:16Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-08-16T12:34:16Z)
+- Skin test for tuberculosis (Date: 2016-08-16T12:34:16Z)
+- Urine protein test (Date: 2016-08-16T12:34:16Z)
+- Physical examination of mother (Date: 2016-08-16T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2016-09-13T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2016-09-13T12:34:16Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-09-13T12:34:16Z)
+- Fetal anatomy study (Date: 2016-10-11T12:34:16Z)
+- Alpha-fetoprotein test (Date: 2016-10-11T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2016-10-11T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2016-10-11T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2016-11-08T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2016-11-08T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2016-12-06T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2016-12-06T12:34:16Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-01-03T12:34:16Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2017-01-03T12:34:16Z)
+- Urine screening for glucose (Date: 2017-01-03T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2017-01-03T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2017-01-03T12:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-17T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-17T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2017-01-31T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2017-01-31T12:34:16Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2017-02-28T12:34:16Z)
+- Evaluation of uterine fundal height (Date: 2017-02-28T12:34:16Z)
+- Auscultation of the fetal heart (Date: 2017-02-28T12:34:16Z)
+- Epidural anesthesia (Date: 2017-03-14T12:34:16Z)
+- Childbirth (Date: 2017-03-14T12:34:16Z)
+- Suture open wound (Date: 2017-04-07T13:19:14Z)
+- Injection of tetanus antitoxin (Date: 2017-04-07T13:48:11Z)
+- Physical examination following birth (Date: 2017-04-25T12:34:16Z)
+- Depression screening (Date: 2017-04-25T12:34:16Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-04-28T10:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-23T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-23T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-23T13:22:36Z)
+- Depression screening (procedure) (Date: 2018-01-23T13:51:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-23T14:05:52Z)
+- Assessment of substance use (procedure) (Date: 2018-01-23T14:31:07Z)
+- Screening for drug abuse (procedure) (Date: 2018-01-23T14:44:41Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-04-23T11:36:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-29T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-29T12:34:16Z)
+- Assessment of substance use (procedure) (Date: 2019-01-29T13:17:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-29T13:28:48Z)
+- Colonoscopy (Date: 2019-06-11T12:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-04T12:34:16Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-04T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-04T13:17:39Z)
+- Depression screening (procedure) (Date: 2020-02-04T13:40:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-04T13:54:22Z)
+- Removal of intrauterine device (Date: 2020-04-21T12:34:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-09T12:34:16Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-09T13:15:26Z)
+- Depression screening (procedure) (Date: 2021-02-09T13:41:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-09T13:52:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-18T20:34:16Z: Asthma follow-up
+- 2021-04-13T12:34:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-23T12:34:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-09T12:34:16Z: General examination of patient (procedure)
+- 2020-08-23T20:34:16Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 2021-06-10T12:34:16Z QOLS: 1.0 {score}
+- 2021-06-10T12:34:16Z QALY: 50.7 a
+- 2021-06-10T12:34:16Z DALY: 0.3 a
+- 2021-02-09T14:18:53Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-02-09T13:41:44Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-02-09T13:15:26Z Are you worried about losing your housing?: No nan
+- 2021-02-09T13:15:26Z What address do you live at?: 309 McCullough Lane Unit 61 nan
+- 2021-02-09T13:15:26Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-02-09T13:15:26Z What is your current work situation?: Part-time or temporary work nan
+- 2021-02-09T13:15:26Z What is your main insurance?: Private insurance nan

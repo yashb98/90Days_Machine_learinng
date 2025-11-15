@@ -1,0 +1,64 @@
+== PATIENT RECORD: Brianna665 Smitham825 (ID: 19362ed4-09cb-6096-9b73-1c4e434d1cfa) ==
+
+== Demographics ==
+Patient ID: 19362ed4-09cb-6096-9b73-1c4e434d1cfa
+Name: Brianna665 Smitham825
+Gender: F
+Birthdate: 2008-08-24
+Address: 1066 Hayes Frontage road Suite 44
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Sputum examination (procedure) (Date: 2012-01-19T12:54:26Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-29T19:54:26Z)
+- Throat culture (procedure) (Date: 2013-06-01T08:54:26Z)
+- Throat culture (procedure) (Date: 2013-11-07T20:54:26Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-10T19:54:26Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-21T19:54:26Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-08T19:54:26Z)
+- Depression screening (procedure) (Date: 2020-09-13T19:54:26Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-13T19:54:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-09-13T20:04:37Z)
+- Assessment of substance use (procedure) (Date: 2020-09-13T20:33:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-09-13T20:47:46Z)
+- Anticipatory guidance (procedure) (Date: 2020-09-13T21:13:49Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-19T19:54:26Z)
+- Depression screening (procedure) (Date: 2021-09-19T20:21:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-09-19T20:36:29Z)
+- Assessment of substance use (procedure) (Date: 2021-09-19T20:58:51Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-09-19T21:10:42Z)
+- Health risks education (procedure) (Date: 2021-09-19T21:23:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-19T19:54:26Z: Well child visit (procedure)
+- 2021-06-13T19:54:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-23T19:54:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-13T19:54:26Z: Well child visit (procedure)
+- 2019-11-17T16:54:26Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-09-19T20:58:51Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-09-19T20:21:31Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2021-09-19T19:54:26Z Heart rate: 64.0 /min
+- 2021-09-19T19:54:26Z Body Height: 156.5 cm
+- 2021-09-19T19:54:26Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-09-19T19:54:26Z Body Weight: 84.5 kg
+- 2021-09-19T19:54:26Z Body Mass Index: 34.5 kg/m2
+- 2021-09-19T19:54:26Z Body mass index (BMI) [Percentile] Per age and gender: 99.1 %
+- 2021-09-19T19:54:26Z Diastolic Blood Pressure: 84.0 mm[Hg]
+- 2021-09-19T19:54:26Z Systolic Blood Pressure: 129.0 mm[Hg]

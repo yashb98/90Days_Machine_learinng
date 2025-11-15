@@ -1,0 +1,74 @@
+== PATIENT RECORD: Renato359 Bechtelar572 (ID: 3fc211a5-042f-1332-2d89-62e21dde2e6b) ==
+
+== Demographics ==
+Patient ID: 3fc211a5-042f-1332-2d89-62e21dde2e6b
+Name: Renato359 Bechtelar572
+Gender: M
+Birthdate: 1978-08-26
+Address: 1055 Hilpert Viaduct
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Stress (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-10T22:10:43Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-10T22:10:43Z)
+- Depression screening (procedure) (Date: 2012-11-10T22:50:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-10T23:01:08Z)
+- Assessment of substance use (procedure) (Date: 2012-11-10T23:21:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-10T23:34:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-14T22:10:43Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-14T22:43:09Z)
+- Assessment of substance use (procedure) (Date: 2015-11-14T22:58:31Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-14T23:08:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-01T22:10:43Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-01T22:10:43Z)
+- Screening for domestic abuse (procedure) (Date: 2018-09-01T22:55:07Z)
+- Depression screening (procedure) (Date: 2018-09-01T23:21:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-01T23:31:35Z)
+- Assessment of substance use (procedure) (Date: 2018-09-01T23:55:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-09-02T00:08:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-05T22:10:43Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-05T22:10:43Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-05T22:48:44Z)
+- Depression screening (procedure) (Date: 2020-09-05T23:09:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-05T23:23:46Z)
+- Assessment of substance use (procedure) (Date: 2020-09-05T23:44:26Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-05T23:56:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-09-05T22:10:43Z: General examination of patient (procedure)
+- 2018-09-01T22:10:43Z: General examination of patient (procedure)
+- 2017-12-28T02:10:43Z: Encounter for symptom
+- 2015-11-14T22:10:43Z: General examination of patient (procedure)
+- 2013-12-26T09:10:43Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-08-26T22:10:43Z QOLS: 0.7 {score}
+- 2021-08-26T22:10:43Z DALY: 11.2 a
+- 2021-08-26T22:10:43Z QALY: 30.8 a
+- 2020-09-06T00:21:05Z Total score [DAST-10]: 1.0 {score}
+- 2020-09-05T23:44:26Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-09-05T23:09:23Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2020-09-05T22:48:44Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-09-05T22:48:44Z Are you a refugee?: No nan
+- 2020-09-05T22:48:44Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-09-05T22:48:44Z In the past year  have you been afraid of your partner or ex-partner?: No nan

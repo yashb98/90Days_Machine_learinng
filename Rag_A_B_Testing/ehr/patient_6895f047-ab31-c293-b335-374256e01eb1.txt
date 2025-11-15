@@ -1,0 +1,55 @@
+== PATIENT RECORD: Alicia629 Jakubowski832 (ID: 6895f047-ab31-c293-b335-374256e01eb1) ==
+
+== Demographics ==
+Patient ID: 6895f047-ab31-c293-b335-374256e01eb1
+Name: Alicia629 Jakubowski832
+Gender: F
+Birthdate: 2020-02-14
+Address: 120 Rippin Terrace
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Soya bean (substance)
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-02-14T15:36:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-20T15:36:31Z)
+- Throat culture (procedure) (Date: 2020-04-16T13:36:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-22T15:36:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-24T15:36:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-23T15:36:31Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-22T15:36:31Z)
+- Allergy screening test (Date: 2021-02-15T10:36:31Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-23T15:36:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-23T15:36:31Z: Well child visit (procedure)
+- 2021-04-23T15:36:31Z: Well child visit (procedure)
+- 2021-02-15T10:36:31Z: Encounter for problem
+- 2021-02-04T20:36:31Z: Encounter for problem
+- 2021-01-22T15:36:31Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-23T15:36:31Z Body Height: 79.3 cm
+- 2021-07-23T15:36:31Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-23T15:36:31Z Respiratory rate: 14.0 /min
+- 2021-07-23T15:36:31Z Heart rate: 86.0 /min
+- 2021-07-23T15:36:31Z Systolic Blood Pressure: 112.0 mm[Hg]
+- 2021-07-23T15:36:31Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-07-23T15:36:31Z Head Occipital-frontal circumference: 46.2 cm
+- 2021-07-23T15:36:31Z Weight-for-length Per age and sex: 76.1 %
+- 2021-07-23T15:36:31Z Body Weight: 11.1 kg
+- 2021-07-23T15:36:31Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}

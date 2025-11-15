@@ -1,0 +1,51 @@
+== PATIENT RECORD: Neoma676 Halvorson124 (ID: ef318e4c-8d1c-c2a4-ce37-d76fbf8b9906) ==
+
+== Demographics ==
+Patient ID: ef318e4c-8d1c-c2a4-ce37-d76fbf8b9906
+Name: Neoma676 Halvorson124
+Gender: F
+Birthdate: 2016-04-13
+Address: 741 O'Connell Port Unit 74
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Concussion with no loss of consciousness
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2016-04-13T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2016-07-20T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-22T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-21T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-20T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2018-09-19T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-20T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-18T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-18T18:08:40Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-24T18:08:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-31T18:08:40Z: Encounter for 'check-up'
+- 2021-08-23T18:08:40Z: Emergency room admission (procedure)
+- 2021-03-24T18:08:40Z: Well child visit (procedure)
+- 2020-03-18T18:08:40Z: Well child visit (procedure)
+- 2019-11-13T18:08:40Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-04-13T18:08:40Z QOLS: 1.0 {score}
+- 2021-04-13T18:08:40Z DALY: 0.0 a
+- 2021-04-13T18:08:40Z QALY: 4.0 a
+- 2021-03-24T18:08:40Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-03-24T18:08:40Z Body Height: 106.2 cm
+- 2021-03-24T18:08:40Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-03-24T18:08:40Z Body Weight: 18.6 kg
+- 2021-03-24T18:08:40Z Body Mass Index: 16.5 kg/m2
+- 2021-03-24T18:08:40Z Diastolic Blood Pressure: 88.0 mm[Hg]
+- 2021-03-24T18:08:40Z Systolic Blood Pressure: 125.0 mm[Hg]

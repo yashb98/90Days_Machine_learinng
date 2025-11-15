@@ -1,0 +1,141 @@
+== PATIENT RECORD: Kayleen757 Spencer878 (ID: c99968ac-6782-9ae2-aab2-98277ae5a8e8) ==
+
+== Demographics ==
+Patient ID: c99968ac-6782-9ae2-aab2-98277ae5a8e8
+Name: Kayleen757 Spencer878
+Gender: F
+Birthdate: 1977-10-13
+Address: 457 Hane Wall Unit 86
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Normal pregnancy
+- Fracture of clavicle
+- Escherichia coli urinary tract infection
+- Rupture of patellar tendon
+- Not in labor force (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Cystitis
+- Hyperlipidemia
+
+== Current Medications ==
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Mirena 52 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Yaz 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-29T18:06:35Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-29T18:06:35Z)
+- Standard pregnancy test (Date: 2012-02-02T18:06:35Z)
+- Ultrasound scan for fetal viability (Date: 2012-02-02T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-02-02T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-02-02T18:06:35Z)
+- Blood typing  RH typing (Date: 2012-02-02T18:06:35Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-02-02T18:06:35Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-02-02T18:06:35Z)
+- Human immunodeficiency virus antigen test (Date: 2012-02-02T18:06:35Z)
+- Chlamydia antigen test (Date: 2012-02-02T18:06:35Z)
+- Gonorrhea infection test (Date: 2012-02-02T18:06:35Z)
+- Syphilis infection test (Date: 2012-02-02T18:06:35Z)
+- Urine culture (Date: 2012-02-02T18:06:35Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-02-02T18:06:35Z)
+- Urine screening test for diabetes (Date: 2012-02-02T18:06:35Z)
+- Hepatitis C antibody test (Date: 2012-02-02T18:06:35Z)
+- Rubella screening (Date: 2012-02-02T18:06:35Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-02-02T18:06:35Z)
+- Skin test for tuberculosis (Date: 2012-02-02T18:06:35Z)
+- Urine protein test (Date: 2012-02-02T18:06:35Z)
+- Physical examination of mother (Date: 2012-02-02T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-03-01T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-03-01T18:06:35Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-03-01T18:06:35Z)
+- Fetal anatomy study (Date: 2012-03-29T18:06:35Z)
+- Alpha-fetoprotein test (Date: 2012-03-29T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-03-29T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-03-29T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-04-26T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-04-26T18:06:35Z)
+- Clavicle X-ray (Date: 2012-04-21T18:06:35Z)
+- Admission to orthopedic department (Date: 2012-04-21T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-05-24T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-05-24T18:06:35Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-06-21T18:06:35Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2012-06-21T18:06:35Z)
+- Urine screening for glucose (Date: 2012-06-21T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-06-21T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-06-21T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-07-19T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-07-19T18:06:35Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2012-08-16T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-08-16T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-08-16T18:06:35Z)
+- Evaluation of uterine fundal height (Date: 2012-08-30T18:06:35Z)
+- Auscultation of the fetal heart (Date: 2012-08-30T18:06:35Z)
+- Epidural anesthesia (Date: 2012-09-06T18:06:35Z)
+- Cesarean section (Date: 2012-09-06T18:06:35Z)
+- Physical examination following birth (Date: 2012-10-18T18:06:35Z)
+- Depression screening (Date: 2012-10-18T18:06:35Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-10-11T13:06:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-01T18:06:35Z)
+- Depression screening (procedure) (Date: 2015-01-01T19:02:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-01T19:16:22Z)
+- Knee X-ray (Date: 2015-05-18T19:29:35Z)
+- Surgical manipulation of joint of knee (Date: 2015-05-25T19:29:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-19T18:06:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-19T18:06:35Z)
+- Depression screening (procedure) (Date: 2017-10-19T18:38:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-19T18:49:40Z)
+- Assessment of substance use (procedure) (Date: 2017-10-19T19:13:52Z)
+- Screening for drug abuse (procedure) (Date: 2017-10-19T19:28:18Z)
+- Intramuscular injection (Date: 2018-09-20T13:58:11Z)
+- Replacement of contraceptive intrauterine device (Date: 2019-10-17T18:06:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-31T18:06:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-31T18:57:53Z)
+- Screening for domestic abuse (procedure) (Date: 2019-10-31T19:24:13Z)
+- Depression screening (procedure) (Date: 2019-10-31T19:49:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-31T20:02:04Z)
+- Assessment of substance use (procedure) (Date: 2019-10-31T20:30:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-31T20:43:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-04T18:06:35Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-04T18:06:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-11-04T19:00:39Z)
+- Screening for domestic abuse (procedure) (Date: 2021-11-04T19:27:47Z)
+- Depression screening (procedure) (Date: 2021-11-04T19:54:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-04T20:04:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T18:06:35Z: General examination of patient (procedure)
+- 2021-05-13T18:06:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-22T18:06:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-09T14:10:23Z: Consultation for treatment
+- 2020-03-04T12:06:35Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-04T20:29:46Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-11-04T19:54:40Z Total score [HARK]: 0.0 {score}
+- 2021-11-04T19:27:47Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-11-04T19:00:39Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-11-04T19:00:39Z Are you worried about losing your housing?: No nan
+- 2021-11-04T19:00:39Z In the past year  have you been afraid of your partner or ex-partner?: Yes nan
+- 2021-11-04T19:00:39Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-11-04T19:00:39Z Are you a refugee?: No nan
+- 2021-11-04T19:00:39Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-11-04T19:00:39Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

@@ -1,0 +1,121 @@
+== PATIENT RECORD: Cristen212 Hammes673 (ID: 6d06eb4a-dc31-a2d2-1144-afea738d5302) ==
+
+== Demographics ==
+Patient ID: 6d06eb4a-dc31-a2d2-1144-afea738d5302
+Name: Cristen212 Hammes673
+Gender: F
+Birthdate: 1982-12-16
+Address: 491 Rippin Trail
+Marital Status: M
+
+== Allergies ==
+- Aspirin
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Refugee (person)
+- Normal pregnancy
+- Viral sinusitis (disorder)
+- Has a criminal record (finding)
+- Streptococcal sore throat (disorder)
+- Facial laceration
+- Acute viral pharyngitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Astemizole 10 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Natazia 28 Day Pack
+- Penicillin V Potassium 500 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Insertion of subcutaneous contraceptive (Date: 2012-11-15T12:10:35Z)
+- Replacement of contraceptive intrauterine device (Date: 2013-12-12T13:07:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-27T13:07:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-27T13:07:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-27T13:59:33Z)
+- Assessment of substance use (procedure) (Date: 2014-02-27T14:26:07Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-27T14:38:26Z)
+- Removal of intrauterine device (Date: 2014-08-28T13:07:58Z)
+- Standard pregnancy test (Date: 2014-10-23T13:07:58Z)
+- Ultrasound scan for fetal viability (Date: 2014-10-23T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2014-10-23T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2014-10-23T13:07:58Z)
+- Blood typing  RH typing (Date: 2014-10-23T13:07:58Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-10-23T13:07:58Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2014-10-23T13:07:58Z)
+- Human immunodeficiency virus antigen test (Date: 2014-10-23T13:07:58Z)
+- Chlamydia antigen test (Date: 2014-10-23T13:07:58Z)
+- Gonorrhea infection test (Date: 2014-10-23T13:07:58Z)
+- Syphilis infection test (Date: 2014-10-23T13:07:58Z)
+- Urine culture (Date: 2014-10-23T13:07:58Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2014-10-23T13:07:58Z)
+- Urine screening test for diabetes (Date: 2014-10-23T13:07:58Z)
+- Hepatitis C antibody test (Date: 2014-10-23T13:07:58Z)
+- Rubella screening (Date: 2014-10-23T13:07:58Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2014-10-23T13:07:58Z)
+- Skin test for tuberculosis (Date: 2014-10-23T13:07:58Z)
+- Urine protein test (Date: 2014-10-23T13:07:58Z)
+- Physical examination of mother (Date: 2014-10-23T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2014-11-20T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2014-11-20T13:07:58Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2014-11-20T13:07:58Z)
+- Fetal anatomy study (Date: 2014-12-18T13:07:58Z)
+- Alpha-fetoprotein test (Date: 2014-12-18T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2014-12-18T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2014-12-18T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2015-01-15T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2015-01-15T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2015-02-12T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2015-02-12T13:07:58Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2015-03-12T13:07:58Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2015-03-12T13:07:58Z)
+- Urine screening for glucose (Date: 2015-03-12T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2015-03-12T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2015-03-12T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2015-04-09T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2015-04-09T13:07:58Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2015-05-07T13:07:58Z)
+- Evaluation of uterine fundal height (Date: 2015-05-07T13:07:58Z)
+- Auscultation of the fetal heart (Date: 2015-05-07T13:07:58Z)
+- Instrumental delivery (Date: 2015-05-21T13:07:58Z)
+- Childbirth (Date: 2015-05-21T13:07:58Z)
+- Physical examination following birth (Date: 2015-07-02T13:07:58Z)
+- Depression screening (Date: 2015-07-02T13:07:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-02T13:07:58Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-02T13:39:13Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-02T14:04:54Z)
+- Depression screening (procedure) (Date: 2017-03-02T14:45:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-02T14:59:48Z)
+- Suture open wound (Date: 2018-03-14T13:29:39Z)
+- Bilateral tubal ligation (Date: 2018-06-23T13:07:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-05T13:07:58Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-05T13:07:58Z)
+- Depression screening (procedure) (Date: 2020-03-05T14:04:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-05T14:15:19Z)
+- Assessment of substance use (procedure) (Date: 2020-03-05T14:41:09Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-05T14:53:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-16T13:07:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-26T13:07:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-17T13:53:46Z: Emergency room admission (procedure)
+- 2020-07-25T04:07:58Z: Encounter for symptom
+- 2020-06-03T21:07:58Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2020-12-16T13:07:58Z QOLS: 1.0 {score}
+- 2020-12-16T13:07:58Z DALY: 0.0 a
+- 2020-12-16T13:07:58Z QALY: 37.0 a
+- 2020-06-03T21:07:58Z Body temperature: 37.5 Cel
+- 2020-03-05T15:14:31Z Total score [DAST-10]: 1.0 {score}
+- 2020-03-05T14:41:09Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-03-05T14:04:12Z What is your main insurance?: Private insurance nan
+- 2020-03-05T14:04:12Z Are you worried about losing your housing?: No nan
+- 2020-03-05T14:04:12Z What address do you live at?: 491 Rippin Trail nan
+- 2020-03-05T14:04:12Z What is the highest level of school that you have finished?: High school diploma or GED nan

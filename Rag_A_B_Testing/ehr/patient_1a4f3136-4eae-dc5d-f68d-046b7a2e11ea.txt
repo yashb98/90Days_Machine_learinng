@@ -1,0 +1,110 @@
+== PATIENT RECORD: Sherilyn598 O'Keefe54 (ID: 1a4f3136-4eae-dc5d-f68d-046b7a2e11ea) ==
+
+== Demographics ==
+Patient ID: 1a4f3136-4eae-dc5d-f68d-046b7a2e11ea
+Name: Sherilyn598 O'Keefe54
+Gender: F
+Birthdate: 1977-12-20
+Address: 897 Heller Divide Suite 7
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Has a criminal record (finding)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Severe anxiety (panic) (finding
+- Social isolation (finding)
+
+== Current Medications ==
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2011-11-29T14:33:55Z)
+- Intramuscular injection (Date: 2012-02-28T14:33:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-03-13T14:33:55Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-13T14:33:55Z)
+- Depression screening (procedure) (Date: 2012-03-13T15:26:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-13T15:39:36Z)
+- Assessment of substance use (procedure) (Date: 2012-03-13T16:01:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-03-13T16:14:37Z)
+- Intramuscular injection (Date: 2012-05-29T14:33:55Z)
+- Intramuscular injection (Date: 2012-08-28T14:33:55Z)
+- Intramuscular injection (Date: 2012-11-27T14:33:55Z)
+- Intramuscular injection (Date: 2013-02-26T14:33:55Z)
+- Intramuscular injection (Date: 2013-05-28T14:33:55Z)
+- Intramuscular injection (Date: 2013-08-27T14:33:55Z)
+- Bilateral tubal ligation (Date: 2013-09-03T15:25:22Z)
+- Intramuscular injection (Date: 2013-11-26T14:33:55Z)
+- Intramuscular injection (Date: 2014-02-25T14:33:55Z)
+- Intramuscular injection (Date: 2014-05-27T14:33:55Z)
+- Intramuscular injection (Date: 2014-08-26T14:33:55Z)
+- Intramuscular injection (Date: 2014-11-25T14:33:55Z)
+- Intramuscular injection (Date: 2015-02-24T14:33:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-17T14:33:55Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-17T14:33:55Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-17T15:22:03Z)
+- Intramuscular injection (Date: 2015-05-26T14:33:55Z)
+- Intramuscular injection (Date: 2015-08-25T14:33:55Z)
+- Intramuscular injection (Date: 2015-11-24T14:33:55Z)
+- Intramuscular injection (Date: 2016-02-23T14:33:55Z)
+- Intramuscular injection (Date: 2016-05-24T14:33:55Z)
+- Intramuscular injection (Date: 2016-08-23T14:33:55Z)
+- Intramuscular injection (Date: 2016-11-22T14:33:55Z)
+- Intramuscular injection (Date: 2017-02-21T14:33:55Z)
+- Intramuscular injection (Date: 2017-05-23T14:33:55Z)
+- Intramuscular injection (Date: 2017-08-22T14:33:55Z)
+- Intramuscular injection (Date: 2017-11-21T14:33:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-26T14:33:55Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-26T14:33:55Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-26T15:25:44Z)
+- Depression screening (procedure) (Date: 2017-12-26T15:45:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-26T15:57:31Z)
+- Intramuscular injection (Date: 2018-02-20T14:33:55Z)
+- Intramuscular injection (Date: 2018-05-22T14:33:55Z)
+- Intramuscular injection (Date: 2018-08-21T14:33:55Z)
+- Intramuscular injection (Date: 2018-11-20T14:33:55Z)
+- Intramuscular injection (Date: 2019-02-19T14:33:55Z)
+- Intramuscular injection (Date: 2019-05-21T14:33:55Z)
+- Intramuscular injection (Date: 2019-08-20T14:33:55Z)
+- Intramuscular injection (Date: 2019-11-19T14:33:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-31T14:33:55Z)
+- Depression screening (procedure) (Date: 2019-12-31T15:11:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-31T15:22:53Z)
+- Assessment of substance use (procedure) (Date: 2019-12-31T15:46:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-12-31T16:00:08Z)
+- Intramuscular injection (Date: 2020-02-18T14:33:55Z)
+- Intramuscular injection (Date: 2020-05-19T14:33:55Z)
+- Intramuscular injection (Date: 2020-08-18T14:33:55Z)
+- Intramuscular injection (Date: 2020-11-17T14:33:55Z)
+- Intramuscular injection (Date: 2021-02-16T14:33:55Z)
+- Intramuscular injection (Date: 2021-05-18T14:33:55Z)
+- Intramuscular injection (Date: 2021-08-17T14:33:55Z)
+- Intramuscular injection (Date: 2021-11-16T14:33:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-16T14:33:55Z: Patient encounter procedure
+- 2021-08-17T14:33:55Z: Patient encounter procedure
+- 2021-05-18T14:33:55Z: Patient encounter procedure
+- 2021-03-30T14:33:55Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-09T14:33:55Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-20T14:33:55Z QOLS: 1.0 {score}
+- 2020-12-20T14:33:55Z DALY: 0.7 a
+- 2020-12-20T14:33:55Z QALY: 41.3 a
+- 2019-12-31T16:25:11Z Total score [AUDIT-C]: 0.0 {score}
+- 2019-12-31T15:46:23Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-12-31T15:11:39Z What is your current work situation?: Full-time work nan
+- 2019-12-31T15:11:39Z What is your main insurance?: Private insurance nan
+- 2019-12-31T15:11:39Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 178737 /a
+- 2019-12-31T15:11:39Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone nan
+- 2019-12-31T15:11:39Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

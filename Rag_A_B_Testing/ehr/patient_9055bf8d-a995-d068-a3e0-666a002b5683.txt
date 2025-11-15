@@ -1,0 +1,45 @@
+== PATIENT RECORD: Manuela585 Villalpando154 (ID: 9055bf8d-a995-d068-a3e0-666a002b5683) ==
+
+== Demographics ==
+Patient ID: 9055bf8d-a995-d068-a3e0-666a002b5683
+Name: Manuela585 Villalpando154
+Gender: F
+Birthdate: 2010-11-12
+Address: 931 Beatty Loaf
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-04-18T08:24:53Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-17T08:24:53Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-23T08:24:53Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-28T08:24:53Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-20T08:24:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-11-20T08:24:53Z: Well child visit (procedure)
+- 2019-11-15T08:24:53Z: Well child visit (procedure)
+- 2018-11-09T08:24:53Z: Well child visit (procedure)
+- 2017-11-03T08:24:53Z: Well child visit (procedure)
+- 2016-10-28T08:24:53Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-12T08:24:53Z QOLS: 1.0 {score}
+- 2021-11-12T08:24:53Z QALY: 10.0 a
+- 2021-11-12T08:24:53Z DALY: 0.0 a
+- 2020-11-20T08:24:53Z Body Height: 141.8 cm
+- 2020-11-20T08:24:53Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2020-11-20T08:24:53Z Body Weight: 33.1 kg
+- 2020-11-20T08:24:53Z Body Mass Index: 16.5 kg/m2
+- 2020-11-20T08:24:53Z Body mass index (BMI) [Percentile] Per age and gender: 42.7 %
+- 2020-11-20T08:24:53Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2020-11-20T08:24:53Z Systolic Blood Pressure: 130.0 mm[Hg]

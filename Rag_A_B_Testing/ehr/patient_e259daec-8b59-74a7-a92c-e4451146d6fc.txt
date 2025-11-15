@@ -1,0 +1,115 @@
+== PATIENT RECORD: Josue598 Ortiz186 (ID: e259daec-8b59-74a7-a92c-e4451146d6fc) ==
+
+== Demographics ==
+Patient ID: e259daec-8b59-74a7-a92c-e4451146d6fc
+Name: Josue598 Ortiz186
+Gender: M
+Birthdate: 1994-02-14
+Address: 441 Ward Estate Apt 6
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Streptococcal sore throat (disorder)
+- Misuses drugs (finding)
+- Chronic low back pain (finding)
+- Opioid abuse (disorder)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Otitis media
+- Not in labor force (finding)
+- Fatigue (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Muscle pain (finding)
+- Joint pain (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Amoxicillin 250 MG Oral Capsule
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-09T22:51:23Z)
+- Depression screening (procedure) (Date: 2012-04-09T23:42:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-09T23:52:38Z)
+- Throat culture (procedure) (Date: 2012-07-03T09:51:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-15T22:51:23Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-15T23:23:28Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-15T23:52:20Z)
+- Depression screening (procedure) (Date: 2013-04-16T00:37:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-16T00:49:24Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-04-16T01:13:09Z)
+- Assessment of substance use (procedure) (Date: 2013-04-16T01:40:42Z)
+- Screening for drug abuse (procedure) (Date: 2013-04-16T01:54:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-21T22:51:23Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-21T23:27:04Z)
+- Depression screening (procedure) (Date: 2014-04-22T00:11:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-22T00:23:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-27T22:51:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-02T22:51:23Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-02T22:51:23Z)
+- Depression screening (procedure) (Date: 2016-05-02T23:32:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-02T23:45:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-08T22:51:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-23T22:51:23Z)
+- Screening for domestic abuse (procedure) (Date: 2018-04-23T23:24:24Z)
+- Depression screening (procedure) (Date: 2018-04-23T23:49:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-24T00:01:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-14T22:51:23Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-14T22:51:23Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-14T23:34:42Z)
+- Depression screening (procedure) (Date: 2018-05-15T00:11:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-15T00:25:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-20T22:51:23Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-20T22:51:23Z)
+- Peripheral blood smear interpretation (Date: 2019-05-20T22:51:23Z)
+- Depression screening (procedure) (Date: 2019-05-20T23:32:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-20T23:43:11Z)
+- Review of systems (procedure) (Date: 2019-05-20T23:21:23Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-20T23:38:16Z)
+- Brief general examination (procedure) (Date: 2019-05-20T23:47:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-25T22:51:23Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-25T23:48:38Z)
+- Depression screening (procedure) (Date: 2020-05-26T00:17:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-26T00:28:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-31T22:51:23Z)
+- Depression screening (procedure) (Date: 2021-05-31T23:44:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-31T23:57:08Z)
+- Face mask (physical object) (Date: 2021-08-11T22:51:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-11T22:51:23Z: Encounter for symptom (procedure)
+- 2021-05-31T22:51:23Z: General examination of patient (procedure)
+- 2020-05-25T22:51:23Z: General examination of patient (procedure)
+- 2020-04-04T22:51:23Z: Encounter for symptom
+- 2019-05-20T22:51:23Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-08-12T00:09:24Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-08-11T23:03:58Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-11T23:03:58Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

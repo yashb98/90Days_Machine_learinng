@@ -1,0 +1,115 @@
+== PATIENT RECORD: Jorge203 Kertzmann286 (ID: 66b8b86c-78b6-85c4-f210-1b08d624a6d6) ==
+
+== Demographics ==
+Patient ID: 66b8b86c-78b6-85c4-f210-1b08d624a6d6
+Name: Jorge203 Kertzmann286
+Gender: M
+Birthdate: 1994-05-23
+Address: 581 Sawayn Trace
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Viral sinusitis (disorder)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Limited social contact (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Concussion injury of brain
+- Brain damage - traumatic
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-17T03:17:02Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-17T03:17:02Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-17T03:47:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-23T03:17:02Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-23T04:16:42Z)
+- Depression screening (procedure) (Date: 2013-07-23T04:35:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-23T04:49:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-23T05:14:31Z)
+- Assessment of substance use (procedure) (Date: 2013-07-23T05:36:27Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-23T05:47:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-29T03:17:02Z)
+- Depression screening (procedure) (Date: 2014-07-29T04:00:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-29T04:11:52Z)
+- Assessment of substance use (procedure) (Date: 2014-07-29T04:40:03Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-29T04:54:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-16T03:17:02Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-16T03:48:04Z)
+- Depression screening (procedure) (Date: 2014-12-16T04:10:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-16T04:20:06Z)
+- Assessment of substance use (procedure) (Date: 2014-12-16T04:48:49Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-16T04:58:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-04T03:17:02Z)
+- Depression screening (procedure) (Date: 2015-08-04T04:05:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-04T04:18:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-09T03:17:02Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-09T04:07:03Z)
+- Depression screening (procedure) (Date: 2016-08-09T04:23:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-09T04:37:49Z)
+- Assessment of substance use (procedure) (Date: 2016-08-09T05:02:39Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-09T05:13:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-15T03:17:02Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-15T03:17:02Z)
+- Depression screening (procedure) (Date: 2017-08-15T03:53:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-15T04:04:42Z)
+- Assessment of substance use (procedure) (Date: 2017-08-15T04:27:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-08-15T04:42:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-21T03:17:02Z)
+- Depression screening (procedure) (Date: 2018-08-21T03:56:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-21T04:10:27Z)
+- Assessment of substance use (procedure) (Date: 2018-08-21T04:31:54Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-21T04:46:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-27T03:17:02Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-27T04:06:02Z)
+- Depression screening (procedure) (Date: 2019-08-27T04:26:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-27T04:38:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-01T03:17:02Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-01T03:17:02Z)
+- Depression screening (procedure) (Date: 2020-09-01T04:04:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-01T04:19:16Z)
+- Assessment of substance use (procedure) (Date: 2020-09-01T04:48:14Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-01T05:01:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-07T03:17:02Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-07T03:17:02Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-07T04:02:02Z)
+- Depression screening (procedure) (Date: 2021-09-07T04:23:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-07T04:33:52Z)
+- Assessment of substance use (procedure) (Date: 2021-09-07T04:57:15Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-07T05:08:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T03:17:02Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-07T03:17:02Z: General examination of patient (procedure)
+- 2020-09-01T03:17:02Z: General examination of patient (procedure)
+- 2020-01-11T03:17:02Z: Encounter for 'check-up'
+- 2019-11-07T03:17:02Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-07T05:33:38Z Total score [DAST-10]: 1.0 {score}
+- 2021-09-07T04:57:15Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-09-07T04:23:24Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-09-07T04:02:02Z Are you worried about losing your housing?: No nan
+- 2021-09-07T04:02:02Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes nan
+- 2021-09-07T04:02:02Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-09-07T04:02:02Z What language are you most comfortable speaking?: English nan
+- 2021-09-07T04:02:02Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-09-07T04:02:02Z What is your housing situation today?: I have housing nan
+- 2021-09-07T04:02:02Z What address do you live at?: 581 Sawayn Trace nan

@@ -1,0 +1,122 @@
+== PATIENT RECORD: Brinda322 Gorczany269 (ID: 8a19de22-523c-e702-74b3-da3ee570507e) ==
+
+== Demographics ==
+Patient ID: 8a19de22-523c-e702-74b3-da3ee570507e
+Name: Brinda322 Gorczany269
+Gender: F
+Birthdate: 1995-01-01
+Address: 450 Lebsack Hollow Suite 0
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Chronic low back pain (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Normal pregnancy
+- Victim of intimate partner abuse (finding)
+- Misuses drugs (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Jolivette 28 Day Pack
+- amLODIPine 2.5 MG Oral Tablet
+- Seasonique 91 Day Pack
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- tramadol hydrochloride 50 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Yaz 28 Day Pack
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Natazia 28 Day Pack
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-02-19T22:07:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-02-19T22:21:46Z)
+- Assessment of substance use (procedure) (Date: 2012-02-19T22:49:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-02-19T23:03:24Z)
+- Anticipatory guidance (procedure) (Date: 2012-02-19T23:31:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-24T22:07:33Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-24T23:06:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-29T22:07:33Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-29T22:47:43Z)
+- Depression screening (procedure) (Date: 2014-06-29T23:19:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-29T23:32:26Z)
+- Assessment of substance use (procedure) (Date: 2014-06-29T23:55:43Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-30T00:10:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-05T22:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-05T22:07:33Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-05T22:37:59Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-05T23:07:11Z)
+- Depression screening (procedure) (Date: 2015-07-05T23:44:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-05T23:55:51Z)
+- Assessment of substance use (procedure) (Date: 2015-07-06T00:22:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-06T00:35:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-10T22:07:33Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-10T23:07:29Z)
+- Depression screening (procedure) (Date: 2016-07-10T23:22:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-10T23:33:30Z)
+- Assessment of substance use (procedure) (Date: 2016-07-11T00:01:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-11T00:14:56Z)
+- Standard pregnancy test (Date: 2017-07-09T22:07:33Z)
+- Ultrasound scan for fetal viability (Date: 2017-07-09T22:07:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-16T22:07:33Z)
+- Counseling for termination of pregnancy (Date: 2017-07-19T22:07:33Z)
+- Induced termination of pregnancy (Date: 2017-07-19T22:07:33Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-16T22:43:52Z)
+- Screening for domestic abuse (procedure) (Date: 2017-07-16T23:12:48Z)
+- Pregnancy termination care (Date: 2017-07-28T22:07:33Z)
+- Physical exam following abortion (Date: 2017-07-28T22:07:33Z)
+- Depression screening (Date: 2017-07-28T22:07:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-22T22:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-22T22:07:33Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-22T22:39:40Z)
+- Depression screening (procedure) (Date: 2018-07-22T23:18:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-22T23:30:06Z)
+- Assessment of substance use (procedure) (Date: 2018-07-22T23:51:41Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-23T00:02:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-28T22:07:33Z)
+- Depression screening (procedure) (Date: 2019-07-28T22:57:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-28T23:11:27Z)
+- Assessment of substance use (procedure) (Date: 2019-07-28T23:37:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-07-28T23:50:22Z)
+- Throat culture (procedure) (Date: 2020-01-06T01:07:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-02T22:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-02T22:07:33Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-02T22:45:28Z)
+- Depression screening (procedure) (Date: 2020-08-02T23:17:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-02T23:30:47Z)
+- Assessment of substance use (procedure) (Date: 2020-08-02T23:55:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-03T00:08:18Z)
+- Insertion of intrauterine contraceptive device (Date: 2020-11-03T14:07:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-08T22:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-08T22:07:33Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-08T23:04:02Z)
+- Assessment of substance use (procedure) (Date: 2021-08-08T23:27:32Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-08T23:41:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-29T14:55:26Z: Consultation for treatment
+- 2021-08-08T22:07:33Z: General examination of patient (procedure)
+- 2021-05-23T22:07:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-02T22:07:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-03T14:07:33Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-08-09T00:04:12Z Total score [DAST-10]: 0.0 {score}
+- 2021-08-08T23:27:32Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-08-08T23:04:02Z Are you Hispanic or Latino?: No nan
+- 2021-08-08T23:04:02Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 721758 /a
+- 2021-08-08T23:04:02Z What is your main insurance?: Private insurance nan
+- 2021-08-08T23:04:02Z What is your current work situation?: Full-time work nan
+- 2021-08-08T23:04:02Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-08T23:04:02Z What address do you live at?: 450 Lebsack Hollow Suite 0 nan
+- 2021-08-08T23:04:02Z Are you worried about losing your housing?: No nan
+- 2021-08-08T23:04:02Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

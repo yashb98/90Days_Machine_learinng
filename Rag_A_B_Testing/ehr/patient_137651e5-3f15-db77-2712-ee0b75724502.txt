@@ -1,0 +1,121 @@
+== PATIENT RECORD: Cory323 Corkery305 (ID: 137651e5-3f15-db77-2712-ee0b75724502) ==
+
+== Demographics ==
+Patient ID: 137651e5-3f15-db77-2712-ee0b75724502
+Name: Cory323 Corkery305
+Gender: M
+Birthdate: 1995-01-04
+Address: 302 Yost Wynd Apt 51
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Second degree burn
+- Laceration of hand
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Cough (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Amoxicillin 250 MG Oral Capsule
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of substance use (procedure) (Date: 2012-02-22T21:45:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-02-22T21:55:56Z)
+- Health risks education (procedure) (Date: 2012-02-22T22:18:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-27T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-27T21:45:21Z)
+- Assessment of substance use (procedure) (Date: 2013-02-27T22:15:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-27T22:27:50Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-03T21:45:21Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-06T22:19:43Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-09T23:10:30Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-12T23:45:33Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T00:31:04Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T01:09:34Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T01:53:39Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T02:41:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-05T21:45:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-11T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-11T21:45:21Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-11T22:25:04Z)
+- Depression screening (procedure) (Date: 2015-03-11T23:06:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-11T23:19:07Z)
+- Assessment of substance use (procedure) (Date: 2015-03-11T23:39:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-11T23:49:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-16T21:45:21Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-16T22:17:12Z)
+- Depression screening (procedure) (Date: 2016-03-16T22:43:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-16T22:55:01Z)
+- Assessment of substance use (procedure) (Date: 2016-03-16T23:22:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-03-16T23:36:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-22T21:45:21Z)
+- Depression screening (procedure) (Date: 2017-03-22T22:40:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-22T22:52:32Z)
+- Suture open wound (Date: 2017-04-10T21:45:21Z)
+- Injection of tetanus antitoxin (Date: 2017-04-10T22:07:27Z)
+- Throat culture (procedure) (Date: 2018-03-07T12:45:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-28T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-28T21:45:21Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-28T22:22:36Z)
+- Depression screening (procedure) (Date: 2018-03-28T22:52:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-28T23:07:20Z)
+- Assessment of substance use (procedure) (Date: 2018-03-28T23:36:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-28T23:50:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-03T21:45:21Z)
+- Assessment of anxiety (procedure) (Date: 2019-04-03T22:38:37Z)
+- Depression screening (procedure) (Date: 2019-04-03T22:59:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-03T23:09:05Z)
+- Assessment of substance use (procedure) (Date: 2019-04-03T23:30:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-04-03T23:44:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-08T21:45:21Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-08T22:22:12Z)
+- Depression screening (procedure) (Date: 2020-04-08T22:41:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-08T22:55:49Z)
+- Assessment of substance use (procedure) (Date: 2020-04-08T23:17:17Z)
+- Screening for drug abuse (procedure) (Date: 2020-04-08T23:30:53Z)
+- Face mask (physical object) (Date: 2020-11-08T21:45:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-14T21:45:21Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-14T21:45:21Z)
+- Screening for domestic abuse (procedure) (Date: 2021-04-14T22:18:13Z)
+- Depression screening (procedure) (Date: 2021-04-14T22:49:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-14T23:00:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-12T21:45:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-14T21:45:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-14T21:45:21Z: General examination of patient (procedure)
+- 2020-11-08T21:45:21Z: Encounter for symptom (procedure)
+- 2020-04-08T21:45:21Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-14T23:24:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-04-14T22:49:37Z Total score [HARK]: 3.0 {score}
+- 2021-04-14T22:18:13Z Are you Hispanic or Latino?: No nan
+- 2021-04-14T22:18:13Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 128511 /a
+- 2021-04-14T22:18:13Z What is your main insurance?: Private insurance nan
+- 2021-04-14T22:18:13Z What is your current work situation?: Full-time work nan
+- 2021-04-14T22:18:13Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-04-14T22:18:13Z What address do you live at?: 302 Yost Wynd Apt 51 nan
+- 2021-04-14T22:18:13Z Are you worried about losing your housing?: No nan
+- 2021-04-14T22:18:13Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan

@@ -1,0 +1,126 @@
+== PATIENT RECORD: Dann525 Wisoky380 (ID: 45e16cee-56b9-4619-d136-dbba2af81729) ==
+
+== Demographics ==
+Patient ID: 45e16cee-56b9-4619-d136-dbba2af81729
+Name: Dann525 Wisoky380
+Gender: F
+Birthdate: 1944-09-12
+Address: 828 Monahan Highlands Apt 95
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Chronic sinusitis (disorder)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Hyperlipidemia
+- Social isolation (finding)
+- Osteoporosis (disorder)
+- Victim of intimate partner abuse (finding)
+- Severe anxiety (panic) (finding
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-20T22:24:51Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-20T23:11:04Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-12-20T23:39:48Z)
+- Depression screening (procedure) (Date: 2011-12-20T23:54:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-21T00:09:07Z)
+- Assessment of substance use (procedure) (Date: 2011-12-21T00:37:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-21T00:51:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-25T22:24:51Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-25T23:01:48Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-12-25T23:25:34Z)
+- Depression screening (procedure) (Date: 2012-12-25T23:51:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-26T00:04:43Z)
+- Assessment of substance use (procedure) (Date: 2012-12-26T00:32:39Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-26T00:44:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-31T22:24:51Z)
+- Depression screening (procedure) (Date: 2013-12-31T23:05:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-31T23:20:09Z)
+- Assessment of substance use (procedure) (Date: 2013-12-31T23:42:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-31T23:53:45Z)
+- Colonoscopy (Date: 2014-09-13T00:34:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-06T22:24:51Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-06T23:07:15Z)
+- Depression screening (procedure) (Date: 2015-01-06T23:35:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-06T23:48:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-12T22:24:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-12T22:24:51Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-12T23:01:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-01-12T23:19:47Z)
+- Depression screening (procedure) (Date: 2016-01-12T23:36:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-12T23:49:09Z)
+- Assessment of substance use (procedure) (Date: 2016-01-13T00:15:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-01-13T00:27:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-17T22:24:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-01-17T22:59:46Z)
+- Depression screening (procedure) (Date: 2017-01-17T23:23:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-17T23:35:11Z)
+- Assessment of substance use (procedure) (Date: 2017-01-18T00:03:17Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-18T00:13:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-23T22:24:51Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-23T22:24:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-05-23T23:03:40Z)
+- Assessment of substance use (procedure) (Date: 2017-05-23T23:25:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-23T23:39:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-23T22:24:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-01-23T23:19:30Z)
+- Assessment of substance use (procedure) (Date: 2018-01-23T23:36:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-23T23:50:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-29T22:24:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-01-29T23:19:27Z)
+- Depression screening (procedure) (Date: 2019-01-29T23:48:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-29T23:59:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-30T00:29:23Z)
+- Assessment of substance use (procedure) (Date: 2019-01-30T00:58:59Z)
+- Screening for drug abuse (procedure) (Date: 2019-01-30T01:09:21Z)
+- Colonoscopy (Date: 2019-09-13T01:02:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-04T22:24:51Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-04T22:24:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-02-04T23:10:57Z)
+- Depression screening (procedure) (Date: 2020-02-04T23:33:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-04T23:47:55Z)
+- Assessment of substance use (procedure) (Date: 2020-02-05T00:15:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-05T00:26:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-09T22:24:51Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-09T23:05:19Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-09T23:24:18Z)
+- Depression screening (procedure) (Date: 2021-02-10T00:06:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-10T00:17:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T22:24:51Z: Follow-up encounter
+- 2021-10-26T16:24:51Z: Encounter for symptom
+- 2021-04-27T22:24:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-06T22:24:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-09T22:24:51Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-14T22:24:51Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 37.9 U/L
+- 2021-11-14T22:24:51Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 20.9 U/L
+- 2021-11-14T22:24:51Z Triglycerides: 176.9 mg/dL
+- 2021-11-14T22:24:51Z Low Density Lipoprotein Cholesterol: 126.4 mg/dL
+- 2021-11-14T22:24:51Z High Density Lipoprotein Cholesterol: 72.3 mg/dL
+- 2021-11-14T22:24:51Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 131.8 U/L
+- 2021-11-14T22:24:51Z Bilirubin.total [Mass/volume] in Serum or Plasma: 1.1 mg/dL
+- 2021-11-14T22:24:51Z Globulin [Mass/volume] in Serum by calculation: 2.0 g/L
+- 2021-11-14T22:24:51Z Albumin [Mass/volume] in Serum or Plasma: 5.3 g/dL
+- 2021-11-14T22:24:51Z Protein [Mass/volume] in Serum or Plasma: 73.7 g/dL

@@ -1,0 +1,222 @@
+== PATIENT RECORD: Miss492 Reichert620 (ID: ccd81797-18f3-cf40-4f64-f37b7b50d689) ==
+
+== Demographics ==
+Patient ID: ccd81797-18f3-cf40-4f64-f37b7b50d689
+Name: Miss492 Reichert620
+Gender: F
+Birthdate: 1988-03-21
+Address: 701 Friesen Promenade
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Malignant neoplasm of breast (disorder)
+- Risk activity involvement (finding)
+- Body mass index 30+ - obesity (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Has a criminal record (finding)
+- Not in labor force (finding)
+- Normal pregnancy
+- Severe anxiety (panic) (finding
+- Unhealthy alcohol drinking behavior (finding)
+- Viral sinusitis (disorder)
+- Anemia (disorder)
+- Chronic neck pain (finding)
+- Prediabetes
+- Part-time employment (finding)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- tramadol hydrochloride 50 MG Oral Tablet
+- Yaz 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Penicillin V Potassium 500 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 2012-04-09T23:59:40Z)
+- Ultrasound scan for fetal viability (Date: 2012-04-09T23:59:40Z)
+- Counseling for termination of pregnancy (Date: 2012-04-28T23:59:40Z)
+- Induced termination of pregnancy (Date: 2012-04-28T23:59:40Z)
+- Pregnancy termination care (Date: 2012-05-15T23:59:40Z)
+- Physical exam following abortion (Date: 2012-05-15T23:59:40Z)
+- Depression screening (Date: 2012-05-15T23:59:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-18T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-19T00:48:22Z)
+- Depression screening (procedure) (Date: 2012-06-19T01:16:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-19T01:29:07Z)
+- Assessment of substance use (procedure) (Date: 2012-06-19T01:52:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-06-19T02:06:32Z)
+- Standard pregnancy test (Date: 2012-09-24T23:59:40Z)
+- Ultrasound scan for fetal viability (Date: 2012-09-24T23:59:40Z)
+- Evaluation of uterine fundal height (Date: 2012-09-24T23:59:40Z)
+- Auscultation of the fetal heart (Date: 2012-09-24T23:59:40Z)
+- Blood typing  RH typing (Date: 2012-09-24T23:59:40Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-09-24T23:59:40Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-09-24T23:59:40Z)
+- Human immunodeficiency virus antigen test (Date: 2012-09-24T23:59:40Z)
+- Chlamydia antigen test (Date: 2012-09-24T23:59:40Z)
+- Gonorrhea infection test (Date: 2012-09-24T23:59:40Z)
+- Syphilis infection test (Date: 2012-09-24T23:59:40Z)
+- Urine culture (Date: 2012-09-24T23:59:40Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-09-24T23:59:40Z)
+- Urine screening test for diabetes (Date: 2012-09-24T23:59:40Z)
+- Hepatitis C antibody test (Date: 2012-09-24T23:59:40Z)
+- Rubella screening (Date: 2012-09-24T23:59:40Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-09-24T23:59:40Z)
+- Skin test for tuberculosis (Date: 2012-09-24T23:59:40Z)
+- Urine protein test (Date: 2012-09-24T23:59:40Z)
+- Physical examination of mother (Date: 2012-09-24T23:59:40Z)
+- Peripheral blood smear interpretation (Date: 2012-09-24T23:59:40Z)
+- Review of systems (procedure) (Date: 2012-09-25T00:29:40Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-25T00:47:54Z)
+- Brief general examination (procedure) (Date: 2012-09-25T01:01:06Z)
+- Mammography (procedure) (Date: 2012-09-26T05:23:45Z)
+- Manual pelvic examination (procedure) (Date: 2012-09-26T05:47:48Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-09-26T06:01:01Z)
+- Evaluation of uterine fundal height (Date: 2012-10-23T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2012-10-23T01:19:56Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-10-23T01:19:56Z)
+- Fetal anatomy study (Date: 2012-11-20T01:19:56Z)
+- Alpha-fetoprotein test (Date: 2012-11-20T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2012-11-20T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2012-11-20T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2012-12-18T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2012-12-18T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2013-01-15T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2013-01-15T01:19:56Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-02-12T01:19:56Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2013-02-12T01:19:56Z)
+- Urine screening for glucose (Date: 2013-02-12T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2013-02-12T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2013-02-12T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2013-03-12T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2013-03-12T01:19:56Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-04-09T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2013-04-09T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2013-04-09T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2013-04-23T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2013-04-23T01:19:56Z)
+- Evaluation of uterine fundal height (Date: 2013-04-30T01:19:56Z)
+- Auscultation of the fetal heart (Date: 2013-04-30T01:19:56Z)
+- Episiotomy (Date: 2013-05-07T01:19:56Z)
+- Cesarean section (Date: 2013-05-07T01:19:56Z)
+- Physical examination following birth (Date: 2013-06-18T01:19:56Z)
+- Depression screening (Date: 2013-06-18T01:19:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-24T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-25T00:31:41Z)
+- Screening for domestic abuse (procedure) (Date: 2013-06-25T00:50:27Z)
+- Mammography (procedure) (Date: 2013-10-03T06:16:12Z)
+- Manual pelvic examination (procedure) (Date: 2013-10-03T06:32:32Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2013-10-03T06:45:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-30T23:59:40Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-01T00:38:06Z)
+- Depression screening (procedure) (Date: 2014-07-01T01:09:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-01T01:20:53Z)
+- Mammography (procedure) (Date: 2014-09-15T06:56:05Z)
+- Manual pelvic examination (procedure) (Date: 2014-09-15T07:17:59Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2014-09-15T07:29:05Z)
+- Standard pregnancy test (Date: 2015-03-09T23:59:40Z)
+- Ultrasound scan for fetal viability (Date: 2015-03-09T23:59:40Z)
+- Counseling for termination of pregnancy (Date: 2015-03-23T23:59:40Z)
+- Induced termination of pregnancy (Date: 2015-03-23T23:59:40Z)
+- Pregnancy termination care (Date: 2015-04-04T23:59:40Z)
+- Physical exam following abortion (Date: 2015-04-04T23:59:40Z)
+- Depression screening (Date: 2015-04-04T23:59:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-06T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-07T00:52:27Z)
+- Screening for domestic abuse (procedure) (Date: 2015-07-07T01:07:31Z)
+- Depression screening (procedure) (Date: 2015-07-07T01:35:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-07T01:45:37Z)
+- Assessment of substance use (procedure) (Date: 2015-07-07T02:11:22Z)
+- Screening for drug abuse (procedure) (Date: 2015-07-07T02:25:39Z)
+- Mammography (procedure) (Date: 2015-09-05T07:48:59Z)
+- Manual pelvic examination (procedure) (Date: 2015-09-05T08:07:02Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2015-09-05T08:17:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-11T23:59:40Z)
+- Depression screening (procedure) (Date: 2016-07-12T00:30:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-12T00:41:47Z)
+- Assessment of substance use (procedure) (Date: 2016-07-12T01:11:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-12T01:25:59Z)
+- Mammography (procedure) (Date: 2016-08-23T08:29:03Z)
+- Manual pelvic examination (procedure) (Date: 2016-08-23T08:44:33Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2016-08-23T08:59:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-17T23:59:40Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-17T23:59:40Z)
+- Depression screening (procedure) (Date: 2017-07-18T00:48:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-18T01:03:01Z)
+- Assessment of substance use (procedure) (Date: 2017-07-18T01:23:52Z)
+- Screening for drug abuse (procedure) (Date: 2017-07-18T01:36:33Z)
+- Mammography (procedure) (Date: 2017-08-23T09:14:51Z)
+- Manual pelvic examination (procedure) (Date: 2017-08-23T09:34:18Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2017-08-23T09:47:33Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-05-29T23:59:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-23T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-24T00:39:32Z)
+- Depression screening (procedure) (Date: 2018-07-24T01:07:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-24T01:18:01Z)
+- Assessment of substance use (procedure) (Date: 2018-07-24T01:42:50Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-24T01:54:57Z)
+- Mammography (procedure) (Date: 2018-09-01T10:06:12Z)
+- Manual pelvic examination (procedure) (Date: 2018-09-01T10:29:00Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2018-09-01T10:40:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-29T23:59:40Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-29T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-30T00:42:25Z)
+- Screening for domestic abuse (procedure) (Date: 2019-07-30T01:01:05Z)
+- Depression screening (procedure) (Date: 2019-07-30T01:31:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-30T01:46:07Z)
+- Assessment of substance use (procedure) (Date: 2019-07-30T02:11:12Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-30T02:21:24Z)
+- Mammography (procedure) (Date: 2019-08-21T10:58:25Z)
+- Manual pelvic examination (procedure) (Date: 2019-08-21T11:23:04Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2019-08-21T11:35:00Z)
+- Throat culture (procedure) (Date: 2020-01-30T01:59:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-03T23:59:40Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-03T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-04T00:46:47Z)
+- Depression screening (procedure) (Date: 2020-08-04T01:03:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-04T01:16:59Z)
+- Assessment of substance use (procedure) (Date: 2020-08-04T01:41:34Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-04T01:55:22Z)
+- Mammography (procedure) (Date: 2020-08-06T11:46:28Z)
+- Manual pelvic examination (procedure) (Date: 2020-08-06T12:06:17Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-08-06T12:19:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-09T23:59:40Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-10T00:47:11Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-10T01:13:37Z)
+- Depression screening (procedure) (Date: 2021-08-10T01:43:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-10T01:58:30Z)
+- Assessment of substance use (procedure) (Date: 2021-08-10T02:21:00Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-10T02:35:36Z)
+- Mammography (procedure) (Date: 2021-08-12T12:33:41Z)
+- Manual pelvic examination (procedure) (Date: 2021-08-12T12:52:11Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2021-08-12T13:04:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-12T12:52:11Z: Gynecology service (qualifier value)
+- 2021-08-12T12:33:41Z: Screening surveillance (regime/therapy)
+- 2021-08-12T12:33:41Z: Postoperative follow-up visit (procedure)
+- 2021-08-09T23:59:40Z: General examination of patient (procedure)
+- 2021-05-14T00:28:55Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-08-10T03:00:59Z Total score [DAST-10]: 1.0 {score}
+- 2021-08-10T02:21:00Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-08-10T01:43:44Z Total score [HARK]: 0.0 {score}
+- 2021-08-10T01:13:37Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-08-10T00:47:11Z Which race(s) are you?: White nan
+- 2021-08-10T00:47:11Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-08-10T00:47:11Z What language are you most comfortable speaking?: English nan
+- 2021-08-10T00:47:11Z How many family members  including yourself  do you currently live with?: 3.0 {#}
+- 2021-08-10T00:47:11Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-08-10T00:47:11Z Are you worried about losing your housing?: No nan

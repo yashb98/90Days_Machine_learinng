@@ -1,0 +1,131 @@
+== PATIENT RECORD: Otha286 Wintheiser220 (ID: 073967cc-9195-3de9-8ce1-e0cd81461da4) ==
+
+== Demographics ==
+Patient ID: 073967cc-9195-3de9-8ce1-e0cd81461da4
+Name: Otha286 Wintheiser220
+Gender: F
+Birthdate: 1912-10-07
+Address: 708 Braun Frontage road Suite 56
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Miscarriage in first trimester
+- Tubal pregnancy
+- Stress (finding)
+- Prediabetes
+- Chronic sinusitis (disorder)
+- Osteoporosis (disorder)
+- Acute viral pharyngitis (disorder)
+- Fracture subluxation of wrist
+- Pathological fracture due to osteoporosis (disorder)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- X-ray or wrist (Date: 2012-04-03T01:47:35Z)
+- Bone immobilization (Date: 2012-04-03T01:47:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-16T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-16T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-07-16T20:25:37Z)
+- Screening for domestic abuse (procedure) (Date: 2012-07-16T20:47:51Z)
+- Depression screening (procedure) (Date: 2012-07-16T21:26:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-16T21:36:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-16T21:59:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-22T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-22T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-22T20:37:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-07-22T21:05:19Z)
+- Depression screening (procedure) (Date: 2013-07-22T21:31:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-22T21:44:02Z)
+- Assessment of substance use (procedure) (Date: 2013-07-22T22:05:13Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-22T22:17:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-28T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-28T20:25:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-07-28T20:42:50Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-28T21:11:11Z)
+- Depression screening (procedure) (Date: 2014-07-28T21:45:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-28T22:00:02Z)
+- Assessment of substance use (procedure) (Date: 2014-07-28T22:27:36Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-28T22:38:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-03T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-03T20:39:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-08-03T20:58:15Z)
+- Depression screening (procedure) (Date: 2015-08-03T21:13:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-03T21:26:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-03T21:53:11Z)
+- Measurement of respiratory function (procedure) (Date: 2015-12-30T06:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-08T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-08T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-08-08T20:41:11Z)
+- Screening for domestic abuse (procedure) (Date: 2016-08-08T21:10:42Z)
+- Depression screening (procedure) (Date: 2016-08-08T21:41:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-08T21:52:18Z)
+- Assessment of substance use (procedure) (Date: 2016-08-08T22:13:37Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-08T22:26:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-14T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-08-14T20:47:27Z)
+- Screening for domestic abuse (procedure) (Date: 2017-08-14T21:10:03Z)
+- Depression screening (procedure) (Date: 2017-08-14T21:45:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-14T21:59:49Z)
+- Assessment of substance use (procedure) (Date: 2017-08-14T22:29:30Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-14T22:43:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-20T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-08-20T20:32:18Z)
+- Depression screening (procedure) (Date: 2018-08-20T20:50:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-20T21:02:02Z)
+- Assessment of substance use (procedure) (Date: 2018-08-20T21:26:02Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-20T21:36:15Z)
+- Throat culture (procedure) (Date: 2019-04-13T16:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-26T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-08-26T20:26:34Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-26T20:47:08Z)
+- Depression screening (procedure) (Date: 2019-08-26T21:14:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-26T21:26:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-26T21:47:50Z)
+- Assessment of substance use (procedure) (Date: 2019-08-26T22:17:11Z)
+- Screening for drug abuse (procedure) (Date: 2019-08-26T22:29:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-31T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-31T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-31T20:47:04Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-08-31T21:09:02Z)
+- Depression screening (procedure) (Date: 2020-08-31T21:36:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-31T21:47:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-06T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-09-06T20:26:03Z)
+- Depression screening (procedure) (Date: 2021-09-06T20:44:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-06T20:59:46Z)
+- Assessment of substance use (procedure) (Date: 2021-09-06T21:21:16Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-06T21:35:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-06T19:51:58Z: General examination of patient (procedure)
+- 2021-03-29T19:51:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-08T19:51:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-31T19:51:58Z: General examination of patient (procedure)
+- 2019-08-26T19:51:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-07T18:51:58Z QOLS: 1.0 {score}
+- 2021-10-07T18:51:58Z DALY: 12.7 a
+- 2021-10-07T18:51:58Z QALY: 95.3 a
+- 2021-09-06T21:56:24Z Total score [DAST-10]: 2.0 {score}
+- 2021-09-06T21:21:16Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-09-06T20:44:59Z Fall risk total [Morse Fall Scale]: 115.0 {#}
+- 2021-09-06T20:44:59Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-09-06T20:26:03Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-09-06T20:26:03Z Are you a refugee?: No nan
+- 2021-09-06T20:26:03Z Are you worried about losing your housing?: No nan

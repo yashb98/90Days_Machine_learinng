@@ -1,0 +1,125 @@
+== PATIENT RECORD: Roselia779 Kilback373 (ID: 63d20fbe-d046-cc9f-59b7-c51c073583c1) ==
+
+== Demographics ==
+Patient ID: 63d20fbe-d046-cc9f-59b7-c51c073583c1
+Name: Roselia779 Kilback373
+Gender: F
+Birthdate: 1944-02-16
+Address: 445 Stark Dale
+Marital Status: M
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Hyperlipidemia
+- Social isolation (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Fracture subluxation of wrist
+- Osteoporosis (disorder)
+- Fracture of forearm
+- Pathological fracture due to osteoporosis (disorder)
+- Victim of intimate partner abuse (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-30T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-05-30T20:35:29Z)
+- Depression screening (procedure) (Date: 2012-05-30T20:58:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-30T21:09:18Z)
+- Assessment of substance use (procedure) (Date: 2012-05-30T21:29:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-05-30T21:41:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-05T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-06-05T20:38:17Z)
+- Depression screening (procedure) (Date: 2013-06-05T20:57:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-05T21:08:03Z)
+- Assessment of substance use (procedure) (Date: 2013-06-05T21:36:06Z)
+- Screening for drug abuse (procedure) (Date: 2013-06-05T21:46:39Z)
+- X-ray or wrist (Date: 2013-06-28T00:36:42Z)
+- Bone immobilization (Date: 2013-06-28T00:36:42Z)
+- Bone density scan (procedure) (Date: 2013-06-28T01:08:28Z)
+- Colonoscopy (Date: 2014-02-15T22:34:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-11T20:03:35Z)
+- Bone density scan (procedure) (Date: 2014-06-11T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-11T20:44:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-06-11T21:04:26Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-11T21:30:58Z)
+- Depression screening (procedure) (Date: 2014-06-11T22:14:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-11T22:24:56Z)
+- Assessment of substance use (procedure) (Date: 2014-06-11T22:54:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-06-11T23:09:41Z)
+- Upper arm X-ray (Date: 2014-11-12T01:08:28Z)
+- Bone immobilization (Date: 2014-11-12T01:08:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-17T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-17T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-06-17T20:35:20Z)
+- Screening for domestic abuse (procedure) (Date: 2015-06-17T21:00:32Z)
+- Depression screening (procedure) (Date: 2015-06-17T21:43:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-17T21:54:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-22T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-22T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-06-22T20:47:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-28T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-28T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-06-28T20:58:48Z)
+- Depression screening (procedure) (Date: 2017-06-28T21:19:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-28T21:30:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-04T20:03:35Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-04T20:03:35Z)
+- Depression screening (procedure) (Date: 2018-07-04T20:41:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-04T20:52:33Z)
+- Assessment of substance use (procedure) (Date: 2018-07-04T21:21:33Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-04T21:35:29Z)
+- Colonoscopy (Date: 2019-02-15T23:16:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-10T20:03:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-10T20:43:00Z)
+- Assessment of substance use (procedure) (Date: 2019-07-10T21:08:12Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-10T21:19:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-15T20:03:35Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-15T20:49:29Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-07-15T21:16:28Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-15T21:39:18Z)
+- Depression screening (procedure) (Date: 2020-07-15T22:09:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-15T22:21:34Z)
+- Assessment of substance use (procedure) (Date: 2020-07-15T22:46:48Z)
+- Screening for drug abuse (procedure) (Date: 2020-07-15T22:58:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-21T20:03:35Z)
+- Depression screening (procedure) (Date: 2021-07-21T21:02:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-21T21:14:27Z)
+- Assessment of substance use (procedure) (Date: 2021-07-21T21:39:59Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-21T21:53:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-21T14:03:35Z: Encounter for symptom
+- 2021-07-21T20:03:35Z: General examination of patient (procedure)
+- 2021-05-19T20:03:35Z: Follow-up encounter
+- 2021-04-07T20:03:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-17T20:03:35Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-21T22:21:39Z Total score [DAST-10]: 2.0 {score}
+- 2021-07-21T21:39:59Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-07-21T21:02:52Z Are you a refugee?: No nan
+- 2021-07-21T21:02:52Z What language are you most comfortable speaking?: English nan
+- 2021-07-21T21:02:52Z What is your housing situation today?: I have housing nan
+- 2021-07-21T21:02:52Z Are you worried about losing your housing?: No nan
+- 2021-07-21T21:02:52Z What address do you live at?: 445 Stark Dale nan
+- 2021-07-21T21:02:52Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-07-21T21:02:52Z What is your current work situation?: Full-time work nan
+- 2021-07-21T21:02:52Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 89628 /a

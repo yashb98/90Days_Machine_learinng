@@ -1,0 +1,145 @@
+== PATIENT RECORD: Betsy439 Bashirian201 (ID: 905c24ca-4f11-d6e1-c555-fcf809b6144c) ==
+
+== Demographics ==
+Patient ID: 905c24ca-4f11-d6e1-c555-fcf809b6144c
+Name: Betsy439 Bashirian201
+Gender: F
+Birthdate: 2000-10-11
+Address: 236 McClure Flat
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Streptococcal sore throat (disorder)
+- Facial laceration
+- Severe anxiety (panic) (finding
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-11-01T01:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-01T01:12:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-11-01T01:24:04Z)
+- Assessment of substance use (procedure) (Date: 2012-11-01T01:50:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-11-01T02:04:13Z)
+- Anticipatory guidance (procedure) (Date: 2012-11-01T02:22:39Z)
+- Depression screening (procedure) (Date: 2013-11-07T01:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-07T01:12:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-11-07T01:26:07Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-13T01:12:47Z)
+- Depression screening (procedure) (Date: 2014-11-13T01:28:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-13T01:40:19Z)
+- Throat culture (procedure) (Date: 2015-10-03T10:12:47Z)
+- Suture open wound (Date: 2016-10-23T01:12:47Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-24T01:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-24T01:12:47Z)
+- Depression screening (procedure) (Date: 2016-11-24T01:36:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-24T01:51:06Z)
+- Assessment of substance use (procedure) (Date: 2016-11-24T02:19:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-11-24T02:30:05Z)
+- Anticipatory guidance (procedure) (Date: 2016-11-24T02:52:12Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-30T01:12:47Z)
+- Depression screening (procedure) (Date: 2017-11-30T01:38:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-30T01:53:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-06T01:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-06T01:12:47Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-06T01:49:59Z)
+- Depression screening (procedure) (Date: 2018-12-06T02:26:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-06T02:39:36Z)
+- Assessment of substance use (procedure) (Date: 2018-12-06T03:06:50Z)
+- Screening for drug abuse (procedure) (Date: 2018-12-06T03:19:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-12T01:12:47Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-12T01:54:04Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-12T02:09:53Z)
+- Depression screening (procedure) (Date: 2019-12-12T02:38:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-12T02:49:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-17T01:12:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-17T01:12:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-17T01:57:49Z)
+- Standard pregnancy test (Date: 2021-02-18T01:12:47Z)
+- Ultrasound scan for fetal viability (Date: 2021-02-18T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-02-18T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-02-18T01:12:47Z)
+- Blood typing  RH typing (Date: 2021-02-18T01:12:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-02-18T01:12:47Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-02-18T01:12:47Z)
+- Human immunodeficiency virus antigen test (Date: 2021-02-18T01:12:47Z)
+- Chlamydia antigen test (Date: 2021-02-18T01:12:47Z)
+- Gonorrhea infection test (Date: 2021-02-18T01:12:47Z)
+- Syphilis infection test (Date: 2021-02-18T01:12:47Z)
+- Urine culture (Date: 2021-02-18T01:12:47Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-02-18T01:12:47Z)
+- Urine screening test for diabetes (Date: 2021-02-18T01:12:47Z)
+- Hepatitis C antibody test (Date: 2021-02-18T01:12:47Z)
+- Rubella screening (Date: 2021-02-18T01:12:47Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-02-18T01:12:47Z)
+- Skin test for tuberculosis (Date: 2021-02-18T01:12:47Z)
+- Urine protein test (Date: 2021-02-18T01:12:47Z)
+- Physical examination of mother (Date: 2021-02-18T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-03-18T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-03-18T01:12:47Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-03-18T01:12:47Z)
+- Fetal anatomy study (Date: 2021-04-15T01:12:47Z)
+- Alpha-fetoprotein test (Date: 2021-04-15T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-04-15T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-04-15T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-05-13T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-05-13T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-06-10T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-06-10T01:12:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-07-08T01:12:47Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-07-08T01:12:47Z)
+- Urine screening for glucose (Date: 2021-07-08T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-07-08T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-07-08T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-08-05T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-08-05T01:12:47Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2021-09-02T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-09-02T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-09-02T01:12:47Z)
+- Evaluation of uterine fundal height (Date: 2021-09-16T01:12:47Z)
+- Auscultation of the fetal heart (Date: 2021-09-16T01:12:47Z)
+- Epidural anesthesia (Date: 2021-09-23T01:12:47Z)
+- Childbirth (Date: 2021-09-23T01:12:47Z)
+- Physical examination following birth (Date: 2021-11-04T01:12:47Z)
+- Depression screening (Date: 2021-11-04T01:12:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T01:12:47Z: Postnatal visit
+- 2021-09-23T01:12:47Z: Obstetric emergency hospital admission
+- 2021-09-16T01:12:47Z: Prenatal visit
+- 2021-09-02T01:12:47Z: Prenatal visit
+- 2021-08-05T01:12:47Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-10-12T01:12:47Z QOLS: 1.0 {score}
+- 2021-10-12T01:12:47Z DALY: 0.0 a
+- 2021-10-12T01:12:47Z QALY: 20.0 a
+- 2020-12-17T02:22:45Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2020-12-17T01:57:49Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2020-12-17T01:57:49Z What is your current work situation?: Full-time work nan
+- 2020-12-17T01:57:49Z What is your main insurance?: Private insurance nan
+- 2020-12-17T01:57:49Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 21168 /a
+- 2020-12-17T01:57:49Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan
+- 2020-12-17T01:57:49Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan

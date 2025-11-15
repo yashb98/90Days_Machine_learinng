@@ -1,0 +1,100 @@
+== PATIENT RECORD: Lorinda137 Rosenbaum794 (ID: d362f4e5-244f-cf80-f2d5-25bcd2c97785) ==
+
+== Demographics ==
+Patient ID: d362f4e5-244f-cf80-f2d5-25bcd2c97785
+Name: Lorinda137 Rosenbaum794
+Gender: F
+Birthdate: 1974-08-09
+Address: 206 Denesik Well
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Miscarriage in first trimester
+- Refugee (person)
+- Body mass index 30+ - obesity (finding)
+- Misuses drugs (finding)
+- Part-time employment (finding)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Diabetes
+- Anemia (disorder)
+- Hypertension
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Severe anxiety (panic) (finding
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Removal of subcutaneous contraceptive (Date: 2012-10-06T00:30:24Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-10-06T00:59:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-16T00:30:24Z)
+- Depression screening (procedure) (Date: 2014-08-16T01:11:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-16T01:22:44Z)
+- Assessment of substance use (procedure) (Date: 2014-08-16T01:43:32Z)
+- Screening for drug abuse (procedure) (Date: 2014-08-16T01:55:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-20T00:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-20T00:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-20T01:14:42Z)
+- Depression screening (procedure) (Date: 2016-08-20T01:33:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-20T01:47:56Z)
+- Removal of subcutaneous contraceptive (Date: 2016-10-08T00:30:24Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-10-08T00:55:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-25T00:30:24Z)
+- Peripheral blood smear interpretation (Date: 2018-08-25T00:30:24Z)
+- Depression screening (procedure) (Date: 2018-08-25T01:00:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-25T01:11:13Z)
+- Review of systems (procedure) (Date: 2018-08-25T01:00:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-25T01:19:08Z)
+- Brief general examination (procedure) (Date: 2018-08-25T01:25:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-31T00:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-31T00:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-31T01:04:28Z)
+- Depression screening (procedure) (Date: 2019-08-31T01:25:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-31T01:38:03Z)
+- Assessment of substance use (procedure) (Date: 2019-08-31T02:00:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-08-31T02:14:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-05T00:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-05T00:30:24Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-05T01:25:09Z)
+- Screening for domestic abuse (procedure) (Date: 2020-09-05T01:42:29Z)
+- Depression screening (procedure) (Date: 2020-09-05T02:17:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-05T02:31:57Z)
+- Assessment of substance use (procedure) (Date: 2020-09-05T02:59:02Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-05T03:10:42Z)
+- Removal of subcutaneous contraceptive (Date: 2020-10-10T00:30:24Z)
+- Insertion of subcutaneous contraceptive (Date: 2020-10-10T01:01:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-11T00:30:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-11T00:30:24Z)
+- Depression screening (procedure) (Date: 2021-09-11T01:15:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-11T01:30:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-11T00:30:24Z: General examination of patient (procedure)
+- 2021-03-13T00:30:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-13T00:30:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-10T00:30:24Z: Patient encounter procedure
+- 2020-09-05T00:30:24Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-11T01:52:34Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-09-11T01:15:55Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-09-11T01:15:55Z Are you worried about losing your housing?: No nan
+- 2021-09-11T01:15:55Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-09-11T01:15:55Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-09-11T01:15:55Z Are you a refugee?: Yes nan
+- 2021-09-11T01:15:55Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-09-11T01:15:55Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-09-11T01:15:55Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-09-11T01:15:55Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan

@@ -1,0 +1,158 @@
+== PATIENT RECORD: Cornelia505 Gibson10 (ID: 3e078645-65f0-4863-8556-d076402382b2) ==
+
+== Demographics ==
+Patient ID: 3e078645-65f0-4863-8556-d076402382b2
+Name: Cornelia505 Gibson10
+Gender: F
+Birthdate: 1963-08-16
+Address: 381 Emard Dale
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Unemployed (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Primary fibromyalgia syndrome
+- Reports of violence in the environment (finding)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Naproxen 500 MG Oral Tablet
+- pregabalin 100 MG Oral Capsule
+- Acetaminophen 325 MG Oral Tablet
+- Milnacipran hydrochloride 100 MG Oral Tablet
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2012-02-10T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-06T21:52:09Z)
+- Depression screening (procedure) (Date: 2012-04-06T22:30:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-06T22:44:25Z)
+- Assessment of substance use (procedure) (Date: 2012-04-06T23:05:12Z)
+- Screening for drug abuse (procedure) (Date: 2012-04-06T23:20:05Z)
+- Intramuscular injection (Date: 2012-05-11T21:52:09Z)
+- Intramuscular injection (Date: 2012-08-10T21:52:09Z)
+- Intramuscular injection (Date: 2012-11-09T21:52:09Z)
+- Intramuscular injection (Date: 2013-02-08T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-12T21:52:09Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-12T21:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-12T22:44:18Z)
+- Assessment of substance use (procedure) (Date: 2013-04-12T23:11:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-12T23:23:26Z)
+- Intramuscular injection (Date: 2013-05-10T21:52:09Z)
+- Intramuscular injection (Date: 2013-08-09T21:52:09Z)
+- Colonoscopy (Date: 2013-08-16T21:52:09Z)
+- Intramuscular injection (Date: 2013-11-08T21:52:09Z)
+- Intramuscular injection (Date: 2014-02-07T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-18T21:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-18T22:46:41Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-18T23:15:47Z)
+- Depression screening (procedure) (Date: 2014-04-19T00:00:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-19T00:11:32Z)
+- Intramuscular injection (Date: 2014-05-09T21:52:09Z)
+- Intramuscular injection (Date: 2014-08-08T21:52:09Z)
+- Intramuscular injection (Date: 2014-11-07T21:52:09Z)
+- Intramuscular injection (Date: 2015-02-06T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-24T21:52:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-24T21:52:09Z)
+- Screening for domestic abuse (procedure) (Date: 2015-04-24T22:43:03Z)
+- Depression screening (procedure) (Date: 2015-04-24T23:10:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-24T23:23:28Z)
+- Assessment of substance use (procedure) (Date: 2015-04-24T23:53:17Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-25T00:03:41Z)
+- Intramuscular injection (Date: 2015-05-08T21:52:09Z)
+- Intramuscular injection (Date: 2015-08-07T21:52:09Z)
+- Intramuscular injection (Date: 2015-11-06T21:52:09Z)
+- Intramuscular injection (Date: 2016-02-05T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-29T21:52:09Z)
+- Intramuscular injection (Date: 2016-05-06T21:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-29T22:45:10Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-29T23:02:46Z)
+- Depression screening (procedure) (Date: 2016-04-29T23:41:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-29T23:56:35Z)
+- Assessment of substance use (procedure) (Date: 2016-04-30T00:21:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-30T00:32:23Z)
+- Intramuscular injection (Date: 2016-08-05T21:52:09Z)
+- Intramuscular injection (Date: 2016-11-04T21:52:09Z)
+- Intramuscular injection (Date: 2017-02-03T21:52:09Z)
+- Intramuscular injection (Date: 2017-05-05T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-05T21:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-05T22:30:24Z)
+- Screening for domestic abuse (procedure) (Date: 2017-05-05T22:46:14Z)
+- Assessment of substance use (procedure) (Date: 2017-05-05T23:13:11Z)
+- Screening for drug abuse (procedure) (Date: 2017-05-05T23:24:37Z)
+- Intramuscular injection (Date: 2017-08-04T21:52:09Z)
+- Intramuscular injection (Date: 2017-11-03T21:52:09Z)
+- Intramuscular injection (Date: 2018-02-02T21:52:09Z)
+- Intramuscular injection (Date: 2018-05-04T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-18T21:52:09Z)
+- Depression screening (procedure) (Date: 2018-05-18T22:39:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-18T22:50:26Z)
+- Assessment of substance use (procedure) (Date: 2018-05-18T23:16:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-05-18T23:30:50Z)
+- Intramuscular injection (Date: 2018-08-03T21:52:09Z)
+- Colonoscopy (Date: 2018-08-16T22:25:21Z)
+- Intramuscular injection (Date: 2018-11-02T21:52:09Z)
+- Intramuscular injection (Date: 2019-02-01T21:52:09Z)
+- Intramuscular injection (Date: 2019-05-03T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-24T21:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-24T22:43:52Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-24T23:06:56Z)
+- Depression screening (procedure) (Date: 2019-05-24T23:35:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-24T23:46:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-25T00:07:58Z)
+- Assessment of substance use (procedure) (Date: 2019-05-25T00:32:06Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-25T00:45:58Z)
+- Intramuscular injection (Date: 2019-08-02T21:52:09Z)
+- Intramuscular injection (Date: 2019-11-01T21:52:09Z)
+- Intramuscular injection (Date: 2020-01-31T21:52:09Z)
+- Intramuscular injection (Date: 2020-05-01T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-29T21:52:09Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-29T22:22:41Z)
+- Assessment of substance use (procedure) (Date: 2020-05-29T23:04:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-29T23:17:38Z)
+- Intramuscular injection (Date: 2020-07-31T21:52:09Z)
+- Intramuscular injection (Date: 2020-10-30T21:52:09Z)
+- Intramuscular injection (Date: 2021-01-29T21:52:09Z)
+- Intramuscular injection (Date: 2021-04-30T21:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-04T21:52:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-04T21:52:09Z)
+- Depression screening (procedure) (Date: 2021-06-04T22:48:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-04T22:59:06Z)
+- Assessment of substance use (procedure) (Date: 2021-06-04T23:26:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-04T23:41:07Z)
+- Intramuscular injection (Date: 2021-07-30T21:52:09Z)
+- Intramuscular injection (Date: 2021-10-29T21:52:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-12T21:52:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-29T21:52:09Z: Patient encounter procedure
+- 2021-10-15T21:52:09Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-30T21:52:09Z: Patient encounter procedure
+- 2021-06-04T21:52:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-16T21:52:09Z QOLS: 0.5 {score}
+- 2021-08-16T21:52:09Z QALY: 44.3 a
+- 2021-08-16T21:52:09Z DALY: 12.7 a
+- 2021-06-05T00:10:52Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-06-04T23:26:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-06-04T22:48:16Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-06-04T22:48:16Z What is your housing situation today?: I have housing nan
+- 2021-06-04T22:48:16Z Are you worried about losing your housing?: No nan
+- 2021-06-04T22:48:16Z What address do you live at?: 381 Emard Dale nan
+- 2021-06-04T22:48:16Z What is the highest level of school that you have finished?: More than high school nan

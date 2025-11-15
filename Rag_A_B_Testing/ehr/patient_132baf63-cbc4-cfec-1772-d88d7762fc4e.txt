@@ -1,0 +1,44 @@
+== PATIENT RECORD: Damien170 Konopelski743 (ID: 132baf63-cbc4-cfec-1772-d88d7762fc4e) ==
+
+== Demographics ==
+Patient ID: 132baf63-cbc4-cfec-1772-d88d7762fc4e
+Name: Damien170 Konopelski743
+Gender: M
+Birthdate: 2019-06-16
+Address: 453 Champlin Stravenue
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-02-23T17:07:42Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-24T17:07:42Z)
+- X-ray or wrist (Date: 2020-06-06T17:07:42Z)
+- Bone immobilization (Date: 2020-06-06T17:07:42Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-23T17:07:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-23T17:07:42Z: Well child visit (procedure)
+- 2020-11-22T17:07:42Z: Well child visit (procedure)
+- 2020-08-23T17:07:42Z: Well child visit (procedure)
+- 2020-07-19T17:32:38Z: Encounter for 'check-up'
+- 2020-06-06T17:07:42Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-16T17:07:42Z QOLS: 1.0 {score}
+- 2021-06-16T17:07:42Z DALY: 0.0 a
+- 2021-06-16T17:07:42Z QALY: 1.0 a
+- 2021-05-23T17:07:42Z Systolic Blood Pressure: 122.0 mm[Hg]
+- 2021-05-23T17:07:42Z Body Height: 83.6 cm
+- 2021-05-23T17:07:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-23T17:07:42Z Body Weight: 11.7 kg
+- 2021-05-23T17:07:42Z Weight-for-length Per age and sex: 45.9 %
+- 2021-05-23T17:07:42Z Head Occipital-frontal circumference: 47.3 cm
+- 2021-05-23T17:07:42Z Diastolic Blood Pressure: 77.0 mm[Hg]

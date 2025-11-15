@@ -1,0 +1,119 @@
+== PATIENT RECORD: Alva958 Conn188 (ID: baaa597d-06af-67c9-837c-620f96157c3b) ==
+
+== Demographics ==
+Patient ID: baaa597d-06af-67c9-837c-620f96157c3b
+Name: Alva958 Conn188
+Gender: F
+Birthdate: 2002-05-06
+Address: 898 Heidenreich Promenade Unit 61
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Sputum finding (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Part-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-05-20T19:28:38Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-26T19:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-26T19:28:38Z)
+- Depression screening (procedure) (Date: 2014-05-26T19:53:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-26T20:04:21Z)
+- Assessment of substance use (procedure) (Date: 2014-05-26T20:27:55Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-26T20:42:04Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-26T21:02:09Z)
+- Depression screening (procedure) (Date: 2015-06-01T19:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-01T19:28:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-01T19:41:50Z)
+- Assessment of substance use (procedure) (Date: 2015-06-01T20:02:54Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-01T20:13:20Z)
+- Anticipatory guidance (procedure) (Date: 2015-06-01T20:27:26Z)
+- Depression screening (procedure) (Date: 2016-06-06T19:28:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-06T19:40:07Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-12T19:28:38Z)
+- Depression screening (procedure) (Date: 2017-06-12T19:50:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-12T20:02:25Z)
+- Assessment of substance use (procedure) (Date: 2017-06-12T20:26:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-06-12T20:36:56Z)
+- Health risks education (procedure) (Date: 2017-06-12T20:58:23Z)
+- Depression screening (procedure) (Date: 2018-06-18T19:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-18T19:28:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-06-18T19:39:40Z)
+- Assessment of substance use (procedure) (Date: 2018-06-18T20:05:57Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-06-18T20:18:51Z)
+- Health risks education (procedure) (Date: 2018-06-18T20:41:59Z)
+- Depression screening (procedure) (Date: 2019-06-24T19:28:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-24T19:40:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-29T19:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-29T19:28:38Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-29T20:24:13Z)
+- Depression screening (procedure) (Date: 2020-06-29T20:52:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-29T21:05:37Z)
+- Assessment of substance use (procedure) (Date: 2020-06-29T21:29:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-29T21:39:32Z)
+- Face mask (physical object) (Date: 2020-12-17T19:28:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-05T19:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-05T19:28:38Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-05T20:26:01Z)
+- Depression screening (procedure) (Date: 2021-07-05T20:43:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-05T20:57:11Z)
+- Assessment of substance use (procedure) (Date: 2021-07-05T21:21:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-05T21:31:37Z)
+- Standard pregnancy test (Date: 2021-11-08T19:28:38Z)
+- Ultrasound scan for fetal viability (Date: 2021-11-08T19:28:38Z)
+- Evaluation of uterine fundal height (Date: 2021-11-08T19:28:38Z)
+- Auscultation of the fetal heart (Date: 2021-11-08T19:28:38Z)
+- Blood typing  RH typing (Date: 2021-11-08T19:28:38Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-11-08T19:28:38Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-11-08T19:28:38Z)
+- Human immunodeficiency virus antigen test (Date: 2021-11-08T19:28:38Z)
+- Chlamydia antigen test (Date: 2021-11-08T19:28:38Z)
+- Gonorrhea infection test (Date: 2021-11-08T19:28:38Z)
+- Syphilis infection test (Date: 2021-11-08T19:28:38Z)
+- Urine culture (Date: 2021-11-08T19:28:38Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-11-08T19:28:38Z)
+- Urine screening test for diabetes (Date: 2021-11-08T19:28:38Z)
+- Hepatitis C antibody test (Date: 2021-11-08T19:28:38Z)
+- Rubella screening (Date: 2021-11-08T19:28:38Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-11-08T19:28:38Z)
+- Skin test for tuberculosis (Date: 2021-11-08T19:28:38Z)
+- Urine protein test (Date: 2021-11-08T19:28:38Z)
+- Physical examination of mother (Date: 2021-11-08T19:28:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-08T19:28:38Z: Prenatal initial visit
+- 2021-07-05T19:28:38Z: General examination of patient (procedure)
+- 2020-12-17T19:28:38Z: Encounter for symptom (procedure)
+- 2020-06-29T19:28:38Z: General examination of patient (procedure)
+- 2019-06-24T19:28:38Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-05T22:00:35Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-07-05T21:21:21Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-07-05T20:43:17Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-07-05T20:26:01Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-07-05T20:26:01Z What address do you live at?: 898 Heidenreich Promenade Unit 61 nan
+- 2021-07-05T20:26:01Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-07-05T20:26:01Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-07-05T20:26:01Z Are you a refugee?: No nan
+- 2021-07-05T20:26:01Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-07-05T20:26:01Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

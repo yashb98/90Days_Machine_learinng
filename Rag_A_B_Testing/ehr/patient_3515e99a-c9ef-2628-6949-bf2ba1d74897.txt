@@ -1,0 +1,80 @@
+== PATIENT RECORD: Alexandria361 Hilll811 (ID: 3515e99a-c9ef-2628-6949-bf2ba1d74897) ==
+
+== Demographics ==
+Patient ID: 3515e99a-c9ef-2628-6949-bf2ba1d74897
+Name: Alexandria361 Hilll811
+Gender: F
+Birthdate: 2003-09-22
+Address: 230 Bartell Promenade
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+- Injury of anterior cruciate ligament
+- Hypertension
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Natazia 28 Day Pack
+- amLODIPine 2.5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-09-24T11:57:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-10-12T11:57:18Z)
+- Depression screening (procedure) (Date: 2015-10-12T12:13:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-10-12T12:27:21Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-17T11:57:18Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-17T11:57:18Z)
+- Depression screening (procedure) (Date: 2016-10-17T12:21:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-17T12:35:57Z)
+- Assessment of substance use (procedure) (Date: 2016-10-17T12:57:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-17T13:11:36Z)
+- Anticipatory guidance (procedure) (Date: 2016-10-17T13:41:12Z)
+- Throat culture (procedure) (Date: 2017-07-13T23:57:18Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-23T11:57:18Z)
+- Depression screening (procedure) (Date: 2018-10-29T11:57:18Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-29T11:57:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-29T12:07:19Z)
+- Assessment of substance use (procedure) (Date: 2018-10-29T12:28:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-29T12:43:25Z)
+- Anticipatory guidance (procedure) (Date: 2018-10-29T12:55:01Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-04T11:57:18Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-04T11:57:18Z)
+- Depression screening (procedure) (Date: 2019-11-04T12:13:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-04T12:28:42Z)
+- Assessment of substance use (procedure) (Date: 2019-11-04T12:51:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-11-04T13:04:25Z)
+- Health risks education (procedure) (Date: 2019-11-04T13:20:08Z)
+- Knee X-ray (Date: 2020-09-16T12:23:38Z)
+- Surgical manipulation of joint of knee (Date: 2020-09-23T12:23:38Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-09T11:57:18Z)
+- Assessment of substance use (procedure) (Date: 2020-11-09T12:16:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-09T12:31:00Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-09T12:47:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-15T11:57:18Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-15T11:57:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-15T11:57:18Z: General examination of patient (procedure)
+- 2021-08-31T11:57:18Z: Consultation for treatment
+- 2021-05-17T11:57:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-19T11:57:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-09T11:57:18Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-15T11:57:18Z Systolic Blood Pressure: 147.0 mm[Hg]
+- 2021-11-15T11:57:18Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-11-15T11:57:18Z Body Height: 167.3 cm
+- 2021-11-15T11:57:18Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-11-15T11:57:18Z Body Weight: 49.0 kg
+- 2021-11-15T11:57:18Z Body Mass Index: 17.5 kg/m2
+- 2021-11-15T11:57:18Z Body mass index (BMI) [Percentile] Per age and gender: 4.5 %
+- 2021-11-15T11:57:18Z Diastolic Blood Pressure: 97.0 mm[Hg]
+- 2021-11-15T11:57:18Z Heart rate: 90.0 /min
+- 2021-11-15T11:57:18Z Respiratory rate: 16.0 /min

@@ -1,0 +1,103 @@
+== PATIENT RECORD: Guillermo498 Vallejo39 (ID: 3cc17df4-192f-62a8-9459-af1cfcd1f0d3) ==
+
+== Demographics ==
+Patient ID: 3cc17df4-192f-62a8-9459-af1cfcd1f0d3
+Name: Guillermo498 Vallejo39
+Gender: M
+Birthdate: 1999-05-07
+Address: 872 Hagenes Mission Suite 9
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Concussion with no loss of consciousness
+- Acute bronchitis (disorder)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Fracture subluxation of wrist
+- Fracture of forearm
+- Part-time employment (finding)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-06-01T21:40:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-06-01T21:51:48Z)
+- Assessment of substance use (procedure) (Date: 2012-06-01T22:18:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-06-01T22:32:17Z)
+- Health risks education (procedure) (Date: 2012-06-01T22:56:37Z)
+- Depression screening (procedure) (Date: 2013-06-07T21:40:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-06-07T21:51:11Z)
+- Assessment of substance use (procedure) (Date: 2013-06-07T22:20:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-06-07T22:33:43Z)
+- Health risks education (procedure) (Date: 2013-06-07T22:45:53Z)
+- Throat culture (procedure) (Date: 2014-01-07T06:40:05Z)
+- Assessment of substance use (procedure) (Date: 2014-06-13T21:40:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-06-13T21:51:34Z)
+- Anticipatory guidance (procedure) (Date: 2014-06-13T22:08:50Z)
+- Depression screening (procedure) (Date: 2015-06-19T21:40:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-19T21:50:08Z)
+- Assessment of substance use (procedure) (Date: 2015-06-19T22:18:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-19T22:31:20Z)
+- Health risks education (procedure) (Date: 2015-06-19T23:00:08Z)
+- Measurement of respiratory function (procedure) (Date: 2016-01-10T02:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-15T21:40:05Z)
+- Depression screening (procedure) (Date: 2016-01-15T21:56:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-01-15T22:07:30Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-24T21:40:05Z)
+- Assessment of substance use (procedure) (Date: 2016-06-24T22:08:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-24T22:22:24Z)
+- Anticipatory guidance (procedure) (Date: 2016-06-24T22:35:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-30T21:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-30T22:18:19Z)
+- Depression screening (procedure) (Date: 2017-06-30T22:40:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-30T22:54:08Z)
+- Assessment of substance use (procedure) (Date: 2017-06-30T23:14:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-30T23:27:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-06T21:40:05Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-06T21:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2018-07-06T22:22:43Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-06T22:43:03Z)
+- Depression screening (procedure) (Date: 2018-07-06T23:16:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-06T23:30:56Z)
+- Assessment of substance use (procedure) (Date: 2018-07-06T23:59:59Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-07T00:14:10Z)
+- X-ray or wrist (Date: 2018-08-23T23:54:05Z)
+- Bone immobilization (Date: 2018-08-23T23:54:05Z)
+- Upper arm X-ray (Date: 2019-08-30T00:30:00Z)
+- Bone immobilization (Date: 2019-08-30T00:30:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-09T21:40:05Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-09T22:22:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-24T21:40:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-27T21:40:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-09T21:40:05Z: General examination of patient (procedure)
+- 2021-01-13T09:40:05Z: Encounter for symptom
+- 2019-12-07T01:01:53Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-07-09T22:48:18Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-07-09T22:22:17Z Are you worried about losing your housing?: Yes nan
+- 2021-07-09T22:22:17Z Which race(s) are you?: Black/African American nan
+- 2021-07-09T22:22:17Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 46669 /a
+- 2021-07-09T22:22:17Z What is your main insurance?: Private insurance nan
+- 2021-07-09T22:22:17Z What is your current work situation?: Part-time or temporary work nan
+- 2021-07-09T22:22:17Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-07-09T22:22:17Z What address do you live at?: 872 Hagenes Mission Suite 9 nan
+- 2021-07-09T22:22:17Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-07-09T22:22:17Z What is your housing situation today?: I have housing nan

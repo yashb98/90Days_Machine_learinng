@@ -1,0 +1,38 @@
+== PATIENT RECORD: Nathanial472 Beatty507 (ID: c28b00a3-54c0-21ba-4ed7-de871f1b157f) ==
+
+== Demographics ==
+Patient ID: c28b00a3-54c0-21ba-4ed7-de871f1b157f
+Name: Nathanial472 Beatty507
+Gender: M
+Birthdate: 2021-09-05
+Address: 422 Kassulke Grove Suite 3
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-09-05T13:07:31Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-10T13:07:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-10T13:07:31Z: Well child visit (procedure)
+- 2021-09-05T13:07:31Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-10T13:07:31Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-10-10T13:07:31Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-10-10T13:07:31Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-10-10T13:07:31Z Respiratory rate: 16.0 /min
+- 2021-10-10T13:07:31Z Heart rate: 68.0 /min
+- 2021-10-10T13:07:31Z Systolic Blood Pressure: 110.0 mm[Hg]
+- 2021-10-10T13:07:31Z Body Height: 57.1 cm
+- 2021-10-10T13:07:31Z Head Occipital-frontal circumference: 39.5 cm
+- 2021-10-10T13:07:31Z Weight-for-length Per age and sex: 6.0 %
+- 2021-10-10T13:07:31Z Body Weight: 4.6 kg

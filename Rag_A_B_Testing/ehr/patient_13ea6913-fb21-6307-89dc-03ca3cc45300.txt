@@ -1,0 +1,102 @@
+== PATIENT RECORD: Son314 Donnelly343 (ID: 13ea6913-fb21-6307-89dc-03ca3cc45300) ==
+
+== Demographics ==
+Patient ID: 13ea6913-fb21-6307-89dc-03ca3cc45300
+Name: Son314 Donnelly343
+Gender: M
+Birthdate: 1914-12-20
+Address: 280 Waters Park
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Sepsis (disorder)
+- Misuses drugs (finding)
+- Reports of violence in the environment (finding)
+- Hyperlipidemia
+- Alcoholism
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1972-01-31T01:34:00Z)
+- Depression screening (procedure) (Date: 1972-01-31T02:30:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1972-01-31T02:44:34Z)
+- Assessment of health and social care needs (procedure) (Date: 1973-02-05T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1973-02-05T01:34:00Z)
+- Depression screening (procedure) (Date: 1973-02-05T02:21:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1973-02-05T02:35:55Z)
+- Assessment of health and social care needs (procedure) (Date: 1974-02-11T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1974-02-11T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 1974-02-11T02:14:12Z)
+- Depression screening (procedure) (Date: 1974-02-11T02:39:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1974-02-11T02:53:37Z)
+- Colonoscopy (Date: 1974-12-21T02:54:15Z)
+- Digital examination of rectum (Date: 1975-02-17T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1975-02-17T01:34:00Z)
+- Depression screening (procedure) (Date: 1975-02-17T02:27:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1975-02-17T02:37:44Z)
+- Digital examination of rectum (Date: 1976-02-17T01:37:15Z)
+- Assessment of health and social care needs (procedure) (Date: 1976-02-23T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 1976-02-23T02:10:31Z)
+- Depression screening (procedure) (Date: 1976-02-23T02:37:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-02-23T02:49:46Z)
+- Digital examination of rectum (Date: 1977-02-28T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-02-28T01:34:00Z)
+- Biopsy of prostate (Date: 1977-02-28T01:38:17Z)
+- Prostatectomy (Date: 1977-02-28T02:08:17Z)
+- Assessment of anxiety (procedure) (Date: 1977-02-28T02:25:39Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-03-06T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 1978-03-06T02:04:07Z)
+- Depression screening (procedure) (Date: 1978-03-06T02:46:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1978-03-06T02:58:29Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-03-12T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 1979-03-12T02:09:47Z)
+- Depression screening (procedure) (Date: 1979-03-12T02:37:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1979-03-12T02:48:08Z)
+- Colonoscopy (Date: 1979-12-21T03:20:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1980-03-17T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1980-03-17T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1980-03-17T02:27:57Z)
+- Depression screening (procedure) (Date: 1980-03-17T02:52:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1980-03-17T03:05:44Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-03-23T01:34:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1981-03-23T02:23:29Z)
+- Depression screening (procedure) (Date: 1981-03-23T02:39:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-03-23T02:50:51Z)
+
+== Recent Encounters (Last 5) ==
+- 1981-09-28T01:34:00Z: Death Certification
+- 1981-03-23T01:34:00Z: General examination of patient (procedure)
+- 1981-01-07T01:34:00Z: Follow-up encounter
+- 1980-03-17T01:34:00Z: General examination of patient (procedure)
+- 1980-01-08T01:34:00Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 1981-09-28T01:34:00Z Cause of Death [US Standard Certificate of Death]: Neoplasm of prostate nan
+- 1981-03-23T03:14:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1981-03-23T02:39:11Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 1981-03-23T02:39:11Z Fall risk total [Morse Fall Scale]: 24.0 {#}
+- 1981-03-23T02:23:29Z What is your current work situation?: Full-time work nan
+- 1981-03-23T02:23:29Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1981-03-23T02:23:29Z Do you feel physically and emotionally safe where you currently live?: No nan
+- 1981-03-23T02:23:29Z Are you a refugee?: No nan
+- 1981-03-23T02:23:29Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1981-03-23T02:23:29Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

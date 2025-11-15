@@ -1,0 +1,63 @@
+== PATIENT RECORD: Roseanna881 Mayer370 (ID: 1f6ca3a4-3383-37f6-45d3-bfe282c43b10) ==
+
+== Demographics ==
+Patient ID: 1f6ca3a4-3383-37f6-45d3-bfe282c43b10
+Name: Roseanna881 Mayer370
+Gender: F
+Birthdate: 2012-03-05
+Address: 927 Prohaska Fork
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Headache (finding)
+- Sputum finding (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-03-05T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-09T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-11T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-13T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-12T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-11T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-08T12:42:16Z)
+- Sputum examination (procedure) (Date: 2016-05-14T20:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-13T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-12T12:42:16Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-02T12:42:16Z)
+- Face mask (physical object) (Date: 2021-08-25T12:42:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-09T03:42:16Z: Encounter for symptom
+- 2021-08-25T12:42:16Z: Encounter for symptom (procedure)
+- 2021-03-08T12:42:16Z: Well child visit (procedure)
+- 2020-10-04T02:42:16Z: Encounter for symptom
+- 2020-03-02T12:42:16Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-09T03:42:16Z Body temperature: 38.7 Cel
+- 2021-08-25T14:16:13Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-08-25T12:53:36Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-25T12:53:36Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

@@ -1,0 +1,49 @@
+== PATIENT RECORD: Reid278 MacGyver246 (ID: 6f49aebb-074b-cc99-b71b-2fb9c43a67e2) ==
+
+== Demographics ==
+Patient ID: 6f49aebb-074b-cc99-b71b-2fb9c43a67e2
+Name: Reid278 MacGyver246
+Gender: M
+Birthdate: 2016-08-19
+Address: 1032 Stark Divide Unit 27
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2016-09-24T03:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-29T03:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-28T03:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-28T03:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-26T03:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-27T03:05:29Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-31T03:05:29Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-13T03:05:29Z: Encounter for symptom
+- 2021-07-31T03:05:29Z: Well child visit (procedure)
+- 2020-07-25T03:05:29Z: Well child visit (procedure)
+- 2020-01-25T03:05:29Z: Well child visit (procedure)
+- 2019-07-27T03:05:29Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-20T03:05:29Z QOLS: 1.0 {score}
+- 2021-08-20T03:05:29Z DALY: 0.0 a
+- 2021-08-20T03:05:29Z QALY: 4.0 a
+- 2021-07-31T03:05:29Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-31T03:05:29Z Body Height: 105.1 cm
+- 2021-07-31T03:05:29Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-07-31T03:05:29Z Body Weight: 17.2 kg
+- 2021-07-31T03:05:29Z Body Mass Index: 15.6 kg/m2
+- 2021-07-31T03:05:29Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-07-31T03:05:29Z Systolic Blood Pressure: 119.0 mm[Hg]

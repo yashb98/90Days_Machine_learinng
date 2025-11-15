@@ -1,0 +1,81 @@
+== PATIENT RECORD: Rosendo998 Padberg411 (ID: 179d9711-5c0f-958e-4466-2295daac7451) ==
+
+== Demographics ==
+Patient ID: 179d9711-5c0f-958e-4466-2295daac7451
+Name: Rosendo998 Padberg411
+Gender: M
+Birthdate: 1975-12-24
+Address: 595 Tromp Gateway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Laceration of foot
+- Acute bronchitis (disorder)
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Aspirin 81 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- clonazePAM 0.25 MG Oral Tablet
+- Diazepam 5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1981-12-10T02:27:10Z)
+- Suture open wound (Date: 1982-10-13T02:27:10Z)
+- Sputum examination (procedure) (Date: 1984-08-16T17:27:10Z)
+- Medication Reconciliation (procedure) (Date: 1984-08-30T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 1986-01-02T02:27:10Z)
+- Depression screening (procedure) (Date: 1988-01-14T02:27:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-01-14T02:37:51Z)
+- Measurement of respiratory function (procedure) (Date: 1988-09-09T04:27:10Z)
+- Assessment of anxiety (procedure) (Date: 1988-09-15T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 1988-09-15T02:27:10Z)
+- Depression screening (procedure) (Date: 1988-09-15T02:46:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-09-15T02:58:41Z)
+- Assessment of anxiety (procedure) (Date: 1989-01-19T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 1989-01-19T02:27:10Z)
+- Depression screening (procedure) (Date: 1989-01-19T02:55:54Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1989-01-19T03:06:11Z)
+- Assessment of substance use (procedure) (Date: 1989-01-19T03:26:32Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1989-01-19T03:40:19Z)
+- Anticipatory guidance (procedure) (Date: 1989-01-19T04:03:33Z)
+- Assessment of anxiety (procedure) (Date: 1990-01-25T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 1990-01-25T02:27:10Z)
+- Depression screening (procedure) (Date: 1990-01-25T02:48:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1990-01-25T03:02:39Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1990-04-04T02:27:10Z)
+- Throat culture (procedure) (Date: 1990-11-08T19:27:10Z)
+- Assessment of anxiety (procedure) (Date: 1991-01-31T02:27:10Z)
+- Medication Reconciliation (procedure) (Date: 1991-01-31T02:27:10Z)
+- Depression screening (procedure) (Date: 1991-01-31T02:56:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1991-01-31T03:10:47Z)
+- Assessment of substance use (procedure) (Date: 1991-01-31T03:37:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1991-01-31T03:51:22Z)
+- Anticipatory guidance (procedure) (Date: 1991-01-31T04:19:09Z)
+
+== Recent Encounters (Last 5) ==
+- 1991-11-21T02:27:10Z: Death Certification
+- 1991-01-31T02:27:10Z: Well child visit (procedure)
+- 1990-11-08T19:27:10Z: Encounter for symptom
+- 1990-04-04T02:27:10Z: Emergency Room Admission
+- 1990-01-25T02:27:10Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1991-11-21T02:27:10Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1991-01-31T03:37:38Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 1991-01-31T02:56:20Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 1991-01-31T02:27:10Z Tobacco smoking status NHIS: Never smoker nan
+- 1991-01-31T02:27:10Z Respiratory rate: 13.0 /min
+- 1991-01-31T02:27:10Z Heart rate: 84.0 /min
+- 1991-01-31T02:27:10Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 1991-01-31T02:27:10Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 1991-01-31T02:27:10Z Body mass index (BMI) [Percentile] Per age and gender: 56.7 %
+- 1991-01-31T02:27:10Z Body Mass Index: 20.4 kg/m2

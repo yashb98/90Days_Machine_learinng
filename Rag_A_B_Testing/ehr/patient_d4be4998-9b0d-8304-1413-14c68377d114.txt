@@ -1,0 +1,52 @@
+== PATIENT RECORD: Leo278 Thiel172 (ID: d4be4998-9b0d-8304-1413-14c68377d114) ==
+
+== Demographics ==
+Patient ID: d4be4998-9b0d-8304-1413-14c68377d114
+Name: Leo278 Thiel172
+Gender: M
+Birthdate: 2008-05-27
+Address: 238 Pfeffer Promenade Suite 54
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-05-13T20:38:05Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-05T20:38:05Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-11T20:38:05Z)
+- Depression screening (procedure) (Date: 2020-06-16T20:38:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-16T20:49:15Z)
+- Assessment of substance use (procedure) (Date: 2020-06-16T21:15:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-06-16T21:27:49Z)
+- Anticipatory guidance (procedure) (Date: 2020-06-16T21:43:14Z)
+- Assessment of substance use (procedure) (Date: 2021-06-22T20:38:05Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-22T20:38:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-06-22T20:48:19Z)
+- Anticipatory guidance (procedure) (Date: 2021-06-22T21:12:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-02T20:38:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-12T20:38:05Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-14T18:38:05Z: Encounter for symptom
+- 2021-06-22T20:38:05Z: Well child visit (procedure)
+- 2020-06-16T20:38:05Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-22T20:38:05Z Respiratory rate: 15.0 /min
+- 2021-06-22T20:38:05Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-22T20:38:05Z Body Height: 159.0 cm
+- 2021-06-22T20:38:05Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-06-22T20:38:05Z Body Weight: 62.5 kg
+- 2021-06-22T20:38:05Z Body Mass Index: 24.7 kg/m2
+- 2021-06-22T20:38:05Z Body mass index (BMI) [Percentile] Per age and gender: 94.3 %
+- 2021-06-22T20:38:05Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2021-06-22T20:38:05Z Systolic Blood Pressure: 122.0 mm[Hg]
+- 2021-06-22T20:38:05Z Heart rate: 70.0 /min

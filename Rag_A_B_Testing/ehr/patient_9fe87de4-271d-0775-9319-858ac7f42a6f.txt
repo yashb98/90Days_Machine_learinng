@@ -1,0 +1,143 @@
+== PATIENT RECORD: Freddie621 Erdman779 (ID: 9fe87de4-271d-0775-9319-858ac7f42a6f) ==
+
+== Demographics ==
+Patient ID: 9fe87de4-271d-0775-9319-858ac7f42a6f
+Name: Freddie621 Erdman779
+Gender: M
+Birthdate: 1948-02-06
+Address: 436 Jacobi Promenade
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- Animal dander (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Atrial Fibrillation
+- Chronic intractable migraine without aura
+- Impacted molars
+- Has a criminal record (finding)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Fracture of clavicle
+- Reports of violence in the environment (finding)
+- Polyp of colon
+- Acute viral pharyngitis (disorder)
+- Osteoporosis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+
+== Past Procedures ==
+- Catheter ablation of tissue of heart (Date: 2011-12-16T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-12-16T06:07:15Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-16T06:07:15Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-16T06:58:02Z)
+- Catheter ablation of tissue of heart (Date: 2012-12-21T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-21T06:07:15Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-21T06:39:46Z)
+- Assessment of substance use (procedure) (Date: 2012-12-21T06:57:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-12-21T07:08:56Z)
+- Colonoscopy (Date: 2013-02-05T08:09:22Z)
+- Electrical cardioversion (Date: 2013-12-27T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-27T06:07:15Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-27T06:07:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-12-27T07:01:17Z)
+- Electrical cardioversion (Date: 2015-01-02T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-02T06:07:15Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-02T06:07:15Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-02T06:51:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-01-02T07:21:28Z)
+- Depression screening (procedure) (Date: 2015-01-02T07:47:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-02T07:59:30Z)
+- Assessment of substance use (procedure) (Date: 2015-01-02T08:22:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-02T08:32:36Z)
+- Electrical cardioversion (Date: 2016-01-08T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-08T06:07:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-01-08T06:40:51Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-08T06:58:51Z)
+- Depression screening (procedure) (Date: 2016-01-08T07:26:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-08T07:36:56Z)
+- Assessment of substance use (procedure) (Date: 2016-01-08T08:04:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-01-08T08:18:01Z)
+- Clavicle X-ray (Date: 2016-04-14T07:42:56Z)
+- Admission to orthopedic department (Date: 2016-04-14T07:42:56Z)
+- Bone density scan (procedure) (Date: 2016-04-14T09:07:56Z)
+- Electrical cardioversion (Date: 2017-01-13T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-13T06:07:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-01-13T07:05:45Z)
+- Depression screening (procedure) (Date: 2017-01-13T07:21:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-13T07:32:51Z)
+- Assessment of substance use (procedure) (Date: 2017-01-13T08:02:26Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-13T08:15:00Z)
+- Electrical cardioversion (Date: 2018-01-19T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-19T06:07:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-19T06:07:15Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-19T06:58:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-01-19T07:17:10Z)
+- Screening for domestic abuse (procedure) (Date: 2018-01-19T07:34:12Z)
+- Depression screening (procedure) (Date: 2018-01-19T08:00:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-19T08:14:10Z)
+- Colonoscopy (Date: 2018-02-05T08:53:03Z)
+- Screening for occult blood in feces (procedure) (Date: 2018-02-05T09:27:54Z)
+- Rectal polypectomy (Date: 2018-02-05T09:27:54Z)
+- Electrical cardioversion (Date: 2018-10-05T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-05T06:07:15Z)
+- Bone density scan (procedure) (Date: 2018-10-05T06:07:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-10-05T06:39:04Z)
+- Depression screening (procedure) (Date: 2018-10-05T07:01:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-05T07:15:16Z)
+- Catheter ablation of tissue of heart (Date: 2019-01-25T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-25T06:07:15Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-25T06:07:15Z)
+- Depression screening (procedure) (Date: 2019-01-25T06:53:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-25T07:06:30Z)
+- Assessment of substance use (procedure) (Date: 2019-01-25T07:35:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-25T07:48:32Z)
+- Colonoscopy (Date: 2019-02-03T09:27:54Z)
+- Electrical cardioversion (Date: 2020-01-31T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-31T06:07:15Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-31T06:58:32Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-01-31T07:17:37Z)
+- Assessment of substance use (procedure) (Date: 2020-01-31T07:33:57Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-31T07:47:32Z)
+- Electrical cardioversion (Date: 2021-02-05T06:07:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-05T06:07:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-02-05T06:46:21Z)
+- Depression screening (procedure) (Date: 2021-02-05T07:11:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-05T07:23:13Z)
+- Assessment of substance use (procedure) (Date: 2021-02-05T07:48:43Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-05T08:00:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-05T06:07:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-12T06:07:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-05T06:07:15Z: General examination of patient (procedure)
+- 2020-10-29T18:07:15Z: Encounter for symptom
+- 2020-01-31T06:07:15Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-06T06:07:15Z QOLS: 0.7 {score}
+- 2021-02-06T06:07:15Z DALY: 7.1 a
+- 2021-02-06T06:07:15Z QALY: 64.9 a
+- 2021-02-05T08:24:19Z Total score [DAST-10]: 0.0 {score}
+- 2021-02-05T07:48:43Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-02-05T07:11:13Z Fall risk total [Morse Fall Scale]: 12.0 {#}
+- 2021-02-05T07:11:13Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-02-05T06:46:21Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 85242 /a
+- 2021-02-05T06:46:21Z What address do you live at?: 436 Jacobi Promenade nan
+- 2021-02-05T06:46:21Z What is the highest level of school that you have finished?: More than high school nan

@@ -1,0 +1,44 @@
+== PATIENT RECORD: Keena534 Balistreri607 (ID: 19e3f2b0-8fd1-a8ae-2767-f0c89005b8d2) ==
+
+== Demographics ==
+Patient ID: 19e3f2b0-8fd1-a8ae-2767-f0c89005b8d2
+Name: Keena534 Balistreri607
+Gender: F
+Birthdate: 2010-11-27
+Address: 938 Becker Common Unit 43
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture subluxation of wrist
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-11-03T14:13:45Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-03T14:13:45Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-07T14:13:45Z)
+- X-ray or wrist (Date: 2019-06-12T14:13:45Z)
+- Bone immobilization (Date: 2019-06-12T14:13:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-05T14:13:45Z: Well child visit (procedure)
+- 2019-11-30T14:13:45Z: Well child visit (procedure)
+- 2019-08-07T14:47:07Z: Encounter for 'check-up'
+- 2019-06-12T14:13:45Z: Emergency room admission (procedure)
+- 2018-11-24T14:13:45Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-05T14:13:45Z Heart rate: 73.0 /min
+- 2020-12-05T14:13:45Z Body Height: 138.2 cm
+- 2020-12-05T14:13:45Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2020-12-05T14:13:45Z Body Weight: 33.8 kg
+- 2020-12-05T14:13:45Z Body Mass Index: 17.7 kg/m2
+- 2020-12-05T14:13:45Z Body mass index (BMI) [Percentile] Per age and gender: 63.3 %
+- 2020-12-05T14:13:45Z Diastolic Blood Pressure: 79.0 mm[Hg]
+- 2020-12-05T14:13:45Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2020-12-05T14:13:45Z Respiratory rate: 12.0 /min
+- 2020-12-05T14:13:45Z Tobacco smoking status NHIS: Never smoker nan

@@ -1,0 +1,155 @@
+== PATIENT RECORD: Milton509 Ortiz186 (ID: d66b5418-06cb-fc8a-8c13-85685b6ac939) ==
+
+== Demographics ==
+Patient ID: d66b5418-06cb-fc8a-8c13-85685b6ac939
+Name: Milton509 Ortiz186
+Gender: M
+Birthdate: 1997-06-11
+Address: 769 Pfeffer Heights Unit 14
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Misuses drugs (finding)
+- Cough (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute pulmonary embolism (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-07-18T20:36:45Z)
+- Medication Reconciliation (procedure) (Date: 2012-07-18T20:36:45Z)
+- Depression screening (procedure) (Date: 2012-07-18T20:52:57Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-18T21:04:19Z)
+- Assessment of substance use (procedure) (Date: 2012-07-18T21:32:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-07-18T21:43:32Z)
+- Health risks education (procedure) (Date: 2012-07-18T22:11:52Z)
+- Measurement of respiratory function (procedure) (Date: 2012-12-21T22:36:45Z)
+- Depression screening (procedure) (Date: 2012-12-26T20:36:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-12-26T20:46:54Z)
+- Assessment of substance use (procedure) (Date: 2012-12-26T21:09:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-12-26T21:22:14Z)
+- Anticipatory guidance (procedure) (Date: 2012-12-26T21:33:10Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-24T20:36:45Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-24T20:36:45Z)
+- Depression screening (procedure) (Date: 2013-07-24T21:01:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-24T21:13:25Z)
+- Assessment of substance use (procedure) (Date: 2013-07-24T21:39:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-07-24T21:53:55Z)
+- Anticipatory guidance (procedure) (Date: 2013-07-24T22:06:17Z)
+- Depression screening (procedure) (Date: 2014-07-30T20:36:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-30T20:50:09Z)
+- Assessment of substance use (procedure) (Date: 2014-07-30T21:12:00Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-30T21:23:41Z)
+- Anticipatory guidance (procedure) (Date: 2014-07-30T21:47:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-05T20:36:45Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-05T21:36:14Z)
+- Assessment of substance use (procedure) (Date: 2015-08-05T21:54:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-08-05T22:06:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-10T20:36:45Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-10T20:36:45Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-10T21:25:06Z)
+- Depression screening (procedure) (Date: 2016-08-10T21:53:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-10T22:07:05Z)
+- Assessment of substance use (procedure) (Date: 2016-08-10T22:29:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-08-10T22:42:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-16T20:36:45Z)
+- Depression screening (procedure) (Date: 2017-08-16T21:17:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-16T21:27:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-16T21:50:51Z)
+- Assessment of substance use (procedure) (Date: 2017-08-16T22:13:57Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-16T22:25:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-22T20:36:45Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-22T21:19:36Z)
+- Depression screening (procedure) (Date: 2018-08-22T21:35:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-22T21:45:28Z)
+- Assessment of substance use (procedure) (Date: 2018-08-22T22:13:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-08-22T22:26:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-28T20:36:45Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-28T21:12:48Z)
+- Depression screening (procedure) (Date: 2019-08-28T21:39:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-28T21:53:22Z)
+- Assessment of substance use (procedure) (Date: 2019-08-28T22:23:09Z)
+- Screening for drug abuse (procedure) (Date: 2019-08-28T22:36:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-02T20:36:45Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-02T20:36:45Z)
+- Depression screening (procedure) (Date: 2020-09-02T21:27:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-02T21:38:09Z)
+- Assessment of substance use (procedure) (Date: 2020-09-02T22:00:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-02T22:13:15Z)
+- Face mask (physical object) (Date: 2020-11-21T20:36:45Z)
+- Plain chest X-ray (procedure) (Date: 2020-11-21T21:28:08Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-21T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-21T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-22T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-22T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-23T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-23T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-24T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-24T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-25T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-25T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-26T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-26T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-27T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-27T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-28T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-28T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-29T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-29T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-11-30T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-11-30T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-12-01T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-12-01T22:05:07Z)
+- Oxygen administration by mask (procedure) (Date: 2020-12-02T22:05:07Z)
+- Placing subject in prone position (procedure) (Date: 2020-12-02T22:05:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-08T20:36:45Z)
+- Assessment of anxiety (procedure) (Date: 2021-09-08T21:23:39Z)
+- Depression screening (procedure) (Date: 2021-09-08T21:38:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-08T21:49:36Z)
+- Assessment of substance use (procedure) (Date: 2021-09-08T22:10:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-09-08T22:24:43Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-08T20:36:45Z: General examination of patient (procedure)
+- 2020-11-21T21:28:08Z: Hospital admission for isolation (procedure)
+- 2020-11-21T20:36:45Z: Encounter for symptom (procedure)
+- 2020-09-02T20:36:45Z: General examination of patient (procedure)
+- 2019-08-28T20:36:45Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-08T22:53:52Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-09-08T22:10:17Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-09-08T21:38:59Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-09-08T21:23:39Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-09-08T21:23:39Z What address do you live at?: 769 Pfeffer Heights Unit 14 nan
+- 2021-09-08T21:23:39Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-09-08T21:23:39Z Are you a refugee?: No nan
+- 2021-09-08T21:23:39Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-09-08T21:23:39Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-09-08T21:23:39Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan

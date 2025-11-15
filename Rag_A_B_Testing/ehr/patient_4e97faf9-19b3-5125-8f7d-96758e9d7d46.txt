@@ -1,0 +1,50 @@
+== PATIENT RECORD: Soraya693 White193 (ID: 4e97faf9-19b3-5125-8f7d-96758e9d7d46) ==
+
+== Demographics ==
+Patient ID: 4e97faf9-19b3-5125-8f7d-96758e9d7d46
+Name: Soraya693 White193
+Gender: F
+Birthdate: 2018-02-05
+Address: 620 Beahan Mission
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-05-14T09:50:12Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-15T09:50:12Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-14T09:50:12Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-15T09:50:12Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-15T09:50:12Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-13T09:50:12Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-12T09:50:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-12T09:50:12Z: Well child visit (procedure)
+- 2021-01-11T09:50:12Z: Well child visit (procedure)
+- 2020-07-13T09:50:12Z: Well child visit (procedure)
+- 2020-05-10T09:50:12Z: Encounter for symptom
+- 2020-01-13T09:50:12Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-12T09:50:12Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-12T09:50:12Z Body mass index (BMI) [Percentile] Per age and gender: 40.9 %
+- 2021-07-12T09:50:12Z Body Height: 93.6 cm
+- 2021-07-12T09:50:12Z Body Weight: 13.4 kg
+- 2021-07-12T09:50:12Z Weight-for-length Per age and sex: 40.5 %
+- 2021-07-12T09:50:12Z Head Occipital-frontal circumference: 47.3 cm
+- 2021-07-12T09:50:12Z Body Mass Index: 15.2 kg/m2
+- 2021-07-12T09:50:12Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-12T09:50:12Z Respiratory rate: 14.0 /min
+- 2021-07-12T09:50:12Z Heart rate: 92.0 /min

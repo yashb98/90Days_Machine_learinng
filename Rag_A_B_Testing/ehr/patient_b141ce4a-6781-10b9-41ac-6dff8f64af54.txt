@@ -1,0 +1,73 @@
+== PATIENT RECORD: Noel608 Windler79 (ID: b141ce4a-6781-10b9-41ac-6dff8f64af54) ==
+
+== Demographics ==
+Patient ID: b141ce4a-6781-10b9-41ac-6dff8f64af54
+Name: Noel608 Windler79
+Gender: M
+Birthdate: 1986-12-30
+Address: 395 Hills Street
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-07T04:06:15Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-07T04:06:15Z)
+- Screening for domestic abuse (procedure) (Date: 2012-03-07T04:44:40Z)
+- Depression screening (procedure) (Date: 2012-03-07T05:24:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-07T05:38:13Z)
+- Measurement of respiratory function (procedure) (Date: 2013-04-19T14:06:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-24T04:06:15Z)
+- Depression screening (procedure) (Date: 2013-04-24T05:02:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-24T05:15:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-11T04:06:15Z)
+- Assessment of anxiety (procedure) (Date: 2015-03-11T04:59:13Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-11T05:15:04Z)
+- Assessment of substance use (procedure) (Date: 2015-03-11T05:43:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-11T05:57:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-14T04:06:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-14T04:06:15Z)
+- Depression screening (procedure) (Date: 2018-03-14T05:04:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-14T05:19:40Z)
+- Assessment of substance use (procedure) (Date: 2018-03-14T05:47:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-14T05:59:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-17T04:06:15Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-17T04:06:15Z)
+- Screening for domestic abuse (procedure) (Date: 2021-03-17T04:54:55Z)
+- Depression screening (procedure) (Date: 2021-03-17T05:31:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-17T05:42:51Z)
+- Assessment of substance use (procedure) (Date: 2021-03-17T06:07:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-17T06:18:13Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-28T04:06:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-07T04:06:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-17T04:06:15Z: General examination of patient (procedure)
+- 2018-03-14T04:06:15Z: General examination of patient (procedure)
+- 2015-03-11T04:06:15Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-17T06:41:01Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-03-17T06:07:34Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-17T05:31:18Z Total score [HARK]: 0.0 {score}
+- 2021-03-17T04:54:55Z What is your main insurance?: Private insurance nan
+- 2021-03-17T04:54:55Z What is your housing situation today?: I have housing nan
+- 2021-03-17T04:54:55Z What address do you live at?: 395 Hills Street nan
+- 2021-03-17T04:54:55Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-17T04:54:55Z What is your current work situation?: Full-time work nan
+- 2021-03-17T04:54:55Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 138771 /a
+- 2021-03-17T04:54:55Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

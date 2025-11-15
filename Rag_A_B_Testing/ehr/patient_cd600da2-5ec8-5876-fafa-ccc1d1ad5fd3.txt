@@ -1,0 +1,136 @@
+== PATIENT RECORD: Kurtis994 Watsica258 (ID: cd600da2-5ec8-5876-fafa-ccc1d1ad5fd3) ==
+
+== Demographics ==
+Patient ID: cd600da2-5ec8-5876-fafa-ccc1d1ad5fd3
+Name: Kurtis994 Watsica258
+Gender: M
+Birthdate: 1921-11-21
+Address: 566 Powlowski Throughway Apt 13
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Has a criminal record (finding)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Hyperlipidemia
+- Atrial Fibrillation
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2012-07-10T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-07-10T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-07-10T00:40:52Z)
+- Depression screening (procedure) (Date: 2012-07-10T01:10:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-10T01:23:24Z)
+- Assessment of substance use (procedure) (Date: 2012-07-10T01:50:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-07-10T02:01:11Z)
+- Electrical cardioversion (Date: 2013-07-16T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-16T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-16T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-07-16T00:53:46Z)
+- Depression screening (procedure) (Date: 2013-07-16T01:17:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-16T01:29:37Z)
+- Electrical cardioversion (Date: 2014-07-22T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-22T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-07-22T01:05:31Z)
+- Depression screening (procedure) (Date: 2014-07-22T01:29:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-22T01:42:12Z)
+- Assessment of substance use (procedure) (Date: 2014-07-22T02:02:14Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-22T02:16:24Z)
+- Electrical cardioversion (Date: 2015-01-20T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-20T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-20T00:46:56Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-20T01:09:00Z)
+- Depression screening (procedure) (Date: 2015-01-20T01:36:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-20T01:48:59Z)
+- Assessment of substance use (procedure) (Date: 2015-01-20T02:09:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-20T02:20:25Z)
+- Electrical cardioversion (Date: 2015-07-28T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-28T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-28T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-28T00:40:16Z)
+- Depression screening (procedure) (Date: 2015-07-28T01:02:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-28T01:14:40Z)
+- Assessment of substance use (procedure) (Date: 2015-07-28T01:39:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-28T01:50:28Z)
+- Electrical cardioversion (Date: 2015-09-08T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-08T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-09-08T00:49:00Z)
+- Depression screening (procedure) (Date: 2015-09-08T01:07:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-08T01:22:29Z)
+- Electrical cardioversion (Date: 2016-08-02T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-02T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-02T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-02T00:59:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-08-02T01:15:01Z)
+- Depression screening (procedure) (Date: 2016-08-02T01:32:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-02T01:45:59Z)
+- Electrical cardioversion (Date: 2017-08-08T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-08T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-08-08T00:52:18Z)
+- Screening for domestic abuse (procedure) (Date: 2017-08-08T01:12:54Z)
+- Depression screening (procedure) (Date: 2017-08-08T01:41:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-08T01:55:58Z)
+- Assessment of substance use (procedure) (Date: 2017-08-08T02:25:28Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-08T02:38:56Z)
+- Catheter ablation of tissue of heart (Date: 2018-08-14T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-14T00:08:52Z)
+- Assessment of substance use (procedure) (Date: 2018-08-14T01:00:18Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-14T01:15:02Z)
+- Measurement of respiratory function (procedure) (Date: 2018-10-05T03:30:24Z)
+- Catheter ablation of tissue of heart (Date: 2018-10-16T00:08:52Z)
+- Electrical cardioversion (Date: 2019-08-20T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-20T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-08-20T00:54:21Z)
+- Electrical cardioversion (Date: 2020-08-25T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-25T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-08-25T00:46:40Z)
+- Depression screening (procedure) (Date: 2020-08-25T01:16:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-25T01:28:13Z)
+- Assessment of substance use (procedure) (Date: 2020-08-25T01:56:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-25T02:08:13Z)
+- Electrical cardioversion (Date: 2021-08-31T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-31T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-08-31T00:46:14Z)
+- Depression screening (procedure) (Date: 2021-08-31T01:08:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-31T01:22:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-31T00:08:52Z: General examination of patient (procedure)
+- 2021-03-07T00:08:52Z: Follow-up encounter
+- 2021-03-02T00:08:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-02T00:08:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-25T00:08:52Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-31T01:48:25Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-31T01:08:11Z Fall risk total [Morse Fall Scale]: 42.0 {#}
+- 2021-08-31T01:08:11Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-08-31T00:46:14Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 4676 /a
+- 2021-08-31T00:46:14Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-31T00:46:14Z What language are you most comfortable speaking?: English nan
+- 2021-08-31T00:46:14Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-08-31T00:46:14Z What is your housing situation today?: I have housing nan
+- 2021-08-31T00:46:14Z Are you worried about losing your housing?: No nan
+- 2021-08-31T00:46:14Z What address do you live at?: 566 Powlowski Throughway Apt 13 nan

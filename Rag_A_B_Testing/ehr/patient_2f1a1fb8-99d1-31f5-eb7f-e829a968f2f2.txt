@@ -1,0 +1,137 @@
+== PATIENT RECORD: Leonardo412 Carter549 (ID: 2f1a1fb8-99d1-31f5-eb7f-e829a968f2f2) ==
+
+== Demographics ==
+Patient ID: 2f1a1fb8-99d1-31f5-eb7f-e829a968f2f2
+Name: Leonardo412 Carter549
+Gender: M
+Birthdate: 1918-11-27
+Address: 982 Yost Glen Unit 2
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Chronic sinusitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Has a criminal record (finding)
+- Prediabetes
+- Lack of access to transportation (finding)
+- Anemia (disorder)
+- Appendicitis
+- History of appendectomy
+- Reports of violence in the environment (finding)
+- Stroke
+- Part-time employment (finding)
+- Osteoporosis (disorder)
+- Viral sinusitis (disorder)
+- Alzheimer's disease (disorder)
+- Limited social contact (finding)
+- Whiplash injury to neck
+- Not in labor force (finding)
+- Pneumonia
+
+== Current Medications ==
+- Alendronic acid 10 MG Oral Tablet
+- Donepezil hydrochloride 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1997-05-07T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1997-05-07T16:28:14Z)
+- Depression screening (procedure) (Date: 1997-05-07T16:56:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-05-07T17:09:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-05-13T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-05-13T16:52:31Z)
+- Depression screening (procedure) (Date: 1998-05-13T17:17:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-05-13T17:32:30Z)
+- Assessment of substance use (procedure) (Date: 1998-05-13T17:55:28Z)
+- Screening for drug abuse (procedure) (Date: 1998-05-13T18:05:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-05-19T15:56:07Z)
+- Bone density scan (procedure) (Date: 1999-05-19T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1999-05-19T16:29:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-05-19T16:56:14Z)
+- Assessment of substance use (procedure) (Date: 1999-05-19T17:14:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1999-05-19T17:28:48Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-06-16T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 1999-06-16T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1999-06-16T16:32:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-06-16T16:55:57Z)
+- Depression screening (procedure) (Date: 1999-06-16T17:22:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-06-16T17:35:41Z)
+- Assessment of substance use (procedure) (Date: 1999-06-16T18:01:33Z)
+- Screening for drug abuse (procedure) (Date: 1999-06-16T18:14:19Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-07-28T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 1999-07-28T16:29:11Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-07-28T16:57:24Z)
+- Depression screening (procedure) (Date: 1999-07-28T17:19:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-07-28T17:29:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-05-24T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2000-05-24T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-05-24T16:46:48Z)
+- Depression screening (procedure) (Date: 2000-05-24T17:06:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-05-24T17:20:41Z)
+- Assessment of substance use (procedure) (Date: 2000-05-24T17:49:45Z)
+- Screening for drug abuse (procedure) (Date: 2000-05-24T18:04:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-05-30T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-05-30T16:35:48Z)
+- Depression screening (procedure) (Date: 2001-05-30T16:53:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-05-30T17:04:36Z)
+- Assessment of substance use (procedure) (Date: 2001-05-30T17:24:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-05-30T17:37:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-06-05T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2002-06-05T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-06-05T16:37:15Z)
+- Screening for domestic abuse (procedure) (Date: 2002-06-05T17:02:45Z)
+- Depression screening (procedure) (Date: 2002-06-05T17:38:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-06-05T17:51:41Z)
+- Assessment of substance use (procedure) (Date: 2002-06-05T18:20:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-06-05T18:32:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-06-11T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-06-11T16:37:59Z)
+- Screening for domestic abuse (procedure) (Date: 2003-06-11T16:53:39Z)
+- Depression screening (procedure) (Date: 2003-06-11T17:18:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-06-11T17:33:10Z)
+- Assessment of substance use (procedure) (Date: 2003-06-11T17:57:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-06-11T18:08:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-06-16T15:56:07Z)
+- Medication Reconciliation (procedure) (Date: 2004-06-16T15:56:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-06-16T16:51:15Z)
+- Assessment of substance use (procedure) (Date: 2004-06-16T17:10:23Z)
+- Screening for drug abuse (procedure) (Date: 2004-06-16T17:22:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-06-22T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2005-06-22T16:42:44Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-06-22T16:58:15Z)
+- Depression screening (procedure) (Date: 2005-06-22T17:26:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-06-22T17:40:16Z)
+- Assessment of substance use (procedure) (Date: 2005-06-22T18:07:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-06-22T18:17:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-06-28T15:56:07Z)
+- Assessment of anxiety (procedure) (Date: 2006-06-28T16:32:14Z)
+- Depression screening (procedure) (Date: 2006-06-28T16:54:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-06-28T17:06:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2007-03-28T15:56:07Z: Death Certification
+- 2007-03-13T15:56:07Z: Hospital admission
+- 2006-08-14T15:56:07Z: Office Visit
+- 2006-06-28T15:56:07Z: General examination of patient (procedure)
+- 2005-06-22T15:56:07Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2007-03-28T15:56:07Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2006-08-14T15:56:07Z Total score [MMSE]: 4.0 {score}
+- 2006-06-28T17:27:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2006-06-28T16:54:25Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2006-06-28T16:32:14Z What is your current work situation?: Full-time work nan
+- 2006-06-28T16:32:14Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2006-06-28T16:32:14Z Do you feel physically and emotionally safe where you currently live?: No nan
+- 2006-06-28T16:32:14Z Are you a refugee?: No nan
+- 2006-06-28T16:32:14Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2006-06-28T16:32:14Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

@@ -1,0 +1,86 @@
+== PATIENT RECORD: Oralia106 Williamson769 (ID: 752a3c69-44d7-d6af-0340-7d3e748f6060) ==
+
+== Demographics ==
+Patient ID: 752a3c69-44d7-d6af-0340-7d3e748f6060
+Name: Oralia106 Williamson769
+Gender: F
+Birthdate: 2000-08-10
+Address: 180 Hegmann Trail
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of ankle
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Transport problems (finding)
+- Social isolation (finding)
+- Lack of access to transportation (finding)
+- Sprain of wrist
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Yaz 28 Day Pack
+- Natazia 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-08-30T13:51:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-08-30T14:05:50Z)
+- Assessment of substance use (procedure) (Date: 2012-08-30T14:30:47Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-08-30T14:42:15Z)
+- Anticipatory guidance (procedure) (Date: 2012-08-30T15:06:16Z)
+- Ankle X-ray (Date: 2013-08-23T13:51:30Z)
+- Bone immobilization (Date: 2013-08-23T13:51:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-09-05T13:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-05T13:51:30Z)
+- Depression screening (procedure) (Date: 2013-09-05T14:19:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-09-05T14:30:57Z)
+- Assessment of substance use (procedure) (Date: 2013-09-05T14:54:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-09-05T15:09:02Z)
+- Anticipatory guidance (procedure) (Date: 2013-09-05T15:22:00Z)
+- Depression screening (procedure) (Date: 2014-09-11T13:51:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-09-11T14:06:13Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-17T13:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-17T13:51:30Z)
+- Depression screening (procedure) (Date: 2015-09-17T14:18:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-09-17T14:32:21Z)
+- Assessment of anxiety (procedure) (Date: 2016-09-22T13:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-22T13:51:30Z)
+- Assessment of substance use (procedure) (Date: 2016-09-22T14:16:57Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-09-22T14:31:33Z)
+- Anticipatory guidance (procedure) (Date: 2016-09-22T15:01:20Z)
+- Depression screening (procedure) (Date: 2017-09-28T13:51:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-09-28T14:01:49Z)
+- Assessment of substance use (procedure) (Date: 2017-09-28T14:30:23Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-09-28T14:43:20Z)
+- Anticipatory guidance (procedure) (Date: 2017-09-28T15:04:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-04T13:51:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-04T13:51:30Z)
+- Depression screening (procedure) (Date: 2018-10-04T14:33:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-04T14:46:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-10T13:51:30Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-10T14:26:42Z)
+- Assessment of substance use (procedure) (Date: 2019-10-10T14:51:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-10T15:05:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-29T13:51:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-08T13:51:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-04T13:51:30Z: Consultation for treatment
+- 2020-12-01T14:21:00Z: Emergency room admission (procedure)
+- 2020-07-09T13:51:30Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-08-10T13:51:30Z QOLS: 1.0 {score}
+- 2021-08-10T13:51:30Z QALY: 20.0 a
+- 2021-08-10T13:51:30Z DALY: 0.0 a
+- 2020-08-10T13:51:30Z QOLS: 1.0 {score}
+- 2020-08-10T13:51:30Z QALY: 19.0 a
+- 2020-08-10T13:51:30Z DALY: 0.0 a
+- 2019-10-10T15:34:22Z Total score [AUDIT-C]: 1.0 {score}
+- 2019-10-10T14:51:55Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2019-10-10T14:26:42Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2019-10-10T14:26:42Z In the past year  have you been afraid of your partner or ex-partner?: No nan

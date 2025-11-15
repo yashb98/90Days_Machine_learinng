@@ -1,0 +1,78 @@
+== PATIENT RECORD: David908 Dicki44 (ID: f7130650-ec26-4a43-fc30-ac3f05cc793d) ==
+
+== Demographics ==
+Patient ID: f7130650-ec26-4a43-fc30-ac3f05cc793d
+Name: David908 Dicki44
+Gender: F
+Birthdate: 2005-10-23
+Address: 953 Bartoletti Center Apt 1
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-10-14T23:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-20T23:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-26T23:07:33Z)
+- Measurement of respiratory function (procedure) (Date: 2017-09-01T16:25:20Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-10T23:07:33Z)
+- Depression screening (procedure) (Date: 2017-11-12T23:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-12T23:07:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-12T23:18:06Z)
+- Assessment of substance use (procedure) (Date: 2017-11-12T23:38:34Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-11-12T23:50:54Z)
+- Anticipatory guidance (procedure) (Date: 2017-11-13T00:17:23Z)
+- Depression screening (procedure) (Date: 2018-11-18T23:07:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-18T23:18:50Z)
+- Assessment of substance use (procedure) (Date: 2018-11-18T23:41:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-11-18T23:54:33Z)
+- Anticipatory guidance (procedure) (Date: 2018-11-19T00:12:01Z)
+- Throat culture (procedure) (Date: 2019-02-26T21:07:33Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-24T23:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-24T23:07:33Z)
+- Depression screening (procedure) (Date: 2019-11-24T23:23:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-11-24T23:35:07Z)
+- Assessment of substance use (procedure) (Date: 2019-11-25T00:02:54Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-11-25T00:14:26Z)
+- Health risks education (procedure) (Date: 2019-11-25T00:32:10Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-29T23:07:33Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-29T23:07:33Z)
+- Depression screening (procedure) (Date: 2020-11-29T23:26:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-29T23:40:33Z)
+- Assessment of substance use (procedure) (Date: 2020-11-30T00:07:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-30T00:22:13Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-30T00:45:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-14T23:07:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-17T23:07:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-29T23:07:33Z: Well child visit (procedure)
+- 2020-10-17T23:07:33Z: Consultation for treatment
+- 2019-11-24T23:07:33Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-23T23:07:33Z QOLS: 1.0 {score}
+- 2021-10-23T23:07:33Z DALY: 0.0 a
+- 2021-10-23T23:07:33Z QALY: 15.0 a
+- 2020-11-30T00:07:33Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2020-11-29T23:26:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2020-11-29T23:07:33Z Respiratory rate: 15.0 /min
+- 2020-11-29T23:07:33Z Body mass index (BMI) [Percentile] Per age and gender: 87.1 %
+- 2020-11-29T23:07:33Z Body Height: 162.8 cm
+- 2020-11-29T23:07:33Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2020-11-29T23:07:33Z Body Weight: 65.2 kg

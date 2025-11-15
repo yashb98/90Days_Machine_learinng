@@ -1,0 +1,57 @@
+== PATIENT RECORD: Bev675 Morissette863 (ID: 4e100688-c089-1057-395a-eb4ced369230) ==
+
+== Demographics ==
+Patient ID: 4e100688-c089-1057-395a-eb4ced369230
+Name: Bev675 Morissette863
+Gender: F
+Birthdate: 2012-05-26
+Address: 157 Kling Gardens
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-05-26T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-30T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2012-09-01T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-03T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-10T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-04T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-02T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-03T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-02T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-06T14:55:24Z)
+- Sputum examination (procedure) (Date: 2018-06-09T13:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-15T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-09T14:55:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-23T14:55:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-29T14:55:24Z: Well child visit (procedure)
+- 2020-05-23T14:55:24Z: Well child visit (procedure)
+- 2019-05-18T14:55:24Z: Well child visit (procedure)
+- 2019-02-13T20:55:24Z: Encounter for symptom
+- 2019-02-09T14:55:24Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-29T14:55:24Z Body mass index (BMI) [Percentile] Per age and gender: 97.0 %
+- 2021-05-29T14:55:24Z Body Mass Index: 23.2 kg/m2
+- 2021-05-29T14:55:24Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-05-29T14:55:24Z Systolic Blood Pressure: 121.0 mm[Hg]
+- 2021-05-29T14:55:24Z Heart rate: 83.0 /min
+- 2021-05-29T14:55:24Z Respiratory rate: 14.0 /min
+- 2021-05-29T14:55:24Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-29T14:55:24Z Body Weight: 41.3 kg
+- 2021-05-29T14:55:24Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-05-29T14:55:24Z Body Height: 133.3 cm

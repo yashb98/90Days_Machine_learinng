@@ -1,0 +1,62 @@
+== PATIENT RECORD: Harland508 Price929 (ID: d8e3a701-d108-74ff-2ce3-156537276a14) ==
+
+== Demographics ==
+Patient ID: d8e3a701-d108-74ff-2ce3-156537276a14
+Name: Harland508 Price929
+Gender: M
+Birthdate: 1992-07-30
+Address: 920 Doyle Gardens
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-10-02T14:48:08Z)
+- Assessment of substance use (procedure) (Date: 2014-10-02T15:25:23Z)
+- Screening for drug abuse (procedure) (Date: 2014-10-02T15:35:41Z)
+- Throat culture (procedure) (Date: 2016-07-15T18:48:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-05T14:48:08Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-05T15:21:15Z)
+- Screening for domestic abuse (procedure) (Date: 2017-10-05T15:42:36Z)
+- Depression screening (procedure) (Date: 2017-10-05T16:16:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-10-05T16:29:09Z)
+- Assessment of substance use (procedure) (Date: 2017-10-05T16:57:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-10-05T17:09:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-08T14:48:08Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-08T15:25:02Z)
+- Depression screening (procedure) (Date: 2020-10-08T15:51:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-08T16:03:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-22T14:48:08Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-08T14:48:08Z: General examination of patient (procedure)
+- 2017-10-05T14:48:08Z: General examination of patient (procedure)
+- 2016-07-15T18:48:08Z: Encounter for symptom
+- 2014-10-02T14:48:08Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-30T14:48:08Z QOLS: 1.0 {score}
+- 2021-07-30T14:48:08Z DALY: 0.1 a
+- 2021-07-30T14:48:08Z QALY: 27.9 a
+- 2020-10-08T16:32:16Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-10-08T15:51:57Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-10-08T15:25:02Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-10-08T15:25:02Z Are you worried about losing your housing?: No nan
+- 2020-10-08T15:25:02Z What address do you live at?: 920 Doyle Gardens nan
+- 2020-10-08T15:25:02Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-10-08T15:25:02Z What is your current work situation?: Full-time work nan

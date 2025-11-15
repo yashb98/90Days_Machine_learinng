@@ -1,0 +1,50 @@
+== PATIENT RECORD: Luella739 Corwin846 (ID: 9e9a8955-c4c4-dd80-2a2a-1c6b602efbf5) ==
+
+== Demographics ==
+Patient ID: 9e9a8955-c4c4-dd80-2a2a-1c6b602efbf5
+Name: Luella739 Corwin846
+Gender: F
+Birthdate: 2019-05-15
+Address: 530 Abbott Overpass
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Cough (finding)
+- Sputum finding (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-05-15T04:37:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-19T04:37:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-21T04:37:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-23T04:37:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-22T04:37:01Z)
+- Face mask (physical object) (Date: 2021-06-17T04:37:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-20T04:37:01Z: Well child visit (procedure)
+- 2021-06-17T04:37:01Z: Encounter for symptom (procedure)
+- 2021-04-21T04:37:01Z: Well child visit (procedure)
+- 2020-10-21T04:37:01Z: Well child visit (procedure)
+- 2020-10-06T04:37:01Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-20T04:37:01Z Head Occipital-frontal circumference: 48.4 cm
+- 2021-10-20T04:37:01Z Heart rate: 86.0 /min
+- 2021-10-20T04:37:01Z Body Height: 90.3 cm
+- 2021-10-20T04:37:01Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-10-20T04:37:01Z Body Weight: 11.6 kg
+- 2021-10-20T04:37:01Z Weight-for-length Per age and sex: 7.2 %
+- 2021-10-20T04:37:01Z Body Mass Index: 14.3 kg/m2
+- 2021-10-20T04:37:01Z Body mass index (BMI) [Percentile] Per age and gender: 5.6 %
+- 2021-10-20T04:37:01Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-10-20T04:37:01Z Systolic Blood Pressure: 113.0 mm[Hg]

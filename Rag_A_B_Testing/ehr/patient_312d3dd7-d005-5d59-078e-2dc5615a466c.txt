@@ -1,0 +1,87 @@
+== PATIENT RECORD: Glendora96 Hettinger594 (ID: 312d3dd7-d005-5d59-078e-2dc5615a466c) ==
+
+== Demographics ==
+Patient ID: 312d3dd7-d005-5d59-078e-2dc5615a466c
+Name: Glendora96 Hettinger594
+Gender: F
+Birthdate: 2003-06-04
+Address: 345 Kerluke Burg
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Risk activity involvement (finding)
+- Child attention deficit disorder
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-02-28T00:21:22Z)
+- Throat culture (procedure) (Date: 2013-08-15T16:21:22Z)
+- Throat culture (procedure) (Date: 2015-05-22T17:21:22Z)
+- Assessment of substance use (procedure) (Date: 2015-06-25T00:21:22Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-25T00:21:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-25T00:31:49Z)
+- Health risks education (procedure) (Date: 2015-06-25T01:01:36Z)
+- Depression screening (procedure) (Date: 2016-06-30T00:21:22Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-30T00:31:55Z)
+- Cognitive and behavioral therapy (Date: 2016-09-22T00:21:22Z)
+- Cognitive and behavioral therapy (Date: 2016-10-20T01:21:22Z)
+- Cognitive and behavioral therapy (Date: 2016-11-20T02:21:22Z)
+- Cognitive and behavioral therapy (Date: 2016-12-19T03:21:22Z)
+- Cognitive and behavioral therapy (Date: 2017-01-20T04:21:22Z)
+- Assessment of substance use (procedure) (Date: 2017-07-06T00:21:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-07-06T00:33:39Z)
+- Anticipatory guidance (procedure) (Date: 2017-07-06T00:44:51Z)
+- Assessment of substance use (procedure) (Date: 2018-07-12T00:21:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-07-12T00:34:23Z)
+- Anticipatory guidance (procedure) (Date: 2018-07-12T00:44:54Z)
+- Insertion of subcutaneous contraceptive (Date: 2019-05-25T00:21:22Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-18T00:21:22Z)
+- Depression screening (procedure) (Date: 2019-07-18T00:45:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-07-18T00:58:42Z)
+- Assessment of substance use (procedure) (Date: 2019-07-18T01:28:28Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-07-18T01:39:29Z)
+- Health risks education (procedure) (Date: 2019-07-18T02:09:21Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-23T00:21:22Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-23T00:21:22Z)
+- Depression screening (procedure) (Date: 2020-07-23T00:48:54Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-07-23T00:59:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-29T00:21:22Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-29T01:13:24Z)
+- Depression screening (procedure) (Date: 2021-07-29T01:39:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-29T01:51:52Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-07-29T02:19:18Z)
+- Assessment of substance use (procedure) (Date: 2021-07-29T02:46:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-07-29T03:00:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-04T00:21:22Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-27T00:21:22Z: Hypertension follow-up encounter
+- 2021-08-28T00:21:22Z: Hypertension follow-up encounter
+- 2021-07-29T00:21:22Z: General examination of patient (procedure)
+- 2020-07-23T00:21:22Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-27T00:21:22Z Systolic Blood Pressure: 123.0 mm[Hg]
+- 2021-10-27T00:21:22Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-08-28T00:21:22Z Systolic Blood Pressure: 123.0 mm[Hg]
+- 2021-08-28T00:21:22Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2021-07-29T03:21:09Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-07-29T02:46:25Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 4.0 {score}
+- 2021-07-29T02:19:18Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 6.0 {score}
+- 2021-07-29T01:39:12Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-07-29T01:13:24Z Are you worried about losing your housing?: No nan
+- 2021-07-29T01:13:24Z What address do you live at?: 345 Kerluke Burg nan

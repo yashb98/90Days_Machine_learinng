@@ -1,0 +1,56 @@
+== PATIENT RECORD: Mario764 Towne435 (ID: 32203cdc-00ea-b95b-15b3-a3eb870db382) ==
+
+== Demographics ==
+Patient ID: 32203cdc-00ea-b95b-15b3-a3eb870db382
+Name: Mario764 Towne435
+Gender: M
+Birthdate: 1986-04-06
+Address: 683 Pagac Rest Unit 56
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Streptococcal sore throat (disorder)
+- Whiplash injury to neck
+- Seizure disorder
+- History of single seizure (situation)
+- Child attention deficit disorder
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Diazepam 5 MG Oral Tablet
+- Carbamazepine[Tegretol]
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1989-03-12T20:21:55Z)
+- Medication Reconciliation (procedure) (Date: 1990-03-11T20:21:55Z)
+- Medication Reconciliation (procedure) (Date: 1990-12-23T20:21:55Z)
+- Medication Reconciliation (procedure) (Date: 1994-04-03T20:21:55Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1996-03-10T20:21:55Z)
+- Medication Reconciliation (procedure) (Date: 1996-04-14T20:21:55Z)
+- Medication Reconciliation (procedure) (Date: 1997-04-20T20:21:55Z)
+- Throat culture (procedure) (Date: 1997-10-07T15:21:55Z)
+
+== Recent Encounters (Last 5) ==
+- 1998-03-29T20:21:55Z: Death Certification
+- 1997-10-07T15:21:55Z: Encounter for symptom
+- 1997-09-05T14:21:55Z: Encounter for symptom
+- 1997-04-20T20:21:55Z: Well child visit (procedure)
+- 1996-08-25T20:21:55Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 1998-03-29T20:21:55Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1997-10-07T15:21:55Z Body temperature: 37.9 Cel
+- 1997-04-20T20:21:55Z Erythrocytes [#/volume] in Blood by Automated count: 4.7 10*6/uL
+- 1997-04-20T20:21:55Z Body Height: 136.8 cm
+- 1997-04-20T20:21:55Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 1997-04-20T20:21:55Z Body Weight: 44.9 kg
+- 1997-04-20T20:21:55Z Body Mass Index: 24.0 kg/m2
+- 1997-04-20T20:21:55Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 1997-04-20T20:21:55Z Systolic Blood Pressure: 129.0 mm[Hg]
+- 1997-04-20T20:21:55Z Heart rate: 76.0 /min

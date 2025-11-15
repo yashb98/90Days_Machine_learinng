@@ -1,0 +1,108 @@
+== PATIENT RECORD: Lyla842 Braun514 (ID: e70e7298-5026-74b0-505b-110dd1ce0af7) ==
+
+== Demographics ==
+Patient ID: e70e7298-5026-74b0-505b-110dd1ce0af7
+Name: Lyla842 Braun514
+Gender: F
+Birthdate: 1941-10-26
+Address: 250 Senger Glen Suite 62
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Has a criminal record (finding)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Stress (finding)
+- Sinusitis (disorder)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Coronary Heart Disease
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-02-19T21:12:26Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-19T21:12:26Z)
+- Screening for domestic abuse (procedure) (Date: 2012-02-19T21:57:17Z)
+- Depression screening (procedure) (Date: 2012-02-19T22:27:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-02-19T22:41:48Z)
+- Assessment of substance use (procedure) (Date: 2012-02-19T23:02:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-02-19T23:15:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-24T21:12:26Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-24T21:12:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-02-24T21:48:53Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-24T22:07:32Z)
+- Assessment of substance use (procedure) (Date: 2013-02-24T22:32:34Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-24T22:47:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-02T21:12:26Z)
+- Assessment of anxiety (procedure) (Date: 2014-03-02T21:44:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-03-02T22:09:52Z)
+- Screening for domestic abuse (procedure) (Date: 2014-03-02T22:28:06Z)
+- Depression screening (procedure) (Date: 2014-03-02T23:10:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-03-02T23:22:03Z)
+- Assessment of substance use (procedure) (Date: 2014-03-02T23:48:45Z)
+- Screening for drug abuse (procedure) (Date: 2014-03-03T00:00:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-08T21:12:26Z)
+- Depression screening (procedure) (Date: 2015-03-08T21:58:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-08T22:10:35Z)
+- Assessment of substance use (procedure) (Date: 2015-03-08T22:38:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-03-08T22:49:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-13T21:12:26Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-13T21:51:20Z)
+- Depression screening (procedure) (Date: 2016-03-13T22:13:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-13T22:26:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-03-13T22:50:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-19T21:12:26Z)
+- Depression screening (procedure) (Date: 2017-03-19T21:56:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-19T22:10:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-25T21:12:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-03-25T21:56:31Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-25T22:21:38Z)
+- Depression screening (procedure) (Date: 2018-03-25T22:47:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-25T23:02:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-25T23:25:44Z)
+- Assessment of substance use (procedure) (Date: 2018-03-25T23:46:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-25T23:57:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-31T21:12:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-03-31T21:44:29Z)
+- Assessment of substance use (procedure) (Date: 2019-03-31T22:01:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-31T22:12:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-05T21:12:26Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-05T21:12:26Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-05T22:06:43Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-04-05T22:27:38Z)
+- Assessment of substance use (procedure) (Date: 2020-04-05T22:49:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-04-05T23:03:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-11T21:12:26Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-11T21:47:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-04-11T22:09:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-11T21:12:26Z: General examination of patient (procedure)
+- 2021-03-21T21:12:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-21T21:12:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-05T21:12:26Z: General examination of patient (procedure)
+- 2019-03-31T21:12:26Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-26T20:12:26Z QOLS: 0.9 {score}
+- 2021-10-26T20:12:26Z DALY: 2.8 a
+- 2021-10-26T20:12:26Z QALY: 76.2 a
+- 2021-04-11T22:30:03Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-04-11T22:30:03Z Fall risk total [Morse Fall Scale]: 118.0 {#}
+- 2021-04-11T22:09:09Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-04-11T21:47:40Z Which race(s) are you?: White nan
+- 2021-04-11T21:47:40Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-04-11T21:47:40Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-04-11T21:47:40Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Clothing nan

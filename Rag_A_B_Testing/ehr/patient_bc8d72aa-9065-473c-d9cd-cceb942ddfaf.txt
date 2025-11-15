@@ -1,0 +1,153 @@
+== PATIENT RECORD: Andrea7 Collins926 (ID: bc8d72aa-9065-473c-d9cd-cceb942ddfaf) ==
+
+== Demographics ==
+Patient ID: bc8d72aa-9065-473c-d9cd-cceb942ddfaf
+Name: Andrea7 Collins926
+Gender: F
+Birthdate: 1994-12-04
+Address: 580 Miller Annex Suite 54
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Homeless (finding)
+- Full-time employment (finding)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Viral sinusitis (disorder)
+- Tubal pregnancy
+- Social isolation (finding)
+- Streptococcal sore throat (disorder)
+- Sprain of wrist
+
+== Current Medications ==
+- Errin 28 Day Pack
+- Seasonique 91 Day Pack
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Levora 0.15/30 28 Day Pack
+- Penicillin V Potassium 500 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-01-23T01:37:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-01-23T01:48:55Z)
+- Assessment of substance use (procedure) (Date: 2012-01-23T02:17:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-23T02:28:48Z)
+- Health risks education (procedure) (Date: 2012-01-23T02:41:34Z)
+- Depression screening (procedure) (Date: 2012-04-16T01:37:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-16T01:50:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-28T01:37:10Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-28T01:37:10Z)
+- Assessment of substance use (procedure) (Date: 2013-01-28T02:15:20Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-28T02:30:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-03T01:37:10Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-03T02:33:26Z)
+- Depression screening (procedure) (Date: 2014-02-03T03:02:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-03T03:14:21Z)
+- Assessment of substance use (procedure) (Date: 2014-02-03T03:41:35Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-03T03:54:21Z)
+- Information gathering (procedure) (Date: 2017-01-28T01:37:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-06T01:37:10Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-06T02:27:21Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-06T02:52:49Z)
+- Standard pregnancy test (Date: 2017-02-27T01:37:10Z)
+- Ultrasound scan for fetal viability (Date: 2017-02-27T01:37:10Z)
+- Counseling for termination of pregnancy (Date: 2017-03-09T01:37:10Z)
+- Induced termination of pregnancy (Date: 2017-03-09T01:37:10Z)
+- Pregnancy termination care (Date: 2017-03-23T01:37:10Z)
+- Physical exam following abortion (Date: 2017-03-23T01:37:10Z)
+- Depression screening (Date: 2017-03-23T01:37:10Z)
+- Information gathering (procedure) (Date: 2017-04-28T01:37:10Z)
+- Information gathering (procedure) (Date: 2017-05-28T01:37:10Z)
+- Information gathering (procedure) (Date: 2017-08-26T01:37:10Z)
+- Standard pregnancy test (Date: 2017-10-16T01:37:10Z)
+- Ultrasound scan for fetal viability (Date: 2017-10-16T01:37:10Z)
+- Excision of fallopian tube and surgical removal of ectopic pregnancy (Date: 2017-10-25T01:37:10Z)
+- Physical examination (Date: 2017-11-08T01:37:10Z)
+- Depression screening (Date: 2017-11-08T01:37:10Z)
+- Standard pregnancy test (Date: 2019-07-22T01:37:10Z)
+- Ultrasound scan for fetal viability (Date: 2019-07-22T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2019-07-22T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2019-07-22T01:37:10Z)
+- Blood typing  RH typing (Date: 2019-07-22T01:37:10Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-22T01:37:10Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-07-22T01:37:10Z)
+- Human immunodeficiency virus antigen test (Date: 2019-07-22T01:37:10Z)
+- Chlamydia antigen test (Date: 2019-07-22T01:37:10Z)
+- Gonorrhea infection test (Date: 2019-07-22T01:37:10Z)
+- Syphilis infection test (Date: 2019-07-22T01:37:10Z)
+- Urine culture (Date: 2019-07-22T01:37:10Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-07-22T01:37:10Z)
+- Urine screening test for diabetes (Date: 2019-07-22T01:37:10Z)
+- Hepatitis C antibody test (Date: 2019-07-22T01:37:10Z)
+- Rubella screening (Date: 2019-07-22T01:37:10Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-07-22T01:37:10Z)
+- Skin test for tuberculosis (Date: 2019-07-22T01:37:10Z)
+- Urine protein test (Date: 2019-07-22T01:37:10Z)
+- Physical examination of mother (Date: 2019-07-22T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2019-08-19T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2019-08-19T01:37:10Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-08-19T01:37:10Z)
+- Fetal anatomy study (Date: 2019-09-16T01:37:10Z)
+- Alpha-fetoprotein test (Date: 2019-09-16T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2019-09-16T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2019-09-16T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2019-10-14T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2019-10-14T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2019-11-11T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2019-11-11T01:37:10Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-12-09T01:37:10Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-12-09T01:37:10Z)
+- Urine screening for glucose (Date: 2019-12-09T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2019-12-09T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2019-12-09T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2020-01-06T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2020-01-06T01:37:10Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2020-02-03T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2020-02-03T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2020-02-03T01:37:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-10T01:37:10Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-10T01:37:10Z)
+- Evaluation of uterine fundal height (Date: 2020-02-17T01:37:10Z)
+- Auscultation of the fetal heart (Date: 2020-02-17T01:37:10Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-10T02:32:39Z)
+- Epidural anesthesia (Date: 2020-02-24T01:37:10Z)
+- Childbirth (Date: 2020-02-24T01:37:10Z)
+- Physical examination following birth (Date: 2020-04-06T01:37:10Z)
+- Depression screening (Date: 2020-04-06T01:37:10Z)
+- Throat culture (procedure) (Date: 2020-07-07T18:37:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-13T01:37:10Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-13T02:16:55Z)
+- Depression screening (procedure) (Date: 2020-07-13T02:41:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-13T02:55:59Z)
+- Intramuscular injection (Date: 2021-04-01T01:37:10Z)
+- Intramuscular injection (Date: 2021-07-12T01:37:10Z)
+- Intramuscular injection (Date: 2021-10-11T01:37:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-11T01:37:10Z: Patient encounter procedure
+- 2021-07-12T01:37:10Z: Patient encounter procedure
+- 2021-06-24T01:54:25Z: Emergency room admission (procedure)
+- 2021-04-01T01:37:10Z: Consultation for treatment
+- 2021-03-22T01:37:10Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-05T01:37:10Z QOLS: 0.8 {score}
+- 2020-12-05T01:37:10Z DALY: 0.5 a
+- 2020-12-05T01:37:10Z QALY: 24.5 a
+- 2020-07-13T03:17:03Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-07-13T02:41:39Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-07-13T02:16:55Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-07-13T02:16:55Z Are you worried about losing your housing?: No nan
+- 2020-07-13T02:16:55Z What address do you live at?: 580 Miller Annex Suite 54 nan
+- 2020-07-13T02:16:55Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-07-13T02:16:55Z What is your current work situation?: Part-time or temporary work nan

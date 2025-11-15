@@ -1,0 +1,59 @@
+== PATIENT RECORD: Deirdre267 Langosh790 (ID: 59006c13-4c8e-7d51-5392-8a78ea30c159) ==
+
+== Demographics ==
+Patient ID: 59006c13-4c8e-7d51-5392-8a78ea30c159
+Name: Deirdre267 Langosh790
+Gender: F
+Birthdate: 2014-01-01
+Address: 774 Cartwright Rue Suite 76
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of clavicle
+- Acute viral pharyngitis (disorder)
+- Otitis media
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-01-01T14:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-05T14:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-09T14:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-11T14:55:31Z)
+- Clavicle X-ray (Date: 2015-11-20T14:55:31Z)
+- Admission to orthopedic department (Date: 2015-11-20T14:55:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-12-09T14:55:31Z)
+- Throat culture (procedure) (Date: 2016-02-22T23:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-08T14:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-07T14:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-12T14:55:31Z)
+- Measurement of respiratory function (procedure) (Date: 2020-07-07T02:55:31Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-23T14:55:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-23T14:55:31Z: Well child visit (procedure)
+- 2020-07-15T14:55:31Z: Urgent care clinic (procedure)
+- 2020-07-07T02:55:31Z: Encounter for symptom
+- 2020-06-06T10:55:31Z: Encounter for symptom
+- 2019-12-18T14:55:31Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-01T14:55:31Z QOLS: 1.0 {score}
+- 2021-01-01T14:55:31Z DALY: 0.0 a
+- 2021-01-01T14:55:31Z QALY: 7.0 a
+- 2020-12-23T14:55:31Z Tobacco smoking status NHIS: Never smoker nan
+- 2020-12-23T14:55:31Z Body Height: 131.3 cm
+- 2020-12-23T14:55:31Z Body Weight: 26.5 kg
+- 2020-12-23T14:55:31Z Body Mass Index: 15.4 kg/m2
+- 2020-12-23T14:55:31Z Body mass index (BMI) [Percentile] Per age and gender: 48.1 %
+- 2020-12-23T14:55:31Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2020-12-23T14:55:31Z Systolic Blood Pressure: 131.0 mm[Hg]

@@ -1,0 +1,173 @@
+== PATIENT RECORD: Brunilda665 Toy286 (ID: 9480b971-2ca2-56af-dded-aa0fac41e0a7) ==
+
+== Demographics ==
+Patient ID: 9480b971-2ca2-56af-dded-aa0fac41e0a7
+Name: Brunilda665 Toy286
+Gender: F
+Birthdate: 1997-12-21
+Address: 510 Bergnaum Run
+Marital Status: nan
+
+== Allergies ==
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Refugee (person)
+- Limited social contact (finding)
+- Prediabetes
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Anemia (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Yaz 28 Day Pack
+- Penicillin V Potassium 250 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Seasonique 91 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- ferrous sulfate 325 MG Oral Tablet
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 2011-12-16T04:21:06Z)
+- Subcutaneous immunotherapy (Date: 2012-01-10T05:16:09Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-22T18:47:10Z)
+- Subcutaneous immunotherapy (Date: 2012-02-06T06:04:18Z)
+- Subcutaneous immunotherapy (Date: 2012-02-28T06:44:40Z)
+- Subcutaneous immunotherapy (Date: 2012-03-24T07:24:22Z)
+- Subcutaneous immunotherapy (Date: 2012-04-20T07:42:24Z)
+- Subcutaneous immunotherapy (Date: 2012-05-12T08:10:02Z)
+- Subcutaneous immunotherapy (Date: 2012-06-08T08:57:01Z)
+- Subcutaneous immunotherapy (Date: 2012-07-03T09:47:47Z)
+- Subcutaneous immunotherapy (Date: 2012-07-25T10:22:28Z)
+- Throat culture (procedure) (Date: 2012-08-06T13:47:10Z)
+- Depression screening (procedure) (Date: 2012-08-12T18:47:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-08-12T19:01:30Z)
+- Assessment of substance use (procedure) (Date: 2012-08-12T19:29:49Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-08-12T19:43:37Z)
+- Anticipatory guidance (procedure) (Date: 2012-08-12T19:57:45Z)
+- Subcutaneous immunotherapy (Date: 2012-08-17T10:51:08Z)
+- Subcutaneous immunotherapy (Date: 2012-09-09T11:30:00Z)
+- Subcutaneous immunotherapy (Date: 2012-10-02T12:02:24Z)
+- Subcutaneous immunotherapy (Date: 2012-10-28T12:25:47Z)
+- Subcutaneous immunotherapy (Date: 2012-11-22T13:10:25Z)
+- Subcutaneous immunotherapy (Date: 2012-12-16T14:00:50Z)
+- Subcutaneous immunotherapy (Date: 2013-01-09T14:33:03Z)
+- Depression screening (procedure) (Date: 2013-01-27T18:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-27T18:47:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-01-27T18:57:28Z)
+- Subcutaneous immunotherapy (Date: 2013-02-01T15:15:05Z)
+- Subcutaneous immunotherapy (Date: 2013-02-27T16:01:42Z)
+- Subcutaneous immunotherapy (Date: 2013-03-23T16:31:38Z)
+- Subcutaneous immunotherapy (Date: 2013-04-17T17:15:46Z)
+- Subcutaneous immunotherapy (Date: 2013-05-11T18:15:36Z)
+- Subcutaneous immunotherapy (Date: 2013-06-01T18:59:59Z)
+- Subcutaneous immunotherapy (Date: 2013-06-22T19:30:41Z)
+- Subcutaneous immunotherapy (Date: 2013-07-16T20:19:42Z)
+- Subcutaneous immunotherapy (Date: 2013-08-10T20:34:49Z)
+- Subcutaneous immunotherapy (Date: 2013-09-06T21:29:26Z)
+- Subcutaneous immunotherapy (Date: 2013-09-27T21:50:25Z)
+- Subcutaneous immunotherapy (Date: 2013-10-21T22:12:53Z)
+- Subcutaneous immunotherapy (Date: 2013-11-16T22:37:58Z)
+- Subcutaneous immunotherapy (Date: 2013-12-12T23:05:44Z)
+- Subcutaneous immunotherapy (Date: 2014-01-08T23:29:07Z)
+- Depression screening (procedure) (Date: 2014-02-02T18:47:10Z)
+- Subcutaneous immunotherapy (Date: 2014-02-01T00:12:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-02-02T18:59:52Z)
+- Assessment of substance use (procedure) (Date: 2014-02-02T19:23:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-02-02T19:37:34Z)
+- Anticipatory guidance (procedure) (Date: 2014-02-02T19:59:12Z)
+- Subcutaneous immunotherapy (Date: 2014-02-23T00:57:52Z)
+- Subcutaneous immunotherapy (Date: 2014-03-22T01:50:41Z)
+- Subcutaneous immunotherapy (Date: 2014-04-12T02:47:06Z)
+- Subcutaneous immunotherapy (Date: 2014-05-09T03:05:41Z)
+- Subcutaneous immunotherapy (Date: 2014-06-04T03:54:19Z)
+- Subcutaneous immunotherapy (Date: 2014-06-27T04:32:09Z)
+- Subcutaneous immunotherapy (Date: 2014-07-20T05:20:06Z)
+- Subcutaneous immunotherapy (Date: 2014-08-13T06:03:43Z)
+- Subcutaneous immunotherapy (Date: 2014-09-06T06:46:53Z)
+- Subcutaneous immunotherapy (Date: 2014-09-27T07:12:37Z)
+- Subcutaneous immunotherapy (Date: 2014-10-24T07:52:26Z)
+- Subcutaneous immunotherapy (Date: 2014-11-19T08:11:38Z)
+- Subcutaneous immunotherapy (Date: 2014-12-12T08:30:35Z)
+- Allergy screening test (Date: 2015-01-04T09:25:55Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-08T18:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-08T18:47:10Z)
+- Depression screening (procedure) (Date: 2015-02-08T19:16:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-02-08T19:31:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-14T18:47:10Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-14T18:47:10Z)
+- Depression screening (procedure) (Date: 2016-02-14T19:42:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-14T19:55:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-19T18:47:10Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-19T19:20:19Z)
+- Depression screening (procedure) (Date: 2017-02-19T19:46:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-19T20:01:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-19T20:27:18Z)
+- Assessment of substance use (procedure) (Date: 2017-02-19T20:53:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-19T21:06:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-23T18:47:10Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-23T19:41:29Z)
+- Depression screening (procedure) (Date: 2020-02-23T20:09:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-23T20:21:03Z)
+- Standard pregnancy test (Date: 2021-07-11T18:47:10Z)
+- Ultrasound scan for fetal viability (Date: 2021-07-11T18:47:10Z)
+- Evaluation of uterine fundal height (Date: 2021-07-11T18:47:10Z)
+- Auscultation of the fetal heart (Date: 2021-07-11T18:47:10Z)
+- Blood typing  RH typing (Date: 2021-07-11T18:47:10Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-07-11T18:47:10Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-07-11T18:47:10Z)
+- Human immunodeficiency virus antigen test (Date: 2021-07-11T18:47:10Z)
+- Chlamydia antigen test (Date: 2021-07-11T18:47:10Z)
+- Gonorrhea infection test (Date: 2021-07-11T18:47:10Z)
+- Syphilis infection test (Date: 2021-07-11T18:47:10Z)
+- Urine culture (Date: 2021-07-11T18:47:10Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-07-11T18:47:10Z)
+- Urine screening test for diabetes (Date: 2021-07-11T18:47:10Z)
+- Hepatitis C antibody test (Date: 2021-07-11T18:47:10Z)
+- Rubella screening (Date: 2021-07-11T18:47:10Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-07-11T18:47:10Z)
+- Skin test for tuberculosis (Date: 2021-07-11T18:47:10Z)
+- Urine protein test (Date: 2021-07-11T18:47:10Z)
+- Physical examination of mother (Date: 2021-07-11T18:47:10Z)
+- Peripheral blood smear interpretation (Date: 2021-07-11T18:47:10Z)
+- Review of systems (procedure) (Date: 2021-07-11T19:17:10Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-11T19:34:16Z)
+- Brief general examination (procedure) (Date: 2021-07-11T19:52:44Z)
+- Evaluation of uterine fundal height (Date: 2021-08-08T20:12:14Z)
+- Auscultation of the fetal heart (Date: 2021-08-08T20:12:14Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-08-08T20:12:14Z)
+- Fetal anatomy study (Date: 2021-09-05T20:12:14Z)
+- Alpha-fetoprotein test (Date: 2021-09-05T20:12:14Z)
+- Evaluation of uterine fundal height (Date: 2021-09-05T20:12:14Z)
+- Auscultation of the fetal heart (Date: 2021-09-05T20:12:14Z)
+- Evaluation of uterine fundal height (Date: 2021-10-03T20:12:14Z)
+- Auscultation of the fetal heart (Date: 2021-10-03T20:12:14Z)
+- Evaluation of uterine fundal height (Date: 2021-10-31T20:12:14Z)
+- Auscultation of the fetal heart (Date: 2021-10-31T20:12:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-31T20:12:14Z: Prenatal visit
+- 2021-10-03T20:12:14Z: Prenatal visit
+- 2021-09-05T20:12:14Z: Prenatal visit
+- 2021-08-08T20:12:14Z: Prenatal visit
+- 2021-07-11T18:47:10Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-07-11T18:47:10Z Platelets [#/volume] in Blood by Automated count: 290.9 10*3/uL
+- 2021-07-11T18:47:10Z Platelet mean volume [Entitic volume] in Blood by Automated count: 10.1 fL
+- 2021-07-11T18:47:10Z Hemoglobin [Mass/volume] in Blood: 11.8 g/dL
+- 2021-07-11T18:47:10Z Hematocrit [Volume Fraction] of Blood: 35.0 %
+- 2021-07-11T18:47:10Z WBC Auto (Bld) [#/Vol]: 9.1 10*3/uL
+- 2021-07-11T18:47:10Z RBC Auto (Bld) [#/Vol]: 4.4 10*6/uL
+- 2021-07-11T18:47:10Z MCV [Entitic volume] by Automated count: 90.0 fL
+- 2021-07-11T18:47:10Z MCH [Entitic mass] by Automated count: 32.6 pg
+- 2021-07-11T18:47:10Z MCHC [Mass/volume] by Automated count: 33.0 g/dL
+- 2021-07-11T18:47:10Z RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol]: 43.9 fL

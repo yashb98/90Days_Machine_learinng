@@ -1,0 +1,182 @@
+== PATIENT RECORD: Marivel862 Ledner144 (ID: 3b26d1ac-6443-060d-d502-b93b8d82ccc2) ==
+
+== Demographics ==
+Patient ID: 3b26d1ac-6443-060d-d502-b93b8d82ccc2
+Name: Marivel862 Ledner144
+Gender: F
+Birthdate: 1917-05-15
+Address: 341 Schaefer Trail
+Marital Status: S
+
+== Allergies ==
+- Shellfish (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Coronary Heart Disease
+- Limited social contact (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Body mass index 30+ - obesity (finding)
+- Severe anxiety (panic) (finding
+- Osteoarthritis of knee
+- Hyperlipidemia
+- Atrial Fibrillation
+- Part-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Closed fracture of hip
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Chronic congestive heart failure (disorder)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Naproxen sodium 220 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Digoxin 0.125 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Aspirin 81 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Catheter ablation of tissue of heart (Date: 1981-03-24T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-03-24T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1981-03-24T11:58:49Z)
+- Screening for domestic abuse (procedure) (Date: 1981-03-24T12:29:12Z)
+- Pelvis X-ray (Date: 1981-07-11T13:26:44Z)
+- Admission to orthopedic department (Date: 1981-07-11T13:26:44Z)
+- Bone density scan (procedure) (Date: 1981-07-11T15:18:44Z)
+- Electrical cardioversion (Date: 1982-03-30T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-03-30T11:58:49Z)
+- Depression screening (procedure) (Date: 1982-03-30T12:34:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-03-30T12:46:20Z)
+- Assessment of substance use (procedure) (Date: 1982-03-30T13:07:39Z)
+- Screening for drug abuse (procedure) (Date: 1982-03-30T13:20:05Z)
+- Electrical cardioversion (Date: 1983-04-05T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-04-05T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1983-04-05T11:58:49Z)
+- Depression screening (procedure) (Date: 1983-04-05T12:52:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-04-05T13:04:59Z)
+- Assessment of substance use (procedure) (Date: 1983-04-05T13:33:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1983-04-05T13:48:12Z)
+- Colonoscopy (Date: 1983-07-12T14:14:44Z)
+- Electrical cardioversion (Date: 1984-04-10T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1984-04-10T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1984-04-10T12:50:13Z)
+- Depression screening (procedure) (Date: 1984-04-10T13:19:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1984-04-10T13:31:56Z)
+- Assessment of substance use (procedure) (Date: 1984-04-10T13:54:55Z)
+- Screening for drug abuse (procedure) (Date: 1984-04-10T14:08:59Z)
+- Electrical cardioversion (Date: 1985-04-16T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1985-04-16T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1985-04-16T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1985-04-16T12:35:56Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1985-04-16T12:54:46Z)
+- Depression screening (procedure) (Date: 1985-04-16T13:16:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1985-04-16T13:27:07Z)
+- Assessment of substance use (procedure) (Date: 1985-04-16T13:57:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1985-04-16T14:10:22Z)
+- Electrical cardioversion (Date: 1986-04-22T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1986-04-22T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1986-04-22T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1986-04-22T12:48:41Z)
+- Depression screening (procedure) (Date: 1986-04-22T13:15:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1986-04-22T13:30:22Z)
+- Assessment of substance use (procedure) (Date: 1986-04-22T13:54:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1986-04-22T14:08:30Z)
+- Electrical cardioversion (Date: 1987-04-28T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-04-28T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1987-04-28T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1987-04-28T12:39:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1987-04-28T12:57:11Z)
+- Depression screening (procedure) (Date: 1987-04-28T13:21:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-04-28T13:35:00Z)
+- Assessment of substance use (procedure) (Date: 1987-04-28T13:59:47Z)
+- Screening for drug abuse (procedure) (Date: 1987-04-28T14:09:56Z)
+- Electrical cardioversion (Date: 1987-07-07T11:58:49Z)
+- Electrical cardioversion (Date: 1988-05-03T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-05-03T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1988-05-03T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1988-05-03T12:40:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1988-05-03T13:10:27Z)
+- Screening for domestic abuse (procedure) (Date: 1988-05-03T13:27:28Z)
+- Depression screening (procedure) (Date: 1988-05-03T13:52:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-05-03T14:06:27Z)
+- Assessment of substance use (procedure) (Date: 1988-05-03T14:32:04Z)
+- Screening for drug abuse (procedure) (Date: 1988-05-03T14:46:14Z)
+- Colonoscopy (Date: 1988-07-11T14:52:21Z)
+- Catheter ablation of tissue of heart (Date: 1989-05-09T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-05-09T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 1989-05-09T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 1989-05-09T12:58:16Z)
+- Screening for domestic abuse (procedure) (Date: 1989-05-09T13:22:12Z)
+- Assessment of substance use (procedure) (Date: 1989-05-09T13:52:57Z)
+- Screening for drug abuse (procedure) (Date: 1989-05-09T14:07:38Z)
+- Electrocardiographic procedure (Date: 1989-09-02T11:58:49Z)
+- Cardiovascular stress testing (procedure) (Date: 1989-09-02T12:05:22Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1989-09-02T12:46:17Z)
+- Echocardiography (procedure) (Date: 1989-09-22T13:13:03Z)
+- Medication Reconciliation (procedure) (Date: 1989-09-22T13:13:03Z)
+- Allergy screening test (Date: 1990-01-02T11:58:49Z)
+- Subcutaneous immunotherapy (Date: 1990-01-24T12:19:25Z)
+- Subcutaneous immunotherapy (Date: 1990-02-15T13:01:25Z)
+- Subcutaneous immunotherapy (Date: 1990-03-11T13:22:23Z)
+- Echocardiography (procedure) (Date: 1990-03-21T13:13:03Z)
+- Medication Reconciliation (procedure) (Date: 1990-03-21T13:13:03Z)
+- Subcutaneous immunotherapy (Date: 1990-04-04T13:40:54Z)
+- Subcutaneous immunotherapy (Date: 1990-04-27T14:18:36Z)
+- Electrical cardioversion (Date: 1990-05-15T11:58:49Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-05-15T11:58:49Z)
+- Screening for domestic abuse (procedure) (Date: 1990-05-15T12:46:19Z)
+- Depression screening (procedure) (Date: 1990-05-15T13:28:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1990-05-15T13:41:50Z)
+- Subcutaneous immunotherapy (Date: 1990-05-21T14:55:11Z)
+- Subcutaneous immunotherapy (Date: 1990-06-14T15:51:12Z)
+- Subcutaneous immunotherapy (Date: 1990-07-09T16:49:09Z)
+- Subcutaneous immunotherapy (Date: 1990-08-05T17:15:33Z)
+- Subcutaneous immunotherapy (Date: 1990-09-01T18:08:59Z)
+- Oxygen administration by mask (procedure) (Date: 1990-09-17T13:13:03Z)
+- Placing subject in prone position (procedure) (Date: 1990-09-17T13:13:03Z)
+- Plain chest X-ray (procedure) (Date: 1990-09-17T13:13:03Z)
+- Medication Reconciliation (procedure) (Date: 1990-09-17T13:13:03Z)
+- Electrocardiographic procedure (Date: 1990-09-17T13:13:03Z)
+- Oxygen administration by mask (procedure) (Date: 1990-09-17T13:22:40Z)
+- Placing subject in prone position (procedure) (Date: 1990-09-17T13:22:40Z)
+- Heart failure education (procedure) (Date: 1990-09-18T13:22:40Z)
+- Subcutaneous immunotherapy (Date: 1990-09-23T18:45:26Z)
+- Subcutaneous immunotherapy (Date: 1990-10-20T19:16:31Z)
+- Subcutaneous immunotherapy (Date: 1990-11-15T19:35:55Z)
+- Subcutaneous immunotherapy (Date: 1990-12-11T20:16:01Z)
+
+== Recent Encounters (Last 5) ==
+- 1991-01-08T11:58:49Z: Death Certification
+- 1990-12-11T20:16:01Z: Outpatient procedure
+- 1990-11-15T19:35:55Z: Outpatient procedure
+- 1990-10-20T19:16:31Z: Outpatient procedure
+- 1990-09-23T18:45:26Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 1991-01-08T11:58:49Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1990-09-18T01:22:40Z MCHC [Mass/volume] by Automated count: 34.7 g/dL
+- 1990-09-18T01:22:40Z Potassium [Moles/volume] in Serum or Plasma: 4.2 mmol/L
+- 1990-09-18T01:22:40Z Sodium [Moles/volume] in Serum or Plasma: 136.8 mmol/L
+- 1990-09-18T01:22:40Z Calcium [Mass/volume] in Serum or Plasma: 10.0 mg/dL
+- 1990-09-18T01:22:40Z Creatinine [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- 1990-09-18T01:22:40Z Urea nitrogen [Mass/volume] in Serum or Plasma: 20.0 mg/dL
+- 1990-09-18T01:22:40Z Glucose [Mass/volume] in Serum or Plasma: 74.0 mg/dL
+- 1990-09-18T01:22:40Z Platelets [#/volume] in Blood by Automated count: 404.7 10*3/uL
+- 1990-09-18T01:22:40Z MCH [Entitic mass] by Automated count: 28.4 pg

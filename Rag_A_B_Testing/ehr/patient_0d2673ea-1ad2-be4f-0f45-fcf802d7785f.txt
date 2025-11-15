@@ -1,0 +1,49 @@
+== PATIENT RECORD: Jim478 Lubowitz58 (ID: 0d2673ea-1ad2-be4f-0f45-fcf802d7785f) ==
+
+== Demographics ==
+Patient ID: 0d2673ea-1ad2-be4f-0f45-fcf802d7785f
+Name: Jim478 Lubowitz58
+Gender: M
+Birthdate: 2017-11-24
+Address: 803 Spencer Glen Apt 14
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Cefuroxime 250 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-11-24T06:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-29T06:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-04T06:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-03T06:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-02T06:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-30T06:19:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-29T06:19:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-29T06:19:09Z: Well child visit (procedure)
+- 2021-04-30T06:19:09Z: Well child visit (procedure)
+- 2020-10-30T06:19:09Z: Well child visit (procedure)
+- 2020-05-01T06:19:09Z: Well child visit (procedure)
+- 2020-03-26T06:19:09Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-29T06:19:09Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-10-29T06:19:09Z Heart rate: 65.0 /min
+- 2021-10-29T06:19:09Z Body Height: 97.2 cm
+- 2021-10-29T06:19:09Z Body Weight: 14.3 kg
+- 2021-10-29T06:19:09Z Weight-for-length Per age and sex: 50.5 %
+- 2021-10-29T06:19:09Z Head Occipital-frontal circumference: 47.8 cm
+- 2021-10-29T06:19:09Z Body Mass Index: 15.2 kg/m2
+- 2021-10-29T06:19:09Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-10-29T06:19:09Z Systolic Blood Pressure: 119.0 mm[Hg]
+- 2021-10-29T06:19:09Z Body mass index (BMI) [Percentile] Per age and gender: 32.8 %

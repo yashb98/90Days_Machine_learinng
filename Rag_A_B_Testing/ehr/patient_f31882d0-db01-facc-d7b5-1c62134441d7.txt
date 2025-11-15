@@ -1,0 +1,44 @@
+== PATIENT RECORD: Israel728 Koepp521 (ID: f31882d0-db01-facc-d7b5-1c62134441d7) ==
+
+== Demographics ==
+Patient ID: f31882d0-db01-facc-d7b5-1c62134441d7
+Name: Israel728 Koepp521
+Gender: M
+Birthdate: 2020-02-22
+Address: 1059 Baumbach Run
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-03-28T12:05:44Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-30T12:05:44Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-31T12:05:44Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-30T12:05:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-31T12:05:44Z: Well child visit (procedure)
+- 2021-05-01T12:05:44Z: Well child visit (procedure)
+- 2021-01-30T12:05:44Z: Well child visit (procedure)
+- 2020-10-31T12:05:44Z: Well child visit (procedure)
+- 2020-08-01T12:05:44Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-31T12:05:44Z Weight-for-length Per age and sex: 70.8 %
+- 2021-07-31T12:05:44Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-31T12:05:44Z Respiratory rate: 15.0 /min
+- 2021-07-31T12:05:44Z Heart rate: 64.0 /min
+- 2021-07-31T12:05:44Z Systolic Blood Pressure: 135.0 mm[Hg]
+- 2021-07-31T12:05:44Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-07-31T12:05:44Z Head Occipital-frontal circumference: 48.8 cm
+- 2021-07-31T12:05:44Z Body Weight: 12.3 kg
+- 2021-07-31T12:05:44Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-07-31T12:05:44Z Body Height: 84.1 cm

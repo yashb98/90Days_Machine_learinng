@@ -1,0 +1,122 @@
+== PATIENT RECORD: Shelby741 Schroeder447 (ID: 37af95e9-a06b-5048-30fb-28d9ac6a908d) ==
+
+== Demographics ==
+Patient ID: 37af95e9-a06b-5048-30fb-28d9ac6a908d
+Name: Shelby741 Schroeder447
+Gender: M
+Birthdate: 1914-12-20
+Address: 645 Nolan Fork Apt 38
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Localized  primary osteoarthritis of the hand
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Sprain of ankle
+- Polyp of colon
+- Not in labor force (finding)
+- Coronary Heart Disease
+- Hyperlipidemia
+- Victim of intimate partner abuse (finding)
+- Sinusitis (disorder)
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Simvastatin 10 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1974-10-07T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 1974-10-07T02:31:00Z)
+- Screening for domestic abuse (procedure) (Date: 1974-10-07T02:59:41Z)
+- Depression screening (procedure) (Date: 1974-10-07T03:34:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1974-10-07T03:46:39Z)
+- Colonoscopy (Date: 1974-12-21T02:42:03Z)
+- Assessment of health and social care needs (procedure) (Date: 1975-10-13T01:34:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1976-10-18T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 1976-10-18T02:19:05Z)
+- Depression screening (procedure) (Date: 1976-10-18T02:47:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-10-18T03:00:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1976-10-18T03:20:35Z)
+- Assessment of substance use (procedure) (Date: 1976-10-18T03:46:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1976-10-18T03:59:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1977-10-24T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 1977-10-24T02:31:41Z)
+- Depression screening (procedure) (Date: 1977-10-24T02:59:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1977-10-24T03:13:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-10-30T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 1978-10-30T02:17:39Z)
+- Depression screening (procedure) (Date: 1978-10-30T02:49:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1978-10-30T03:03:30Z)
+- Assessment of substance use (procedure) (Date: 1978-10-30T03:30:48Z)
+- Screening for drug abuse (procedure) (Date: 1978-10-30T03:44:00Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-11-05T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1979-11-05T01:34:00Z)
+- Assessment of substance use (procedure) (Date: 1979-11-05T02:14:35Z)
+- Screening for drug abuse (procedure) (Date: 1979-11-05T02:28:24Z)
+- Colonoscopy (Date: 1979-12-21T03:21:39Z)
+- Screening for occult blood in feces (procedure) (Date: 1979-12-21T03:58:30Z)
+- Rectal polypectomy (Date: 1979-12-21T03:58:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1980-11-10T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1980-11-10T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 1980-11-10T02:08:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1980-11-10T02:29:30Z)
+- Depression screening (procedure) (Date: 1980-11-10T02:47:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1980-11-10T02:59:05Z)
+- Colonoscopy (Date: 1980-12-22T03:58:30Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-11-16T01:34:00Z)
+- Medication Reconciliation (procedure) (Date: 1981-11-16T01:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 1981-11-16T02:25:47Z)
+- Depression screening (procedure) (Date: 1981-11-16T02:51:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-11-16T03:05:01Z)
+- Assessment of health and social care needs (procedure) (Date: 1982-11-22T01:34:00Z)
+- Depression screening (procedure) (Date: 1982-11-22T02:17:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1982-11-22T02:28:20Z)
+- Assessment of health and social care needs (procedure) (Date: 1983-11-28T01:34:00Z)
+- Assessment of anxiety (procedure) (Date: 1983-11-28T02:13:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1983-11-28T02:36:50Z)
+- Depression screening (procedure) (Date: 1983-11-28T02:56:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1983-11-28T03:10:31Z)
+- Assessment of substance use (procedure) (Date: 1983-11-28T03:37:14Z)
+- Screening for drug abuse (procedure) (Date: 1983-11-28T03:47:37Z)
+- Echocardiography (procedure) (Date: 1984-09-03T01:34:00Z)
+- Percutaneous coronary intervention (Date: 1984-09-03T01:34:00Z)
+- Coronary artery bypass grafting (Date: 1984-09-03T01:34:00Z)
+
+== Recent Encounters (Last 5) ==
+- 1984-09-10T01:34:00Z: Death Certification
+- 1984-09-03T01:34:00Z: Myocardial Infarction
+- 1984-02-05T21:34:00Z: Encounter for symptom
+- 1983-12-07T01:34:00Z: Follow-up encounter
+- 1983-11-28T01:34:00Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1984-09-10T01:34:00Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1983-12-07T01:34:00Z Albumin [Mass/volume] in Serum or Plasma: 3.9 g/dL
+- 1983-12-07T01:34:00Z Glucose: 89.7 mg/dL
+- 1983-12-07T01:34:00Z Urea Nitrogen: 14.3 mg/dL
+- 1983-12-07T01:34:00Z Creatinine: 3.0 mg/dL
+- 1983-12-07T01:34:00Z Calcium: 8.8 mg/dL
+- 1983-12-07T01:34:00Z Sodium: 142.6 mmol/L
+- 1983-12-07T01:34:00Z Potassium: 4.4 mmol/L
+- 1983-12-07T01:34:00Z Chloride: 102.5 mmol/L
+- 1983-12-07T01:34:00Z Carbon Dioxide: 21.4 mmol/L

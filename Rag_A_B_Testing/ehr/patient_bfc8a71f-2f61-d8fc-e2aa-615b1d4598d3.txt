@@ -1,0 +1,54 @@
+== PATIENT RECORD: Deangelo7 Romaguera67 (ID: bfc8a71f-2f61-d8fc-e2aa-615b1d4598d3) ==
+
+== Demographics ==
+Patient ID: bfc8a71f-2f61-d8fc-e2aa-615b1d4598d3
+Name: Deangelo7 Romaguera67
+Gender: M
+Birthdate: 2014-07-11
+Address: 1049 Reynolds Walk
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+- Cough (finding)
+- Sore throat symptom (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-08-15T12:51:56Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-17T12:51:56Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-18T12:51:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-16T12:51:56Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-15T12:51:56Z)
+- Face mask (physical object) (Date: 2020-12-26T12:51:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-02T12:51:56Z: Well child visit (procedure)
+- 2020-12-26T12:51:56Z: Encounter for symptom (procedure)
+- 2020-06-26T12:51:56Z: Well child visit (procedure)
+- 2019-06-24T04:51:56Z: Encounter for symptom
+- 2019-06-21T12:51:56Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-11T12:51:56Z QOLS: 1.0 {score}
+- 2021-07-11T12:51:56Z DALY: 0.0 a
+- 2021-07-11T12:51:56Z QALY: 6.0 a
+- 2021-07-02T12:51:56Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-02T12:51:56Z Body Height: 122.6 cm
+- 2021-07-02T12:51:56Z Body Weight: 24.4 kg
+- 2021-07-02T12:51:56Z Body Mass Index: 16.3 kg/m2
+- 2021-07-02T12:51:56Z Body mass index (BMI) [Percentile] Per age and gender: 68.8 %
+- 2021-07-02T12:51:56Z Diastolic Blood Pressure: 78.0 mm[Hg]
+- 2021-07-02T12:51:56Z Systolic Blood Pressure: 120.0 mm[Hg]

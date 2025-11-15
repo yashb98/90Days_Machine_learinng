@@ -1,0 +1,65 @@
+== PATIENT RECORD: Kori635 Gleichner915 (ID: 1f276bd6-37f3-f5e8-5f02-6118235e2988) ==
+
+== Demographics ==
+Patient ID: 1f276bd6-37f3-f5e8-5f02-6118235e2988
+Name: Kori635 Gleichner915
+Gender: F
+Birthdate: 2011-05-08
+Address: 529 Legros Hollow Unit 65
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Lisinopril
+- Aspirin
+- Penicillin V
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Atopic dermatitis
+- Childhood asthma
+- Perennial allergic rhinitis
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Azithromycin 250 MG Oral Capsule
+- Acetaminophen 160 MG Chewable Tablet
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-04-15T03:43:45Z)
+- Allergy screening test (Date: 2013-07-22T00:43:45Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-14T03:43:45Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-14T03:43:45Z)
+- Asthma screening (Date: 2015-03-14T03:43:45Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-30T03:43:45Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-11T03:43:45Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-17T03:43:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-17T03:43:45Z: Well child visit (procedure)
+- 2021-02-12T11:43:45Z: Asthma follow-up
+- 2021-02-10T03:43:45Z: Emergency hospital admission for asthma
+- 2020-05-11T03:43:45Z: Well child visit (procedure)
+- 2019-08-20T03:43:45Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T03:43:45Z Body Weight: 33.7 kg
+- 2021-05-17T03:43:45Z Body Mass Index: 18.4 kg/m2
+- 2021-05-17T03:43:45Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-17T03:43:45Z Respiratory rate: 14.0 /min
+- 2021-05-17T03:43:45Z Heart rate: 79.0 /min
+- 2021-05-17T03:43:45Z Systolic Blood Pressure: 130.0 mm[Hg]
+- 2021-05-17T03:43:45Z Body Height: 135.3 cm
+- 2021-05-17T03:43:45Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2021-05-17T03:43:45Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-17T03:43:45Z Body mass index (BMI) [Percentile] Per age and gender: 72.3 %

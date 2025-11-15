@@ -1,0 +1,112 @@
+== PATIENT RECORD: Darcey370 Walker122 (ID: c8ff4993-f646-91ea-f261-c8622dd1500a) ==
+
+== Demographics ==
+Patient ID: c8ff4993-f646-91ea-f261-c8622dd1500a
+Name: Darcey370 Walker122
+Gender: F
+Birthdate: 1978-11-19
+Address: 771 Jerde Viaduct
+Marital Status: S
+
+== Allergies ==
+- Animal dander (substance)
+- cefdinir
+- Aspirin
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Has a criminal record (finding)
+- Normal pregnancy
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Limited social contact (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Trinessa 28 Day Pack
+- Kyleena 19.5 MG Intrauterine System
+- Levora 0.15/30 28 Day Pack
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Evaluation of uterine fundal height (Date: 2011-11-28T02:24:10Z)
+- Auscultation of the fetal heart (Date: 2011-11-28T02:24:10Z)
+- Evaluation of uterine fundal height (Date: 2011-12-26T02:24:10Z)
+- Auscultation of the fetal heart (Date: 2011-12-26T02:24:10Z)
+- Antenatal RhD antibody screening (Date: 2012-01-23T02:24:10Z)
+- RhD passive immunization (Date: 2012-01-23T02:24:10Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-01-23T02:24:10Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2012-01-23T02:24:10Z)
+- Urine screening for glucose (Date: 2012-01-23T02:24:10Z)
+- Evaluation of uterine fundal height (Date: 2012-01-23T02:24:10Z)
+- Auscultation of the fetal heart (Date: 2012-01-23T02:24:10Z)
+- Evaluation of uterine fundal height (Date: 2012-02-20T02:24:10Z)
+- Auscultation of the fetal heart (Date: 2012-02-20T02:24:10Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2012-03-19T02:24:10Z)
+- Evaluation of uterine fundal height (Date: 2012-03-19T02:24:10Z)
+- Auscultation of the fetal heart (Date: 2012-03-19T02:24:10Z)
+- Evaluation of uterine fundal height (Date: 2012-04-02T02:24:10Z)
+- Auscultation of the fetal heart (Date: 2012-04-02T02:24:10Z)
+- Epidural anesthesia (Date: 2012-04-09T02:24:10Z)
+- Childbirth (Date: 2012-04-09T02:24:10Z)
+- RhD passive immunization (Date: 2012-05-21T02:24:10Z)
+- Physical examination following birth (Date: 2012-05-21T02:24:10Z)
+- Depression screening (Date: 2012-05-21T02:24:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-04T02:24:10Z)
+- Screening for domestic abuse (procedure) (Date: 2013-02-04T03:00:04Z)
+- Depression screening (procedure) (Date: 2013-02-04T03:25:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-04T03:37:10Z)
+- Assessment of substance use (procedure) (Date: 2013-02-04T03:58:48Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-04T04:13:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-08T02:24:10Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-08T03:13:34Z)
+- Depression screening (procedure) (Date: 2016-02-08T03:36:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-08T03:50:54Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-04-28T15:24:10Z)
+- Intramuscular injection (Date: 2018-04-23T16:10:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-26T02:24:10Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-26T02:24:10Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-26T03:14:54Z)
+- Screening for domestic abuse (procedure) (Date: 2018-11-26T03:31:43Z)
+- Depression screening (procedure) (Date: 2018-11-26T04:05:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-26T04:18:46Z)
+- Assessment of substance use (procedure) (Date: 2018-11-26T04:47:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-26T04:59:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-28T02:24:10Z)
+- Depression screening (procedure) (Date: 2019-10-28T03:06:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-28T03:20:31Z)
+- Assessment of substance use (procedure) (Date: 2019-10-28T03:48:02Z)
+- Screening for drug abuse (procedure) (Date: 2019-10-28T03:58:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-30T02:24:10Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-30T03:00:09Z)
+- Depression screening (procedure) (Date: 2020-11-30T03:26:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-11-30T03:41:26Z)
+- Assessment of substance use (procedure) (Date: 2020-11-30T04:07:54Z)
+- Screening for drug abuse (procedure) (Date: 2020-11-30T04:20:55Z)
+- Intramuscular injection (Date: 2021-04-07T16:29:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-07T02:24:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-17T02:24:10Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-07T16:29:23Z: Consultation for treatment
+- 2020-11-30T02:24:10Z: General examination of patient (procedure)
+- 2020-04-12T16:29:23Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2020-11-30T04:48:31Z Total score [DAST-10]: 1.0 {score}
+- 2020-11-30T04:07:54Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-11-30T03:26:28Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-11-30T03:00:09Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-11-30T03:00:09Z What is your current work situation?: Full-time work nan
+- 2020-11-30T03:00:09Z What is your main insurance?: Private insurance nan
+- 2020-11-30T03:00:09Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 142786 /a
+- 2020-11-30T03:00:09Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-11-30T03:00:09Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2020-11-30T03:00:09Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

@@ -1,0 +1,111 @@
+== PATIENT RECORD: Nathan164 Stroman228 (ID: 7cfbccad-2a81-400a-4858-1d2f4b680960) ==
+
+== Demographics ==
+Patient ID: 7cfbccad-2a81-400a-4858-1d2f4b680960
+Name: Nathan164 Stroman228
+Gender: M
+Birthdate: 1994-09-17
+Address: 387 Bailey Ramp Apt 77
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Facial laceration
+- Full-time employment (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Otitis media
+- Misuses drugs (finding)
+- Viral sinusitis (disorder)
+- Refugee (person)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- tramadol hydrochloride 50 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-10T16:50:15Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-10T16:50:15Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-10T17:39:07Z)
+- Screening for domestic abuse (procedure) (Date: 2012-11-10T18:08:56Z)
+- Assessment of substance use (procedure) (Date: 2012-11-10T18:35:00Z)
+- Screening for drug abuse (procedure) (Date: 2012-11-10T18:46:59Z)
+- Suture open wound (Date: 2012-11-18T16:50:15Z)
+- Injection of tetanus antitoxin (Date: 2012-11-18T17:07:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-16T16:50:15Z)
+- Depression screening (procedure) (Date: 2013-11-16T17:33:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-16T17:45:53Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-11-16T18:15:22Z)
+- Assessment of substance use (procedure) (Date: 2013-11-16T18:39:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-11-16T18:53:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-22T16:50:15Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-22T17:29:46Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-22T17:51:15Z)
+- Depression screening (procedure) (Date: 2014-11-22T18:31:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-22T18:41:39Z)
+- Assessment of substance use (procedure) (Date: 2014-11-22T19:09:57Z)
+- Screening for drug abuse (procedure) (Date: 2014-11-22T19:23:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-28T16:50:15Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-28T16:50:15Z)
+- Depression screening (procedure) (Date: 2015-11-28T17:40:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-28T17:52:57Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-28T18:15:57Z)
+- Assessment of substance use (procedure) (Date: 2015-11-28T18:39:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-28T18:53:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-03T16:50:15Z)
+- Assessment of substance use (procedure) (Date: 2016-12-03T17:32:43Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-03T17:44:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-09T16:50:15Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-09T17:24:10Z)
+- Throat culture (procedure) (Date: 2018-04-02T23:50:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-15T16:50:15Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-15T17:38:44Z)
+- Depression screening (procedure) (Date: 2018-12-15T18:04:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-15T18:17:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-21T16:50:15Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-21T17:20:33Z)
+- Depression screening (procedure) (Date: 2019-12-21T17:41:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-21T17:54:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-26T16:50:15Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-26T17:34:14Z)
+- Screening for domestic abuse (procedure) (Date: 2020-12-26T17:50:13Z)
+- Depression screening (procedure) (Date: 2020-12-26T18:20:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-26T18:35:56Z)
+- Assessment of substance use (procedure) (Date: 2020-12-26T19:00:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-12-26T19:10:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T16:50:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-26T16:50:15Z: General examination of patient (procedure)
+- 2019-12-21T16:50:15Z: General examination of patient (procedure)
+- 2018-12-15T16:50:15Z: General examination of patient (procedure)
+- 2018-04-02T23:50:15Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-09-17T16:50:15Z QOLS: 1.0 {score}
+- 2021-09-17T16:50:15Z DALY: 0.0 a
+- 2021-09-17T16:50:15Z QALY: 26.0 a
+- 2020-12-26T19:40:27Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-12-26T19:00:29Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-12-26T18:20:58Z Total score [HARK]: 0.0 {score}
+- 2020-12-26T17:50:13Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2020-12-26T17:34:14Z What is your main insurance?: Private insurance nan
+- 2020-12-26T17:34:14Z What is your housing situation today?: I have housing nan
+- 2020-12-26T17:34:14Z Are you worried about losing your housing?: Yes nan

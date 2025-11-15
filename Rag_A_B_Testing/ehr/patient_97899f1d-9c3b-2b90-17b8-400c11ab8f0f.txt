@@ -1,0 +1,146 @@
+== PATIENT RECORD: Alberta625 Waters156 (ID: 97899f1d-9c3b-2b90-17b8-400c11ab8f0f) ==
+
+== Demographics ==
+Patient ID: 97899f1d-9c3b-2b90-17b8-400c11ab8f0f
+Name: Alberta625 Waters156
+Gender: F
+Birthdate: 1969-10-19
+Address: 246 Boyle Heights Apt 11
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Transport problems (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Concussion with loss of consciousness
+- Acute viral pharyngitis (disorder)
+- Stress (finding)
+- Chronic low back pain (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Normal pregnancy
+- Unhealthy alcohol drinking behavior (finding)
+- Sprain of wrist
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Yaz 28 Day Pack
+- Etonogestrel 68 MG Drug Implant
+- Mirena 52 MG Intrauterine System
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Kyleena 19.5 MG Intrauterine System
+
+== Past Procedures ==
+- Insertion of subcutaneous contraceptive (Date: 2012-11-27T02:27:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-04T02:27:51Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-04T02:27:51Z)
+- Depression screening (procedure) (Date: 2013-11-04T03:14:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-11-04T03:28:40Z)
+- Insertion of intrauterine contraceptive device (Date: 2013-11-25T14:04:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-10T02:27:51Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-10T03:19:59Z)
+- Insertion of intrauterine contraceptive device (Date: 2014-11-23T20:07:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-16T02:27:51Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-16T02:27:51Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-16T03:08:18Z)
+- Assessment of substance use (procedure) (Date: 2015-11-16T03:35:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-16T03:47:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-21T02:27:51Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-21T03:15:13Z)
+- Depression screening (procedure) (Date: 2016-11-21T03:40:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-21T03:54:15Z)
+- Assessment of substance use (procedure) (Date: 2016-11-21T04:20:32Z)
+- Screening for drug abuse (procedure) (Date: 2016-11-21T04:35:11Z)
+- Removal of subcutaneous contraceptive (Date: 2016-12-12T02:27:51Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-12-12T02:48:02Z)
+- Removal of subcutaneous contraceptive (Date: 2017-04-10T02:27:51Z)
+- Standard pregnancy test (Date: 2017-06-05T02:27:51Z)
+- Ultrasound scan for fetal viability (Date: 2017-06-05T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-06-05T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-06-05T02:27:51Z)
+- Blood typing  RH typing (Date: 2017-06-05T02:27:51Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-06-05T02:27:51Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2017-06-05T02:27:51Z)
+- Human immunodeficiency virus antigen test (Date: 2017-06-05T02:27:51Z)
+- Chlamydia antigen test (Date: 2017-06-05T02:27:51Z)
+- Gonorrhea infection test (Date: 2017-06-05T02:27:51Z)
+- Syphilis infection test (Date: 2017-06-05T02:27:51Z)
+- Urine culture (Date: 2017-06-05T02:27:51Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2017-06-05T02:27:51Z)
+- Urine screening test for diabetes (Date: 2017-06-05T02:27:51Z)
+- Hepatitis C antibody test (Date: 2017-06-05T02:27:51Z)
+- Rubella screening (Date: 2017-06-05T02:27:51Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2017-06-05T02:27:51Z)
+- Skin test for tuberculosis (Date: 2017-06-05T02:27:51Z)
+- Urine protein test (Date: 2017-06-05T02:27:51Z)
+- Physical examination of mother (Date: 2017-06-05T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-07-03T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-07-03T02:27:51Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2017-07-03T02:27:51Z)
+- Fetal anatomy study (Date: 2017-07-31T02:27:51Z)
+- Alpha-fetoprotein test (Date: 2017-07-31T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-07-31T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-07-31T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-08-28T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-08-28T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-09-25T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-09-25T02:27:51Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2017-10-23T02:27:51Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2017-10-23T02:27:51Z)
+- Urine screening for glucose (Date: 2017-10-23T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-10-23T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-10-23T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-11-20T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-11-20T02:27:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-27T02:27:51Z)
+- Screening for domestic abuse (procedure) (Date: 2017-11-27T03:07:25Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2017-12-18T02:27:51Z)
+- Evaluation of uterine fundal height (Date: 2017-12-18T02:27:51Z)
+- Auscultation of the fetal heart (Date: 2017-12-18T02:27:51Z)
+- Epidural anesthesia (Date: 2018-01-01T02:27:51Z)
+- Childbirth (Date: 2018-01-01T02:27:51Z)
+- Physical examination following birth (Date: 2018-02-12T02:27:51Z)
+- Depression screening (Date: 2018-02-12T02:27:51Z)
+- Insertion of intrauterine contraceptive device (Date: 2018-02-16T20:27:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-03T02:27:51Z)
+- Depression screening (procedure) (Date: 2018-12-03T03:14:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-03T03:25:07Z)
+- Assessment of substance use (procedure) (Date: 2018-12-03T03:45:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-12-03T03:59:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-09T02:27:51Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-09T02:27:51Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-09T02:59:22Z)
+- Assessment of substance use (procedure) (Date: 2019-12-09T03:30:14Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-09T03:44:49Z)
+- Removal of intrauterine device (Date: 2020-02-17T02:27:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-14T02:27:51Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-14T03:16:17Z)
+- Depression screening (procedure) (Date: 2020-12-14T03:37:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-14T03:48:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T03:20:58Z: Emergency room admission (procedure)
+- 2021-04-05T02:27:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-15T02:27:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-14T02:27:51Z: General examination of patient (procedure)
+- 2020-02-17T02:27:51Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-10-20T02:27:51Z QOLS: 1.0 {score}
+- 2021-10-20T02:27:51Z DALY: 0.1 a
+- 2021-10-20T02:27:51Z QALY: 50.9 a
+- 2020-12-14T04:14:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-14T03:37:41Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-12-14T03:16:17Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-12-14T03:16:17Z What address do you live at?: 246 Boyle Heights Apt 11 nan
+- 2020-12-14T03:16:17Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-12-14T03:16:17Z What is your current work situation?: Full-time work nan
+- 2020-12-14T03:16:17Z What is your main insurance?: Private insurance nan

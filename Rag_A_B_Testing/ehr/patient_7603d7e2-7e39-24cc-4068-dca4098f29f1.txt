@@ -1,0 +1,67 @@
+== PATIENT RECORD: Nery414 Zemlak964 (ID: 7603d7e2-7e39-24cc-4068-dca4098f29f1) ==
+
+== Demographics ==
+Patient ID: 7603d7e2-7e39-24cc-4068-dca4098f29f1
+Name: Nery414 Zemlak964
+Gender: F
+Birthdate: 2010-04-11
+Address: 100 Hahn Viaduct Apt 2
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Sprain of wrist
+- Child attention deficit disorder
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-03-19T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-18T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-16T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-17T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-28T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-03T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-09T02:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-03-21T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-15T02:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-04-21T03:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-05-23T04:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-06-26T05:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-08-05T06:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-09-09T07:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-10-09T08:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-11-18T09:41:42Z)
+- Cognitive and behavioral therapy (Date: 2019-12-25T10:41:42Z)
+- Cognitive and behavioral therapy (Date: 2020-01-28T11:41:42Z)
+- Cognitive and behavioral therapy (Date: 2020-03-08T12:41:42Z)
+- Cognitive and behavioral therapy (Date: 2020-04-14T13:41:42Z)
+- Cognitive and behavioral therapy (Date: 2020-05-21T14:41:42Z)
+- Cognitive and behavioral therapy (Date: 2020-07-01T15:41:42Z)
+- Cognitive and behavioral therapy (Date: 2020-08-10T16:41:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-26T02:41:42Z: Well child visit (procedure)
+- 2020-08-10T16:41:42Z: Encounter for problem
+- 2020-07-01T15:41:42Z: Encounter for problem
+- 2020-05-21T14:41:42Z: Encounter for problem
+- 2020-04-20T02:41:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-26T02:41:42Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-04-26T02:41:42Z Platelet mean volume [Entitic volume] in Blood by Automated count: 9.7 fL
+- 2021-04-26T02:41:42Z Diastolic Blood Pressure: 84.0 mm[Hg]
+- 2021-04-26T02:41:42Z Systolic Blood Pressure: 128.0 mm[Hg]
+- 2021-04-26T02:41:42Z Heart rate: 73.0 /min
+- 2021-04-26T02:41:42Z Respiratory rate: 14.0 /min
+- 2021-04-26T02:41:42Z Leukocytes [#/volume] in Blood by Automated count: 8.4 10*3/uL
+- 2021-04-26T02:41:42Z Erythrocytes [#/volume] in Blood by Automated count: 5.3 10*6/uL
+- 2021-04-26T02:41:42Z Hemoglobin [Mass/volume] in Blood: 13.1 g/dL
+- 2021-04-26T02:41:42Z Hematocrit [Volume Fraction] of Blood by Automated count: 47.9 %

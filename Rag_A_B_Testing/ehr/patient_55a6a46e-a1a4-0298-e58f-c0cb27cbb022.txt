@@ -1,0 +1,116 @@
+== PATIENT RECORD: Maddie576 Gutmann970 (ID: 55a6a46e-a1a4-0298-e58f-c0cb27cbb022) ==
+
+== Demographics ==
+Patient ID: 55a6a46e-a1a4-0298-e58f-c0cb27cbb022
+Name: Maddie576 Gutmann970
+Gender: F
+Birthdate: 1958-09-18
+Address: 577 Schmeler Frontage road Unit 7
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic sinusitis (disorder)
+- Has a criminal record (finding)
+- Prediabetes
+- Anemia (disorder)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Severe anxiety (panic) (finding
+- Bleeding from anus
+- Protracted diarrhea
+- Secondary malignant neoplasm of colon
+- Fracture of forearm
+- Not in labor force (finding)
+
+== Current Medications ==
+- Estrostep Fe 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Yaz 28 Day Pack
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+- Ibuprofen 200 MG Oral Tablet
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Removal of subcutaneous contraceptive (Date: 2000-03-23T04:22:51Z)
+- Insertion of subcutaneous contraceptive (Date: 2000-03-23T04:53:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-09-28T04:22:51Z)
+- Assessment of anxiety (procedure) (Date: 2000-09-28T05:07:34Z)
+- Depression screening (procedure) (Date: 2000-09-28T05:35:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-09-28T05:48:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-10-03T04:22:51Z)
+- Screening for domestic abuse (procedure) (Date: 2002-10-03T05:17:49Z)
+- Depression screening (procedure) (Date: 2002-10-03T05:53:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-10-03T06:05:29Z)
+- Assessment of substance use (procedure) (Date: 2002-10-03T06:31:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-10-03T06:42:59Z)
+- Insertion of intrauterine contraceptive device (Date: 2003-02-14T06:52:31Z)
+- Removal of subcutaneous contraceptive (Date: 2004-03-25T04:22:51Z)
+- Insertion of subcutaneous contraceptive (Date: 2004-03-25T04:46:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-10-07T04:22:51Z)
+- Assessment of anxiety (procedure) (Date: 2004-10-07T05:14:59Z)
+- Depression screening (procedure) (Date: 2004-10-07T05:32:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-10-07T05:47:17Z)
+- Insertion of intrauterine contraceptive device (Date: 2005-02-07T23:40:12Z)
+- Colonoscopy (Date: 2006-01-30T22:22:51Z)
+- Construction of diverting colostomy (Date: 2006-02-18T21:56:43Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2006-03-11T09:56:43Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2006-04-09T11:56:43Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2006-05-12T01:56:43Z)
+- Upper arm X-ray (Date: 2006-06-01T05:26:03Z)
+- Bone immobilization (Date: 2006-06-01T05:26:03Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2006-06-13T07:56:43Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2006-07-12T17:56:43Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2006-08-11T12:56:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-10-12T04:22:51Z)
+- Medication Reconciliation (procedure) (Date: 2006-10-12T04:22:51Z)
+- Depression screening (procedure) (Date: 2006-10-12T05:21:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-10-12T05:32:32Z)
+- Assessment of substance use (procedure) (Date: 2006-10-12T05:58:36Z)
+- Screening for drug abuse (procedure) (Date: 2006-10-12T06:08:59Z)
+- Removal of subcutaneous contraceptive (Date: 2008-03-27T04:22:51Z)
+- Insertion of subcutaneous contraceptive (Date: 2008-03-27T05:02:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-09-18T04:22:51Z)
+- Assessment of anxiety (procedure) (Date: 2008-09-18T05:08:49Z)
+- Screening for domestic abuse (procedure) (Date: 2008-09-18T05:31:45Z)
+- Depression screening (procedure) (Date: 2008-09-18T06:07:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-09-18T06:20:43Z)
+- Assessment of substance use (procedure) (Date: 2008-09-18T06:42:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2008-09-18T06:56:05Z)
+- Removal of subcutaneous contraceptive (Date: 2009-01-29T04:22:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-09-24T04:22:51Z)
+- Medication Reconciliation (procedure) (Date: 2009-09-24T04:22:51Z)
+- Assessment of anxiety (procedure) (Date: 2009-09-24T05:05:16Z)
+- Depression screening (procedure) (Date: 2009-09-24T05:29:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-09-24T05:42:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2009-11-19T04:22:51Z: Death Certification
+- 2009-09-24T04:22:51Z: General examination of patient (procedure)
+- 2009-01-29T04:22:51Z: Patient encounter procedure
+- 2008-09-18T04:22:51Z: General examination of patient (procedure)
+- 2008-03-27T04:22:51Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2009-11-19T04:22:51Z Cause of Death [US Standard Certificate of Death]: Secondary malignant neoplasm of colon nan
+- 2009-09-24T06:03:15Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2009-09-24T05:29:52Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2009-09-24T05:05:16Z What is your current work situation?: Full-time work nan
+- 2009-09-24T05:05:16Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2009-09-24T05:05:16Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2009-09-24T05:05:16Z Are you a refugee?: No nan
+- 2009-09-24T05:05:16Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2009-09-24T05:05:16Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Quite a bit nan
+- 2009-09-24T05:05:16Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

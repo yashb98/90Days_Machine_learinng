@@ -1,0 +1,46 @@
+== PATIENT RECORD: Kevin729 Kautzer186 (ID: a5ca099b-c28d-c0f4-653a-0d926051840a) ==
+
+== Demographics ==
+Patient ID: a5ca099b-c28d-c0f4-653a-0d926051840a
+Name: Kevin729 Kautzer186
+Gender: M
+Birthdate: 2019-08-29
+Address: 538 Stroman Pathway Apt 39
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-12-05T19:13:36Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-06T19:13:36Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-07T19:13:36Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-06T19:13:36Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-05T19:13:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-05T19:13:36Z: Well child visit (procedure)
+- 2021-06-19T19:13:36Z: Encounter for symptom
+- 2021-02-04T19:13:36Z: Well child visit (procedure)
+- 2020-12-29T21:13:36Z: Encounter for symptom
+- 2020-11-05T19:13:36Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-29T19:13:36Z QOLS: 1.0 {score}
+- 2021-08-29T19:13:36Z DALY: 0.0 a
+- 2021-08-29T19:13:36Z QALY: 1.0 a
+- 2021-08-05T19:13:36Z Systolic Blood Pressure: 103.0 mm[Hg]
+- 2021-08-05T19:13:36Z Body Height: 85.6 cm
+- 2021-08-05T19:13:36Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-08-05T19:13:36Z Body Weight: 12.4 kg
+- 2021-08-05T19:13:36Z Weight-for-length Per age and sex: 56.7 %
+- 2021-08-05T19:13:36Z Head Occipital-frontal circumference: 48.1 cm
+- 2021-08-05T19:13:36Z Diastolic Blood Pressure: 78.0 mm[Hg]

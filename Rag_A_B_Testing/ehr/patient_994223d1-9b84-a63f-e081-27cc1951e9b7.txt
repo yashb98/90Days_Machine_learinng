@@ -1,0 +1,58 @@
+== PATIENT RECORD: Golda777 Green467 (ID: 994223d1-9b84-a63f-e081-27cc1951e9b7) ==
+
+== Demographics ==
+Patient ID: 994223d1-9b84-a63f-e081-27cc1951e9b7
+Name: Golda777 Green467
+Gender: F
+Birthdate: 2008-04-06
+Address: 569 Bechtelar Passage
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-03-11T12:26:16Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-23T12:26:16Z)
+- Throat culture (procedure) (Date: 2014-04-08T09:26:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-29T12:26:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-09T12:26:16Z)
+- Depression screening (procedure) (Date: 2020-04-26T12:26:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-04-26T12:41:06Z)
+- Assessment of substance use (procedure) (Date: 2020-04-26T13:10:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-04-26T13:23:18Z)
+- Anticipatory guidance (procedure) (Date: 2020-04-26T13:42:06Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-02T12:26:16Z)
+- Depression screening (procedure) (Date: 2021-05-02T12:55:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-02T13:09:43Z)
+- Assessment of substance use (procedure) (Date: 2021-05-02T13:39:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-02T13:49:24Z)
+- Anticipatory guidance (procedure) (Date: 2021-05-02T13:59:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-02T12:26:16Z: Well child visit (procedure)
+- 2020-07-24T12:26:16Z: Emergency room admission (procedure)
+- 2020-04-26T12:26:16Z: Well child visit (procedure)
+- 2019-04-21T12:26:16Z: Well child visit (procedure)
+- 2018-04-15T12:26:16Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-02T13:39:22Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-05-02T12:55:31Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-05-02T12:26:16Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-02T12:26:16Z Respiratory rate: 14.0 /min
+- 2021-05-02T12:26:16Z Body Height: 157.3 cm
+- 2021-05-02T12:26:16Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-05-02T12:26:16Z Body Weight: 59.0 kg
+- 2021-05-02T12:26:16Z Body Mass Index: 23.8 kg/m2
+- 2021-05-02T12:26:16Z Body mass index (BMI) [Percentile] Per age and gender: 89.8 %
+- 2021-05-02T12:26:16Z Diastolic Blood Pressure: 76.0 mm[Hg]

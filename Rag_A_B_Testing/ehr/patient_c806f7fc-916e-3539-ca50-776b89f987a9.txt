@@ -1,0 +1,123 @@
+== PATIENT RECORD: Veta780 Roob72 (ID: c806f7fc-916e-3539-ca50-776b89f987a9) ==
+
+== Demographics ==
+Patient ID: c806f7fc-916e-3539-ca50-776b89f987a9
+Name: Veta780 Roob72
+Gender: F
+Birthdate: 1961-10-01
+Address: 160 Rempel Village
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Gout
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+- Polyp of colon
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Sepsis (disorder)
+- Severe anxiety (panic) (finding
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen 500 MG Oral Tablet
+- Allopurinol 100 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Colchicine 0.6 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-27T21:02:12Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-27T21:02:12Z)
+- Depression screening (procedure) (Date: 2012-05-27T21:50:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-27T22:01:28Z)
+- Assessment of substance use (procedure) (Date: 2012-05-27T22:27:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-05-27T22:38:13Z)
+- Colonoscopy (Date: 2013-02-21T21:34:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-02T21:02:12Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-02T21:57:21Z)
+- Depression screening (procedure) (Date: 2013-06-02T22:18:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-02T22:33:04Z)
+- Assessment of substance use (procedure) (Date: 2013-06-02T23:02:58Z)
+- Screening for drug abuse (procedure) (Date: 2013-06-02T23:14:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-08T21:02:12Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-08T21:40:35Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-08T22:06:22Z)
+- Depression screening (procedure) (Date: 2014-06-08T22:43:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-08T22:54:40Z)
+- Assessment of substance use (procedure) (Date: 2014-06-08T23:19:53Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-08T23:31:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-14T21:02:12Z)
+- Screening for domestic abuse (procedure) (Date: 2015-06-14T21:56:53Z)
+- Depression screening (procedure) (Date: 2015-06-14T22:34:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-06-14T22:45:33Z)
+- Assessment of substance use (procedure) (Date: 2015-06-14T23:12:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-06-14T23:25:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-19T21:02:12Z)
+- Depression screening (procedure) (Date: 2016-06-19T21:53:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-19T22:04:57Z)
+- Assessment of substance use (procedure) (Date: 2016-06-19T22:26:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-06-19T22:39:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-25T21:02:12Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-25T21:44:48Z)
+- Depression screening (procedure) (Date: 2017-06-25T22:09:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-25T22:24:05Z)
+- Colonoscopy (Date: 2018-02-21T22:16:14Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2018-03-27T21:02:12Z)
+- Transfer to stepdown unit (procedure) (Date: 2018-03-27T21:32:12Z)
+- Admit to ICU (procedure) (Date: 2018-04-03T01:02:12Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2018-04-03T01:32:12Z)
+- Transfer to stepdown unit (procedure) (Date: 2018-04-04T14:02:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-01T21:02:12Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-01T21:02:12Z)
+- Screening for domestic abuse (procedure) (Date: 2018-07-01T21:52:07Z)
+- Depression screening (procedure) (Date: 2018-07-01T22:29:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-01T22:40:55Z)
+- Assessment of substance use (procedure) (Date: 2018-07-01T23:08:26Z)
+- Screening for drug abuse (procedure) (Date: 2018-07-01T23:23:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-07T21:02:12Z)
+- Depression screening (procedure) (Date: 2019-07-07T21:49:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-07T22:00:20Z)
+- Assessment of substance use (procedure) (Date: 2019-07-07T22:28:34Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-07T22:43:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-12T21:02:12Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-12T21:57:42Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-12T22:18:04Z)
+- Depression screening (procedure) (Date: 2020-07-12T22:56:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-12T23:08:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-18T21:02:12Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-18T21:02:12Z)
+- Depression screening (procedure) (Date: 2021-07-18T22:00:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-18T22:14:33Z)
+- Assessment of substance use (procedure) (Date: 2021-07-18T22:35:39Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-18T22:48:59Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-20T21:02:12Z: Encounter for problem
+- 2021-07-18T21:02:12Z: General examination of patient (procedure)
+- 2021-04-04T21:02:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-07T21:02:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-12T21:02:12Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-01T21:02:12Z QOLS: 0.8 {score}
+- 2021-10-01T21:02:12Z DALY: 8.3 a
+- 2021-10-01T21:02:12Z QALY: 50.7 a
+- 2021-07-20T21:02:12Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-07-18T23:13:55Z Total score [DAST-10]: 2.0 {score}
+- 2021-07-18T22:35:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-07-18T22:00:08Z Which race(s) are you?: White nan
+- 2021-07-18T22:00:08Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-07-18T22:00:08Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-07-18T22:00:08Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Phone nan

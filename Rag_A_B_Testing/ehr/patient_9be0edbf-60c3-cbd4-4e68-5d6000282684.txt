@@ -1,0 +1,89 @@
+== PATIENT RECORD: Francisco472 Sauer652 (ID: 9be0edbf-60c3-cbd4-4e68-5d6000282684) ==
+
+== Demographics ==
+Patient ID: 9be0edbf-60c3-cbd4-4e68-5d6000282684
+Name: Francisco472 Sauer652
+Gender: M
+Birthdate: 2007-02-06
+Address: 269 Littel Manor
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Laceration of foot
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Child attention deficit disorder
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-01-22T14:09:04Z)
+- Suture open wound (Date: 2014-01-17T14:09:04Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-03T14:09:04Z)
+- Throat culture (procedure) (Date: 2015-05-30T04:09:04Z)
+- Throat culture (procedure) (Date: 2016-01-08T04:09:04Z)
+- Throat culture (procedure) (Date: 2017-12-26T20:09:04Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-20T14:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-03-07T14:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-04-16T15:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-05-26T16:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-07-02T17:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-08-05T18:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-09-13T19:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-10-16T20:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-11-25T21:09:04Z)
+- Cognitive and behavioral therapy (Date: 2018-12-30T22:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-02-02T23:09:04Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-26T14:09:04Z)
+- Depression screening (procedure) (Date: 2019-02-26T14:29:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-02-26T14:39:06Z)
+- Assessment of substance use (procedure) (Date: 2019-02-26T15:05:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-02-26T15:19:59Z)
+- Anticipatory guidance (procedure) (Date: 2019-02-26T15:44:33Z)
+- Cognitive and behavioral therapy (Date: 2019-03-13T00:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-04-14T01:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-05-19T02:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-06-22T03:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-07-26T04:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-08-29T05:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-10-07T06:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-11-04T07:09:04Z)
+- Cognitive and behavioral therapy (Date: 2019-12-05T08:09:04Z)
+- Cognitive and behavioral therapy (Date: 2020-01-11T09:09:04Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-03T14:09:04Z)
+- Depression screening (procedure) (Date: 2020-03-03T14:35:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-03-03T14:48:09Z)
+- Assessment of substance use (procedure) (Date: 2020-03-03T15:09:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-03-03T15:21:34Z)
+- Anticipatory guidance (procedure) (Date: 2020-03-03T15:46:29Z)
+- Depression screening (procedure) (Date: 2021-03-09T14:09:04Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-09T14:20:26Z)
+- Assessment of substance use (procedure) (Date: 2021-03-09T14:45:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-03-09T14:56:52Z)
+- Anticipatory guidance (procedure) (Date: 2021-03-09T15:20:46Z)
+- Throat culture (procedure) (Date: 2021-04-24T02:09:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-17T14:09:04Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-27T14:09:04Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-24T02:09:04Z: Encounter for symptom
+- 2021-03-09T14:09:04Z: Well child visit (procedure)
+- 2020-03-03T14:09:04Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-24T02:09:04Z Body temperature: 37.8 Cel
+- 2021-03-09T14:45:01Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-03-09T14:09:04Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-03-09T14:09:04Z Respiratory rate: 15.0 /min
+- 2021-03-09T14:09:04Z Body Height: 152.6 cm
+- 2021-03-09T14:09:04Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-03-09T14:09:04Z Body Weight: 42.5 kg
+- 2021-03-09T14:09:04Z Body Mass Index: 18.3 kg/m2
+- 2021-03-09T14:09:04Z Body mass index (BMI) [Percentile] Per age and gender: 34.8 %
+- 2021-03-09T14:09:04Z Diastolic Blood Pressure: 77.0 mm[Hg]

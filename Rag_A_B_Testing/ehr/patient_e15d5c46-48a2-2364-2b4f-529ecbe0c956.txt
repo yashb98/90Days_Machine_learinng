@@ -1,0 +1,105 @@
+== PATIENT RECORD: Edison640 Hudson301 (ID: e15d5c46-48a2-2364-2b4f-529ecbe0c956) ==
+
+== Demographics ==
+Patient ID: e15d5c46-48a2-2364-2b4f-529ecbe0c956
+Name: Edison640 Hudson301
+Gender: M
+Birthdate: 1970-12-26
+Address: 946 Reichert Arcade Suite 67
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Sepsis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Viral sinusitis (disorder)
+- Chronic low back pain (finding)
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Sinusitis (disorder)
+
+== Current Medications ==
+- clonazePAM 0.25 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-01-05T18:52:09Z)
+- Depression screening (procedure) (Date: 2013-01-05T19:51:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-05T20:02:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-15T18:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-15T19:39:46Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-15T19:55:26Z)
+- Depression screening (procedure) (Date: 2014-02-15T20:33:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-15T20:44:38Z)
+- Assessment of substance use (procedure) (Date: 2014-02-15T21:07:34Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-15T21:18:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-21T18:52:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-21T18:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-21T19:38:47Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-21T20:03:25Z)
+- Assessment of substance use (procedure) (Date: 2015-02-21T20:43:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-21T20:55:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-27T18:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-27T19:27:09Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-27T19:51:50Z)
+- Depression screening (procedure) (Date: 2016-02-27T20:29:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-27T20:41:27Z)
+- Assessment of substance use (procedure) (Date: 2016-02-27T21:03:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-27T21:13:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-04T18:52:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-04T18:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-04T19:31:11Z)
+- Assessment of substance use (procedure) (Date: 2017-03-04T19:52:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-04T20:07:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-10T18:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-10T19:33:34Z)
+- Depression screening (procedure) (Date: 2018-03-10T20:03:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-10T20:14:36Z)
+- Assessment of substance use (procedure) (Date: 2018-03-10T20:37:59Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-10T20:52:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-16T18:52:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-16T18:52:09Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-16T19:24:41Z)
+- Depression screening (procedure) (Date: 2019-03-16T19:47:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-16T19:59:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-21T18:52:09Z)
+- Depression screening (procedure) (Date: 2020-03-21T19:29:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-21T19:43:44Z)
+- Colonoscopy (Date: 2020-12-26T18:52:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-27T18:52:09Z)
+- Depression screening (procedure) (Date: 2021-03-27T19:26:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-27T19:40:06Z)
+- Assessment of substance use (procedure) (Date: 2021-03-27T20:00:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-27T20:14:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-27T18:52:09Z: General examination of patient (procedure)
+- 2020-12-26T18:52:09Z: Encounter for 'check-up'
+- 2020-08-12T17:52:09Z: Encounter for symptom
+- 2020-03-21T18:52:09Z: General examination of patient (procedure)
+- 2019-03-16T18:52:09Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-27T20:42:42Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-03-27T20:00:13Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-27T19:26:29Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan
+- 2021-03-27T19:26:29Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-03-27T19:26:29Z Are you worried about losing your housing?: No nan
+- 2021-03-27T19:26:29Z What address do you live at?: 946 Reichert Arcade Suite 67 nan
+- 2021-03-27T19:26:29Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-27T19:26:29Z What is your current work situation?: Full-time work nan
+- 2021-03-27T19:26:29Z What is your main insurance?: Private insurance nan
+- 2021-03-27T19:26:29Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 19018 /a

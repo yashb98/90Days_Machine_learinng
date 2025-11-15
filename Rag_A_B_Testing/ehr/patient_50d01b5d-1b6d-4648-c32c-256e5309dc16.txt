@@ -1,0 +1,71 @@
+== PATIENT RECORD: Colby655 Bernier607 (ID: 50d01b5d-1b6d-4648-c32c-256e5309dc16) ==
+
+== Demographics ==
+Patient ID: 50d01b5d-1b6d-4648-c32c-256e5309dc16
+Name: Colby655 Bernier607
+Gender: M
+Birthdate: 1986-04-06
+Address: 885 Medhurst Green Suite 24
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-06-15T20:21:55Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-15T21:10:51Z)
+- Depression screening (procedure) (Date: 2014-06-15T21:54:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-15T22:08:50Z)
+- Assessment of substance use (procedure) (Date: 2014-06-15T22:32:48Z)
+- Screening for drug abuse (procedure) (Date: 2014-06-15T22:45:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-05T20:21:55Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-05T21:00:47Z)
+- Depression screening (procedure) (Date: 2017-03-05T21:34:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-05T21:47:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-03-05T22:09:55Z)
+- Assessment of substance use (procedure) (Date: 2017-03-05T22:31:25Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-05T22:43:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-18T20:21:55Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-18T20:21:55Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-18T21:02:51Z)
+- Screening for domestic abuse (procedure) (Date: 2017-06-18T21:23:54Z)
+- Depression screening (procedure) (Date: 2017-06-18T21:50:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-18T22:00:31Z)
+- Throat culture (procedure) (Date: 2018-01-07T08:21:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-21T20:21:55Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-21T20:52:09Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-21T21:18:57Z)
+- Depression screening (procedure) (Date: 2020-06-21T22:01:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-21T22:13:22Z)
+- Assessment of substance use (procedure) (Date: 2020-06-21T22:42:01Z)
+- Screening for drug abuse (procedure) (Date: 2020-06-21T22:56:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-06-21T20:21:55Z: General examination of patient (procedure)
+- 2018-01-07T08:21:55Z: Encounter for symptom
+- 2017-06-18T20:21:55Z: General examination of patient (procedure)
+- 2017-03-05T20:21:55Z: Encounter for check up (procedure)
+- 2017-02-25T14:21:55Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-04-06T19:21:55Z QOLS: 1.0 {score}
+- 2021-04-06T19:21:55Z DALY: 0.1 a
+- 2021-04-06T19:21:55Z QALY: 33.9 a
+- 2020-06-21T23:25:51Z Total score [DAST-10]: 0.0 {score}
+- 2020-06-21T22:42:01Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-06-21T22:01:22Z Total score [HARK]: 0.0 {score}
+- 2020-06-21T21:18:57Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-06-21T20:52:09Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 36742 /a
+- 2020-06-21T20:52:09Z What address do you live at?: 885 Medhurst Green Suite 24 nan
+- 2020-06-21T20:52:09Z What is the highest level of school that you have finished?: High school diploma or GED nan

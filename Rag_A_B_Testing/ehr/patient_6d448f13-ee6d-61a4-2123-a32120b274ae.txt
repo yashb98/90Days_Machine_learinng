@@ -1,0 +1,126 @@
+== PATIENT RECORD: Ja391 Mayer370 (ID: 6d448f13-ee6d-61a4-2123-a32120b274ae) ==
+
+== Demographics ==
+Patient ID: 6d448f13-ee6d-61a4-2123-a32120b274ae
+Name: Ja391 Mayer370
+Gender: F
+Birthdate: 1912-10-07
+Address: 1014 Batz Ville
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Unemployed (finding)
+- Lack of access to transportation (finding)
+- Miscarriage in first trimester
+- Transport problems (finding)
+- Osteoarthritis of knee
+- Hyperlipidemia
+- Victim of intimate partner abuse (finding)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Osteoporosis (disorder)
+- Atrial Fibrillation
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Alzheimer's disease (disorder)
+
+== Current Medications ==
+- Hydrocortisone 10 MG/ML Topical Cream
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Donepezil hydrochloride 10 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 1998-04-27T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-04-27T19:51:58Z)
+- Assessment of substance use (procedure) (Date: 1998-04-27T20:22:11Z)
+- Screening for drug abuse (procedure) (Date: 1998-04-27T20:34:04Z)
+- Electrical cardioversion (Date: 1999-05-03T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-05-03T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1999-05-03T19:51:58Z)
+- Screening for domestic abuse (procedure) (Date: 1999-05-03T20:22:38Z)
+- Depression screening (procedure) (Date: 1999-05-03T21:04:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-05-03T21:17:36Z)
+- Electrical cardioversion (Date: 2000-05-08T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-05-08T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2000-05-08T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2000-05-08T20:31:16Z)
+- Depression screening (procedure) (Date: 2000-05-08T20:55:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-05-08T21:06:04Z)
+- Assessment of substance use (procedure) (Date: 2000-05-08T21:31:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-05-08T21:43:58Z)
+- Electrical cardioversion (Date: 2001-05-14T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-05-14T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2001-05-14T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2001-05-14T20:25:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-05-14T20:51:16Z)
+- Screening for domestic abuse (procedure) (Date: 2001-05-14T21:14:05Z)
+- Depression screening (procedure) (Date: 2001-05-14T21:57:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-05-14T22:08:01Z)
+- Electrical cardioversion (Date: 2002-05-20T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-05-20T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2002-05-20T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-05-20T20:30:34Z)
+- Depression screening (procedure) (Date: 2002-05-20T21:00:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-05-20T21:14:45Z)
+- Electrical cardioversion (Date: 2003-05-26T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-05-26T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-05-26T20:42:34Z)
+- Depression screening (procedure) (Date: 2003-05-26T21:05:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-05-26T21:16:08Z)
+- Assessment of substance use (procedure) (Date: 2003-05-26T21:36:52Z)
+- Screening for drug abuse (procedure) (Date: 2003-05-26T21:47:09Z)
+- Electrical cardioversion (Date: 2004-05-31T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-05-31T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2004-05-31T20:51:54Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-05-31T21:08:34Z)
+- Depression screening (procedure) (Date: 2004-05-31T21:35:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-05-31T21:46:44Z)
+- Assessment of substance use (procedure) (Date: 2004-05-31T22:13:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-05-31T22:25:01Z)
+- Electrical cardioversion (Date: 2004-07-19T19:51:58Z)
+- Electrical cardioversion (Date: 2004-07-26T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-07-26T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2004-07-26T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-07-26T20:37:00Z)
+- Depression screening (procedure) (Date: 2004-07-26T20:58:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-07-26T21:10:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2004-07-26T21:35:50Z)
+- Assessment of substance use (procedure) (Date: 2004-07-26T22:03:44Z)
+- Screening for drug abuse (procedure) (Date: 2004-07-26T22:18:30Z)
+- Electrical cardioversion (Date: 2005-06-06T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-06-06T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 2005-06-06T20:22:17Z)
+- Assessment of substance use (procedure) (Date: 2005-06-06T20:48:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2005-06-06T21:03:10Z)
+- Electrical cardioversion (Date: 2006-06-12T19:51:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-06-12T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 2006-06-12T19:51:58Z)
+- Assessment of substance use (procedure) (Date: 2006-06-12T20:24:21Z)
+- Screening for drug abuse (procedure) (Date: 2006-06-12T20:36:22Z)
+
+== Recent Encounters (Last 5) ==
+- 2007-06-11T19:51:58Z: Death Certification
+- 2006-10-26T19:51:58Z: Follow-up encounter
+- 2006-07-18T19:51:58Z: Office Visit
+- 2006-06-12T19:51:58Z: General examination of patient (procedure)
+- 2005-10-26T19:51:58Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2007-06-11T19:51:58Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 2006-10-26T19:51:58Z Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL
+- 2006-10-26T19:51:58Z Glucose: 91.5 mg/dL
+- 2006-10-26T19:51:58Z Urea Nitrogen: 10.1 mg/dL
+- 2006-10-26T19:51:58Z Creatinine: 2.5 mg/dL
+- 2006-10-26T19:51:58Z Calcium: 9.1 mg/dL
+- 2006-10-26T19:51:58Z Potassium: 5.1 mmol/L
+- 2006-10-26T19:51:58Z Chloride: 102.2 mmol/L
+- 2006-10-26T19:51:58Z Carbon Dioxide: 20.9 mmol/L
+- 2006-10-26T19:51:58Z Glomerular filtration rate/1.73 sq M.predicted: 67.1 mL/min

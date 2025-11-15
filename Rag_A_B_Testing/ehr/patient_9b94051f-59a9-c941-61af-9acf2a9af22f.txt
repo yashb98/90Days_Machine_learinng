@@ -1,0 +1,150 @@
+== PATIENT RECORD: Stephen891 Daniel959 (ID: 9b94051f-59a9-c941-61af-9acf2a9af22f) ==
+
+== Demographics ==
+Patient ID: 9b94051f-59a9-c941-61af-9acf2a9af22f
+Name: Stephen891 Daniel959
+Gender: M
+Birthdate: 1945-07-17
+Address: 307 Kulas Approach Unit 81
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Fracture of rib
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Fracture subluxation of wrist
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Osteoporosis (disorder)
+- Closed fracture of hip
+- Pathological fracture due to osteoporosis (disorder)
+- Acute bronchitis (disorder)
+- Fracture of forearm
+
+== Current Medications ==
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Chest X-ray (Date: 2012-06-26T19:25:03Z)
+- Bone immobilization (Date: 2012-06-26T19:25:03Z)
+- Bone density scan (procedure) (Date: 2012-06-26T20:00:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-23T17:32:26Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-23T18:22:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-10-23T18:41:53Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-23T19:04:51Z)
+- Depression screening (procedure) (Date: 2012-10-23T19:36:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-23T19:49:29Z)
+- Assessment of substance use (procedure) (Date: 2012-10-23T20:09:36Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-23T20:23:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-29T17:32:26Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-29T17:32:26Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-29T18:27:33Z)
+- Depression screening (procedure) (Date: 2013-10-29T18:55:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-29T19:07:05Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T17:32:26Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T18:25:27Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T19:15:57Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T20:01:34Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T20:48:53Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T21:47:03Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T22:44:25Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T23:40:33Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-06T00:31:33Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-09T01:28:34Z)
+- Throat culture (procedure) (Date: 2014-03-07T15:32:26Z)
+- X-ray or wrist (Date: 2014-10-01T20:00:52Z)
+- Bone immobilization (Date: 2014-10-01T20:00:52Z)
+- Bone density scan (procedure) (Date: 2014-10-01T20:22:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-04T17:32:26Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-04T17:32:26Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-04T18:19:46Z)
+- Depression screening (procedure) (Date: 2014-11-04T18:42:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-04T18:54:27Z)
+- Assessment of substance use (procedure) (Date: 2014-11-04T19:21:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-04T19:34:12Z)
+- Colonoscopy (Date: 2015-07-17T19:50:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-10T17:32:26Z)
+- Bone density scan (procedure) (Date: 2015-11-10T17:32:26Z)
+- Depression screening (procedure) (Date: 2015-11-10T18:19:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-10T18:29:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-10T18:55:32Z)
+- Assessment of substance use (procedure) (Date: 2015-11-10T19:18:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-10T19:31:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-15T17:32:26Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-15T18:14:53Z)
+- Depression screening (procedure) (Date: 2016-11-15T18:56:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-15T19:10:29Z)
+- Assessment of substance use (procedure) (Date: 2016-11-15T19:33:31Z)
+- Screening for drug abuse (procedure) (Date: 2016-11-15T19:48:22Z)
+- Pelvis X-ray (Date: 2017-03-06T20:22:01Z)
+- Admission to orthopedic department (Date: 2017-03-06T20:22:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-21T17:32:26Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-21T17:32:26Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-21T18:19:41Z)
+- Depression screening (procedure) (Date: 2017-11-21T18:49:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-21T19:04:05Z)
+- Assessment of substance use (procedure) (Date: 2017-11-21T19:29:17Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-21T19:43:23Z)
+- Measurement of respiratory function (procedure) (Date: 2017-12-27T16:32:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-09T17:32:26Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-09T17:32:26Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-09T18:15:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-01-09T18:44:30Z)
+- Depression screening (procedure) (Date: 2018-01-09T19:02:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-09T19:13:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-27T17:32:26Z)
+- Medication Reconciliation (procedure) (Date: 2018-11-27T17:32:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-11-27T18:22:33Z)
+- Depression screening (procedure) (Date: 2018-11-27T18:39:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-27T18:52:13Z)
+- Upper arm X-ray (Date: 2019-03-23T21:47:01Z)
+- Bone immobilization (Date: 2019-03-23T21:47:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-03T17:32:26Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-03T18:07:10Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-12-03T18:34:19Z)
+- Assessment of substance use (procedure) (Date: 2019-12-03T19:02:08Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-03T19:13:57Z)
+- Upper arm X-ray (Date: 2020-07-08T22:20:59Z)
+- Bone immobilization (Date: 2020-07-08T22:20:59Z)
+- Colonoscopy (Date: 2020-07-16T20:27:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-08T17:32:26Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-08T18:24:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-12-08T18:51:34Z)
+- Depression screening (procedure) (Date: 2020-12-08T19:10:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-08T19:22:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-09T17:32:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-16T17:32:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-07T15:32:26Z: Encounter for symptom
+- 2020-12-08T17:32:26Z: General examination of patient (procedure)
+- 2020-09-22T23:03:05Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-07-17T17:32:26Z QOLS: 0.9 {score}
+- 2021-07-17T17:32:26Z DALY: 0.2 a
+- 2021-07-17T17:32:26Z QALY: 74.8 a
+- 2020-12-08T19:43:47Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-08T19:10:44Z Fall risk total [Morse Fall Scale]: 42.0 {#}
+- 2020-12-08T19:10:44Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2020-12-08T18:51:34Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2020-12-08T18:24:52Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 31088 /a
+- 2020-12-08T18:24:52Z What address do you live at?: 307 Kulas Approach Unit 81 nan
+- 2020-12-08T18:24:52Z What is the highest level of school that you have finished?: More than high school nan

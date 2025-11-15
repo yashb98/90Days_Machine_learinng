@@ -1,0 +1,46 @@
+== PATIENT RECORD: Katelyn962 Schaden604 (ID: 75fde6d2-84e9-feb2-088f-b99f5347881a) ==
+
+== Demographics ==
+Patient ID: 75fde6d2-84e9-feb2-088f-b99f5347881a
+Name: Katelyn962 Schaden604
+Gender: F
+Birthdate: 2012-01-24
+Address: 1029 Kiehn Lock Unit 83
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-07-02T10:35:37Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-31T10:35:37Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-30T10:35:37Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-03T10:35:37Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-09T10:35:37Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-26T10:35:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-26T10:35:37Z: Well child visit (procedure)
+- 2020-01-21T10:35:37Z: Well child visit (procedure)
+- 2019-02-23T08:35:37Z: Encounter for symptom
+- 2019-01-15T10:35:37Z: Well child visit (procedure)
+- 2018-12-05T12:35:37Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-01-26T10:35:37Z Body Weight: 30.2 kg
+- 2021-01-26T10:35:37Z Body Height: 140.3 cm
+- 2021-01-26T10:35:37Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-01-26T10:35:37Z Body Mass Index: 15.3 kg/m2
+- 2021-01-26T10:35:37Z Body mass index (BMI) [Percentile] Per age and gender: 30.1 %
+- 2021-01-26T10:35:37Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-01-26T10:35:37Z Systolic Blood Pressure: 125.0 mm[Hg]
+- 2021-01-26T10:35:37Z Heart rate: 70.0 /min
+- 2021-01-26T10:35:37Z Respiratory rate: 14.0 /min
+- 2021-01-26T10:35:37Z Tobacco smoking status NHIS: Never smoker nan

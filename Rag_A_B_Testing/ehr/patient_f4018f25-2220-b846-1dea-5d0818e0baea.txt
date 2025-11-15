@@ -1,0 +1,50 @@
+== PATIENT RECORD: Vennie613 Hermiston71 (ID: f4018f25-2220-b846-1dea-5d0818e0baea) ==
+
+== Demographics ==
+Patient ID: f4018f25-2220-b846-1dea-5d0818e0baea
+Name: Vennie613 Hermiston71
+Gender: F
+Birthdate: 1971-04-29
+Address: 538 Morar Trafficway
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Diazepam 5 MG Oral Tablet
+- Carbamazepine[Tegretol]
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1971-04-29T13:18:15Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1971-06-09T13:18:15Z)
+- Medication Reconciliation (procedure) (Date: 1971-08-05T13:18:15Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1971-08-21T14:28:49Z)
+- Medication Reconciliation (procedure) (Date: 1971-10-07T13:18:15Z)
+- Medication Reconciliation (procedure) (Date: 1972-01-06T13:18:15Z)
+- Sputum examination (procedure) (Date: 1972-01-25T22:18:15Z)
+
+== Recent Encounters (Last 5) ==
+- 1972-02-10T13:18:15Z: Death Certification
+- 1972-02-03T13:18:15Z: Urgent care clinic (procedure)
+- 1972-01-25T22:18:15Z: Encounter for symptom
+- 1972-01-06T13:18:15Z: Well child visit (procedure)
+- 1971-10-07T13:18:15Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1972-02-10T13:18:15Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1972-01-06T13:18:15Z Tobacco smoking status NHIS: Never smoker nan
+- 1972-01-06T13:18:15Z Respiratory rate: 14.0 /min
+- 1972-01-06T13:18:15Z Heart rate: 82.0 /min
+- 1972-01-06T13:18:15Z Systolic Blood Pressure: 112.0 mm[Hg]
+- 1972-01-06T13:18:15Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 1972-01-06T13:18:15Z Head Occipital-frontal circumference: 45.6 cm
+- 1972-01-06T13:18:15Z Weight-for-length Per age and sex: 72.7 %
+- 1972-01-06T13:18:15Z Body Weight: 9.6 kg
+- 1972-01-06T13:18:15Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}

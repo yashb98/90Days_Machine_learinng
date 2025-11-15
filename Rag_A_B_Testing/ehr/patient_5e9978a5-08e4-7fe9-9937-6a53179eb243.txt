@@ -1,0 +1,88 @@
+== PATIENT RECORD: Lonnie913 Kuhlman484 (ID: 5e9978a5-08e4-7fe9-9937-6a53179eb243) ==
+
+== Demographics ==
+Patient ID: 5e9978a5-08e4-7fe9-9937-6a53179eb243
+Name: Lonnie913 Kuhlman484
+Gender: M
+Birthdate: 1981-10-07
+Address: 916 Trantow Approach Apt 29
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Prediabetes
+- Anemia (disorder)
+- Gout
+- Limited social contact (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen 500 MG Oral Tablet
+- Allopurinol 100 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-12-19T07:24:38Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-19T07:24:38Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-19T08:03:37Z)
+- Depression screening (procedure) (Date: 2012-12-19T08:27:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-19T08:41:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-05T07:24:38Z)
+- Depression screening (procedure) (Date: 2014-11-05T08:09:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-05T08:20:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-03T07:24:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-03T07:24:38Z)
+- Depression screening (procedure) (Date: 2014-12-03T08:12:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-03T08:25:57Z)
+- Assessment of substance use (procedure) (Date: 2014-12-03T08:53:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-12-03T09:06:03Z)
+- Measurement of respiratory function (procedure) (Date: 2015-11-19T16:24:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-25T07:24:38Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-25T08:22:20Z)
+- Depression screening (procedure) (Date: 2015-11-25T08:44:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-25T08:58:51Z)
+- Assessment of substance use (procedure) (Date: 2015-11-25T09:26:13Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-25T09:40:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-23T07:24:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-23T07:24:38Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-23T08:10:24Z)
+- Depression screening (procedure) (Date: 2015-12-23T08:44:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-23T08:56:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-26T07:24:38Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-26T07:24:38Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-26T08:02:19Z)
+- Depression screening (procedure) (Date: 2018-12-26T08:28:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-26T08:40:29Z)
+- Assessment of substance use (procedure) (Date: 2018-12-26T09:06:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-12-26T09:21:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-13T07:24:38Z)
+- Screening for domestic abuse (procedure) (Date: 2021-10-13T08:19:10Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-13T07:24:38Z: General examination of patient (procedure)
+- 2020-05-24T07:24:38Z: Encounter for problem
+- 2018-12-26T07:24:38Z: General examination of patient (procedure)
+- 2016-05-10T10:24:38Z: Encounter for symptom
+- 2015-12-23T07:24:38Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-13T09:01:34Z Total score [HARK]: 0.0 {score}
+- 2021-10-13T08:19:10Z Which race(s) are you?: White nan
+- 2021-10-13T08:19:10Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-10-13T08:19:10Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-10-13T08:19:10Z What language are you most comfortable speaking?: English nan
+- 2021-10-13T08:19:10Z What is your housing situation today?: I have housing nan
+- 2021-10-13T08:19:10Z Are you worried about losing your housing?: No nan
+- 2021-10-13T08:19:10Z What address do you live at?: 916 Trantow Approach Apt 29 nan
+- 2021-10-13T08:19:10Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-10-13T08:19:10Z What is your current work situation?: Full-time work nan

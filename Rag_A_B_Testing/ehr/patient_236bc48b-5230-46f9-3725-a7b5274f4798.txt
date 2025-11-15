@@ -1,0 +1,168 @@
+== PATIENT RECORD: Alanna27 Daugherty69 (ID: 236bc48b-5230-46f9-3725-a7b5274f4798) ==
+
+== Demographics ==
+Patient ID: 236bc48b-5230-46f9-3725-a7b5274f4798
+Name: Alanna27 Daugherty69
+Gender: F
+Birthdate: 2001-04-08
+Address: 350 Oberbrunner Key
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Child attention deficit disorder
+- Acute bronchitis (disorder)
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Transport problems (finding)
+- Social isolation (finding)
+- Cough (finding)
+- Fatigue (finding)
+- Nausea (finding)
+- Vomiting symptom (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute respiratory failure (disorder)
+- Acute deep venous thrombosis (disorder)
+- Normal pregnancy
+
+== Current Medications ==
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Methylphenidate Hydrochloride 20 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Levora 0.15/30 28 Day Pack
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2013-04-28T08:59:55Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-28T08:59:55Z)
+- Depression screening (procedure) (Date: 2013-04-28T09:25:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-04-28T09:40:12Z)
+- Assessment of substance use (procedure) (Date: 2013-04-28T10:07:10Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-04-28T10:20:35Z)
+- Anticipatory guidance (procedure) (Date: 2013-04-28T10:38:33Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-04T08:59:55Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-04T08:59:55Z)
+- Depression screening (procedure) (Date: 2014-05-04T09:15:41Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-04T09:29:05Z)
+- Assessment of substance use (procedure) (Date: 2014-05-04T09:50:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-04T10:00:24Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-04T10:24:32Z)
+- Assessment of substance use (procedure) (Date: 2015-05-10T08:59:55Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-10T09:14:26Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-10T09:40:01Z)
+- Cognitive and behavioral therapy (Date: 2015-06-21T08:59:55Z)
+- Cognitive and behavioral therapy (Date: 2015-07-24T09:59:55Z)
+- Cognitive and behavioral therapy (Date: 2015-08-24T10:59:55Z)
+- Cognitive and behavioral therapy (Date: 2015-09-21T11:59:55Z)
+- Cognitive and behavioral therapy (Date: 2015-10-23T12:59:55Z)
+- Measurement of respiratory function (procedure) (Date: 2015-12-23T20:59:55Z)
+- Depression screening (procedure) (Date: 2016-05-15T08:59:55Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-15T08:59:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-15T09:11:25Z)
+- Depression screening (procedure) (Date: 2017-05-21T08:59:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-05-21T09:12:33Z)
+- Depression screening (procedure) (Date: 2018-05-27T08:59:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-05-27T09:12:13Z)
+- Assessment of substance use (procedure) (Date: 2018-05-27T09:33:58Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-05-27T09:44:12Z)
+- Anticipatory guidance (procedure) (Date: 2018-05-27T10:03:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-02T08:59:55Z)
+- Depression screening (procedure) (Date: 2019-06-02T09:57:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-02T10:11:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-07T08:59:55Z)
+- Assessment of substance use (procedure) (Date: 2020-06-07T09:32:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-07T09:43:19Z)
+- Face mask (physical object) (Date: 2021-04-07T08:59:55Z)
+- Plain chest X-ray (procedure) (Date: 2021-04-07T10:04:46Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-07T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-07T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-08T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-08T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-09T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-09T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-10T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-10T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-11T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-11T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-12T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-12T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-13T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-13T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-14T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-14T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-15T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-15T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-16T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-16T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-17T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-17T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-18T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-18T10:21:38Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-19T10:21:38Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-19T10:21:38Z)
+- Standard pregnancy test (Date: 2021-06-20T08:59:55Z)
+- Ultrasound scan for fetal viability (Date: 2021-06-20T08:59:55Z)
+- Evaluation of uterine fundal height (Date: 2021-06-20T08:59:55Z)
+- Auscultation of the fetal heart (Date: 2021-06-20T08:59:55Z)
+- Blood typing  RH typing (Date: 2021-06-20T08:59:55Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-06-20T08:59:55Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-06-20T08:59:55Z)
+- Human immunodeficiency virus antigen test (Date: 2021-06-20T08:59:55Z)
+- Chlamydia antigen test (Date: 2021-06-20T08:59:55Z)
+- Gonorrhea infection test (Date: 2021-06-20T08:59:55Z)
+- Syphilis infection test (Date: 2021-06-20T08:59:55Z)
+- Urine culture (Date: 2021-06-20T08:59:55Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-06-20T08:59:55Z)
+- Urine screening test for diabetes (Date: 2021-06-20T08:59:55Z)
+- Hepatitis C antibody test (Date: 2021-06-20T08:59:55Z)
+- Rubella screening (Date: 2021-06-20T08:59:55Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-06-20T08:59:55Z)
+- Skin test for tuberculosis (Date: 2021-06-20T08:59:55Z)
+- Urine protein test (Date: 2021-06-20T08:59:55Z)
+- Physical examination of mother (Date: 2021-06-20T08:59:55Z)
+- Evaluation of uterine fundal height (Date: 2021-07-18T08:59:55Z)
+- Auscultation of the fetal heart (Date: 2021-07-18T08:59:55Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-07-18T08:59:55Z)
+- Fetal anatomy study (Date: 2021-08-15T08:59:55Z)
+- Alpha-fetoprotein test (Date: 2021-08-15T08:59:55Z)
+- Evaluation of uterine fundal height (Date: 2021-08-15T08:59:55Z)
+- Auscultation of the fetal heart (Date: 2021-08-15T08:59:55Z)
+- Evaluation of uterine fundal height (Date: 2021-09-12T08:59:55Z)
+- Auscultation of the fetal heart (Date: 2021-09-12T08:59:55Z)
+- Evaluation of uterine fundal height (Date: 2021-10-10T08:59:55Z)
+- Auscultation of the fetal heart (Date: 2021-10-10T08:59:55Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-11-07T08:59:55Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-11-07T08:59:55Z)
+- Urine screening for glucose (Date: 2021-11-07T08:59:55Z)
+- Evaluation of uterine fundal height (Date: 2021-11-07T08:59:55Z)
+- Auscultation of the fetal heart (Date: 2021-11-07T08:59:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-07T08:59:55Z: Prenatal visit
+- 2021-10-10T08:59:55Z: Prenatal visit
+- 2021-09-12T08:59:55Z: Prenatal visit
+- 2021-08-15T08:59:55Z: Prenatal visit
+- 2021-07-18T08:59:55Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-04-20T08:12:38Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Not detected (qualifier value) nan
+- 2021-04-20T08:12:38Z Body temperature: 36.7 Cel
+- 2021-04-19T10:21:38Z Neutrophils [#/volume] in Blood by Automated count: 3.3 10*3/uL
+- 2021-04-19T10:21:38Z Basophils/100 leukocytes in Blood by Automated count: 2.4 %
+- 2021-04-19T10:21:38Z Platelets [#/volume] in Blood by Automated count: 131.7 10*3/uL
+- 2021-04-19T10:21:38Z Neutrophils/100 leukocytes in Blood by Automated count: 19.5 %
+- 2021-04-19T10:21:38Z Lymphocytes/100 leukocytes in Blood by Automated count: 20.6 %
+- 2021-04-19T10:21:38Z Monocytes/100 leukocytes in Blood by Automated count: 9.9 %
+- 2021-04-19T10:21:38Z Eosinophils/100 leukocytes in Blood by Automated count: 3.1 %
+- 2021-04-19T10:21:38Z Monocytes [#/volume] in Blood by Automated count: 0.9 10*3/uL

@@ -1,0 +1,46 @@
+== PATIENT RECORD: Aimee901 Hudson301 (ID: 81aa7647-779f-fd6b-94cf-782e606efeb2) ==
+
+== Demographics ==
+Patient ID: 81aa7647-779f-fd6b-94cf-782e606efeb2
+Name: Aimee901 Hudson301
+Gender: F
+Birthdate: 2014-12-29
+Address: 573 Tremblay Station Unit 3
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-12-30T03:31:56Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-03T03:31:56Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-07T03:31:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-05T03:31:56Z)
+- Measurement of respiratory function (procedure) (Date: 2019-03-10T23:31:56Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-10T03:31:56Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-15T03:31:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-12-15T03:31:56Z: Well child visit (procedure)
+- 2019-12-10T03:31:56Z: Well child visit (procedure)
+- 2019-03-19T03:31:56Z: Encounter for check up (procedure)
+- 2019-03-10T23:31:56Z: Encounter for symptom
+- 2018-12-04T03:31:56Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-30T03:31:56Z QOLS: 1.0 {score}
+- 2020-12-30T03:31:56Z DALY: 0.0 a
+- 2020-12-30T03:31:56Z QALY: 5.0 a
+- 2020-12-15T03:31:56Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2020-12-15T03:31:56Z Body Weight: 17.4 kg
+- 2020-12-15T03:31:56Z Body Height: 111.0 cm
+- 2020-12-15T03:31:56Z Body Mass Index: 14.1 kg/m2
+- 2020-12-15T03:31:56Z Body mass index (BMI) [Percentile] Per age and gender: 18.7 %
+- 2020-12-15T03:31:56Z Diastolic Blood Pressure: 82.0 mm[Hg]
+- 2020-12-15T03:31:56Z MCHC [Mass/volume] by Automated count: 35.1 g/dL

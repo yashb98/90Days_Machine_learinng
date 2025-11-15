@@ -1,0 +1,137 @@
+== PATIENT RECORD: Emilie407 Nader710 (ID: 2a48a5b5-97d4-63df-1172-524a47bc49b5) ==
+
+== Demographics ==
+Patient ID: 2a48a5b5-97d4-63df-1172-524a47bc49b5
+Name: Emilie407 Nader710
+Gender: F
+Birthdate: 1966-11-06
+Address: 857 Kris Wall Unit 89
+Marital Status: M
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Aspirin
+- Penicillin V
+- Wheat (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Prediabetes
+- Anemia (disorder)
+- Concussion with no loss of consciousness
+- Viral sinusitis (disorder)
+- Facial laceration
+- Sepsis (disorder)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- doxycycline hyclate 100 MG
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Errin 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Etonogestrel 68 MG Drug Implant
+- Jolivette 28 Day Pack
+- Ibuprofen 200 MG Oral Tablet
+- Aztreonam 2000 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2011-12-11T08:48:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-04T03:56:11Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-04T03:56:11Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-04T04:44:16Z)
+- Depression screening (procedure) (Date: 2012-06-04T05:07:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-04T05:20:34Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-12-05T09:00:06Z)
+- Removal of subcutaneous contraceptive (Date: 2013-01-28T03:56:11Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-01-28T04:30:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-10T03:56:11Z)
+- Assessment of anxiety (procedure) (Date: 2013-06-10T04:34:00Z)
+- Screening for domestic abuse (procedure) (Date: 2013-06-10T05:02:59Z)
+- Assessment of substance use (procedure) (Date: 2013-06-10T05:43:18Z)
+- Screening for drug abuse (procedure) (Date: 2013-06-10T05:56:35Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-11-30T09:31:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-16T03:56:11Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-16T03:56:11Z)
+- Peripheral blood smear interpretation (Date: 2014-06-16T03:56:11Z)
+- Depression screening (procedure) (Date: 2014-06-16T04:41:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-16T04:56:20Z)
+- Assessment of substance use (procedure) (Date: 2014-06-16T05:25:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-06-16T05:37:52Z)
+- Review of systems (procedure) (Date: 2014-06-16T04:26:11Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-16T04:39:46Z)
+- Brief general examination (procedure) (Date: 2014-06-16T04:51:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-06-22T03:56:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-27T03:56:11Z)
+- Depression screening (procedure) (Date: 2016-06-27T04:35:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-27T04:48:03Z)
+- Removal of subcutaneous contraceptive (Date: 2016-11-28T03:56:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-03T03:56:11Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-03T03:56:11Z)
+- Depression screening (procedure) (Date: 2017-07-03T04:29:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-03T04:41:36Z)
+- Assessment of substance use (procedure) (Date: 2017-07-03T05:08:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-03T05:20:35Z)
+- Suture open wound (Date: 2017-10-06T05:35:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-29T03:56:11Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-29T03:56:11Z)
+- Depression screening (procedure) (Date: 2018-01-29T04:45:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-29T04:58:33Z)
+- Assessment of substance use (procedure) (Date: 2018-01-29T05:21:51Z)
+- Screening for drug abuse (procedure) (Date: 2018-01-29T05:35:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-09T03:56:11Z)
+- Depression screening (procedure) (Date: 2018-07-09T04:42:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-07-09T04:52:38Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2019-07-01T03:56:11Z)
+- Transfer to stepdown unit (procedure) (Date: 2019-07-01T04:26:11Z)
+- Admit to ICU (procedure) (Date: 2019-07-10T17:56:11Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2019-07-10T18:26:11Z)
+- Transfer to stepdown unit (procedure) (Date: 2019-07-12T17:56:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-29T03:56:11Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-29T03:56:11Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-29T04:31:37Z)
+- Depression screening (procedure) (Date: 2019-07-29T04:58:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-29T05:12:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-03T03:56:11Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-03T03:56:11Z)
+- Depression screening (procedure) (Date: 2020-08-03T04:29:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-03T04:42:30Z)
+- Assessment of substance use (procedure) (Date: 2020-08-03T05:10:51Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-03T05:23:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-09T03:56:11Z)
+- Depression screening (procedure) (Date: 2021-08-09T04:53:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-09T05:07:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-09T03:56:11Z: General examination of patient (procedure)
+- 2021-03-15T03:56:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-03T03:56:11Z: General examination of patient (procedure)
+- 2019-07-29T03:56:11Z: General examination of patient (procedure)
+- 2019-07-01T03:56:11Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-11-07T02:56:11Z QOLS: 1.0 {score}
+- 2021-11-07T02:56:11Z DALY: 1.2 a
+- 2021-11-07T02:56:11Z QALY: 52.8 a
+- 2021-08-09T05:32:52Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-09T04:53:44Z Are you a refugee?: No nan
+- 2021-08-09T04:53:44Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 2021-08-09T04:53:44Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-08-09T04:53:44Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-08-09T04:53:44Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
+- 2021-08-09T04:53:44Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

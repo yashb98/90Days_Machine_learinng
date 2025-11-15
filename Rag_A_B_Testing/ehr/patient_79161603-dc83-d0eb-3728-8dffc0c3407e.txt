@@ -1,0 +1,115 @@
+== PATIENT RECORD: Lachelle614 Tillman293 (ID: 79161603-dc83-d0eb-3728-8dffc0c3407e) ==
+
+== Demographics ==
+Patient ID: 79161603-dc83-d0eb-3728-8dffc0c3407e
+Name: Lachelle614 Tillman293
+Gender: F
+Birthdate: 1952-02-14
+Address: 212 Connelly Trail Apt 46
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Hyperlipidemia
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Part-time employment (finding)
+- Laceration of forearm
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-01T22:01:47Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-01T22:45:48Z)
+- Screening for domestic abuse (procedure) (Date: 2011-12-01T23:06:08Z)
+- Depression screening (procedure) (Date: 2011-12-01T23:36:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-01T23:50:58Z)
+- Colonoscopy (Date: 2012-02-14T23:16:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-06T22:01:47Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-06T22:47:44Z)
+- Screening for domestic abuse (procedure) (Date: 2012-12-06T23:10:03Z)
+- Depression screening (procedure) (Date: 2012-12-06T23:46:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-07T00:00:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-12T22:01:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-12T22:01:47Z)
+- Depression screening (procedure) (Date: 2013-12-12T22:34:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-12T22:48:17Z)
+- Assessment of substance use (procedure) (Date: 2013-12-12T23:12:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-12T23:26:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-18T22:01:47Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-18T23:00:37Z)
+- Depression screening (procedure) (Date: 2014-12-18T23:29:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-18T23:40:52Z)
+- Assessment of substance use (procedure) (Date: 2014-12-19T00:02:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-12-19T00:14:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-24T22:01:47Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-24T22:36:01Z)
+- Depression screening (procedure) (Date: 2015-12-24T22:57:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-24T23:10:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-29T22:01:47Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-29T22:01:47Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-29T22:31:55Z)
+- Depression screening (procedure) (Date: 2016-12-29T22:50:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-29T23:02:57Z)
+- Assessment of substance use (procedure) (Date: 2016-12-29T23:23:28Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-29T23:34:35Z)
+- Colonoscopy (Date: 2017-02-13T23:48:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-04T22:01:47Z)
+- Medication Reconciliation (procedure) (Date: 2018-01-04T22:01:47Z)
+- Depression screening (procedure) (Date: 2018-01-04T22:32:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-04T22:42:31Z)
+- Assessment of substance use (procedure) (Date: 2018-01-04T23:04:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-04T23:17:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-10T22:01:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-01-10T22:41:50Z)
+- Depression screening (procedure) (Date: 2019-01-10T23:05:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-10T23:19:23Z)
+- Assessment of substance use (procedure) (Date: 2019-01-10T23:47:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-11T00:01:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-16T22:01:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-16T22:01:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-16T22:36:05Z)
+- Depression screening (procedure) (Date: 2020-01-16T23:00:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-16T23:12:35Z)
+- Assessment of substance use (procedure) (Date: 2020-01-16T23:38:04Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-16T23:48:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-21T22:01:47Z)
+- Assessment of substance use (procedure) (Date: 2021-01-21T22:38:58Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-21T22:51:28Z)
+- Suture open wound (Date: 2021-09-02T22:01:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-20T22:01:47Z: Follow-up encounter
+- 2021-09-02T22:01:47Z: Emergency room admission (procedure)
+- 2021-02-18T22:01:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-28T22:01:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-21T22:01:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-20T22:01:47Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.3 U/L
+- 2021-10-20T22:01:47Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 24.0 U/L
+- 2021-10-20T22:01:47Z Triglycerides: 110.7 mg/dL
+- 2021-10-20T22:01:47Z Low Density Lipoprotein Cholesterol: 102.4 mg/dL
+- 2021-10-20T22:01:47Z High Density Lipoprotein Cholesterol: 48.2 mg/dL
+- 2021-10-20T22:01:47Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 100.0 U/L
+- 2021-10-20T22:01:47Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.8 mg/dL
+- 2021-10-20T22:01:47Z Globulin [Mass/volume] in Serum by calculation: 3.1 g/L
+- 2021-10-20T22:01:47Z Albumin [Mass/volume] in Serum or Plasma: 4.7 g/dL
+- 2021-10-20T22:01:47Z Protein [Mass/volume] in Serum or Plasma: 73.7 g/dL

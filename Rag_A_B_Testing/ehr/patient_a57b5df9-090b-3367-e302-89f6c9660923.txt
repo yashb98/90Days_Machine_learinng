@@ -1,0 +1,65 @@
+== PATIENT RECORD: Andrea7 Champlin946 (ID: a57b5df9-090b-3367-e302-89f6c9660923) ==
+
+== Demographics ==
+Patient ID: a57b5df9-090b-3367-e302-89f6c9660923
+Name: Andrea7 Champlin946
+Gender: M
+Birthdate: 1994-05-01
+Address: 435 Gleason Rue Unit 21
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-24T16:12:13Z)
+- Assessment of anxiety (procedure) (Date: 2012-06-24T17:00:21Z)
+- Depression screening (procedure) (Date: 2012-06-24T17:26:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-24T17:41:13Z)
+- Assessment of substance use (procedure) (Date: 2012-06-24T18:10:00Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-24T18:24:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-06-30T16:12:13Z)
+- Depression screening (procedure) (Date: 2013-06-30T16:42:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-06-30T16:57:06Z)
+- Assessment of substance use (procedure) (Date: 2013-06-30T17:17:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-06-30T17:30:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-03T16:12:13Z)
+- Assessment of anxiety (procedure) (Date: 2016-07-03T16:48:01Z)
+- Depression screening (procedure) (Date: 2016-07-03T17:14:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-03T17:27:39Z)
+- Assessment of substance use (procedure) (Date: 2016-07-03T17:55:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-03T18:05:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-07T16:12:13Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-07T16:12:13Z)
+- Depression screening (procedure) (Date: 2019-07-07T17:10:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-07T17:23:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-22T16:12:13Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-01T16:12:13Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-07-07T16:12:13Z: General examination of patient (procedure)
+- 2016-07-03T16:12:13Z: General examination of patient (procedure)
+- 2013-06-30T16:12:13Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-01T16:12:13Z QOLS: 1.0 {score}
+- 2021-05-01T16:12:13Z DALY: 0.0 a
+- 2021-05-01T16:12:13Z QALY: 26.0 a
+- 2020-05-01T16:12:13Z QALY: 25.0 a
+- 2020-05-01T16:12:13Z QOLS: 1.0 {score}
+- 2020-05-01T16:12:13Z DALY: 0.0 a
+- 2019-07-07T17:46:12Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2019-07-07T17:10:58Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 11304 /a
+- 2019-07-07T17:10:58Z Are you worried about losing your housing?: No nan
+- 2019-07-07T17:10:58Z What address do you live at?: 435 Gleason Rue Unit 21 nan

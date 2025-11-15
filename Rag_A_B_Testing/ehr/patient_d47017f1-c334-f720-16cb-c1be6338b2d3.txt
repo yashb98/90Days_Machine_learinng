@@ -1,0 +1,78 @@
+== PATIENT RECORD: Dorian295 Huel628 (ID: d47017f1-c334-f720-16cb-c1be6338b2d3) ==
+
+== Demographics ==
+Patient ID: d47017f1-c334-f720-16cb-c1be6338b2d3
+Name: Dorian295 Huel628
+Gender: F
+Birthdate: 2005-01-12
+Address: 919 Witting Fork Apt 15
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2013-10-30T05:33:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-07T04:33:19Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-28T04:33:19Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-02T04:33:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-02T04:33:19Z)
+- Depression screening (procedure) (Date: 2017-02-02T05:00:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-02-02T05:13:41Z)
+- Assessment of substance use (procedure) (Date: 2017-02-02T05:35:28Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-02-02T05:49:24Z)
+- Anticipatory guidance (procedure) (Date: 2017-02-02T06:05:54Z)
+- Measurement of respiratory function (procedure) (Date: 2017-10-28T12:33:19Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-09T04:33:19Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-09T04:33:19Z)
+- Depression screening (procedure) (Date: 2017-11-09T04:51:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-09T05:01:43Z)
+- Depression screening (procedure) (Date: 2018-02-08T04:33:19Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-08T04:33:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-02-08T04:47:14Z)
+- Assessment of substance use (procedure) (Date: 2018-02-08T05:14:55Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-02-08T05:26:00Z)
+- Anticipatory guidance (procedure) (Date: 2018-02-08T05:37:37Z)
+- Depression screening (procedure) (Date: 2019-02-14T04:33:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-02-14T04:47:29Z)
+- Assessment of substance use (procedure) (Date: 2019-02-14T05:10:59Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-02-14T05:24:31Z)
+- Anticipatory guidance (procedure) (Date: 2019-02-14T05:51:06Z)
+- Depression screening (procedure) (Date: 2020-02-20T04:33:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-02-20T04:43:45Z)
+- Assessment of substance use (procedure) (Date: 2020-02-20T05:07:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-02-20T05:19:36Z)
+- Anticipatory guidance (procedure) (Date: 2020-02-20T05:41:18Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-25T04:33:19Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-25T04:33:19Z)
+- Depression screening (procedure) (Date: 2021-02-25T05:02:10Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-02-25T05:13:43Z)
+- Assessment of substance use (procedure) (Date: 2021-02-25T05:38:40Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-02-25T05:53:39Z)
+- Anticipatory guidance (procedure) (Date: 2021-02-25T06:16:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-22T04:33:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-01T04:33:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-25T04:33:19Z: Well child visit (procedure)
+- 2020-02-20T04:33:19Z: Well child visit (procedure)
+- 2019-02-14T04:33:19Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-25T05:38:40Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 2021-02-25T05:02:10Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-02-25T04:33:19Z Platelets [#/volume] in Blood by Automated count: 358.5 10*3/uL
+- 2021-02-25T04:33:19Z Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL
+- 2021-02-25T04:33:19Z MCH [Entitic mass] by Automated count: 32.0 pg
+- 2021-02-25T04:33:19Z MCV [Entitic volume] by Automated count: 94.6 fL
+- 2021-02-25T04:33:19Z Hematocrit [Volume Fraction] of Blood by Automated count: 44.6 %
+- 2021-02-25T04:33:19Z Hemoglobin [Mass/volume] in Blood: 17.0 g/dL
+- 2021-02-25T04:33:19Z Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- 2021-02-25T04:33:19Z Respiratory rate: 14.0 /min

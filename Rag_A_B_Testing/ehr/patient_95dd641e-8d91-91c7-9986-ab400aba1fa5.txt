@@ -1,0 +1,48 @@
+== PATIENT RECORD: Mel236 Labadie908 (ID: 95dd641e-8d91-91c7-9986-ab400aba1fa5) ==
+
+== Demographics ==
+Patient ID: 95dd641e-8d91-91c7-9986-ab400aba1fa5
+Name: Mel236 Labadie908
+Gender: M
+Birthdate: 2010-02-05
+Address: 116 Rau Stravenue Unit 3
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bacterial sinusitis (disorder)
+- Sprain of wrist
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-14T00:21:56Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-11T00:21:56Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-28T00:21:56Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-03T00:21:56Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-15T00:21:56Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-20T00:21:56Z: Well child visit (procedure)
+- 2020-02-15T00:21:56Z: Well child visit (procedure)
+- 2019-02-09T00:21:56Z: Well child visit (procedure)
+- 2018-02-03T00:21:56Z: Well child visit (procedure)
+- 2017-01-28T00:21:56Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-20T00:21:56Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-02-20T00:21:56Z Platelet mean volume [Entitic volume] in Blood by Automated count: 11.8 fL
+- 2021-02-20T00:21:56Z Diastolic Blood Pressure: 80.0 mm[Hg]
+- 2021-02-20T00:21:56Z Systolic Blood Pressure: 111.0 mm[Hg]
+- 2021-02-20T00:21:56Z Heart rate: 72.0 /min
+- 2021-02-20T00:21:56Z Respiratory rate: 14.0 /min
+- 2021-02-20T00:21:56Z Leukocytes [#/volume] in Blood by Automated count: 10.4 10*3/uL
+- 2021-02-20T00:21:56Z Erythrocytes [#/volume] in Blood by Automated count: 4.9 10*6/uL
+- 2021-02-20T00:21:56Z Hemoglobin [Mass/volume] in Blood: 15.2 g/dL
+- 2021-02-20T00:21:56Z Hematocrit [Volume Fraction] of Blood by Automated count: 49.0 %

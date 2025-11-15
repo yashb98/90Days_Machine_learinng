@@ -1,0 +1,150 @@
+== PATIENT RECORD: Susana117 Meléndez48 (ID: 7bc66758-5d59-0b38-1532-29a33fa146c1) ==
+
+== Demographics ==
+Patient ID: 7bc66758-5d59-0b38-1532-29a33fa146c1
+Name: Susana117 Meléndez48
+Gender: F
+Birthdate: 1911-07-14
+Address: 435 Bode Ferry Apt 60
+Marital Status: M
+
+== Allergies ==
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Refugee (person)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Tubal pregnancy
+- Rheumatoid arthritis
+- Social isolation (finding)
+- Chronic sinusitis (disorder)
+- Polyp of colon
+- Osteoporosis (disorder)
+- Chronic intractable migraine without aura
+- Impacted molars
+- Chronic pain
+- Atrial Fibrillation
+- Drug overdose
+- Stress (finding)
+- Fracture of forearm
+- Pathological fracture due to osteoporosis (disorder)
+- Homeless (finding)
+- Acute viral pharyngitis (disorder)
+- Sprain of ankle
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Naproxen 500 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2012-05-04T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-05-04T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-04T18:47:25Z)
+- Depression screening (procedure) (Date: 2012-05-04T19:33:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-04T19:43:59Z)
+- Catheter ablation of tissue of heart (Date: 2013-05-10T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-10T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-05-10T19:35:57Z)
+- Depression screening (procedure) (Date: 2013-05-10T19:51:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-10T20:05:31Z)
+- Upper arm X-ray (Date: 2013-10-09T01:07:36Z)
+- Bone immobilization (Date: 2013-10-09T01:07:36Z)
+- Electrical cardioversion (Date: 2014-05-16T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-16T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-16T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-05-16T19:39:17Z)
+- Depression screening (procedure) (Date: 2014-05-16T19:55:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-16T20:06:54Z)
+- Information gathering (procedure) (Date: 2014-06-08T18:47:25Z)
+- Electrical cardioversion (Date: 2014-07-25T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-25T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-25T19:29:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-07-25T19:47:08Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-25T20:15:34Z)
+- Depression screening (procedure) (Date: 2014-07-25T20:56:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-25T21:09:26Z)
+- Information gathering (procedure) (Date: 2014-09-06T18:47:25Z)
+- Information gathering (procedure) (Date: 2014-11-05T18:47:25Z)
+- Information gathering (procedure) (Date: 2014-12-05T18:47:25Z)
+- Information gathering (procedure) (Date: 2015-01-04T18:47:25Z)
+- Information gathering (procedure) (Date: 2015-02-03T18:47:25Z)
+- Catheter ablation of tissue of heart (Date: 2015-05-22T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-22T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-22T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-05-22T19:27:19Z)
+- Screening for domestic abuse (procedure) (Date: 2015-05-22T19:49:23Z)
+- Depression screening (procedure) (Date: 2015-05-22T20:24:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-22T20:36:37Z)
+- Electrical cardioversion (Date: 2016-05-27T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-27T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-05-27T19:43:26Z)
+- Depression screening (procedure) (Date: 2016-05-27T20:07:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-27T20:21:04Z)
+- Electrical cardioversion (Date: 2017-06-02T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-02T18:47:25Z)
+- Depression screening (procedure) (Date: 2017-06-02T19:24:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-02T19:35:22Z)
+- Electrical cardioversion (Date: 2018-06-08T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-08T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-06-08T19:31:09Z)
+- Depression screening (procedure) (Date: 2018-06-08T19:55:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-08T20:08:01Z)
+- Catheter ablation of tissue of heart (Date: 2019-02-08T18:47:25Z)
+- Measurement of respiratory function (procedure) (Date: 2019-02-01T23:47:25Z)
+- Electrical cardioversion (Date: 2019-02-15T18:47:25Z)
+- Electrical cardioversion (Date: 2019-02-22T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-22T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-22T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-22T19:37:34Z)
+- Screening for domestic abuse (procedure) (Date: 2019-02-22T19:53:13Z)
+- Depression screening (procedure) (Date: 2019-02-22T20:18:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-22T20:31:21Z)
+- Electrical cardioversion (Date: 2019-06-14T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-14T18:47:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-06-14T19:26:14Z)
+- Electrical cardioversion (Date: 2019-10-11T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-11T18:47:25Z)
+- Electrical cardioversion (Date: 2020-06-19T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-19T18:47:25Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-19T18:47:25Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-19T19:32:54Z)
+- Depression screening (procedure) (Date: 2020-06-19T20:03:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-19T20:16:21Z)
+- Electrical cardioversion (Date: 2021-06-25T18:47:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-25T18:47:25Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-25T19:29:37Z)
+- Depression screening (procedure) (Date: 2021-06-25T19:51:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-25T20:03:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-25T18:47:25Z: General examination of patient (procedure)
+- 2021-06-18T18:47:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-28T18:47:25Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-03T18:47:25Z: Encounter for problem (procedure)
+- 2021-02-24T18:47:25Z: Emergency Room Admission
+
+== Recent Observations (Last 10) ==
+- 2021-07-14T17:47:25Z QOLS: 0.7 {score}
+- 2021-07-14T17:47:25Z QALY: 84.8 a
+- 2021-07-14T17:47:25Z DALY: 24.2 a
+- 2021-06-25T20:24:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-06-25T19:51:37Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-06-25T19:29:37Z What is your housing situation today?: I have housing nan
+- 2021-06-25T19:29:37Z Are you worried about losing your housing?: No nan
+- 2021-06-25T19:29:37Z What address do you live at?: 435 Bode Ferry Apt 60 nan
+- 2021-06-25T19:29:37Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-25T19:29:37Z What is your current work situation?: Full-time work nan

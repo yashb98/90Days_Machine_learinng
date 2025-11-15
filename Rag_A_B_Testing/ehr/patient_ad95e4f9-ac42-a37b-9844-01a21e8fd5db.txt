@@ -1,0 +1,120 @@
+== PATIENT RECORD: Rachell479 Lesch175 (ID: ad95e4f9-ac42-a37b-9844-01a21e8fd5db) ==
+
+== Demographics ==
+Patient ID: ad95e4f9-ac42-a37b-9844-01a21e8fd5db
+Name: Rachell479 Lesch175
+Gender: F
+Birthdate: 2006-04-19
+Address: 587 Daugherty Brook
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Tree pollen (substance)
+- Eggs (edible) (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Perennial allergic rhinitis with seasonal variation
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-05T01:09:35Z)
+- Throat culture (procedure) (Date: 2014-03-25T02:09:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-03T01:09:35Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-17T01:09:35Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-28T01:09:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-10T01:09:35Z)
+- Depression screening (procedure) (Date: 2018-05-10T01:32:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-05-10T01:43:18Z)
+- Allergy screening test (Date: 2019-04-25T01:09:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-16T01:09:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-16T01:09:35Z)
+- Depression screening (procedure) (Date: 2019-05-16T01:25:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-16T01:37:53Z)
+- Subcutaneous immunotherapy (Date: 2019-05-21T01:46:21Z)
+- Subcutaneous immunotherapy (Date: 2019-06-13T02:23:46Z)
+- Subcutaneous immunotherapy (Date: 2019-07-10T02:54:19Z)
+- Subcutaneous immunotherapy (Date: 2019-08-04T03:17:04Z)
+- Throat culture (procedure) (Date: 2019-08-09T17:09:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-29T01:09:35Z)
+- Subcutaneous immunotherapy (Date: 2019-08-28T03:53:17Z)
+- Depression screening (procedure) (Date: 2019-08-29T01:30:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-29T01:45:28Z)
+- Assessment of substance use (procedure) (Date: 2019-08-29T02:11:40Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-29T02:22:46Z)
+- Anticipatory guidance (procedure) (Date: 2019-08-29T02:42:36Z)
+- Subcutaneous immunotherapy (Date: 2019-09-19T04:36:04Z)
+- Subcutaneous immunotherapy (Date: 2019-10-13T05:28:39Z)
+- Subcutaneous immunotherapy (Date: 2019-11-03T06:13:06Z)
+- Subcutaneous immunotherapy (Date: 2019-11-25T07:03:20Z)
+- Subcutaneous immunotherapy (Date: 2019-12-18T07:23:00Z)
+- Subcutaneous immunotherapy (Date: 2020-01-10T08:15:36Z)
+- Subcutaneous immunotherapy (Date: 2020-02-04T08:31:43Z)
+- Subcutaneous immunotherapy (Date: 2020-03-01T09:06:57Z)
+- Subcutaneous immunotherapy (Date: 2020-03-22T09:37:28Z)
+- Subcutaneous immunotherapy (Date: 2020-04-18T10:04:57Z)
+- Subcutaneous immunotherapy (Date: 2020-05-12T10:38:32Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-21T01:09:35Z)
+- Depression screening (procedure) (Date: 2020-05-21T01:28:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-21T01:38:46Z)
+- Subcutaneous immunotherapy (Date: 2020-06-07T11:29:29Z)
+- Subcutaneous immunotherapy (Date: 2020-06-30T11:45:20Z)
+- Subcutaneous immunotherapy (Date: 2020-07-23T12:35:36Z)
+- Subcutaneous immunotherapy (Date: 2020-08-17T13:13:15Z)
+- Subcutaneous immunotherapy (Date: 2020-09-08T13:35:22Z)
+- Subcutaneous immunotherapy (Date: 2020-10-05T14:29:51Z)
+- Subcutaneous immunotherapy (Date: 2020-10-31T15:08:11Z)
+- Subcutaneous immunotherapy (Date: 2020-11-22T15:55:43Z)
+- Subcutaneous immunotherapy (Date: 2020-12-16T16:13:00Z)
+- Subcutaneous immunotherapy (Date: 2021-01-11T16:58:51Z)
+- Subcutaneous immunotherapy (Date: 2021-02-02T17:41:54Z)
+- Subcutaneous immunotherapy (Date: 2021-02-26T18:00:47Z)
+- Subcutaneous immunotherapy (Date: 2021-03-25T18:53:51Z)
+- Subcutaneous immunotherapy (Date: 2021-04-15T19:21:35Z)
+- Subcutaneous immunotherapy (Date: 2021-05-11T19:59:09Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-27T01:09:35Z)
+- Depression screening (procedure) (Date: 2021-05-27T01:31:31Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-27T01:45:41Z)
+- Assessment of substance use (procedure) (Date: 2021-05-27T02:06:55Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-27T02:19:40Z)
+- Anticipatory guidance (procedure) (Date: 2021-05-27T02:42:02Z)
+- Subcutaneous immunotherapy (Date: 2021-06-07T20:34:48Z)
+- Subcutaneous immunotherapy (Date: 2021-07-02T21:06:37Z)
+- Subcutaneous immunotherapy (Date: 2021-07-25T21:57:27Z)
+- Subcutaneous immunotherapy (Date: 2021-08-19T22:40:10Z)
+- Subcutaneous immunotherapy (Date: 2021-09-10T23:37:29Z)
+- Subcutaneous immunotherapy (Date: 2021-10-06T23:53:56Z)
+- Subcutaneous immunotherapy (Date: 2021-11-03T00:18:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-03T00:18:23Z: Outpatient procedure
+- 2021-10-06T23:53:56Z: Outpatient procedure
+- 2021-09-10T23:37:29Z: Outpatient procedure
+- 2021-08-19T22:40:10Z: Outpatient procedure
+- 2021-07-25T21:57:27Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-05-27T02:06:55Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-05-27T01:31:31Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-05-27T01:09:35Z Body Weight: 57.8 kg
+- 2021-05-27T01:09:35Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-05-27T01:09:35Z Body Height: 172.7 cm
+- 2021-05-27T01:09:35Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-27T01:09:35Z Body Mass Index: 19.4 kg/m2
+- 2021-05-27T01:09:35Z Body mass index (BMI) [Percentile] Per age and gender: 41.6 %
+- 2021-05-27T01:09:35Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-05-27T01:09:35Z Systolic Blood Pressure: 106.0 mm[Hg]

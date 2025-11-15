@@ -1,0 +1,173 @@
+== PATIENT RECORD: Salvador46 Tromp100 (ID: eebbb6c9-87b3-9978-5eab-84edacbccc7c) ==
+
+== Demographics ==
+Patient ID: eebbb6c9-87b3-9978-5eab-84edacbccc7c
+Name: Salvador46 Tromp100
+Gender: M
+Birthdate: 1999-02-25
+Address: 218 Vandervort Lane Unit 20
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Perennial allergic rhinitis with seasonal variation
+- Risk activity involvement (finding)
+- Severe anxiety (panic) (finding
+- Acute viral pharyngitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Stress (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+
+== Past Procedures ==
+- Allergy screening test (Date: 2012-03-01T10:57:14Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-22T10:57:14Z)
+- Assessment of substance use (procedure) (Date: 2012-03-22T11:13:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-03-22T11:27:09Z)
+- Health risks education (procedure) (Date: 2012-03-22T11:53:48Z)
+- Subcutaneous immunotherapy (Date: 2012-03-24T11:29:17Z)
+- Subcutaneous immunotherapy (Date: 2012-04-18T12:01:54Z)
+- Subcutaneous immunotherapy (Date: 2012-05-11T12:29:24Z)
+- Subcutaneous immunotherapy (Date: 2012-06-07T12:48:07Z)
+- Subcutaneous immunotherapy (Date: 2012-06-28T13:22:41Z)
+- Subcutaneous immunotherapy (Date: 2012-07-20T13:59:11Z)
+- Subcutaneous immunotherapy (Date: 2012-08-15T14:21:16Z)
+- Subcutaneous immunotherapy (Date: 2012-09-09T14:45:09Z)
+- Subcutaneous immunotherapy (Date: 2012-10-03T15:26:10Z)
+- Subcutaneous immunotherapy (Date: 2012-10-28T15:42:55Z)
+- Subcutaneous immunotherapy (Date: 2012-11-24T16:17:47Z)
+- Subcutaneous immunotherapy (Date: 2012-12-21T16:54:15Z)
+- Subcutaneous immunotherapy (Date: 2013-01-12T17:16:57Z)
+- Subcutaneous immunotherapy (Date: 2013-02-04T17:32:14Z)
+- Subcutaneous immunotherapy (Date: 2013-03-01T18:29:26Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-28T10:57:14Z)
+- Subcutaneous immunotherapy (Date: 2013-03-26T19:25:48Z)
+- Depression screening (procedure) (Date: 2013-03-28T11:12:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-03-28T11:27:17Z)
+- Subcutaneous immunotherapy (Date: 2013-04-18T19:45:04Z)
+- Subcutaneous immunotherapy (Date: 2013-05-14T20:43:21Z)
+- Subcutaneous immunotherapy (Date: 2013-06-09T21:41:31Z)
+- Subcutaneous immunotherapy (Date: 2013-07-05T22:32:22Z)
+- Subcutaneous immunotherapy (Date: 2013-07-30T22:52:12Z)
+- Subcutaneous immunotherapy (Date: 2013-08-21T23:33:50Z)
+- Subcutaneous immunotherapy (Date: 2013-09-15T00:16:28Z)
+- Subcutaneous immunotherapy (Date: 2013-10-08T01:11:14Z)
+- Subcutaneous immunotherapy (Date: 2013-11-03T01:56:41Z)
+- Subcutaneous immunotherapy (Date: 2013-11-29T02:45:45Z)
+- Subcutaneous immunotherapy (Date: 2013-12-21T03:22:19Z)
+- Subcutaneous immunotherapy (Date: 2014-01-16T03:51:15Z)
+- Subcutaneous immunotherapy (Date: 2014-02-07T04:19:14Z)
+- Subcutaneous immunotherapy (Date: 2014-03-01T04:46:11Z)
+- Assessment of substance use (procedure) (Date: 2014-04-03T10:57:14Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-03T10:57:14Z)
+- Subcutaneous immunotherapy (Date: 2014-03-28T05:23:24Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-04-03T11:10:11Z)
+- Anticipatory guidance (procedure) (Date: 2014-04-03T11:22:48Z)
+- Subcutaneous immunotherapy (Date: 2014-04-19T05:43:17Z)
+- Subcutaneous immunotherapy (Date: 2014-05-16T06:28:01Z)
+- Subcutaneous immunotherapy (Date: 2014-06-08T06:56:09Z)
+- Subcutaneous immunotherapy (Date: 2014-07-04T07:14:34Z)
+- Subcutaneous immunotherapy (Date: 2014-07-30T07:30:17Z)
+- Subcutaneous immunotherapy (Date: 2014-08-24T07:48:20Z)
+- Subcutaneous immunotherapy (Date: 2014-09-16T08:37:02Z)
+- Subcutaneous immunotherapy (Date: 2014-10-11T09:02:58Z)
+- Subcutaneous immunotherapy (Date: 2014-11-07T09:20:17Z)
+- Subcutaneous immunotherapy (Date: 2014-12-03T09:48:12Z)
+- Subcutaneous immunotherapy (Date: 2014-12-24T10:07:41Z)
+- Subcutaneous immunotherapy (Date: 2015-01-20T10:41:05Z)
+- Subcutaneous immunotherapy (Date: 2015-02-12T11:25:37Z)
+- Subcutaneous immunotherapy (Date: 2015-03-10T12:06:52Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-09T10:57:14Z)
+- Subcutaneous immunotherapy (Date: 2015-04-02T12:33:18Z)
+- Depression screening (procedure) (Date: 2015-04-09T11:16:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-04-09T11:29:43Z)
+- Subcutaneous immunotherapy (Date: 2015-04-24T13:29:53Z)
+- Subcutaneous immunotherapy (Date: 2015-05-20T13:52:05Z)
+- Subcutaneous immunotherapy (Date: 2015-06-16T14:38:49Z)
+- Subcutaneous immunotherapy (Date: 2015-07-12T15:34:02Z)
+- Subcutaneous immunotherapy (Date: 2015-08-07T15:57:37Z)
+- Subcutaneous immunotherapy (Date: 2015-09-02T16:28:56Z)
+- Subcutaneous immunotherapy (Date: 2015-09-23T17:04:07Z)
+- Subcutaneous immunotherapy (Date: 2015-10-20T17:25:22Z)
+- Subcutaneous immunotherapy (Date: 2015-11-15T18:24:28Z)
+- Subcutaneous immunotherapy (Date: 2015-12-07T18:43:40Z)
+- Subcutaneous immunotherapy (Date: 2016-01-01T19:23:37Z)
+- Subcutaneous immunotherapy (Date: 2016-01-25T19:46:25Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-11T10:57:14Z)
+- Depression screening (procedure) (Date: 2016-02-11T11:14:11Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-02-11T11:26:28Z)
+- Assessment of substance use (procedure) (Date: 2016-02-11T11:49:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-02-11T12:02:03Z)
+- Anticipatory guidance (procedure) (Date: 2016-02-11T12:23:08Z)
+- Subcutaneous immunotherapy (Date: 2016-02-21T20:46:13Z)
+- Subcutaneous immunotherapy (Date: 2016-03-17T21:26:37Z)
+- Depression screening (procedure) (Date: 2016-04-14T10:57:14Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-14T10:57:14Z)
+- Allergy screening test (Date: 2016-04-08T22:10:37Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-04-14T11:10:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-20T10:57:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-20T10:57:14Z)
+- Assessment of substance use (procedure) (Date: 2017-04-20T11:48:32Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-20T12:01:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-26T10:57:14Z)
+- Depression screening (procedure) (Date: 2018-04-26T11:42:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-26T11:55:32Z)
+- Assessment of substance use (procedure) (Date: 2018-04-26T12:24:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-26T12:36:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-02T10:57:14Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-02T10:57:14Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-02T11:44:42Z)
+- Depression screening (procedure) (Date: 2019-05-02T12:28:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-02T12:39:08Z)
+- Assessment of substance use (procedure) (Date: 2019-05-02T12:59:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-02T13:14:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-07T10:57:14Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-07T11:46:49Z)
+- Depression screening (procedure) (Date: 2020-05-07T12:02:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-07T12:15:52Z)
+- Assessment of substance use (procedure) (Date: 2020-05-07T12:43:45Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-07T12:53:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-13T10:57:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-13T10:57:14Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-13T11:27:24Z)
+- Depression screening (procedure) (Date: 2021-05-13T12:00:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-13T12:13:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-08T19:57:14Z: Asthma follow-up
+- 2021-10-07T10:57:14Z: Emergency hospital admission for asthma
+- 2021-05-13T10:57:14Z: General examination of patient (procedure)
+- 2021-04-10T10:57:14Z: Asthma follow-up
+- 2021-03-18T10:57:14Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-13T12:37:00Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-05-13T12:00:10Z Total score [HARK]: 0.0 {score}
+- 2021-05-13T11:27:24Z What address do you live at?: 218 Vandervort Lane Unit 20 nan
+- 2021-05-13T11:27:24Z What language are you most comfortable speaking?: English nan
+- 2021-05-13T11:27:24Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-05-13T11:27:24Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan
+- 2021-05-13T11:27:24Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-05-13T11:27:24Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-05-13T11:27:24Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 919753 /a
+- 2021-05-13T11:27:24Z What is your main insurance?: Private insurance nan

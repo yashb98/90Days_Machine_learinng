@@ -1,0 +1,109 @@
+== PATIENT RECORD: Kiyoko456 Reilly981 (ID: f42c7ebb-76cb-c999-e713-73169d94ccce) ==
+
+== Demographics ==
+Patient ID: f42c7ebb-76cb-c999-e713-73169d94ccce
+Name: Kiyoko456 Reilly981
+Gender: F
+Birthdate: 2001-07-11
+Address: 236 Crist Brook
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Body mass index 40+ - severely obese (finding)
+- Viral sinusitis (disorder)
+- Risk activity involvement (finding)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Fracture of clavicle
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Jolivette 28 Day Pack
+- Camila 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2013-07-31T22:47:50Z)
+- Depression screening (procedure) (Date: 2013-07-31T23:11:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-31T23:23:24Z)
+- Assessment of substance use (procedure) (Date: 2013-07-31T23:48:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-07-31T23:59:15Z)
+- Anticipatory guidance (procedure) (Date: 2013-08-01T00:11:23Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-06T22:47:50Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-06T22:47:50Z)
+- Depression screening (procedure) (Date: 2014-08-06T23:08:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-08-06T23:22:27Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-12T22:47:50Z)
+- Depression screening (procedure) (Date: 2015-08-12T23:16:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-08-12T23:29:21Z)
+- Assessment of substance use (procedure) (Date: 2016-06-01T22:47:50Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-01T22:47:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-01T23:02:11Z)
+- Anticipatory guidance (procedure) (Date: 2016-06-01T23:29:32Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-17T22:47:50Z)
+- Depression screening (procedure) (Date: 2016-08-17T23:14:01Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-08-17T23:24:11Z)
+- Assessment of substance use (procedure) (Date: 2016-08-17T23:48:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-08-18T00:00:07Z)
+- Anticipatory guidance (procedure) (Date: 2016-08-18T00:24:46Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-23T22:47:50Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-23T22:47:50Z)
+- Depression screening (procedure) (Date: 2017-08-23T23:09:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-23T23:19:40Z)
+- Assessment of substance use (procedure) (Date: 2017-08-23T23:43:54Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-08-23T23:57:34Z)
+- Anticipatory guidance (procedure) (Date: 2017-08-24T00:17:22Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-29T22:47:50Z)
+- Assessment of substance use (procedure) (Date: 2018-08-29T23:05:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-29T23:15:56Z)
+- Health risks education (procedure) (Date: 2018-08-29T23:36:13Z)
+- Intramuscular injection (Date: 2019-06-20T22:47:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-04T22:47:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-04T22:47:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-04T23:38:18Z)
+- Assessment of substance use (procedure) (Date: 2019-09-04T23:54:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-09-05T00:04:53Z)
+- Intramuscular injection (Date: 2019-10-02T22:47:50Z)
+- Intramuscular injection (Date: 2020-01-01T22:47:50Z)
+- Intramuscular injection (Date: 2020-04-01T22:47:50Z)
+- Intramuscular injection (Date: 2020-07-01T22:47:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-09T22:47:50Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-09T23:28:18Z)
+- Depression screening (procedure) (Date: 2020-09-09T23:57:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-10T00:07:11Z)
+- Assessment of substance use (procedure) (Date: 2020-09-10T00:29:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-10T00:40:58Z)
+- Intramuscular injection (Date: 2020-09-30T22:47:50Z)
+- Intramuscular injection (Date: 2020-12-30T22:47:50Z)
+- Intramuscular injection (Date: 2021-03-31T22:47:50Z)
+- Intramuscular injection (Date: 2021-06-30T22:47:50Z)
+- Clavicle X-ray (Date: 2021-06-23T23:09:46Z)
+- Admission to orthopedic department (Date: 2021-06-23T23:09:46Z)
+- Bone density scan (procedure) (Date: 2021-06-24T01:08:46Z)
+- Intramuscular injection (Date: 2021-09-29T22:47:50Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-29T22:47:50Z: Patient encounter procedure
+- 2021-09-26T01:08:46Z: Encounter for 'check-up'
+- 2021-06-30T22:47:50Z: Patient encounter procedure
+- 2021-06-23T23:09:46Z: Emergency room admission (procedure)
+- 2021-03-31T22:47:50Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-07-11T22:47:50Z QOLS: 1.0 {score}
+- 2021-07-11T22:47:50Z DALY: 0.0 a
+- 2021-07-11T22:47:50Z QALY: 19.0 a
+- 2021-06-24T01:08:46Z DXA [T-score] Bone density: 0.4 {T-score}
+- 2020-09-10T01:02:54Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-09-10T00:29:58Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-09-09T23:57:08Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-09-09T23:28:18Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2020-09-09T23:28:18Z What is your current work situation?: Full-time work nan
+- 2020-09-09T23:28:18Z What is your main insurance?: Private insurance nan

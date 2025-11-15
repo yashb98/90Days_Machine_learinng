@@ -1,0 +1,86 @@
+== PATIENT RECORD: Parker433 Hudson301 (ID: c6861ca8-bf6b-8912-57d6-68df88cbe481) ==
+
+== Demographics ==
+Patient ID: c6861ca8-bf6b-8912-57d6-68df88cbe481
+Name: Parker433 Hudson301
+Gender: M
+Birthdate: 1995-05-13
+Address: 815 Hermann Course Suite 16
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Childhood asthma
+- Received higher education (finding)
+- Not in labor force (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Full-time employment (finding)
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Part-time employment (finding)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-06-30T07:01:45Z)
+- Medication Reconciliation (procedure) (Date: 2012-06-30T07:01:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-06-30T07:13:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-06T07:01:45Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-06T07:37:14Z)
+- Depression screening (procedure) (Date: 2013-07-06T08:04:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-06T08:19:43Z)
+- Assessment of substance use (procedure) (Date: 2013-07-06T08:47:25Z)
+- Screening for drug abuse (procedure) (Date: 2013-07-06T08:59:51Z)
+- Throat culture (procedure) (Date: 2014-02-14T14:01:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-12T07:01:45Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-12T07:43:32Z)
+- Depression screening (procedure) (Date: 2014-07-12T08:00:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-12T08:14:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-31T07:01:45Z)
+- Depression screening (procedure) (Date: 2015-01-31T07:37:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-31T07:51:09Z)
+- Assessment of substance use (procedure) (Date: 2015-01-31T08:18:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-01-31T08:28:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-15T07:01:45Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-15T07:01:45Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-15T07:55:23Z)
+- Depression screening (procedure) (Date: 2017-07-15T08:13:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-15T08:27:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-27T07:01:45Z)
+- Screening for domestic abuse (procedure) (Date: 2019-07-27T07:36:58Z)
+- Depression screening (procedure) (Date: 2019-07-27T08:17:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-27T08:32:28Z)
+- Assessment of substance use (procedure) (Date: 2019-07-27T08:59:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-07-27T09:09:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-07-18T07:01:45Z)
+- Assessment of anxiety (procedure) (Date: 2020-07-18T07:33:35Z)
+- Screening for domestic abuse (procedure) (Date: 2020-07-18T07:52:57Z)
+- Depression screening (procedure) (Date: 2020-07-18T08:29:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-07-18T08:43:29Z)
+- Assessment of substance use (procedure) (Date: 2020-07-18T09:08:18Z)
+- Screening for drug abuse (procedure) (Date: 2020-07-18T09:19:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-17T07:01:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-26T07:01:45Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-07-18T07:01:45Z: General examination of patient (procedure)
+- 2019-07-27T07:01:45Z: Encounter for check up (procedure)
+- 2019-07-18T09:01:45Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-13T07:01:45Z QOLS: 1.0 {score}
+- 2021-05-13T07:01:45Z DALY: 0.3 a
+- 2021-05-13T07:01:45Z QALY: 24.7 a
+- 2020-07-18T09:41:24Z Total score [DAST-10]: 2.0 {score}
+- 2020-07-18T09:08:18Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-07-18T08:29:17Z Total score [HARK]: 0.0 {score}
+- 2020-07-18T07:52:57Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-07-18T07:33:35Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 67225 /a
+- 2020-07-18T07:33:35Z Are you worried about losing your housing?: No nan
+- 2020-07-18T07:33:35Z What address do you live at?: 815 Hermann Course Suite 16 nan

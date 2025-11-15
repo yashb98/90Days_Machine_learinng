@@ -1,0 +1,123 @@
+== PATIENT RECORD: Krystyna791 VonRueden376 (ID: d02b2ca5-7e63-1c3d-505f-3a7218bac46d) ==
+
+== Demographics ==
+Patient ID: d02b2ca5-7e63-1c3d-505f-3a7218bac46d
+Name: Krystyna791 VonRueden376
+Gender: F
+Birthdate: 1960-05-29
+Address: 699 Harris Grove
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Hypertension
+- Social isolation (finding)
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Miscarriage in first trimester
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Chronic low back pain (finding)
+- Streptococcal sore throat (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-13T04:46:50Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-13T04:46:50Z)
+- Depression screening (procedure) (Date: 2012-05-13T05:37:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-13T05:49:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-19T04:46:50Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-19T05:26:52Z)
+- Depression screening (procedure) (Date: 2013-05-19T05:52:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-19T06:03:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-19T06:23:18Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-07T04:46:50Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-10T05:32:00Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-13T06:30:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-16T07:27:17Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-19T08:22:47Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-22T09:11:56Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-25T10:10:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-28T11:08:57Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-03T12:02:06Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-06T12:54:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-25T04:46:50Z)
+- Depression screening (procedure) (Date: 2014-05-25T05:38:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-25T05:51:53Z)
+- Assessment of substance use (procedure) (Date: 2014-05-25T06:15:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-05-25T06:27:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-31T04:46:50Z)
+- Colonoscopy (Date: 2015-05-30T05:13:22Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-31T04:46:50Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-31T05:36:54Z)
+- Depression screening (procedure) (Date: 2015-05-31T05:53:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-31T06:05:55Z)
+- Assessment of substance use (procedure) (Date: 2015-05-31T06:34:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-05-31T06:49:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-05T04:46:50Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-05T04:46:50Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-05T05:35:35Z)
+- Depression screening (procedure) (Date: 2016-06-05T05:54:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-05T06:06:42Z)
+- Assessment of substance use (procedure) (Date: 2016-06-05T06:29:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-06-05T06:41:39Z)
+- Throat culture (procedure) (Date: 2017-01-27T13:46:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-11T04:46:50Z)
+- Depression screening (procedure) (Date: 2017-06-11T05:44:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-11T05:58:54Z)
+- Assessment of substance use (procedure) (Date: 2017-06-11T06:23:03Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-11T06:33:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-17T04:46:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-17T04:46:50Z)
+- Depression screening (procedure) (Date: 2018-06-17T05:28:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-17T05:38:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-23T04:46:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-23T04:46:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-23T05:39:31Z)
+- Depression screening (procedure) (Date: 2019-06-23T06:07:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-23T06:19:06Z)
+- Colonoscopy (Date: 2020-05-29T05:54:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-28T04:46:50Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-28T05:22:43Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-28T05:45:40Z)
+- Depression screening (procedure) (Date: 2020-06-28T06:17:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-28T06:29:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-28T06:58:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-07-04T04:46:50Z)
+- Assessment of anxiety (procedure) (Date: 2021-07-04T05:32:21Z)
+- Depression screening (procedure) (Date: 2021-07-04T05:59:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-07-04T06:12:47Z)
+- Assessment of substance use (procedure) (Date: 2021-07-04T06:42:34Z)
+- Screening for drug abuse (procedure) (Date: 2021-07-04T06:54:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-04T04:46:50Z: General examination of patient (procedure)
+- 2021-05-30T04:46:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-09T04:46:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-20T04:46:50Z: Follow-up encounter
+- 2020-06-28T04:46:50Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-04T07:18:22Z Total score [DAST-10]: 1.0 {score}
+- 2021-07-04T06:42:34Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-07-04T05:59:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-07-04T05:32:21Z What address do you live at?: 699 Harris Grove nan
+- 2021-07-04T05:32:21Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-07-04T05:32:21Z What language are you most comfortable speaking?: English nan
+- 2021-07-04T05:32:21Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-07-04T05:32:21Z What is your housing situation today?: I have housing nan
+- 2021-07-04T05:32:21Z Are you worried about losing your housing?: No nan
+- 2021-07-04T05:32:21Z Do you feel physically and emotionally safe where you currently live?: Yes nan

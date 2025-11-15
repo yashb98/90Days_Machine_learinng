@@ -1,0 +1,116 @@
+== PATIENT RECORD: Thresa531 Mante251 (ID: 72b71d33-b242-8f86-7ce0-198b3dfd3bf1) ==
+
+== Demographics ==
+Patient ID: 72b71d33-b242-8f86-7ce0-198b3dfd3bf1
+Name: Thresa531 Mante251
+Gender: F
+Birthdate: 1948-06-28
+Address: 134 Borer Bypass
+Marital Status: M
+
+== Allergies ==
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Body mass index 40+ - severely obese (finding)
+- Full-time employment (finding)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Hyperlipidemia
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Fracture of forearm
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-17T21:50:01Z)
+- Depression screening (procedure) (Date: 2012-09-17T22:38:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-17T22:52:51Z)
+- Assessment of substance use (procedure) (Date: 2012-09-17T23:13:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-09-17T23:23:59Z)
+- Colonoscopy (Date: 2013-06-28T23:16:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-23T21:50:01Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-23T22:21:46Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-09-23T22:41:01Z)
+- Depression screening (procedure) (Date: 2013-09-23T22:58:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-23T23:10:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-29T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-09-29T22:24:27Z)
+- Screening for domestic abuse (procedure) (Date: 2014-09-29T22:43:26Z)
+- Depression screening (procedure) (Date: 2014-09-29T23:20:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-29T23:35:19Z)
+- Assessment of substance use (procedure) (Date: 2014-09-29T23:57:08Z)
+- Screening for drug abuse (procedure) (Date: 2014-09-30T00:11:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-05T21:50:01Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-05T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-10-05T22:46:02Z)
+- Screening for domestic abuse (procedure) (Date: 2015-10-05T23:01:15Z)
+- Depression screening (procedure) (Date: 2015-10-05T23:26:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-05T23:38:53Z)
+- Assessment of substance use (procedure) (Date: 2015-10-06T00:00:57Z)
+- Screening for drug abuse (procedure) (Date: 2015-10-06T00:13:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-10T21:50:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-10T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-10-10T22:43:55Z)
+- Screening for domestic abuse (procedure) (Date: 2016-10-10T23:02:48Z)
+- Depression screening (procedure) (Date: 2016-10-10T23:44:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-10T23:58:26Z)
+- Assessment of substance use (procedure) (Date: 2016-10-11T00:21:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-11T00:33:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-10-16T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-10-16T22:21:59Z)
+- Assessment of substance use (procedure) (Date: 2017-10-16T22:42:07Z)
+- Screening for drug abuse (procedure) (Date: 2017-10-16T22:54:07Z)
+- Throat culture (procedure) (Date: 2018-02-09T20:50:01Z)
+- Upper arm X-ray (Date: 2018-04-04T22:30:51Z)
+- Bone immobilization (Date: 2018-04-04T22:30:51Z)
+- Bone density scan (procedure) (Date: 2018-04-04T22:59:59Z)
+- Colonoscopy (Date: 2018-06-28T23:42:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-22T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-10-22T22:43:37Z)
+- Depression screening (procedure) (Date: 2018-10-22T23:03:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-22T23:15:05Z)
+- Assessment of substance use (procedure) (Date: 2018-10-22T23:35:49Z)
+- Screening for drug abuse (procedure) (Date: 2018-10-22T23:49:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-28T21:50:01Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-28T21:50:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-11-02T21:50:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-02T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-11-02T22:21:03Z)
+- Screening for domestic abuse (procedure) (Date: 2020-11-02T22:47:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-08T21:50:01Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-08T21:50:01Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-11-08T22:45:38Z)
+- Depression screening (procedure) (Date: 2021-11-08T23:09:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-08T23:22:23Z)
+- Assessment of substance use (procedure) (Date: 2021-11-08T23:43:05Z)
+- Screening for drug abuse (procedure) (Date: 2021-11-08T23:57:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-08T21:50:01Z: General examination of patient (procedure)
+- 2021-10-06T21:50:01Z: Follow-up encounter
+- 2021-03-01T21:50:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-08T21:50:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-02T21:50:01Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T00:18:25Z Total score [DAST-10]: 1.0 {score}
+- 2021-11-08T23:43:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-11-08T23:09:11Z Fall risk total [Morse Fall Scale]: 29.0 {#}
+- 2021-11-08T23:09:11Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2021-11-08T22:45:38Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 48273 /a
+- 2021-11-08T22:45:38Z What language are you most comfortable speaking?: English nan
+- 2021-11-08T22:45:38Z Are you worried about losing your housing?: No nan
+- 2021-11-08T22:45:38Z What address do you live at?: 134 Borer Bypass nan
+- 2021-11-08T22:45:38Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-11-08T22:45:38Z What is your current work situation?: Full-time work nan

@@ -1,0 +1,179 @@
+== PATIENT RECORD: Charline650 Cronin387 (ID: 751b24b6-7d65-fcee-0f58-b4144dc8ddbc) ==
+
+== Demographics ==
+Patient ID: 751b24b6-7d65-fcee-0f58-b4144dc8ddbc
+Name: Charline650 Cronin387
+Gender: F
+Birthdate: 1951-01-21
+Address: 915 Macejkovic Forge
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Prediabetes
+- Full-time employment (finding)
+- Coronary Heart Disease
+- Social isolation (finding)
+- Anemia (disorder)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Normal pregnancy
+- Miscarriage in first trimester
+- Blighted ovum
+- Fetus with unknown complication
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Not in labor force (finding)
+- Laceration of forearm
+- Myocardial Infarction
+- History of myocardial infarction (situation)
+
+== Current Medications ==
+- Norinyl 1+50 28 Day Pack
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+- Mestranol / Norethynodrel [Enovid]
+- Ortho Tri-Cyclen 28 Day Pack
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Levonorgestrel 0.00354 MG/HR Drug Implant
+- Atorvastatin 80 MG Oral Tablet
+- Captopril 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1987-05-18T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 1987-05-18T04:05:16Z)
+- Depression screening (procedure) (Date: 1987-05-18T04:21:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-05-18T04:31:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-05-23T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 1988-05-23T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 1988-05-23T04:13:39Z)
+- Screening for domestic abuse (procedure) (Date: 1988-05-23T04:37:32Z)
+- Depression screening (procedure) (Date: 1988-05-23T05:07:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-05-23T05:17:42Z)
+- Assessment of substance use (procedure) (Date: 1988-05-23T05:44:36Z)
+- Screening for drug abuse (procedure) (Date: 1988-05-23T05:58:39Z)
+- Standard pregnancy test (Date: 1989-05-01T03:33:02Z)
+- Ultrasound scan for fetal viability (Date: 1989-05-01T03:33:02Z)
+- Physical examination (Date: 1989-05-19T03:33:02Z)
+- Depression screening (Date: 1989-05-19T03:33:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-05-29T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 1989-05-29T03:33:02Z)
+- Screening for domestic abuse (procedure) (Date: 1989-05-29T04:22:20Z)
+- Depression screening (procedure) (Date: 1989-05-29T05:06:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-05-29T05:19:04Z)
+- Assessment of substance use (procedure) (Date: 1989-05-29T05:43:21Z)
+- Screening for drug abuse (procedure) (Date: 1989-05-29T05:55:17Z)
+- Standard pregnancy test (Date: 1990-01-22T03:33:02Z)
+- Ultrasound scan for fetal viability (Date: 1990-01-22T03:33:02Z)
+- Physical examination (Date: 1990-01-31T03:33:02Z)
+- Depression screening (Date: 1990-01-31T03:33:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1990-06-04T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 1990-06-04T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 1990-06-04T04:22:32Z)
+- Screening for domestic abuse (procedure) (Date: 1990-06-04T04:38:33Z)
+- Standard pregnancy test (Date: 1990-07-30T03:33:02Z)
+- Ultrasound scan for fetal viability (Date: 1990-07-30T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1990-07-30T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1990-07-30T03:33:02Z)
+- Blood typing  RH typing (Date: 1990-07-30T03:33:02Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1990-07-30T03:33:02Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1990-07-30T03:33:02Z)
+- Human immunodeficiency virus antigen test (Date: 1990-07-30T03:33:02Z)
+- Chlamydia antigen test (Date: 1990-07-30T03:33:02Z)
+- Gonorrhea infection test (Date: 1990-07-30T03:33:02Z)
+- Syphilis infection test (Date: 1990-07-30T03:33:02Z)
+- Urine culture (Date: 1990-07-30T03:33:02Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1990-07-30T03:33:02Z)
+- Urine screening test for diabetes (Date: 1990-07-30T03:33:02Z)
+- Hepatitis C antibody test (Date: 1990-07-30T03:33:02Z)
+- Rubella screening (Date: 1990-07-30T03:33:02Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1990-07-30T03:33:02Z)
+- Skin test for tuberculosis (Date: 1990-07-30T03:33:02Z)
+- Urine protein test (Date: 1990-07-30T03:33:02Z)
+- Physical examination of mother (Date: 1990-07-30T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1990-08-27T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1990-08-27T03:33:02Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1990-08-27T03:33:02Z)
+- Fetal anatomy study (Date: 1990-09-24T03:33:02Z)
+- Alpha-fetoprotein test (Date: 1990-09-24T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1990-09-24T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1990-09-24T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1990-10-22T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1990-10-22T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1990-11-19T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1990-11-19T03:33:02Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1990-12-17T03:33:02Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1990-12-17T03:33:02Z)
+- Urine screening for glucose (Date: 1990-12-17T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1990-12-17T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1990-12-17T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1991-01-14T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1991-01-14T03:33:02Z)
+- Streptococcus pneumoniae group B antigen test (Date: 1991-02-11T03:33:02Z)
+- Evaluation of uterine fundal height (Date: 1991-02-11T03:33:02Z)
+- Auscultation of the fetal heart (Date: 1991-02-11T03:33:02Z)
+- Episiotomy (Date: 1991-02-25T03:33:02Z)
+- Childbirth (Date: 1991-02-25T03:33:02Z)
+- Physical examination following birth (Date: 1991-04-08T03:33:02Z)
+- Depression screening (Date: 1991-04-08T03:33:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-06-10T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 1991-06-10T03:33:02Z)
+- Depression screening (procedure) (Date: 1991-06-10T04:26:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-06-10T04:36:52Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-06-15T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 1992-06-15T04:11:21Z)
+- Screening for domestic abuse (procedure) (Date: 1992-06-15T04:35:00Z)
+- Depression screening (procedure) (Date: 1992-06-15T05:16:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-06-15T05:28:12Z)
+- Assessment of substance use (procedure) (Date: 1992-06-15T05:49:41Z)
+- Screening for drug abuse (procedure) (Date: 1992-06-15T06:04:27Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-06-21T03:33:02Z)
+- Assessment of anxiety (procedure) (Date: 1993-06-21T04:07:11Z)
+- Depression screening (procedure) (Date: 1993-06-21T04:34:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-06-21T04:44:59Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-06-27T03:33:02Z)
+- Medication Reconciliation (procedure) (Date: 1994-06-27T03:33:02Z)
+- Depression screening (procedure) (Date: 1994-06-27T04:08:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-06-27T04:23:25Z)
+- Assessment of substance use (procedure) (Date: 1994-06-27T04:51:06Z)
+- Screening for drug abuse (procedure) (Date: 1994-06-27T05:03:47Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-07-03T03:33:02Z)
+- Depression screening (procedure) (Date: 1995-07-03T04:18:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-07-03T04:33:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1995-07-03T04:54:25Z)
+- Assessment of substance use (procedure) (Date: 1995-07-03T05:19:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-07-03T05:31:35Z)
+- Suture open wound (Date: 1995-10-22T04:34:29Z)
+- Insertion of subcutaneous contraceptive (Date: 1996-03-12T03:33:02Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-07-08T03:33:02Z)
+- Depression screening (procedure) (Date: 1996-07-08T04:16:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-07-08T04:27:47Z)
+- Assessment of substance use (procedure) (Date: 1996-07-08T04:53:42Z)
+- Screening for drug abuse (procedure) (Date: 1996-07-08T05:06:40Z)
+- Echocardiography (procedure) (Date: 1996-09-02T03:33:02Z)
+- Percutaneous coronary intervention (Date: 1996-09-02T03:33:02Z)
+- Coronary artery bypass grafting (Date: 1996-09-02T03:33:02Z)
+
+== Recent Encounters (Last 5) ==
+- 1996-09-09T03:33:02Z: Death Certification
+- 1996-09-02T03:33:02Z: Myocardial Infarction
+- 1996-07-08T03:33:02Z: General examination of patient (procedure)
+- 1996-03-12T03:33:02Z: Consultation for treatment
+- 1995-10-22T04:34:29Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 1996-09-09T03:33:02Z Cause of Death [US Standard Certificate of Death]: Myocardial Infarction nan
+- 1996-07-08T05:29:58Z Total score [DAST-10]: 1.0 {score}
+- 1996-07-08T04:53:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1996-07-08T04:16:54Z What is your current work situation?: Full-time work nan
+- 1996-07-08T04:16:54Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1996-07-08T04:16:54Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1996-07-08T04:16:54Z Are you a refugee?: No nan
+- 1996-07-08T04:16:54Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1996-07-08T04:16:54Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 1996-07-08T04:16:54Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

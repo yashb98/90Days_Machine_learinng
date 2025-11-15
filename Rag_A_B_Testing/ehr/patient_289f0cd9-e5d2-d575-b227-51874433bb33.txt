@@ -1,0 +1,134 @@
+== PATIENT RECORD: Eugenio846 Emard19 (ID: 289f0cd9-e5d2-d575-b227-51874433bb33) ==
+
+== Demographics ==
+Patient ID: 289f0cd9-e5d2-d575-b227-51874433bb33
+Name: Eugenio846 Emard19
+Gender: M
+Birthdate: 1970-10-24
+Address: 363 Harvey Alley
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Contact dermatitis
+- Chronic congestive heart failure (disorder)
+- Transport problems (finding)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Furosemide 40 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 1985-11-30T16:48:47Z)
+- Medication Reconciliation (procedure) (Date: 1985-11-30T16:48:47Z)
+- Depression screening (procedure) (Date: 1985-11-30T17:07:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1985-11-30T17:19:17Z)
+- Assessment of substance use (procedure) (Date: 1985-11-30T17:49:04Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1985-11-30T18:01:46Z)
+- Anticipatory guidance (procedure) (Date: 1985-11-30T18:24:50Z)
+- Depression screening (procedure) (Date: 1986-12-06T16:48:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1986-12-06T17:01:47Z)
+- Depression screening (procedure) (Date: 1987-12-12T16:48:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1987-12-12T17:03:12Z)
+- Assessment of substance use (procedure) (Date: 1987-12-12T17:23:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1987-12-12T17:35:14Z)
+- Health risks education (procedure) (Date: 1987-12-12T17:48:31Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-12-17T16:48:47Z)
+- Medication Reconciliation (procedure) (Date: 1988-12-17T16:48:47Z)
+- Assessment of anxiety (procedure) (Date: 1988-12-17T17:48:30Z)
+- Depression screening (procedure) (Date: 1988-12-17T18:06:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-12-17T18:17:07Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-12-23T16:48:47Z)
+- Medication Reconciliation (procedure) (Date: 1989-12-23T16:48:47Z)
+- Assessment of anxiety (procedure) (Date: 1989-12-23T17:30:37Z)
+- Depression screening (procedure) (Date: 1989-12-23T17:54:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1989-12-23T18:06:32Z)
+- Assessment of substance use (procedure) (Date: 1989-12-23T18:35:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1989-12-23T18:49:47Z)
+- Electrocardiographic procedure (Date: 1992-10-18T16:48:47Z)
+- Plain chest X-ray (procedure) (Date: 1992-10-18T16:53:56Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1992-10-18T16:53:56Z)
+- Echocardiography (procedure) (Date: 1992-11-05T17:12:56Z)
+- Medication Reconciliation (procedure) (Date: 1992-11-05T17:12:56Z)
+- Assessment of health and social care needs (procedure) (Date: 1992-11-14T16:48:47Z)
+- Medication Reconciliation (procedure) (Date: 1992-11-14T16:48:47Z)
+- Screening for domestic abuse (procedure) (Date: 1992-11-14T17:22:19Z)
+- Depression screening (procedure) (Date: 1992-11-14T17:48:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1992-11-14T18:01:39Z)
+- Echocardiography (procedure) (Date: 1993-05-04T17:12:56Z)
+- Medication Reconciliation (procedure) (Date: 1993-05-04T17:12:56Z)
+- Oxygen administration by mask (procedure) (Date: 1993-10-31T17:12:56Z)
+- Placing subject in prone position (procedure) (Date: 1993-10-31T17:12:56Z)
+- Plain chest X-ray (procedure) (Date: 1993-10-31T17:12:56Z)
+- Medication Reconciliation (procedure) (Date: 1993-10-31T17:12:56Z)
+- Electrocardiographic procedure (Date: 1993-10-31T17:12:56Z)
+- Oxygen administration by mask (procedure) (Date: 1993-10-31T17:19:45Z)
+- Placing subject in prone position (procedure) (Date: 1993-10-31T17:19:45Z)
+- Heart failure education (procedure) (Date: 1993-11-01T17:19:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-11-20T16:48:47Z)
+- Depression screening (procedure) (Date: 1993-11-20T17:21:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-11-20T17:34:21Z)
+- Assessment of substance use (procedure) (Date: 1993-11-20T17:54:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1993-11-20T18:09:11Z)
+- Echocardiography (procedure) (Date: 1994-04-30T18:00:17Z)
+- Medication Reconciliation (procedure) (Date: 1994-04-30T18:00:17Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-10-29T16:48:47Z)
+- Echocardiography (procedure) (Date: 1994-10-27T18:00:17Z)
+- Medication Reconciliation (procedure) (Date: 1994-10-27T18:00:17Z)
+- Assessment of anxiety (procedure) (Date: 1994-10-29T17:43:59Z)
+- Depression screening (procedure) (Date: 1994-10-29T18:04:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-10-29T18:18:23Z)
+- Assessment of substance use (procedure) (Date: 1994-10-29T18:42:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1994-10-29T18:56:06Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-11-26T16:48:47Z)
+- Assessment of anxiety (procedure) (Date: 1994-11-26T17:35:18Z)
+- Screening for domestic abuse (procedure) (Date: 1994-11-26T18:02:00Z)
+- Depression screening (procedure) (Date: 1994-11-26T18:41:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-11-26T18:52:30Z)
+- Assessment of substance use (procedure) (Date: 1994-11-26T19:18:07Z)
+- Screening for drug abuse (procedure) (Date: 1994-11-26T19:30:28Z)
+- Echocardiography (procedure) (Date: 1995-04-25T18:00:17Z)
+- Medication Reconciliation (procedure) (Date: 1995-04-25T18:00:17Z)
+- Oxygen administration by mask (procedure) (Date: 1995-10-22T18:00:17Z)
+- Placing subject in prone position (procedure) (Date: 1995-10-22T18:00:17Z)
+- Plain chest X-ray (procedure) (Date: 1995-10-22T18:00:17Z)
+- Medication Reconciliation (procedure) (Date: 1995-10-22T18:00:17Z)
+- Electrocardiographic procedure (Date: 1995-10-22T18:00:17Z)
+- Oxygen administration by mask (procedure) (Date: 1995-10-22T18:09:47Z)
+- Placing subject in prone position (procedure) (Date: 1995-10-22T18:09:47Z)
+- Oxygen administration by mask (procedure) (Date: 1995-10-23T18:09:47Z)
+- Placing subject in prone position (procedure) (Date: 1995-10-23T18:09:47Z)
+- Oxygen administration by mask (procedure) (Date: 1995-10-24T18:09:47Z)
+- Placing subject in prone position (procedure) (Date: 1995-10-24T18:09:47Z)
+- Heart failure education (procedure) (Date: 1995-10-25T18:09:47Z)
+
+== Recent Encounters (Last 5) ==
+- 1995-11-11T16:48:47Z: Death Certification
+- 1995-10-22T18:00:17Z: Admission to intensive care unit (procedure)
+- 1995-10-22T18:00:17Z: Encounter for Problem
+- 1995-04-25T18:00:17Z: Encounter for problem
+- 1994-11-26T16:48:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1995-11-11T16:48:47Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1995-10-25T06:09:47Z MCHC [Mass/volume] by Automated count: 33.7 g/dL
+- 1995-10-25T06:09:47Z Potassium [Moles/volume] in Serum or Plasma: 4.1 mmol/L
+- 1995-10-25T06:09:47Z Sodium [Moles/volume] in Serum or Plasma: 136.3 mmol/L
+- 1995-10-25T06:09:47Z Calcium [Mass/volume] in Serum or Plasma: 9.7 mg/dL
+- 1995-10-25T06:09:47Z Creatinine [Mass/volume] in Serum or Plasma: 1.3 mg/dL
+- 1995-10-25T06:09:47Z Urea nitrogen [Mass/volume] in Serum or Plasma: 17.3 mg/dL
+- 1995-10-25T06:09:47Z Glucose [Mass/volume] in Serum or Plasma: 71.5 mg/dL
+- 1995-10-25T06:09:47Z Erythrocyte distribution width [Ratio] by Automated count: 13.5 %
+- 1995-10-25T06:09:47Z MCH [Entitic mass] by Automated count: 28.0 pg

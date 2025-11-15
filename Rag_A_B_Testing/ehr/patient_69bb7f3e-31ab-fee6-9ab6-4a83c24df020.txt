@@ -1,0 +1,59 @@
+== PATIENT RECORD: Emilia403 Lemus978 (ID: 69bb7f3e-31ab-fee6-9ab6-4a83c24df020) ==
+
+== Demographics ==
+Patient ID: 69bb7f3e-31ab-fee6-9ab6-4a83c24df020
+Name: Emilia403 Lemus978
+Gender: F
+Birthdate: 2006-10-16
+Address: 530 Ortiz Divide Apt 24
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2012-12-06T05:10:06Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-08T00:10:06Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-20T00:10:06Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-06T00:10:06Z)
+- Depression screening (procedure) (Date: 2018-11-06T00:26:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-06T00:37:32Z)
+- Assessment of substance use (procedure) (Date: 2018-11-06T01:03:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-11-06T01:16:37Z)
+- Anticipatory guidance (procedure) (Date: 2018-11-06T01:29:58Z)
+- Assessment of substance use (procedure) (Date: 2019-11-12T00:10:06Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-12T00:10:06Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-11-12T00:23:35Z)
+- Anticipatory guidance (procedure) (Date: 2019-11-12T00:42:51Z)
+- Assessment of anxiety (procedure) (Date: 2020-11-17T00:10:06Z)
+- Depression screening (procedure) (Date: 2020-11-17T00:33:49Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-17T00:48:28Z)
+- Assessment of substance use (procedure) (Date: 2020-11-17T01:15:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-17T01:25:41Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-17T01:50:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-22T00:10:06Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-25T00:10:06Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-17T00:10:06Z: Well child visit (procedure)
+- 2020-10-16T00:10:06Z: Consultation for treatment
+- 2019-11-12T00:10:06Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-17T00:10:06Z QOLS: 1.0 {score}
+- 2021-10-17T00:10:06Z DALY: 0.0 a
+- 2021-10-17T00:10:06Z QALY: 14.0 a
+- 2020-11-17T01:15:20Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 3.0 {score}
+- 2020-11-17T00:33:49Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2020-11-17T00:10:06Z Tobacco smoking status NHIS: Never smoker nan
+- 2020-11-17T00:10:06Z Systolic Blood Pressure: 115.0 mm[Hg]
+- 2020-11-17T00:10:06Z Body Height: 151.0 cm
+- 2020-11-17T00:10:06Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2020-11-17T00:10:06Z Body Weight: 47.5 kg

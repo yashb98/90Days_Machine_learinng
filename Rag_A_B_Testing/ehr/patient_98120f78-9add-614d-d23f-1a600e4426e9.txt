@@ -1,0 +1,107 @@
+== PATIENT RECORD: Wm806 Fahey393 (ID: 98120f78-9add-614d-d23f-1a600e4426e9) ==
+
+== Demographics ==
+Patient ID: 98120f78-9add-614d-d23f-1a600e4426e9
+Name: Wm806 Fahey393
+Gender: M
+Birthdate: 1993-04-03
+Address: 948 Wilkinson Passage Suite 64
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Full-time employment (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-06-02T06:35:39Z)
+- Throat culture (procedure) (Date: 2012-06-05T02:35:39Z)
+- Depression screening (procedure) (Date: 2012-06-02T07:22:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-06-02T07:32:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-06-02T08:00:03Z)
+- Assessment of substance use (procedure) (Date: 2012-06-02T08:25:55Z)
+- Screening for drug abuse (procedure) (Date: 2012-06-02T08:39:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-15T06:35:39Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-15T06:35:39Z)
+- Depression screening (procedure) (Date: 2014-02-15T07:27:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-15T07:40:51Z)
+- Assessment of substance use (procedure) (Date: 2014-02-15T08:02:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-15T08:16:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-21T06:35:39Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-21T06:35:39Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-21T07:31:13Z)
+- Depression screening (procedure) (Date: 2015-02-21T07:58:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-21T08:09:13Z)
+- Assessment of substance use (procedure) (Date: 2015-02-21T08:30:55Z)
+- Screening for drug abuse (procedure) (Date: 2015-02-21T08:44:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-27T06:35:39Z)
+- Depression screening (procedure) (Date: 2016-02-27T07:33:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-27T07:45:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-04T06:35:39Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-04T06:35:39Z)
+- Depression screening (procedure) (Date: 2017-03-04T07:29:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-04T07:42:39Z)
+- Assessment of substance use (procedure) (Date: 2017-03-04T08:04:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-04T08:19:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-15T06:35:39Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-15T06:35:39Z)
+- Depression screening (procedure) (Date: 2017-04-15T07:10:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-15T07:21:01Z)
+- Assessment of substance use (procedure) (Date: 2017-04-15T07:49:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-15T08:03:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-10T06:35:39Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-10T07:16:22Z)
+- Depression screening (procedure) (Date: 2018-03-10T07:50:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-10T08:05:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-16T06:35:39Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-16T07:08:24Z)
+- Depression screening (procedure) (Date: 2019-03-16T07:35:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-16T07:48:49Z)
+- Assessment of substance use (procedure) (Date: 2019-03-16T08:09:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-16T08:20:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-21T06:35:39Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-21T06:35:39Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-21T07:24:11Z)
+- Depression screening (procedure) (Date: 2020-03-21T07:39:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-21T07:53:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-27T06:35:39Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-27T06:35:39Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-27T07:08:27Z)
+- Depression screening (procedure) (Date: 2021-03-27T07:24:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-27T07:38:56Z)
+- Assessment of substance use (procedure) (Date: 2021-03-27T08:04:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-27T08:15:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-27T06:35:39Z: General examination of patient (procedure)
+- 2020-07-16T16:35:39Z: Encounter for symptom
+- 2020-03-21T06:35:39Z: General examination of patient (procedure)
+- 2019-03-16T06:35:39Z: General examination of patient (procedure)
+- 2018-03-10T06:35:39Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-03T05:35:39Z QOLS: 1.0 {score}
+- 2021-04-03T05:35:39Z DALY: 0.0 a
+- 2021-04-03T05:35:39Z QALY: 27.0 a
+- 2021-03-27T08:43:38Z Total score [AUDIT-C]: 3.0 {score}
+- 2021-03-27T08:04:03Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-27T07:24:24Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-03-27T07:08:27Z What is your current work situation?: Full-time work nan
+- 2021-03-27T07:08:27Z What is your housing situation today?: I have housing nan
+- 2021-03-27T07:08:27Z Are you worried about losing your housing?: No nan
+- 2021-03-27T07:08:27Z What address do you live at?: 948 Wilkinson Passage Suite 64 nan

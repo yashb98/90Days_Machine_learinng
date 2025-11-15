@@ -1,0 +1,42 @@
+== PATIENT RECORD: Raphael767 Feeney44 (ID: a2f532cc-184b-d28c-b702-7b3fd99c77bd) ==
+
+== Demographics ==
+Patient ID: a2f532cc-184b-d28c-b702-7b3fd99c77bd
+Name: Raphael767 Feeney44
+Gender: M
+Birthdate: 2021-01-02
+Address: 128 Wunsch Route Apt 38
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-02-06T20:00:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-10T20:00:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-12T20:00:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-11T20:00:24Z: Well child visit (procedure)
+- 2021-06-12T20:00:24Z: Well child visit (procedure)
+- 2021-04-10T20:00:24Z: Well child visit (procedure)
+- 2021-02-06T20:00:24Z: Well child visit (procedure)
+- 2021-01-02T20:00:24Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-11T20:00:24Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-11T20:00:24Z Respiratory rate: 16.0 /min
+- 2021-09-11T20:00:24Z Heart rate: 84.0 /min
+- 2021-09-11T20:00:24Z Systolic Blood Pressure: 106.0 mm[Hg]
+- 2021-09-11T20:00:24Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-09-11T20:00:24Z Head Occipital-frontal circumference: 46.1 cm
+- 2021-09-11T20:00:24Z Weight-for-length Per age and sex: 85.0 %
+- 2021-09-11T20:00:24Z Body Weight: 10.1 kg
+- 2021-09-11T20:00:24Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-09-11T20:00:24Z Body Height: 73.2 cm

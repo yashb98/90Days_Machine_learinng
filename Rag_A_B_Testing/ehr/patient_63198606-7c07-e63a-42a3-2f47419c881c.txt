@@ -1,0 +1,54 @@
+== PATIENT RECORD: Rashida558 Murray856 (ID: 63198606-7c07-e63a-42a3-2f47419c881c) ==
+
+== Demographics ==
+Patient ID: 63198606-7c07-e63a-42a3-2f47419c881c
+Name: Rashida558 Murray856
+Gender: F
+Birthdate: 2015-01-22
+Address: 400 Crooks Orchard
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-07-03T01:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-02T01:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-01T01:27:36Z)
+- Throat culture (procedure) (Date: 2016-12-16T17:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-30T01:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-30T01:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-29T01:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-29T01:27:36Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-28T01:27:36Z)
+- Throat culture (procedure) (Date: 2020-11-10T08:27:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-08T01:27:36Z: Well child visit (procedure)
+- 2020-11-10T08:27:36Z: Encounter for symptom
+- 2020-01-03T01:27:36Z: Well child visit (procedure)
+- 2019-04-08T16:27:36Z: Encounter for symptom
+- 2018-12-28T01:27:36Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-23T01:27:36Z QOLS: 1.0 {score}
+- 2021-01-23T01:27:36Z DALY: 0.0 a
+- 2021-01-23T01:27:36Z QALY: 5.0 a
+- 2021-01-08T01:27:36Z Heart rate: 68.0 /min
+- 2021-01-08T01:27:36Z MCH [Entitic mass] by Automated count: 31.9 pg
+- 2021-01-08T01:27:36Z MCV [Entitic volume] by Automated count: 87.4 fL
+- 2021-01-08T01:27:36Z Hematocrit [Volume Fraction] of Blood by Automated count: 46.5 %
+- 2021-01-08T01:27:36Z Erythrocytes [#/volume] in Blood by Automated count: 5.1 10*6/uL
+- 2021-01-08T01:27:36Z Leukocytes [#/volume] in Blood by Automated count: 9.7 10*3/uL
+- 2021-01-08T01:27:36Z Respiratory rate: 15.0 /min

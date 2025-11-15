@@ -1,0 +1,90 @@
+== PATIENT RECORD: Wilford267 Hilpert278 (ID: be01726c-4937-554f-6d8f-58f8ec72ebab) ==
+
+== Demographics ==
+Patient ID: be01726c-4937-554f-6d8f-58f8ec72ebab
+Name: Wilford267 Hilpert278
+Gender: M
+Birthdate: 1997-11-21
+Address: 822 Casper Green
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Sprain of ankle
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2011-12-23T15:40:51Z)
+- Depression screening (procedure) (Date: 2011-12-23T16:06:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2011-12-23T16:16:52Z)
+- Assessment of substance use (procedure) (Date: 2011-12-23T16:38:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2011-12-23T16:51:28Z)
+- Anticipatory guidance (procedure) (Date: 2011-12-23T17:05:45Z)
+- Depression screening (procedure) (Date: 2012-12-28T15:40:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-12-28T15:55:06Z)
+- Depression screening (procedure) (Date: 2014-01-03T15:40:51Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-03T15:40:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-01-03T15:52:20Z)
+- Assessment of substance use (procedure) (Date: 2014-01-03T16:17:54Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-01-03T16:30:35Z)
+- Health risks education (procedure) (Date: 2014-01-03T16:53:21Z)
+- Depression screening (procedure) (Date: 2015-01-09T15:40:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-09T15:54:54Z)
+- Assessment of substance use (procedure) (Date: 2015-01-09T16:19:12Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-09T16:29:46Z)
+- Health risks education (procedure) (Date: 2015-01-09T16:44:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-15T15:40:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-15T15:40:51Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-15T16:26:06Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-15T16:50:29Z)
+- Depression screening (procedure) (Date: 2016-01-15T17:34:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-15T17:48:31Z)
+- Assessment of substance use (procedure) (Date: 2016-01-15T18:09:05Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-15T18:20:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-20T15:40:51Z)
+- Peripheral blood smear interpretation (Date: 2017-01-20T15:40:51Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-20T16:20:10Z)
+- Depression screening (procedure) (Date: 2017-01-20T16:45:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-20T16:55:42Z)
+- Assessment of substance use (procedure) (Date: 2017-01-20T17:25:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-20T17:38:17Z)
+- Review of systems (procedure) (Date: 2017-01-20T16:10:51Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-20T16:25:48Z)
+- Brief general examination (procedure) (Date: 2017-01-20T16:42:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-24T15:40:51Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-24T16:13:13Z)
+- Assessment of substance use (procedure) (Date: 2020-01-24T16:37:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-24T16:49:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-05T15:40:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-01-24T15:40:51Z: General examination of patient (procedure)
+- 2019-04-25T15:40:51Z: Emergency room admission (procedure)
+- 2018-05-08T20:40:51Z: Encounter for symptom
+- 2017-01-20T15:40:51Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-11-21T15:40:51Z QOLS: 0.9 {score}
+- 2020-11-21T15:40:51Z DALY: 0.2 a
+- 2020-11-21T15:40:51Z QALY: 21.8 a
+- 2020-01-24T17:12:20Z Total score [AUDIT-C]: 3.0 {score}
+- 2020-01-24T16:37:04Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2020-01-24T16:13:13Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Medicine or Any Health Care nan
+- 2020-01-24T16:13:13Z What address do you live at?: 822 Casper Green nan
+- 2020-01-24T16:13:13Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-01-24T16:13:13Z What is your current work situation?: Full-time work nan
+- 2020-01-24T16:13:13Z What is your main insurance?: Medicaid nan

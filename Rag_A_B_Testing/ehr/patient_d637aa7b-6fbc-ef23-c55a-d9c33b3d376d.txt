@@ -1,0 +1,167 @@
+== PATIENT RECORD: Zona368 Koss676 (ID: d637aa7b-6fbc-ef23-c55a-d9c33b3d376d) ==
+
+== Demographics ==
+Patient ID: d637aa7b-6fbc-ef23-c55a-d9c33b3d376d
+Name: Zona368 Koss676
+Gender: F
+Birthdate: 1993-05-17
+Address: 618 Glover Plaza
+Marital Status: S
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Fish (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Perennial allergic rhinitis
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Social isolation (finding)
+- Misuses drugs (finding)
+- Chronic low back pain (finding)
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Limited social contact (finding)
+- Otitis media
+- Sprain of ankle
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Seasonique 91 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Natazia 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Trinessa 28 Day Pack
+- Amoxicillin 250 MG Oral Capsule
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-16T05:30:59Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-16T06:18:15Z)
+- Depression screening (procedure) (Date: 2012-07-16T06:44:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-16T06:56:59Z)
+- Assessment of substance use (procedure) (Date: 2012-07-16T07:17:09Z)
+- Screening for drug abuse (procedure) (Date: 2012-07-16T07:28:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-04T05:30:59Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-04T06:07:20Z)
+- Assessment of substance use (procedure) (Date: 2013-03-04T06:23:49Z)
+- Screening for drug abuse (procedure) (Date: 2013-03-04T06:37:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-17T05:30:59Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-17T05:30:59Z)
+- Depression screening (procedure) (Date: 2014-02-17T06:11:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-17T06:26:02Z)
+- Assessment of substance use (procedure) (Date: 2014-02-17T06:50:13Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-17T07:04:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-23T05:30:59Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-23T05:30:59Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-23T06:28:58Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-23T06:52:45Z)
+- Assessment of substance use (procedure) (Date: 2015-02-23T07:29:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-23T07:40:34Z)
+- Replacement of contraceptive intrauterine device (Date: 2015-05-11T05:30:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-29T05:30:59Z)
+- Depression screening (procedure) (Date: 2016-02-29T06:06:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-29T06:16:54Z)
+- Assessment of substance use (procedure) (Date: 2016-02-29T06:42:37Z)
+- Screening for drug abuse (procedure) (Date: 2016-02-29T06:56:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-06T05:30:59Z)
+- Assessment of substance use (procedure) (Date: 2017-03-06T06:17:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-06T06:32:31Z)
+- Removal of intrauterine device (Date: 2017-10-09T05:30:59Z)
+- Standard pregnancy test (Date: 2017-12-04T05:30:59Z)
+- Ultrasound scan for fetal viability (Date: 2017-12-04T05:30:59Z)
+- Counseling for termination of pregnancy (Date: 2017-12-13T05:30:59Z)
+- Induced termination of pregnancy (Date: 2017-12-13T05:30:59Z)
+- Pregnancy termination care (Date: 2017-12-29T05:30:59Z)
+- Physical exam following abortion (Date: 2017-12-29T05:30:59Z)
+- Depression screening (Date: 2017-12-29T05:30:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-12T05:30:59Z)
+- Depression screening (procedure) (Date: 2018-03-12T06:14:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-12T06:29:40Z)
+- Assessment of substance use (procedure) (Date: 2018-03-12T06:49:53Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-12T07:02:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-18T05:30:59Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-18T06:27:47Z)
+- Depression screening (procedure) (Date: 2019-03-18T06:47:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-18T06:58:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-23T05:30:59Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-23T05:30:59Z)
+- Standard pregnancy test (Date: 2020-06-29T05:30:59Z)
+- Ultrasound scan for fetal viability (Date: 2020-06-29T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-06-29T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-06-29T05:30:59Z)
+- Blood typing  RH typing (Date: 2020-06-29T05:30:59Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-06-29T05:30:59Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2020-06-29T05:30:59Z)
+- Human immunodeficiency virus antigen test (Date: 2020-06-29T05:30:59Z)
+- Chlamydia antigen test (Date: 2020-06-29T05:30:59Z)
+- Gonorrhea infection test (Date: 2020-06-29T05:30:59Z)
+- Syphilis infection test (Date: 2020-06-29T05:30:59Z)
+- Urine culture (Date: 2020-06-29T05:30:59Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2020-06-29T05:30:59Z)
+- Urine screening test for diabetes (Date: 2020-06-29T05:30:59Z)
+- Hepatitis C antibody test (Date: 2020-06-29T05:30:59Z)
+- Rubella screening (Date: 2020-06-29T05:30:59Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2020-06-29T05:30:59Z)
+- Skin test for tuberculosis (Date: 2020-06-29T05:30:59Z)
+- Urine protein test (Date: 2020-06-29T05:30:59Z)
+- Physical examination of mother (Date: 2020-06-29T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-07-27T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-07-27T05:30:59Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2020-07-27T05:30:59Z)
+- Fetal anatomy study (Date: 2020-08-24T05:30:59Z)
+- Alpha-fetoprotein test (Date: 2020-08-24T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-08-24T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-08-24T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-09-21T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-09-21T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-10-19T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-10-19T05:30:59Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-11-16T05:30:59Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2020-11-16T05:30:59Z)
+- Urine screening for glucose (Date: 2020-11-16T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-11-16T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-11-16T05:30:59Z)
+- Evaluation of uterine fundal height (Date: 2020-12-14T05:30:59Z)
+- Auscultation of the fetal heart (Date: 2020-12-14T05:30:59Z)
+- Premature birth of newborn (Date: 2021-01-11T05:30:59Z)
+- Physical examination following birth (Date: 2021-02-22T05:30:59Z)
+- Depression screening (Date: 2021-02-22T05:30:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-29T05:30:59Z)
+- Assessment of substance use (procedure) (Date: 2021-03-29T06:13:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-29T06:25:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-15T05:30:59Z: Emergency room admission (procedure)
+- 2021-06-14T05:30:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-17T05:30:59Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-29T05:30:59Z: General examination of patient (procedure)
+- 2021-03-21T05:30:59Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-17T05:30:59Z QOLS: 1.0 {score}
+- 2021-05-17T05:30:59Z QALY: 27.0 a
+- 2021-05-17T05:30:59Z DALY: 0.0 a
+- 2021-03-29T06:48:41Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-03-29T06:13:47Z What is your housing situation today?: I have housing nan
+- 2021-03-29T06:13:47Z Are you worried about losing your housing?: Yes nan
+- 2021-03-29T06:13:47Z What address do you live at?: 618 Glover Plaza nan
+- 2021-03-29T06:13:47Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-29T06:13:47Z What is your current work situation?: Full-time work nan
+- 2021-03-29T06:13:47Z What is your main insurance?: Medicaid nan

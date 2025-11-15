@@ -1,0 +1,88 @@
+== PATIENT RECORD: Sheldon401 Kutch271 (ID: ef0de96b-3fd9-5be2-01c6-874c378cd727) ==
+
+== Demographics ==
+Patient ID: ef0de96b-3fd9-5be2-01c6-874c378cd727
+Name: Sheldon401 Kutch271
+Gender: M
+Birthdate: 1970-10-21
+Address: 274 Goldner Rue Apt 87
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Stroke
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-31T07:38:13Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-31T08:14:10Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-31T08:32:29Z)
+- Assessment of substance use (procedure) (Date: 2012-10-31T09:01:51Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-31T09:16:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-05T07:38:13Z)
+- Assessment of anxiety (procedure) (Date: 2014-11-05T08:23:41Z)
+- Depression screening (procedure) (Date: 2014-11-05T08:42:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-05T08:53:23Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-11-05T09:14:37Z)
+- Assessment of substance use (procedure) (Date: 2014-11-05T09:39:57Z)
+- Screening for drug abuse (procedure) (Date: 2014-11-05T09:54:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-09T07:38:13Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-09T07:38:13Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-09T08:12:39Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-09T08:28:18Z)
+- Depression screening (procedure) (Date: 2016-11-09T09:03:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-09T09:14:39Z)
+- Assessment of substance use (procedure) (Date: 2016-11-09T09:36:43Z)
+- Screening for drug abuse (procedure) (Date: 2016-11-09T09:51:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-14T07:38:13Z)
+- Depression screening (procedure) (Date: 2018-11-14T08:26:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-14T08:38:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-21T07:38:13Z)
+- Colonoscopy (Date: 2020-10-21T07:38:13Z)
+- Screening for domestic abuse (procedure) (Date: 2020-10-21T08:26:44Z)
+- Depression screening (procedure) (Date: 2020-10-21T09:08:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-21T09:21:17Z)
+- Assessment of substance use (procedure) (Date: 2020-10-21T09:47:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-10-21T10:00:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-27T07:38:13Z)
+- Screening for domestic abuse (procedure) (Date: 2021-10-27T08:27:27Z)
+- Depression screening (procedure) (Date: 2021-10-27T09:08:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-27T09:23:05Z)
+- Assessment of substance use (procedure) (Date: 2021-10-27T09:52:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-10-27T10:03:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-27T07:38:13Z: General examination of patient (procedure)
+- 2021-06-23T07:38:13Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-26T07:38:13Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-21T07:38:13Z: Encounter for 'check-up'
+- 2020-10-21T07:38:13Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-27T10:27:52Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-10-27T09:52:53Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-27T09:08:23Z Total score [HARK]: 0.0 {score}
+- 2021-10-27T08:27:27Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-10-27T08:27:27Z How many family members  including yourself  do you currently live with?: 1.0 {#}
+- 2021-10-27T08:27:27Z Are you worried about losing your housing?: No nan
+- 2021-10-27T08:27:27Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-10-27T08:27:27Z What is your current work situation?: Full-time work nan
+- 2021-10-27T08:27:27Z What is your main insurance?: Private insurance nan
+- 2021-10-27T08:27:27Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 34516 /a

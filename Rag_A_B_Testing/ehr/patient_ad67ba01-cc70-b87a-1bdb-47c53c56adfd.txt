@@ -1,0 +1,122 @@
+== PATIENT RECORD: Majorie11 Grady603 (ID: ad67ba01-cc70-b87a-1bdb-47c53c56adfd) ==
+
+== Demographics ==
+Patient ID: ad67ba01-cc70-b87a-1bdb-47c53c56adfd
+Name: Majorie11 Grady603
+Gender: F
+Birthdate: 1991-08-17
+Address: 281 Kunde Mission Apt 61
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Limited social contact (finding)
+- Fracture of ankle
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- Seasonique 91 Day Pack
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2012-02-05T03:32:52Z)
+- Intramuscular injection (Date: 2012-05-06T03:32:52Z)
+- Intramuscular injection (Date: 2012-08-05T03:32:52Z)
+- Intramuscular injection (Date: 2012-11-04T03:32:52Z)
+- Intramuscular injection (Date: 2013-02-03T03:32:52Z)
+- Intramuscular injection (Date: 2013-05-05T03:32:52Z)
+- Intramuscular injection (Date: 2013-08-04T03:32:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-20T03:32:52Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-20T04:19:49Z)
+- Depression screening (procedure) (Date: 2013-10-20T04:49:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-20T05:01:22Z)
+- Assessment of substance use (procedure) (Date: 2013-10-20T05:28:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-20T05:39:30Z)
+- Intramuscular injection (Date: 2013-11-03T03:32:52Z)
+- Intramuscular injection (Date: 2014-02-02T03:32:52Z)
+- Intramuscular injection (Date: 2014-05-04T03:32:52Z)
+- Intramuscular injection (Date: 2014-08-03T03:32:52Z)
+- Ankle X-ray (Date: 2014-08-26T04:55:52Z)
+- Bone immobilization (Date: 2014-08-26T04:55:52Z)
+- Intramuscular injection (Date: 2014-11-02T03:32:52Z)
+- Intramuscular injection (Date: 2015-02-01T03:32:52Z)
+- Intramuscular injection (Date: 2015-05-03T03:32:52Z)
+- Intramuscular injection (Date: 2015-08-02T03:32:52Z)
+- Intramuscular injection (Date: 2015-11-01T03:32:52Z)
+- Intramuscular injection (Date: 2016-01-31T03:32:52Z)
+- Intramuscular injection (Date: 2016-05-01T03:32:52Z)
+- Intramuscular injection (Date: 2016-07-31T03:32:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-23T03:32:52Z)
+- Intramuscular injection (Date: 2016-10-30T03:32:52Z)
+- Depression screening (procedure) (Date: 2016-10-23T04:03:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-23T04:16:26Z)
+- Assessment of substance use (procedure) (Date: 2016-10-23T04:42:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-23T04:52:57Z)
+- Intramuscular injection (Date: 2017-01-29T03:32:52Z)
+- Intramuscular injection (Date: 2017-04-30T03:32:52Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-06-15T03:50:05Z)
+- Intramuscular injection (Date: 2017-07-30T03:32:52Z)
+- Intramuscular injection (Date: 2017-10-29T03:32:52Z)
+- Intramuscular injection (Date: 2018-01-28T03:32:52Z)
+- Intramuscular injection (Date: 2018-04-29T03:32:52Z)
+- Standard pregnancy test (Date: 2018-09-09T03:32:52Z)
+- Ultrasound scan for fetal viability (Date: 2018-09-09T03:32:52Z)
+- Evaluation of uterine fundal height (Date: 2018-09-09T03:32:52Z)
+- Auscultation of the fetal heart (Date: 2018-09-09T03:32:52Z)
+- Blood typing  RH typing (Date: 2018-09-09T03:32:52Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-09-09T03:32:52Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2018-09-09T03:32:52Z)
+- Human immunodeficiency virus antigen test (Date: 2018-09-09T03:32:52Z)
+- Chlamydia antigen test (Date: 2018-09-09T03:32:52Z)
+- Gonorrhea infection test (Date: 2018-09-09T03:32:52Z)
+- Syphilis infection test (Date: 2018-09-09T03:32:52Z)
+- Urine culture (Date: 2018-09-09T03:32:52Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2018-09-09T03:32:52Z)
+- Urine screening test for diabetes (Date: 2018-09-09T03:32:52Z)
+- Hepatitis C antibody test (Date: 2018-09-09T03:32:52Z)
+- Rubella screening (Date: 2018-09-09T03:32:52Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2018-09-09T03:32:52Z)
+- Skin test for tuberculosis (Date: 2018-09-09T03:32:52Z)
+- Urine protein test (Date: 2018-09-09T03:32:52Z)
+- Physical examination of mother (Date: 2018-09-09T03:32:52Z)
+- Evaluation of uterine fundal height (Date: 2018-10-07T03:32:52Z)
+- Auscultation of the fetal heart (Date: 2018-10-07T03:32:52Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2018-10-07T03:32:52Z)
+- Physical examination (Date: 2018-11-16T03:32:52Z)
+- Depression screening (Date: 2018-11-16T03:32:52Z)
+- Insertion of intrauterine contraceptive device (Date: 2019-06-07T19:25:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-27T03:32:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-27T04:20:35Z)
+- Screening for domestic abuse (procedure) (Date: 2019-10-27T04:46:55Z)
+- Assessment of substance use (procedure) (Date: 2019-10-27T05:17:34Z)
+- Screening for drug abuse (procedure) (Date: 2019-10-27T05:29:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T03:32:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-12T03:32:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-27T20:15:11Z: Consultation for treatment
+- 2019-10-27T03:32:52Z: General examination of patient (procedure)
+- 2019-06-07T19:25:08Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-08-18T03:32:52Z QOLS: 1.0 {score}
+- 2021-08-18T03:32:52Z DALY: 0.2 a
+- 2021-08-18T03:32:52Z QALY: 28.8 a
+- 2020-08-18T03:32:52Z QOLS: 1.0 {score}
+- 2020-08-18T03:32:52Z DALY: 0.2 a
+- 2020-08-18T03:32:52Z QALY: 27.8 a
+- 2019-10-27T05:53:53Z Total score [DAST-10]: 2.0 {score}
+- 2019-10-27T05:17:34Z Total score [HARK]: 0.0 {score}
+- 2019-10-27T04:46:55Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2019-10-27T04:20:35Z What is your current work situation?: Full-time work nan

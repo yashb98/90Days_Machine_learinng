@@ -1,0 +1,60 @@
+== PATIENT RECORD: Lance203 Daugherty69 (ID: bde529cd-a87e-f646-6b7d-d0370a097d70) ==
+
+== Demographics ==
+Patient ID: bde529cd-a87e-f646-6b7d-d0370a097d70
+Name: Lance203 Daugherty69
+Gender: M
+Birthdate: 2012-04-30
+Address: 716 McDermott Meadow Unit 55
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Fracture of clavicle
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-06-04T04:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-06T04:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-07T04:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-08T04:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-07T04:33:09Z)
+- Measurement of respiratory function (procedure) (Date: 2014-07-20T15:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-06T04:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-10T04:33:09Z)
+- Throat culture (procedure) (Date: 2018-12-27T02:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-22T04:33:09Z)
+- Clavicle X-ray (Date: 2021-03-31T04:33:09Z)
+- Admission to orthopedic department (Date: 2021-03-31T04:33:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-05-03T04:33:09Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-03T04:33:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-18T06:15:09Z: Encounter for 'check-up'
+- 2021-05-03T04:33:09Z: Well child visit (procedure)
+- 2021-03-31T04:33:09Z: Emergency room admission (procedure)
+- 2020-04-27T04:33:09Z: Well child visit (procedure)
+- 2019-04-22T04:33:09Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-03T04:56:52Z Fall risk total [Morse Fall Scale]: 3.0 {#}
+- 2021-05-03T04:56:52Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-05-03T04:33:09Z Body Mass Index: 13.8 kg/m2
+- 2021-05-03T04:33:09Z Body Height: 136.1 cm
+- 2021-05-03T04:33:09Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-05-03T04:33:09Z Body Weight: 25.6 kg
+- 2021-05-03T04:33:09Z Body mass index (BMI) [Percentile] Per age and gender: 3.8 %
+- 2021-05-03T04:33:09Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-05-03T04:33:09Z Systolic Blood Pressure: 133.0 mm[Hg]
+- 2021-05-03T04:33:09Z Heart rate: 82.0 /min

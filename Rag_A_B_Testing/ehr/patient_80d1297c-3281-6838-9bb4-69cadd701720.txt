@@ -1,0 +1,90 @@
+== PATIENT RECORD: Lawrence741 Lueilwitz711 (ID: 80d1297c-3281-6838-9bb4-69cadd701720) ==
+
+== Demographics ==
+Patient ID: 80d1297c-3281-6838-9bb4-69cadd701720
+Name: Lawrence741 Lueilwitz711
+Gender: M
+Birthdate: 1990-10-24
+Address: 215 Fay Rue
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Acute bronchitis (disorder)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Stress (finding)
+- Prediabetes
+- Unhealthy alcohol drinking behavior (finding)
+- Diabetes
+- Anemia (disorder)
+- Hypertension
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Limited social contact (finding)
+- Hyperglycemia (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2012-01-15T05:51:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-25T16:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-25T17:17:31Z)
+- Depression screening (procedure) (Date: 2012-01-25T17:33:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-25T17:44:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-26T16:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-26T16:30:47Z)
+- Depression screening (procedure) (Date: 2012-12-26T17:07:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-26T17:19:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-30T16:30:47Z)
+- Assessment of substance use (procedure) (Date: 2015-12-30T17:27:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-30T17:38:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-02T16:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-02T16:30:47Z)
+- Peripheral blood smear interpretation (Date: 2019-01-02T16:30:47Z)
+- Review of systems (procedure) (Date: 2019-01-02T17:00:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-02T17:10:48Z)
+- Brief general examination (procedure) (Date: 2019-01-02T17:27:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-08T16:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-08T16:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-08T17:15:09Z)
+- Assessment of substance use (procedure) (Date: 2020-01-08T17:42:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-08T17:57:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-13T16:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-13T16:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-13T17:20:18Z)
+- Depression screening (procedure) (Date: 2021-01-13T17:37:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-13T17:49:47Z)
+- Assessment of substance use (procedure) (Date: 2021-01-13T18:10:51Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-13T18:23:14Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T16:30:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-13T16:30:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-21T17:15:20Z: Emergency room admission (procedure)
+- 2021-01-13T16:30:47Z: General examination of patient (procedure)
+- 2020-01-08T16:30:47Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T16:30:47Z QOLS: 0.9 {score}
+- 2021-10-24T16:30:47Z DALY: 0.4 a
+- 2021-10-24T16:30:47Z QALY: 29.6 a
+- 2021-01-13T18:49:46Z Total score [DAST-10]: 1.0 {score}
+- 2021-01-13T18:10:51Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-01-13T17:37:35Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-01-13T17:20:18Z What is your current work situation?: Full-time work nan
+- 2021-01-13T17:20:18Z What is your main insurance?: Private insurance nan
+- 2021-01-13T17:20:18Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 32454 /a
+- 2021-01-13T17:20:18Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Utilities nan

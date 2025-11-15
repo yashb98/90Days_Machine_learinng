@@ -1,0 +1,40 @@
+== PATIENT RECORD: Pam996 Kris249 (ID: 423a9252-21e3-6141-4207-46a9066fd7f4) ==
+
+== Demographics ==
+Patient ID: 423a9252-21e3-6141-4207-46a9066fd7f4
+Name: Pam996 Kris249
+Gender: F
+Birthdate: 2020-12-14
+Address: 343 McKenzie Trail
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2021-03-23T02:23:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-24T02:23:37Z: Well child visit (procedure)
+- 2021-05-25T02:23:37Z: Well child visit (procedure)
+- 2021-03-23T02:23:37Z: Well child visit (procedure)
+- 2021-01-19T02:23:37Z: Well child visit (procedure)
+- 2020-12-15T02:23:37Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-24T02:23:37Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-24T02:23:37Z Respiratory rate: 13.0 /min
+- 2021-08-24T02:23:37Z Heart rate: 88.0 /min
+- 2021-08-24T02:23:37Z Systolic Blood Pressure: 118.0 mm[Hg]
+- 2021-08-24T02:23:37Z Diastolic Blood Pressure: 73.0 mm[Hg]
+- 2021-08-24T02:23:37Z Head Occipital-frontal circumference: 43.4 cm
+- 2021-08-24T02:23:37Z Weight-for-length Per age and sex: 98.2 %
+- 2021-08-24T02:23:37Z Body Weight: 9.8 kg
+- 2021-08-24T02:23:37Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-08-24T02:23:37Z Body Height: 68.4 cm

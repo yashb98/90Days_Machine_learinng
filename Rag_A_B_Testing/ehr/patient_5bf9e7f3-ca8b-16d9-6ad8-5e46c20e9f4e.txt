@@ -1,0 +1,103 @@
+== PATIENT RECORD: Duane703 Gibson10 (ID: 5bf9e7f3-ca8b-16d9-6ad8-5e46c20e9f4e) ==
+
+== Demographics ==
+Patient ID: 5bf9e7f3-ca8b-16d9-6ad8-5e46c20e9f4e
+Name: Duane703 Gibson10
+Gender: M
+Birthdate: 1994-12-09
+Address: 177 Haag Lodge Apt 69
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-01-28T01:08:26Z)
+- Depression screening (procedure) (Date: 2012-01-28T01:24:39Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-01-28T01:39:22Z)
+- Assessment of substance use (procedure) (Date: 2012-01-28T02:02:42Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-28T02:12:49Z)
+- Health risks education (procedure) (Date: 2012-01-28T02:27:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-02T01:08:26Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-02T01:08:26Z)
+- Depression screening (procedure) (Date: 2013-02-02T01:54:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-02T02:09:29Z)
+- Assessment of substance use (procedure) (Date: 2013-02-02T02:32:42Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-02T02:43:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-08T01:08:26Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-08T01:08:26Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-08T01:53:52Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-08T02:10:53Z)
+- Depression screening (procedure) (Date: 2014-02-08T02:40:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-08T02:51:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-14T01:08:26Z)
+- Depression screening (procedure) (Date: 2015-02-14T02:05:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-14T02:18:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-02-14T02:40:56Z)
+- Assessment of substance use (procedure) (Date: 2015-02-14T03:04:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-14T03:14:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-20T01:08:26Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-20T01:43:19Z)
+- Depression screening (procedure) (Date: 2016-02-20T02:19:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-20T02:32:24Z)
+- Assessment of substance use (procedure) (Date: 2016-02-20T03:00:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-20T03:12:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-25T01:08:26Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-25T01:08:26Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-25T02:04:55Z)
+- Depression screening (procedure) (Date: 2017-02-25T02:26:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-25T02:40:22Z)
+- Assessment of substance use (procedure) (Date: 2017-02-25T03:08:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-25T03:20:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-03T01:08:26Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-03T01:08:26Z)
+- Assessment of anxiety (procedure) (Date: 2018-03-03T01:51:02Z)
+- Depression screening (procedure) (Date: 2018-03-03T02:06:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-03T02:18:29Z)
+- Assessment of substance use (procedure) (Date: 2018-03-03T02:40:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-03-03T02:54:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-09T01:08:26Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-09T01:08:26Z)
+- Depression screening (procedure) (Date: 2019-03-09T01:50:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-09T02:00:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-14T01:08:26Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-14T01:08:26Z)
+- Depression screening (procedure) (Date: 2020-03-14T01:48:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-14T01:59:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-20T01:08:26Z)
+- Depression screening (procedure) (Date: 2021-03-20T01:50:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-20T02:02:17Z)
+- Assessment of substance use (procedure) (Date: 2021-03-20T02:31:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-20T02:42:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-20T01:08:26Z: General examination of patient (procedure)
+- 2020-03-14T01:08:26Z: General examination of patient (procedure)
+- 2019-03-09T01:08:26Z: General examination of patient (procedure)
+- 2018-03-03T01:08:26Z: General examination of patient (procedure)
+- 2017-02-25T01:08:26Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-20T03:05:25Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-03-20T02:31:23Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-20T01:50:03Z Are you Hispanic or Latino?: No nan
+- 2021-03-20T01:50:03Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 3835 /a
+- 2021-03-20T01:50:03Z What is your main insurance?: Medicaid nan
+- 2021-03-20T01:50:03Z What is your current work situation?: Unemployed (finding) nan
+- 2021-03-20T01:50:03Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-03-20T01:50:03Z What address do you live at?: 177 Haag Lodge Apt 69 nan
+- 2021-03-20T01:50:03Z Are you worried about losing your housing?: No nan
+- 2021-03-20T01:50:03Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 1 or 2 times a week nan

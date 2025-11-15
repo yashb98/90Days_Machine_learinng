@@ -1,0 +1,155 @@
+== PATIENT RECORD: Josphine206 Keebler762 (ID: e1183fd3-ffb9-5078-31ea-2ab0e5e7db90) ==
+
+== Demographics ==
+Patient ID: e1183fd3-ffb9-5078-31ea-2ab0e5e7db90
+Name: Josphine206 Keebler762
+Gender: F
+Birthdate: 1943-08-28
+Address: 438 Pfeffer Harbor
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Osteoarthritis of knee
+- Part-time employment (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Chronic congestive heart failure (disorder)
+- Acute viral pharyngitis (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1994-09-04T03:21:54Z)
+- Depression screening (procedure) (Date: 1994-09-04T04:08:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-09-04T04:21:53Z)
+- Assessment of substance use (procedure) (Date: 1994-09-04T04:44:15Z)
+- Screening for drug abuse (procedure) (Date: 1994-09-04T04:58:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-09-10T03:21:54Z)
+- Depression screening (procedure) (Date: 1995-09-10T03:54:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-09-10T04:09:16Z)
+- Assessment of substance use (procedure) (Date: 1995-09-10T04:29:30Z)
+- Screening for drug abuse (procedure) (Date: 1995-09-10T04:40:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-09-15T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1996-09-15T03:21:54Z)
+- Depression screening (procedure) (Date: 1996-09-15T04:21:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-09-15T04:33:29Z)
+- Assessment of substance use (procedure) (Date: 1996-09-15T04:59:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-09-15T05:10:15Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-09-21T03:21:54Z)
+- Depression screening (procedure) (Date: 1997-09-21T04:20:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-09-21T04:31:11Z)
+- Assessment of substance use (procedure) (Date: 1997-09-21T04:51:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1997-09-21T05:04:04Z)
+- Colonoscopy (Date: 1998-08-29T03:53:39Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-09-27T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1998-09-27T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1998-09-27T03:57:35Z)
+- Screening for domestic abuse (procedure) (Date: 1998-09-27T04:24:44Z)
+- Depression screening (procedure) (Date: 1998-09-27T05:03:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-09-27T05:18:03Z)
+- Assessment of substance use (procedure) (Date: 1998-09-27T05:40:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1998-09-27T05:52:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-10-03T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1999-10-03T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1999-10-03T04:07:26Z)
+- Assessment of substance use (procedure) (Date: 1999-10-03T04:35:51Z)
+- Screening for drug abuse (procedure) (Date: 1999-10-03T04:50:49Z)
+- Measurement of respiratory function (procedure) (Date: 2000-01-09T20:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-01-16T03:21:54Z)
+- Depression screening (procedure) (Date: 2000-01-16T04:20:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-01-16T04:32:18Z)
+- Assessment of substance use (procedure) (Date: 2000-01-16T04:54:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2000-01-16T05:09:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-10-08T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 2000-10-08T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 2000-10-08T03:53:30Z)
+- Depression screening (procedure) (Date: 2000-10-08T04:20:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-10-08T04:34:35Z)
+- Electrocardiographic procedure (Date: 2001-04-26T03:21:54Z)
+- Cardiovascular stress testing (procedure) (Date: 2001-04-26T03:29:52Z)
+- Plain chest X-ray (procedure) (Date: 2001-04-26T04:02:14Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2001-04-26T04:02:14Z)
+- Echocardiography (procedure) (Date: 2001-05-10T04:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2001-05-10T04:22:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-10-14T03:21:54Z)
+- Depression screening (procedure) (Date: 2001-10-14T04:03:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-10-14T04:17:02Z)
+- Assessment of substance use (procedure) (Date: 2001-10-14T04:45:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-10-14T04:58:16Z)
+- Echocardiography (procedure) (Date: 2001-11-06T04:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2001-11-06T04:22:20Z)
+- Echocardiography (procedure) (Date: 2002-05-05T04:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2002-05-05T04:22:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-10-20T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 2002-10-20T04:08:05Z)
+- Depression screening (procedure) (Date: 2002-10-20T04:27:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-10-20T04:40:10Z)
+- Assessment of substance use (procedure) (Date: 2002-10-20T05:04:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-10-20T05:18:12Z)
+- Oxygen administration by mask (procedure) (Date: 2002-11-01T04:22:20Z)
+- Placing subject in prone position (procedure) (Date: 2002-11-01T04:22:20Z)
+- Plain chest X-ray (procedure) (Date: 2002-11-01T04:22:20Z)
+- Medication Reconciliation (procedure) (Date: 2002-11-01T04:22:20Z)
+- Electrocardiographic procedure (Date: 2002-11-01T04:22:20Z)
+- Oxygen administration by mask (procedure) (Date: 2002-11-01T04:29:57Z)
+- Placing subject in prone position (procedure) (Date: 2002-11-01T04:29:57Z)
+- Heart failure education (procedure) (Date: 2002-11-02T04:29:57Z)
+- Echocardiography (procedure) (Date: 2003-05-01T05:19:39Z)
+- Medication Reconciliation (procedure) (Date: 2003-05-01T05:19:39Z)
+- Colonoscopy (Date: 2003-08-29T04:34:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-10-26T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 2003-10-26T03:21:54Z)
+- Screening for domestic abuse (procedure) (Date: 2003-10-26T04:07:21Z)
+- Depression screening (procedure) (Date: 2003-10-26T04:42:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-10-26T04:52:46Z)
+- Assessment of substance use (procedure) (Date: 2003-10-26T05:20:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-10-26T05:31:19Z)
+- Oxygen administration by mask (procedure) (Date: 2003-10-28T05:19:39Z)
+- Placing subject in prone position (procedure) (Date: 2003-10-28T05:19:39Z)
+- Plain chest X-ray (procedure) (Date: 2003-10-28T05:19:39Z)
+- Medication Reconciliation (procedure) (Date: 2003-10-28T05:19:39Z)
+- Electrocardiographic procedure (Date: 2003-10-28T05:19:39Z)
+- Oxygen administration by mask (procedure) (Date: 2003-10-28T05:24:53Z)
+- Placing subject in prone position (procedure) (Date: 2003-10-28T05:24:53Z)
+- Oxygen administration by mask (procedure) (Date: 2003-10-29T05:24:53Z)
+- Placing subject in prone position (procedure) (Date: 2003-10-29T05:24:53Z)
+- Heart failure education (procedure) (Date: 2003-10-30T05:24:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2003-11-16T03:21:54Z: Death Certification
+- 2003-10-28T05:19:39Z: Admission to intensive care unit (procedure)
+- 2003-10-28T05:19:39Z: Encounter for Problem
+- 2003-10-26T03:21:54Z: General examination of patient (procedure)
+- 2003-08-29T04:34:02Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2003-11-16T03:21:54Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2003-10-29T17:24:53Z MCHC [Mass/volume] by Automated count: 32.9 g/dL
+- 2003-10-29T17:24:53Z Potassium [Moles/volume] in Serum or Plasma: 4.9 mmol/L
+- 2003-10-29T17:24:53Z Sodium [Moles/volume] in Serum or Plasma: 137.3 mmol/L
+- 2003-10-29T17:24:53Z Calcium [Mass/volume] in Serum or Plasma: 9.8 mg/dL
+- 2003-10-29T17:24:53Z Creatinine [Mass/volume] in Serum or Plasma: 0.9 mg/dL
+- 2003-10-29T17:24:53Z Urea nitrogen [Mass/volume] in Serum or Plasma: 9.4 mg/dL
+- 2003-10-29T17:24:53Z Glucose [Mass/volume] in Serum or Plasma: 66.3 mg/dL
+- 2003-10-29T17:24:53Z Platelets [#/volume] in Blood by Automated count: 167.7 10*3/uL
+- 2003-10-29T17:24:53Z MCH [Entitic mass] by Automated count: 30.7 pg

@@ -1,0 +1,52 @@
+== PATIENT RECORD: Branda994 Nienow652 (ID: e43cd6c4-af6c-4be7-ba29-e5e893e7c73c) ==
+
+== Demographics ==
+Patient ID: e43cd6c4-af6c-4be7-ba29-e5e893e7c73c
+Name: Branda994 Nienow652
+Gender: F
+Birthdate: 2010-04-08
+Address: 176 Abernathy Lock Suite 43
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Otitis media
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-03-14T12:31:24Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-12T12:31:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-19T12:31:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-30T12:31:24Z)
+- Throat culture (procedure) (Date: 2017-04-05T01:31:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-05T12:31:24Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-11T12:31:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-22T12:31:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-28T14:31:24Z: Encounter for symptom
+- 2021-04-22T12:31:24Z: Well child visit (procedure)
+- 2020-04-16T12:31:24Z: Well child visit (procedure)
+- 2019-04-11T12:31:24Z: Well child visit (procedure)
+- 2018-04-05T12:31:24Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-22T12:31:24Z Body Mass Index: 22.0 kg/m2
+- 2021-04-22T12:31:24Z Body mass index (BMI) [Percentile] Per age and gender: 90.1 %
+- 2021-04-22T12:31:24Z Respiratory rate: 13.0 /min
+- 2021-04-22T12:31:24Z Leukocytes [#/volume] in Blood by Automated count: 7.8 10*3/uL
+- 2021-04-22T12:31:24Z Erythrocytes [#/volume] in Blood by Automated count: 4.4 10*6/uL
+- 2021-04-22T12:31:24Z Hemoglobin [Mass/volume] in Blood: 14.2 g/dL
+- 2021-04-22T12:31:24Z Hematocrit [Volume Fraction] of Blood by Automated count: 41.1 %
+- 2021-04-22T12:31:24Z MCV [Entitic volume] by Automated count: 80.7 fL
+- 2021-04-22T12:31:24Z MCH [Entitic mass] by Automated count: 28.0 pg
+- 2021-04-22T12:31:24Z MCHC [Mass/volume] by Automated count: 33.4 g/dL

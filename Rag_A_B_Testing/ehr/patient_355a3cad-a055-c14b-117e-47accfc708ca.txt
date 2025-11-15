@@ -1,0 +1,184 @@
+== PATIENT RECORD: Carole948 Konopelski743 (ID: 355a3cad-a055-c14b-117e-47accfc708ca) ==
+
+== Demographics ==
+Patient ID: 355a3cad-a055-c14b-117e-47accfc708ca
+Name: Carole948 Konopelski743
+Gender: F
+Birthdate: 1991-01-12
+Address: 616 Kulas Stravenue
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Cerebral palsy (disorder)
+- Pain (finding)
+- Poor muscle tone (finding)
+- Spasticity (finding)
+- Osteoporosis (disorder)
+- Intellectual disability (disorder)
+- Dislocation of hip joint (disorder)
+- Pneumonia (disorder)
+- Otitis media
+- Injury of tendon of the rotator cuff of shoulder
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Normal pregnancy
+
+== Current Medications ==
+- Errin 28 Day Pack
+- Jolivette 28 Day Pack
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-07T03:50:32Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-10T04:25:59Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-13T05:08:52Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T05:53:55Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T06:37:37Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T07:37:04Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T08:19:42Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-28T09:13:15Z)
+- Standard pregnancy test (Date: 2015-02-01T03:50:32Z)
+- Ultrasound scan for fetal viability (Date: 2015-02-01T03:50:32Z)
+- Counseling for termination of pregnancy (Date: 2015-02-15T03:50:32Z)
+- Induced termination of pregnancy (Date: 2015-02-15T03:50:32Z)
+- Pregnancy termination care (Date: 2015-02-27T03:50:32Z)
+- Physical exam following abortion (Date: 2015-02-27T03:50:32Z)
+- Depression screening (Date: 2015-02-27T03:50:32Z)
+- Standard pregnancy test (Date: 2016-03-20T03:50:32Z)
+- Ultrasound scan for fetal viability (Date: 2016-03-20T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-03-20T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-03-20T03:50:32Z)
+- Blood typing  RH typing (Date: 2016-03-20T03:50:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-03-20T03:50:32Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2016-03-20T03:50:32Z)
+- Human immunodeficiency virus antigen test (Date: 2016-03-20T03:50:32Z)
+- Chlamydia antigen test (Date: 2016-03-20T03:50:32Z)
+- Gonorrhea infection test (Date: 2016-03-20T03:50:32Z)
+- Syphilis infection test (Date: 2016-03-20T03:50:32Z)
+- Urine culture (Date: 2016-03-20T03:50:32Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2016-03-20T03:50:32Z)
+- Urine screening test for diabetes (Date: 2016-03-20T03:50:32Z)
+- Hepatitis C antibody test (Date: 2016-03-20T03:50:32Z)
+- Rubella screening (Date: 2016-03-20T03:50:32Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2016-03-20T03:50:32Z)
+- Skin test for tuberculosis (Date: 2016-03-20T03:50:32Z)
+- Urine protein test (Date: 2016-03-20T03:50:32Z)
+- Physical examination of mother (Date: 2016-03-20T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-04-17T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-04-17T03:50:32Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2016-04-17T03:50:32Z)
+- Fetal anatomy study (Date: 2016-05-15T03:50:32Z)
+- Alpha-fetoprotein test (Date: 2016-05-15T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-05-15T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-05-15T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-06-12T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-06-12T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-07-10T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-07-10T03:50:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2016-08-07T03:50:32Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2016-08-07T03:50:32Z)
+- Urine screening for glucose (Date: 2016-08-07T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-08-07T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-08-07T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-09-04T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-09-04T03:50:32Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2016-10-02T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-10-02T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-10-02T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2016-10-16T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2016-10-16T03:50:32Z)
+- Childbirth (Date: 2016-10-23T03:50:32Z)
+- Physical examination following birth (Date: 2016-12-04T03:50:32Z)
+- Depression screening (Date: 2016-12-04T03:50:32Z)
+- Intramuscular injection (Date: 2017-11-29T03:50:32Z)
+- Intramuscular injection (Date: 2018-03-11T03:50:32Z)
+- Intramuscular injection (Date: 2018-06-10T03:50:32Z)
+- Intramuscular injection (Date: 2018-09-09T03:50:32Z)
+- Intramuscular injection (Date: 2018-12-09T03:50:32Z)
+- Intramuscular injection (Date: 2019-03-10T03:50:32Z)
+- Intramuscular injection (Date: 2019-06-09T03:50:32Z)
+- Standard pregnancy test (Date: 2019-08-25T03:50:32Z)
+- Ultrasound scan for fetal viability (Date: 2019-08-25T03:50:32Z)
+- Counseling for termination of pregnancy (Date: 2019-09-03T03:50:32Z)
+- Induced termination of pregnancy (Date: 2019-09-03T03:50:32Z)
+- Pregnancy termination care (Date: 2019-09-23T03:50:32Z)
+- Physical exam following abortion (Date: 2019-09-23T03:50:32Z)
+- Depression screening (Date: 2019-09-23T03:50:32Z)
+- Standard pregnancy test (Date: 2020-03-29T03:50:32Z)
+- Ultrasound scan for fetal viability (Date: 2020-03-29T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-03-29T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-03-29T03:50:32Z)
+- Blood typing  RH typing (Date: 2020-03-29T03:50:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-03-29T03:50:32Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2020-03-29T03:50:32Z)
+- Human immunodeficiency virus antigen test (Date: 2020-03-29T03:50:32Z)
+- Chlamydia antigen test (Date: 2020-03-29T03:50:32Z)
+- Gonorrhea infection test (Date: 2020-03-29T03:50:32Z)
+- Syphilis infection test (Date: 2020-03-29T03:50:32Z)
+- Urine culture (Date: 2020-03-29T03:50:32Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2020-03-29T03:50:32Z)
+- Urine screening test for diabetes (Date: 2020-03-29T03:50:32Z)
+- Hepatitis C antibody test (Date: 2020-03-29T03:50:32Z)
+- Rubella screening (Date: 2020-03-29T03:50:32Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2020-03-29T03:50:32Z)
+- Skin test for tuberculosis (Date: 2020-03-29T03:50:32Z)
+- Urine protein test (Date: 2020-03-29T03:50:32Z)
+- Physical examination of mother (Date: 2020-03-29T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-04-26T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-04-26T03:50:32Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2020-04-26T03:50:32Z)
+- Fetal anatomy study (Date: 2020-05-24T03:50:32Z)
+- Alpha-fetoprotein test (Date: 2020-05-24T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-05-24T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-05-24T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-06-21T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-06-21T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-07-19T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-07-19T03:50:32Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2020-08-16T03:50:32Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2020-08-16T03:50:32Z)
+- Urine screening for glucose (Date: 2020-08-16T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-08-16T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-08-16T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-09-13T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-09-13T03:50:32Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2020-10-11T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-10-11T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-10-11T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-10-25T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-10-25T03:50:32Z)
+- Evaluation of uterine fundal height (Date: 2020-11-01T03:50:32Z)
+- Auscultation of the fetal heart (Date: 2020-11-01T03:50:32Z)
+- Augmentation of labor (Date: 2020-11-08T03:50:32Z)
+- Childbirth (Date: 2020-11-08T03:50:32Z)
+- Physical examination following birth (Date: 2020-12-20T03:50:32Z)
+- Depression screening (Date: 2020-12-20T03:50:32Z)
+- Standard pregnancy test (Date: 2021-03-28T03:50:32Z)
+- Ultrasound scan for fetal viability (Date: 2021-03-28T03:50:32Z)
+- Counseling for termination of pregnancy (Date: 2021-04-11T03:50:32Z)
+- Induced termination of pregnancy (Date: 2021-04-11T03:50:32Z)
+- Pregnancy termination care (Date: 2021-05-01T03:50:32Z)
+- Physical exam following abortion (Date: 2021-05-01T03:50:32Z)
+- Depression screening (Date: 2021-05-01T03:50:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-01T03:50:32Z: Prenatal visit
+- 2021-04-11T03:50:32Z: Patient-initiated encounter
+- 2021-03-28T03:50:32Z: Prenatal initial visit
+- 2020-12-20T03:50:32Z: Postnatal visit
+- 2020-11-08T03:50:32Z: Obstetric emergency hospital admission
+
+== Recent Observations (Last 10) ==
+- 2021-01-13T03:50:32Z QALY: 28.1 a
+- 2021-01-13T03:50:32Z DALY: 0.9 a
+- 2021-01-13T03:50:32Z QOLS: 1.0 {score}
+- 2020-01-13T03:50:32Z DALY: 0.9 a
+- 2020-01-13T03:50:32Z QALY: 27.1 a
+- 2020-01-13T03:50:32Z QOLS: 1.0 {score}
+- 2019-01-13T03:50:32Z DALY: 0.8 a
+- 2019-01-13T03:50:32Z QALY: 26.2 a
+- 2019-01-13T03:50:32Z QOLS: 1.0 {score}
+- 2018-01-13T03:50:32Z DALY: 0.8 a

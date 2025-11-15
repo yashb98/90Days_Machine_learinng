@@ -1,0 +1,114 @@
+== PATIENT RECORD: Agueda283 Gerhold939 (ID: 76b289fd-e825-734c-8446-316f59643593) ==
+
+== Demographics ==
+Patient ID: 76b289fd-e825-734c-8446-316f59643593
+Name: Agueda283 Gerhold939
+Gender: F
+Birthdate: 1985-03-03
+Address: 733 Bednar Grove Apt 36
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Miscarriage in first trimester
+- Tubal pregnancy
+- Escherichia coli urinary tract infection
+- Viral sinusitis (disorder)
+- Diabetes
+- Limited social contact (finding)
+- Hypertriglyceridemia (disorder)
+- Acute viral pharyngitis (disorder)
+- Closed fracture of hip
+- Facial laceration
+- Anemia (disorder)
+- Victim of intimate partner abuse (finding)
+- Cough (finding)
+- Sputum finding (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute deep venous thrombosis (disorder)
+
+== Current Medications ==
+- Astemizole 10 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-05-12T05:40:38Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-12T06:11:14Z)
+- Screening for domestic abuse (procedure) (Date: 2013-05-12T06:33:48Z)
+- Depression screening (procedure) (Date: 2013-05-12T07:02:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-12T07:15:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-15T05:40:38Z)
+- Assessment of substance use (procedure) (Date: 2016-05-15T06:39:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-15T06:50:45Z)
+- Throat culture (procedure) (Date: 2018-02-28T09:40:38Z)
+- Pelvis X-ray (Date: 2018-05-14T08:38:38Z)
+- Admission to orthopedic department (Date: 2018-05-14T08:38:38Z)
+- Suture open wound (Date: 2019-04-27T10:19:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-19T05:40:38Z)
+- Peripheral blood smear interpretation (Date: 2019-05-19T05:40:38Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-19T06:21:13Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-19T06:40:16Z)
+- Depression screening (procedure) (Date: 2019-05-19T07:18:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-19T07:31:54Z)
+- Review of systems (procedure) (Date: 2019-05-19T06:10:38Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-19T06:27:57Z)
+- Brief general examination (procedure) (Date: 2019-05-19T06:34:54Z)
+- Face mask (physical object) (Date: 2021-04-07T05:40:38Z)
+- Plain chest X-ray (procedure) (Date: 2021-04-07T06:52:15Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-07T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-07T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-08T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-08T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-09T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-09T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-10T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-10T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-11T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-11T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-12T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-12T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-13T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-13T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-14T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-14T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-15T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-15T07:26:17Z)
+- Oxygen administration by mask (procedure) (Date: 2021-04-16T07:26:17Z)
+- Placing subject in prone position (procedure) (Date: 2021-04-16T07:26:17Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T05:40:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-05T05:40:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-07T06:52:15Z: Hospital admission for isolation (procedure)
+- 2021-04-07T05:40:38Z: Encounter for symptom (procedure)
+- 2019-11-07T08:40:38Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-04-17T10:09:17Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Not detected (qualifier value) nan
+- 2021-04-17T10:09:17Z Body temperature: 36.7 Cel
+- 2021-04-16T07:26:17Z MCHC [Mass/volume] by Automated count: 33.5 g/dL
+- 2021-04-16T07:26:17Z Hematocrit [Volume Fraction] of Blood by Automated count: 42.8 %
+- 2021-04-16T07:26:17Z Neutrophils [#/volume] in Blood by Automated count: 1.9 10*3/uL
+- 2021-04-16T07:26:17Z Eosinophils/100 leukocytes in Blood by Automated count: 5.1 %
+- 2021-04-16T07:26:17Z Monocytes/100 leukocytes in Blood by Automated count: 11.7 %
+- 2021-04-16T07:26:17Z Lymphocytes/100 leukocytes in Blood by Automated count: 6.2 %
+- 2021-04-16T07:26:17Z Neutrophils/100 leukocytes in Blood by Automated count: 37.6 %
+- 2021-04-16T07:26:17Z Platelets [#/volume] in Blood by Automated count: 102.4 10*3/uL

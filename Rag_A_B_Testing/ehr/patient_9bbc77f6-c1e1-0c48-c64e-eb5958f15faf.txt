@@ -1,0 +1,51 @@
+== PATIENT RECORD: Sheron583 Leffler128 (ID: 9bbc77f6-c1e1-0c48-c64e-eb5958f15faf) ==
+
+== Demographics ==
+Patient ID: 9bbc77f6-c1e1-0c48-c64e-eb5958f15faf
+Name: Sheron583 Leffler128
+Gender: F
+Birthdate: 2012-02-16
+Address: 545 O'Reilly Mall
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-16T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-24T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-25T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-25T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-25T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-23T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-21T12:19:42Z)
+- Throat culture (procedure) (Date: 2016-05-24T04:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-01T12:19:42Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-13T12:19:42Z)
+- Throat culture (procedure) (Date: 2020-07-30T21:19:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-18T12:19:42Z: Well child visit (procedure)
+- 2020-07-30T21:19:42Z: Encounter for symptom
+- 2020-02-13T12:19:42Z: Well child visit (procedure)
+- 2019-09-18T00:19:42Z: Encounter for symptom
+- 2019-02-07T12:19:42Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-18T12:19:42Z Body Weight: 35.3 kg
+- 2021-02-18T12:19:42Z Body Height: 136.6 cm
+- 2021-02-18T12:19:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-02-18T12:19:42Z Body Mass Index: 18.9 kg/m2
+- 2021-02-18T12:19:42Z Body mass index (BMI) [Percentile] Per age and gender: 83.4 %
+- 2021-02-18T12:19:42Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-02-18T12:19:42Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-02-18T12:19:42Z Heart rate: 95.0 /min
+- 2021-02-18T12:19:42Z Respiratory rate: 15.0 /min
+- 2021-02-18T12:19:42Z Tobacco smoking status NHIS: Never smoker nan

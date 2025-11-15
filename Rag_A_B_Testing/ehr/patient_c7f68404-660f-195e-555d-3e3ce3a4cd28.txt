@@ -1,0 +1,134 @@
+== PATIENT RECORD: Kiersten731 Parker433 (ID: c7f68404-660f-195e-555d-3e3ce3a4cd28) ==
+
+== Demographics ==
+Patient ID: c7f68404-660f-195e-555d-3e3ce3a4cd28
+Name: Kiersten731 Parker433
+Gender: F
+Birthdate: 1959-09-26
+Address: 393 Olson Run Apt 33
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Miscarriage in first trimester
+- Body mass index 30+ - obesity (finding)
+- Prediabetes
+- Hyperlipidemia
+- Anemia (disorder)
+- Stress (finding)
+- Reports of violence in the environment (finding)
+- Severe anxiety (panic) (finding
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Polyp of colon
+- Recurrent rectal polyp
+- Malignant tumor of colon
+- Concussion with no loss of consciousness
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- ferrous sulfate 325 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Leucovorin 100 MG Injection
+- 10 ML oxaliplatin 5 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-13T04:38:51Z)
+- Assessment of substance use (procedure) (Date: 2012-10-13T05:33:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-10-13T05:47:34Z)
+- Measurement of respiratory function (procedure) (Date: 2013-10-04T23:38:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-12T04:38:51Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-12T04:38:51Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-12T05:28:42Z)
+- Screening for domestic abuse (procedure) (Date: 2013-10-12T05:43:42Z)
+- Depression screening (procedure) (Date: 2013-10-12T06:10:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-12T06:22:41Z)
+- Assessment of substance use (procedure) (Date: 2013-10-12T06:44:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-12T06:57:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-26T04:38:51Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-26T04:38:51Z)
+- Depression screening (procedure) (Date: 2013-10-26T05:19:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-26T05:32:26Z)
+- Assessment of substance use (procedure) (Date: 2013-10-26T05:57:47Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-26T06:11:30Z)
+- Colonoscopy (Date: 2014-09-26T05:08:34Z)
+- Screening for occult blood in feces (procedure) (Date: 2014-09-26T05:45:11Z)
+- Rectal polypectomy (Date: 2014-09-26T05:45:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-11-01T04:38:51Z)
+- Medication Reconciliation (procedure) (Date: 2014-11-01T04:38:51Z)
+- Screening for domestic abuse (procedure) (Date: 2014-11-01T05:13:46Z)
+- Depression screening (procedure) (Date: 2014-11-01T05:41:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-11-01T05:55:39Z)
+- Assessment of substance use (procedure) (Date: 2014-11-01T06:16:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-11-01T06:28:41Z)
+- Colonoscopy (Date: 2015-09-24T05:45:11Z)
+- Rectal polypectomy (Date: 2015-09-24T06:13:01Z)
+- Partial resection of colon (Date: 2015-10-08T00:13:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-07T04:38:51Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-11-04T19:13:01Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-07T04:38:51Z)
+- Depression screening (procedure) (Date: 2015-11-07T05:29:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-07T05:41:41Z)
+- Assessment of substance use (procedure) (Date: 2015-11-07T06:10:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-11-07T06:23:16Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2015-12-07T19:13:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2016-01-07T00:13:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2016-02-04T02:13:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2016-03-06T11:13:01Z)
+- Combined chemotherapy and radiation therapy (procedure) (Date: 2016-04-04T12:13:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-12T04:38:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-12T04:38:51Z)
+- Screening for domestic abuse (procedure) (Date: 2016-11-12T05:23:20Z)
+- Depression screening (procedure) (Date: 2016-11-12T06:03:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-12T06:16:15Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-12T06:41:15Z)
+- Assessment of substance use (procedure) (Date: 2016-11-12T07:10:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-12T07:24:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-18T04:38:51Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-18T04:38:51Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-18T05:17:24Z)
+- Depression screening (procedure) (Date: 2017-11-18T05:33:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-18T05:46:17Z)
+- Assessment of substance use (procedure) (Date: 2017-11-18T06:11:50Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-18T06:22:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-24T04:38:51Z)
+- Assessment of anxiety (procedure) (Date: 2018-11-24T05:16:18Z)
+- Depression screening (procedure) (Date: 2018-11-24T05:34:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-24T05:45:50Z)
+- Assessment of substance use (procedure) (Date: 2018-11-24T06:13:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-24T06:24:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-30T04:38:51Z)
+- Depression screening (procedure) (Date: 2019-11-30T05:17:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-30T05:28:26Z)
+- Assessment of substance use (procedure) (Date: 2019-11-30T05:49:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-11-30T06:02:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-05T04:38:51Z)
+- Depression screening (procedure) (Date: 2020-12-05T05:13:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-05T05:25:58Z)
+- Assessment of substance use (procedure) (Date: 2020-12-05T05:51:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-12-05T06:03:51Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-12T04:38:51Z: Follow-up encounter
+- 2021-02-27T04:38:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-06T04:38:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-05T04:38:51Z: General examination of patient (procedure)
+- 2020-04-12T04:38:51Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-09-26T04:38:51Z QOLS: 0.9 {score}
+- 2021-09-26T04:38:51Z DALY: 4.8 a
+- 2021-09-26T04:38:51Z QALY: 56.2 a
+- 2021-04-12T04:38:51Z Glomerular filtration rate/1.73 sq M.predicted: 85.6 mL/min
+- 2021-04-12T04:38:51Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 45.4 U/L
+- 2021-04-12T04:38:51Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 66.0 U/L
+- 2021-04-12T04:38:51Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.2 mg/dL
+- 2021-04-12T04:38:51Z Globulin [Mass/volume] in Serum by calculation: 3.4 g/L
+- 2021-04-12T04:38:51Z Albumin [Mass/volume] in Serum or Plasma: 4.6 g/dL
+- 2021-04-12T04:38:51Z Protein [Mass/volume] in Serum or Plasma: 62.9 g/dL

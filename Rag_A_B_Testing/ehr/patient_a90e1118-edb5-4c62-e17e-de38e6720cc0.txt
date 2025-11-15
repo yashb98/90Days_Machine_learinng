@@ -1,0 +1,106 @@
+== PATIENT RECORD: Janiece99 White193 (ID: a90e1118-edb5-4c62-e17e-de38e6720cc0) ==
+
+== Demographics ==
+Patient ID: a90e1118-edb5-4c62-e17e-de38e6720cc0
+Name: Janiece99 White193
+Gender: F
+Birthdate: 1975-07-12
+Address: 880 Kemmer Path
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-25T02:53:26Z)
+- Depression screening (procedure) (Date: 2011-12-25T03:33:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-25T03:48:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2011-12-25T04:10:09Z)
+- Throat culture (procedure) (Date: 2012-10-06T13:53:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-30T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-30T02:53:26Z)
+- Depression screening (procedure) (Date: 2012-12-30T03:27:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-30T03:40:40Z)
+- Assessment of substance use (procedure) (Date: 2012-12-30T04:09:12Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-30T04:20:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-05T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-05T02:53:26Z)
+- Depression screening (procedure) (Date: 2014-01-05T03:25:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-05T03:35:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-11T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-11T02:53:26Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-11T03:40:04Z)
+- Depression screening (procedure) (Date: 2015-01-11T03:55:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-11T04:06:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-11T04:32:11Z)
+- Assessment of substance use (procedure) (Date: 2015-01-11T04:54:35Z)
+- Screening for drug abuse (procedure) (Date: 2015-01-11T05:05:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-17T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-17T02:53:26Z)
+- Screening for domestic abuse (procedure) (Date: 2016-01-17T03:46:34Z)
+- Depression screening (procedure) (Date: 2016-01-17T04:21:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-17T04:33:28Z)
+- Assessment of substance use (procedure) (Date: 2016-01-17T05:01:51Z)
+- Screening for drug abuse (procedure) (Date: 2016-01-17T05:13:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-22T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-22T02:53:26Z)
+- Screening for domestic abuse (procedure) (Date: 2017-01-22T03:40:18Z)
+- Depression screening (procedure) (Date: 2017-01-22T04:09:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-22T04:23:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-01-28T02:53:26Z)
+- Assessment of anxiety (procedure) (Date: 2018-01-28T03:39:32Z)
+- Screening for domestic abuse (procedure) (Date: 2018-01-28T03:55:19Z)
+- Depression screening (procedure) (Date: 2018-01-28T04:28:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-01-28T04:38:15Z)
+- Assessment of substance use (procedure) (Date: 2018-01-28T05:05:12Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-01-28T05:18:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-03T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-03T02:53:26Z)
+- Depression screening (procedure) (Date: 2019-02-03T03:35:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-03T03:49:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-09T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-09T02:53:26Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-09T03:31:46Z)
+- Depression screening (procedure) (Date: 2020-02-09T04:00:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-09T04:12:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-02-09T04:40:47Z)
+- Assessment of substance use (procedure) (Date: 2020-02-09T05:09:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-02-09T05:23:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-14T02:53:26Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-14T02:53:26Z)
+- Assessment of anxiety (procedure) (Date: 2021-02-14T03:27:52Z)
+- Depression screening (procedure) (Date: 2021-02-14T03:53:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-14T04:06:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-20T02:53:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-23T02:53:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-14T02:53:26Z: General examination of patient (procedure)
+- 2020-10-27T17:53:26Z: Asthma follow-up
+- 2020-04-30T17:53:26Z: Asthma follow-up
+
+== Recent Observations (Last 10) ==
+- 2021-07-13T02:53:26Z QOLS: 1.0 {score}
+- 2021-07-13T02:53:26Z QALY: 44.7 a
+- 2021-07-13T02:53:26Z DALY: 0.3 a
+- 2021-02-14T04:31:26Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-14T03:53:00Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-02-14T03:27:52Z How many family members  including yourself  do you currently live with?: 3.0 {#}
+- 2021-02-14T03:27:52Z What is your housing situation today?: I have housing nan
+- 2021-02-14T03:27:52Z Are you worried about losing your housing?: No nan
+- 2021-02-14T03:27:52Z What address do you live at?: 880 Kemmer Path nan
+- 2021-02-14T03:27:52Z What is the highest level of school that you have finished?: More than high school nan

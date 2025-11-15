@@ -1,0 +1,70 @@
+== PATIENT RECORD: Sudie246 Rowe323 (ID: 3a4e4953-19cb-5a92-d896-cfeaa03f5ba8) ==
+
+== Demographics ==
+Patient ID: 3a4e4953-19cb-5a92-d896-cfeaa03f5ba8
+Name: Sudie246 Rowe323
+Gender: F
+Birthdate: 2004-07-18
+Address: 128 Dietrich Trail Suite 27
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Concussion with loss of consciousness
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+
+== Current Medications ==
+- Trinessa 28 Day Pack
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-07-27T10:01:03Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-07T10:01:03Z)
+- Depression screening (procedure) (Date: 2016-08-07T10:23:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-08-07T10:34:17Z)
+- Throat culture (procedure) (Date: 2017-05-13T03:01:03Z)
+- Assessment of anxiety (procedure) (Date: 2017-08-13T10:01:03Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-13T10:01:03Z)
+- Depression screening (procedure) (Date: 2017-08-13T10:23:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-13T10:33:36Z)
+- Assessment of substance use (procedure) (Date: 2017-08-13T10:54:25Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-08-13T11:07:42Z)
+- Anticipatory guidance (procedure) (Date: 2017-08-13T11:35:40Z)
+- Depression screening (procedure) (Date: 2018-08-19T10:01:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-19T10:14:41Z)
+- Assessment of substance use (procedure) (Date: 2018-08-19T10:42:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-19T10:53:19Z)
+- Anticipatory guidance (procedure) (Date: 2018-08-19T11:03:50Z)
+- Depression screening (procedure) (Date: 2019-08-25T10:01:03Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-25T10:01:03Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-25T10:13:26Z)
+- Assessment of substance use (procedure) (Date: 2019-08-25T10:41:35Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-25T10:52:20Z)
+- Anticipatory guidance (procedure) (Date: 2019-08-25T11:05:27Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-30T10:01:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-30T10:01:03Z)
+- Depression screening (procedure) (Date: 2020-08-30T10:16:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-30T10:28:34Z)
+- Standard pregnancy test (Date: 2021-10-31T10:01:03Z)
+- Ultrasound scan for fetal viability (Date: 2021-10-31T10:01:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-31T10:01:03Z: Prenatal initial visit
+- 2021-09-05T10:01:03Z: Well child visit (procedure)
+- 2021-07-02T10:01:03Z: Consultation for treatment
+- 2021-05-02T10:01:03Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-11T10:01:03Z: Administration of vaccine to produce active immunity (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-05T10:01:03Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-09-05T10:01:03Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-05T10:01:03Z Body Height: 156.8 cm
+- 2021-09-05T10:01:03Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-09-05T10:01:03Z Body Weight: 42.9 kg
+- 2021-09-05T10:01:03Z Body Mass Index: 17.5 kg/m2
+- 2021-09-05T10:01:03Z Body mass index (BMI) [Percentile] Per age and gender: 6.5 %
+- 2021-09-05T10:01:03Z Systolic Blood Pressure: 131.0 mm[Hg]
+- 2021-09-05T10:01:03Z Heart rate: 77.0 /min
+- 2021-09-05T10:01:03Z Respiratory rate: 15.0 /min

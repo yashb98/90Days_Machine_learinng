@@ -1,0 +1,135 @@
+== PATIENT RECORD: Barbara209 Acevedo301 (ID: 30db29cb-a1c0-272e-bfed-ce88ebc23b2d) ==
+
+== Demographics ==
+Patient ID: 30db29cb-a1c0-272e-bfed-ce88ebc23b2d
+Name: Barbara209 Acevedo301
+Gender: F
+Birthdate: 1965-09-12
+Address: 619 Purdy Run Suite 61
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Diabetes
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Hyperglycemia (disorder)
+- Prediabetes
+- Not in labor force (finding)
+- Severe anxiety (panic) (finding
+- Full-time employment (finding)
+- Social isolation (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Polyp of colon
+- Cystitis
+- Recurrent urinary tract infection
+- Part-time employment (finding)
+- Laceration of forearm
+
+== Current Medications ==
+- 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Insertion of subcutaneous contraceptive (Date: 2011-11-30T19:37:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-22T09:49:49Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-22T10:26:20Z)
+- Depression screening (procedure) (Date: 2012-01-22T10:50:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-22T11:02:07Z)
+- Assessment of substance use (procedure) (Date: 2012-01-22T11:26:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-22T11:37:48Z)
+- Insertion of intrauterine contraceptive device (Date: 2012-11-29T07:01:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-27T09:49:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-27T09:49:49Z)
+- Screening for domestic abuse (procedure) (Date: 2013-01-27T10:44:03Z)
+- Depression screening (procedure) (Date: 2013-01-27T11:13:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-27T11:24:17Z)
+- Replacement of contraceptive intrauterine device (Date: 2014-01-19T09:49:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-02T09:49:49Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-02T09:49:49Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-07T09:49:49Z)
+- Depression screening (procedure) (Date: 2014-02-02T10:29:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-02T10:40:51Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-10T10:20:27Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-13T11:19:33Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T11:50:48Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T12:44:10Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T13:16:47Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T14:11:14Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-28T15:10:54Z)
+- Sputum examination (procedure) (Date: 2014-10-22T15:49:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-08T09:49:49Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-08T10:43:40Z)
+- Depression screening (procedure) (Date: 2015-02-08T11:24:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-08T11:39:20Z)
+- Assessment of substance use (procedure) (Date: 2015-02-08T12:03:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-08T12:17:41Z)
+- Colonoscopy (Date: 2015-09-13T09:49:49Z)
+- Screening for occult blood in feces (procedure) (Date: 2015-09-13T10:22:50Z)
+- Rectal polypectomy (Date: 2015-09-13T10:22:50Z)
+- Removal of intrauterine device (Date: 2015-11-22T09:49:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-14T09:49:49Z)
+- Depression screening (procedure) (Date: 2016-02-14T10:49:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-14T11:00:33Z)
+- Assessment of substance use (procedure) (Date: 2016-02-14T11:29:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-14T11:43:04Z)
+- Colonoscopy (Date: 2016-10-09T10:22:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-19T09:49:49Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-19T10:23:51Z)
+- Screening for domestic abuse (procedure) (Date: 2017-02-19T10:41:06Z)
+- Assessment of substance use (procedure) (Date: 2017-02-19T11:22:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-19T11:36:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-25T09:49:49Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-25T09:49:49Z)
+- Depression screening (procedure) (Date: 2018-02-25T10:46:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-25T10:59:05Z)
+- Assessment of substance use (procedure) (Date: 2018-02-25T11:20:20Z)
+- Screening for drug abuse (procedure) (Date: 2018-02-25T11:34:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-03T09:49:49Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-03T10:45:49Z)
+- Depression screening (procedure) (Date: 2019-03-03T11:27:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-03T11:40:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-08T09:49:49Z)
+- Screening for domestic abuse (procedure) (Date: 2020-03-08T10:34:58Z)
+- Depression screening (procedure) (Date: 2020-03-08T11:19:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-08T11:30:08Z)
+- Assessment of substance use (procedure) (Date: 2020-03-08T11:52:39Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-08T12:03:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-14T09:49:49Z)
+- Assessment of substance use (procedure) (Date: 2021-03-14T10:36:52Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-14T10:48:46Z)
+- Colonoscopy (Date: 2021-10-09T10:54:38Z)
+- Suture open wound (Date: 2021-11-10T09:49:49Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-10T09:49:49Z: Emergency room admission (procedure)
+- 2021-10-09T10:54:38Z: Encounter for 'check-up'
+- 2021-05-02T09:49:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-11T09:49:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-14T09:49:49Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-12T09:49:49Z QOLS: 0.9 {score}
+- 2021-09-12T09:49:49Z QALY: 53.1 a
+- 2021-09-12T09:49:49Z DALY: 1.9 a
+- 2021-03-14T11:15:24Z Total score [DAST-10]: 1.0 {score}
+- 2021-03-14T10:36:52Z What is your housing situation today?: I have housing nan
+- 2021-03-14T10:36:52Z Are you worried about losing your housing?: No nan
+- 2021-03-14T10:36:52Z What address do you live at?: 619 Purdy Run Suite 61 nan
+- 2021-03-14T10:36:52Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-14T10:36:52Z What is your main insurance?: Private insurance nan
+- 2021-03-14T10:36:52Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 957744 /a

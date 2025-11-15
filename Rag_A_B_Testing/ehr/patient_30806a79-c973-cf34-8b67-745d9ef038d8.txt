@@ -1,0 +1,117 @@
+== PATIENT RECORD: Xiomara943 Sporer811 (ID: 30806a79-c973-cf34-8b67-745d9ef038d8) ==
+
+== Demographics ==
+Patient ID: 30806a79-c973-cf34-8b67-745d9ef038d8
+Name: Xiomara943 Sporer811
+Gender: F
+Birthdate: 1956-10-20
+Address: 868 Satterfield Corner Suite 59
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Victim of intimate partner abuse (finding)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Prediabetes
+- Acute Cholecystitis
+- Cholelithiasis
+- Anemia (disorder)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Hyperlipidemia
+- Polyp of colon
+- Social isolation (finding)
+
+== Current Medications ==
+- 1 ML heparin sodium  porcine 5000 UNT/ML Injection
+- Sodium Chloride 9 MG/ML Injectable Solution
+- 2 ML Ondansetron 2 MG/ML Injection
+- 1 ML Morphine Sulfate 5 MG/ML Injection
+- Piperacillin 4000 MG / tazobactam 500 MG Injection
+- Midazolam 1 MG/ML Injectable Solution
+- 100 ML Propofol 10 MG/ML Injection
+- Rocuronium bromide 10 MG/ML Injectable Solution
+- Isoflurane 999 MG/ML Inhalant Solution
+- 5 ML SUFentanil 0.05 MG/ML Injection
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Electrocardiographic procedure (Date: 2012-09-11T12:44:18Z)
+- Ultrasonography of abdomen  right upper quadrant and epigastrium (Date: 2012-09-11T12:53:29Z)
+- Intubation (Date: 2012-09-11T15:04:29Z)
+- Open Removal of Gall Bladder (Date: 2012-09-11T15:11:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-11-24T23:44:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-24T23:44:18Z)
+- Peripheral blood smear interpretation (Date: 2012-11-24T23:44:18Z)
+- Assessment of anxiety (procedure) (Date: 2012-11-25T00:43:52Z)
+- Review of systems (procedure) (Date: 2012-11-25T00:14:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-25T00:26:10Z)
+- Brief general examination (procedure) (Date: 2012-11-25T00:34:21Z)
+- Colonoscopy (Date: 2013-03-31T01:07:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-11-30T23:44:18Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-01T00:25:16Z)
+- Depression screening (procedure) (Date: 2013-12-01T00:46:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-01T00:57:43Z)
+- Assessment of substance use (procedure) (Date: 2013-12-01T01:22:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-12-01T01:35:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-06T23:44:18Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-06T23:44:18Z)
+- Depression screening (procedure) (Date: 2014-12-07T00:44:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-07T00:56:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-12T23:44:18Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-13T00:28:22Z)
+- Assessment of substance use (procedure) (Date: 2015-12-13T00:50:31Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-13T01:04:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-17T23:44:18Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-18T00:23:56Z)
+- Depression screening (procedure) (Date: 2016-12-18T00:45:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-18T00:58:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-23T23:44:18Z)
+- Screening for domestic abuse (procedure) (Date: 2017-12-24T00:24:32Z)
+- Assessment of substance use (procedure) (Date: 2017-12-24T00:56:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-24T01:10:59Z)
+- Colonoscopy (Date: 2018-03-31T01:38:38Z)
+- Screening for occult blood in feces (procedure) (Date: 2018-03-31T02:09:17Z)
+- Rectal polypectomy (Date: 2018-03-31T02:09:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-29T23:44:18Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-29T23:44:18Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-30T00:31:59Z)
+- Screening for domestic abuse (procedure) (Date: 2018-12-30T00:56:51Z)
+- Depression screening (procedure) (Date: 2018-12-30T01:25:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-30T01:38:53Z)
+- Colonoscopy (Date: 2019-05-26T02:09:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-04T23:44:18Z)
+- Depression screening (procedure) (Date: 2020-01-05T00:42:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-05T00:56:15Z)
+- Assessment of substance use (procedure) (Date: 2020-01-05T01:18:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-05T01:31:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-09T23:44:18Z)
+- Screening for domestic abuse (procedure) (Date: 2021-01-10T00:21:34Z)
+- Depression screening (procedure) (Date: 2021-01-10T00:48:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-10T00:59:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-08T23:44:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-10T23:44:18Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-09T23:44:18Z: General examination of patient (procedure)
+- 2020-12-25T23:44:18Z: Follow-up encounter
+- 2020-01-04T23:44:18Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-20T23:44:18Z QOLS: 0.9 {score}
+- 2021-10-20T23:44:18Z QALY: 59.5 a
+- 2021-10-20T23:44:18Z DALY: 4.5 a
+- 2021-01-10T01:23:28Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-01-10T00:48:12Z Total score [HARK]: 3.0 {score}
+- 2021-01-10T00:21:34Z What is your housing situation today?: I have housing nan
+- 2021-01-10T00:21:34Z Are you worried about losing your housing?: No nan
+- 2021-01-10T00:21:34Z What address do you live at?: 868 Satterfield Corner Suite 59 nan
+- 2021-01-10T00:21:34Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-01-10T00:21:34Z What is your current work situation?: Unemployed (finding) nan

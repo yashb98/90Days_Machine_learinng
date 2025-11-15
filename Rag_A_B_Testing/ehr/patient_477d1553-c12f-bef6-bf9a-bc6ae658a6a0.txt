@@ -1,0 +1,46 @@
+== PATIENT RECORD: Daren950 Schmidt332 (ID: 477d1553-c12f-bef6-bf9a-bc6ae658a6a0) ==
+
+== Demographics ==
+Patient ID: 477d1553-c12f-bef6-bf9a-bc6ae658a6a0
+Name: Daren950 Schmidt332
+Gender: M
+Birthdate: 2015-02-09
+Address: 460 Strosin Run
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-05-18T22:40:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-20T22:40:24Z)
+- Throat culture (procedure) (Date: 2016-12-02T03:40:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-07-16T22:40:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-20T22:40:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-25T22:40:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-25T22:40:24Z: Well child visit (procedure)
+- 2020-01-20T22:40:24Z: Well child visit (procedure)
+- 2019-01-14T22:40:24Z: Well child visit (procedure)
+- 2018-07-16T22:40:24Z: Well child visit (procedure)
+- 2018-01-15T22:40:24Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-09T22:40:24Z QOLS: 1.0 {score}
+- 2021-02-09T22:40:24Z DALY: 0.0 a
+- 2021-02-09T22:40:24Z QALY: 5.0 a
+- 2021-01-25T22:40:24Z Heart rate: 97.0 /min
+- 2021-01-25T22:40:24Z MCH [Entitic mass] by Automated count: 29.4 pg
+- 2021-01-25T22:40:24Z MCV [Entitic volume] by Automated count: 92.6 fL
+- 2021-01-25T22:40:24Z Hemoglobin [Mass/volume] in Blood: 12.1 g/dL
+- 2021-01-25T22:40:24Z Erythrocytes [#/volume] in Blood by Automated count: 5.4 10*6/uL
+- 2021-01-25T22:40:24Z Leukocytes [#/volume] in Blood by Automated count: 8.4 10*3/uL
+- 2021-01-25T22:40:24Z Respiratory rate: 14.0 /min

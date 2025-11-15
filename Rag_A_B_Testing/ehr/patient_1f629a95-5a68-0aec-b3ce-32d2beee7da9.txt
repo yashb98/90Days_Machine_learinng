@@ -1,0 +1,137 @@
+== PATIENT RECORD: Robin66 Reichel38 (ID: 1f629a95-5a68-0aec-b3ce-32d2beee7da9) ==
+
+== Demographics ==
+Patient ID: 1f629a95-5a68-0aec-b3ce-32d2beee7da9
+Name: Robin66 Reichel38
+Gender: M
+Birthdate: 1938-09-30
+Address: 293 Greenfelder Byway Suite 37
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic obstructive bronchitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Social isolation (finding)
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Acute viral pharyngitis (disorder)
+- Sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 2011-09-30T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2011-09-30T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-09-30T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2011-09-30T07:11:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-09-30T07:27:05Z)
+- Assessment of substance use (procedure) (Date: 2011-09-30T07:54:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-09-30T08:06:55Z)
+- Measurement of respiratory function (procedure) (Date: 2012-06-27T22:40:58Z)
+- Spirometry (procedure) (Date: 2012-10-05T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2012-10-05T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-05T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-10-05T07:16:35Z)
+- Depression screening (procedure) (Date: 2012-10-05T07:38:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-05T07:48:22Z)
+- Assessment of substance use (procedure) (Date: 2012-10-05T08:18:07Z)
+- Screening for drug abuse (procedure) (Date: 2012-10-05T08:31:34Z)
+- Spirometry (procedure) (Date: 2013-10-11T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2013-10-11T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-11T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-11T07:20:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-10-11T07:45:43Z)
+- Depression screening (procedure) (Date: 2013-10-11T08:06:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-11T08:21:10Z)
+- Assessment of substance use (procedure) (Date: 2013-10-11T08:41:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-10-11T08:55:06Z)
+- Spirometry (procedure) (Date: 2014-10-17T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2014-10-17T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-17T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-10-17T07:14:31Z)
+- Assessment of substance use (procedure) (Date: 2014-10-17T07:30:31Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-17T07:45:20Z)
+- Spirometry (procedure) (Date: 2015-10-23T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2015-10-23T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-23T06:40:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-10-23T07:20:05Z)
+- Depression screening (procedure) (Date: 2015-10-23T07:35:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-23T07:46:28Z)
+- Assessment of substance use (procedure) (Date: 2015-10-23T08:12:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-10-23T08:23:59Z)
+- Spirometry (procedure) (Date: 2016-10-28T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2016-10-28T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-28T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-28T07:35:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-10-28T07:52:30Z)
+- Assessment of substance use (procedure) (Date: 2016-10-28T08:16:52Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-28T08:31:46Z)
+- Spirometry (procedure) (Date: 2017-11-03T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2017-11-03T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-03T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-03T07:18:03Z)
+- Depression screening (procedure) (Date: 2017-11-03T07:42:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-03T07:55:52Z)
+- Assessment of substance use (procedure) (Date: 2017-11-03T08:17:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-03T08:32:09Z)
+- Spirometry (procedure) (Date: 2018-11-09T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2018-11-09T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-11-09T06:40:58Z)
+- Depression screening (procedure) (Date: 2018-11-09T07:17:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-11-09T07:29:01Z)
+- Assessment of substance use (procedure) (Date: 2018-11-09T07:57:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-11-09T08:07:43Z)
+- Spirometry (procedure) (Date: 2019-11-15T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2019-11-15T06:40:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-15T06:40:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-15T06:40:58Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-15T07:13:12Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-15T07:32:22Z)
+- Depression screening (procedure) (Date: 2019-11-15T08:06:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-15T08:18:09Z)
+- Assessment of substance use (procedure) (Date: 2019-11-15T08:43:35Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-15T08:56:39Z)
+- Spirometry (procedure) (Date: 2020-11-20T06:40:58Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2020-11-20T06:40:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-11-27T06:40:58Z: Death Certification
+- 2020-11-20T06:40:58Z: General examination of patient (procedure)
+- 2019-11-15T06:40:58Z: General examination of patient (procedure)
+- 2018-11-09T06:40:58Z: General examination of patient (procedure)
+- 2017-11-03T06:40:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-11-27T06:40:58Z Cause of Death [US Standard Certificate of Death]: Chronic obstructive bronchitis (disorder) nan
+- 2020-11-20T06:40:58Z FEV1/FVC: 15.6 %
+- 2020-09-30T05:40:58Z QOLS: 1.0 {score}
+- 2020-09-30T05:40:58Z DALY: 1.5 a
+- 2020-09-30T05:40:58Z QALY: 79.5 a
+- 2019-11-15T09:19:52Z Total score [DAST-10]: 0.0 {score}
+- 2019-11-15T08:43:35Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-11-15T08:06:22Z Total score [HARK]: 0.0 {score}
+- 2019-11-15T07:32:22Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2019-11-15T07:13:12Z What is your current work situation?: Full-time work nan

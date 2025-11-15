@@ -1,0 +1,87 @@
+== PATIENT RECORD: Emelina469 Howell947 (ID: 59ec0cc4-d7ed-b48a-e3d2-3471d81c715f) ==
+
+== Demographics ==
+Patient ID: 59ec0cc4-d7ed-b48a-e3d2-3471d81c715f
+Name: Emelina469 Howell947
+Gender: F
+Birthdate: 1975-06-01
+Address: 233 Frami Street
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of rib
+- Otitis media
+- Sprain of ankle
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Risk activity involvement (finding)
+- Laceration of forearm
+- Streptococcal sore throat (disorder)
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Carbamazepine[Tegretol]
+- Ortho Tri-Cyclen 28 Day Pack
+- Diazepam 5 MG Oral Tablet
+
+== Past Procedures ==
+- Chest X-ray (Date: 1981-04-02T19:50:42Z)
+- Bone immobilization (Date: 1981-04-02T19:50:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1981-05-17T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1981-05-17T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1982-05-23T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1983-05-29T19:50:42Z)
+- Throat culture (procedure) (Date: 1984-11-12T09:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1986-06-15T19:50:42Z)
+- Measurement of respiratory function (procedure) (Date: 1987-03-15T09:02:52Z)
+- Assessment of anxiety (procedure) (Date: 1987-06-21T19:50:42Z)
+- Depression screening (procedure) (Date: 1987-06-21T20:16:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1987-06-21T20:29:17Z)
+- Assessment of substance use (procedure) (Date: 1987-06-21T20:49:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1987-06-21T21:00:43Z)
+- Health risks education (procedure) (Date: 1987-06-21T21:17:04Z)
+- Suture open wound (Date: 1987-06-21T20:33:43Z)
+- Depression screening (procedure) (Date: 1988-06-26T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1988-06-26T19:50:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-06-26T20:05:21Z)
+- Assessment of substance use (procedure) (Date: 1988-06-26T20:30:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1988-06-26T20:43:33Z)
+- Health risks education (procedure) (Date: 1988-06-26T21:09:03Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1989-01-27T19:50:42Z)
+- Assessment of anxiety (procedure) (Date: 1989-07-02T19:50:42Z)
+- Medication Reconciliation (procedure) (Date: 1989-07-02T19:50:42Z)
+- Depression screening (procedure) (Date: 1989-07-02T20:09:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1989-07-02T20:23:34Z)
+- Depression screening (procedure) (Date: 1990-07-08T19:50:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1990-07-08T20:00:58Z)
+- Assessment of substance use (procedure) (Date: 1990-07-08T20:21:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1990-07-08T20:33:20Z)
+- Health risks education (procedure) (Date: 1990-07-08T20:50:03Z)
+
+== Recent Encounters (Last 5) ==
+- 1991-03-24T19:50:42Z: Death Certification
+- 1990-07-08T19:50:42Z: Well child visit (procedure)
+- 1990-05-26T19:50:42Z: Consultation for treatment
+- 1989-07-02T19:50:42Z: Well child visit (procedure)
+- 1989-01-27T19:50:42Z: Emergency Room Admission
+
+== Recent Observations (Last 10) ==
+- 1991-03-24T19:50:42Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1990-07-08T20:21:07Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 1990-07-08T19:50:42Z Diastolic Blood Pressure: 75.0 mm[Hg]
+- 1990-07-08T19:50:42Z Body Height: 167.0 cm
+- 1990-07-08T19:50:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 1990-07-08T19:50:42Z Body Weight: 55.7 kg
+- 1990-07-08T19:50:42Z Body mass index (BMI) [Percentile] Per age and gender: 49.8 %
+- 1990-07-08T19:50:42Z Body Mass Index: 20.0 kg/m2
+- 1990-07-08T19:50:42Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 1990-07-08T19:50:42Z Heart rate: 65.0 /min

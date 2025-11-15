@@ -1,0 +1,112 @@
+== PATIENT RECORD: Louis204 Senger904 (ID: 4ba15182-a126-7f01-a46e-1901c5c5ceae) ==
+
+== Demographics ==
+Patient ID: 4ba15182-a126-7f01-a46e-1901c5c5ceae
+Name: Louis204 Senger904
+Gender: M
+Birthdate: 2005-09-27
+Address: 441 Ankunding Viaduct
+Marital Status: nan
+
+== Allergies ==
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-09-18T10:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-06T10:28:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-17T10:28:38Z)
+- Allergy screening test (Date: 2018-10-02T10:28:38Z)
+- Depression screening (procedure) (Date: 2018-10-23T10:28:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-23T10:39:00Z)
+- Assessment of substance use (procedure) (Date: 2018-10-23T11:05:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-23T11:19:14Z)
+- Anticipatory guidance (procedure) (Date: 2018-10-23T11:47:57Z)
+- Subcutaneous immunotherapy (Date: 2018-10-27T11:03:49Z)
+- Subcutaneous immunotherapy (Date: 2018-11-21T11:33:17Z)
+- Subcutaneous immunotherapy (Date: 2018-12-16T12:30:51Z)
+- Subcutaneous immunotherapy (Date: 2019-01-09T13:08:07Z)
+- Subcutaneous immunotherapy (Date: 2019-02-01T13:59:30Z)
+- Subcutaneous immunotherapy (Date: 2019-02-23T14:54:19Z)
+- Subcutaneous immunotherapy (Date: 2019-03-16T15:10:27Z)
+- Subcutaneous immunotherapy (Date: 2019-04-10T15:34:17Z)
+- Throat culture (procedure) (Date: 2019-05-06T23:28:38Z)
+- Subcutaneous immunotherapy (Date: 2019-05-01T15:54:22Z)
+- Subcutaneous immunotherapy (Date: 2019-05-26T16:47:45Z)
+- Subcutaneous immunotherapy (Date: 2019-06-21T17:21:07Z)
+- Subcutaneous immunotherapy (Date: 2019-07-18T17:56:43Z)
+- Subcutaneous immunotherapy (Date: 2019-08-11T18:41:20Z)
+- Subcutaneous immunotherapy (Date: 2019-09-02T19:37:22Z)
+- Subcutaneous immunotherapy (Date: 2019-09-23T20:23:48Z)
+- Subcutaneous immunotherapy (Date: 2019-10-20T20:54:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-29T10:28:38Z)
+- Depression screening (procedure) (Date: 2019-10-29T10:47:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-10-29T10:59:26Z)
+- Subcutaneous immunotherapy (Date: 2019-11-16T21:49:13Z)
+- Subcutaneous immunotherapy (Date: 2019-12-12T22:41:31Z)
+- Subcutaneous immunotherapy (Date: 2020-01-05T23:23:31Z)
+- Subcutaneous immunotherapy (Date: 2020-01-28T00:22:22Z)
+- Subcutaneous immunotherapy (Date: 2020-02-24T00:57:19Z)
+- Subcutaneous immunotherapy (Date: 2020-03-22T01:18:21Z)
+- Subcutaneous immunotherapy (Date: 2020-04-13T01:47:56Z)
+- Subcutaneous immunotherapy (Date: 2020-05-06T02:15:55Z)
+- Subcutaneous immunotherapy (Date: 2020-06-02T02:52:58Z)
+- Subcutaneous immunotherapy (Date: 2020-06-28T03:33:43Z)
+- Subcutaneous immunotherapy (Date: 2020-07-20T04:24:01Z)
+- Subcutaneous immunotherapy (Date: 2020-08-14T05:11:32Z)
+- Subcutaneous immunotherapy (Date: 2020-09-10T05:29:36Z)
+- Subcutaneous immunotherapy (Date: 2020-10-06T05:46:59Z)
+- Depression screening (procedure) (Date: 2020-11-03T10:28:38Z)
+- Subcutaneous immunotherapy (Date: 2020-10-28T06:23:18Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-11-03T10:38:45Z)
+- Assessment of substance use (procedure) (Date: 2020-11-03T11:06:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-11-03T11:18:31Z)
+- Anticipatory guidance (procedure) (Date: 2020-11-03T11:43:21Z)
+- Subcutaneous immunotherapy (Date: 2020-11-21T07:11:27Z)
+- Subcutaneous immunotherapy (Date: 2020-12-18T08:00:02Z)
+- Subcutaneous immunotherapy (Date: 2021-01-12T08:18:07Z)
+- Subcutaneous immunotherapy (Date: 2021-02-08T08:33:28Z)
+- Subcutaneous immunotherapy (Date: 2021-03-05T09:22:20Z)
+- Subcutaneous immunotherapy (Date: 2021-04-01T09:40:29Z)
+- Subcutaneous immunotherapy (Date: 2021-04-28T10:32:48Z)
+- Subcutaneous immunotherapy (Date: 2021-05-19T11:25:03Z)
+- Subcutaneous immunotherapy (Date: 2021-06-13T11:53:14Z)
+- Subcutaneous immunotherapy (Date: 2021-07-07T12:19:46Z)
+- Subcutaneous immunotherapy (Date: 2021-07-31T13:08:37Z)
+- Subcutaneous immunotherapy (Date: 2021-08-22T13:30:44Z)
+- Subcutaneous immunotherapy (Date: 2021-09-12T14:17:30Z)
+- Subcutaneous immunotherapy (Date: 2021-10-08T14:34:11Z)
+- Throat culture (procedure) (Date: 2021-11-02T12:28:38Z)
+- Assessment of substance use (procedure) (Date: 2021-11-09T10:28:38Z)
+- Subcutaneous immunotherapy (Date: 2021-11-02T15:21:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-11-09T10:42:33Z)
+- Anticipatory guidance (procedure) (Date: 2021-11-09T11:09:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-09T10:28:38Z: Well child visit (procedure)
+- 2021-11-02T15:21:50Z: Outpatient procedure
+- 2021-11-02T12:28:38Z: Encounter for symptom
+- 2021-10-08T14:34:11Z: Outpatient procedure
+- 2021-09-12T14:17:30Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-11-09T10:28:38Z Platelet distribution width [Entitic volume] in Blood by Automated count: 163.6 fL
+- 2021-11-09T10:28:38Z Platelets [#/volume] in Blood by Automated count: 338.4 10*3/uL
+- 2021-11-09T10:28:38Z Heart rate: 89.0 /min
+- 2021-11-09T10:28:38Z Respiratory rate: 13.0 /min
+- 2021-11-09T10:28:38Z Leukocytes [#/volume] in Blood by Automated count: 4.0 10*3/uL
+- 2021-11-09T10:28:38Z Erythrocytes [#/volume] in Blood by Automated count: 4.6 10*6/uL
+- 2021-11-09T10:28:38Z Hemoglobin [Mass/volume] in Blood: 14.2 g/dL
+- 2021-11-09T10:28:38Z Hematocrit [Volume Fraction] of Blood by Automated count: 47.6 %
+- 2021-11-09T10:28:38Z MCV [Entitic volume] by Automated count: 84.5 fL
+- 2021-11-09T10:28:38Z MCH [Entitic mass] by Automated count: 27.7 pg

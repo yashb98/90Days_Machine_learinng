@@ -1,0 +1,125 @@
+== PATIENT RECORD: Mallory926 Hills818 (ID: a01f3f38-11eb-bf6b-02b6-26b8c38c6a0f) ==
+
+== Demographics ==
+Patient ID: a01f3f38-11eb-bf6b-02b6-26b8c38c6a0f
+Name: Mallory926 Hills818
+Gender: F
+Birthdate: 1999-04-07
+Address: 804 Conroy Burg Apt 71
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Risk activity involvement (finding)
+- Otitis media
+- Severe anxiety (panic) (finding
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Chill (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Carbamazepine[Tegretol]
+- Cefuroxime 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Yaz 28 Day Pack
+- Kyleena 19.5 MG Intrauterine System
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-05-02T15:04:13Z)
+- Depression screening (procedure) (Date: 2012-05-02T15:28:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-02T15:38:06Z)
+- Depression screening (procedure) (Date: 2013-05-08T15:04:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-08T15:18:28Z)
+- Assessment of substance use (procedure) (Date: 2013-05-08T15:41:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-08T15:54:51Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-08T16:06:14Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-14T15:04:13Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-14T15:04:13Z)
+- Assessment of substance use (procedure) (Date: 2014-05-14T15:32:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-14T15:47:15Z)
+- Anticipatory guidance (procedure) (Date: 2014-05-14T16:05:26Z)
+- Sputum examination (procedure) (Date: 2015-01-19T22:04:13Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-28T15:04:13Z)
+- Depression screening (procedure) (Date: 2015-01-28T15:29:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-01-28T15:42:07Z)
+- Assessment of substance use (procedure) (Date: 2015-01-28T16:03:27Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-01-28T16:14:22Z)
+- Anticipatory guidance (procedure) (Date: 2015-01-28T16:44:01Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-20T15:04:13Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-20T15:04:13Z)
+- Assessment of substance use (procedure) (Date: 2015-05-20T15:26:41Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-20T15:39:47Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-20T16:06:59Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-15T15:04:13Z)
+- Depression screening (procedure) (Date: 2015-07-15T15:20:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-07-15T15:30:38Z)
+- Assessment of substance use (procedure) (Date: 2015-07-15T15:56:20Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-07-15T16:08:57Z)
+- Health risks education (procedure) (Date: 2015-07-15T16:19:14Z)
+- Depression screening (procedure) (Date: 2016-05-25T15:04:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-05-25T15:16:35Z)
+- Assessment of substance use (procedure) (Date: 2016-05-25T15:37:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-05-25T15:50:29Z)
+- Anticipatory guidance (procedure) (Date: 2016-05-25T16:10:35Z)
+- Insertion of intrauterine contraceptive device (Date: 2017-03-21T14:04:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-31T15:04:13Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-31T15:04:13Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-31T15:49:44Z)
+- Depression screening (procedure) (Date: 2017-05-31T16:19:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-31T16:32:00Z)
+- Assessment of substance use (procedure) (Date: 2017-05-31T16:53:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-31T17:07:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-06T15:04:13Z)
+- Assessment of substance use (procedure) (Date: 2018-06-06T15:56:12Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-06T16:08:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-12T15:04:13Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-12T15:55:25Z)
+- Screening for domestic abuse (procedure) (Date: 2019-06-12T16:24:45Z)
+- Depression screening (procedure) (Date: 2019-06-12T17:03:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-12T17:14:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-17T15:04:13Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-17T15:04:13Z)
+- Depression screening (procedure) (Date: 2020-06-17T16:03:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-17T16:17:21Z)
+- Assessment of substance use (procedure) (Date: 2020-06-17T16:46:47Z)
+- Screening for drug abuse (procedure) (Date: 2020-06-17T16:59:55Z)
+- Face mask (physical object) (Date: 2020-11-14T15:04:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-23T15:04:13Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-23T15:04:13Z)
+- Depression screening (procedure) (Date: 2021-06-23T15:57:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-23T16:11:02Z)
+- Assessment of substance use (procedure) (Date: 2021-06-23T16:32:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-06-23T16:45:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-23T15:04:13Z: General examination of patient (procedure)
+- 2020-11-14T15:04:13Z: Encounter for symptom (procedure)
+- 2020-06-17T15:04:13Z: General examination of patient (procedure)
+- 2019-06-12T15:04:13Z: General examination of patient (procedure)
+- 2019-03-11T14:59:49Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-06-23T17:11:08Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-06-23T16:32:38Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-23T15:57:25Z What language are you most comfortable speaking?: English nan
+- 2021-06-23T15:57:25Z What is your main insurance?: Private insurance nan
+- 2021-06-23T15:57:25Z Are you worried about losing your housing?: No nan
+- 2021-06-23T15:57:25Z What address do you live at?: 804 Conroy Burg Apt 71 nan
+- 2021-06-23T15:57:25Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-23T15:57:25Z What is your current work situation?: Full-time work nan
+- 2021-06-23T15:57:25Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 198681 /a
+- 2021-06-23T15:57:25Z How many family members  including yourself  do you currently live with?: 7.0 {#}

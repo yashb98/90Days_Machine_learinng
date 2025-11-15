@@ -1,0 +1,46 @@
+== PATIENT RECORD: Richie600 Flatley871 (ID: a812494f-ce21-de00-8983-87d93077c751) ==
+
+== Demographics ==
+Patient ID: a812494f-ce21-de00-8983-87d93077c751
+Name: Richie600 Flatley871
+Gender: M
+Birthdate: 2017-06-12
+Address: 386 Howe Union Unit 51
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-09-18T17:27:46Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-21T17:27:46Z)
+- Throat culture (procedure) (Date: 2020-03-31T11:27:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-17T17:27:46Z: Well child visit (procedure)
+- 2020-11-16T17:27:46Z: Well child visit (procedure)
+- 2020-05-18T17:27:46Z: Well child visit (procedure)
+- 2020-05-16T17:27:46Z: Encounter for symptom
+- 2020-04-06T17:27:46Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-12T17:27:46Z QOLS: 1.0 {score}
+- 2021-06-12T17:27:46Z DALY: 0.0 a
+- 2021-06-12T17:27:46Z QALY: 3.0 a
+- 2021-05-17T17:27:46Z Heart rate: 99.0 /min
+- 2021-05-17T17:27:46Z Body Height: 97.0 cm
+- 2021-05-17T17:27:46Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-05-17T17:27:46Z Body Weight: 15.6 kg
+- 2021-05-17T17:27:46Z Head Occipital-frontal circumference: 47.7 cm
+- 2021-05-17T17:27:46Z Body Mass Index: 16.5 kg/m2
+- 2021-05-17T17:27:46Z Body mass index (BMI) [Percentile] Per age and gender: 76.7 %

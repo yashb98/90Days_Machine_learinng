@@ -1,0 +1,125 @@
+== PATIENT RECORD: Merlin721 Hane680 (ID: a0d22ce4-8c1f-1168-5a83-aff4f79f4a1f) ==
+
+== Demographics ==
+Patient ID: a0d22ce4-8c1f-1168-5a83-aff4f79f4a1f
+Name: Merlin721 Hane680
+Gender: M
+Birthdate: 1989-01-07
+Address: 1079 Wiegand Alley Suite 26
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Full-time employment (finding)
+- Misuses drugs (finding)
+- Reports of violence in the environment (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Severe anxiety (panic) (finding
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-31T10:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-31T10:29:19Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-31T11:15:55Z)
+- Screening for domestic abuse (procedure) (Date: 2012-03-31T11:39:45Z)
+- Depression screening (procedure) (Date: 2012-03-31T12:21:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-31T12:36:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-06T10:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-06T10:29:19Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-06T11:20:55Z)
+- Assessment of substance use (procedure) (Date: 2013-04-06T11:45:11Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-06T11:59:30Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-06T10:29:19Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T11:24:58Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T12:20:12Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T13:06:02Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T14:00:16Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T14:48:20Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T15:40:06Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T16:27:35Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T17:22:42Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T18:13:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-12T10:29:19Z)
+- Depression screening (procedure) (Date: 2014-04-12T11:11:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-12T11:23:18Z)
+- Assessment of substance use (procedure) (Date: 2014-04-12T11:43:34Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-12T11:57:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-18T10:29:19Z)
+- Depression screening (procedure) (Date: 2015-04-18T11:26:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-18T11:40:09Z)
+- Assessment of substance use (procedure) (Date: 2015-04-18T12:02:34Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-18T12:16:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-23T10:29:19Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-23T11:10:24Z)
+- Depression screening (procedure) (Date: 2016-04-23T11:54:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-23T12:07:23Z)
+- Assessment of substance use (procedure) (Date: 2016-04-23T12:31:08Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-23T12:43:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-11-26T10:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2016-11-26T10:29:19Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-26T11:16:19Z)
+- Depression screening (procedure) (Date: 2016-11-26T11:40:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-11-26T11:53:00Z)
+- Assessment of substance use (procedure) (Date: 2016-11-26T12:15:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-11-26T12:26:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-29T10:29:19Z)
+- Depression screening (procedure) (Date: 2017-04-29T11:13:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-29T11:28:14Z)
+- Assessment of substance use (procedure) (Date: 2017-04-29T11:57:13Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-29T12:10:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-05T10:29:19Z)
+- Depression screening (procedure) (Date: 2018-05-05T11:05:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-05T11:19:03Z)
+- Assessment of substance use (procedure) (Date: 2018-05-05T11:41:35Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-05T11:53:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-11T10:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-11T10:29:19Z)
+- Depression screening (procedure) (Date: 2019-05-11T11:03:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-11T11:17:16Z)
+- Assessment of substance use (procedure) (Date: 2019-05-11T11:44:31Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-11T11:57:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-16T10:29:19Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-16T10:29:19Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-16T11:06:31Z)
+- Depression screening (procedure) (Date: 2020-05-16T11:32:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-16T11:47:16Z)
+- Assessment of substance use (procedure) (Date: 2020-05-16T12:08:43Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-16T12:20:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-22T10:29:19Z)
+- Depression screening (procedure) (Date: 2021-05-22T11:28:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-22T11:39:06Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-22T10:29:19Z: General examination of patient (procedure)
+- 2020-05-16T10:29:19Z: General examination of patient (procedure)
+- 2019-05-11T10:29:19Z: General examination of patient (procedure)
+- 2018-05-05T10:29:19Z: General examination of patient (procedure)
+- 2017-04-29T10:29:19Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-22T12:06:43Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-05-22T11:28:36Z Which race(s) are you?: White nan
+- 2021-05-22T11:28:36Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-05-22T11:28:36Z What language are you most comfortable speaking?: English nan
+- 2021-05-22T11:28:36Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-05-22T11:28:36Z What is your housing situation today?: I have housing nan
+- 2021-05-22T11:28:36Z Are you worried about losing your housing?: No nan
+- 2021-05-22T11:28:36Z What address do you live at?: 1079 Wiegand Alley Suite 26 nan
+- 2021-05-22T11:28:36Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-05-22T11:28:36Z What is your current work situation?: Otherwise unemployed but not seeking work nan

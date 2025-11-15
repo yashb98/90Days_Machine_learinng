@@ -1,0 +1,196 @@
+== PATIENT RECORD: Ilona639 Graham902 (ID: 7adfe946-37fc-cb42-d68b-04175f767196) ==
+
+== Demographics ==
+Patient ID: 7adfe946-37fc-cb42-d68b-04175f767196
+Name: Ilona639 Graham902
+Gender: F
+Birthdate: 1996-06-09
+Address: 927 Marvin Branch Suite 8
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Fracture subluxation of wrist
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Homeless (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Contact dermatitis
+- Normal pregnancy
+- Laceration of thigh
+- Sprain of ankle
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Errin 28 Day Pack
+- Hydrocortisone 10 MG/ML Topical Cream
+- cetirizine hydrochloride 10 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of substance use (procedure) (Date: 2012-07-22T21:49:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-07-22T21:59:51Z)
+- Anticipatory guidance (procedure) (Date: 2012-07-22T22:29:50Z)
+- Throat culture (procedure) (Date: 2012-08-31T18:49:48Z)
+- Depression screening (procedure) (Date: 2013-07-28T21:49:48Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-28T21:49:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-07-28T22:01:35Z)
+- Assessment of substance use (procedure) (Date: 2013-07-28T22:29:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-07-28T22:41:48Z)
+- Health risks education (procedure) (Date: 2013-07-28T22:56:15Z)
+- X-ray or wrist (Date: 2014-03-12T22:33:31Z)
+- Bone immobilization (Date: 2014-03-12T22:33:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-08-03T21:49:48Z)
+- Medication Reconciliation (procedure) (Date: 2014-08-03T21:49:48Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-03T22:37:52Z)
+- Screening for domestic abuse (procedure) (Date: 2014-08-03T22:57:30Z)
+- Depression screening (procedure) (Date: 2014-08-03T23:23:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-08-03T23:36:11Z)
+- Assessment of substance use (procedure) (Date: 2014-08-04T00:03:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-08-04T00:16:19Z)
+- Information gathering (procedure) (Date: 2015-07-05T21:49:48Z)
+- Information gathering (procedure) (Date: 2015-08-04T21:49:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-09T21:49:48Z)
+- Depression screening (procedure) (Date: 2015-08-09T22:32:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-09T22:46:51Z)
+- Assessment of substance use (procedure) (Date: 2015-08-09T23:11:27Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-09T23:24:32Z)
+- Information gathering (procedure) (Date: 2015-10-03T21:49:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-12T21:49:48Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-12T21:49:48Z)
+- Depression screening (procedure) (Date: 2018-08-12T22:39:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-12T22:51:24Z)
+- Assessment of substance use (procedure) (Date: 2018-08-12T23:18:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-08-12T23:29:32Z)
+- Allergy screening test (Date: 2019-02-09T10:49:48Z)
+- Allergy screening test (Date: 2019-02-09T11:17:42Z)
+- Standard pregnancy test (Date: 2019-03-03T21:49:48Z)
+- Ultrasound scan for fetal viability (Date: 2019-03-03T21:49:48Z)
+- Evaluation of uterine fundal height (Date: 2019-03-03T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-03-03T21:49:48Z)
+- Blood typing  RH typing (Date: 2019-03-03T21:49:48Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-03-03T21:49:48Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-03-03T21:49:48Z)
+- Human immunodeficiency virus antigen test (Date: 2019-03-03T21:49:48Z)
+- Chlamydia antigen test (Date: 2019-03-03T21:49:48Z)
+- Gonorrhea infection test (Date: 2019-03-03T21:49:48Z)
+- Syphilis infection test (Date: 2019-03-03T21:49:48Z)
+- Urine culture (Date: 2019-03-03T21:49:48Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-03-03T21:49:48Z)
+- Urine screening test for diabetes (Date: 2019-03-03T21:49:48Z)
+- Hepatitis C antibody test (Date: 2019-03-03T21:49:48Z)
+- Rubella screening (Date: 2019-03-03T21:49:48Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-03-03T21:49:48Z)
+- Skin test for tuberculosis (Date: 2019-03-03T21:49:48Z)
+- Urine protein test (Date: 2019-03-03T21:49:48Z)
+- Physical examination of mother (Date: 2019-03-03T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-03-03T11:41:27Z)
+- Suture open wound (Date: 2019-03-22T23:05:36Z)
+- Evaluation of uterine fundal height (Date: 2019-03-31T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-03-31T21:49:48Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-03-31T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-03-29T12:37:23Z)
+- Subcutaneous immunotherapy (Date: 2019-04-21T13:03:01Z)
+- Fetal anatomy study (Date: 2019-04-28T21:49:48Z)
+- Alpha-fetoprotein test (Date: 2019-04-28T21:49:48Z)
+- Evaluation of uterine fundal height (Date: 2019-04-28T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-04-28T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-05-14T13:49:54Z)
+- Evaluation of uterine fundal height (Date: 2019-05-26T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-05-26T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-06-07T14:36:37Z)
+- Evaluation of uterine fundal height (Date: 2019-06-23T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-06-23T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-07-01T15:16:05Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-21T21:49:48Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-07-21T21:49:48Z)
+- Urine screening for glucose (Date: 2019-07-21T21:49:48Z)
+- Evaluation of uterine fundal height (Date: 2019-07-21T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-07-21T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-07-27T15:40:31Z)
+- Evaluation of uterine fundal height (Date: 2019-08-18T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-08-18T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-08-23T16:17:10Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-09-15T21:49:48Z)
+- Evaluation of uterine fundal height (Date: 2019-09-15T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-09-15T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-09-16T16:54:20Z)
+- Evaluation of uterine fundal height (Date: 2019-09-29T21:49:48Z)
+- Auscultation of the fetal heart (Date: 2019-09-29T21:49:48Z)
+- Episiotomy (Date: 2019-10-06T21:49:48Z)
+- Childbirth (Date: 2019-10-06T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-10-13T17:23:15Z)
+- Subcutaneous immunotherapy (Date: 2019-11-08T18:14:06Z)
+- Physical examination following birth (Date: 2019-11-17T21:49:48Z)
+- Depression screening (Date: 2019-11-17T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2019-12-01T19:01:32Z)
+- Subcutaneous immunotherapy (Date: 2019-12-22T19:57:31Z)
+- Subcutaneous immunotherapy (Date: 2020-01-18T20:18:33Z)
+- Subcutaneous immunotherapy (Date: 2020-02-13T21:01:28Z)
+- Subcutaneous immunotherapy (Date: 2020-03-06T21:59:22Z)
+- Subcutaneous immunotherapy (Date: 2020-04-02T22:45:50Z)
+- Subcutaneous immunotherapy (Date: 2020-04-27T23:34:07Z)
+- Subcutaneous immunotherapy (Date: 2020-05-21T00:23:58Z)
+- Subcutaneous immunotherapy (Date: 2020-06-13T01:22:01Z)
+- Subcutaneous immunotherapy (Date: 2020-07-07T01:47:19Z)
+- Subcutaneous immunotherapy (Date: 2020-07-29T02:22:50Z)
+- Subcutaneous immunotherapy (Date: 2020-08-21T03:06:12Z)
+- Subcutaneous immunotherapy (Date: 2020-09-17T03:29:40Z)
+- Subcutaneous immunotherapy (Date: 2020-10-08T04:07:19Z)
+- Subcutaneous immunotherapy (Date: 2020-10-30T04:24:03Z)
+- Subcutaneous immunotherapy (Date: 2020-11-24T05:07:38Z)
+- Subcutaneous immunotherapy (Date: 2020-12-21T05:50:27Z)
+- Subcutaneous immunotherapy (Date: 2021-01-14T06:10:56Z)
+- Subcutaneous immunotherapy (Date: 2021-02-07T07:04:12Z)
+- Subcutaneous immunotherapy (Date: 2021-03-03T07:45:38Z)
+- Subcutaneous immunotherapy (Date: 2021-03-25T08:16:41Z)
+- Subcutaneous immunotherapy (Date: 2021-04-21T09:09:47Z)
+- Subcutaneous immunotherapy (Date: 2021-05-12T10:00:30Z)
+- Subcutaneous immunotherapy (Date: 2021-06-05T10:25:05Z)
+- Subcutaneous immunotherapy (Date: 2021-06-27T11:05:39Z)
+- Subcutaneous immunotherapy (Date: 2021-07-21T12:00:34Z)
+- Standard pregnancy test (Date: 2021-08-08T21:49:48Z)
+- Ultrasound scan for fetal viability (Date: 2021-08-08T21:49:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-15T21:49:48Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-15T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2021-08-12T12:38:54Z)
+- Counseling for termination of pregnancy (Date: 2021-08-25T21:49:48Z)
+- Induced termination of pregnancy (Date: 2021-08-25T21:49:48Z)
+- Pregnancy termination care (Date: 2021-09-08T21:49:48Z)
+- Physical exam following abortion (Date: 2021-09-08T21:49:48Z)
+- Depression screening (Date: 2021-09-08T21:49:48Z)
+- Subcutaneous immunotherapy (Date: 2021-09-07T12:59:52Z)
+- Subcutaneous immunotherapy (Date: 2021-10-02T13:15:32Z)
+- Subcutaneous immunotherapy (Date: 2021-10-28T13:51:02Z)
+- Intramuscular injection (Date: 2021-11-06T21:49:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T21:49:48Z: Consultation for treatment
+- 2021-10-28T13:51:02Z: Outpatient procedure
+- 2021-10-02T13:15:32Z: Outpatient procedure
+- 2021-09-08T21:49:48Z: Prenatal visit
+- 2021-09-07T12:59:52Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-08-15T22:26:12Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-08-15T22:26:12Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-08-15T22:26:12Z Are you a refugee?: No nan
+- 2021-08-15T22:26:12Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-08-15T22:26:12Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-08-15T22:26:12Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-08-15T22:26:12Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-08-15T22:26:12Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-08-15T22:26:12Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 27954 /a
+- 2021-08-15T22:26:12Z What is your main insurance?: Private insurance nan

@@ -1,0 +1,136 @@
+== PATIENT RECORD: Eric487 Fahey393 (ID: 2961ef66-1eeb-1813-3217-c3c0176fd872) ==
+
+== Demographics ==
+Patient ID: 2961ef66-1eeb-1813-3217-c3c0176fd872
+Name: Eric487 Fahey393
+Gender: M
+Birthdate: 1944-02-01
+Address: 345 Farrell Frontage road
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Hyperlipidemia
+- Body mass index 30+ - obesity (finding)
+- Atrial Fibrillation
+- Limited social contact (finding)
+- Stroke
+- Not in labor force (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+
+== Past Procedures ==
+- Electrical cardioversion (Date: 2012-01-03T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-03T19:41:26Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-03T19:41:26Z)
+- Depression screening (procedure) (Date: 2012-01-03T20:32:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-03T20:44:18Z)
+- Electrical cardioversion (Date: 2013-01-08T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-08T19:41:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-01-08T20:27:17Z)
+- Depression screening (procedure) (Date: 2013-01-08T20:50:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-08T21:03:54Z)
+- Assessment of substance use (procedure) (Date: 2013-01-08T21:24:04Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-08T21:36:20Z)
+- Electrical cardioversion (Date: 2014-01-14T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-14T19:41:26Z)
+- Assessment of anxiety (procedure) (Date: 2014-01-14T20:29:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-01-14T20:46:31Z)
+- Assessment of substance use (procedure) (Date: 2014-01-14T21:07:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-14T21:21:53Z)
+- Colonoscopy (Date: 2014-01-31T22:08:27Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T19:41:26Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T20:26:28Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T21:23:30Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T22:09:31Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T22:54:51Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T23:44:23Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-28T00:43:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-03T01:33:58Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-06T02:29:18Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-09T03:25:53Z)
+- Electrical cardioversion (Date: 2015-01-20T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-20T19:41:26Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-20T19:41:26Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-20T20:31:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-01-20T20:49:15Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-20T21:17:58Z)
+- Depression screening (procedure) (Date: 2015-01-20T21:54:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-20T22:05:20Z)
+- Electrical cardioversion (Date: 2016-01-26T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-26T19:41:26Z)
+- Depression screening (procedure) (Date: 2016-01-26T20:16:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-26T20:30:30Z)
+- Assessment of substance use (procedure) (Date: 2016-01-26T21:00:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-01-26T21:11:41Z)
+- Electrical cardioversion (Date: 2017-01-31T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-31T19:41:26Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-01-31T20:30:29Z)
+- Assessment of substance use (procedure) (Date: 2017-01-31T20:54:21Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-31T21:09:18Z)
+- Electrical cardioversion (Date: 2018-02-06T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-06T19:41:26Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-06T19:41:26Z)
+- Assessment of substance use (procedure) (Date: 2018-02-06T20:18:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-02-06T20:31:31Z)
+- Colonoscopy (Date: 2019-01-31T22:52:45Z)
+- Electrical cardioversion (Date: 2019-02-12T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-12T19:41:26Z)
+- Screening for domestic abuse (procedure) (Date: 2019-02-12T20:23:53Z)
+- Depression screening (procedure) (Date: 2019-02-12T20:57:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-12T21:08:07Z)
+- Assessment of substance use (procedure) (Date: 2019-02-12T21:36:27Z)
+- Screening for drug abuse (procedure) (Date: 2019-02-12T21:49:45Z)
+- Electrical cardioversion (Date: 2020-02-18T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-18T19:41:26Z)
+- Assessment of anxiety (procedure) (Date: 2020-02-18T20:22:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-02-18T20:44:06Z)
+- Depression screening (procedure) (Date: 2020-02-18T21:12:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-18T21:27:17Z)
+- Electrical cardioversion (Date: 2021-02-23T19:41:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-23T19:41:26Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-23T19:41:26Z)
+- Screening for domestic abuse (procedure) (Date: 2021-02-23T20:28:51Z)
+- Depression screening (procedure) (Date: 2021-02-23T21:03:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-23T21:17:26Z)
+- Assessment of substance use (procedure) (Date: 2021-02-23T21:46:24Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-23T21:56:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-18T19:41:26Z: Follow-up encounter
+- 2021-05-11T19:41:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-13T19:41:26Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-23T19:41:26Z: General examination of patient (procedure)
+- 2020-08-18T19:41:26Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-08-18T19:41:26Z Calcium: 9.8 mg/dL
+- 2021-08-18T19:41:26Z Glomerular filtration rate/1.73 sq M.predicted: 86.5 mL/min
+- 2021-08-18T19:41:26Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 21.8 U/L
+- 2021-08-18T19:41:26Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 57.0 U/L
+- 2021-08-18T19:41:26Z Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma: 112.1 U/L
+- 2021-08-18T19:41:26Z Globulin [Mass/volume] in Serum by calculation: 3.1 g/L
+- 2021-08-18T19:41:26Z Albumin [Mass/volume] in Serum or Plasma: 4.3 g/dL
+- 2021-08-18T19:41:26Z Protein [Mass/volume] in Serum or Plasma: 79.1 g/dL
+- 2021-08-18T19:41:26Z Carbon Dioxide: 21.7 mmol/L
+- 2021-08-18T19:41:26Z Triglycerides: 128.5 mg/dL

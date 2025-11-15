@@ -1,0 +1,88 @@
+== PATIENT RECORD: Evita885 Hessel84 (ID: db2b8604-f8ea-0b47-1b95-2cf9d553a104) ==
+
+== Demographics ==
+Patient ID: db2b8604-f8ea-0b47-1b95-2cf9d553a104
+Name: Evita885 Hessel84
+Gender: F
+Birthdate: 1994-11-22
+Address: 232 Bosco Route
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Acute bronchitis (disorder)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Misuses drugs (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Natazia 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+
+== Past Procedures ==
+- Assessment of anxiety (procedure) (Date: 2012-01-10T14:50:52Z)
+- Assessment of substance use (procedure) (Date: 2012-01-10T15:14:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-10T15:26:42Z)
+- Anticipatory guidance (procedure) (Date: 2012-01-10T15:49:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-15T14:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-15T14:50:52Z)
+- Depression screening (procedure) (Date: 2013-01-15T15:33:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-15T15:43:56Z)
+- Assessment of substance use (procedure) (Date: 2013-01-15T16:07:52Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-15T16:21:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-21T14:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-21T14:50:52Z)
+- Depression screening (procedure) (Date: 2014-01-21T15:29:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-21T15:42:46Z)
+- Assessment of substance use (procedure) (Date: 2014-01-21T16:03:19Z)
+- Screening for drug abuse (procedure) (Date: 2014-01-21T16:18:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-24T14:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-24T14:50:52Z)
+- Depression screening (procedure) (Date: 2017-01-24T15:35:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-24T15:45:55Z)
+- Measurement of respiratory function (procedure) (Date: 2019-10-26T07:56:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-05T14:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-05T14:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-05T15:39:13Z)
+- Depression screening (procedure) (Date: 2019-11-05T16:00:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-05T16:11:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-28T14:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-28T14:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-28T15:34:11Z)
+- Assessment of substance use (procedure) (Date: 2020-01-28T16:00:21Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-28T16:12:33Z)
+- Intramuscular injection (Date: 2021-09-14T14:50:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-14T14:50:52Z: Consultation for treatment
+- 2021-03-23T14:50:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-23T14:50:52Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-19T14:50:52Z: Consultation for treatment
+- 2020-03-25T06:50:52Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2020-11-22T14:50:52Z QOLS: 1.0 {score}
+- 2020-11-22T14:50:52Z DALY: 0.0 a
+- 2020-11-22T14:50:52Z QALY: 25.0 a
+- 2020-03-25T06:50:52Z Body temperature: 37.1 Cel
+- 2020-01-28T16:36:31Z Total score [DAST-10]: 10.0 {score}
+- 2020-01-28T16:00:21Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-01-28T15:34:11Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 116397 /a
+- 2020-01-28T15:34:11Z Are you worried about losing your housing?: No nan
+- 2020-01-28T15:34:11Z What address do you live at?: 232 Bosco Route nan
+- 2020-01-28T15:34:11Z What is the highest level of school that you have finished?: Less than high school degree nan

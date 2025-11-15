@@ -1,0 +1,94 @@
+== PATIENT RECORD: Fredda152 Larkin917 (ID: d3daf8c9-7cb8-995f-b698-f1d59b19a6b0) ==
+
+== Demographics ==
+Patient ID: d3daf8c9-7cb8-995f-b698-f1d59b19a6b0
+Name: Fredda152 Larkin917
+Gender: F
+Birthdate: 1965-07-04
+Address: 503 Runolfsson Crossroad
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Concussion with no loss of consciousness
+
+== Current Medications ==
+- Camila 28 Day Pack
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+
+== Past Procedures ==
+- Replacement of contraceptive intrauterine device (Date: 2012-04-15T21:35:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-28T21:35:19Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-28T21:35:19Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-28T22:22:14Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-28T22:41:05Z)
+- Depression screening (procedure) (Date: 2013-07-28T23:15:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-28T23:27:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-05T21:35:19Z)
+- Colonoscopy (Date: 2015-07-05T21:35:19Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-05T22:23:56Z)
+- Depression screening (procedure) (Date: 2015-07-05T22:47:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-05T22:57:48Z)
+- Removal of intrauterine device (Date: 2016-03-06T21:35:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-10T21:35:19Z)
+- Screening for domestic abuse (procedure) (Date: 2016-07-10T22:18:44Z)
+- Assessment of substance use (procedure) (Date: 2016-07-10T22:58:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-07-10T23:11:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-16T21:35:19Z)
+- Depression screening (procedure) (Date: 2017-07-16T22:06:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-16T22:16:39Z)
+- Assessment of substance use (procedure) (Date: 2017-07-16T22:42:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-16T22:57:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-07-22T21:35:19Z)
+- Assessment of substance use (procedure) (Date: 2018-07-22T22:12:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-07-22T22:26:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-28T21:35:19Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-28T21:35:19Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-28T22:13:07Z)
+- Depression screening (procedure) (Date: 2019-07-28T22:37:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-28T22:47:47Z)
+- Assessment of substance use (procedure) (Date: 2019-07-28T23:10:13Z)
+- Screening for drug abuse (procedure) (Date: 2019-07-28T23:22:00Z)
+- Colonoscopy (Date: 2020-07-04T22:07:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-02T21:35:19Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-02T21:35:19Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-02T22:34:41Z)
+- Depression screening (procedure) (Date: 2020-08-02T23:08:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-02T23:19:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-08-02T23:45:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-08T21:35:19Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-08T21:35:19Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-08T22:27:02Z)
+- Depression screening (procedure) (Date: 2021-08-08T22:47:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-08T23:01:17Z)
+- Assessment of substance use (procedure) (Date: 2021-08-08T23:22:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-08-08T23:35:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-08T21:35:19Z: General examination of patient (procedure)
+- 2021-01-17T21:35:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-20T21:35:19Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-02T21:35:19Z: General examination of patient (procedure)
+- 2020-07-04T22:07:34Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-08-08T23:55:13Z Total score [AUDIT-C]: 0.0 {score}
+- 2021-08-08T23:22:02Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-08T22:47:28Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-08-08T22:27:02Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-08-08T22:27:02Z What is your current work situation?: Full-time work nan
+- 2021-08-08T22:27:02Z Are you worried about losing your housing?: No nan
+- 2021-08-08T22:27:02Z What address do you live at?: 503 Runolfsson Crossroad nan
+- 2021-08-08T22:27:02Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-08T22:27:02Z What is your main insurance?: Private insurance nan
+- 2021-08-08T22:27:02Z How many family members  including yourself  do you currently live with?: 4.0 {#}

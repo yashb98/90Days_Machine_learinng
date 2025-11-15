@@ -1,0 +1,86 @@
+== PATIENT RECORD: Mathew182 Jacobs452 (ID: d4289911-f875-7766-81d9-11b00b97f1a6) ==
+
+== Demographics ==
+Patient ID: d4289911-f875-7766-81d9-11b00b97f1a6
+Name: Mathew182 Jacobs452
+Gender: M
+Birthdate: 1973-12-10
+Address: 371 Hand Neck Apt 56
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Localized  primary osteoarthritis of the hand
+- Prediabetes
+- Diabetes
+- Unhealthy alcohol drinking behavior (finding)
+- Hypertriglyceridemia (disorder)
+- Metabolic syndrome X (disorder)
+- Anemia (disorder)
+- Social isolation (finding)
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+- Facial laceration
+- Victim of intimate partner abuse (finding)
+- Reports of violence in the environment (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- ferrous sulfate 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-12-16T15:48:12Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-16T15:48:12Z)
+- Peripheral blood smear interpretation (Date: 2013-12-16T15:48:12Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-16T16:33:52Z)
+- Depression screening (procedure) (Date: 2013-12-16T17:03:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-16T17:14:48Z)
+- Review of systems (procedure) (Date: 2013-12-16T16:18:12Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-16T16:33:09Z)
+- Brief general examination (procedure) (Date: 2013-12-16T16:51:55Z)
+- Suture open wound (Date: 2014-06-03T15:48:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-21T15:48:12Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-21T16:18:36Z)
+- Depression screening (procedure) (Date: 2015-12-21T17:01:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-21T17:13:27Z)
+- Assessment of substance use (procedure) (Date: 2015-12-21T17:33:30Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-21T17:47:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-25T15:48:12Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-25T15:48:12Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-25T16:22:35Z)
+- Depression screening (procedure) (Date: 2017-12-25T16:39:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-25T16:50:51Z)
+- Assessment of substance use (procedure) (Date: 2017-12-25T17:19:47Z)
+- Screening for drug abuse (procedure) (Date: 2017-12-25T17:31:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-12-30T15:48:12Z)
+- Medication Reconciliation (procedure) (Date: 2019-12-30T15:48:12Z)
+- Assessment of anxiety (procedure) (Date: 2019-12-30T16:30:30Z)
+- Screening for domestic abuse (procedure) (Date: 2019-12-30T16:57:38Z)
+- Depression screening (procedure) (Date: 2019-12-30T17:40:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-12-30T17:52:01Z)
+- Assessment of substance use (procedure) (Date: 2019-12-30T18:14:23Z)
+- Screening for drug abuse (procedure) (Date: 2019-12-30T18:25:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-07T15:48:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-17T15:48:12Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-12-30T15:48:12Z: General examination of patient (procedure)
+- 2017-12-25T15:48:12Z: General examination of patient (procedure)
+- 2015-12-21T15:48:12Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-10T15:48:12Z QOLS: 0.8 {score}
+- 2020-12-10T15:48:12Z DALY: 1.9 a
+- 2020-12-10T15:48:12Z QALY: 44.1 a
+- 2019-12-30T18:53:32Z Total score [DAST-10]: 1.0 {score}
+- 2019-12-30T18:14:23Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2019-12-30T17:40:42Z Total score [HARK]: 0.0 {score}
+- 2019-12-30T16:57:38Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2019-12-30T16:30:30Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2019-12-30T16:30:30Z Are you a refugee?: No nan
+- 2019-12-30T16:30:30Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

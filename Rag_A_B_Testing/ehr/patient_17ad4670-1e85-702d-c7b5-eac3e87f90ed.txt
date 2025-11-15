@@ -1,0 +1,105 @@
+== PATIENT RECORD: Stephanie963 Gibson10 (ID: 17ad4670-1e85-702d-c7b5-eac3e87f90ed) ==
+
+== Demographics ==
+Patient ID: 17ad4670-1e85-702d-c7b5-eac3e87f90ed
+Name: Stephanie963 Gibson10
+Gender: F
+Birthdate: 1998-07-09
+Address: 519 Cassin View
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic intractable migraine without aura
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Jolivette 28 Day Pack
+- Natazia 28 Day Pack
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2013-08-16T01:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-16T01:09:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-08-16T01:24:07Z)
+- Assessment of substance use (procedure) (Date: 2013-08-16T01:44:22Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-08-16T01:55:12Z)
+- Anticipatory guidance (procedure) (Date: 2013-08-16T02:23:59Z)
+- Assessment of anxiety (procedure) (Date: 2014-08-22T01:09:50Z)
+- Depression screening (procedure) (Date: 2014-08-22T01:33:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-08-22T01:48:35Z)
+- Assessment of substance use (procedure) (Date: 2014-08-22T02:13:02Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-08-22T02:26:30Z)
+- Anticipatory guidance (procedure) (Date: 2014-08-22T02:51:05Z)
+- Assessment of anxiety (procedure) (Date: 2015-08-28T01:09:50Z)
+- Assessment of substance use (procedure) (Date: 2015-08-28T01:34:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-08-28T01:49:11Z)
+- Anticipatory guidance (procedure) (Date: 2015-08-28T02:14:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-02T01:09:50Z)
+- Depression screening (procedure) (Date: 2016-09-02T01:45:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-02T01:55:41Z)
+- Assessment of substance use (procedure) (Date: 2016-09-02T02:24:48Z)
+- Screening for drug abuse (procedure) (Date: 2016-09-02T02:35:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-08T01:09:50Z)
+- Assessment of substance use (procedure) (Date: 2017-09-08T02:04:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-09-08T02:18:18Z)
+- Measurement of respiratory function (procedure) (Date: 2018-02-19T17:09:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-02T01:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-02T01:09:50Z)
+- Screening for domestic abuse (procedure) (Date: 2018-03-02T02:06:12Z)
+- Depression screening (procedure) (Date: 2018-03-02T02:31:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-02T02:45:07Z)
+- Sputum examination (procedure) (Date: 2018-08-27T02:20:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-14T01:09:50Z)
+- Depression screening (procedure) (Date: 2018-09-14T01:49:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-14T02:04:15Z)
+- Assessment of substance use (procedure) (Date: 2018-09-14T02:29:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-09-14T02:41:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-20T01:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-09-20T01:09:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-20T01:40:40Z)
+- Depression screening (procedure) (Date: 2019-09-20T02:07:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-20T02:21:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-25T01:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-25T01:09:50Z)
+- Depression screening (procedure) (Date: 2020-09-25T01:49:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-25T02:01:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-01T01:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-01T01:09:50Z)
+- Depression screening (procedure) (Date: 2021-10-01T01:56:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-01T02:10:02Z)
+- Assessment of substance use (procedure) (Date: 2021-10-01T02:33:47Z)
+- Screening for drug abuse (procedure) (Date: 2021-10-01T02:46:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-01T01:09:50Z: General examination of patient (procedure)
+- 2021-01-10T16:09:50Z: Encounter for symptom
+- 2020-09-25T01:09:50Z: General examination of patient (procedure)
+- 2019-09-20T01:09:50Z: General examination of patient (procedure)
+- 2018-09-14T01:09:50Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-01T03:14:34Z Total score [DAST-10]: 0.0 {score}
+- 2021-10-01T02:33:47Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-10-01T01:56:06Z What language are you most comfortable speaking?: English nan
+- 2021-10-01T01:56:06Z What is your main insurance?: Private insurance nan
+- 2021-10-01T01:56:06Z Are you worried about losing your housing?: No nan
+- 2021-10-01T01:56:06Z What address do you live at?: 519 Cassin View nan
+- 2021-10-01T01:56:06Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-10-01T01:56:06Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-10-01T01:56:06Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 45442 /a
+- 2021-10-01T01:56:06Z How many family members  including yourself  do you currently live with?: 6.0 {#}

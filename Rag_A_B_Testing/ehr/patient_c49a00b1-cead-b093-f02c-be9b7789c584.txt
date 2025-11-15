@@ -1,0 +1,54 @@
+== PATIENT RECORD: Ernesto186 Pacocha935 (ID: c49a00b1-cead-b093-f02c-be9b7789c584) ==
+
+== Demographics ==
+Patient ID: c49a00b1-cead-b093-f02c-be9b7789c584
+Name: Ernesto186 Pacocha935
+Gender: M
+Birthdate: 2012-02-16
+Address: 789 Fahey Plaza
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-02-16T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-24T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-24T05:06:42Z)
+- Throat culture (procedure) (Date: 2013-02-13T11:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-25T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-23T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-24T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-22T05:06:42Z)
+- Throat culture (procedure) (Date: 2015-12-12T04:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-21T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-26T05:06:42Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-18T05:06:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-18T05:06:42Z: Well child visit (procedure)
+- 2020-02-13T05:06:42Z: Well child visit (procedure)
+- 2019-02-07T05:06:42Z: Well child visit (procedure)
+- 2018-02-01T05:06:42Z: Well child visit (procedure)
+- 2017-06-12T05:06:42Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-02-18T05:06:42Z Body Mass Index: 15.9 kg/m2
+- 2021-02-18T05:06:42Z Body Height: 134.2 cm
+- 2021-02-18T05:06:42Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-02-18T05:06:42Z Body Weight: 28.7 kg
+- 2021-02-18T05:06:42Z Body mass index (BMI) [Percentile] Per age and gender: 44.4 %
+- 2021-02-18T05:06:42Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-02-18T05:06:42Z Systolic Blood Pressure: 129.0 mm[Hg]
+- 2021-02-18T05:06:42Z Heart rate: 92.0 /min
+- 2021-02-18T05:06:42Z Respiratory rate: 13.0 /min
+- 2021-02-18T05:06:42Z Tobacco smoking status NHIS: Never smoker nan

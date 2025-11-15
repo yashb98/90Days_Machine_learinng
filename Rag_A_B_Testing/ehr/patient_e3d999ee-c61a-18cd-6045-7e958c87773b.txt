@@ -1,0 +1,132 @@
+== PATIENT RECORD: Fernando603 Feliciano160 (ID: e3d999ee-c61a-18cd-6045-7e958c87773b) ==
+
+== Demographics ==
+Patient ID: e3d999ee-c61a-18cd-6045-7e958c87773b
+Name: Fernando603 Feliciano160
+Gender: M
+Birthdate: 1950-01-20
+Address: 171 Anderson Junction
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Refugee (person)
+- Osteoarthritis of knee
+- Victim of intimate partner abuse (finding)
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Full-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Has a criminal record (finding)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-30T16:45:15Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-30T16:45:15Z)
+- Depression screening (procedure) (Date: 2012-03-30T17:44:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-30T17:56:07Z)
+- Assessment of substance use (procedure) (Date: 2012-03-30T18:19:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-03-30T18:30:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-05T16:45:15Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-05T17:39:26Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-05T18:02:06Z)
+- Depression screening (procedure) (Date: 2013-04-05T18:28:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-05T18:38:57Z)
+- Assessment of substance use (procedure) (Date: 2013-04-05T18:59:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-05T19:14:12Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-05T16:45:15Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-08T17:43:57Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-11T18:15:33Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-14T18:49:43Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-17T19:25:58Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-20T19:57:37Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-23T20:52:57Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-26T21:32:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-11T16:45:15Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-11T16:45:15Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-11T17:29:09Z)
+- Depression screening (procedure) (Date: 2014-04-11T17:52:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-11T18:05:35Z)
+- Assessment of substance use (procedure) (Date: 2014-04-11T18:29:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-11T18:44:18Z)
+- Colonoscopy (Date: 2015-01-20T18:16:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-17T16:45:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-04-17T17:27:41Z)
+- Assessment of substance use (procedure) (Date: 2015-04-17T17:52:32Z)
+- Screening for drug abuse (procedure) (Date: 2015-04-17T18:06:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-22T16:45:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-04-22T17:44:22Z)
+- Depression screening (procedure) (Date: 2016-04-22T18:03:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-22T18:16:28Z)
+- Assessment of substance use (procedure) (Date: 2016-04-22T18:41:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-22T18:51:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-28T16:45:15Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-28T17:33:09Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-04-28T17:59:19Z)
+- Depression screening (procedure) (Date: 2017-04-28T18:25:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-28T18:39:12Z)
+- Assessment of substance use (procedure) (Date: 2017-04-28T19:06:15Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-28T19:17:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-04T16:45:15Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-05-04T17:16:12Z)
+- Depression screening (procedure) (Date: 2018-05-04T17:37:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-04T17:50:16Z)
+- Assessment of substance use (procedure) (Date: 2018-05-04T18:18:45Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-04T18:32:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-10T16:45:15Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-10T16:45:15Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-10T17:36:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-05-10T17:58:11Z)
+- Depression screening (procedure) (Date: 2019-05-10T18:26:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-10T18:41:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-10T19:05:29Z)
+- Assessment of substance use (procedure) (Date: 2019-05-10T19:29:42Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-10T19:44:17Z)
+- Colonoscopy (Date: 2020-01-20T18:47:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-15T16:45:15Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-15T16:45:15Z)
+- Depression screening (procedure) (Date: 2020-05-15T17:43:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-15T17:53:55Z)
+- Assessment of substance use (procedure) (Date: 2020-05-15T18:19:29Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-15T18:31:00Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-21T16:45:15Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-21T16:45:15Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-21T17:41:47Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-21T18:02:52Z)
+- Depression screening (procedure) (Date: 2021-05-21T18:35:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-21T18:45:58Z)
+- Assessment of substance use (procedure) (Date: 2021-05-21T19:10:14Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-21T19:23:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-09T16:45:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-18T16:45:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-21T16:45:15Z: General examination of patient (procedure)
+- 2020-12-29T19:45:15Z: Encounter for symptom
+- 2020-05-15T16:45:15Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-05-21T19:49:54Z Total score [DAST-10]: 2.0 {score}
+- 2021-05-21T19:10:14Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-05-21T18:35:34Z Total score [HARK]: 0.0 {score}
+- 2021-05-21T18:02:52Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-05-21T17:41:47Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 37608 /a
+- 2021-05-21T17:41:47Z What is your current work situation?: Part-time or temporary work nan
+- 2021-05-21T17:41:47Z What is your housing situation today?: I have housing nan
+- 2021-05-21T17:41:47Z Are you worried about losing your housing?: No nan
+- 2021-05-21T17:41:47Z What address do you live at?: 171 Anderson Junction nan
+- 2021-05-21T17:41:47Z What is the highest level of school that you have finished?: More than high school nan

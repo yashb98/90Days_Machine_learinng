@@ -1,0 +1,82 @@
+== PATIENT RECORD: Dewitt635 Hane680 (ID: e4035211-964b-b90f-237d-655426c3aa1f) ==
+
+== Demographics ==
+Patient ID: e4035211-964b-b90f-237d-655426c3aa1f
+Name: Dewitt635 Hane680
+Gender: M
+Birthdate: 1971-10-31
+Address: 461 Lesch Rue Suite 9
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Acute bronchitis (disorder)
+- Hyperlipidemia
+
+== Current Medications ==
+- Carbamazepine[Tegretol]
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-11-10T11:45:49Z)
+- Assessment of anxiety (procedure) (Date: 2013-11-10T12:34:09Z)
+- Screening for domestic abuse (procedure) (Date: 2013-11-10T12:53:35Z)
+- Assessment of substance use (procedure) (Date: 2013-11-10T13:25:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-11-10T13:36:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-11-15T11:45:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-15T11:45:49Z)
+- Depression screening (procedure) (Date: 2015-11-15T12:27:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-11-15T12:40:27Z)
+- Assessment of substance use (procedure) (Date: 2015-11-15T13:09:28Z)
+- Screening for drug abuse (procedure) (Date: 2015-11-15T13:21:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-19T11:45:49Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-19T11:45:49Z)
+- Assessment of anxiety (procedure) (Date: 2017-11-19T12:32:48Z)
+- Depression screening (procedure) (Date: 2017-11-19T12:54:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-19T13:08:05Z)
+- Assessment of substance use (procedure) (Date: 2017-11-19T13:31:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-11-19T13:42:16Z)
+- Measurement of respiratory function (procedure) (Date: 2019-03-25T04:45:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-24T11:45:49Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-24T12:21:46Z)
+- Depression screening (procedure) (Date: 2019-11-24T12:41:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-24T12:54:36Z)
+- Assessment of substance use (procedure) (Date: 2019-11-24T13:17:04Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-24T13:27:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-31T11:45:49Z)
+- Colonoscopy (Date: 2021-10-31T11:45:49Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-31T11:45:49Z)
+- Depression screening (procedure) (Date: 2021-10-31T12:41:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-31T12:52:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-31T11:45:49Z: Encounter for 'check-up'
+- 2021-10-31T11:45:49Z: General examination of patient (procedure)
+- 2021-03-07T11:45:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-11-24T11:45:49Z: General examination of patient (procedure)
+- 2019-03-25T04:45:49Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-31T13:15:56Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-10-31T12:41:59Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-10-31T12:41:59Z Are you worried about losing your housing?: No nan
+- 2021-10-31T12:41:59Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-10-31T12:41:59Z Are you a refugee?: No nan
+- 2021-10-31T12:41:59Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-10-31T12:41:59Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-10-31T12:41:59Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-10-31T12:41:59Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-10-31T12:41:59Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Food nan

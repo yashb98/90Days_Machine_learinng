@@ -1,0 +1,72 @@
+== PATIENT RECORD: Alexander630 Dickinson688 (ID: 58e24016-f3f7-e33d-35cd-333d6dedd5aa) ==
+
+== Demographics ==
+Patient ID: 58e24016-f3f7-e33d-35cd-333d6dedd5aa
+Name: Alexander630 Dickinson688
+Gender: M
+Birthdate: 1990-03-23
+Address: 128 Weber Haven
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-26T02:33:33Z)
+- Assessment of anxiety (procedure) (Date: 2012-05-26T03:09:40Z)
+- Screening for domestic abuse (procedure) (Date: 2012-05-26T03:39:27Z)
+- Depression screening (procedure) (Date: 2012-05-26T04:19:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-26T04:30:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-30T02:33:33Z)
+- Screening for domestic abuse (procedure) (Date: 2015-05-30T03:11:16Z)
+- Depression screening (procedure) (Date: 2015-05-30T03:44:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-30T03:55:34Z)
+- Assessment of substance use (procedure) (Date: 2015-05-30T04:20:56Z)
+- Screening for drug abuse (procedure) (Date: 2015-05-30T04:35:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-02T02:33:33Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-02T02:33:33Z)
+- Depression screening (procedure) (Date: 2018-06-02T03:29:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-02T03:43:28Z)
+- Assessment of substance use (procedure) (Date: 2018-06-02T04:11:59Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-02T04:23:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-05T02:33:33Z)
+- Peripheral blood smear interpretation (Date: 2021-06-05T02:33:33Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-05T03:11:42Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-05T03:39:52Z)
+- Depression screening (procedure) (Date: 2021-06-05T04:08:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-05T04:20:50Z)
+- Review of systems (procedure) (Date: 2021-06-05T03:03:33Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-05T03:13:48Z)
+- Brief general examination (procedure) (Date: 2021-06-05T03:30:23Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-05T02:33:33Z: General examination of patient (procedure)
+- 2021-06-05T02:33:33Z: Encounter for problem
+- 2021-05-22T02:33:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-24T02:33:33Z: Administration of vaccine to produce active immunity (procedure)
+- 2018-06-02T02:33:33Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-05T04:46:29Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-05T04:08:32Z Total score [HARK]: 4.0 {score}
+- 2021-06-05T03:39:52Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2021-06-05T03:11:42Z What is your main insurance?: Private insurance nan
+- 2021-06-05T03:11:42Z What is your housing situation today?: I have housing nan
+- 2021-06-05T03:11:42Z What address do you live at?: 128 Weber Haven nan
+- 2021-06-05T03:11:42Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-06-05T03:11:42Z What is your current work situation?: Full-time work nan
+- 2021-06-05T03:11:42Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 118512 /a
+- 2021-06-05T03:11:42Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: Clothing nan

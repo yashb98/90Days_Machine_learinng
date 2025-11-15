@@ -1,0 +1,137 @@
+== PATIENT RECORD: Sammie902 Mosciski958 (ID: 5cd20da5-2f01-b94a-07fb-173648c58460) ==
+
+== Demographics ==
+Patient ID: 5cd20da5-2f01-b94a-07fb-173648c58460
+Name: Sammie902 Mosciski958
+Gender: F
+Birthdate: 1944-08-19
+Address: 896 Ledner Glen
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Victim of intimate partner abuse (finding)
+- Lack of access to transportation (finding)
+- Miscarriage in first trimester
+- Prediabetes
+- Anemia (disorder)
+- Osteoarthritis of knee
+- Has a criminal record (finding)
+- Social isolation (finding)
+- Chronic sinusitis (disorder)
+- Osteoporosis (disorder)
+- Hyperlipidemia
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- Fracture of forearm
+- Pathological fracture due to osteoporosis (disorder)
+- Viral sinusitis (disorder)
+- Part-time employment (finding)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Vitamin B 12 5 MG/ML Injectable Solution
+- Naproxen sodium 220 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-11-27T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2011-11-27T01:57:50Z)
+- Assessment of anxiety (procedure) (Date: 2011-11-27T02:56:43Z)
+- Depression screening (procedure) (Date: 2011-11-27T03:15:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-11-27T03:29:41Z)
+- Assessment of substance use (procedure) (Date: 2011-11-27T03:57:37Z)
+- Screening for drug abuse (procedure) (Date: 2011-11-27T04:12:08Z)
+- Upper arm X-ray (Date: 2012-02-19T02:48:39Z)
+- Bone immobilization (Date: 2012-02-19T02:48:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-02T01:57:50Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-02T02:53:35Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-12-02T03:19:04Z)
+- Screening for domestic abuse (procedure) (Date: 2012-12-02T03:45:43Z)
+- Assessment of substance use (procedure) (Date: 2012-12-02T04:27:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-12-02T04:40:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-17T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-17T01:57:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-03-17T02:49:04Z)
+- Depression screening (procedure) (Date: 2013-03-17T03:15:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-17T03:27:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-08T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-08T01:57:50Z)
+- Assessment of anxiety (procedure) (Date: 2013-12-08T02:47:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-12-08T03:05:28Z)
+- Depression screening (procedure) (Date: 2013-12-08T03:29:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-08T03:43:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-14T01:57:50Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-14T02:50:23Z)
+- Depression screening (procedure) (Date: 2014-12-14T03:15:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-14T03:28:14Z)
+- Assessment of substance use (procedure) (Date: 2014-12-14T03:51:36Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-14T04:05:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-20T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-20T01:57:50Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-20T02:37:18Z)
+- Depression screening (procedure) (Date: 2015-12-20T02:54:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-20T03:07:01Z)
+- Assessment of substance use (procedure) (Date: 2015-12-20T03:34:39Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-20T03:44:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-25T01:57:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-12-25T02:37:21Z)
+- Depression screening (procedure) (Date: 2016-12-25T03:05:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-25T03:15:44Z)
+- Assessment of substance use (procedure) (Date: 2016-12-25T03:43:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-12-25T03:56:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-31T01:57:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-12-31T02:39:13Z)
+- Depression screening (procedure) (Date: 2017-12-31T02:55:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-31T03:05:29Z)
+- Assessment of substance use (procedure) (Date: 2017-12-31T03:28:22Z)
+- Screening for drug abuse (procedure) (Date: 2017-12-31T03:39:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-06T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-06T01:57:50Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-06T02:51:15Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-06T03:16:16Z)
+- Depression screening (procedure) (Date: 2019-01-06T03:55:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-06T04:08:06Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-01-06T04:28:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-12T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-12T01:57:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-01-12T02:37:32Z)
+- Depression screening (procedure) (Date: 2020-01-12T02:54:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-12T03:08:52Z)
+- Assessment of substance use (procedure) (Date: 2020-01-12T03:36:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-12T03:47:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-17T01:57:50Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-17T01:57:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-01-17T02:41:27Z)
+- Depression screening (procedure) (Date: 2021-01-17T03:10:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-17T03:22:59Z)
+- Assessment of substance use (procedure) (Date: 2021-01-17T03:43:41Z)
+- Screening for drug abuse (procedure) (Date: 2021-01-17T03:55:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-21T01:57:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-28T01:57:50Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-17T01:57:50Z: General examination of patient (procedure)
+- 2020-12-03T01:57:50Z: Follow-up encounter
+- 2020-01-12T01:57:50Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-20T01:57:50Z QOLS: 0.9 {score}
+- 2021-08-20T01:57:50Z DALY: 5.6 a
+- 2021-08-20T01:57:50Z QALY: 70.4 a
+- 2021-01-17T04:21:15Z Total score [DAST-10]: 0.0 {score}
+- 2021-01-17T03:43:41Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-01-17T03:10:47Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2021-01-17T03:10:47Z Fall risk total [Morse Fall Scale]: 57.0 {#}
+- 2021-01-17T02:41:27Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-01-17T02:41:27Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-01-17T02:41:27Z How many family members  including yourself  do you currently live with?: 6.0 {#}

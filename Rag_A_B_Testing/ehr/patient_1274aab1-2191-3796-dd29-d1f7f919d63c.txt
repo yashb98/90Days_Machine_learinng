@@ -1,0 +1,125 @@
+== PATIENT RECORD: Elwood28 Lindgren255 (ID: 1274aab1-2191-3796-dd29-d1f7f919d63c) ==
+
+== Demographics ==
+Patient ID: 1274aab1-2191-3796-dd29-d1f7f919d63c
+Name: Elwood28 Lindgren255
+Gender: M
+Birthdate: 1960-08-21
+Address: 985 Walsh Trace
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Social isolation (finding)
+- Chronic obstructive bronchitis (disorder)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Polyp of colon
+- Sepsis (disorder)
+- Chronic low back pain (finding)
+- Reports of violence in the environment (finding)
+- Appendicitis
+- History of appendectomy
+
+== Current Medications ==
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- tramadol hydrochloride 50 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 2009-12-06T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-12-06T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2009-12-06T15:58:15Z)
+- Depression screening (procedure) (Date: 2009-12-06T16:51:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-12-06T17:04:00Z)
+- Assessment of substance use (procedure) (Date: 2009-12-06T17:24:20Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-12-06T17:34:26Z)
+- Spirometry (procedure) (Date: 2010-02-28T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-02-28T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2010-02-28T15:58:15Z)
+- Assessment of substance use (procedure) (Date: 2010-02-28T16:43:02Z)
+- Screening for drug abuse (procedure) (Date: 2010-02-28T16:57:11Z)
+- Colonoscopy (Date: 2010-08-22T15:58:15Z)
+- Screening for occult blood in feces (procedure) (Date: 2010-08-22T16:32:27Z)
+- Rectal polypectomy (Date: 2010-08-22T16:32:27Z)
+- Spirometry (procedure) (Date: 2011-03-06T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-03-06T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2011-03-06T15:58:15Z)
+- Depression screening (procedure) (Date: 2011-03-06T16:39:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-03-06T16:53:40Z)
+- Colonoscopy (Date: 2012-02-12T16:32:27Z)
+- Spirometry (procedure) (Date: 2012-03-11T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-03-11T15:58:15Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-11T16:41:36Z)
+- Spirometry (procedure) (Date: 2013-03-17T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-17T15:58:15Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-17T16:51:07Z)
+- Depression screening (procedure) (Date: 2013-03-17T17:09:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-17T17:20:44Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-03-17T17:45:24Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2013-11-26T15:58:15Z)
+- Transfer to stepdown unit (procedure) (Date: 2013-11-26T16:28:15Z)
+- Spirometry (procedure) (Date: 2014-03-23T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-03-23T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2014-03-23T15:58:15Z)
+- Screening for domestic abuse (procedure) (Date: 2014-03-23T16:29:16Z)
+- Assessment of substance use (procedure) (Date: 2014-03-23T17:00:45Z)
+- Screening for drug abuse (procedure) (Date: 2014-03-23T17:13:52Z)
+- Spirometry (procedure) (Date: 2015-03-29T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-29T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-29T15:58:15Z)
+- Depression screening (procedure) (Date: 2015-03-29T16:43:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-29T16:54:33Z)
+- Spirometry (procedure) (Date: 2016-04-03T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-03T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-03T15:58:15Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-03T16:40:21Z)
+- Depression screening (procedure) (Date: 2016-04-03T17:01:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-03T17:16:30Z)
+- Assessment of substance use (procedure) (Date: 2016-04-03T17:40:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-03T17:54:06Z)
+- Colonoscopy (Date: 2017-02-11T17:06:39Z)
+- Spirometry (procedure) (Date: 2017-04-09T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-09T15:58:15Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-09T16:31:41Z)
+- Depression screening (procedure) (Date: 2017-04-09T17:01:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-09T17:15:00Z)
+- Appendectomy (Date: 2018-04-06T14:58:15Z)
+- Spirometry (procedure) (Date: 2018-04-15T15:58:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-15T15:58:15Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-15T15:58:15Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-15T16:31:07Z)
+- Depression screening (procedure) (Date: 2018-04-15T16:47:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-15T16:58:55Z)
+- Assessment of substance use (procedure) (Date: 2018-04-15T17:20:10Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-04-15T17:32:14Z)
+- Spirometry (procedure) (Date: 2019-04-21T15:58:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2019-04-28T15:58:15Z: Death Certification
+- 2019-04-21T15:58:15Z: General examination of patient (procedure)
+- 2018-04-15T15:58:15Z: General examination of patient (procedure)
+- 2018-04-06T14:58:15Z: Encounter Inpatient
+- 2018-04-06T14:58:15Z: Emergency Room Admission
+
+== Recent Observations (Last 10) ==
+- 2019-08-21T15:58:15Z QOLS: 0.8 {score}
+- 2019-08-21T15:58:15Z QALY: 57.3 a
+- 2019-08-21T15:58:15Z DALY: 0.7 a
+- 2019-04-28T15:58:15Z Cause of Death [US Standard Certificate of Death]: Chronic obstructive bronchitis (disorder) nan
+- 2019-04-21T15:58:15Z FEV1/FVC: 65.0 %
+- 2018-08-21T15:58:15Z QOLS: 1.0 {score}
+- 2018-08-21T15:58:15Z QALY: 56.6 a
+- 2018-08-21T15:58:15Z DALY: 0.4 a
+- 2018-04-15T17:58:35Z Total score [AUDIT-C]: 2.0 {score}
+- 2018-04-15T17:20:10Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}

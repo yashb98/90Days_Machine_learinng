@@ -1,0 +1,125 @@
+== PATIENT RECORD: Carrol931 Bogisich202 (ID: 402e86ae-4bab-2990-e3e5-af591cb87f6e) ==
+
+== Demographics ==
+Patient ID: 402e86ae-4bab-2990-e3e5-af591cb87f6e
+Name: Carrol931 Bogisich202
+Gender: M
+Birthdate: 1981-03-10
+Address: 835 Kuvalis Trail Unit 48
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Chronic low back pain (finding)
+- Part-time employment (finding)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+- Sprain of ankle
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-17T12:40:20Z)
+- Depression screening (procedure) (Date: 2012-07-17T13:35:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-17T13:49:52Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-17T14:16:23Z)
+- Assessment of substance use (procedure) (Date: 2012-07-17T14:38:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-07-17T14:52:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-23T12:40:20Z)
+- Medication Reconciliation (procedure) (Date: 2013-07-23T12:40:20Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-23T13:26:04Z)
+- Depression screening (procedure) (Date: 2013-07-23T13:53:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-23T14:07:17Z)
+- Assessment of substance use (procedure) (Date: 2013-07-23T14:34:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-23T14:48:18Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-09T12:40:20Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-12T13:19:15Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-15T13:58:31Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-18T14:33:38Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-21T15:27:20Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-24T16:04:07Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-27T16:52:26Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-03-02T17:24:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-29T12:40:20Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-29T13:25:59Z)
+- Depression screening (procedure) (Date: 2014-07-29T13:53:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-29T14:08:15Z)
+- Assessment of substance use (procedure) (Date: 2014-07-29T14:28:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-07-29T14:40:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-04T12:40:20Z)
+- Screening for domestic abuse (procedure) (Date: 2015-08-04T13:14:09Z)
+- Assessment of substance use (procedure) (Date: 2015-08-04T13:39:17Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-04T13:51:03Z)
+- Measurement of respiratory function (procedure) (Date: 2015-12-07T17:40:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-15T12:40:20Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-15T13:10:36Z)
+- Depression screening (procedure) (Date: 2015-12-15T13:37:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-15T13:50:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-09T12:40:20Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-09T12:40:20Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-09T13:24:22Z)
+- Depression screening (procedure) (Date: 2016-08-09T13:51:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-09T14:04:12Z)
+- Assessment of substance use (procedure) (Date: 2016-08-09T14:26:01Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-09T14:38:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-15T12:40:20Z)
+- Depression screening (procedure) (Date: 2017-08-15T13:30:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-15T13:41:49Z)
+- Assessment of substance use (procedure) (Date: 2017-08-15T14:08:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-08-15T14:22:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-21T12:40:20Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-21T12:40:20Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-21T13:23:14Z)
+- Depression screening (procedure) (Date: 2018-08-21T13:55:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-21T14:08:00Z)
+- Assessment of substance use (procedure) (Date: 2018-08-21T14:33:52Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-21T14:45:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-27T12:40:20Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-27T12:40:20Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-27T13:31:01Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-27T13:58:13Z)
+- Depression screening (procedure) (Date: 2019-08-27T14:38:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-27T14:50:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-01T12:40:20Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-01T12:40:20Z)
+- Depression screening (procedure) (Date: 2020-09-01T13:39:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-01T13:51:00Z)
+- Assessment of substance use (procedure) (Date: 2020-09-01T14:20:23Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-01T14:34:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-07T12:40:20Z)
+- Depression screening (procedure) (Date: 2021-09-07T13:24:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-09-07T13:37:06Z)
+- Assessment of substance use (procedure) (Date: 2021-09-07T14:04:19Z)
+- Screening for drug abuse (procedure) (Date: 2021-09-07T14:15:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-07T12:40:20Z: General examination of patient (procedure)
+- 2021-04-06T12:40:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-16T12:40:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-01T12:40:20Z: General examination of patient (procedure)
+- 2019-08-27T12:40:20Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-07T14:42:36Z Total score [DAST-10]: 2.0 {score}
+- 2021-09-07T14:04:19Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-09-07T13:24:23Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-09-07T13:24:23Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 84510 /a
+- 2021-09-07T13:24:23Z What is your main insurance?: Private insurance nan
+- 2021-09-07T13:24:23Z What is your current work situation?: Full-time work nan
+- 2021-09-07T13:24:23Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-09-07T13:24:23Z What address do you live at?: 835 Kuvalis Trail Unit 48 nan
+- 2021-09-07T13:24:23Z Are you worried about losing your housing?: No nan
+- 2021-09-07T13:24:23Z What is your housing situation today?: I have housing nan

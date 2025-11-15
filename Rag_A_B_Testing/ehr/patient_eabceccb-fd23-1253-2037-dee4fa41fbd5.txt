@@ -1,0 +1,51 @@
+== PATIENT RECORD: Alene865 Hermann103 (ID: eabceccb-fd23-1253-2037-dee4fa41fbd5) ==
+
+== Demographics ==
+Patient ID: eabceccb-fd23-1253-2037-dee4fa41fbd5
+Name: Alene865 Hermann103
+Gender: F
+Birthdate: 2014-04-01
+Address: 1049 Haag Walk
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-05-07T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-10T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-10T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-11T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2015-06-10T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2016-03-09T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-06T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-07T02:20:36Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-13T02:20:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-24T02:20:36Z: Well child visit (procedure)
+- 2020-03-18T02:20:36Z: Well child visit (procedure)
+- 2019-03-13T02:20:36Z: Well child visit (procedure)
+- 2018-08-26T02:20:36Z: Encounter for symptom
+- 2018-03-07T02:20:36Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-02T02:20:36Z QOLS: 1.0 {score}
+- 2021-04-02T02:20:36Z DALY: 0.0 a
+- 2021-04-02T02:20:36Z QALY: 6.0 a
+- 2021-03-24T02:20:36Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-03-24T02:20:36Z Body Height: 124.2 cm
+- 2021-03-24T02:20:36Z Body Weight: 25.3 kg
+- 2021-03-24T02:20:36Z Body Mass Index: 16.4 kg/m2
+- 2021-03-24T02:20:36Z Body mass index (BMI) [Percentile] Per age and gender: 71.1 %
+- 2021-03-24T02:20:36Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-03-24T02:20:36Z Systolic Blood Pressure: 108.0 mm[Hg]

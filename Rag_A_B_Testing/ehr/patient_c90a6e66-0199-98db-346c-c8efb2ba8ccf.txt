@@ -1,0 +1,104 @@
+== PATIENT RECORD: Jerrell6 Fahey393 (ID: c90a6e66-0199-98db-346c-c8efb2ba8ccf) ==
+
+== Demographics ==
+Patient ID: c90a6e66-0199-98db-346c-c8efb2ba8ccf
+Name: Jerrell6 Fahey393
+Gender: M
+Birthdate: 1987-08-25
+Address: 797 Ernser Promenade
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Part-time employment (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Not in labor force (finding)
+- Reports of violence in the environment (finding)
+- First degree burn
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-27T05:21:38Z)
+- Depression screening (procedure) (Date: 2012-11-27T05:52:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-27T06:06:19Z)
+- Assessment of substance use (procedure) (Date: 2012-11-27T06:32:57Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-27T06:46:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-03T05:21:38Z)
+- Depression screening (procedure) (Date: 2013-12-03T06:12:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-12-03T06:22:07Z)
+- Assessment of substance use (procedure) (Date: 2013-12-03T06:44:26Z)
+- Screening for drug abuse (procedure) (Date: 2013-12-03T06:57:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-09T05:21:38Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-09T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-09T05:59:17Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-09T06:29:01Z)
+- Depression screening (procedure) (Date: 2014-12-09T07:11:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-09T07:22:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-15T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2015-12-15T05:59:47Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-15T06:21:55Z)
+- Assessment of substance use (procedure) (Date: 2015-12-15T06:51:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-12-15T07:03:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-20T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2016-12-20T05:52:33Z)
+- Screening for domestic abuse (procedure) (Date: 2016-12-20T06:13:25Z)
+- Depression screening (procedure) (Date: 2016-12-20T06:49:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-20T07:02:11Z)
+- Assessment of substance use (procedure) (Date: 2016-12-20T07:27:09Z)
+- Screening for drug abuse (procedure) (Date: 2016-12-20T07:39:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-26T05:21:38Z)
+- Medication Reconciliation (procedure) (Date: 2017-12-26T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-26T06:10:57Z)
+- Depression screening (procedure) (Date: 2017-12-26T06:39:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-26T06:52:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-01T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-01T05:54:25Z)
+- Depression screening (procedure) (Date: 2019-01-01T06:19:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-01T06:33:36Z)
+- Assessment of substance use (procedure) (Date: 2019-01-01T06:58:00Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-01-01T07:10:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-07T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-07T05:58:11Z)
+- Screening for domestic abuse (procedure) (Date: 2020-01-07T06:13:30Z)
+- Depression screening (procedure) (Date: 2020-01-07T06:58:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-01-07T07:08:35Z)
+- Assessment of substance use (procedure) (Date: 2020-01-07T07:29:14Z)
+- Screening for drug abuse (procedure) (Date: 2020-01-07T07:39:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-12T05:21:38Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-12T05:21:38Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-12T06:03:30Z)
+- Depression screening (procedure) (Date: 2021-01-12T06:21:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-01-12T06:34:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-22T05:21:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-01T05:21:38Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-12T05:21:38Z: General examination of patient (procedure)
+- 2020-12-31T06:03:16Z: Encounter for 'check-up'
+- 2020-11-22T06:03:16Z: Emergency room admission (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-25T05:21:38Z QOLS: 0.9 {score}
+- 2021-08-25T05:21:38Z DALY: 0.5 a
+- 2021-08-25T05:21:38Z QALY: 32.5 a
+- 2021-01-12T07:02:10Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-01-12T06:21:35Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 2021-01-12T06:03:30Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-01-12T06:03:30Z What is your main insurance?: Private insurance nan
+- 2021-01-12T06:03:30Z What is your housing situation today?: I have housing nan
+- 2021-01-12T06:03:30Z Are you worried about losing your housing?: Yes nan
+- 2021-01-12T06:03:30Z What address do you live at?: 797 Ernser Promenade nan

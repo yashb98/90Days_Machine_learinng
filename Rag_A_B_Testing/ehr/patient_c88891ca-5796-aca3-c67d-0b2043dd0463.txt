@@ -1,0 +1,84 @@
+== PATIENT RECORD: Alexander630 Robel940 (ID: c88891ca-5796-aca3-c67d-0b2043dd0463) ==
+
+== Demographics ==
+Patient ID: c88891ca-5796-aca3-c67d-0b2043dd0463
+Name: Alexander630 Robel940
+Gender: M
+Birthdate: 2007-12-14
+Address: 337 Nicolas Light
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bronchitis (disorder)
+- Sinusitis (disorder)
+- Second degree burn
+- Child attention deficit disorder
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Methylphenidate Hydrochloride 20 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-11-30T04:57:05Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-17T04:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-02-23T04:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-04-05T05:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-05-10T06:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-06-19T07:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-07-23T08:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-08-24T09:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-09-27T10:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-11-01T11:57:05Z)
+- Cognitive and behavioral therapy (Date: 2019-12-06T12:57:05Z)
+- Assessment of substance use (procedure) (Date: 2020-01-04T04:57:05Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-04T04:57:05Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-01-04T05:08:46Z)
+- Anticipatory guidance (procedure) (Date: 2020-01-04T05:37:00Z)
+- Cognitive and behavioral therapy (Date: 2020-01-11T13:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-02-17T14:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-03-27T15:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-04-27T16:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-05-25T17:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-07-01T18:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-08-02T19:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-09-08T20:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-10-17T21:57:05Z)
+- Cognitive and behavioral therapy (Date: 2020-11-26T22:57:05Z)
+- Depression screening (procedure) (Date: 2021-01-09T04:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-01-05T23:57:05Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-01-09T05:10:13Z)
+- Cognitive and behavioral therapy (Date: 2021-02-12T00:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-03-14T01:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-04-14T02:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-05-19T03:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-06-19T04:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-07-18T05:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-08-26T06:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-09-25T07:57:05Z)
+- Cognitive and behavioral therapy (Date: 2021-11-03T08:57:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-03T08:57:05Z: Encounter for problem
+- 2021-09-25T07:57:05Z: Encounter for problem
+- 2021-08-26T06:57:05Z: Encounter for problem
+- 2021-07-18T05:57:05Z: Encounter for problem
+- 2021-06-19T04:57:05Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-01-09T05:32:19Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2021-01-09T04:57:05Z Heart rate: 96.0 /min
+- 2021-01-09T04:57:05Z Systolic Blood Pressure: 117.0 mm[Hg]
+- 2021-01-09T04:57:05Z Body Height: 150.6 cm
+- 2021-01-09T04:57:05Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-01-09T04:57:05Z Body Weight: 47.5 kg
+- 2021-01-09T04:57:05Z Body Mass Index: 21.0 kg/m2
+- 2021-01-09T04:57:05Z Body mass index (BMI) [Percentile] Per age and gender: 79.2 %
+- 2021-01-09T04:57:05Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-01-09T04:57:05Z Respiratory rate: 16.0 /min

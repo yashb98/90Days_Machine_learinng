@@ -1,0 +1,79 @@
+== PATIENT RECORD: Olin642 Shanahan202 (ID: 28d9ebc1-9a62-4c80-019f-ff3e32229532) ==
+
+== Demographics ==
+Patient ID: 28d9ebc1-9a62-4c80-019f-ff3e32229532
+Name: Olin642 Shanahan202
+Gender: M
+Birthdate: 1983-09-27
+Address: 1019 Rath Path Unit 24
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Misuses drugs (finding)
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-06T18:10:14Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-06T18:10:14Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-06T18:56:57Z)
+- Screening for domestic abuse (procedure) (Date: 2011-12-06T19:14:32Z)
+- Depression screening (procedure) (Date: 2011-12-06T19:43:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-06T19:56:32Z)
+- Assessment of substance use (procedure) (Date: 2011-12-06T20:20:04Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-06T20:31:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-25T18:10:14Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-25T19:01:03Z)
+- Depression screening (procedure) (Date: 2012-12-25T19:23:19Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-25T19:37:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-09T18:10:14Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-09T18:10:14Z)
+- Depression screening (procedure) (Date: 2014-12-09T19:03:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-09T19:17:53Z)
+- Assessment of substance use (procedure) (Date: 2014-12-09T19:39:42Z)
+- Screening for drug abuse (procedure) (Date: 2014-12-09T19:52:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-12T18:10:14Z)
+- Assessment of anxiety (procedure) (Date: 2017-12-12T18:44:37Z)
+- Assessment of substance use (procedure) (Date: 2017-12-12T19:09:11Z)
+- Screening for drug abuse (procedure) (Date: 2017-12-12T19:22:28Z)
+- Measurement of respiratory function (procedure) (Date: 2020-10-25T03:15:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-12-15T18:10:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-15T18:10:14Z)
+- Assessment of anxiety (procedure) (Date: 2020-12-15T18:54:16Z)
+- Depression screening (procedure) (Date: 2020-12-15T19:18:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-12-15T19:30:20Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-11T18:10:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-13T18:10:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-15T18:10:14Z: General examination of patient (procedure)
+- 2020-11-03T18:10:14Z: Urgent care clinic (procedure)
+- 2020-10-25T03:15:18Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-09-27T18:10:14Z QOLS: 1.0 {score}
+- 2021-09-27T18:10:14Z DALY: 0.2 a
+- 2021-09-27T18:10:14Z QALY: 36.8 a
+- 2020-12-15T19:58:26Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-12-15T19:18:46Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-12-15T18:54:16Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2020-12-15T18:54:16Z What address do you live at?: 1019 Rath Path Unit 24 nan
+- 2020-12-15T18:54:16Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-12-15T18:54:16Z What is your current work situation?: Full-time work nan
+- 2020-12-15T18:54:16Z What is your main insurance?: Private insurance nan

@@ -1,0 +1,52 @@
+== PATIENT RECORD: Lucretia377 Mann644 (ID: 97a30f0c-5ece-06e1-f7c1-1f8d46057ea7) ==
+
+== Demographics ==
+Patient ID: 97a30f0c-5ece-06e1-f7c1-1f8d46057ea7
+Name: Lucretia377 Mann644
+Gender: F
+Birthdate: 2012-11-26
+Address: 642 Rosenbaum Avenue Suite 89
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-12-31T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-03-04T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-06T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-05T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-04T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-03T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-04T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-02T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-02T06:18:28Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-23T06:18:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-13T23:18:28Z: Encounter for symptom
+- 2020-11-23T06:18:28Z: Well child visit (procedure)
+- 2019-11-18T06:18:28Z: Well child visit (procedure)
+- 2018-11-12T06:18:28Z: Well child visit (procedure)
+- 2017-11-06T06:18:28Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-13T23:18:28Z Body temperature: 39.0 Cel
+- 2020-11-26T06:18:28Z QOLS: 1.0 {score}
+- 2020-11-26T06:18:28Z QALY: 7.0 a
+- 2020-11-26T06:18:28Z DALY: 0.0 a
+- 2020-11-23T06:18:28Z Body Height: 129.5 cm
+- 2020-11-23T06:18:28Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2020-11-23T06:18:28Z Body Weight: 37.5 kg
+- 2020-11-23T06:18:28Z Body Mass Index: 22.4 kg/m2
+- 2020-11-23T06:18:28Z Body mass index (BMI) [Percentile] Per age and gender: 97.5 %
+- 2020-11-23T06:18:28Z Diastolic Blood Pressure: 77.0 mm[Hg]

@@ -1,0 +1,62 @@
+== PATIENT RECORD: Taylor21 Gulgowski816 (ID: dc6c06d0-a7d8-100f-c08b-46c93700c188) ==
+
+== Demographics ==
+Patient ID: dc6c06d0-a7d8-100f-c08b-46c93700c188
+Name: Taylor21 Gulgowski816
+Gender: M
+Birthdate: 2006-07-11
+Address: 1037 Hills Extension
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Fracture of ankle
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-07-02T19:50:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-08T19:50:58Z)
+- Ankle X-ray (Date: 2014-07-13T19:50:58Z)
+- Bone immobilization (Date: 2014-07-13T19:50:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-25T19:50:58Z)
+- Depression screening (procedure) (Date: 2018-07-31T19:50:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-07-31T20:03:08Z)
+- Assessment of substance use (procedure) (Date: 2018-07-31T20:28:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-07-31T20:42:57Z)
+- Anticipatory guidance (procedure) (Date: 2018-07-31T21:04:43Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-06T19:50:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-06T19:50:58Z)
+- Depression screening (procedure) (Date: 2019-08-06T20:07:16Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-06T20:20:29Z)
+- Throat culture (procedure) (Date: 2021-02-09T20:50:58Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-17T19:50:58Z)
+- Depression screening (procedure) (Date: 2021-08-17T20:10:32Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-08-17T20:24:23Z)
+- Assessment of substance use (procedure) (Date: 2021-08-17T20:51:13Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-08-17T21:05:12Z)
+- Anticipatory guidance (procedure) (Date: 2021-08-17T21:21:11Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-28T19:50:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-31T19:50:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-17T19:50:58Z: Well child visit (procedure)
+- 2021-02-09T20:50:58Z: Encounter for symptom
+- 2020-08-11T19:50:58Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-17T20:51:13Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 22.0 {score}
+- 2021-08-17T20:10:32Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-08-17T19:50:58Z Body Height: 173.1 cm
+- 2021-08-17T19:50:58Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-08-17T19:50:58Z Body Weight: 58.6 kg
+- 2021-08-17T19:50:58Z Body Mass Index: 19.6 kg/m2
+- 2021-08-17T19:50:58Z Body mass index (BMI) [Percentile] Per age and gender: 44.6 %
+- 2021-08-17T19:50:58Z Diastolic Blood Pressure: 69.0 mm[Hg]
+- 2021-08-17T19:50:58Z Systolic Blood Pressure: 103.0 mm[Hg]
+- 2021-08-17T19:50:58Z Heart rate: 87.0 /min

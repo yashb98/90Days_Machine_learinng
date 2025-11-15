@@ -1,0 +1,53 @@
+== PATIENT RECORD: Eva64 Soria950 (ID: 81fbeaeb-d95a-1d34-e260-291f23fec526) ==
+
+== Demographics ==
+Patient ID: 81fbeaeb-d95a-1d34-e260-291f23fec526
+Name: Eva64 Soria950
+Gender: F
+Birthdate: 2011-01-02
+Address: 1073 Beer Fork Unit 13
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Seasonal allergic rhinitis
+- Laceration of hand
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-12-11T08:59:23Z)
+- Allergy screening test (Date: 2013-03-15T16:59:23Z)
+- Medication Reconciliation (procedure) (Date: 2013-06-09T08:59:23Z)
+- Suture open wound (Date: 2015-01-06T08:59:23Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-30T08:59:23Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-05T08:59:23Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-10T08:59:23Z)
+- Suture open wound (Date: 2021-02-27T09:22:11Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-02-27T09:22:11Z: Emergency room admission (procedure)
+- 2021-01-10T08:59:23Z: Well child visit (procedure)
+- 2020-01-05T08:59:23Z: Well child visit (procedure)
+- 2019-12-24T18:59:23Z: Encounter for symptom
+- 2018-12-30T08:59:23Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-10T08:59:23Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-01-10T08:59:23Z Body Height: 135.8 cm
+- 2021-01-10T08:59:23Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0 {score}
+- 2021-01-10T08:59:23Z Body Weight: 32.0 kg
+- 2021-01-10T08:59:23Z Body Mass Index: 17.4 kg/m2
+- 2021-01-10T08:59:23Z Body mass index (BMI) [Percentile] Per age and gender: 58.2 %
+- 2021-01-10T08:59:23Z Diastolic Blood Pressure: 86.0 mm[Hg]
+- 2021-01-10T08:59:23Z Systolic Blood Pressure: 115.0 mm[Hg]
+- 2021-01-10T08:59:23Z Heart rate: 70.0 /min
+- 2021-01-10T08:59:23Z Respiratory rate: 14.0 /min

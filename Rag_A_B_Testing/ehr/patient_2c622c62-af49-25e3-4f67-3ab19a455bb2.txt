@@ -1,0 +1,63 @@
+== PATIENT RECORD: Isaac321 Marks830 (ID: 2c622c62-af49-25e3-4f67-3ab19a455bb2) ==
+
+== Demographics ==
+Patient ID: 2c622c62-af49-25e3-4f67-3ab19a455bb2
+Name: Isaac321 Marks830
+Gender: M
+Birthdate: 1989-03-17
+Address: 343 Kerluke Trafficway Suite 44
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Misuses drugs (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Acute bacterial sinusitis (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- Diazepam 5 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-05-24T02:19:04Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-24T03:16:58Z)
+- Depression screening (procedure) (Date: 2014-05-24T03:32:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-24T03:43:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-27T02:19:04Z)
+- Medication Reconciliation (procedure) (Date: 2017-05-27T02:19:04Z)
+- Depression screening (procedure) (Date: 2017-05-27T03:14:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-27T03:26:03Z)
+- Assessment of substance use (procedure) (Date: 2017-05-27T03:46:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-27T03:58:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-30T02:19:04Z)
+- Depression screening (procedure) (Date: 2020-05-30T03:00:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-30T03:13:57Z)
+- Assessment of substance use (procedure) (Date: 2020-05-30T03:34:06Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-05-30T03:45:41Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-05-30T02:19:04Z: General examination of patient (procedure)
+- 2017-05-27T02:19:04Z: General examination of patient (procedure)
+- 2015-10-02T20:19:04Z: Encounter for symptom
+- 2014-05-24T02:19:04Z: General examination of patient (procedure)
+- 2011-05-21T02:19:04Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-18T01:19:04Z QOLS: 0.7 {score}
+- 2021-03-18T01:19:04Z DALY: 6.9 a
+- 2021-03-18T01:19:04Z QALY: 24.1 a
+- 2020-05-30T04:13:36Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-05-30T03:34:06Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-05-30T03:00:10Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 695663 /a
+- 2020-05-30T03:00:10Z Are you worried about losing your housing?: No nan
+- 2020-05-30T03:00:10Z What address do you live at?: 343 Kerluke Trafficway Suite 44 nan
+- 2020-05-30T03:00:10Z What is the highest level of school that you have finished?: More than high school nan
+- 2020-05-30T03:00:10Z What is your current work situation?: Part-time or temporary work nan

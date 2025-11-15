@@ -1,0 +1,133 @@
+== PATIENT RECORD: Cherri385 Klocko335 (ID: 8151b558-93f4-5a4c-4697-a3137595e999) ==
+
+== Demographics ==
+Patient ID: 8151b558-93f4-5a4c-4697-a3137595e999
+Name: Cherri385 Klocko335
+Gender: F
+Birthdate: 1959-04-22
+Address: 682 Hermiston Plaza
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Prediabetes
+- Anemia (disorder)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Miscarriage in first trimester
+- Osteoarthritis of knee
+- Polyp of colon
+- Stress (finding)
+- Sprain of wrist
+- Fracture subluxation of wrist
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-09T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2012-05-09T22:38:18Z)
+- Depression screening (procedure) (Date: 2012-05-09T22:53:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-09T23:04:02Z)
+- Assessment of substance use (procedure) (Date: 2012-05-09T23:32:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-05-09T23:44:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-05-15T21:58:06Z)
+- Depression screening (procedure) (Date: 2013-05-15T22:42:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-05-15T22:56:18Z)
+- Assessment of substance use (procedure) (Date: 2013-05-15T23:17:37Z)
+- Screening for drug abuse (procedure) (Date: 2013-05-15T23:32:36Z)
+- X-ray or wrist (Date: 2013-10-02T21:58:06Z)
+- Bone immobilization (Date: 2013-10-02T21:58:06Z)
+- Bone density scan (procedure) (Date: 2013-10-02T22:25:12Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-03T21:58:06Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-06T22:48:05Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-09T23:32:52Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-13T00:05:25Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-16T00:53:43Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-19T01:42:35Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-22T02:17:58Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-25T02:57:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-21T21:58:06Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-21T21:58:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-27T21:58:06Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-27T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-27T22:33:13Z)
+- Screening for domestic abuse (procedure) (Date: 2015-05-27T23:01:59Z)
+- Depression screening (procedure) (Date: 2015-05-27T23:38:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-27T23:51:58Z)
+- Assessment of substance use (procedure) (Date: 2015-05-28T00:21:33Z)
+- Screening for drug abuse (procedure) (Date: 2015-05-28T00:34:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-06-01T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2016-06-01T22:33:31Z)
+- Screening for domestic abuse (procedure) (Date: 2016-06-01T22:50:22Z)
+- Depression screening (procedure) (Date: 2016-06-01T23:26:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-06-01T23:38:25Z)
+- Assessment of substance use (procedure) (Date: 2016-06-02T00:01:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-06-02T00:12:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-21T21:58:06Z)
+- Medication Reconciliation (procedure) (Date: 2016-12-21T21:58:06Z)
+- Depression screening (procedure) (Date: 2016-12-21T22:44:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-21T22:57:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-04T21:58:06Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-04T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-04T22:40:01Z)
+- Depression screening (procedure) (Date: 2017-01-04T22:56:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-04T23:07:45Z)
+- Assessment of substance use (procedure) (Date: 2017-01-04T23:32:11Z)
+- Screening for drug abuse (procedure) (Date: 2017-01-04T23:43:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-07T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-07T22:30:53Z)
+- Screening for domestic abuse (procedure) (Date: 2017-06-07T22:55:42Z)
+- Assessment of substance use (procedure) (Date: 2017-06-07T23:22:28Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-07T23:36:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-13T21:58:06Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-13T21:58:06Z)
+- Assessment of substance use (procedure) (Date: 2018-06-13T22:56:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-13T23:09:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-19T21:58:06Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-19T21:58:06Z)
+- Depression screening (procedure) (Date: 2019-06-19T22:30:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-19T22:40:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-24T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-24T22:56:17Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-24T23:25:30Z)
+- Depression screening (procedure) (Date: 2020-06-25T00:09:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-25T00:22:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-30T21:58:06Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-30T22:28:11Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-30T22:57:10Z)
+- Depression screening (procedure) (Date: 2021-06-30T23:29:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-30T23:41:19Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-12T02:58:06Z: Encounter for symptom
+- 2021-06-30T21:58:06Z: General examination of patient (procedure)
+- 2021-03-10T21:58:06Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-17T21:58:06Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-24T21:58:06Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-07-01T00:05:13Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-30T23:29:04Z Total score [HARK]: 0.0 {score}
+- 2021-06-30T22:57:10Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-06-30T22:28:11Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-30T22:28:11Z What is your current work situation?: Full-time work nan
+- 2021-06-30T22:28:11Z What language are you most comfortable speaking?: English nan
+- 2021-06-30T22:28:11Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-06-30T22:28:11Z What is your housing situation today?: I have housing nan
+- 2021-06-30T22:28:11Z Are you worried about losing your housing?: No nan
+- 2021-06-30T22:28:11Z What address do you live at?: 682 Hermiston Plaza nan

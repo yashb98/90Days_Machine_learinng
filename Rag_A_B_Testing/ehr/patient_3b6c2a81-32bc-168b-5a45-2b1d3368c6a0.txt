@@ -1,0 +1,244 @@
+== PATIENT RECORD: Wilmer32 Yost751 (ID: 3b6c2a81-32bc-168b-5a45-2b1d3368c6a0) ==
+
+== Demographics ==
+Patient ID: 3b6c2a81-32bc-168b-5a45-2b1d3368c6a0
+Name: Wilmer32 Yost751
+Gender: M
+Birthdate: 1940-08-16
+Address: 204 Hammes Bridge
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Risk activity involvement (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Part-time employment (finding)
+- Malignant neoplasm of breast (disorder)
+- Chronic congestive heart failure (disorder)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Fracture of forearm
+- Shock (disorder)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Tamoxifen 10 MG Oral Tablet
+- 5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab 120 MG/ML Injection
+- Furosemide 40 MG Oral Tablet
+- carvedilol 25 MG Oral Tablet
+- lisinopril 20 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- losartan potassium 50 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2003-06-21T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2003-06-21T01:44:11Z)
+- Screening for domestic abuse (procedure) (Date: 2003-06-21T02:00:07Z)
+- Depression screening (procedure) (Date: 2003-06-21T02:42:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-06-21T02:53:33Z)
+- Assessment of substance use (procedure) (Date: 2003-06-21T03:21:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-06-21T03:33:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-06-26T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2004-06-26T02:06:58Z)
+- Depression screening (procedure) (Date: 2004-06-26T02:27:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-06-26T02:41:52Z)
+- Assessment of substance use (procedure) (Date: 2004-06-26T03:06:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-06-26T03:17:14Z)
+- Mammogram - symptomatic (procedure) (Date: 2004-10-13T01:13:51Z)
+- Ultrasonography of bilateral breasts (procedure) (Date: 2004-10-13T01:33:38Z)
+- Biopsy of breast (procedure) (Date: 2004-10-13T01:51:22Z)
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) (Date: 2004-10-13T02:43:42Z)
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) (Date: 2004-10-14T17:43:42Z)
+- Excision of axillary lymph node (procedure) (Date: 2004-10-28T11:57:42Z)
+- Lumpectomy of breast (procedure) (Date: 2004-10-28T12:45:05Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-03T05:07:35Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-04T10:31:41Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-05T21:58:32Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-07T04:40:59Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-08T07:30:00Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-09T14:30:13Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-10T20:34:06Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-12T01:21:25Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-13T05:26:43Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-14T12:32:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-16T00:30:35Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-17T08:53:49Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-18T20:48:46Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-20T06:52:38Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-21T11:27:26Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-22T12:40:34Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-23T18:39:18Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-24T20:42:02Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-26T05:15:09Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-27T09:19:32Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-28T14:04:31Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-11-30T02:24:36Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-01T12:09:28Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-02T16:48:41Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-04T01:25:04Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-05T09:30:31Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-06T13:10:04Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-08T00:03:11Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-09T10:51:33Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-10T18:17:22Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-11T22:43:42Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-13T05:49:32Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-14T07:43:07Z)
+- Teleradiotherapy procedure (procedure) (Date: 2004-12-15T09:16:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-07-02T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2005-07-02T02:12:15Z)
+- Depression screening (procedure) (Date: 2005-07-02T02:35:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-07-02T02:46:24Z)
+- Assessment of substance use (procedure) (Date: 2005-07-02T03:07:36Z)
+- Screening for drug abuse (procedure) (Date: 2005-07-02T03:21:43Z)
+- Mammography (procedure) (Date: 2005-12-13T15:46:12Z)
+- Manual pelvic examination (procedure) (Date: 2005-12-13T16:05:56Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2005-12-13T16:19:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-07-08T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2006-07-08T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2006-07-08T01:46:59Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-07-08T02:11:40Z)
+- Assessment of substance use (procedure) (Date: 2006-07-08T02:30:08Z)
+- Screening for drug abuse (procedure) (Date: 2006-07-08T02:45:03Z)
+- Mammography (procedure) (Date: 2006-11-18T16:36:19Z)
+- Manual pelvic examination (procedure) (Date: 2006-11-18T16:59:50Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2006-11-18T17:10:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-07-14T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2007-07-14T02:07:05Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-07-14T02:35:35Z)
+- Screening for domestic abuse (procedure) (Date: 2007-07-14T03:04:18Z)
+- Mammography (procedure) (Date: 2007-10-13T17:28:43Z)
+- Manual pelvic examination (procedure) (Date: 2007-10-13T17:51:07Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2007-10-13T18:01:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-07-19T01:13:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-07-19T02:13:13Z)
+- Screening for domestic abuse (procedure) (Date: 2008-07-19T02:35:52Z)
+- Depression screening (procedure) (Date: 2008-07-19T03:01:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-07-19T03:14:28Z)
+- Assessment of substance use (procedure) (Date: 2008-07-19T03:41:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2008-07-19T03:55:47Z)
+- Mammography (procedure) (Date: 2008-09-25T18:21:54Z)
+- Manual pelvic examination (procedure) (Date: 2008-09-25T18:38:32Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2008-09-25T18:49:33Z)
+- Electrocardiographic procedure (Date: 2009-03-31T01:13:51Z)
+- Plain chest X-ray (procedure) (Date: 2009-03-31T01:20:56Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 2009-03-31T01:20:56Z)
+- Echocardiography (procedure) (Date: 2009-04-16T01:39:52Z)
+- Medication Reconciliation (procedure) (Date: 2009-04-16T01:39:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-07-25T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2009-07-25T01:13:51Z)
+- Measurement of respiratory function (procedure) (Date: 2009-07-25T04:13:51Z)
+- Assessment of substance use (procedure) (Date: 2009-07-25T02:09:32Z)
+- Screening for drug abuse (procedure) (Date: 2009-07-25T02:20:35Z)
+- Mammography (procedure) (Date: 2009-09-10T19:01:50Z)
+- Manual pelvic examination (procedure) (Date: 2009-09-10T19:18:53Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2009-09-10T19:33:50Z)
+- Echocardiography (procedure) (Date: 2009-10-13T01:39:52Z)
+- Medication Reconciliation (procedure) (Date: 2009-10-13T01:39:52Z)
+- Echocardiography (procedure) (Date: 2010-04-11T01:39:52Z)
+- Medication Reconciliation (procedure) (Date: 2010-04-11T01:39:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-07-31T01:13:51Z)
+- Medication Reconciliation (procedure) (Date: 2010-07-31T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2010-07-31T02:05:00Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-07-31T02:20:21Z)
+- Depression screening (procedure) (Date: 2010-07-31T02:40:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-07-31T02:53:14Z)
+- Assessment of substance use (procedure) (Date: 2010-07-31T03:14:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2010-07-31T03:25:03Z)
+- Mammography (procedure) (Date: 2010-08-25T19:50:15Z)
+- Manual pelvic examination (procedure) (Date: 2010-08-25T20:09:36Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2010-08-25T20:23:39Z)
+- Oxygen administration by mask (procedure) (Date: 2010-10-08T01:39:52Z)
+- Placing subject in prone position (procedure) (Date: 2010-10-08T01:39:52Z)
+- Plain chest X-ray (procedure) (Date: 2010-10-08T01:39:52Z)
+- Medication Reconciliation (procedure) (Date: 2010-10-08T01:39:52Z)
+- Electrocardiographic procedure (Date: 2010-10-08T01:39:52Z)
+- Oxygen administration by mask (procedure) (Date: 2010-10-08T01:47:23Z)
+- Placing subject in prone position (procedure) (Date: 2010-10-08T01:47:23Z)
+- Heart failure education (procedure) (Date: 2010-10-09T01:47:23Z)
+- Echocardiography (procedure) (Date: 2011-02-20T02:32:21Z)
+- Medication Reconciliation (procedure) (Date: 2011-02-20T02:32:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-08-06T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2011-08-06T01:52:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-08-06T02:09:45Z)
+- Assessment of substance use (procedure) (Date: 2011-08-06T02:27:34Z)
+- Screening for drug abuse (procedure) (Date: 2011-08-06T02:38:45Z)
+- Echocardiography (procedure) (Date: 2011-08-19T02:32:21Z)
+- Medication Reconciliation (procedure) (Date: 2011-08-19T02:32:21Z)
+- Mammography (procedure) (Date: 2011-08-17T20:41:36Z)
+- Manual pelvic examination (procedure) (Date: 2011-08-17T21:02:20Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2011-08-17T21:16:26Z)
+- Echocardiography (procedure) (Date: 2012-02-15T02:32:21Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-15T02:32:21Z)
+- Upper arm X-ray (Date: 2012-02-26T05:31:51Z)
+- Bone immobilization (Date: 2012-02-26T05:31:51Z)
+- Bone density scan (procedure) (Date: 2012-02-26T06:16:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-11T01:13:51Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-11T02:13:39Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-08-11T02:40:21Z)
+- Screening for domestic abuse (procedure) (Date: 2012-08-11T03:00:39Z)
+- Depression screening (procedure) (Date: 2012-08-11T03:39:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-11T03:50:09Z)
+- Oxygen administration by mask (procedure) (Date: 2012-08-13T02:32:21Z)
+- Placing subject in prone position (procedure) (Date: 2012-08-13T02:32:21Z)
+- Plain chest X-ray (procedure) (Date: 2012-08-13T02:32:21Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-13T02:32:21Z)
+- Electrocardiographic procedure (Date: 2012-08-13T02:32:21Z)
+- Oxygen administration by mask (procedure) (Date: 2012-08-13T02:37:42Z)
+- Placing subject in prone position (procedure) (Date: 2012-08-13T02:37:42Z)
+- Heart failure education (procedure) (Date: 2012-08-14T02:37:42Z)
+- Mammography (procedure) (Date: 2012-09-02T21:36:24Z)
+- Manual pelvic examination (procedure) (Date: 2012-09-02T21:58:26Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2012-09-02T22:08:36Z)
+- Oxygen administration by mask (procedure) (Date: 2012-10-06T03:16:43Z)
+- Placing subject in prone position (procedure) (Date: 2012-10-06T03:16:43Z)
+- Plain chest X-ray (procedure) (Date: 2012-10-06T03:16:43Z)
+- Medication Reconciliation (procedure) (Date: 2012-10-06T03:16:43Z)
+- Electrocardiographic procedure (Date: 2012-10-06T03:16:43Z)
+- Echocardiography (procedure) (Date: 2012-10-06T03:26:31Z)
+- Oxygen administration by mask (procedure) (Date: 2012-10-06T03:26:31Z)
+- Placing subject in prone position (procedure) (Date: 2012-10-06T03:26:31Z)
+- Heart failure education (procedure) (Date: 2012-10-07T03:26:31Z)
+- Echocardiography (procedure) (Date: 2012-11-18T04:18:44Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-18T04:18:44Z)
+- Oxygen administration by mask (procedure) (Date: 2013-05-17T04:18:44Z)
+- Placing subject in prone position (procedure) (Date: 2013-05-17T04:18:44Z)
+- Plain chest X-ray (procedure) (Date: 2013-05-17T04:18:44Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-17T04:18:44Z)
+- Electrocardiographic procedure (Date: 2013-05-17T04:18:44Z)
+- Oxygen administration by mask (procedure) (Date: 2013-05-17T04:24:55Z)
+- Placing subject in prone position (procedure) (Date: 2013-05-17T04:24:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2013-06-01T01:13:51Z: Death Certification
+- 2013-05-17T04:18:44Z: Admission to intensive care unit (procedure)
+- 2013-05-17T04:18:44Z: Encounter for Problem
+- 2012-11-18T04:18:44Z: Encounter for problem
+- 2012-11-17T04:18:44Z: Telemedicine consultation with patient
+
+== Recent Observations (Last 10) ==
+- 2013-08-17T01:13:51Z QOLS: 0.5 {score}
+- 2013-08-17T01:13:51Z DALY: 45.5 a
+- 2013-08-17T01:13:51Z QALY: 26.5 a
+- 2013-06-01T01:13:51Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 2013-05-17T16:24:55Z Erythrocyte distribution width [Ratio] by Automated count: 14.0 %
+- 2013-05-17T16:24:55Z Glomerular filtration rate/1.73 sq M.predicted: 137.3 mL/min
+- 2013-05-17T16:24:55Z Carbon dioxide  total [Moles/volume] in Serum or Plasma: 23.4 mmol/L
+- 2013-05-17T16:24:55Z Chloride [Moles/volume] in Serum or Plasma: 101.8 mmol/L
+- 2013-05-17T16:24:55Z Potassium [Moles/volume] in Serum or Plasma: 4.0 mmol/L
+- 2013-05-17T16:24:55Z Calcium [Mass/volume] in Serum or Plasma: 10.1 mg/dL

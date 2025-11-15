@@ -1,0 +1,54 @@
+== PATIENT RECORD: Damon455 Langosh790 (ID: b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85) ==
+
+== Demographics ==
+Patient ID: b9c610cd-28a6-4636-ccb6-c7a0d2a4cb85
+Name: Damon455 Langosh790
+Gender: M
+Birthdate: 2019-02-17
+Address: 620 Lynch Tunnel Apt 0
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Aspirin
+- Cow's milk (substance)
+- Soya bean (substance)
+- Shellfish (substance)
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-02-17T05:07:38Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-26T05:07:38Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-28T05:07:38Z)
+- Allergy screening test (Date: 2020-02-17T10:07:38Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-26T05:07:38Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-24T05:07:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-25T05:07:38Z: Well child visit (procedure)
+- 2021-01-24T05:07:38Z: Well child visit (procedure)
+- 2020-07-26T05:07:38Z: Well child visit (procedure)
+- 2020-04-26T05:07:38Z: Well child visit (procedure)
+- 2020-02-17T10:07:38Z: Encounter for problem
+
+== Recent Observations (Last 10) ==
+- 2021-07-25T05:07:38Z Weight-for-length Per age and sex: 49.0 %
+- 2021-07-25T05:07:38Z Body mass index (BMI) [Percentile] Per age and gender: 51.1 %
+- 2021-07-25T05:07:38Z Body Height: 88.8 cm
+- 2021-07-25T05:07:38Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-25T05:07:38Z Body Weight: 12.9 kg
+- 2021-07-25T05:07:38Z Head Occipital-frontal circumference: 48.5 cm
+- 2021-07-25T05:07:38Z Body Mass Index: 16.3 kg/m2
+- 2021-07-25T05:07:38Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-07-25T05:07:38Z Respiratory rate: 13.0 /min
+- 2021-07-25T05:07:38Z Heart rate: 62.0 /min

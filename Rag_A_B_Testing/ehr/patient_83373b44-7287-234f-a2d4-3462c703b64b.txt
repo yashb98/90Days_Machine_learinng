@@ -1,0 +1,72 @@
+== PATIENT RECORD: Duane703 Labadie908 (ID: 83373b44-7287-234f-a2d4-3462c703b64b) ==
+
+== Demographics ==
+Patient ID: 83373b44-7287-234f-a2d4-3462c703b64b
+Name: Duane703 Labadie908
+Gender: M
+Birthdate: 1974-10-09
+Address: 252 Wisozk Dam
+Marital Status: M
+
+== Allergies ==
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Body mass index 30+ - obesity (finding)
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+- Prediabetes
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-28T19:23:51Z)
+- Depression screening (procedure) (Date: 2011-12-28T20:13:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-12-28T20:25:00Z)
+- Assessment of substance use (procedure) (Date: 2011-12-28T20:51:01Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-12-28T21:02:32Z)
+- Throat culture (procedure) (Date: 2013-09-02T14:23:51Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-15T19:23:51Z)
+- Depression screening (procedure) (Date: 2014-10-15T19:56:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-15T20:09:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-19T19:23:51Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-19T19:23:51Z)
+- Assessment of substance use (procedure) (Date: 2016-10-19T20:00:59Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-19T20:11:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-24T19:23:51Z)
+- Medication Reconciliation (procedure) (Date: 2018-10-24T19:23:51Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-24T20:18:24Z)
+- Screening for domestic abuse (procedure) (Date: 2018-10-24T20:34:54Z)
+- Assessment of substance use (procedure) (Date: 2018-10-24T21:04:46Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-24T21:15:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-28T19:23:51Z)
+- Assessment of anxiety (procedure) (Date: 2020-10-28T20:18:49Z)
+- Screening for domestic abuse (procedure) (Date: 2020-10-28T20:39:54Z)
+- Depression screening (procedure) (Date: 2020-10-28T21:07:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-28T21:20:04Z)
+- Assessment of substance use (procedure) (Date: 2020-10-28T21:41:50Z)
+- Screening for drug abuse (procedure) (Date: 2020-10-28T21:52:45Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-05T19:23:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-14T19:23:51Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-10-28T19:23:51Z: General examination of patient (procedure)
+- 2018-10-24T19:23:51Z: General examination of patient (procedure)
+- 2016-10-19T19:23:51Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-09T19:23:51Z QOLS: 1.0 {score}
+- 2021-10-09T19:23:51Z DALY: 0.1 a
+- 2021-10-09T19:23:51Z QALY: 45.9 a
+- 2020-10-28T22:16:13Z Total score [DAST-10]: 1.0 {score}
+- 2020-10-28T21:41:50Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2020-10-28T21:07:52Z Total score [HARK]: 0.0 {score}
+- 2020-10-28T20:39:54Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 14.0 {score}
+- 2020-10-28T20:18:49Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-10-28T20:18:49Z Are you a refugee?: No nan
+- 2020-10-28T20:18:49Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

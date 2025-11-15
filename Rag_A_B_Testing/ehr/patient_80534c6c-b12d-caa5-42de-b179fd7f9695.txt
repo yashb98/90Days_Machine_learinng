@@ -1,0 +1,77 @@
+== PATIENT RECORD: Anthony633 Wehner319 (ID: 80534c6c-b12d-caa5-42de-b179fd7f9695) ==
+
+== Demographics ==
+Patient ID: 80534c6c-b12d-caa5-42de-b179fd7f9695
+Name: Anthony633 Wehner319
+Gender: M
+Birthdate: 1994-08-12
+Address: 711 Walter Parade
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Prediabetes
+- Part-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Misuses drugs (finding)
+- Diabetes
+- Neuropathy due to type 2 diabetes mellitus (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-10-05T12:43:40Z)
+- Assessment of anxiety (procedure) (Date: 2012-10-05T13:27:02Z)
+- Screening for domestic abuse (procedure) (Date: 2012-10-05T13:44:30Z)
+- Depression screening (procedure) (Date: 2012-10-05T14:24:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-05T14:34:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-11T12:43:40Z)
+- Assessment of anxiety (procedure) (Date: 2013-10-11T13:31:53Z)
+- Depression screening (procedure) (Date: 2013-10-11T13:47:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-10-11T14:02:07Z)
+- Assessment of substance use (procedure) (Date: 2013-10-11T14:23:07Z)
+- Screening for drug abuse (procedure) (Date: 2013-10-11T14:36:50Z)
+- Throat culture (procedure) (Date: 2015-07-22T17:43:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-14T12:43:40Z)
+- Assessment of anxiety (procedure) (Date: 2016-10-14T13:41:57Z)
+- Depression screening (procedure) (Date: 2016-10-14T14:01:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-14T14:13:30Z)
+- Assessment of substance use (procedure) (Date: 2016-10-14T14:37:20Z)
+- Screening for drug abuse (procedure) (Date: 2016-10-14T14:50:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-18T12:43:40Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-18T12:43:40Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-18T13:18:37Z)
+- Depression screening (procedure) (Date: 2019-10-18T13:45:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-18T13:56:27Z)
+- Assessment of substance use (procedure) (Date: 2019-10-18T14:20:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-18T14:31:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-04-16T12:43:40Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-26T12:43:40Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-09T05:43:40Z: Encounter for symptom
+- 2019-10-18T12:43:40Z: General examination of patient (procedure)
+- 2016-10-14T12:43:40Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-12T12:43:40Z QOLS: 0.8 {score}
+- 2021-08-12T12:43:40Z DALY: 0.4 a
+- 2021-08-12T12:43:40Z QALY: 25.6 a
+- 2020-08-12T12:43:40Z DALY: 0.1 a
+- 2020-08-12T12:43:40Z QALY: 24.9 a
+- 2020-08-12T12:43:40Z QOLS: 1.0 {score}
+- 2020-08-09T05:43:40Z Body temperature: 37.7 Cel
+- 2019-10-18T14:52:44Z Total score [AUDIT-C]: 0.0 {score}
+- 2019-10-18T14:20:34Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-10-18T13:45:17Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}

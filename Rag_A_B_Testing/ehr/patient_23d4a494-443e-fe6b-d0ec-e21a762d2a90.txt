@@ -1,0 +1,153 @@
+== PATIENT RECORD: Lamont867 Hoeger474 (ID: 23d4a494-443e-fe6b-d0ec-e21a762d2a90) ==
+
+== Demographics ==
+Patient ID: 23d4a494-443e-fe6b-d0ec-e21a762d2a90
+Name: Lamont867 Hoeger474
+Gender: M
+Birthdate: 1921-11-21
+Address: 718 Miller Fork
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received higher education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Hyperlipidemia
+- Atrial Fibrillation
+- Limited social contact (finding)
+- Chronic sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Alzheimer's disease (disorder)
+- Stroke
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2000-06-30T12:08:52Z)
+- Catheter ablation of tissue of heart (Date: 2001-01-02T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-01-02T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2001-01-02T01:00:29Z)
+- Depression screening (procedure) (Date: 2001-01-02T01:18:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-01-02T01:30:51Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2001-01-02T01:51:24Z)
+- Assessment of substance use (procedure) (Date: 2001-01-02T02:19:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-01-02T02:33:46Z)
+- Electrical cardioversion (Date: 2002-01-08T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-01-08T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-01-08T00:39:54Z)
+- Assessment of substance use (procedure) (Date: 2002-01-08T01:09:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-01-08T01:22:01Z)
+- Electrical cardioversion (Date: 2003-01-14T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-01-14T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2003-01-14T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-01-14T00:56:24Z)
+- Depression screening (procedure) (Date: 2003-01-14T01:22:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-01-14T01:33:50Z)
+- Assessment of substance use (procedure) (Date: 2003-01-14T01:55:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2003-01-14T02:09:31Z)
+- Electrical cardioversion (Date: 2004-01-13T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-01-13T00:08:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-01-13T00:42:27Z)
+- Depression screening (procedure) (Date: 2004-01-13T01:05:18Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-01-13T01:19:54Z)
+- Catheter ablation of tissue of heart (Date: 2004-01-27T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-01-27T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2004-01-27T00:59:50Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-01-27T01:20:42Z)
+- Depression screening (procedure) (Date: 2004-01-27T01:44:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-01-27T01:58:25Z)
+- Assessment of substance use (procedure) (Date: 2004-01-27T02:23:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-01-27T02:33:34Z)
+- Electrical cardioversion (Date: 2004-02-24T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-02-24T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2004-02-24T01:01:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-02-24T01:21:35Z)
+- Depression screening (procedure) (Date: 2004-02-24T01:48:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-02-24T01:59:54Z)
+- Assessment of substance use (procedure) (Date: 2004-02-24T02:22:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-02-24T02:33:37Z)
+- Electrical cardioversion (Date: 2004-04-06T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-04-06T00:08:52Z)
+- Depression screening (procedure) (Date: 2004-04-06T01:01:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-04-06T01:14:38Z)
+- Assessment of substance use (procedure) (Date: 2004-04-06T01:43:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2004-04-06T01:56:16Z)
+- Nasal sinus endoscopy (procedure) (Date: 2004-05-11T23:08:52Z)
+- Electrical cardioversion (Date: 2005-02-01T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-02-01T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2005-02-01T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2005-02-01T00:46:56Z)
+- Screening for domestic abuse (procedure) (Date: 2005-02-01T01:11:43Z)
+- Assessment of substance use (procedure) (Date: 2005-02-01T01:37:54Z)
+- Screening for drug abuse (procedure) (Date: 2005-02-01T01:52:25Z)
+- Electrical cardioversion (Date: 2006-02-07T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-02-07T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2006-02-07T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2006-02-07T00:49:08Z)
+- Screening for domestic abuse (procedure) (Date: 2006-02-07T01:18:44Z)
+- Depression screening (procedure) (Date: 2006-02-07T01:47:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-02-07T02:01:26Z)
+- Electrical cardioversion (Date: 2007-02-13T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-02-13T00:08:52Z)
+- Medication Reconciliation (procedure) (Date: 2007-02-13T00:08:52Z)
+- Depression screening (procedure) (Date: 2007-02-13T00:40:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-02-13T00:50:59Z)
+- Electrical cardioversion (Date: 2008-02-19T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-02-19T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2008-02-19T00:39:48Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-02-19T01:00:10Z)
+- Screening for domestic abuse (procedure) (Date: 2008-02-19T01:22:15Z)
+- Depression screening (procedure) (Date: 2008-02-19T01:59:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-02-19T02:14:10Z)
+- Assessment of substance use (procedure) (Date: 2008-02-19T02:37:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2008-02-19T02:48:02Z)
+- Electrical cardioversion (Date: 2009-02-24T00:08:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-02-24T00:08:52Z)
+- Assessment of anxiety (procedure) (Date: 2009-02-24T00:47:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-02-24T01:03:49Z)
+- Depression screening (procedure) (Date: 2009-02-24T01:26:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-02-24T01:41:41Z)
+- Assessment of substance use (procedure) (Date: 2009-02-24T02:06:18Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-02-24T02:16:18Z)
+- Echocardiography (procedure) (Date: 2010-01-05T00:08:52Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2010-01-05T00:08:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2010-01-12T00:08:52Z: Death Certification
+- 2010-01-05T00:08:52Z: Stroke
+- 2009-10-17T00:08:52Z: Follow-up encounter
+- 2009-02-24T00:08:52Z: General examination of patient (procedure)
+- 2008-10-17T00:08:52Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2010-01-12T00:08:52Z Cause of Death [US Standard Certificate of Death]: Stroke nan
+- 2009-10-17T00:08:52Z Albumin [Mass/volume] in Serum or Plasma: 3.7 g/dL
+- 2009-10-17T00:08:52Z Glucose: 94.7 mg/dL
+- 2009-10-17T00:08:52Z Urea Nitrogen: 13.5 mg/dL
+- 2009-10-17T00:08:52Z Creatinine: 2.9 mg/dL
+- 2009-10-17T00:08:52Z Sodium: 137.5 mmol/L
+- 2009-10-17T00:08:52Z Potassium: 4.0 mmol/L
+- 2009-10-17T00:08:52Z Chloride: 107.7 mmol/L
+- 2009-10-17T00:08:52Z Carbon Dioxide: 27.1 mmol/L
+- 2009-10-17T00:08:52Z Glomerular filtration rate/1.73 sq M.predicted: 84.0 mL/min

@@ -1,0 +1,102 @@
+== PATIENT RECORD: Val761 Weber641 (ID: 722b8d8e-7435-5871-ab7d-9f4b900f1a6e) ==
+
+== Demographics ==
+Patient ID: 722b8d8e-7435-5871-ab7d-9f4b900f1a6e
+Name: Val761 Weber641
+Gender: F
+Birthdate: 1958-03-10
+Address: 1069 Haley Club
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Has a criminal record (finding)
+- Part-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Osteoarthritis of knee
+- Full-time employment (finding)
+- Stress (finding)
+- Misuses drugs (finding)
+- Social isolation (finding)
+- Chronic low back pain (finding)
+- Acute viral pharyngitis (disorder)
+- Viral sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Acute bacterial sinusitis (disorder)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-11-26T12:25:33Z)
+- Medication Reconciliation (procedure) (Date: 2012-11-26T12:25:33Z)
+- Depression screening (procedure) (Date: 2012-11-26T13:14:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-11-26T13:27:44Z)
+- Assessment of substance use (procedure) (Date: 2012-11-26T13:48:02Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-11-26T13:58:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-12-02T12:25:33Z)
+- Assessment of substance use (procedure) (Date: 2013-12-02T13:23:05Z)
+- Screening for drug abuse (procedure) (Date: 2013-12-02T13:34:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-12-08T12:25:33Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-08T12:25:33Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-08T13:20:17Z)
+- Screening for domestic abuse (procedure) (Date: 2014-12-08T13:49:34Z)
+- Depression screening (procedure) (Date: 2014-12-08T14:34:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-12-08T14:45:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-12-14T12:25:33Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-14T12:25:33Z)
+- Screening for domestic abuse (procedure) (Date: 2015-12-14T13:16:22Z)
+- Depression screening (procedure) (Date: 2015-12-14T13:51:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-12-14T14:06:02Z)
+- Assessment of substance use (procedure) (Date: 2015-12-14T14:27:03Z)
+- Screening for drug abuse (procedure) (Date: 2015-12-14T14:37:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-12-19T12:25:33Z)
+- Depression screening (procedure) (Date: 2016-12-19T13:04:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-12-19T13:19:05Z)
+- Assessment of substance use (procedure) (Date: 2016-12-19T13:42:09Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-12-19T13:52:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-12-25T12:25:33Z)
+- Screening for domestic abuse (procedure) (Date: 2017-12-25T13:07:36Z)
+- Depression screening (procedure) (Date: 2017-12-25T13:42:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-12-25T13:54:02Z)
+- Assessment of substance use (procedure) (Date: 2017-12-25T14:16:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-12-25T14:30:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-12-31T12:25:33Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-31T13:25:00Z)
+- Depression screening (procedure) (Date: 2018-12-31T13:40:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-12-31T13:53:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-01-06T12:25:33Z)
+- Assessment of anxiety (procedure) (Date: 2020-01-06T13:12:49Z)
+- Assessment of substance use (procedure) (Date: 2020-01-06T13:38:43Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-01-06T13:51:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-11T12:25:33Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-11T12:25:33Z)
+- Assessment of substance use (procedure) (Date: 2021-01-11T13:13:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-01-11T13:27:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-11T12:25:33Z: General examination of patient (procedure)
+- 2020-07-03T20:25:33Z: Encounter for symptom
+- 2020-01-06T12:25:33Z: General examination of patient (procedure)
+- 2019-02-02T22:25:33Z: Encounter for symptom
+- 2018-12-31T12:25:33Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-10T12:25:33Z QOLS: 1.0 {score}
+- 2021-03-10T12:25:33Z QALY: 60.9 a
+- 2021-03-10T12:25:33Z DALY: 1.1 a
+- 2021-01-11T13:55:13Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-01-11T13:13:58Z What is your housing situation today?: I have housing nan
+- 2021-01-11T13:13:58Z Are you worried about losing your housing?: No nan
+- 2021-01-11T13:13:58Z What address do you live at?: 1069 Haley Club nan
+- 2021-01-11T13:13:58Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-01-11T13:13:58Z What is your current work situation?: Part-time or temporary work nan
+- 2021-01-11T13:13:58Z What is your main insurance?: Private insurance nan

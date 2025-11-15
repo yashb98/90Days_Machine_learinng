@@ -1,0 +1,102 @@
+== PATIENT RECORD: Kyle55 Towne435 (ID: 3a580919-26bf-fede-0908-33d23ba8fbc4) ==
+
+== Demographics ==
+Patient ID: 3a580919-26bf-fede-0908-33d23ba8fbc4
+Name: Kyle55 Towne435
+Gender: M
+Birthdate: 1982-11-11
+Address: 919 Johnson Park
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Unhealthy alcohol drinking behavior (finding)
+- Transformed migraine (disorder)
+- Victim of intimate partner abuse (finding)
+- Fracture of forearm
+- Limited social contact (finding)
+- Severe anxiety (panic) (finding
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- ferrous sulfate 325 MG Oral Tablet
+- Ibuprofen 400 MG Oral Tablet [Ibu]
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2014-01-23T16:45:24Z)
+- Peripheral blood smear interpretation (Date: 2014-01-23T16:45:24Z)
+- Depression screening (procedure) (Date: 2014-01-23T17:38:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-23T17:52:46Z)
+- Assessment of substance use (procedure) (Date: 2014-01-23T18:16:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-01-23T18:31:12Z)
+- Review of systems (procedure) (Date: 2014-01-23T17:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2014-01-23T17:26:32Z)
+- Brief general examination (procedure) (Date: 2014-01-23T17:35:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-29T16:45:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-29T16:45:24Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-29T17:18:17Z)
+- Screening for domestic abuse (procedure) (Date: 2015-01-29T17:42:23Z)
+- Depression screening (procedure) (Date: 2015-01-29T18:22:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-01-29T18:35:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-04T16:45:24Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-04T16:45:24Z)
+- Depression screening (procedure) (Date: 2016-02-04T17:36:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-04T17:48:50Z)
+- Assessment of substance use (procedure) (Date: 2016-02-04T18:10:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-04T18:22:16Z)
+- Upper arm X-ray (Date: 2016-12-28T16:45:24Z)
+- Bone immobilization (Date: 2016-12-28T16:45:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-09T16:45:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-09T16:45:24Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-09T17:26:37Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-02-09T17:46:05Z)
+- Depression screening (procedure) (Date: 2017-02-09T18:09:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-02-09T18:20:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-15T16:45:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-15T16:45:24Z)
+- Depression screening (procedure) (Date: 2018-02-15T17:40:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-15T17:51:31Z)
+- Assessment of substance use (procedure) (Date: 2018-02-15T18:12:57Z)
+- Screening for drug abuse (procedure) (Date: 2018-02-15T18:25:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-21T16:45:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-02-21T17:18:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-27T16:45:24Z)
+- Screening for domestic abuse (procedure) (Date: 2020-02-27T17:41:12Z)
+- Depression screening (procedure) (Date: 2020-02-27T18:26:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-27T18:37:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-04T16:45:24Z)
+- Depression screening (procedure) (Date: 2021-03-04T17:22:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-04T17:33:03Z)
+- Assessment of substance use (procedure) (Date: 2021-03-04T18:02:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-03-04T18:14:05Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-13T16:45:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-15T16:45:24Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-04T16:45:24Z: General examination of patient (procedure)
+- 2020-02-27T16:45:24Z: General examination of patient (procedure)
+- 2019-02-21T16:45:24Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-11T16:45:24Z QOLS: 1.0 {score}
+- 2021-11-11T16:45:24Z DALY: 0.3 a
+- 2021-11-11T16:45:24Z QALY: 37.7 a
+- 2021-03-04T18:39:15Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-03-04T18:02:48Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-04T17:22:47Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-03-04T17:22:47Z What address do you live at?: 919 Johnson Park nan
+- 2021-03-04T17:22:47Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-03-04T17:22:47Z What is your current work situation?: Full-time work nan
+- 2021-03-04T17:22:47Z What is your main insurance?: Private insurance nan

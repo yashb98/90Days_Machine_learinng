@@ -1,0 +1,137 @@
+== PATIENT RECORD: Benjamin360 Pfeffer420 (ID: 35514332-8f8e-fc6c-6dc4-850fc975f574) ==
+
+== Demographics ==
+Patient ID: 35514332-8f8e-fc6c-6dc4-850fc975f574
+Name: Benjamin360 Pfeffer420
+Gender: M
+Birthdate: 1969-05-20
+Address: 667 Howell Esplanade Unit 23
+Marital Status: nan
+
+== Allergies ==
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Injury of tendon of the rotator cuff of shoulder
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Not in labor force (finding)
+- Refugee (person)
+- Sprain of ankle
+- Limited social contact (finding)
+- Bullet wound
+
+== Current Medications ==
+- Aspirin 81 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 1983-06-21T08:25:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1983-06-21T08:39:27Z)
+- Assessment of substance use (procedure) (Date: 1983-06-21T09:06:19Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1983-06-21T09:18:01Z)
+- Anticipatory guidance (procedure) (Date: 1983-06-21T09:29:20Z)
+- Depression screening (procedure) (Date: 1984-06-26T08:25:12Z)
+- Medication Reconciliation (procedure) (Date: 1984-06-26T08:25:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1984-06-26T08:38:55Z)
+- Assessment of substance use (procedure) (Date: 1984-06-26T09:00:29Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1984-06-26T09:13:17Z)
+- Anticipatory guidance (procedure) (Date: 1984-06-26T09:29:05Z)
+- Depression screening (procedure) (Date: 1985-07-02T08:25:12Z)
+- Medication Reconciliation (procedure) (Date: 1985-07-02T08:25:12Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1985-07-02T08:37:55Z)
+- Assessment of substance use (procedure) (Date: 1985-07-02T09:00:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1985-07-02T09:13:48Z)
+- Anticipatory guidance (procedure) (Date: 1985-07-02T09:38:31Z)
+- Assessment of anxiety (procedure) (Date: 1986-07-08T08:25:12Z)
+- Assessment of substance use (procedure) (Date: 1986-07-08T08:44:03Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1986-07-08T08:56:24Z)
+- Anticipatory guidance (procedure) (Date: 1986-07-08T09:15:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1987-07-14T08:25:12Z)
+- Medication Reconciliation (procedure) (Date: 1987-07-14T08:25:12Z)
+- Assessment of anxiety (procedure) (Date: 1987-07-14T09:02:08Z)
+- Screening for domestic abuse (procedure) (Date: 1987-07-14T09:28:15Z)
+- Depression screening (procedure) (Date: 1987-07-14T09:54:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1987-07-14T10:07:23Z)
+- Throat culture (procedure) (Date: 1987-12-18T01:25:12Z)
+- Assessment of health and social care needs (procedure) (Date: 1988-07-19T08:25:12Z)
+- Depression screening (procedure) (Date: 1988-07-19T09:18:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1988-07-19T09:28:45Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-07-19T09:55:49Z)
+- Assessment of substance use (procedure) (Date: 1988-07-19T10:21:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1988-07-19T10:31:48Z)
+- Allergy screening test (Date: 1990-01-02T08:25:12Z)
+- Subcutaneous immunotherapy (Date: 1990-01-27T09:04:03Z)
+- Subcutaneous immunotherapy (Date: 1990-02-20T09:52:19Z)
+- Subcutaneous immunotherapy (Date: 1990-03-13T10:51:08Z)
+- Subcutaneous immunotherapy (Date: 1990-04-03T11:26:33Z)
+- Subcutaneous immunotherapy (Date: 1990-04-28T11:42:21Z)
+- Subcutaneous immunotherapy (Date: 1990-05-25T12:02:59Z)
+- Subcutaneous immunotherapy (Date: 1990-06-18T12:23:12Z)
+- Subcutaneous immunotherapy (Date: 1990-07-12T13:01:59Z)
+- Subcutaneous immunotherapy (Date: 1990-08-05T13:34:57Z)
+- Subcutaneous immunotherapy (Date: 1990-09-01T14:01:29Z)
+- Subcutaneous immunotherapy (Date: 1990-09-27T14:25:45Z)
+- Subcutaneous immunotherapy (Date: 1990-10-23T14:41:22Z)
+- Subcutaneous immunotherapy (Date: 1990-11-17T15:30:17Z)
+- Subcutaneous immunotherapy (Date: 1990-12-13T15:53:43Z)
+- Subcutaneous immunotherapy (Date: 1991-01-05T16:15:20Z)
+- Subcutaneous immunotherapy (Date: 1991-01-26T17:09:47Z)
+- Subcutaneous immunotherapy (Date: 1991-02-16T17:39:50Z)
+- Subcutaneous immunotherapy (Date: 1991-03-12T18:38:38Z)
+- Subcutaneous immunotherapy (Date: 1991-04-02T19:33:34Z)
+- Subcutaneous immunotherapy (Date: 1991-04-27T20:15:41Z)
+- Subcutaneous immunotherapy (Date: 1991-05-19T20:57:04Z)
+- Subcutaneous immunotherapy (Date: 1991-06-11T21:43:14Z)
+- Subcutaneous immunotherapy (Date: 1991-07-03T22:03:51Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-07-23T08:25:12Z)
+- Assessment of anxiety (procedure) (Date: 1991-07-23T09:18:50Z)
+- Depression screening (procedure) (Date: 1991-07-23T09:45:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-07-23T09:55:46Z)
+- Assessment of substance use (procedure) (Date: 1991-07-23T10:24:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1991-07-23T10:36:36Z)
+- Subcutaneous immunotherapy (Date: 1991-07-27T22:45:10Z)
+- Subcutaneous immunotherapy (Date: 1991-08-18T23:13:52Z)
+- Subcutaneous immunotherapy (Date: 1991-09-09T00:13:40Z)
+- Subcutaneous immunotherapy (Date: 1991-10-04T00:48:18Z)
+- Subcutaneous immunotherapy (Date: 1991-10-29T01:33:00Z)
+- Subcutaneous immunotherapy (Date: 1991-11-21T01:54:54Z)
+- Subcutaneous immunotherapy (Date: 1991-12-13T02:39:52Z)
+- Subcutaneous immunotherapy (Date: 1992-01-08T03:22:05Z)
+- Subcutaneous immunotherapy (Date: 1992-02-02T04:15:07Z)
+- Subcutaneous immunotherapy (Date: 1992-02-24T04:35:47Z)
+- Subcutaneous immunotherapy (Date: 1992-03-22T05:34:41Z)
+- Subcutaneous immunotherapy (Date: 1992-04-12T06:28:33Z)
+- Subcutaneous immunotherapy (Date: 1992-05-08T07:15:09Z)
+- Subcutaneous immunotherapy (Date: 1992-06-01T08:03:47Z)
+- Subcutaneous immunotherapy (Date: 1992-06-27T08:39:56Z)
+- Subcutaneous immunotherapy (Date: 1992-07-18T09:25:54Z)
+- Subcutaneous immunotherapy (Date: 1992-08-14T10:13:59Z)
+- Subcutaneous immunotherapy (Date: 1992-09-04T10:47:04Z)
+- Subcutaneous immunotherapy (Date: 1992-09-30T11:16:38Z)
+- Subcutaneous immunotherapy (Date: 1992-10-26T11:34:43Z)
+- Subcutaneous immunotherapy (Date: 1992-11-21T12:20:00Z)
+- Subcutaneous immunotherapy (Date: 1992-12-16T12:40:04Z)
+
+== Recent Encounters (Last 5) ==
+- 1993-01-19T08:25:12Z: Death Certification
+- 1993-01-05T08:38:57Z: Emergency room admission (procedure)
+- 1992-12-16T12:40:04Z: Outpatient procedure
+- 1992-11-21T12:20:00Z: Outpatient procedure
+- 1992-10-26T11:34:43Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 1993-01-19T08:25:12Z Cause of Death [US Standard Certificate of Death]: Bullet wound nan
+- 1991-07-23T10:58:25Z Total score [AUDIT-C]: 1.0 {score}
+- 1991-07-23T10:24:45Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1991-07-23T09:45:40Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 1991-07-23T09:18:50Z What is your current work situation?: Full-time work nan
+- 1991-07-23T09:18:50Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 1991-07-23T09:18:50Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1991-07-23T09:18:50Z Are you a refugee?: Yes nan
+- 1991-07-23T09:18:50Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 1991-07-23T09:18:50Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan

@@ -1,0 +1,57 @@
+== PATIENT RECORD: Donny470 Howe413 (ID: db827d6a-d1c7-cd51-9b86-626ab88d58da) ==
+
+== Demographics ==
+Patient ID: db827d6a-d1c7-cd51-9b86-626ab88d58da
+Name: Donny470 Howe413
+Gender: M
+Birthdate: 2010-02-06
+Address: 235 Ullrich Trace Apt 91
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Sprain of ankle
+- Fracture of forearm
+- Fracture subluxation of wrist
+- Viral sinusitis (disorder)
+- Child attention deficit disorder
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Methylphenidate Hydrochloride 20 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-01-15T00:49:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-13T00:49:16Z)
+- Upper arm X-ray (Date: 2013-09-21T00:49:16Z)
+- Bone immobilization (Date: 2013-09-21T00:49:16Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-01-12T00:49:16Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-29T00:49:16Z)
+- X-ray or wrist (Date: 2018-12-08T01:28:55Z)
+- Bone immobilization (Date: 2018-12-08T01:28:55Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-02-10T00:49:16Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-21T00:49:16Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-11T00:49:16Z: Encounter for problem
+- 2021-02-21T00:49:16Z: Well child visit (procedure)
+- 2020-02-16T00:49:16Z: Well child visit (procedure)
+- 2020-01-16T17:49:16Z: Encounter for symptom
+- 2019-03-04T01:51:49Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-02-21T00:49:16Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-02-21T00:49:16Z Platelet mean volume [Entitic volume] in Blood by Automated count: 12.1 fL
+- 2021-02-21T00:49:16Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2021-02-21T00:49:16Z Systolic Blood Pressure: 131.0 mm[Hg]
+- 2021-02-21T00:49:16Z Heart rate: 75.0 /min
+- 2021-02-21T00:49:16Z Respiratory rate: 15.0 /min
+- 2021-02-21T00:49:16Z Leukocytes [#/volume] in Blood by Automated count: 6.8 10*3/uL
+- 2021-02-21T00:49:16Z Erythrocytes [#/volume] in Blood by Automated count: 4.1 10*6/uL
+- 2021-02-21T00:49:16Z Hemoglobin [Mass/volume] in Blood: 16.9 g/dL
+- 2021-02-21T00:49:16Z Hematocrit [Volume Fraction] of Blood by Automated count: 44.3 %

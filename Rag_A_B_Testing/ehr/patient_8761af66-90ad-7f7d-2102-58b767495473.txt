@@ -1,0 +1,75 @@
+== PATIENT RECORD: Jack927 Barton704 (ID: 8761af66-90ad-7f7d-2102-58b767495473) ==
+
+== Demographics ==
+Patient ID: 8761af66-90ad-7f7d-2102-58b767495473
+Name: Jack927 Barton704
+Gender: M
+Birthdate: 1991-06-21
+Address: 156 Haley Manor Unit 66
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Viral sinusitis (disorder)
+- Fracture of forearm
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+
+== Current Medications ==
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2013-08-23T23:34:49Z)
+- Depression screening (procedure) (Date: 2013-08-24T00:34:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-08-24T00:48:50Z)
+- Assessment of substance use (procedure) (Date: 2013-08-24T01:09:30Z)
+- Screening for drug abuse (procedure) (Date: 2013-08-24T01:21:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-26T23:34:49Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-27T00:20:31Z)
+- Screening for domestic abuse (procedure) (Date: 2016-08-27T00:44:38Z)
+- Depression screening (procedure) (Date: 2016-08-27T01:12:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-08-27T01:25:34Z)
+- Upper arm X-ray (Date: 2017-03-05T00:43:03Z)
+- Bone immobilization (Date: 2017-03-05T00:43:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-30T23:34:49Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-31T00:11:02Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-31T00:32:21Z)
+- Depression screening (procedure) (Date: 2019-08-31T00:57:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-31T01:10:54Z)
+- Measurement of respiratory function (procedure) (Date: 2020-08-26T10:34:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-04T23:34:49Z)
+- Medication Reconciliation (procedure) (Date: 2020-09-04T23:34:49Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-05T00:15:05Z)
+- Depression screening (procedure) (Date: 2020-09-05T00:36:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-05T00:51:30Z)
+- Assessment of substance use (procedure) (Date: 2020-09-05T01:14:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-09-05T01:24:40Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-05T23:34:49Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-04T23:34:49Z: Encounter for check up (procedure)
+- 2020-08-26T10:34:49Z: Encounter for symptom
+- 2019-08-30T23:34:49Z: General examination of patient (procedure)
+- 2018-07-06T23:34:49Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-21T23:34:49Z QOLS: 1.0 {score}
+- 2021-06-21T23:34:49Z QALY: 28.9 a
+- 2021-06-21T23:34:49Z DALY: 0.1 a
+- 2020-09-05T01:48:47Z Total score [AUDIT-C]: 11.0 {score}
+- 2020-09-05T01:14:08Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2020-09-05T00:36:53Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2020-09-05T00:15:05Z Are you a refugee?: No nan
+- 2020-09-05T00:15:05Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-09-05T00:15:05Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-09-05T00:15:05Z What is the highest level of school that you have finished?: More than high school nan

@@ -1,0 +1,72 @@
+== PATIENT RECORD: Javier97 Tijerina14 (ID: 9ccd0d4f-f8f2-34a4-4ba9-9b9b92c6370a) ==
+
+== Demographics ==
+Patient ID: 9ccd0d4f-f8f2-34a4-4ba9-9b9b92c6370a
+Name: Javier97 Tijerina14
+Gender: M
+Birthdate: 2007-05-08
+Address: 446 Jast Mission Unit 87
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Second degree burn
+- Acute bronchitis (disorder)
+- Concussion with no loss of consciousness
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-17T04:45:46Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-23T04:45:46Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-05T04:45:46Z)
+- Measurement of respiratory function (procedure) (Date: 2016-01-22T11:45:46Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-10T04:45:46Z)
+- Depression screening (procedure) (Date: 2019-05-28T04:45:46Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-28T04:45:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-05-28T05:00:25Z)
+- Assessment of substance use (procedure) (Date: 2019-05-28T05:25:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-05-28T05:39:27Z)
+- Anticipatory guidance (procedure) (Date: 2019-05-28T05:57:03Z)
+- Depression screening (procedure) (Date: 2020-06-02T04:45:46Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-02T04:45:46Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-02T04:57:11Z)
+- Assessment of substance use (procedure) (Date: 2020-06-02T05:17:32Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-06-02T05:30:05Z)
+- Health risks education (procedure) (Date: 2020-06-02T05:57:37Z)
+- Throat culture (procedure) (Date: 2021-02-25T15:45:46Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-02T04:45:46Z)
+- Depression screening (procedure) (Date: 2021-03-02T05:04:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-02T05:14:53Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-08T04:45:46Z)
+- Depression screening (procedure) (Date: 2021-06-08T05:08:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-06-08T05:19:09Z)
+- Assessment of substance use (procedure) (Date: 2021-06-08T05:43:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-06-08T05:54:13Z)
+- Anticipatory guidance (procedure) (Date: 2021-06-08T06:19:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-17T04:45:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-07-20T04:45:46Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-08T04:45:46Z: Well child visit (procedure)
+- 2021-03-02T04:45:46Z: Encounter for check up (procedure)
+- 2021-02-25T15:45:46Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-06-08T05:43:50Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 4.0 {score}
+- 2021-06-08T05:08:09Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-06-08T04:45:46Z Body Mass Index: 16.9 kg/m2
+- 2021-06-08T04:45:46Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-08T04:45:46Z Body Height: 155.9 cm
+- 2021-06-08T04:45:46Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-06-08T04:45:46Z Body Weight: 41.1 kg
+- 2021-06-08T04:45:46Z Body mass index (BMI) [Percentile] Per age and gender: 13.5 %
+- 2021-06-08T04:45:46Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-06-08T04:45:46Z Systolic Blood Pressure: 106.0 mm[Hg]

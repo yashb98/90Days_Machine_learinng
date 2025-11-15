@@ -1,0 +1,55 @@
+== PATIENT RECORD: Jospeh459 Mann644 (ID: e0385e19-8fee-2a84-3ce6-193b08587ecc) ==
+
+== Demographics ==
+Patient ID: e0385e19-8fee-2a84-3ce6-193b08587ecc
+Name: Jospeh459 Mann644
+Gender: M
+Birthdate: 2012-05-28
+Address: 772 Prohaska Ferry Apt 59
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Streptococcal sore throat (disorder)
+- Viral sinusitis (disorder)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-09-03T23:33:24Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-05T23:33:24Z)
+- Throat culture (procedure) (Date: 2013-08-26T22:33:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-04T23:33:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-11-02T23:33:24Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-02T23:33:24Z)
+- Throat culture (procedure) (Date: 2017-11-17T05:33:24Z)
+- Plain chest X-ray (procedure) (Date: 2019-04-15T08:33:24Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-31T23:33:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-31T23:33:24Z: Well child visit (procedure)
+- 2021-04-12T23:33:24Z: Emergency room admission (procedure)
+- 2021-01-15T10:33:24Z: Encounter for symptom
+- 2020-05-25T23:33:24Z: Well child visit (procedure)
+- 2019-10-25T14:33:24Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-31T23:33:24Z Body mass index (BMI) [Percentile] Per age and gender: 71.6 %
+- 2021-05-31T23:33:24Z Body Height: 122.4 cm
+- 2021-05-31T23:33:24Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-05-31T23:33:24Z Body Weight: 26.0 kg
+- 2021-05-31T23:33:24Z Body Mass Index: 17.4 kg/m2
+- 2021-05-31T23:33:24Z Diastolic Blood Pressure: 76.0 mm[Hg]
+- 2021-05-31T23:33:24Z Systolic Blood Pressure: 131.0 mm[Hg]
+- 2021-05-31T23:33:24Z Heart rate: 69.0 /min
+- 2021-05-31T23:33:24Z Respiratory rate: 13.0 /min
+- 2021-05-31T23:33:24Z Tobacco smoking status NHIS: Never smoker nan

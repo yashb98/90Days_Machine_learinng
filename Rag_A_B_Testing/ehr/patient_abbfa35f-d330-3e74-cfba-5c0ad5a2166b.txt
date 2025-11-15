@@ -1,0 +1,176 @@
+== PATIENT RECORD: Loan904 Cronin387 (ID: abbfa35f-d330-3e74-cfba-5c0ad5a2166b) ==
+
+== Demographics ==
+Patient ID: abbfa35f-d330-3e74-cfba-5c0ad5a2166b
+Name: Loan904 Cronin387
+Gender: F
+Birthdate: 1912-10-07
+Address: 653 Grant Brook
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Full-time employment (finding)
+- Miscarriage in first trimester
+- Malignant neoplasm of breast (disorder)
+- Hyperlipidemia
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Victim of intimate partner abuse (finding)
+- Chronic congestive heart failure (disorder)
+- Polyp of colon
+- Fracture subluxation of wrist
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Furosemide 40 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- 10 ML Furosemide 10 MG/ML Injection
+
+== Past Procedures ==
+- Mammography (procedure) (Date: 1971-06-12T00:07:47Z)
+- Manual pelvic examination (procedure) (Date: 1971-06-12T00:24:04Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1971-06-12T00:34:21Z)
+- Assessment of health and social care needs (procedure) (Date: 1971-11-29T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 1971-11-29T20:25:32Z)
+- Depression screening (procedure) (Date: 1971-11-29T20:46:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1971-11-29T21:00:20Z)
+- Assessment of substance use (procedure) (Date: 1971-11-29T21:23:26Z)
+- Screening for drug abuse (procedure) (Date: 1971-11-29T21:35:13Z)
+- Mammography (procedure) (Date: 1972-05-19T00:45:39Z)
+- Manual pelvic examination (procedure) (Date: 1972-05-19T01:03:27Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1972-05-19T01:15:11Z)
+- Assessment of health and social care needs (procedure) (Date: 1972-12-04T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1972-12-04T19:51:58Z)
+- Depression screening (procedure) (Date: 1972-12-04T20:26:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1972-12-04T20:38:49Z)
+- Assessment of substance use (procedure) (Date: 1972-12-04T21:08:04Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1972-12-04T21:19:03Z)
+- Mammography (procedure) (Date: 1973-05-22T01:34:40Z)
+- Manual pelvic examination (procedure) (Date: 1973-05-22T01:54:19Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1973-05-22T02:06:22Z)
+- Colonoscopy (Date: 1973-11-07T21:38:39Z)
+- Assessment of health and social care needs (procedure) (Date: 1973-12-10T19:51:58Z)
+- Depression screening (procedure) (Date: 1973-12-10T20:29:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1973-12-10T20:40:26Z)
+- Mammography (procedure) (Date: 1974-04-27T02:17:03Z)
+- Manual pelvic examination (procedure) (Date: 1974-04-27T02:41:06Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1974-04-27T02:55:24Z)
+- Assessment of health and social care needs (procedure) (Date: 1974-12-16T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1974-12-16T19:51:58Z)
+- Depression screening (procedure) (Date: 1974-12-16T20:37:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1974-12-16T20:49:19Z)
+- Assessment of substance use (procedure) (Date: 1974-12-16T21:11:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1974-12-16T21:25:14Z)
+- Mammography (procedure) (Date: 1975-04-07T03:12:43Z)
+- Manual pelvic examination (procedure) (Date: 1975-04-07T03:28:24Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1975-04-07T03:42:22Z)
+- Assessment of health and social care needs (procedure) (Date: 1975-12-22T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1975-12-22T19:51:58Z)
+- Screening for domestic abuse (procedure) (Date: 1975-12-22T20:47:13Z)
+- Depression screening (procedure) (Date: 1975-12-22T21:30:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1975-12-22T21:42:50Z)
+- Mammography (procedure) (Date: 1976-04-23T03:54:59Z)
+- Manual pelvic examination (procedure) (Date: 1976-04-23T04:15:14Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1976-04-23T04:26:37Z)
+- Assessment of health and social care needs (procedure) (Date: 1976-12-27T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1976-12-27T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 1976-12-27T20:34:22Z)
+- Depression screening (procedure) (Date: 1976-12-27T20:53:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1976-12-27T21:06:47Z)
+- Assessment of substance use (procedure) (Date: 1976-12-27T21:33:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1976-12-27T21:44:49Z)
+- Mammography (procedure) (Date: 1977-04-11T04:39:47Z)
+- Manual pelvic examination (procedure) (Date: 1977-04-11T05:02:44Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1977-04-11T05:13:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1978-01-02T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1978-01-02T19:51:58Z)
+- Mammography (procedure) (Date: 1978-03-29T05:30:13Z)
+- Manual pelvic examination (procedure) (Date: 1978-03-29T05:47:23Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1978-03-29T05:59:16Z)
+- Electrocardiographic procedure (Date: 1978-10-06T19:51:58Z)
+- Plain chest X-ray (procedure) (Date: 1978-10-06T20:01:00Z)
+- Assessment using New York Heart Association Classification (procedure) (Date: 1978-10-06T20:01:00Z)
+- Echocardiography (procedure) (Date: 1978-10-22T20:26:36Z)
+- Medication Reconciliation (procedure) (Date: 1978-10-22T20:26:36Z)
+- Colonoscopy (Date: 1978-11-07T22:15:50Z)
+- Screening for occult blood in feces (procedure) (Date: 1978-11-07T22:48:45Z)
+- Rectal polypectomy (Date: 1978-11-07T22:48:45Z)
+- X-ray or wrist (Date: 1978-11-19T20:21:19Z)
+- Bone immobilization (Date: 1978-11-19T20:21:19Z)
+- Bone density scan (procedure) (Date: 1978-11-19T20:58:28Z)
+- Assessment of health and social care needs (procedure) (Date: 1979-01-08T19:51:58Z)
+- Medication Reconciliation (procedure) (Date: 1979-01-08T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1979-01-08T20:28:12Z)
+- Screening for domestic abuse (procedure) (Date: 1979-01-08T20:43:54Z)
+- Depression screening (procedure) (Date: 1979-01-08T21:24:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1979-01-08T21:37:31Z)
+- Assessment of substance use (procedure) (Date: 1979-01-08T21:59:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1979-01-08T22:11:45Z)
+- Mammography (procedure) (Date: 1979-03-04T06:15:51Z)
+- Manual pelvic examination (procedure) (Date: 1979-03-04T06:37:29Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1979-03-04T06:51:15Z)
+- Oxygen administration by mask (procedure) (Date: 1979-04-20T20:26:36Z)
+- Placing subject in prone position (procedure) (Date: 1979-04-20T20:26:36Z)
+- Plain chest X-ray (procedure) (Date: 1979-04-20T20:26:36Z)
+- Medication Reconciliation (procedure) (Date: 1979-04-20T20:26:36Z)
+- Electrocardiographic procedure (Date: 1979-04-20T20:26:36Z)
+- Echocardiography (procedure) (Date: 1979-04-20T20:33:09Z)
+- Oxygen administration by mask (procedure) (Date: 1979-04-20T20:33:09Z)
+- Placing subject in prone position (procedure) (Date: 1979-04-20T20:33:09Z)
+- Heart failure education (procedure) (Date: 1979-04-21T20:33:09Z)
+- Echocardiography (procedure) (Date: 1979-10-18T21:05:29Z)
+- Medication Reconciliation (procedure) (Date: 1979-10-18T21:05:29Z)
+- Colonoscopy (Date: 1979-12-12T22:48:45Z)
+- Assessment of health and social care needs (procedure) (Date: 1980-01-14T19:51:58Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1980-01-14T20:43:33Z)
+- Depression screening (procedure) (Date: 1980-01-14T21:06:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1980-01-14T21:18:20Z)
+- Mammography (procedure) (Date: 1980-02-29T07:06:08Z)
+- Manual pelvic examination (procedure) (Date: 1980-02-29T07:28:32Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1980-02-29T07:43:21Z)
+- Oxygen administration by mask (procedure) (Date: 1980-04-15T21:05:29Z)
+- Placing subject in prone position (procedure) (Date: 1980-04-15T21:05:29Z)
+- Plain chest X-ray (procedure) (Date: 1980-04-15T21:05:29Z)
+- Medication Reconciliation (procedure) (Date: 1980-04-15T21:05:29Z)
+- Electrocardiographic procedure (Date: 1980-04-15T21:05:29Z)
+- Echocardiography (procedure) (Date: 1980-04-15T21:14:08Z)
+- Oxygen administration by mask (procedure) (Date: 1980-04-15T21:14:08Z)
+- Placing subject in prone position (procedure) (Date: 1980-04-15T21:14:08Z)
+- Heart failure education (procedure) (Date: 1980-04-16T21:14:08Z)
+- Echocardiography (procedure) (Date: 1980-10-13T21:54:50Z)
+- Medication Reconciliation (procedure) (Date: 1980-10-13T21:54:50Z)
+- Assessment of health and social care needs (procedure) (Date: 1981-01-19T19:51:58Z)
+- Assessment of anxiety (procedure) (Date: 1981-01-19T20:47:20Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1981-01-19T21:10:42Z)
+- Screening for domestic abuse (procedure) (Date: 1981-01-19T21:29:05Z)
+- Depression screening (procedure) (Date: 1981-01-19T22:02:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1981-01-19T22:15:35Z)
+- Assessment of substance use (procedure) (Date: 1981-01-19T22:40:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1981-01-19T22:50:18Z)
+- Mammography (procedure) (Date: 1981-01-29T08:02:42Z)
+- Manual pelvic examination (procedure) (Date: 1981-01-29T08:24:44Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 1981-01-29T08:37:45Z)
+
+== Recent Encounters (Last 5) ==
+- 1981-03-02T19:51:58Z: Death Certification
+- 1981-01-29T08:24:44Z: Gynecology service (qualifier value)
+- 1981-01-29T08:02:42Z: Screening surveillance (regime/therapy)
+- 1981-01-29T08:02:42Z: Postoperative follow-up visit (procedure)
+- 1981-01-19T19:51:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 1981-03-02T19:51:58Z Cause of Death [US Standard Certificate of Death]: Chronic congestive heart failure (disorder) nan
+- 1981-01-19T23:16:01Z Total score [AUDIT-C]: 2.0 {score}
+- 1981-01-19T22:40:07Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 1981-01-19T22:02:25Z Total score [HARK]: 0.0 {score}
+- 1981-01-19T21:29:05Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 1981-01-19T21:29:05Z Fall risk total [Morse Fall Scale]: 122.0 {#}
+- 1981-01-19T21:10:42Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 1.0 {score}
+- 1981-01-19T20:47:20Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 1981-01-19T20:47:20Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 69864 /a
+- 1981-01-19T20:47:20Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

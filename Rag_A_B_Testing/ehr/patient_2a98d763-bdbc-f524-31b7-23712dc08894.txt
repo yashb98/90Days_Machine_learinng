@@ -1,0 +1,95 @@
+== PATIENT RECORD: Maxwell782 Littel644 (ID: 2a98d763-bdbc-f524-31b7-23712dc08894) ==
+
+== Demographics ==
+Patient ID: 2a98d763-bdbc-f524-31b7-23712dc08894
+Name: Maxwell782 Littel644
+Gender: M
+Birthdate: 1971-01-03
+Address: 478 Williamson Manor Apt 67
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- Fish (substance)
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Homeless (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Severe anxiety (panic) (finding
+- Fracture of clavicle
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Concussion with no loss of consciousness
+- Polyp of colon
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Sputum examination (procedure) (Date: 2012-12-25T13:00:16Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-30T22:00:16Z)
+- Assessment of anxiety (procedure) (Date: 2012-12-30T22:49:40Z)
+- Depression screening (procedure) (Date: 2012-12-30T23:08:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-30T23:21:14Z)
+- Assessment of substance use (procedure) (Date: 2012-12-30T23:47:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-12-31T00:00:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-13T22:00:16Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-13T22:00:16Z)
+- Assessment of anxiety (procedure) (Date: 2013-01-13T22:51:14Z)
+- Depression screening (procedure) (Date: 2013-01-13T23:11:06Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-13T23:23:13Z)
+- Assessment of substance use (procedure) (Date: 2013-01-13T23:47:34Z)
+- Screening for drug abuse (procedure) (Date: 2013-01-13T23:57:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-18T22:00:16Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-18T22:00:16Z)
+- Assessment of substance use (procedure) (Date: 2015-01-18T22:49:11Z)
+- Screening for drug abuse (procedure) (Date: 2015-01-18T23:00:13Z)
+- Clavicle X-ray (Date: 2015-09-30T22:51:36Z)
+- Admission to orthopedic department (Date: 2015-09-30T22:51:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-22T22:00:16Z)
+- Depression screening (procedure) (Date: 2017-01-22T22:54:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-22T23:08:19Z)
+- Assessment of substance use (procedure) (Date: 2017-01-22T23:31:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-01-22T23:43:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-01-27T22:00:16Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-27T22:00:16Z)
+- Assessment of anxiety (procedure) (Date: 2019-01-27T22:51:38Z)
+- Screening for domestic abuse (procedure) (Date: 2019-01-27T23:16:33Z)
+- Depression screening (procedure) (Date: 2019-01-27T23:45:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-01-27T23:57:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-01-03T22:00:16Z)
+- Colonoscopy (Date: 2021-01-03T22:00:16Z)
+- Assessment of anxiety (procedure) (Date: 2021-01-03T22:42:44Z)
+- Assessment of substance use (procedure) (Date: 2021-01-03T23:11:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-01-03T23:22:08Z)
+- Screening for occult blood in feces (procedure) (Date: 2021-01-03T22:27:35Z)
+- Rectal polypectomy (Date: 2021-01-03T22:27:35Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-17T22:00:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-03T22:00:16Z: Encounter for 'check-up'
+- 2021-01-03T22:00:16Z: General examination of patient (procedure)
+- 2020-12-27T22:00:16Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-10-05T07:00:16Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-01-03T23:47:52Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-01-03T23:11:41Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 6.0 {score}
+- 2021-01-03T22:42:44Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 81225 /a
+- 2021-01-03T22:42:44Z What is your main insurance?: Private insurance nan
+- 2021-01-03T22:42:44Z What is your current work situation?: Full-time work nan
+- 2021-01-03T22:42:44Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-01-03T22:42:44Z What address do you live at?: 478 Williamson Manor Apt 67 nan
+- 2021-01-03T22:42:44Z Are you worried about losing your housing?: No nan
+- 2021-01-03T22:42:44Z What is your housing situation today?: I have housing nan
+- 2021-01-03T22:42:44Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

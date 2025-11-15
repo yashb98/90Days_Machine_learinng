@@ -1,0 +1,118 @@
+== PATIENT RECORD: Luigi346 Carroll471 (ID: af0323f7-dcf2-5d97-8623-2f0d511016ec) ==
+
+== Demographics ==
+Patient ID: af0323f7-dcf2-5d97-8623-2f0d511016ec
+Name: Luigi346 Carroll471
+Gender: M
+Birthdate: 1960-06-27
+Address: 886 Gutkowski Route Apt 30
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Transport problems (finding)
+- Localized  primary osteoarthritis of the hand
+- Hyperlipidemia
+- Social isolation (finding)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Prediabetes
+- Not in labor force (finding)
+- Injury of tendon of the rotator cuff of shoulder
+- Viral sinusitis (disorder)
+- Anemia (disorder)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-07-10T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2012-07-10T04:21:47Z)
+- Depression screening (procedure) (Date: 2012-07-10T04:39:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-07-10T04:51:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-07-10T05:12:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-16T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2013-07-16T04:27:58Z)
+- Depression screening (procedure) (Date: 2013-07-16T04:43:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-16T04:57:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-22T03:39:03Z)
+- Medication Reconciliation (procedure) (Date: 2014-07-22T03:39:03Z)
+- Depression screening (procedure) (Date: 2014-07-22T04:09:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-22T04:20:43Z)
+- Assessment of substance use (procedure) (Date: 2014-07-22T04:43:16Z)
+- Screening for drug abuse (procedure) (Date: 2014-07-22T04:57:07Z)
+- Colonoscopy (Date: 2015-06-29T04:11:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-28T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-28T04:12:00Z)
+- Depression screening (procedure) (Date: 2015-07-28T04:30:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-28T04:44:08Z)
+- Assessment of substance use (procedure) (Date: 2015-07-28T05:04:35Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-07-28T05:18:25Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-08-02T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-02T04:13:37Z)
+- Assessment of substance use (procedure) (Date: 2016-08-02T04:35:32Z)
+- Screening for drug abuse (procedure) (Date: 2016-08-02T04:46:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-08-08T03:39:03Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-08T03:39:03Z)
+- Depression screening (procedure) (Date: 2017-08-08T04:31:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-08-08T04:43:21Z)
+- Assessment of substance use (procedure) (Date: 2017-08-08T05:08:56Z)
+- Screening for drug abuse (procedure) (Date: 2017-08-08T05:19:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-14T03:39:03Z)
+- Peripheral blood smear interpretation (Date: 2018-08-14T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-14T04:13:46Z)
+- Depression screening (procedure) (Date: 2018-08-14T04:33:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-14T04:45:46Z)
+- Review of systems (procedure) (Date: 2018-08-14T04:09:03Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-14T04:19:42Z)
+- Brief general examination (procedure) (Date: 2018-08-14T04:37:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-20T03:39:03Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-20T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2019-08-20T04:16:24Z)
+- Depression screening (procedure) (Date: 2019-08-20T04:32:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-08-20T04:44:44Z)
+- Assessment of substance use (procedure) (Date: 2019-08-20T05:10:56Z)
+- Screening for drug abuse (procedure) (Date: 2019-08-20T05:25:13Z)
+- Colonoscopy (Date: 2020-06-28T04:48:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-25T03:39:03Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-25T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-25T04:12:15Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-25T04:37:14Z)
+- Assessment of substance use (procedure) (Date: 2020-08-25T05:06:47Z)
+- Screening for drug abuse (procedure) (Date: 2020-08-25T05:18:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-31T03:39:03Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-31T03:39:03Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-31T04:27:44Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-31T04:55:34Z)
+- Depression screening (procedure) (Date: 2021-08-31T05:21:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-31T05:33:33Z)
+- Assessment of substance use (procedure) (Date: 2021-08-31T06:00:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-08-31T06:11:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-31T03:39:03Z: General examination of patient (procedure)
+- 2021-08-04T03:39:03Z: Follow-up encounter
+- 2021-03-30T03:39:03Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-09T03:39:03Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-25T03:39:03Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-31T06:32:11Z Total score [AUDIT-C]: 2.0 {score}
+- 2021-08-31T06:00:03Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-08-31T05:21:27Z Total score [HARK]: 0.0 {score}
+- 2021-08-31T04:55:34Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-08-31T04:27:44Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: Yes  it has kept me from non-medical meetings  appointments  work  or from getting things that I need nan
+- 2021-08-31T04:27:44Z What language are you most comfortable speaking?: English nan
+- 2021-08-31T04:27:44Z What is your housing situation today?: I have housing nan
+- 2021-08-31T04:27:44Z What address do you live at?: 886 Gutkowski Route Apt 30 nan
+- 2021-08-31T04:27:44Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-08-31T04:27:44Z What is your current work situation?: Full-time work nan

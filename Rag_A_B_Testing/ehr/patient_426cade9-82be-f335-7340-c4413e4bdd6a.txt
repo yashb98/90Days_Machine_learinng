@@ -1,0 +1,76 @@
+== PATIENT RECORD: Erich201 Gulgowski816 (ID: 426cade9-82be-f335-7340-c4413e4bdd6a) ==
+
+== Demographics ==
+Patient ID: 426cade9-82be-f335-7340-c4413e4bdd6a
+Name: Erich201 Gulgowski816
+Gender: M
+Birthdate: 2008-04-26
+Address: 352 Spencer Village Suite 12
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Perennial allergic rhinitis with seasonal variation
+- Childhood asthma
+- Viral sinusitis (disorder)
+- Otitis media
+- Fracture of ankle
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- Hydrocortisone 10 MG/ML Topical Cream
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-01T03:04:14Z)
+- Asthma screening (Date: 2012-08-19T03:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-26T03:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2013-08-11T03:04:14Z)
+- Ankle X-ray (Date: 2014-09-30T03:04:14Z)
+- Bone immobilization (Date: 2014-09-30T03:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-30T03:04:14Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-17T03:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-17T03:04:14Z)
+- Assessment of substance use (procedure) (Date: 2020-05-17T03:29:17Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-05-17T03:43:51Z)
+- Anticipatory guidance (procedure) (Date: 2020-05-17T04:04:45Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-23T03:04:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-23T03:04:14Z)
+- Depression screening (procedure) (Date: 2021-05-23T03:28:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-05-23T03:38:29Z)
+- Assessment of substance use (procedure) (Date: 2021-05-23T04:04:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2021-05-23T04:15:11Z)
+- Anticipatory guidance (procedure) (Date: 2021-05-23T04:44:15Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-23T03:04:14Z: Well child visit (procedure)
+- 2021-05-02T03:04:14Z: Allergic disorder initial assessment
+- 2020-05-17T03:04:14Z: Well child visit (procedure)
+- 2019-07-23T00:04:14Z: Asthma follow-up
+- 2019-07-21T13:04:14Z: Emergency hospital admission for asthma
+
+== Recent Observations (Last 10) ==
+- 2021-05-23T04:04:07Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2021-05-23T03:28:14Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-05-23T03:04:14Z Body Mass Index: 22.7 kg/m2
+- 2021-05-23T03:04:14Z Body Height: 140.4 cm
+- 2021-05-23T03:04:14Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-05-23T03:04:14Z Body Weight: 44.7 kg
+- 2021-05-23T03:04:14Z Body mass index (BMI) [Percentile] Per age and gender: 88.8 %
+- 2021-05-23T03:04:14Z Diastolic Blood Pressure: 91.0 mm[Hg]
+- 2021-05-23T03:04:14Z Systolic Blood Pressure: 107.0 mm[Hg]
+- 2021-05-23T03:04:14Z Heart rate: 80.0 /min

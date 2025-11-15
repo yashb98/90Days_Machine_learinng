@@ -1,0 +1,164 @@
+== PATIENT RECORD: Ruby458 Cole117 (ID: 382bd5b8-f7b6-1132-b8fd-49ed4a44f6da) ==
+
+== Demographics ==
+Patient ID: 382bd5b8-f7b6-1132-b8fd-49ed4a44f6da
+Name: Ruby458 Cole117
+Gender: F
+Birthdate: 1973-10-05
+Address: 441 Kemmer Wall
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Chronic sinusitis (disorder)
+- Reports of violence in the environment (finding)
+- Miscarriage in first trimester
+- Social isolation (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Normal pregnancy
+- Blighted ovum
+- Fetus with unknown complication
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Limited social contact (finding)
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Yaz 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Natazia 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-23T08:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-23T09:22:18Z)
+- Screening for domestic abuse (procedure) (Date: 2012-03-23T09:39:31Z)
+- Depression screening (procedure) (Date: 2012-03-23T10:17:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-23T10:29:27Z)
+- Assessment of substance use (procedure) (Date: 2012-03-23T10:51:24Z)
+- Screening for drug abuse (procedure) (Date: 2012-03-23T11:04:42Z)
+- Standard pregnancy test (Date: 2013-03-22T08:33:58Z)
+- Ultrasound scan for fetal viability (Date: 2013-03-22T08:33:58Z)
+- Physical examination (Date: 2013-03-29T08:33:58Z)
+- Depression screening (Date: 2013-03-29T08:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-29T08:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2013-03-29T09:18:35Z)
+- Assessment of substance use (procedure) (Date: 2013-03-29T09:39:15Z)
+- Screening for drug abuse (procedure) (Date: 2013-03-29T09:54:00Z)
+- Insertion of intrauterine contraceptive device (Date: 2013-07-08T00:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-04T08:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-04T08:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-04T09:23:15Z)
+- Depression screening (procedure) (Date: 2014-04-04T09:49:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-04T10:03:18Z)
+- Assessment of substance use (procedure) (Date: 2014-04-04T10:23:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-04T10:34:44Z)
+- Removal of intrauterine device (Date: 2014-10-17T08:33:58Z)
+- Standard pregnancy test (Date: 2014-12-12T08:33:58Z)
+- Ultrasound scan for fetal viability (Date: 2014-12-12T08:33:58Z)
+- Physical examination (Date: 2014-12-20T08:33:58Z)
+- Depression screening (Date: 2014-12-20T08:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-10T08:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-10T08:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-15T08:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-15T08:33:58Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-15T09:25:20Z)
+- Depression screening (procedure) (Date: 2016-04-15T09:51:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-15T10:03:13Z)
+- Assessment of substance use (procedure) (Date: 2016-04-15T10:31:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-04-15T10:42:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-21T08:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-21T08:33:58Z)
+- Depression screening (procedure) (Date: 2017-04-21T09:13:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-21T09:23:46Z)
+- Assessment of substance use (procedure) (Date: 2017-04-21T09:52:45Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-21T10:03:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-27T08:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2018-04-27T08:33:58Z)
+- Assessment of substance use (procedure) (Date: 2018-04-27T09:09:50Z)
+- Screening for drug abuse (procedure) (Date: 2018-04-27T09:21:04Z)
+- Standard pregnancy test (Date: 2019-02-22T08:33:58Z)
+- Ultrasound scan for fetal viability (Date: 2019-02-22T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-02-22T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-02-22T08:33:58Z)
+- Blood typing  RH typing (Date: 2019-02-22T08:33:58Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-02-22T08:33:58Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2019-02-22T08:33:58Z)
+- Human immunodeficiency virus antigen test (Date: 2019-02-22T08:33:58Z)
+- Chlamydia antigen test (Date: 2019-02-22T08:33:58Z)
+- Gonorrhea infection test (Date: 2019-02-22T08:33:58Z)
+- Syphilis infection test (Date: 2019-02-22T08:33:58Z)
+- Urine culture (Date: 2019-02-22T08:33:58Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2019-02-22T08:33:58Z)
+- Urine screening test for diabetes (Date: 2019-02-22T08:33:58Z)
+- Hepatitis C antibody test (Date: 2019-02-22T08:33:58Z)
+- Rubella screening (Date: 2019-02-22T08:33:58Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2019-02-22T08:33:58Z)
+- Skin test for tuberculosis (Date: 2019-02-22T08:33:58Z)
+- Urine protein test (Date: 2019-02-22T08:33:58Z)
+- Physical examination of mother (Date: 2019-02-22T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-03-22T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-03-22T08:33:58Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2019-03-22T08:33:58Z)
+- Fetal anatomy study (Date: 2019-04-19T08:33:58Z)
+- Alpha-fetoprotein test (Date: 2019-04-19T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-04-19T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-04-19T08:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-03T08:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-03T09:17:27Z)
+- Evaluation of uterine fundal height (Date: 2019-05-17T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-05-17T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-06-14T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-06-14T08:33:58Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2019-07-12T08:33:58Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2019-07-12T08:33:58Z)
+- Urine screening for glucose (Date: 2019-07-12T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-07-12T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-07-12T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-08-09T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-08-09T08:33:58Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2019-09-06T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-09-06T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-09-06T08:33:58Z)
+- Evaluation of uterine fundal height (Date: 2019-09-20T08:33:58Z)
+- Auscultation of the fetal heart (Date: 2019-09-20T08:33:58Z)
+- Medical induction of labor (Date: 2019-09-27T08:33:58Z)
+- Childbirth (Date: 2019-09-27T08:33:58Z)
+- Physical examination following birth (Date: 2019-11-08T08:33:58Z)
+- Depression screening (Date: 2019-11-08T08:33:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-08T08:33:58Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-08T09:12:11Z)
+- Depression screening (procedure) (Date: 2020-05-08T09:38:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-08T09:53:07Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-05-08T10:21:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-14T08:33:58Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-14T08:33:58Z)
+- Depression screening (procedure) (Date: 2021-05-14T09:20:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-14T09:32:06Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-14T08:33:58Z: General examination of patient (procedure)
+- 2021-02-12T08:33:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-15T08:33:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-11-02T08:33:58Z: Consultation for treatment
+- 2020-05-08T08:33:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-05T08:33:58Z QOLS: 0.9 {score}
+- 2021-10-05T08:33:58Z QALY: 45.9 a
+- 2021-10-05T08:33:58Z DALY: 1.1 a
+- 2021-05-14T09:55:15Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-14T09:20:11Z What is your housing situation today?: I have housing nan
+- 2021-05-14T09:20:11Z Are you worried about losing your housing?: No nan
+- 2021-05-14T09:20:11Z What address do you live at?: 441 Kemmer Wall nan
+- 2021-05-14T09:20:11Z What is the highest level of school that you have finished?: High school diploma or GED nan
+- 2021-05-14T09:20:11Z What is your current work situation?: Full-time work nan
+- 2021-05-14T09:20:11Z What is your main insurance?: Private insurance nan

@@ -1,0 +1,118 @@
+== PATIENT RECORD: Adelaida985 DuBuque211 (ID: 31a2e8ec-69fc-8a71-3ab6-36cbdd508713) ==
+
+== Demographics ==
+Patient ID: 31a2e8ec-69fc-8a71-3ab6-36cbdd508713
+Name: Adelaida985 DuBuque211
+Gender: F
+Birthdate: 1917-05-15
+Address: 848 Casper Way
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Tubal pregnancy
+- Social isolation (finding)
+- Alzheimer's disease (disorder)
+- Reports of violence in the environment (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Acute bacterial sinusitis (disorder)
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Pneumonia
+
+== Current Medications ==
+- Donepezil hydrochloride 23 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2008-01-01T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2008-01-01T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2008-01-01T12:32:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-01-01T12:57:54Z)
+- Depression screening (procedure) (Date: 2008-01-01T13:24:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-01-01T13:37:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2008-01-01T14:02:30Z)
+- Assessment of substance use (procedure) (Date: 2008-01-01T14:26:18Z)
+- Screening for drug abuse (procedure) (Date: 2008-01-01T14:36:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-01-06T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-01-06T12:56:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-11-03T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-11-03T12:43:27Z)
+- Depression screening (procedure) (Date: 2009-11-03T13:09:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-11-03T13:21:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2009-11-03T13:46:26Z)
+- Assessment of substance use (procedure) (Date: 2009-11-03T14:10:54Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-11-03T14:22:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-01-12T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2010-01-12T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-01-12T12:46:14Z)
+- Screening for domestic abuse (procedure) (Date: 2010-01-12T13:07:14Z)
+- Assessment of substance use (procedure) (Date: 2010-01-12T13:34:00Z)
+- Screening for drug abuse (procedure) (Date: 2010-01-12T13:44:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-01-18T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2011-01-18T11:58:49Z)
+- Screening for domestic abuse (procedure) (Date: 2011-01-18T12:52:51Z)
+- Assessment of substance use (procedure) (Date: 2011-01-18T13:28:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-01-18T13:41:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-24T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-24T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-24T12:33:12Z)
+- Depression screening (procedure) (Date: 2012-01-24T13:03:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-24T13:17:53Z)
+- Assessment of substance use (procedure) (Date: 2012-01-24T13:44:33Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-01-24T13:58:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-04-17T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-17T12:56:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-29T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2013-01-29T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-01-29T12:43:59Z)
+- Depression screening (procedure) (Date: 2013-01-29T13:02:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-29T13:13:47Z)
+- Assessment of substance use (procedure) (Date: 2013-01-29T13:39:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-01-29T13:51:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-04T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-02-04T12:31:52Z)
+- Depression screening (procedure) (Date: 2014-02-04T12:48:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-04T12:58:56Z)
+- Assessment of substance use (procedure) (Date: 2014-02-04T13:22:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-04T13:36:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-10T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-10T11:58:49Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-02-10T12:37:57Z)
+- Screening for domestic abuse (procedure) (Date: 2015-02-10T13:00:19Z)
+- Depression screening (procedure) (Date: 2015-02-10T13:28:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-10T13:43:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-16T11:58:49Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-16T11:58:49Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-16T12:54:19Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-02-16T13:11:33Z)
+- Depression screening (procedure) (Date: 2016-02-16T13:28:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-16T13:40:08Z)
+- Assessment of substance use (procedure) (Date: 2016-02-16T14:05:14Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-16T14:17:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2017-02-21T11:58:49Z: Death Certification
+- 2017-02-10T11:58:49Z: Hospital admission
+- 2016-02-16T11:58:49Z: General examination of patient (procedure)
+- 2015-05-12T11:58:49Z: Urgent care clinic (procedure)
+- 2015-05-12T04:58:49Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2017-05-15T10:58:49Z QOLS: 0.9 {score}
+- 2017-05-15T10:58:49Z DALY: 7.5 a
+- 2017-05-15T10:58:49Z QALY: 91.5 a
+- 2017-02-21T11:58:49Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2016-05-15T10:58:49Z QOLS: 0.9 {score}
+- 2016-05-15T10:58:49Z QALY: 90.6 a
+- 2016-05-15T10:58:49Z DALY: 7.4 a
+- 2016-02-16T14:46:39Z Total score [AUDIT-C]: 1.0 {score}
+- 2016-02-16T14:05:14Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2016-02-16T13:28:44Z Fall risk total [Morse Fall Scale]: 114.0 {#}

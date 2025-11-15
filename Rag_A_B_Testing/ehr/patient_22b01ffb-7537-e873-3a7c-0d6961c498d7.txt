@@ -1,0 +1,44 @@
+== PATIENT RECORD: Elton404 Homenick806 (ID: 22b01ffb-7537-e873-3a7c-0d6961c498d7) ==
+
+== Demographics ==
+Patient ID: 22b01ffb-7537-e873-3a7c-0d6961c498d7
+Name: Elton404 Homenick806
+Gender: M
+Birthdate: 2018-10-29
+Address: 859 King Road
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-10-29T13:47:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-06T13:47:08Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-06T13:47:08Z)
+- Measurement of respiratory function (procedure) (Date: 2020-10-20T02:47:08Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-04T13:47:08Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-04T13:47:08Z: Well child visit (procedure)
+- 2021-04-05T13:47:08Z: Well child visit (procedure)
+- 2020-11-02T13:47:08Z: Encounter for check up (procedure)
+- 2020-10-26T13:47:08Z: Urgent care clinic (procedure)
+- 2020-10-20T02:47:08Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-29T13:47:08Z QOLS: 1.0 {score}
+- 2021-10-29T13:47:08Z DALY: 0.0 a
+- 2021-10-29T13:47:08Z QALY: 2.0 a
+- 2021-10-04T13:47:08Z Diastolic Blood Pressure: 72.0 mm[Hg]
+- 2021-10-04T13:47:08Z Body Height: 95.9 cm
+- 2021-10-04T13:47:08Z Body Weight: 15.0 kg
+- 2021-10-04T13:47:08Z Weight-for-length Per age and sex: 63.8 %
+- 2021-10-04T13:47:08Z Head Occipital-frontal circumference: 50.2 cm
+- 2021-10-04T13:47:08Z Body Mass Index: 16.3 kg/m2
+- 2021-10-04T13:47:08Z Body mass index (BMI) [Percentile] Per age and gender: 58.4 %

@@ -1,0 +1,109 @@
+== PATIENT RECORD: Isaiah615 Christiansen251 (ID: a38b1195-9818-4286-ab60-96234d78c2b9) ==
+
+== Demographics ==
+Patient ID: a38b1195-9818-4286-ab60-96234d78c2b9
+Name: Isaiah615 Christiansen251
+Gender: M
+Birthdate: 1960-12-23
+Address: 950 Quitzon Parade Suite 4
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Transport problems (finding)
+- Stress (finding)
+- Lack of access to transportation (finding)
+- Appendicitis
+- History of appendectomy
+- Limited social contact (finding)
+- Not in labor force (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Streptococcal sore throat (disorder)
+- Social isolation (finding)
+
+== Current Medications ==
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2011-12-30T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2011-12-30T23:15:15Z)
+- Assessment of anxiety (procedure) (Date: 2011-12-31T00:08:08Z)
+- Assessment of substance use (procedure) (Date: 2011-12-31T00:25:30Z)
+- Screening for drug abuse (procedure) (Date: 2011-12-31T00:36:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-04T23:15:15Z)
+- Screening for domestic abuse (procedure) (Date: 2013-01-05T00:14:52Z)
+- Depression screening (procedure) (Date: 2013-01-05T00:40:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-05T00:52:15Z)
+- Assessment of substance use (procedure) (Date: 2013-01-05T01:14:28Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-01-05T01:25:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-01-10T23:15:15Z)
+- Depression screening (procedure) (Date: 2014-01-10T23:52:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-01-11T00:07:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-01-16T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2015-01-16T23:15:15Z)
+- Assessment of anxiety (procedure) (Date: 2015-01-17T00:04:27Z)
+- Colonoscopy (Date: 2015-12-24T23:44:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-01-22T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2016-01-22T23:15:15Z)
+- Assessment of anxiety (procedure) (Date: 2016-01-22T23:48:22Z)
+- Depression screening (procedure) (Date: 2016-01-23T00:08:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-01-23T00:20:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-01-27T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2017-01-27T23:15:15Z)
+- Assessment of anxiety (procedure) (Date: 2017-01-28T00:05:43Z)
+- Depression screening (procedure) (Date: 2017-01-28T00:31:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-01-28T00:41:42Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-02T23:15:15Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-02T23:50:41Z)
+- Screening for domestic abuse (procedure) (Date: 2018-02-03T00:10:56Z)
+- Depression screening (procedure) (Date: 2018-02-03T00:54:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-02-03T01:08:02Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-02-03T01:31:33Z)
+- Assessment of substance use (procedure) (Date: 2018-02-03T01:56:18Z)
+- Screening for drug abuse (procedure) (Date: 2018-02-03T02:09:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-08T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2019-02-08T23:15:15Z)
+- Depression screening (procedure) (Date: 2019-02-09T00:11:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-09T00:26:03Z)
+- Throat culture (procedure) (Date: 2019-05-31T23:15:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-02-14T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-14T23:15:15Z)
+- Depression screening (procedure) (Date: 2020-02-15T00:02:22Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-02-15T00:15:31Z)
+- Assessment of substance use (procedure) (Date: 2020-02-15T00:38:50Z)
+- Screening for drug abuse (procedure) (Date: 2020-02-15T00:52:31Z)
+- Colonoscopy (Date: 2020-12-24T00:12:44Z)
+- Digital examination of rectum (Date: 2021-02-19T23:15:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-02-19T23:15:15Z)
+- Medication Reconciliation (procedure) (Date: 2021-02-19T23:15:15Z)
+- Depression screening (procedure) (Date: 2021-02-19T23:57:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-02-20T00:11:28Z)
+- Assessment of substance use (procedure) (Date: 2021-02-20T00:39:35Z)
+- Screening for drug abuse (procedure) (Date: 2021-02-20T00:52:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-14T23:15:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-23T23:15:15Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-02-19T23:15:15Z: General examination of patient (procedure)
+- 2020-12-24T00:12:44Z: Encounter for 'check-up'
+- 2020-12-06T15:15:15Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-02-20T01:17:17Z Total score [DAST-10]: 0.0 {score}
+- 2021-02-20T00:39:35Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-02-19T23:57:17Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-02-19T23:57:17Z Have you been discharged from the armed forces of the United States?: Yes nan
+- 2021-02-19T23:57:17Z How many family members  including yourself  do you currently live with?: 2.0 {#}
+- 2021-02-19T23:57:17Z What is your housing situation today?: I have housing nan
+- 2021-02-19T23:57:17Z Are you worried about losing your housing?: No nan
+- 2021-02-19T23:57:17Z What address do you live at?: 950 Quitzon Parade Suite 4 nan
+- 2021-02-19T23:57:17Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-02-19T23:57:17Z What is your current work situation?: Part-time or temporary work nan

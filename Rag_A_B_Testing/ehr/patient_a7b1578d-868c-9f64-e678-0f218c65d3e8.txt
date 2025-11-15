@@ -1,0 +1,201 @@
+== PATIENT RECORD: Judi176 Russel238 (ID: a7b1578d-868c-9f64-e678-0f218c65d3e8) ==
+
+== Demographics ==
+Patient ID: a7b1578d-868c-9f64-e678-0f218c65d3e8
+Name: Judi176 Russel238
+Gender: F
+Birthdate: 1942-09-06
+Address: 793 Bogan Meadow Suite 76
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Received higher education (finding)
+- Unemployed (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Prediabetes
+- Anemia (disorder)
+- Pulmonary emphysema (disorder)
+- Osteoarthritis of knee
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Acute bacterial sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Cough (finding)
+- Sputum finding (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+- Pneumonia (disorder)
+- Hypoxemia (disorder)
+- Respiratory distress (finding)
+- Acute respiratory failure (disorder)
+- Sepsis caused by virus (disorder)
+- Acute deep venous thrombosis (disorder)
+- Septic shock (disorder)
+- Acquired coagulation disorder (disorder)
+- Injury of heart (disorder)
+- Acute respiratory distress syndrome (disorder)
+
+== Current Medications ==
+- 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler
+- NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler
+- Naproxen sodium 220 MG Oral Tablet
+- 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe
+- Acetaminophen 500 MG Oral Tablet
+- Albuterol 5 MG/ML Inhalation Solution
+- vancomycin 1000 MG Injection
+- piperacillin 4000 MG / tazobactam 500 MG Injection
+- 4 ML Norepinephrine 1 MG/ML Injection
+- 1 ML Vasopressin (USP) 20 UNT/ML Injection
+
+== Past Procedures ==
+- Spirometry (procedure) (Date: 2011-08-21T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2011-08-21T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-08-21T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2011-08-21T23:21:45Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2011-08-21T23:41:44Z)
+- Depression screening (procedure) (Date: 2011-08-21T23:59:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-08-22T00:11:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2011-08-22T00:41:16Z)
+- Assessment of substance use (procedure) (Date: 2011-08-22T01:07:31Z)
+- Screening for drug abuse (procedure) (Date: 2011-08-22T01:21:30Z)
+- Spirometry (procedure) (Date: 2012-08-26T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2012-08-26T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-26T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-26T22:50:17Z)
+- Depression screening (procedure) (Date: 2012-08-26T23:39:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-26T23:49:34Z)
+- Assessment of substance use (procedure) (Date: 2012-08-27T00:16:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-08-27T00:31:34Z)
+- Colonoscopy (Date: 2012-09-06T01:15:30Z)
+- Spirometry (procedure) (Date: 2012-12-02T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2012-12-02T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-12-02T22:50:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-12-02T23:23:23Z)
+- Depression screening (procedure) (Date: 2012-12-02T23:41:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-12-02T23:54:52Z)
+- Assessment of substance use (procedure) (Date: 2012-12-03T00:15:52Z)
+- Screening for drug abuse (procedure) (Date: 2012-12-03T00:29:08Z)
+- Spirometry (procedure) (Date: 2013-09-01T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2013-09-01T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-01T22:50:17Z)
+- Depression screening (procedure) (Date: 2013-09-01T23:35:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-01T23:45:51Z)
+- Assessment of substance use (procedure) (Date: 2013-09-02T00:08:37Z)
+- Screening for drug abuse (procedure) (Date: 2013-09-02T00:21:02Z)
+- Spirometry (procedure) (Date: 2014-09-07T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2014-09-07T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-07T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-07T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-07T23:44:42Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-09-08T00:11:39Z)
+- Depression screening (procedure) (Date: 2014-09-08T00:37:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-08T00:48:24Z)
+- Assessment of substance use (procedure) (Date: 2014-09-08T01:16:24Z)
+- Screening for drug abuse (procedure) (Date: 2014-09-08T01:30:11Z)
+- Spirometry (procedure) (Date: 2015-09-13T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2015-09-13T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-13T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2015-09-13T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-13T23:40:18Z)
+- Depression screening (procedure) (Date: 2015-09-14T00:08:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-14T00:20:32Z)
+- Assessment of substance use (procedure) (Date: 2015-09-14T00:47:38Z)
+- Screening for drug abuse (procedure) (Date: 2015-09-14T01:01:31Z)
+- Spirometry (procedure) (Date: 2016-09-18T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2016-09-18T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-18T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2016-09-18T23:30:45Z)
+- Assessment of substance use (procedure) (Date: 2016-09-18T23:55:25Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-09-19T00:07:44Z)
+- Colonoscopy (Date: 2017-09-06T01:42:17Z)
+- Spirometry (procedure) (Date: 2017-09-24T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2017-09-24T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-24T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-24T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2017-09-24T23:27:17Z)
+- Depression screening (procedure) (Date: 2017-09-24T23:50:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-25T00:03:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-09-25T00:24:30Z)
+- Spirometry (procedure) (Date: 2018-09-30T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2018-09-30T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-30T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-30T23:49:57Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-10-01T00:15:39Z)
+- Depression screening (procedure) (Date: 2018-10-01T00:34:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-01T00:45:26Z)
+- Assessment of substance use (procedure) (Date: 2018-10-01T01:06:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-01T01:17:57Z)
+- Spirometry (procedure) (Date: 2019-10-06T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2019-10-06T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-06T22:50:17Z)
+- Medication Reconciliation (procedure) (Date: 2019-10-06T22:50:17Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-06T23:39:06Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-10-07T00:04:28Z)
+- Screening for domestic abuse (procedure) (Date: 2019-10-07T00:19:59Z)
+- Depression screening (procedure) (Date: 2019-10-07T00:50:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-07T01:02:58Z)
+- Spirometry (procedure) (Date: 2020-10-11T22:50:17Z)
+- Pulmonary rehabilitation (regime/therapy) (Date: 2020-10-11T22:50:17Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-11T22:50:17Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-10-11T23:46:07Z)
+- Depression screening (procedure) (Date: 2020-10-12T00:13:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-12T00:24:59Z)
+- Assessment of substance use (procedure) (Date: 2020-10-12T00:49:04Z)
+- Screening for drug abuse (procedure) (Date: 2020-10-12T01:03:57Z)
+- Face mask (physical object) (Date: 2020-12-29T22:50:17Z)
+- Plain chest X-ray (procedure) (Date: 2020-12-30T00:10:18Z)
+- Oxygen administration by mask (procedure) (Date: 2020-12-30T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2020-12-30T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2020-12-31T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2020-12-31T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2021-01-01T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2021-01-01T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2021-01-02T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2021-01-02T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2021-01-03T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2021-01-03T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2021-01-04T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2021-01-04T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2021-01-05T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2021-01-05T00:51:37Z)
+- Oxygen administration by mask (procedure) (Date: 2021-01-06T00:51:37Z)
+- Placing subject in prone position (procedure) (Date: 2021-01-06T00:51:37Z)
+- Insertion of endotracheal tube (procedure) (Date: 2021-01-06T00:51:37Z)
+- Plain chest X-ray (procedure) (Date: 2021-01-06T01:13:51Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-06T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-07T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-08T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-09T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-10T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-11T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-12T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-13T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-14T01:39:57Z)
+- Controlled ventilation procedure and therapy  initiation and management (procedure) (Date: 2021-01-15T01:39:57Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-24T22:50:17Z: Death Certification
+- 2021-01-06T00:51:37Z: Admission to intensive care unit (procedure)
+- 2020-12-30T00:10:18Z: Hospital admission for isolation (procedure)
+- 2020-12-29T22:50:17Z: Encounter for symptom (procedure)
+- 2020-10-11T22:50:17Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-06T22:50:17Z QOLS: 0.9 {score}
+- 2021-09-06T22:50:17Z DALY: 6.3 a
+- 2021-09-06T22:50:17Z QALY: 71.7 a
+- 2021-01-24T22:50:17Z Cause of Death [US Standard Certificate of Death]: COVID-19 nan
+- 2021-01-15T01:39:57Z Neutrophils [#/volume] in Blood by Automated count: 3.8 10*3/uL
+- 2021-01-15T01:39:57Z Platelets [#/volume] in Blood by Automated count: 117.1 10*3/uL
+- 2021-01-15T01:39:57Z Lymphocytes/100 leukocytes in Blood by Automated count: 16.4 %
+- 2021-01-15T01:39:57Z Monocytes/100 leukocytes in Blood by Automated count: 9.0 %
+- 2021-01-15T01:39:57Z Eosinophils/100 leukocytes in Blood by Automated count: 3.3 %
+- 2021-01-15T01:39:57Z Basophils/100 leukocytes in Blood by Automated count: 3.9 %

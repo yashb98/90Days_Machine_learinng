@@ -1,0 +1,112 @@
+== PATIENT RECORD: Arron144 Morar593 (ID: 9f2b1e2f-f8e2-9990-8b39-6906a5721ac2) ==
+
+== Demographics ==
+Patient ID: 9f2b1e2f-f8e2-9990-8b39-6906a5721ac2
+Name: Arron144 Morar593
+Gender: M
+Birthdate: 2002-06-24
+Address: 206 Shields Light Unit 97
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Sprain of ankle
+- Child attention deficit disorder
+- Fracture of ankle
+- Acute bronchitis (disorder)
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Transport problems (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- atomoxetine 100 MG Oral Capsule
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-07-15T17:07:17Z)
+- Ankle X-ray (Date: 2014-02-21T17:38:28Z)
+- Bone immobilization (Date: 2014-02-21T17:38:28Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-21T17:07:17Z)
+- Assessment of substance use (procedure) (Date: 2014-07-21T17:35:01Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-21T17:46:16Z)
+- Anticipatory guidance (procedure) (Date: 2014-07-21T17:58:48Z)
+- Assessment of anxiety (procedure) (Date: 2014-12-08T17:07:17Z)
+- Medication Reconciliation (procedure) (Date: 2014-12-08T17:07:17Z)
+- Assessment of substance use (procedure) (Date: 2014-12-08T17:36:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-12-08T17:49:03Z)
+- Anticipatory guidance (procedure) (Date: 2014-12-08T17:59:57Z)
+- Depression screening (procedure) (Date: 2015-07-27T17:07:17Z)
+- Medication Reconciliation (procedure) (Date: 2015-07-27T17:07:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-07-27T17:20:53Z)
+- Assessment of substance use (procedure) (Date: 2015-07-27T17:42:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-07-27T17:56:29Z)
+- Health risks education (procedure) (Date: 2015-07-27T18:23:11Z)
+- Assessment of anxiety (procedure) (Date: 2016-08-01T17:07:17Z)
+- Medication Reconciliation (procedure) (Date: 2016-08-01T17:07:17Z)
+- Assessment of substance use (procedure) (Date: 2016-08-01T17:26:58Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-08-01T17:38:14Z)
+- Anticipatory guidance (procedure) (Date: 2016-08-01T18:03:00Z)
+- Depression screening (procedure) (Date: 2017-08-07T17:07:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-08-07T17:19:07Z)
+- Assessment of substance use (procedure) (Date: 2017-08-07T17:45:49Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-08-07T17:56:53Z)
+- Anticipatory guidance (procedure) (Date: 2017-08-07T18:11:59Z)
+- Depression screening (procedure) (Date: 2018-08-13T17:07:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-08-13T17:19:16Z)
+- Assessment of substance use (procedure) (Date: 2018-08-13T17:44:50Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-13T17:55:13Z)
+- Health risks education (procedure) (Date: 2018-08-13T18:25:01Z)
+- Kitchen practice (Date: 2018-11-15T07:07:17Z)
+- Exercise class (Date: 2018-11-15T08:04:03Z)
+- Depression screening (procedure) (Date: 2019-08-19T17:07:17Z)
+- Medication Reconciliation (procedure) (Date: 2019-08-19T17:07:17Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-08-19T17:17:26Z)
+- Assessment of substance use (procedure) (Date: 2019-08-19T17:41:38Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-08-19T17:54:48Z)
+- Health risks education (procedure) (Date: 2019-08-19T18:22:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-24T17:07:17Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-24T17:07:17Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-24T17:40:01Z)
+- Screening for domestic abuse (procedure) (Date: 2020-08-24T17:58:34Z)
+- Assessment of substance use (procedure) (Date: 2020-08-24T18:34:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-24T18:47:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-30T17:07:17Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-30T18:05:26Z)
+- Screening for domestic abuse (procedure) (Date: 2021-08-30T18:30:26Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-30T17:07:17Z: General examination of patient (procedure)
+- 2021-07-05T17:07:17Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-07T17:07:17Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-01-12T20:07:17Z: Follow-up encounter (procedure)
+- 2020-11-13T20:07:17Z: Follow-up encounter (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-30T19:06:01Z Total score [HARK]: 0.0 {score}
+- 2021-08-30T18:30:26Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-08-30T18:05:26Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-08-30T18:05:26Z What address do you live at?: 206 Shields Light Unit 97 nan
+- 2021-08-30T18:05:26Z In the past year  have you been afraid of your partner or ex-partner?: Yes nan
+- 2021-08-30T18:05:26Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-08-30T18:05:26Z Are you a refugee?: No nan
+- 2021-08-30T18:05:26Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-08-30T18:05:26Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-08-30T18:05:26Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan

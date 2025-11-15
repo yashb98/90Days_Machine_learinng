@@ -1,0 +1,69 @@
+== PATIENT RECORD: Justine412 Hackett68 (ID: 02ea18ed-ad6e-4c59-a3aa-393bae7ab7fe) ==
+
+== Demographics ==
+Patient ID: 02ea18ed-ad6e-4c59-a3aa-393bae7ab7fe
+Name: Justine412 Hackett68
+Gender: F
+Birthdate: 1976-08-26
+Address: 550 Crooks Vista Suite 66
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Seizure disorder
+- History of single seizure (situation)
+- Epilepsy
+- Risk activity involvement (finding)
+
+== Current Medications ==
+- Diazepam 5 MG Oral Tablet
+- Norinyl 1+50 28 Day Pack
+- Ortho Tri-Cyclen 28 Day Pack
+- clonazePAM 0.25 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 1984-08-23T22:03:14Z)
+- Medication Reconciliation (procedure) (Date: 1985-08-29T22:03:14Z)
+- Depression screening (procedure) (Date: 1988-09-15T22:03:14Z)
+- Medication Reconciliation (procedure) (Date: 1988-09-15T22:03:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1988-09-15T22:16:52Z)
+- Seizure Count Cerebral Cortex Electroencephalogram (EEG) (Date: 1989-03-18T22:03:14Z)
+- Assessment of anxiety (procedure) (Date: 1989-09-21T22:03:14Z)
+- Assessment of substance use (procedure) (Date: 1990-09-27T22:03:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1990-09-27T22:16:29Z)
+- Anticipatory guidance (procedure) (Date: 1990-09-27T22:44:00Z)
+- Assessment of anxiety (procedure) (Date: 1991-10-03T22:03:14Z)
+- Depression screening (procedure) (Date: 1991-10-03T22:22:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1991-10-03T22:36:00Z)
+- Assessment of substance use (procedure) (Date: 1991-10-03T23:04:26Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1991-10-03T23:19:07Z)
+- Anticipatory guidance (procedure) (Date: 1991-10-03T23:48:12Z)
+- Depression screening (procedure) (Date: 1992-10-08T22:03:14Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1992-10-08T22:14:44Z)
+- Assessment of anxiety (procedure) (Date: 1993-10-14T22:03:14Z)
+- Depression screening (procedure) (Date: 1993-10-14T22:32:36Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1993-10-14T22:44:35Z)
+- Assessment of substance use (procedure) (Date: 1993-10-14T23:14:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 1993-10-14T23:28:59Z)
+- Health risks education (procedure) (Date: 1993-10-14T23:49:46Z)
+
+== Recent Encounters (Last 5) ==
+- 1994-01-27T22:03:14Z: Death Certification
+- 1993-10-14T22:03:14Z: Well child visit (procedure)
+- 1992-10-08T22:03:14Z: Well child visit (procedure)
+- 1992-08-15T22:03:14Z: Consultation for treatment
+- 1991-10-03T22:03:14Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 1994-01-27T22:03:14Z Cause of Death [US Standard Certificate of Death]: Sudden Cardiac Death nan
+- 1993-10-14T23:14:15Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 1993-10-14T22:32:36Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 1993-10-14T22:03:14Z Diastolic Blood Pressure: 87.0 mm[Hg]
+- 1993-10-14T22:03:14Z Body Height: 170.9 cm
+- 1993-10-14T22:03:14Z Body Weight: 59.2 kg
+- 1993-10-14T22:03:14Z Body Mass Index: 20.3 kg/m2
+- 1993-10-14T22:03:14Z Body mass index (BMI) [Percentile] Per age and gender: 40.8 %
+- 1993-10-14T22:03:14Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 1993-10-14T22:03:14Z Systolic Blood Pressure: 127.0 mm[Hg]

@@ -1,0 +1,99 @@
+== PATIENT RECORD: Mariano761 Metz686 (ID: dee615ed-08f1-976e-1576-a2b2fd2dcfa0) ==
+
+== Demographics ==
+Patient ID: dee615ed-08f1-976e-1576-a2b2fd2dcfa0
+Name: Mariano761 Metz686
+Gender: M
+Birthdate: 1946-07-18
+Address: 950 Rogahn Spur
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+- Received higher education (finding)
+- Has a criminal record (finding)
+- Part-time employment (finding)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Stroke
+- Hyperlipidemia
+- Victim of intimate partner abuse (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Sprain of ankle
+- Viral sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Bullet wound
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2004-09-03T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2004-09-03T03:50:46Z)
+- Depression screening (procedure) (Date: 2004-09-03T04:11:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-09-03T04:25:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-09-09T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2005-09-09T03:28:29Z)
+- Colonoscopy (Date: 2006-07-19T03:52:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-09-15T02:53:25Z)
+- Screening for domestic abuse (procedure) (Date: 2006-09-15T03:27:42Z)
+- Assessment of substance use (procedure) (Date: 2006-09-15T04:11:50Z)
+- Screening for drug abuse (procedure) (Date: 2006-09-15T04:26:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-09-21T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2007-09-21T02:53:25Z)
+- Depression screening (procedure) (Date: 2007-09-21T03:53:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-09-21T04:07:42Z)
+- Assessment of substance use (procedure) (Date: 2007-09-21T04:36:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2007-09-21T04:50:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-09-26T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2008-09-26T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2008-09-26T03:44:36Z)
+- Depression screening (procedure) (Date: 2008-09-26T04:10:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-09-26T04:23:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-10-02T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2009-10-02T03:43:30Z)
+- Depression screening (procedure) (Date: 2009-10-02T04:06:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-10-02T04:18:53Z)
+- Assessment of substance use (procedure) (Date: 2009-10-02T04:45:03Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-10-02T04:58:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-10-08T02:53:25Z)
+- Medication Reconciliation (procedure) (Date: 2010-10-08T02:53:25Z)
+- Assessment of anxiety (procedure) (Date: 2010-10-08T03:47:47Z)
+- Colonoscopy (Date: 2011-07-19T04:17:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-10-14T02:53:25Z)
+- Screening for domestic abuse (procedure) (Date: 2011-10-14T03:48:58Z)
+- Depression screening (procedure) (Date: 2011-10-14T04:17:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-10-14T04:31:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-10-19T02:53:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2012-10-19T03:35:14Z)
+- Depression screening (procedure) (Date: 2012-10-19T03:52:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-10-19T04:03:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-10-25T02:53:25Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-10-25T03:51:02Z)
+
+== Recent Encounters (Last 5) ==
+- 2014-03-07T02:53:25Z: Death Certification
+- 2014-02-26T07:41:51Z: Emergency room admission (procedure)
+- 2013-10-25T02:53:25Z: General examination of patient (procedure)
+- 2013-08-29T02:53:25Z: Follow-up encounter
+- 2013-03-18T01:53:25Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2014-07-19T02:53:25Z QOLS: 0.9 {score}
+- 2014-07-19T02:53:25Z DALY: 11.2 a
+- 2014-07-19T02:53:25Z QALY: 55.8 a
+- 2014-03-07T02:53:25Z Cause of Death [US Standard Certificate of Death]: Bullet wound nan
+- 2013-10-25T04:15:37Z Fall risk total [Morse Fall Scale]: 38.0 {#}
+- 2013-10-25T04:15:37Z Fall risk level [Morse Fall Scale]: Moderate Risk (MFS Score 25 - 45) nan
+- 2013-10-25T03:51:02Z What is your main insurance?: Medicare nan
+- 2013-10-25T03:51:02Z Are you worried about losing your housing?: No nan
+- 2013-10-25T03:51:02Z What address do you live at?: 950 Rogahn Spur nan
+- 2013-10-25T03:51:02Z What is the highest level of school that you have finished?: More than high school nan

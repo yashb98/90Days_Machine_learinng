@@ -1,0 +1,127 @@
+== PATIENT RECORD: Emerita401 Jones311 (ID: db0ba46f-9b5e-63cd-cbe4-3c0ea82abbdf) ==
+
+== Demographics ==
+Patient ID: db0ba46f-9b5e-63cd-cbe4-3c0ea82abbdf
+Name: Emerita401 Jones311
+Gender: F
+Birthdate: 1960-08-19
+Address: 156 Carroll Neck
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Housing unsatisfactory (finding)
+- Only received primary school education (finding)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Body mass index 30+ - obesity (finding)
+- Hyperlipidemia
+- Stress (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Not in labor force (finding)
+- Social isolation (finding)
+- Viral sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- Simvastatin 10 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-04-20T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-20T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 2012-04-20T18:59:20Z)
+- Depression screening (procedure) (Date: 2012-04-20T19:17:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-04-20T19:30:26Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-20T19:51:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-26T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-26T18:18:43Z)
+- Screening for domestic abuse (procedure) (Date: 2013-04-26T18:54:51Z)
+- Depression screening (procedure) (Date: 2013-04-26T19:37:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-26T19:48:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-02T18:18:43Z)
+- Depression screening (procedure) (Date: 2014-05-02T19:10:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-02T19:21:19Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-02T19:43:39Z)
+- Assessment of substance use (procedure) (Date: 2014-05-02T20:06:51Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-05-02T20:20:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-05-08T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-08T18:18:43Z)
+- Peripheral blood smear interpretation (Date: 2015-05-08T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 2015-05-08T19:06:47Z)
+- Depression screening (procedure) (Date: 2015-05-08T19:28:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-05-08T19:42:47Z)
+- Assessment of substance use (procedure) (Date: 2015-05-08T20:12:19Z)
+- Screening for drug abuse (procedure) (Date: 2015-05-08T20:24:54Z)
+- Review of systems (procedure) (Date: 2015-05-08T18:48:43Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-08T19:01:48Z)
+- Brief general examination (procedure) (Date: 2015-05-08T19:18:57Z)
+- Colonoscopy (Date: 2015-08-20T18:46:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-13T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-13T18:18:43Z)
+- Depression screening (procedure) (Date: 2016-05-13T18:54:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-13T19:04:57Z)
+- Assessment of substance use (procedure) (Date: 2016-05-13T19:28:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-13T19:40:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-19T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-19T19:15:46Z)
+- Screening for domestic abuse (procedure) (Date: 2017-05-19T19:41:51Z)
+- Depression screening (procedure) (Date: 2017-05-19T20:15:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-19T20:29:15Z)
+- Assessment of substance use (procedure) (Date: 2017-05-19T20:49:45Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-19T21:03:51Z)
+- Throat culture (procedure) (Date: 2017-07-16T15:18:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-21T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-21T18:18:43Z)
+- Depression screening (procedure) (Date: 2017-07-21T18:50:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-07-21T19:02:19Z)
+- Assessment of substance use (procedure) (Date: 2017-07-21T19:31:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-07-21T19:41:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-25T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-25T19:16:56Z)
+- Depression screening (procedure) (Date: 2018-05-25T19:43:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-25T19:57:26Z)
+- Assessment of substance use (procedure) (Date: 2018-05-25T20:18:41Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-25T20:33:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-31T18:18:43Z)
+- Depression screening (procedure) (Date: 2019-05-31T19:10:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-31T19:22:51Z)
+- Assessment of substance use (procedure) (Date: 2019-05-31T19:52:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-31T20:04:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-05T18:18:43Z)
+- Depression screening (procedure) (Date: 2020-06-05T19:00:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-05T19:13:30Z)
+- Assessment of substance use (procedure) (Date: 2020-06-05T19:39:56Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-06-05T19:52:54Z)
+- Colonoscopy (Date: 2020-08-19T19:18:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-11T18:18:43Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-11T18:18:43Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-11T19:14:32Z)
+- Assessment of substance use (procedure) (Date: 2021-06-11T19:37:52Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-11T19:51:24Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-02T18:18:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-11T18:18:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-11T18:18:43Z: General examination of patient (procedure)
+- 2021-04-21T18:18:43Z: Follow-up encounter
+- 2020-08-19T19:18:12Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-08-19T18:18:43Z QOLS: 1.0 {score}
+- 2021-08-19T18:18:43Z DALY: 0.3 a
+- 2021-08-19T18:18:43Z QALY: 59.7 a
+- 2021-06-11T20:19:19Z Total score [DAST-10]: 0.0 {score}
+- 2021-06-11T19:37:52Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-06-11T19:14:32Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-06-11T19:14:32Z What is your main insurance?: Medicaid nan
+- 2021-06-11T19:14:32Z What is your housing situation today?: I have housing nan
+- 2021-06-11T19:14:32Z Are you worried about losing your housing?: Yes nan
+- 2021-06-11T19:14:32Z What address do you live at?: 156 Carroll Neck nan

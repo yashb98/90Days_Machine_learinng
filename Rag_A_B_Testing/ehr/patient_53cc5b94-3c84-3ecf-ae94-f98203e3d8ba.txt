@@ -1,0 +1,71 @@
+== PATIENT RECORD: Elwood28 Gottlieb798 (ID: 53cc5b94-3c84-3ecf-ae94-f98203e3d8ba) ==
+
+== Demographics ==
+Patient ID: 53cc5b94-3c84-3ecf-ae94-f98203e3d8ba
+Name: Elwood28 Gottlieb798
+Gender: M
+Birthdate: 2014-03-07
+Address: 289 Mraz Knoll
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Soya bean (substance)
+- Wheat (substance)
+- Tree nut (substance)
+
+== Active Conditions / Problem List ==
+- Acute allergic reaction
+- Otitis media
+- Acute bronchitis (disorder)
+- Seasonal allergic rhinitis
+- Cough (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- predniSONE 5 MG Oral Tablet
+- cetirizine hydrochloride 5 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2014-04-11T22:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-13T22:20:52Z)
+- Injection of adrenaline (Date: 2015-01-05T22:20:52Z)
+- Allergy screening test (Date: 2015-01-20T15:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-13T22:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-14T22:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-12T22:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2017-08-11T22:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-09T22:20:52Z)
+- Measurement of respiratory function (procedure) (Date: 2018-04-17T19:20:52Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-21T22:20:52Z)
+- Face mask (physical object) (Date: 2021-08-01T22:20:52Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-01T22:20:52Z: Encounter for symptom (procedure)
+- 2021-02-26T22:20:52Z: Well child visit (procedure)
+- 2020-02-21T22:20:52Z: Well child visit (procedure)
+- 2019-02-15T22:20:52Z: Well child visit (procedure)
+- 2018-09-12T22:20:52Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-08-01T23:22:51Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2021-08-01T22:31:06Z Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Human metapneumovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Rhinovirus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Parainfluenza virus 3 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Parainfluenza virus 2 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Parainfluenza virus 1 RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Respiratory syncytial virus RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan
+- 2021-08-01T22:31:06Z Adenovirus A+B+C+D+E DNA [Presence] in Respiratory specimen by NAA with probe detection: Negative (qualifier value) nan

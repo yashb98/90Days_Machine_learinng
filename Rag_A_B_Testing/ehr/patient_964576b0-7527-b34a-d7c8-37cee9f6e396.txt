@@ -1,0 +1,104 @@
+== PATIENT RECORD: Yuriko393 Rogahn59 (ID: 964576b0-7527-b34a-d7c8-37cee9f6e396) ==
+
+== Demographics ==
+Patient ID: 964576b0-7527-b34a-d7c8-37cee9f6e396
+Name: Yuriko393 Rogahn59
+Gender: F
+Birthdate: 2005-05-07
+Address: 107 Becker Loaf Suite 96
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Viral sinusitis (disorder)
+- Fracture subluxation of wrist
+- Acute bronchitis (disorder)
+- Acute bacterial sinusitis (disorder)
+- Victim of intimate partner abuse (finding)
+- Normal pregnancy
+- Cardiac Arrest
+- History of cardiac arrest (situation)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Levora 0.15/30 28 Day Pack
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- 1 ML Epinephrine 1 MG/ML Injection
+- 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+- Atropine Sulfate 1 MG/ML Injectable Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2015-05-16T05:05:30Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-27T05:05:30Z)
+- Assessment of substance use (procedure) (Date: 2017-05-27T05:29:31Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-05-27T05:44:04Z)
+- Anticipatory guidance (procedure) (Date: 2017-05-27T05:58:46Z)
+- X-ray or wrist (Date: 2018-02-12T05:05:30Z)
+- Bone immobilization (Date: 2018-02-12T05:05:30Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-02T05:05:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-06-02T05:32:56Z)
+- Depression screening (procedure) (Date: 2018-06-02T06:01:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-06-02T06:15:55Z)
+- Assessment of substance use (procedure) (Date: 2018-08-25T05:05:30Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-08-25T05:20:03Z)
+- Anticipatory guidance (procedure) (Date: 2018-08-25T05:37:03Z)
+- Depression screening (procedure) (Date: 2019-06-08T05:05:30Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-08T05:05:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-06-08T05:15:49Z)
+- Depression screening (procedure) (Date: 2020-06-13T05:05:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-06-13T05:18:50Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-19T05:05:30Z)
+- Screening for domestic abuse (procedure) (Date: 2021-06-19T05:35:12Z)
+- Standard pregnancy test (Date: 2021-08-21T05:05:30Z)
+- Ultrasound scan for fetal viability (Date: 2021-08-21T05:05:30Z)
+- Evaluation of uterine fundal height (Date: 2021-08-21T05:05:30Z)
+- Auscultation of the fetal heart (Date: 2021-08-21T05:05:30Z)
+- Blood typing  RH typing (Date: 2021-08-21T05:05:30Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-08-21T05:05:30Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-08-21T05:05:30Z)
+- Human immunodeficiency virus antigen test (Date: 2021-08-21T05:05:30Z)
+- Chlamydia antigen test (Date: 2021-08-21T05:05:30Z)
+- Gonorrhea infection test (Date: 2021-08-21T05:05:30Z)
+- Syphilis infection test (Date: 2021-08-21T05:05:30Z)
+- Urine culture (Date: 2021-08-21T05:05:30Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-08-21T05:05:30Z)
+- Urine screening test for diabetes (Date: 2021-08-21T05:05:30Z)
+- Hepatitis C antibody test (Date: 2021-08-21T05:05:30Z)
+- Rubella screening (Date: 2021-08-21T05:05:30Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-08-21T05:05:30Z)
+- Skin test for tuberculosis (Date: 2021-08-21T05:05:30Z)
+- Urine protein test (Date: 2021-08-21T05:05:30Z)
+- Physical examination of mother (Date: 2021-08-21T05:05:30Z)
+- Evaluation of uterine fundal height (Date: 2021-09-18T05:05:30Z)
+- Auscultation of the fetal heart (Date: 2021-09-18T05:05:30Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-09-18T05:05:30Z)
+- Fetal anatomy study (Date: 2021-10-16T05:05:30Z)
+- Alpha-fetoprotein test (Date: 2021-10-16T05:05:30Z)
+- Evaluation of uterine fundal height (Date: 2021-10-16T05:05:30Z)
+- Auscultation of the fetal heart (Date: 2021-10-16T05:05:30Z)
+- Echocardiography (procedure) (Date: 2021-10-23T05:05:30Z)
+- Insertion of biventricular implantable cardioverter defibrillator (Date: 2021-10-23T05:05:30Z)
+- Catheter ablation of tissue of heart (Date: 2021-10-23T05:05:30Z)
+- Evaluation of uterine fundal height (Date: 2021-11-13T05:05:30Z)
+- Auscultation of the fetal heart (Date: 2021-11-13T05:05:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-13T05:05:30Z: Prenatal visit
+- 2021-10-23T05:05:30Z: Cardiac Arrest
+- 2021-10-16T05:05:30Z: Prenatal visit
+- 2021-09-18T05:05:30Z: Prenatal visit
+- 2021-08-21T05:05:30Z: Prenatal initial visit
+
+== Recent Observations (Last 10) ==
+- 2021-06-19T06:08:10Z Total score [HARK]: 4.0 {score}
+- 2021-06-19T05:35:12Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-06-19T05:05:30Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-06-19T05:05:30Z Hemoglobin [Mass/volume] in Blood: 14.8 g/dL
+- 2021-06-19T05:05:30Z Hematocrit [Volume Fraction] of Blood by Automated count: 37.0 %
+- 2021-06-19T05:05:30Z MCV [Entitic volume] by Automated count: 81.8 fL
+- 2021-06-19T05:05:30Z MCH [Entitic mass] by Automated count: 30.7 pg
+- 2021-06-19T05:05:30Z MCHC [Mass/volume] by Automated count: 35.1 g/dL
+- 2021-06-19T05:05:30Z Erythrocyte distribution width [Entitic volume] by Automated count: 44.6 fL
+- 2021-06-19T05:05:30Z Platelets [#/volume] in Blood by Automated count: 344.4 10*3/uL

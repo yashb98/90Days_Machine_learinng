@@ -1,0 +1,100 @@
+== PATIENT RECORD: Gillian484 Langworth352 (ID: 49e94ea9-a534-15f8-fd74-3c739f2c0eb2) ==
+
+== Demographics ==
+Patient ID: 49e94ea9-a534-15f8-fd74-3c739f2c0eb2
+Name: Gillian484 Langworth352
+Gender: F
+Birthdate: 2005-09-29
+Address: 228 Murazik Lock Unit 65
+Marital Status: nan
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- Animal dander (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+- Eggs (edible) (substance)
+
+== Active Conditions / Problem List ==
+- Cerebral palsy (disorder)
+- Spasticity (finding)
+- Osteoporosis (disorder)
+- Epilepsy (disorder)
+- Intellectual disability (disorder)
+- Gastroesophageal reflux disease (disorder)
+- Pneumonia (disorder)
+- Perennial allergic rhinitis with seasonal variation
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+
+== Past Procedures ==
+- Allergy screening test (Date: 2018-10-04T23:35:20Z)
+- Subcutaneous immunotherapy (Date: 2018-10-28T00:14:35Z)
+- Subcutaneous immunotherapy (Date: 2018-11-18T01:06:36Z)
+- Subcutaneous immunotherapy (Date: 2018-12-11T02:03:26Z)
+- Subcutaneous immunotherapy (Date: 2019-01-02T02:57:58Z)
+- Subcutaneous immunotherapy (Date: 2019-01-24T03:41:36Z)
+- Subcutaneous immunotherapy (Date: 2019-02-20T04:35:41Z)
+- Subcutaneous immunotherapy (Date: 2019-03-17T05:01:18Z)
+- Subcutaneous immunotherapy (Date: 2019-04-11T05:55:56Z)
+- Subcutaneous immunotherapy (Date: 2019-05-08T06:18:00Z)
+- Subcutaneous immunotherapy (Date: 2019-05-30T07:06:02Z)
+- Subcutaneous immunotherapy (Date: 2019-06-21T07:37:20Z)
+- Subcutaneous immunotherapy (Date: 2019-07-12T07:56:22Z)
+- Subcutaneous immunotherapy (Date: 2019-08-07T08:43:34Z)
+- Subcutaneous immunotherapy (Date: 2019-09-02T09:41:29Z)
+- Subcutaneous immunotherapy (Date: 2019-09-24T10:40:16Z)
+- Subcutaneous immunotherapy (Date: 2019-10-20T11:23:23Z)
+- Subcutaneous immunotherapy (Date: 2019-11-13T11:54:34Z)
+- Subcutaneous immunotherapy (Date: 2019-12-10T12:18:29Z)
+- Subcutaneous immunotherapy (Date: 2020-01-03T12:52:30Z)
+- Subcutaneous immunotherapy (Date: 2020-01-25T13:47:13Z)
+- Subcutaneous immunotherapy (Date: 2020-02-21T14:43:52Z)
+- Subcutaneous immunotherapy (Date: 2020-03-19T15:30:28Z)
+- Subcutaneous immunotherapy (Date: 2020-04-13T16:15:16Z)
+- Subcutaneous immunotherapy (Date: 2020-05-08T17:07:15Z)
+- Subcutaneous immunotherapy (Date: 2020-06-03T17:45:16Z)
+- Subcutaneous immunotherapy (Date: 2020-06-30T18:09:46Z)
+- Subcutaneous immunotherapy (Date: 2020-07-27T18:29:18Z)
+- Subcutaneous immunotherapy (Date: 2020-08-22T19:29:02Z)
+- Subcutaneous immunotherapy (Date: 2020-09-16T20:06:23Z)
+- Subcutaneous immunotherapy (Date: 2020-10-11T21:01:32Z)
+- Subcutaneous immunotherapy (Date: 2020-11-03T21:34:26Z)
+- Subcutaneous immunotherapy (Date: 2020-11-24T21:54:16Z)
+- Subcutaneous immunotherapy (Date: 2020-12-15T22:36:15Z)
+- Subcutaneous immunotherapy (Date: 2021-01-06T23:20:07Z)
+- Subcutaneous immunotherapy (Date: 2021-02-01T00:08:03Z)
+- Subcutaneous immunotherapy (Date: 2021-02-22T00:31:59Z)
+- Subcutaneous immunotherapy (Date: 2021-03-21T01:07:34Z)
+- Subcutaneous immunotherapy (Date: 2021-04-15T01:23:01Z)
+- Subcutaneous immunotherapy (Date: 2021-05-11T02:18:17Z)
+- Subcutaneous immunotherapy (Date: 2021-06-02T02:56:37Z)
+- Subcutaneous immunotherapy (Date: 2021-06-29T03:15:48Z)
+- Subcutaneous immunotherapy (Date: 2021-07-25T04:01:39Z)
+- Subcutaneous immunotherapy (Date: 2021-08-16T04:35:26Z)
+- Subcutaneous immunotherapy (Date: 2021-09-06T05:17:40Z)
+- Subcutaneous immunotherapy (Date: 2021-09-30T05:54:33Z)
+- Subcutaneous immunotherapy (Date: 2021-10-26T06:18:42Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-26T06:18:42Z: Outpatient procedure
+- 2021-09-30T05:54:33Z: Outpatient procedure
+- 2021-09-06T05:17:40Z: Outpatient procedure
+- 2021-08-16T04:35:26Z: Outpatient procedure
+- 2021-07-25T04:01:39Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-09-29T23:35:20Z QOLS: 0.4 {score}
+- 2021-09-29T23:35:20Z QALY: 9.3 a
+- 2021-09-29T23:35:20Z DALY: 5.7 a
+- 2020-09-29T23:35:20Z QOLS: 0.5 {score}
+- 2020-09-29T23:35:20Z DALY: 5.2 a
+- 2020-09-29T23:35:20Z QALY: 8.8 a
+- 2019-09-29T23:35:20Z QALY: 8.4 a
+- 2019-09-29T23:35:20Z QOLS: 0.5 {score}
+- 2019-09-29T23:35:20Z DALY: 4.6 a
+- 2018-10-05T00:14:35Z Soybean IgE Ab in Serum: 0.0 kU/L

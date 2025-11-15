@@ -1,0 +1,69 @@
+== PATIENT RECORD: Lavern240 Gerlach374 (ID: 81271fc1-f27b-4a6a-49ca-f8d0ba9a55fb) ==
+
+== Demographics ==
+Patient ID: 81271fc1-f27b-4a6a-49ca-f8d0ba9a55fb
+Name: Lavern240 Gerlach374
+Gender: M
+Birthdate: 1980-04-04
+Address: 736 Bernhard Neck Unit 88
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Served in armed forces (finding)
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Stress (finding)
+- Major depression disorder
+- Social isolation (finding)
+- Part-time employment (finding)
+- Appendicitis
+- History of appendectomy
+- Body mass index 30+ - obesity (finding)
+- Full-time employment (finding)
+- Fracture of forearm
+- Not in labor force (finding)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Naproxen sodium 220 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Upper arm X-ray (Date: 2012-02-25T14:55:11Z)
+- Bone immobilization (Date: 2012-02-25T14:55:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-20T14:55:11Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-20T14:55:11Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-20T15:49:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-23T14:55:11Z)
+- Assessment of anxiety (procedure) (Date: 2017-06-23T15:38:26Z)
+- Assessment of substance use (procedure) (Date: 2017-06-23T15:54:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-06-23T16:07:53Z)
+- Sputum examination (procedure) (Date: 2019-02-10T03:55:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-10T14:55:11Z)
+- Assessment of anxiety (procedure) (Date: 2020-04-10T15:44:26Z)
+- Screening for domestic abuse (procedure) (Date: 2020-04-10T16:05:55Z)
+- Assessment of substance use (procedure) (Date: 2020-04-10T16:32:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-04-10T16:44:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-07-12T09:55:11Z: Encounter for symptom
+- 2020-04-10T14:55:11Z: General examination of patient (procedure)
+- 2019-02-15T14:55:11Z: Urgent care clinic (procedure)
+- 2019-02-10T03:55:11Z: Encounter for symptom
+- 2017-06-23T14:55:11Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-04-04T13:55:11Z QOLS: 0.4 {score}
+- 2021-04-04T13:55:11Z DALY: 13.9 a
+- 2021-04-04T13:55:11Z QALY: 26.1 a
+- 2020-07-12T09:55:11Z Body temperature: 37.4 Cel
+- 2020-04-10T17:11:54Z Total score [AUDIT-C]: 1.0 {score}
+- 2020-04-10T16:32:48Z Total score [HARK]: 0.0 {score}
+- 2020-04-10T16:05:55Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2020-04-10T15:44:26Z What is your main insurance?: Private insurance nan
+- 2020-04-10T15:44:26Z Are you worried about losing your housing?: Yes nan
+- 2020-04-10T15:44:26Z What address do you live at?: 736 Bernhard Neck Unit 88 nan

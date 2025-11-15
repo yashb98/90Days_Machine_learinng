@@ -1,0 +1,139 @@
+== PATIENT RECORD: Michelle423 Haley279 (ID: d6c850ad-7e48-0c4b-23b9-ef4d6e58773c) ==
+
+== Demographics ==
+Patient ID: d6c850ad-7e48-0c4b-23b9-ef4d6e58773c
+Name: Michelle423 Haley279
+Gender: F
+Birthdate: 1985-11-19
+Address: 239 Osinski Neck Unit 34
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Part-time employment (finding)
+- Hypertension
+- Victim of intimate partner abuse (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Normal pregnancy
+- Whiplash injury to neck
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Acute viral pharyngitis (disorder)
+- Stress (finding)
+- Cystitis
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Etonogestrel 68 MG Drug Implant
+- Ibuprofen 200 MG Oral Tablet
+- Camila 28 Day Pack
+- Mirena 52 MG Intrauterine System
+- Nitrofurantoin 5 MG/ML Oral Suspension
+- Phenazopyridine hydrochloride 100 MG Oral Tablet
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Streptococcus pneumoniae group B antigen test (Date: 2011-12-06T05:41:11Z)
+- Evaluation of uterine fundal height (Date: 2011-12-06T05:41:11Z)
+- Auscultation of the fetal heart (Date: 2011-12-06T05:41:11Z)
+- Evaluation of uterine fundal height (Date: 2011-12-20T05:41:11Z)
+- Auscultation of the fetal heart (Date: 2011-12-20T05:41:11Z)
+- Episiotomy (Date: 2011-12-27T05:41:11Z)
+- Childbirth (Date: 2011-12-27T05:41:11Z)
+- Physical examination following birth (Date: 2012-02-07T05:41:11Z)
+- Depression screening (Date: 2012-02-07T05:41:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-02-14T05:41:11Z)
+- Assessment of anxiety (procedure) (Date: 2012-02-14T06:25:13Z)
+- Insertion of intrauterine contraceptive device (Date: 2012-02-24T19:11:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-19T05:41:11Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-19T06:34:07Z)
+- Depression screening (procedure) (Date: 2013-02-19T07:03:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-19T07:16:12Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-09T05:41:11Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-12T06:21:04Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-15T07:06:55Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-18T08:01:21Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-21T08:43:07Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-24T09:25:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-25T05:41:11Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-27T10:02:18Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-03-02T10:36:13Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-25T06:29:44Z)
+- Depression screening (procedure) (Date: 2014-02-25T06:53:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-25T07:05:42Z)
+- Assessment of substance use (procedure) (Date: 2014-02-25T07:30:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-02-25T07:42:44Z)
+- Throat culture (procedure) (Date: 2014-03-25T03:41:11Z)
+- Insertion of intrauterine contraceptive device (Date: 2015-02-13T06:07:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-03T05:41:11Z)
+- Medication Reconciliation (procedure) (Date: 2015-03-03T05:41:11Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-03T06:14:06Z)
+- Depression screening (procedure) (Date: 2015-03-03T06:57:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-03T07:11:01Z)
+- Insertion of subcutaneous contraceptive (Date: 2016-02-08T07:07:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-03-08T05:41:11Z)
+- Assessment of anxiety (procedure) (Date: 2016-03-08T06:22:21Z)
+- Screening for domestic abuse (procedure) (Date: 2016-03-08T06:51:54Z)
+- Depression screening (procedure) (Date: 2016-03-08T07:29:59Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-03-08T07:40:20Z)
+- Replacement of contraceptive intrauterine device (Date: 2017-03-07T05:41:11Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-21T05:41:11Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-21T05:41:11Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-21T06:29:38Z)
+- Depression screening (procedure) (Date: 2017-03-21T06:51:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-21T07:04:46Z)
+- Assessment of substance use (procedure) (Date: 2017-03-21T07:26:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-03-21T07:41:06Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-27T05:41:11Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-27T05:41:11Z)
+- Depression screening (procedure) (Date: 2018-03-27T06:23:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-27T06:37:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-03-27T07:05:11Z)
+- Assessment of substance use (procedure) (Date: 2018-03-27T07:32:39Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-27T07:45:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-04-02T05:41:11Z)
+- Medication Reconciliation (procedure) (Date: 2019-04-02T05:41:11Z)
+- Depression screening (procedure) (Date: 2019-04-02T06:11:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-04-02T06:21:58Z)
+- Assessment of substance use (procedure) (Date: 2019-04-02T06:45:31Z)
+- Screening for drug abuse (procedure) (Date: 2019-04-02T06:58:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-07T05:41:11Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-07T05:41:11Z)
+- Screening for domestic abuse (procedure) (Date: 2020-04-07T06:25:17Z)
+- Depression screening (procedure) (Date: 2020-04-07T06:58:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-04-07T07:10:25Z)
+- Assessment of substance use (procedure) (Date: 2020-04-07T07:37:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-04-07T07:50:53Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-01-12T07:35:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-04-13T05:41:11Z)
+- Medication Reconciliation (procedure) (Date: 2021-04-13T05:41:11Z)
+- Assessment of anxiety (procedure) (Date: 2021-04-13T06:18:57Z)
+- Depression screening (procedure) (Date: 2021-04-13T06:47:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-04-13T07:02:06Z)
+- Assessment of substance use (procedure) (Date: 2021-04-13T07:30:15Z)
+- Screening for drug abuse (procedure) (Date: 2021-04-13T07:44:53Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-14T05:41:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-24T05:41:11Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-13T05:41:11Z: General examination of patient (procedure)
+- 2021-01-12T07:35:47Z: Consultation for treatment
+- 2020-04-07T05:41:11Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-11-19T05:41:11Z QOLS: 1.0 {score}
+- 2021-11-19T05:41:11Z DALY: 0.0 a
+- 2021-11-19T05:41:11Z QALY: 35.0 a
+- 2021-04-13T08:14:16Z Total score [DAST-10]: 0.0 {score}
+- 2021-04-13T07:30:15Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-04-13T06:47:25Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 8.0 {score}
+- 2021-04-13T06:18:57Z Which race(s) are you?: White nan
+- 2021-04-13T06:18:57Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan
+- 2021-04-13T06:18:57Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-04-13T06:18:57Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

@@ -1,0 +1,44 @@
+== PATIENT RECORD: Reta616 West559 (ID: 19d74a46-a73e-9493-1eb8-e40b39f89db8) ==
+
+== Demographics ==
+Patient ID: 19d74a46-a73e-9493-1eb8-e40b39f89db8
+Name: Reta616 West559
+Gender: F
+Birthdate: 2020-03-27
+Address: 282 Metz Run Unit 17
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+None on record.
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2020-05-01T07:55:36Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-03T07:55:36Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-05T07:55:36Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-04T07:55:36Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-03T07:55:36Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-03T07:55:36Z: Well child visit (procedure)
+- 2021-06-04T07:55:36Z: Well child visit (procedure)
+- 2021-03-05T07:55:36Z: Well child visit (procedure)
+- 2020-12-04T07:55:36Z: Well child visit (procedure)
+- 2020-09-04T07:55:36Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-09-03T07:55:36Z Weight-for-length Per age and sex: 51.1 %
+- 2021-09-03T07:55:36Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-09-03T07:55:36Z Respiratory rate: 13.0 /min
+- 2021-09-03T07:55:36Z Heart rate: 73.0 /min
+- 2021-09-03T07:55:36Z Systolic Blood Pressure: 126.0 mm[Hg]
+- 2021-09-03T07:55:36Z Diastolic Blood Pressure: 77.0 mm[Hg]
+- 2021-09-03T07:55:36Z Head Occipital-frontal circumference: 48.0 cm
+- 2021-09-03T07:55:36Z Body Weight: 11.6 kg
+- 2021-09-03T07:55:36Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-09-03T07:55:36Z Body Height: 83.7 cm

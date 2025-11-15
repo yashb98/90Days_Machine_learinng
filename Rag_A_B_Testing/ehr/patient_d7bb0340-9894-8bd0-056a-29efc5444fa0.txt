@@ -1,0 +1,175 @@
+== PATIENT RECORD: Heath320 King743 (ID: d7bb0340-9894-8bd0-056a-29efc5444fa0) ==
+
+== Demographics ==
+Patient ID: d7bb0340-9894-8bd0-056a-29efc5444fa0
+Name: Heath320 King743
+Gender: M
+Birthdate: 2000-05-04
+Address: 1011 Emmerich Frontage road Apt 78
+Marital Status: nan
+
+== Allergies ==
+- Bee venom (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Lisinopril
+- Shellfish (substance)
+- Tree nut (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Seasonal allergic rhinitis
+- Streptococcal sore throat (disorder)
+- Risk activity involvement (finding)
+- Acute viral pharyngitis (disorder)
+- Housing unsatisfactory (finding)
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-05-25T01:04:43Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-25T01:04:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-05-25T01:19:27Z)
+- Assessment of substance use (procedure) (Date: 2012-05-25T01:45:14Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-05-25T01:55:27Z)
+- Anticipatory guidance (procedure) (Date: 2012-05-25T02:08:03Z)
+- Allergy screening test (Date: 2013-05-10T01:04:43Z)
+- Assessment of anxiety (procedure) (Date: 2013-05-31T01:04:43Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-31T01:04:43Z)
+- Depression screening (procedure) (Date: 2013-05-31T01:24:48Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-31T01:35:53Z)
+- Assessment of substance use (procedure) (Date: 2013-05-31T02:04:35Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-05-31T02:19:22Z)
+- Anticipatory guidance (procedure) (Date: 2013-05-31T02:48:25Z)
+- Subcutaneous immunotherapy (Date: 2013-06-01T01:31:29Z)
+- Subcutaneous immunotherapy (Date: 2013-06-22T02:19:12Z)
+- Subcutaneous immunotherapy (Date: 2013-07-16T02:46:04Z)
+- Subcutaneous immunotherapy (Date: 2013-08-10T03:19:24Z)
+- Subcutaneous immunotherapy (Date: 2013-09-05T03:43:06Z)
+- Subcutaneous immunotherapy (Date: 2013-09-27T04:26:21Z)
+- Subcutaneous immunotherapy (Date: 2013-10-24T05:14:00Z)
+- Subcutaneous immunotherapy (Date: 2013-11-17T05:34:59Z)
+- Subcutaneous immunotherapy (Date: 2013-12-11T06:18:40Z)
+- Subcutaneous immunotherapy (Date: 2014-01-05T07:17:32Z)
+- Subcutaneous immunotherapy (Date: 2014-01-31T07:49:29Z)
+- Subcutaneous immunotherapy (Date: 2014-02-22T08:27:11Z)
+- Subcutaneous immunotherapy (Date: 2014-03-17T09:07:57Z)
+- Subcutaneous immunotherapy (Date: 2014-04-10T09:33:01Z)
+- Subcutaneous immunotherapy (Date: 2014-05-04T09:56:57Z)
+- Depression screening (procedure) (Date: 2014-06-06T01:04:43Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-06T01:04:43Z)
+- Subcutaneous immunotherapy (Date: 2014-05-30T10:41:38Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-06-06T01:14:47Z)
+- Subcutaneous immunotherapy (Date: 2014-06-22T10:59:04Z)
+- Depression screening (procedure) (Date: 2014-07-18T01:04:43Z)
+- Subcutaneous immunotherapy (Date: 2014-07-13T11:25:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-18T01:14:45Z)
+- Assessment of substance use (procedure) (Date: 2014-07-18T01:42:23Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-07-18T01:55:04Z)
+- Anticipatory guidance (procedure) (Date: 2014-07-18T02:21:29Z)
+- Subcutaneous immunotherapy (Date: 2014-08-06T11:42:42Z)
+- Subcutaneous immunotherapy (Date: 2014-09-01T12:26:53Z)
+- Subcutaneous immunotherapy (Date: 2014-09-25T12:46:30Z)
+- Subcutaneous immunotherapy (Date: 2014-10-16T13:10:44Z)
+- Subcutaneous immunotherapy (Date: 2014-11-09T14:03:03Z)
+- Subcutaneous immunotherapy (Date: 2014-11-30T14:34:44Z)
+- Subcutaneous immunotherapy (Date: 2014-12-23T15:08:59Z)
+- Subcutaneous immunotherapy (Date: 2015-01-13T15:29:14Z)
+- Subcutaneous immunotherapy (Date: 2015-02-07T16:17:05Z)
+- Subcutaneous immunotherapy (Date: 2015-03-05T16:42:57Z)
+- Subcutaneous immunotherapy (Date: 2015-03-28T17:32:11Z)
+- Subcutaneous immunotherapy (Date: 2015-04-22T18:02:57Z)
+- Subcutaneous immunotherapy (Date: 2015-05-18T18:43:33Z)
+- Depression screening (procedure) (Date: 2015-06-12T01:04:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-06-12T01:18:21Z)
+- Assessment of substance use (procedure) (Date: 2015-06-12T01:46:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-06-12T02:00:33Z)
+- Health risks education (procedure) (Date: 2015-06-12T02:14:22Z)
+- Subcutaneous immunotherapy (Date: 2015-06-12T19:00:25Z)
+- Subcutaneous immunotherapy (Date: 2015-07-03T19:16:16Z)
+- Subcutaneous immunotherapy (Date: 2015-07-25T19:33:23Z)
+- Subcutaneous immunotherapy (Date: 2015-08-21T20:12:29Z)
+- Subcutaneous immunotherapy (Date: 2015-09-13T20:44:51Z)
+- Subcutaneous immunotherapy (Date: 2015-10-10T21:40:40Z)
+- Subcutaneous immunotherapy (Date: 2015-11-02T22:20:19Z)
+- Subcutaneous immunotherapy (Date: 2015-11-26T23:15:44Z)
+- Subcutaneous immunotherapy (Date: 2015-12-19T23:49:25Z)
+- Subcutaneous immunotherapy (Date: 2016-01-13T00:24:18Z)
+- Subcutaneous immunotherapy (Date: 2016-02-04T01:07:01Z)
+- Subcutaneous immunotherapy (Date: 2016-03-02T01:57:45Z)
+- Subcutaneous immunotherapy (Date: 2016-03-29T02:45:09Z)
+- Subcutaneous immunotherapy (Date: 2016-04-22T03:16:32Z)
+- Subcutaneous immunotherapy (Date: 2016-05-15T03:51:45Z)
+- Subcutaneous immunotherapy (Date: 2016-06-05T04:40:26Z)
+- Depression screening (procedure) (Date: 2016-06-17T01:04:43Z)
+- Medication Reconciliation (procedure) (Date: 2016-06-17T01:04:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-06-17T01:17:08Z)
+- Assessment of substance use (procedure) (Date: 2016-06-17T01:43:37Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-06-17T01:58:28Z)
+- Anticipatory guidance (procedure) (Date: 2016-06-17T02:26:23Z)
+- Subcutaneous immunotherapy (Date: 2016-06-28T05:18:38Z)
+- Subcutaneous immunotherapy (Date: 2016-07-20T06:16:37Z)
+- Subcutaneous immunotherapy (Date: 2016-08-12T06:44:21Z)
+- Subcutaneous immunotherapy (Date: 2016-09-03T07:25:15Z)
+- Subcutaneous immunotherapy (Date: 2016-09-30T08:10:16Z)
+- Subcutaneous immunotherapy (Date: 2016-10-27T08:45:03Z)
+- Subcutaneous immunotherapy (Date: 2016-11-21T09:18:56Z)
+- Subcutaneous immunotherapy (Date: 2016-12-12T10:17:24Z)
+- Subcutaneous immunotherapy (Date: 2017-01-08T10:50:03Z)
+- Subcutaneous immunotherapy (Date: 2017-01-31T11:46:27Z)
+- Subcutaneous immunotherapy (Date: 2017-02-23T12:27:52Z)
+- Subcutaneous immunotherapy (Date: 2017-03-16T13:12:47Z)
+- Subcutaneous immunotherapy (Date: 2017-04-12T14:09:30Z)
+- Allergy screening test (Date: 2017-05-04T14:48:59Z)
+- Depression screening (procedure) (Date: 2017-06-23T01:04:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-06-23T01:18:14Z)
+- Depression screening (procedure) (Date: 2017-11-24T01:04:43Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-24T01:04:43Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-11-24T01:15:44Z)
+- Assessment of substance use (procedure) (Date: 2017-11-24T01:43:33Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-11-24T01:54:08Z)
+- Anticipatory guidance (procedure) (Date: 2017-11-24T02:16:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-29T01:04:43Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-29T01:59:59Z)
+- Depression screening (procedure) (Date: 2018-06-29T02:23:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-06-29T02:35:23Z)
+- Assessment of substance use (procedure) (Date: 2018-06-29T03:02:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-06-29T03:16:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-05T01:04:43Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-05T01:40:31Z)
+- Depression screening (procedure) (Date: 2019-07-05T01:57:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-05T02:08:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-07-05T02:35:46Z)
+- Assessment of substance use (procedure) (Date: 2019-07-05T03:01:16Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-07-05T03:12:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-04T01:04:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-14T01:04:43Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-07-05T01:04:43Z: General examination of patient (procedure)
+- 2018-11-09T01:04:43Z: Urgent care clinic (procedure)
+- 2018-10-29T12:04:43Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-05-05T01:04:43Z QOLS: 1.0 {score}
+- 2021-05-05T01:04:43Z DALY: 0.5 a
+- 2021-05-05T01:04:43Z QALY: 19.5 a
+- 2020-05-05T01:04:43Z QOLS: 1.0 {score}
+- 2020-05-05T01:04:43Z DALY: 0.5 a
+- 2020-05-05T01:04:43Z QALY: 18.5 a
+- 2019-07-05T03:37:42Z Total score [AUDIT-C]: 3.0 {score}
+- 2019-07-05T03:01:16Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 9.0 {score}
+- 2019-07-05T02:35:46Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 4.0 {score}
+- 2019-07-05T01:57:00Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}

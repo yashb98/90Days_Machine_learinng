@@ -1,0 +1,140 @@
+== PATIENT RECORD: Claude750 Nikolaus26 (ID: eb2f8ba1-fd23-fdbb-dbe3-484a3d58244e) ==
+
+== Demographics ==
+Patient ID: eb2f8ba1-fd23-fdbb-dbe3-484a3d58244e
+Name: Claude750 Nikolaus26
+Gender: F
+Birthdate: 1913-06-22
+Address: 971 Schoen Green
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Body mass index 30+ - obesity (finding)
+- Chronic sinusitis (disorder)
+- Hyperlipidemia
+- Osteoporosis (disorder)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Whiplash injury to neck
+- Closed fracture of hip
+- Pathological fracture due to osteoporosis (disorder)
+- Laceration of thigh
+- Not in labor force (finding)
+- Viral sinusitis (disorder)
+- Concussion with no loss of consciousness
+- Coronary Heart Disease
+- Limited social contact (finding)
+
+== Current Medications ==
+- Simvastatin 10 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Simvastatin 20 MG Oral Tablet
+- Amlodipine 5 MG Oral Tablet
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-26T04:30:47Z)
+- Depression screening (procedure) (Date: 2012-03-26T05:22:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-26T05:36:14Z)
+- Assessment of substance use (procedure) (Date: 2012-03-26T06:01:52Z)
+- Screening for drug abuse (procedure) (Date: 2012-03-26T06:12:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-04-01T04:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-04-01T04:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2013-04-01T05:20:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-04-01T05:40:31Z)
+- Depression screening (procedure) (Date: 2013-04-01T06:05:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-04-01T06:19:04Z)
+- Assessment of substance use (procedure) (Date: 2013-04-01T06:44:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-04-01T06:57:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-07T04:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-07T05:12:28Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-04-07T05:32:03Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-07T05:57:52Z)
+- Depression screening (procedure) (Date: 2014-04-07T06:24:27Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-07T06:38:21Z)
+- Assessment of substance use (procedure) (Date: 2014-04-07T07:01:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-07T07:15:08Z)
+- Pelvis X-ray (Date: 2014-04-23T08:09:38Z)
+- Admission to orthopedic department (Date: 2014-04-23T08:09:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-13T04:30:47Z)
+- Suture open wound (Date: 2015-04-09T09:17:38Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-13T04:30:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2015-04-13T05:22:48Z)
+- Screening for domestic abuse (procedure) (Date: 2015-04-13T05:51:47Z)
+- Assessment of substance use (procedure) (Date: 2015-04-13T06:31:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-04-13T06:41:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-18T04:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2016-04-18T04:30:47Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-18T05:23:44Z)
+- Depression screening (procedure) (Date: 2016-04-18T05:58:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-18T06:10:58Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-04-18T06:37:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-24T04:30:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-04-24T05:02:45Z)
+- Depression screening (procedure) (Date: 2017-04-24T05:32:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-24T05:47:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-30T04:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-30T05:05:32Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-04-30T05:33:08Z)
+- Screening for domestic abuse (procedure) (Date: 2018-04-30T05:52:58Z)
+- Depression screening (procedure) (Date: 2018-04-30T06:36:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-04-30T06:47:25Z)
+- Assessment of substance use (procedure) (Date: 2018-04-30T07:09:36Z)
+- Screening for drug abuse (procedure) (Date: 2018-04-30T07:23:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-06T04:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-06T04:30:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-05-06T05:29:19Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-06T05:55:15Z)
+- Depression screening (procedure) (Date: 2019-05-06T06:39:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-06T06:52:12Z)
+- Assessment of substance use (procedure) (Date: 2019-05-06T07:16:32Z)
+- Screening for drug abuse (procedure) (Date: 2019-05-06T07:28:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-25T04:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-25T04:30:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-11-25T05:10:18Z)
+- Screening for domestic abuse (procedure) (Date: 2019-11-25T05:28:32Z)
+- Depression screening (procedure) (Date: 2019-11-25T05:59:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-25T06:13:35Z)
+- Assessment of substance use (procedure) (Date: 2019-11-25T06:35:00Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-25T06:49:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-11T04:30:47Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-11T05:24:09Z)
+- Depression screening (procedure) (Date: 2020-05-11T05:50:39Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-11T06:02:31Z)
+- Assessment of substance use (procedure) (Date: 2020-05-11T06:22:48Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-11T06:34:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-17T04:30:47Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-17T04:30:47Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-05-17T05:22:39Z)
+- Depression screening (procedure) (Date: 2021-05-17T05:42:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-17T05:52:58Z)
+- Assessment of substance use (procedure) (Date: 2021-05-17T06:16:17Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-17T06:29:03Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-16T04:30:47Z: Follow-up encounter
+- 2021-05-17T04:30:47Z: General examination of patient (procedure)
+- 2021-03-29T04:30:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-01T04:30:47Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-16T04:30:47Z: Follow-up encounter
+
+== Recent Observations (Last 10) ==
+- 2021-09-16T04:30:47Z Glucose: 68.6 mg/dL
+- 2021-09-16T04:30:47Z Bilirubin.total [Mass/volume] in Serum or Plasma: 0.5 mg/dL
+- 2021-09-16T04:30:47Z Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 48.0 U/L
+- 2021-09-16T04:30:47Z Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma: 18.0 U/L
+- 2021-09-16T04:30:47Z Total Cholesterol: 208.7 mg/dL
+- 2021-09-16T04:30:47Z Triglycerides: 171.7 mg/dL
+- 2021-09-16T04:30:47Z Low Density Lipoprotein Cholesterol: 145.2 mg/dL
+- 2021-09-16T04:30:47Z High Density Lipoprotein Cholesterol: 48.5 mg/dL
+- 2021-09-16T04:30:47Z Globulin [Mass/volume] in Serum by calculation: 2.1 g/L
+- 2021-09-16T04:30:47Z Albumin [Mass/volume] in Serum or Plasma: 3.5 g/dL

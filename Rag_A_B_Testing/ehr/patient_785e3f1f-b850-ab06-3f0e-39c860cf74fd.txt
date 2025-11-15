@@ -1,0 +1,129 @@
+== PATIENT RECORD: Justin359 Larson43 (ID: 785e3f1f-b850-ab06-3f0e-39c860cf74fd) ==
+
+== Demographics ==
+Patient ID: 785e3f1f-b850-ab06-3f0e-39c860cf74fd
+Name: Justin359 Larson43
+Gender: M
+Birthdate: 1993-01-07
+Address: 1058 Cassin Estate Apt 21
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Chronic neck pain (finding)
+- Social isolation (finding)
+- Acute bronchitis (disorder)
+- Not in labor force (finding)
+- Streptococcal sore throat (disorder)
+- Limited social contact (finding)
+- Unhealthy alcohol drinking behavior (finding)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Fatigue (finding)
+- Fever (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Acetaminophen 325 MG Oral Tablet
+- Penicillin V Potassium 500 MG Oral Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-08T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2012-03-08T16:07:13Z)
+- Depression screening (procedure) (Date: 2012-03-08T16:25:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-08T16:38:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-24T15:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-24T15:15:24Z)
+- Screening for domestic abuse (procedure) (Date: 2014-04-24T16:08:14Z)
+- Depression screening (procedure) (Date: 2014-04-24T16:44:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-24T16:54:36Z)
+- Assessment of substance use (procedure) (Date: 2014-04-24T17:21:30Z)
+- Screening for drug abuse (procedure) (Date: 2014-04-24T17:34:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-30T15:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-30T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-30T15:59:54Z)
+- Assessment of substance use (procedure) (Date: 2015-04-30T16:19:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-04-30T16:32:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-05T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-05T16:05:38Z)
+- Depression screening (procedure) (Date: 2016-05-05T16:26:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-05-05T16:39:54Z)
+- Assessment of substance use (procedure) (Date: 2016-05-05T17:03:42Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-05-05T17:16:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-11T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-11T15:46:17Z)
+- Depression screening (procedure) (Date: 2017-05-11T16:03:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-11T16:16:09Z)
+- Assessment of substance use (procedure) (Date: 2017-05-11T16:43:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-05-11T16:54:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-01T15:15:24Z)
+- Depression screening (procedure) (Date: 2017-06-01T16:11:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-01T16:24:50Z)
+- Assessment of substance use (procedure) (Date: 2017-06-01T16:50:49Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-01T17:04:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-11-09T15:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-09T15:15:24Z)
+- Depression screening (procedure) (Date: 2017-11-09T16:04:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-11-09T16:17:15Z)
+- Assessment of substance use (procedure) (Date: 2017-11-09T16:45:46Z)
+- Screening for drug abuse (procedure) (Date: 2017-11-09T16:59:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-17T15:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-17T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-17T16:15:23Z)
+- Depression screening (procedure) (Date: 2018-05-17T16:40:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-17T16:55:25Z)
+- Assessment of substance use (procedure) (Date: 2018-05-17T17:18:05Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-05-17T17:30:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-23T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-23T16:01:41Z)
+- Depression screening (procedure) (Date: 2019-05-23T16:24:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-23T16:38:44Z)
+- Assessment of substance use (procedure) (Date: 2019-05-23T17:03:22Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-23T17:13:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-28T15:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-05-28T15:15:24Z)
+- Screening for domestic abuse (procedure) (Date: 2020-05-28T15:48:20Z)
+- Measurement of respiratory function (procedure) (Date: 2020-07-28T18:15:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-06T15:15:24Z)
+- Medication Reconciliation (procedure) (Date: 2020-08-06T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-06T16:10:09Z)
+- Depression screening (procedure) (Date: 2020-08-06T16:30:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-06T16:43:17Z)
+- Assessment of substance use (procedure) (Date: 2020-08-06T17:07:17Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-06T17:19:37Z)
+- Face mask (physical object) (Date: 2020-09-26T15:15:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-03T15:15:24Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-03T15:50:39Z)
+- Depression screening (procedure) (Date: 2021-06-03T16:19:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-03T16:29:24Z)
+- Assessment of substance use (procedure) (Date: 2021-06-03T16:54:40Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-03T17:04:55Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-03T15:15:24Z: General examination of patient (procedure)
+- 2020-09-26T15:15:24Z: Encounter for symptom (procedure)
+- 2020-08-06T15:15:24Z: Encounter for check up (procedure)
+- 2020-07-28T18:15:24Z: Encounter for symptom
+- 2020-05-28T15:15:24Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-03T17:27:36Z Total score [DAST-10]: 0.0 {score}
+- 2021-06-03T16:54:40Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-06-03T16:19:13Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 2.0 {score}
+- 2021-06-03T15:50:39Z Have you been discharged from the armed forces of the United States?: No nan
+- 2021-06-03T15:50:39Z What address do you live at?: 1058 Cassin Estate Apt 21 nan
+- 2021-06-03T15:50:39Z What is your housing situation today?: I have housing nan
+- 2021-06-03T15:50:39Z How many family members  including yourself  do you currently live with?: 5.0 {#}
+- 2021-06-03T15:50:39Z What language are you most comfortable speaking?: English nan
+- 2021-06-03T15:50:39Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-03T15:50:39Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: Yes nan

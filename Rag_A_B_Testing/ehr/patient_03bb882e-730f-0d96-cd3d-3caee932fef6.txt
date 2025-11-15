@@ -1,0 +1,133 @@
+== PATIENT RECORD: Regenia619 Gibson10 (ID: 03bb882e-730f-0d96-cd3d-3caee932fef6) ==
+
+== Demographics ==
+Patient ID: 03bb882e-730f-0d96-cd3d-3caee932fef6
+Name: Regenia619 Gibson10
+Gender: F
+Birthdate: 1956-12-30
+Address: 906 Mertz Divide Unit 26
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received higher education (finding)
+- Miscarriage in first trimester
+- Tubal pregnancy
+- Stress (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Limited social contact (finding)
+- Full-time employment (finding)
+- Viral sinusitis (disorder)
+- Polyp of colon
+- Unhealthy alcohol drinking behavior (finding)
+- Not in labor force (finding)
+- Sepsis (disorder)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Laceration of hand
+- Second degree burn
+- Acute bronchitis (disorder)
+- Sprain of ankle
+
+== Current Medications ==
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+- Meperidine Hydrochloride 50 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Colonoscopy (Date: 2011-12-31T17:17:05Z)
+- Screening for occult blood in feces (procedure) (Date: 2011-12-31T18:01:57Z)
+- Rectal polypectomy (Date: 2011-12-31T18:01:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-01-29T16:46:01Z)
+- Medication Reconciliation (procedure) (Date: 2012-01-29T16:46:01Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-29T17:29:21Z)
+- Depression screening (procedure) (Date: 2012-01-29T17:51:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-29T18:05:56Z)
+- Colonoscopy (Date: 2013-01-16T18:01:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-03T16:46:01Z)
+- Assessment of substance use (procedure) (Date: 2013-02-03T17:32:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-02-03T17:45:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-09T16:46:01Z)
+- Depression screening (procedure) (Date: 2014-02-09T17:18:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-09T17:32:37Z)
+- Assessment of substance use (procedure) (Date: 2014-02-09T17:59:07Z)
+- Screening for drug abuse (procedure) (Date: 2014-02-09T18:14:05Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2014-07-29T16:46:01Z)
+- Transfer to stepdown unit (procedure) (Date: 2014-07-29T17:16:01Z)
+- Admit to ICU (procedure) (Date: 2014-08-03T22:46:01Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2014-08-03T23:16:01Z)
+- Transfer to stepdown unit (procedure) (Date: 2014-08-05T21:46:01Z)
+- Admit to ICU (procedure) (Date: 2014-08-15T17:16:01Z)
+- Resuscitation using intravenous fluid (procedure) (Date: 2014-08-15T17:46:01Z)
+- Transfer to stepdown unit (procedure) (Date: 2014-08-17T17:16:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-15T16:46:01Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-15T17:38:20Z)
+- Depression screening (procedure) (Date: 2015-02-15T17:56:14Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-15T18:08:30Z)
+- Assessment of substance use (procedure) (Date: 2015-02-15T18:30:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-02-15T18:42:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-21T16:46:01Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-21T16:46:01Z)
+- Screening for domestic abuse (procedure) (Date: 2016-02-21T17:16:33Z)
+- Depression screening (procedure) (Date: 2016-02-21T17:56:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-21T18:07:59Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-02-21T18:36:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-26T16:46:01Z)
+- Assessment of substance use (procedure) (Date: 2017-02-26T17:40:32Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-02-26T17:53:28Z)
+- Suture open wound (Date: 2017-03-30T22:16:54Z)
+- Colonoscopy (Date: 2018-01-16T18:38:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-03-04T16:46:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-04T16:46:01Z)
+- Depression screening (procedure) (Date: 2018-03-04T17:25:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-03-04T17:38:17Z)
+- Assessment of substance use (procedure) (Date: 2018-03-04T18:01:26Z)
+- Screening for drug abuse (procedure) (Date: 2018-03-04T18:13:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-05-20T16:46:01Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-20T16:46:01Z)
+- Assessment of anxiety (procedure) (Date: 2018-05-20T17:32:29Z)
+- Screening for domestic abuse (procedure) (Date: 2018-05-20T17:50:23Z)
+- Depression screening (procedure) (Date: 2018-05-20T18:20:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-05-20T18:33:41Z)
+- Assessment of substance use (procedure) (Date: 2018-05-20T18:54:15Z)
+- Screening for drug abuse (procedure) (Date: 2018-05-20T19:06:05Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-10T16:46:01Z)
+- Depression screening (procedure) (Date: 2019-03-10T17:26:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-10T17:38:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-15T16:46:01Z)
+- Medication Reconciliation (procedure) (Date: 2020-03-15T16:46:01Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-15T17:18:27Z)
+- Depression screening (procedure) (Date: 2020-03-15T17:48:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-15T17:59:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-21T16:46:01Z)
+- Depression screening (procedure) (Date: 2021-03-21T17:39:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-21T17:54:10Z)
+- Assessment of substance use (procedure) (Date: 2021-03-21T18:19:54Z)
+- Screening for drug abuse (procedure) (Date: 2021-03-21T18:34:27Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-03T16:46:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-05T16:46:01Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-16T22:31:45Z: Emergency room admission (procedure)
+- 2021-03-21T16:46:01Z: General examination of patient (procedure)
+- 2020-03-15T16:46:01Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-03-21T19:02:06Z Total score [DAST-10]: 2.0 {score}
+- 2021-03-21T18:19:54Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-03-21T17:39:49Z What is your main insurance?: Private insurance nan
+- 2021-03-21T17:39:49Z What address do you live at?: 906 Mertz Divide Unit 26 nan
+- 2021-03-21T17:39:49Z What language are you most comfortable speaking?: English nan
+- 2021-03-21T17:39:49Z How many family members  including yourself  do you currently live with?: 6.0 {#}
+- 2021-03-21T17:39:49Z What is your housing situation today?: I have housing nan
+- 2021-03-21T17:39:49Z Are you worried about losing your housing?: No nan
+- 2021-03-21T17:39:49Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-21T17:39:49Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

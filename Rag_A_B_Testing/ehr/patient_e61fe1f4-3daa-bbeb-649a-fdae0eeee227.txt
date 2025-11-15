@@ -1,0 +1,55 @@
+== PATIENT RECORD: Hilario934 Stroman228 (ID: e61fe1f4-3daa-bbeb-649a-fdae0eeee227) ==
+
+== Demographics ==
+Patient ID: e61fe1f4-3daa-bbeb-649a-fdae0eeee227
+Name: Hilario934 Stroman228
+Gender: M
+Birthdate: 2013-07-16
+Address: 423 Johns Esplanade Suite 26
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Viral sinusitis (disorder)
+- Fracture of ankle
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-10-22T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-24T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-23T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-22T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-20T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-26T20:45:12Z)
+- Ankle X-ray (Date: 2019-02-07T20:45:12Z)
+- Bone immobilization (Date: 2019-02-07T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-02T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2020-07-07T20:45:12Z)
+- Medication Reconciliation (procedure) (Date: 2021-07-13T20:45:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-07-13T20:45:12Z: Well child visit (procedure)
+- 2021-01-13T09:45:12Z: Encounter for symptom
+- 2020-07-07T20:45:12Z: Well child visit (procedure)
+- 2019-08-27T20:45:12Z: Urgent care clinic (procedure)
+- 2019-08-17T08:45:12Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-07-16T20:45:12Z QOLS: 1.0 {score}
+- 2021-07-16T20:45:12Z QALY: 7.0 a
+- 2021-07-16T20:45:12Z DALY: 0.0 a
+- 2021-07-13T20:45:12Z Body Height: 130.8 cm
+- 2021-07-13T20:45:12Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-07-13T20:45:12Z Body Weight: 26.9 kg
+- 2021-07-13T20:45:12Z Body Mass Index: 15.7 kg/m2
+- 2021-07-13T20:45:12Z Body mass index (BMI) [Percentile] Per age and gender: 49.6 %
+- 2021-07-13T20:45:12Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-07-13T20:45:12Z Heart rate: 92.0 /min

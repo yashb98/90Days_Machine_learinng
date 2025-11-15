@@ -1,0 +1,127 @@
+== PATIENT RECORD: Mariella503 Berge125 (ID: 93d970b1-94b9-8455-de35-0bcc1a45eb7b) ==
+
+== Demographics ==
+Patient ID: 93d970b1-94b9-8455-de35-0bcc1a45eb7b
+Name: Mariella503 Berge125
+Gender: F
+Birthdate: 2003-11-01
+Address: 713 Goodwin Alley Apt 1
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Fracture of clavicle
+- Viral sinusitis (disorder)
+- Acute bronchitis (disorder)
+- Normal pregnancy
+- Preeclampsia
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- Yaz 28 Day Pack
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Clavicle X-ray (Date: 2012-05-09T17:04:47Z)
+- Admission to orthopedic department (Date: 2012-05-09T17:04:47Z)
+- Medication Reconciliation (procedure) (Date: 2013-11-09T17:04:47Z)
+- Assessment of anxiety (procedure) (Date: 2015-11-21T17:04:47Z)
+- Depression screening (procedure) (Date: 2015-11-21T17:19:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-11-21T17:34:08Z)
+- Assessment of substance use (procedure) (Date: 2015-11-21T17:57:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-11-21T18:11:27Z)
+- Anticipatory guidance (procedure) (Date: 2015-11-21T18:37:10Z)
+- Measurement of respiratory function (procedure) (Date: 2016-03-01T02:32:25Z)
+- Depression screening (procedure) (Date: 2016-03-05T17:04:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-03-05T17:17:11Z)
+- Assessment of anxiety (procedure) (Date: 2016-11-26T17:04:47Z)
+- Depression screening (procedure) (Date: 2016-11-26T17:29:20Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-26T17:41:10Z)
+- Assessment of substance use (procedure) (Date: 2016-11-26T18:04:46Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-11-26T18:16:59Z)
+- Anticipatory guidance (procedure) (Date: 2016-11-26T18:27:00Z)
+- Depression screening (procedure) (Date: 2017-12-02T17:04:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-12-02T17:17:06Z)
+- Assessment of substance use (procedure) (Date: 2017-12-02T17:37:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2017-12-02T17:51:10Z)
+- Anticipatory guidance (procedure) (Date: 2017-12-02T18:09:04Z)
+- Assessment of anxiety (procedure) (Date: 2018-12-08T17:04:47Z)
+- Assessment of substance use (procedure) (Date: 2018-12-08T17:26:15Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-12-08T17:40:32Z)
+- Anticipatory guidance (procedure) (Date: 2018-12-08T17:58:49Z)
+- Depression screening (procedure) (Date: 2019-12-14T17:04:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-12-14T17:18:17Z)
+- Assessment of substance use (procedure) (Date: 2019-12-14T17:47:48Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-12-14T18:01:59Z)
+- Anticipatory guidance (procedure) (Date: 2019-12-14T18:27:34Z)
+- Depression screening (procedure) (Date: 2020-12-19T17:04:47Z)
+- Medication Reconciliation (procedure) (Date: 2020-12-19T17:04:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-12-19T17:19:40Z)
+- Assessment of substance use (procedure) (Date: 2020-12-19T17:43:09Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-12-19T17:55:24Z)
+- Anticipatory guidance (procedure) (Date: 2020-12-19T18:05:57Z)
+- Standard pregnancy test (Date: 2021-04-24T17:04:47Z)
+- Ultrasound scan for fetal viability (Date: 2021-04-24T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-04-24T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-04-24T17:04:47Z)
+- Blood typing  RH typing (Date: 2021-04-24T17:04:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-04-24T17:04:47Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2021-04-24T17:04:47Z)
+- Human immunodeficiency virus antigen test (Date: 2021-04-24T17:04:47Z)
+- Chlamydia antigen test (Date: 2021-04-24T17:04:47Z)
+- Gonorrhea infection test (Date: 2021-04-24T17:04:47Z)
+- Syphilis infection test (Date: 2021-04-24T17:04:47Z)
+- Urine culture (Date: 2021-04-24T17:04:47Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2021-04-24T17:04:47Z)
+- Urine screening test for diabetes (Date: 2021-04-24T17:04:47Z)
+- Hepatitis C antibody test (Date: 2021-04-24T17:04:47Z)
+- Rubella screening (Date: 2021-04-24T17:04:47Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2021-04-24T17:04:47Z)
+- Skin test for tuberculosis (Date: 2021-04-24T17:04:47Z)
+- Urine protein test (Date: 2021-04-24T17:04:47Z)
+- Physical examination of mother (Date: 2021-04-24T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-05-22T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-05-22T17:04:47Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2021-05-22T17:04:47Z)
+- Fetal anatomy study (Date: 2021-06-19T17:04:47Z)
+- Alpha-fetoprotein test (Date: 2021-06-19T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-06-19T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-06-19T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-07-17T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-07-17T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-08-14T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-08-14T17:04:47Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2021-09-11T17:04:47Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2021-09-11T17:04:47Z)
+- Urine screening for glucose (Date: 2021-09-11T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-09-11T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-09-11T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-10-09T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-10-09T17:04:47Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2021-11-06T17:04:47Z)
+- Evaluation of uterine fundal height (Date: 2021-11-06T17:04:47Z)
+- Auscultation of the fetal heart (Date: 2021-11-06T17:04:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-06T17:04:47Z: Prenatal visit
+- 2021-10-09T17:04:47Z: Prenatal visit
+- 2021-09-11T17:04:47Z: Prenatal visit
+- 2021-08-14T17:04:47Z: Prenatal visit
+- 2021-07-17T17:04:47Z: Prenatal visit
+
+== Recent Observations (Last 10) ==
+- 2021-11-01T16:04:47Z QOLS: 1.0 {score}
+- 2021-11-01T16:04:47Z DALY: 0.0 a
+- 2021-11-01T16:04:47Z QALY: 17.0 a
+- 2020-12-19T17:43:09Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 2.0 {score}
+- 2020-12-19T17:04:47Z Body Height: 172.5 cm
+- 2020-12-19T17:04:47Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2020-12-19T17:04:47Z Body Weight: 71.7 kg
+- 2020-12-19T17:04:47Z Body Mass Index: 24.1 kg/m2
+- 2020-12-19T17:04:47Z Body mass index (BMI) [Percentile] Per age and gender: 79.3 %
+- 2020-12-19T17:04:47Z Diastolic Blood Pressure: 84.0 mm[Hg]

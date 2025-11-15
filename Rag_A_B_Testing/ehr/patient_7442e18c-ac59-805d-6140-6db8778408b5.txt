@@ -1,0 +1,62 @@
+== PATIENT RECORD: Kristeen693 Paucek755 (ID: 7442e18c-ac59-805d-6140-6db8778408b5) ==
+
+== Demographics ==
+Patient ID: 7442e18c-ac59-805d-6140-6db8778408b5
+Name: Kristeen693 Paucek755
+Gender: F
+Birthdate: 2006-11-03
+Address: 797 Nikolaus Lane Suite 38
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Streptococcal sore throat (disorder)
+- Closed fracture of hip
+- Laceration of hand
+- Viral sinusitis (disorder)
+- Facial laceration
+
+== Current Medications ==
+- Penicillin V Potassium 250 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Pelvis X-ray (Date: 2013-05-03T15:09:50Z)
+- Admission to orthopedic department (Date: 2013-05-03T15:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2013-10-25T15:09:50Z)
+- Suture open wound (Date: 2017-08-08T16:49:50Z)
+- Medication Reconciliation (procedure) (Date: 2017-11-17T15:09:50Z)
+- Depression screening (procedure) (Date: 2018-11-23T15:09:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-11-23T15:24:43Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-29T15:09:50Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-29T15:09:50Z)
+- Depression screening (procedure) (Date: 2020-12-04T15:09:50Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-12-04T15:22:13Z)
+- Assessment of substance use (procedure) (Date: 2020-12-04T15:44:45Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2020-12-04T15:58:26Z)
+- Anticipatory guidance (procedure) (Date: 2020-12-04T16:26:45Z)
+- Suture open wound (Date: 2021-06-12T17:07:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-28T15:09:50Z: Consultation for treatment
+- 2021-06-12T17:07:30Z: Emergency room admission (procedure)
+- 2020-12-04T15:09:50Z: Well child visit (procedure)
+- 2019-11-29T15:09:50Z: Well child visit (procedure)
+- 2019-10-15T10:09:50Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-11-03T14:09:50Z QOLS: 1.0 {score}
+- 2021-11-03T14:09:50Z DALY: 0.0 a
+- 2021-11-03T14:09:50Z QALY: 14.0 a
+- 2020-12-04T15:44:45Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 0.0 {score}
+- 2020-12-04T15:09:50Z Respiratory rate: 14.0 /min
+- 2020-12-04T15:09:50Z Diastolic Blood Pressure: 74.0 mm[Hg]
+- 2020-12-04T15:09:50Z Body Height: 157.4 cm
+- 2020-12-04T15:09:50Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2020-12-04T15:09:50Z Body Weight: 53.7 kg
+- 2020-12-04T15:09:50Z Body Mass Index: 21.7 kg/m2

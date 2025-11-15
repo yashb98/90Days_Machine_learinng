@@ -1,0 +1,52 @@
+== PATIENT RECORD: Cary869 Rutherford999 (ID: 1edd887a-05a6-d93a-1cff-f78e3c5da92f) ==
+
+== Demographics ==
+Patient ID: 1edd887a-05a6-d93a-1cff-f78e3c5da92f
+Name: Cary869 Rutherford999
+Gender: M
+Birthdate: 2011-06-18
+Address: 1069 Ebert Bay Apt 48
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Acute bronchitis (disorder)
+- Otitis media
+- Streptococcal sore throat (disorder)
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 325 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Penicillin V Potassium 250 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2011-11-27T01:30:34Z)
+- Medication Reconciliation (procedure) (Date: 2012-02-26T01:30:34Z)
+- Medication Reconciliation (procedure) (Date: 2013-05-26T01:30:34Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-24T01:30:34Z)
+- Measurement of respiratory function (procedure) (Date: 2016-03-25T09:30:34Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-29T01:30:34Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-04T01:30:34Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-28T04:30:34Z: Encounter for symptom
+- 2021-06-27T01:30:34Z: Well child visit (procedure)
+- 2020-06-21T01:30:34Z: Well child visit (procedure)
+- 2019-06-16T01:30:34Z: Well child visit (procedure)
+- 2018-06-10T01:30:34Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-28T04:30:34Z Body temperature: 39.3 Cel
+- 2021-06-27T01:30:34Z Body Height: 145.2 cm
+- 2021-06-27T01:30:34Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-06-27T01:30:34Z Body Weight: 36.7 kg
+- 2021-06-27T01:30:34Z Body Mass Index: 17.4 kg/m2
+- 2021-06-27T01:30:34Z Body mass index (BMI) [Percentile] Per age and gender: 63.5 %
+- 2021-06-27T01:30:34Z Diastolic Blood Pressure: 83.0 mm[Hg]
+- 2021-06-27T01:30:34Z Systolic Blood Pressure: 122.0 mm[Hg]
+- 2021-06-27T01:30:34Z Heart rate: 62.0 /min
+- 2021-06-27T01:30:34Z Respiratory rate: 14.0 /min

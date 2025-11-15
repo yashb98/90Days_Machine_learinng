@@ -1,0 +1,166 @@
+== PATIENT RECORD: Eleanora667 Hyatt152 (ID: 988ba5c5-bb2c-1453-cfe7-16ea41c47b42) ==
+
+== Demographics ==
+Patient ID: 988ba5c5-bb2c-1453-cfe7-16ea41c47b42
+Name: Eleanora667 Hyatt152
+Gender: F
+Birthdate: 1980-03-25
+Address: 937 Bartell Parade
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Housing unsatisfactory (finding)
+- Received higher education (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+- Limited social contact (finding)
+- Acute viral pharyngitis (disorder)
+- Normal pregnancy
+- Antepartum eclampsia
+- Chronic low back pain (finding)
+- Concussion with no loss of consciousness
+- Prediabetes
+- Anemia (disorder)
+- Reports of violence in the environment (finding)
+- Part-time employment (finding)
+- Cough (finding)
+- Fatigue (finding)
+- Dyspnea (finding)
+- Wheezing (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- Etonogestrel 68 MG Drug Implant
+- Errin 28 Day Pack
+- ferrous sulfate 325 MG Oral Tablet
+- Natazia 28 Day Pack
+- Yaz 28 Day Pack
+- Trinessa 28 Day Pack
+- Kyleena 19.5 MG Intrauterine System
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 2012-07-24T12:03:04Z)
+- Ultrasound scan for fetal viability (Date: 2012-07-24T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2012-07-24T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2012-07-24T12:03:04Z)
+- Blood typing  RH typing (Date: 2012-07-24T12:03:04Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-07-24T12:03:04Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2012-07-24T12:03:04Z)
+- Human immunodeficiency virus antigen test (Date: 2012-07-24T12:03:04Z)
+- Chlamydia antigen test (Date: 2012-07-24T12:03:04Z)
+- Gonorrhea infection test (Date: 2012-07-24T12:03:04Z)
+- Syphilis infection test (Date: 2012-07-24T12:03:04Z)
+- Urine culture (Date: 2012-07-24T12:03:04Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2012-07-24T12:03:04Z)
+- Urine screening test for diabetes (Date: 2012-07-24T12:03:04Z)
+- Hepatitis C antibody test (Date: 2012-07-24T12:03:04Z)
+- Rubella screening (Date: 2012-07-24T12:03:04Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2012-07-24T12:03:04Z)
+- Skin test for tuberculosis (Date: 2012-07-24T12:03:04Z)
+- Urine protein test (Date: 2012-07-24T12:03:04Z)
+- Physical examination of mother (Date: 2012-07-24T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2012-08-21T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2012-08-21T12:03:04Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2012-08-21T12:03:04Z)
+- Fetal anatomy study (Date: 2012-09-18T12:03:04Z)
+- Alpha-fetoprotein test (Date: 2012-09-18T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2012-09-18T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2012-09-18T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2012-10-16T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2012-10-16T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2012-11-13T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2012-11-13T12:03:04Z)
+- Antenatal RhD antibody screening (Date: 2012-12-11T12:03:04Z)
+- RhD passive immunization (Date: 2012-12-11T12:03:04Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-12-11T12:03:04Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2012-12-11T12:03:04Z)
+- Urine screening for glucose (Date: 2012-12-11T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2012-12-11T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2012-12-11T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2013-01-08T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2013-01-08T12:03:04Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2013-02-05T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2013-02-05T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2013-02-05T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2013-02-19T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2013-02-19T12:03:04Z)
+- Evaluation of uterine fundal height (Date: 2013-02-26T12:03:04Z)
+- Auscultation of the fetal heart (Date: 2013-02-26T12:03:04Z)
+- Spontaneous breech delivery (Date: 2013-03-05T12:03:04Z)
+- Childbirth (Date: 2013-03-05T12:03:04Z)
+- RhD passive immunization (Date: 2013-04-16T12:03:04Z)
+- Physical examination following birth (Date: 2013-04-16T12:03:04Z)
+- Depression screening (Date: 2013-04-16T12:03:04Z)
+- Insertion of subcutaneous contraceptive (Date: 2013-04-16T12:03:04Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-09T12:03:04Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-12T12:57:47Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-15T13:54:09Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-18T14:43:46Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-21T15:41:40Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-24T16:31:44Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-27T17:27:12Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-02T18:19:29Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-05T19:14:38Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-08T20:01:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-10T12:03:04Z)
+- Peripheral blood smear interpretation (Date: 2014-06-10T12:03:04Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-10T12:50:13Z)
+- Depression screening (procedure) (Date: 2014-06-10T13:18:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-06-10T13:31:52Z)
+- Assessment of substance use (procedure) (Date: 2014-06-10T13:55:41Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-06-10T14:08:23Z)
+- Review of systems (procedure) (Date: 2014-06-10T12:33:04Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-10T12:45:41Z)
+- Brief general examination (procedure) (Date: 2014-06-10T12:54:05Z)
+- Removal of subcutaneous contraceptive (Date: 2017-04-25T12:03:04Z)
+- Insertion of subcutaneous contraceptive (Date: 2017-04-25T12:24:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-13T12:03:04Z)
+- Depression screening (procedure) (Date: 2017-06-13T12:49:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-13T12:59:59Z)
+- Assessment of substance use (procedure) (Date: 2017-06-13T13:27:45Z)
+- Screening for drug abuse (procedure) (Date: 2017-06-13T13:40:16Z)
+- Insertion of subcutaneous contraceptive (Date: 2018-03-21T12:28:28Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-11-12T12:03:04Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-12T12:03:04Z)
+- Assessment of anxiety (procedure) (Date: 2019-11-12T12:58:37Z)
+- Depression screening (procedure) (Date: 2019-11-12T13:22:28Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-11-12T13:34:40Z)
+- Assessment of substance use (procedure) (Date: 2019-11-12T13:59:09Z)
+- Screening for drug abuse (procedure) (Date: 2019-11-12T14:12:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-31T12:03:04Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-31T12:51:12Z)
+- Depression screening (procedure) (Date: 2020-03-31T13:18:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-31T13:32:02Z)
+- Assessment of substance use (procedure) (Date: 2020-03-31T13:57:01Z)
+- Screening for drug abuse (procedure) (Date: 2020-03-31T14:11:19Z)
+- Face mask (physical object) (Date: 2020-07-13T12:03:04Z)
+- Insertion of intrauterine contraceptive device (Date: 2021-03-08T18:51:39Z)
+- Removal of subcutaneous contraceptive (Date: 2021-04-27T12:03:04Z)
+- Insertion of subcutaneous contraceptive (Date: 2021-04-27T12:24:07Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-21T12:03:04Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-31T12:03:04Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-27T12:03:04Z: Patient encounter procedure
+- 2021-03-08T18:51:39Z: Patient encounter procedure
+- 2021-03-05T12:51:39Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-03-25T11:03:04Z QOLS: 1.0 {score}
+- 2021-03-25T11:03:04Z DALY: 0.4 a
+- 2021-03-25T11:03:04Z QALY: 39.6 a
+- 2020-07-13T13:40:03Z SARS-CoV-2 RNA Pnl Resp NAA+probe: Detected (qualifier value) nan
+- 2020-07-13T12:13:59Z Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2020-07-13T12:13:59Z Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay: Not detected (qualifier value) nan
+- 2020-07-13T12:03:04Z Systolic Blood Pressure: 114.0 mm[Hg]
+- 2020-07-13T12:03:04Z Body temperature: 38.2 Cel
+- 2020-07-13T12:03:04Z Respiratory rate: 30.6 /min
+- 2020-07-13T12:03:04Z Oxygen saturation in Arterial blood: 86.5 %

@@ -1,0 +1,112 @@
+== PATIENT RECORD: Francisco472 Lynch190 (ID: 43a8f60a-2b8e-26b5-3736-e64df96bf796) ==
+
+== Demographics ==
+Patient ID: 43a8f60a-2b8e-26b5-3736-e64df96bf796
+Name: Francisco472 Lynch190
+Gender: M
+Birthdate: 1973-10-06
+Address: 957 Smith Branch
+Marital Status: S
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Chronic sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Limited social contact (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Sprain of wrist
+- Viral sinusitis (disorder)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Not in labor force (finding)
+- Nasal congestion (finding)
+- Fatigue (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+- amLODIPine 2.5 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-03-24T21:37:58Z)
+- Medication Reconciliation (procedure) (Date: 2012-03-24T21:37:58Z)
+- Depression screening (procedure) (Date: 2012-03-24T22:34:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-03-24T22:46:47Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-03-30T21:37:58Z)
+- Depression screening (procedure) (Date: 2013-03-30T22:32:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-03-30T22:45:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-05T21:37:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-04-05T21:37:58Z)
+- Depression screening (procedure) (Date: 2014-04-05T22:12:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-05T22:25:16Z)
+- Assessment of substance use (procedure) (Date: 2014-04-05T22:55:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-05T23:06:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-11T21:37:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-11T21:37:58Z)
+- Depression screening (procedure) (Date: 2015-04-11T22:33:47Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-11T22:45:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-04-16T21:37:58Z)
+- Assessment of anxiety (procedure) (Date: 2016-04-16T22:20:09Z)
+- Screening for domestic abuse (procedure) (Date: 2016-04-16T22:46:53Z)
+- Depression screening (procedure) (Date: 2016-04-16T23:20:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-04-16T23:33:04Z)
+- Assessment of substance use (procedure) (Date: 2016-04-17T00:02:52Z)
+- Screening for drug abuse (procedure) (Date: 2016-04-17T00:16:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-22T21:37:58Z)
+- Assessment of anxiety (procedure) (Date: 2017-04-22T22:27:01Z)
+- Screening for domestic abuse (procedure) (Date: 2017-04-22T22:53:19Z)
+- Depression screening (procedure) (Date: 2017-04-22T23:21:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-22T23:33:05Z)
+- Assessment of substance use (procedure) (Date: 2017-04-22T23:55:55Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2017-04-23T00:06:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-28T21:37:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-04T21:37:58Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-04T22:23:39Z)
+- Screening for domestic abuse (procedure) (Date: 2019-05-04T22:46:56Z)
+- Assessment of substance use (procedure) (Date: 2019-05-04T23:15:58Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-05-04T23:30:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-09T21:37:58Z)
+- Depression screening (procedure) (Date: 2020-05-09T22:34:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-05-09T22:44:49Z)
+- Assessment of substance use (procedure) (Date: 2020-05-09T23:07:57Z)
+- Screening for drug abuse (procedure) (Date: 2020-05-09T23:22:10Z)
+- Face mask (physical object) (Date: 2020-12-14T21:37:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-15T21:37:58Z)
+- Assessment of anxiety (procedure) (Date: 2021-05-15T22:14:11Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-15T22:35:22Z)
+- Depression screening (procedure) (Date: 2021-05-15T23:16:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-15T23:26:27Z)
+- Assessment of substance use (procedure) (Date: 2021-05-15T23:46:57Z)
+- Screening for drug abuse (procedure) (Date: 2021-05-15T23:59:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-09T21:37:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-11T21:37:58Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-05-15T21:37:58Z: General examination of patient (procedure)
+- 2020-12-14T21:37:58Z: Encounter for symptom (procedure)
+- 2020-05-09T21:37:58Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-06T21:37:58Z QOLS: 1.0 {score}
+- 2021-10-06T21:37:58Z DALY: 0.7 a
+- 2021-10-06T21:37:58Z QALY: 46.3 a
+- 2021-05-16T00:19:55Z Total score [DAST-10]: 2.0 {score}
+- 2021-05-15T23:46:57Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-15T23:16:11Z Total score [HARK]: 0.0 {score}
+- 2021-05-15T22:35:22Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 0.0 {score}
+- 2021-05-15T22:14:11Z What is your main insurance?: Private insurance nan
+- 2021-05-15T22:14:11Z What is your housing situation today?: I have housing nan
+- 2021-05-15T22:14:11Z Are you worried about losing your housing?: No nan

@@ -1,0 +1,146 @@
+== PATIENT RECORD: Chong355 Jakubowski832 (ID: 1636e185-4774-0f3a-d34c-ccde4026abe1) ==
+
+== Demographics ==
+Patient ID: 1636e185-4774-0f3a-d34c-ccde4026abe1
+Name: Chong355 Jakubowski832
+Gender: M
+Birthdate: 1916-03-28
+Address: 1011 Hudson Camp
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Hypertension
+- Served in armed forces (finding)
+- Received higher education (finding)
+- Unemployed (finding)
+- Smokes tobacco daily
+- Body mass index 30+ - obesity (finding)
+- Has a criminal record (finding)
+- Neoplasm of prostate
+- Carcinoma in situ of prostate (disorder)
+- Social isolation (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Acute viral pharyngitis (disorder)
+- Reports of violence in the environment (finding)
+- Viral sinusitis (disorder)
+- Stroke
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- 24hr nicotine transdermal patch
+- 1 ML DOCEtaxel 20 MG/ML Injection
+- 0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 1993-04-20T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1993-04-20T12:05:08Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1993-04-20T12:20:13Z)
+- Depression screening (procedure) (Date: 1993-04-20T12:39:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-04-20T12:53:09Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-04-26T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1994-04-26T12:20:55Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-04-26T12:44:23Z)
+- Depression screening (procedure) (Date: 1994-04-26T13:04:55Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-04-26T13:17:08Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-07-19T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1994-07-19T11:29:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1994-07-19T12:13:20Z)
+- Depression screening (procedure) (Date: 1994-07-19T12:29:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-07-19T12:41:12Z)
+- Assessment of substance use (procedure) (Date: 1994-07-19T13:04:38Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1994-07-19T13:14:55Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-05-02T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1995-05-02T11:29:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1995-05-02T12:17:48Z)
+- Screening for domestic abuse (procedure) (Date: 1995-05-02T12:35:03Z)
+- Depression screening (procedure) (Date: 1995-05-02T13:05:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-05-02T13:18:43Z)
+- Assessment of substance use (procedure) (Date: 1995-05-02T13:43:59Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1995-05-02T13:58:25Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-05-07T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1996-05-07T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1996-05-07T12:01:10Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1996-05-07T12:19:46Z)
+- Depression screening (procedure) (Date: 1996-05-07T12:47:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-05-07T13:01:35Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-05-13T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1997-05-13T12:21:27Z)
+- Depression screening (procedure) (Date: 1997-05-13T12:37:13Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1997-05-13T12:48:08Z)
+- Assessment of substance use (procedure) (Date: 1997-05-13T13:09:31Z)
+- Screening for drug abuse (procedure) (Date: 1997-05-13T13:19:57Z)
+- Assessment of health and social care needs (procedure) (Date: 1998-05-19T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 1998-05-19T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1998-05-19T12:09:36Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1998-05-19T12:34:28Z)
+- Depression screening (procedure) (Date: 1998-05-19T12:56:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1998-05-19T13:06:46Z)
+- Assessment of substance use (procedure) (Date: 1998-05-19T13:34:33Z)
+- Screening for drug abuse (procedure) (Date: 1998-05-19T13:46:21Z)
+- Assessment of health and social care needs (procedure) (Date: 1999-05-25T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 1999-05-25T12:29:12Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 1999-05-25T12:49:06Z)
+- Screening for domestic abuse (procedure) (Date: 1999-05-25T13:18:11Z)
+- Depression screening (procedure) (Date: 1999-05-25T13:44:57Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1999-05-25T13:55:16Z)
+- Assessment of substance use (procedure) (Date: 1999-05-25T14:18:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1999-05-25T14:28:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2000-05-30T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 2000-05-30T12:22:34Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2000-05-30T12:46:08Z)
+- Depression screening (procedure) (Date: 2000-05-30T13:09:10Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2000-05-30T13:19:46Z)
+- Assessment of substance use (procedure) (Date: 2000-05-30T13:48:23Z)
+- Screening for drug abuse (procedure) (Date: 2000-05-30T14:03:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-01-16T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 2001-01-16T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 2001-01-16T12:24:23Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-01-16T12:43:11Z)
+- Depression screening (procedure) (Date: 2001-01-16T12:59:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-01-16T13:12:47Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2001-01-16T13:42:08Z)
+- Assessment of substance use (procedure) (Date: 2001-01-16T14:09:39Z)
+- Screening for drug abuse (procedure) (Date: 2001-01-16T14:22:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-06-05T11:29:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-06-05T12:18:22Z)
+- Screening for domestic abuse (procedure) (Date: 2001-06-05T12:40:57Z)
+- Depression screening (procedure) (Date: 2001-06-05T13:25:20Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-06-05T13:38:09Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2001-06-05T14:05:53Z)
+- Assessment of substance use (procedure) (Date: 2001-06-05T14:34:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-06-05T14:45:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-06-11T11:29:38Z)
+- Medication Reconciliation (procedure) (Date: 2002-06-11T11:29:38Z)
+- Assessment of anxiety (procedure) (Date: 2002-06-11T12:20:07Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-06-11T12:43:40Z)
+- Depression screening (procedure) (Date: 2002-06-11T13:09:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-06-11T13:22:09Z)
+- Assessment of substance use (procedure) (Date: 2002-06-11T13:44:42Z)
+- Screening for drug abuse (procedure) (Date: 2002-06-11T13:58:11Z)
+- Echocardiography (procedure) (Date: 2002-08-27T11:29:38Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2002-08-27T11:29:38Z)
+
+== Recent Encounters (Last 5) ==
+- 2002-09-03T11:29:38Z: Death Certification
+- 2002-08-27T11:29:38Z: Stroke
+- 2002-06-11T11:29:38Z: General examination of patient (procedure)
+- 2001-10-20T21:29:38Z: Encounter for symptom
+- 2001-06-05T11:29:38Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2002-09-03T11:29:38Z Cause of Death [US Standard Certificate of Death]: Stroke nan
+- 2002-06-11T14:27:10Z Total score [DAST-10]: 2.0 {score}
+- 2002-06-11T13:44:42Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2002-06-11T13:09:24Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2002-06-11T13:09:24Z Fall risk total [Morse Fall Scale]: 74.0 {#}
+- 2002-06-11T12:43:40Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2002-06-11T12:20:07Z What is your current work situation?: Unemployed (finding) nan
+- 2002-06-11T12:20:07Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2002-06-11T12:20:07Z Are you a refugee?: No nan
+- 2002-06-11T12:20:07Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan

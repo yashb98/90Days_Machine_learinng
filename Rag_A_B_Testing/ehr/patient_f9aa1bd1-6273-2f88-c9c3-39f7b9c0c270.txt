@@ -1,0 +1,147 @@
+== PATIENT RECORD: Macy314 Stroman228 (ID: f9aa1bd1-6273-2f88-c9c3-39f7b9c0c270) ==
+
+== Demographics ==
+Patient ID: f9aa1bd1-6273-2f88-c9c3-39f7b9c0c270
+Name: Macy314 Stroman228
+Gender: F
+Birthdate: 1968-04-22
+Address: 437 Lebsack Trace
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Anemia (disorder)
+- Part-time employment (finding)
+- Acute viral pharyngitis (disorder)
+- Malignant neoplasm of breast (disorder)
+- Fracture subluxation of wrist
+- Viral sinusitis (disorder)
+
+== Current Medications ==
+- 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection
+- Tamoxifen 10 MG Oral Tablet
+- Verzenio 100 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-07T23:30:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-05-07T23:30:18Z)
+- Screening for domestic abuse (procedure) (Date: 2012-05-08T00:20:28Z)
+- Depression screening (procedure) (Date: 2012-05-08T00:51:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-08T01:01:46Z)
+- Assessment of substance use (procedure) (Date: 2012-05-08T01:31:06Z)
+- Screening for drug abuse (procedure) (Date: 2012-05-08T01:45:57Z)
+- Peripheral blood smear interpretation (Date: 2012-12-10T23:30:18Z)
+- Review of systems (procedure) (Date: 2012-12-11T00:00:18Z)
+- Medication Reconciliation (procedure) (Date: 2012-12-11T00:16:38Z)
+- Brief general examination (procedure) (Date: 2012-12-11T00:32:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-05-12T23:30:18Z)
+- Medication Reconciliation (procedure) (Date: 2014-05-12T23:30:18Z)
+- Assessment of anxiety (procedure) (Date: 2014-05-13T00:27:04Z)
+- Depression screening (procedure) (Date: 2014-05-13T00:49:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-05-13T01:00:46Z)
+- Assessment of substance use (procedure) (Date: 2014-05-13T01:27:24Z)
+- Screening for drug abuse (procedure) (Date: 2014-05-13T01:40:49Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-16T23:30:18Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-17T00:03:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-04-23T23:30:18Z)
+- Colonoscopy (Date: 2018-04-23T23:30:18Z)
+- Assessment of anxiety (procedure) (Date: 2018-04-24T00:26:32Z)
+- Assessment of substance use (procedure) (Date: 2018-04-24T00:46:44Z)
+- Screening for drug abuse (procedure) (Date: 2018-04-24T00:59:36Z)
+- Screening mammography (procedure) (Date: 2019-04-21T23:30:18Z)
+- Ultrasonography of bilateral breasts (procedure) (Date: 2019-04-21T23:47:35Z)
+- Biopsy of breast (procedure) (Date: 2019-04-22T00:16:27Z)
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) (Date: 2019-04-22T00:52:52Z)
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) (Date: 2019-04-23T02:52:52Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-05-06T23:30:18Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-06T23:30:18Z)
+- Chemotherapy (procedure) (Date: 2019-05-05T08:23:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-05-07T00:23:59Z)
+- Depression screening (procedure) (Date: 2019-05-07T00:47:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-05-07T01:00:45Z)
+- Chemotherapy (procedure) (Date: 2019-05-28T02:56:34Z)
+- Chemotherapy (procedure) (Date: 2019-06-17T12:13:23Z)
+- Chemotherapy (procedure) (Date: 2019-07-06T20:43:04Z)
+- Chemotherapy (procedure) (Date: 2019-07-28T00:27:57Z)
+- Chemotherapy (procedure) (Date: 2019-08-19T13:19:22Z)
+- Chemotherapy (procedure) (Date: 2019-09-07T16:10:17Z)
+- Chemotherapy (procedure) (Date: 2019-09-28T13:34:13Z)
+- Sentinel lymph node biopsy (procedure) (Date: 2019-11-01T14:49:37Z)
+- Excision of sentinel lymph node (procedure) (Date: 2019-11-01T15:36:04Z)
+- Lumpectomy of breast (procedure) (Date: 2019-11-01T16:19:33Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-14T12:40:03Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-15T21:11:32Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-17T07:18:57Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-18T18:09:30Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-20T01:11:58Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-21T10:05:45Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-22T15:56:04Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-23T17:28:55Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-24T18:53:09Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-26T06:44:01Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-27T17:02:50Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-29T05:18:33Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-11-30T10:53:25Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-01T13:08:53Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-02T14:31:34Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-03T22:29:44Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-05T09:11:44Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-06T21:10:28Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-08T07:49:40Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-09T17:25:26Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-10T23:06:18Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-12T10:56:42Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-13T13:11:28Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-14T16:28:00Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-15T22:44:04Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-17T01:47:15Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-18T05:13:42Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-19T06:27:17Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-20T11:50:29Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-21T16:25:05Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-22T20:45:58Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-23T22:28:35Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-25T04:25:28Z)
+- Radiation therapy care (regime/therapy) (Date: 2019-12-26T06:38:54Z)
+- X-ray or wrist (Date: 2020-02-27T00:00:27Z)
+- Bone immobilization (Date: 2020-02-27T00:00:27Z)
+- Bone density scan (procedure) (Date: 2020-02-27T00:34:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-05-11T23:30:18Z)
+- Assessment of anxiety (procedure) (Date: 2020-05-12T00:25:02Z)
+- Mammography (procedure) (Date: 2020-12-18T08:03:19Z)
+- Manual pelvic examination (procedure) (Date: 2020-12-18T08:25:58Z)
+- Cytopathology procedure  preparation of smear  genital source (procedure) (Date: 2020-12-18T08:40:33Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-05-17T23:30:18Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-17T23:30:18Z)
+- Screening for domestic abuse (procedure) (Date: 2021-05-18T00:05:51Z)
+- Depression screening (procedure) (Date: 2021-05-18T00:39:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-05-18T00:50:22Z)
+- Assessment of substance use (procedure) (Date: 2021-05-18T01:19:44Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-05-18T01:33:12Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-03T08:58:01Z: Postoperative follow-up visit (procedure)
+- 2021-05-17T23:30:18Z: General examination of patient (procedure)
+- 2021-04-05T08:58:01Z: Postoperative follow-up visit (procedure)
+- 2021-03-25T04:30:18Z: Encounter for symptom
+- 2020-12-18T08:25:58Z: Gynecology service (qualifier value)
+
+== Recent Observations (Last 10) ==
+- 2021-05-18T01:53:12Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-05-18T01:19:44Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-05-18T00:39:43Z Total score [HARK]: 0.0 {score}
+- 2021-05-18T00:05:51Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-05-18T00:05:51Z What is your housing situation today?: I have housing nan
+- 2021-05-18T00:05:51Z What address do you live at?: 437 Lebsack Trace nan
+- 2021-05-18T00:05:51Z What is the highest level of school that you have finished?: Less than high school degree nan
+- 2021-05-18T00:05:51Z What is your current work situation?: Full-time work nan
+- 2021-05-18T00:05:51Z What is your main insurance?: Private insurance nan
+- 2021-05-18T00:05:51Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 74359 /a

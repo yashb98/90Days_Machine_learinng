@@ -1,0 +1,89 @@
+== PATIENT RECORD: Dino214 Dach178 (ID: f2f58c59-0ad7-302d-7d66-cfd3d0287a2a) ==
+
+== Demographics ==
+Patient ID: f2f58c59-0ad7-302d-7d66-cfd3d0287a2a
+Name: Dino214 Dach178
+Gender: M
+Birthdate: 1990-06-14
+Address: 955 Donnelly Corner
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Prediabetes
+- Anemia (disorder)
+- Headache (finding)
+- Cough (finding)
+- Sore throat symptom (finding)
+- Muscle pain (finding)
+- Joint pain (finding)
+- Fever (finding)
+- Loss of taste (finding)
+- Suspected COVID-19
+- COVID-19
+
+== Current Medications ==
+None on record.
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-08-16T10:35:14Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-16T10:35:14Z)
+- Assessment of anxiety (procedure) (Date: 2012-08-16T11:11:50Z)
+- Depression screening (procedure) (Date: 2012-08-16T11:34:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-16T11:45:49Z)
+- Assessment of substance use (procedure) (Date: 2012-08-16T12:06:06Z)
+- Screening for drug abuse (procedure) (Date: 2012-08-16T12:16:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-04-23T10:35:14Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-23T10:35:14Z)
+- Peripheral blood smear interpretation (Date: 2015-04-23T10:35:14Z)
+- Assessment of anxiety (procedure) (Date: 2015-04-23T11:13:14Z)
+- Depression screening (procedure) (Date: 2015-04-23T11:43:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-04-23T11:56:12Z)
+- Assessment of substance use (procedure) (Date: 2015-04-23T12:16:37Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2015-04-23T12:30:03Z)
+- Review of systems (procedure) (Date: 2015-04-23T11:05:14Z)
+- Medication Reconciliation (procedure) (Date: 2015-04-23T11:20:10Z)
+- Brief general examination (procedure) (Date: 2015-04-23T11:39:10Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-08-20T10:35:14Z)
+- Medication Reconciliation (procedure) (Date: 2015-08-20T10:35:14Z)
+- Screening for domestic abuse (procedure) (Date: 2015-08-20T11:16:47Z)
+- Depression screening (procedure) (Date: 2015-08-20T11:59:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-08-20T12:11:40Z)
+- Assessment of substance use (procedure) (Date: 2015-08-20T12:37:36Z)
+- Screening for drug abuse (procedure) (Date: 2015-08-20T12:50:12Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-23T10:35:14Z)
+- Depression screening (procedure) (Date: 2018-08-23T11:33:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-23T11:47:24Z)
+- Face mask (physical object) (Date: 2021-03-31T10:35:14Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-26T10:35:14Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-26T10:35:14Z)
+- Depression screening (procedure) (Date: 2021-08-26T11:11:03Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-26T11:21:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-26T10:35:14Z: General examination of patient (procedure)
+- 2021-04-22T10:35:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-03-31T10:35:14Z: Encounter for symptom (procedure)
+- 2021-03-25T10:35:14Z: Administration of vaccine to produce active immunity (procedure)
+- 2018-08-23T10:35:14Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-26T11:44:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-08-26T11:11:03Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-08-26T11:11:03Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-08-26T11:11:03Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-08-26T11:11:03Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-08-26T11:11:03Z Are you a refugee?: No nan
+- 2021-08-26T11:11:03Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-08-26T11:11:03Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: A little bit nan
+- 2021-08-26T11:11:03Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-08-26T11:11:03Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan

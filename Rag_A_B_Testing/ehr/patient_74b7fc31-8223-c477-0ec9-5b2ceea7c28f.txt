@@ -1,0 +1,85 @@
+== PATIENT RECORD: Isiah14 Jacobs452 (ID: 74b7fc31-8223-c477-0ec9-5b2ceea7c28f) ==
+
+== Demographics ==
+Patient ID: 74b7fc31-8223-c477-0ec9-5b2ceea7c28f
+Name: Isiah14 Jacobs452
+Gender: M
+Birthdate: 1970-09-19
+Address: 856 Gerlach Branch
+Marital Status: M
+
+== Allergies ==
+- Mold (organism)
+- Aspirin
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Chronic sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Otitis media
+- Not in labor force (finding)
+- Acute bacterial sinusitis (disorder)
+- Stroke
+- Sprain of ankle
+
+== Current Medications ==
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+- Naproxen sodium 220 MG Oral Tablet
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-29T06:28:30Z)
+- Depression screening (procedure) (Date: 2012-09-29T07:17:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-29T07:27:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-10-04T06:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2014-10-04T06:28:30Z)
+- Screening for domestic abuse (procedure) (Date: 2014-10-04T07:04:14Z)
+- Depression screening (procedure) (Date: 2014-10-04T07:48:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-10-04T08:02:03Z)
+- Assessment of substance use (procedure) (Date: 2014-10-04T08:29:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-10-04T08:42:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-10-08T06:28:30Z)
+- Depression screening (procedure) (Date: 2016-10-08T07:20:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-10-08T07:32:05Z)
+- Assessment of substance use (procedure) (Date: 2016-10-08T07:53:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-10-08T08:04:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-10-13T06:28:30Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-13T07:24:19Z)
+- Screening for domestic abuse (procedure) (Date: 2018-10-13T07:53:56Z)
+- Depression screening (procedure) (Date: 2018-10-13T08:34:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-10-13T08:49:17Z)
+- Assessment of substance use (procedure) (Date: 2018-10-13T09:10:49Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2018-10-13T09:24:46Z)
+- Echocardiography (procedure) (Date: 2020-07-04T06:28:30Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2020-07-04T06:28:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-19T06:28:30Z)
+- Colonoscopy (Date: 2020-09-19T06:28:30Z)
+- Depression screening (procedure) (Date: 2020-09-19T07:08:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-19T07:21:19Z)
+- Assessment of substance use (procedure) (Date: 2020-09-19T07:49:57Z)
+- Screening for drug abuse (procedure) (Date: 2020-09-19T08:00:02Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-09-25T06:28:30Z)
+- Medication Reconciliation (procedure) (Date: 2021-09-25T06:28:30Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-25T06:28:30Z: General examination of patient (procedure)
+- 2021-06-06T06:54:10Z: Emergency room admission (procedure)
+- 2021-05-08T06:28:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-17T06:28:30Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-09-19T06:28:30Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-09-25T07:07:15Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-09-25T07:07:15Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2021-09-25T07:07:15Z Are you a refugee?: No nan
+- 2021-09-25T07:07:15Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-09-25T07:07:15Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-09-25T07:07:15Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-09-25T07:07:15Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-09-25T07:07:15Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 184799 /a
+- 2021-09-25T07:07:15Z What is your main insurance?: Private insurance nan
+- 2021-09-25T07:07:15Z What is your current work situation?: Full-time work nan

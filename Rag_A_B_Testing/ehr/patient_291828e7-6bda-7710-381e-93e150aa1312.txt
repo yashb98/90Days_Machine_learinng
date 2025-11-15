@@ -1,0 +1,168 @@
+== PATIENT RECORD: Charlyn749 Bayer639 (ID: 291828e7-6bda-7710-381e-93e150aa1312) ==
+
+== Demographics ==
+Patient ID: 291828e7-6bda-7710-381e-93e150aa1312
+Name: Charlyn749 Bayer639
+Gender: F
+Birthdate: 1943-08-28
+Address: 220 Hintz Way Apt 19
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Victim of intimate partner abuse (finding)
+- Prediabetes
+- Anemia (disorder)
+- Miscarriage in first trimester
+- Limited social contact (finding)
+- Stress (finding)
+- Sepsis (disorder)
+- First degree burn
+- Viral sinusitis (disorder)
+- Normal pregnancy
+- Tubal pregnancy
+- Blighted ovum
+- Acute viral pharyngitis (disorder)
+- Familial Alzheimer's disease of early onset (disorder)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Acute bronchitis (disorder)
+- Has a criminal record (finding)
+- Streptococcal sore throat (disorder)
+- Pneumonia
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- Acetaminophen 325 MG Oral Tablet
+- Ortho Tri-Cyclen 28 Day Pack
+- Penicillin V Potassium 500 MG Oral Tablet
+
+== Past Procedures ==
+- Standard pregnancy test (Date: 1989-01-29T03:21:54Z)
+- Ultrasound scan for fetal viability (Date: 1989-01-29T03:21:54Z)
+- Physical examination (Date: 1989-02-06T03:21:54Z)
+- Depression screening (Date: 1989-02-06T03:21:54Z)
+- Standard pregnancy test (Date: 1989-07-09T03:21:54Z)
+- Ultrasound scan for fetal viability (Date: 1989-07-09T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-07-09T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-07-09T03:21:54Z)
+- Blood typing  RH typing (Date: 1989-07-09T03:21:54Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1989-07-09T03:21:54Z)
+- Hepatitis B Surface Antigen Measurement (Date: 1989-07-09T03:21:54Z)
+- Human immunodeficiency virus antigen test (Date: 1989-07-09T03:21:54Z)
+- Chlamydia antigen test (Date: 1989-07-09T03:21:54Z)
+- Gonorrhea infection test (Date: 1989-07-09T03:21:54Z)
+- Syphilis infection test (Date: 1989-07-09T03:21:54Z)
+- Urine culture (Date: 1989-07-09T03:21:54Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 1989-07-09T03:21:54Z)
+- Urine screening test for diabetes (Date: 1989-07-09T03:21:54Z)
+- Hepatitis C antibody test (Date: 1989-07-09T03:21:54Z)
+- Rubella screening (Date: 1989-07-09T03:21:54Z)
+- Measurement of Varicella-zoster virus antibody (Date: 1989-07-09T03:21:54Z)
+- Skin test for tuberculosis (Date: 1989-07-09T03:21:54Z)
+- Urine protein test (Date: 1989-07-09T03:21:54Z)
+- Physical examination of mother (Date: 1989-07-09T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-08-06T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-08-06T03:21:54Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 1989-08-06T03:21:54Z)
+- Fetal anatomy study (Date: 1989-09-03T03:21:54Z)
+- Alpha-fetoprotein test (Date: 1989-09-03T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-09-03T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-09-03T03:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1989-09-17T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-10-01T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-10-01T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-10-29T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-10-29T03:21:54Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 1989-11-26T03:21:54Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 1989-11-26T03:21:54Z)
+- Urine screening for glucose (Date: 1989-11-26T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-11-26T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-11-26T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1989-12-24T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1989-12-24T03:21:54Z)
+- Streptococcus pneumoniae group B antigen test (Date: 1990-01-21T03:21:54Z)
+- Evaluation of uterine fundal height (Date: 1990-01-21T03:21:54Z)
+- Auscultation of the fetal heart (Date: 1990-01-21T03:21:54Z)
+- Epidural anesthesia (Date: 1990-02-04T03:21:54Z)
+- Childbirth (Date: 1990-02-04T03:21:54Z)
+- Physical examination following birth (Date: 1990-03-18T03:21:54Z)
+- Depression screening (Date: 1990-03-18T03:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1991-09-22T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1991-09-22T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1991-09-22T03:52:39Z)
+- Depression screening (procedure) (Date: 1991-09-22T04:14:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1991-09-22T04:28:41Z)
+- Assessment of substance use (procedure) (Date: 1991-09-22T04:56:19Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1991-09-22T05:07:37Z)
+- Insertion of intrauterine contraceptive device (Date: 1993-03-04T03:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-08-29T03:21:54Z)
+- Colonoscopy (Date: 1993-08-29T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1993-08-29T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1993-08-29T04:03:01Z)
+- Depression screening (procedure) (Date: 1993-08-29T04:21:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-08-29T04:34:42Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 1993-08-29T05:01:57Z)
+- Assessment of substance use (procedure) (Date: 1993-08-29T05:30:10Z)
+- Screening for drug abuse (procedure) (Date: 1993-08-29T05:42:10Z)
+- Assessment of health and social care needs (procedure) (Date: 1993-11-07T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1993-11-07T03:58:54Z)
+- Depression screening (procedure) (Date: 1993-11-07T04:27:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1993-11-07T04:42:37Z)
+- Removal of intrauterine device (Date: 1994-03-13T03:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-08-14T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1994-08-14T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1994-08-14T04:02:49Z)
+- Depression screening (procedure) (Date: 1994-08-14T04:31:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1994-08-14T04:44:12Z)
+- Assessment of substance use (procedure) (Date: 1994-08-14T05:06:39Z)
+- Screening for drug abuse (procedure) (Date: 1994-08-14T05:17:50Z)
+- Assessment of health and social care needs (procedure) (Date: 1994-09-04T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1994-09-04T03:21:54Z)
+- Measurement of respiratory function (procedure) (Date: 1995-08-16T03:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-09-03T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1995-09-03T03:21:54Z)
+- Depression screening (procedure) (Date: 1995-09-03T04:10:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-09-03T04:24:08Z)
+- Assessment of substance use (procedure) (Date: 1995-09-03T04:49:15Z)
+- Screening for drug abuse (procedure) (Date: 1995-09-03T04:59:41Z)
+- Assessment of health and social care needs (procedure) (Date: 1995-09-17T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1995-09-17T03:21:54Z)
+- Assessment of anxiety (procedure) (Date: 1995-09-17T04:08:07Z)
+- Depression screening (procedure) (Date: 1995-09-17T04:31:56Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1995-09-17T04:46:41Z)
+- Assessment of health and social care needs (procedure) (Date: 1996-09-22T03:21:54Z)
+- Medication Reconciliation (procedure) (Date: 1996-09-22T03:21:54Z)
+- Depression screening (procedure) (Date: 1996-09-22T03:57:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 1996-09-22T04:11:47Z)
+- Assessment of substance use (procedure) (Date: 1996-09-22T04:36:08Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 1996-09-22T04:50:14Z)
+- Throat culture (procedure) (Date: 1997-05-21T20:21:54Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-06-01T03:21:54Z)
+- Screening for domestic abuse (procedure) (Date: 1997-06-01T03:54:06Z)
+- Assessment of health and social care needs (procedure) (Date: 1997-09-28T03:21:54Z)
+
+== Recent Encounters (Last 5) ==
+- 1998-01-11T03:21:54Z: Death Certification
+- 1997-12-28T03:21:54Z: Hospital admission
+- 1997-09-28T03:21:54Z: General examination of patient (procedure)
+- 1997-06-01T03:21:54Z: Encounter for check up (procedure)
+- 1997-05-25T03:21:54Z: Urgent care clinic (procedure)
+
+== Recent Observations (Last 10) ==
+- 1998-01-11T03:21:54Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 1997-09-28T04:00:46Z What is your current work situation?: Full-time work nan
+- 1997-09-28T04:00:46Z In the past year  have you been afraid of your partner or ex-partner?: Yes nan
+- 1997-09-28T04:00:46Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 1997-09-28T04:00:46Z Are you a refugee?: No nan
+- 1997-09-28T04:00:46Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: Yes nan
+- 1997-09-28T04:00:46Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 1997-09-28T04:00:46Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 1997-09-28T04:00:46Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 1997-09-28T04:00:46Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 128107 /a

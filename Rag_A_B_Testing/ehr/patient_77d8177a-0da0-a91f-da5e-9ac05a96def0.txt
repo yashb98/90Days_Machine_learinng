@@ -1,0 +1,131 @@
+== PATIENT RECORD: Georgene966 Romaguera67 (ID: 77d8177a-0da0-a91f-da5e-9ac05a96def0) ==
+
+== Demographics ==
+Patient ID: 77d8177a-0da0-a91f-da5e-9ac05a96def0
+Name: Georgene966 Romaguera67
+Gender: F
+Birthdate: 1992-04-07
+Address: 331 Corwin Annex
+Marital Status: M
+
+== Allergies ==
+- Aspirin
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Received certificate of high school equivalency (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Normal pregnancy
+- Viral sinusitis (disorder)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Acute viral pharyngitis (disorder)
+- Not in labor force (finding)
+
+== Current Medications ==
+- Loratadine 5 MG Chewable Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Natazia 28 Day Pack
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Evaluation of uterine fundal height (Date: 2011-12-13T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2011-12-13T12:10:48Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2012-01-10T12:10:48Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2012-01-10T12:10:48Z)
+- Urine screening for glucose (Date: 2012-01-10T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2012-01-10T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2012-01-10T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2012-02-07T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2012-02-07T12:10:48Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2012-03-06T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2012-03-06T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2012-03-06T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2012-03-20T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2012-03-20T12:10:48Z)
+- Childbirth (Date: 2012-03-27T12:10:48Z)
+- Physical examination following birth (Date: 2012-05-08T12:10:48Z)
+- Depression screening (Date: 2012-05-08T12:10:48Z)
+- Standard pregnancy test (Date: 2013-10-08T12:10:48Z)
+- Ultrasound scan for fetal viability (Date: 2013-10-08T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2013-10-08T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2013-10-08T12:10:48Z)
+- Blood typing  RH typing (Date: 2013-10-08T12:10:48Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2013-10-08T12:10:48Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2013-10-08T12:10:48Z)
+- Human immunodeficiency virus antigen test (Date: 2013-10-08T12:10:48Z)
+- Chlamydia antigen test (Date: 2013-10-08T12:10:48Z)
+- Gonorrhea infection test (Date: 2013-10-08T12:10:48Z)
+- Syphilis infection test (Date: 2013-10-08T12:10:48Z)
+- Urine culture (Date: 2013-10-08T12:10:48Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2013-10-08T12:10:48Z)
+- Urine screening test for diabetes (Date: 2013-10-08T12:10:48Z)
+- Hepatitis C antibody test (Date: 2013-10-08T12:10:48Z)
+- Rubella screening (Date: 2013-10-08T12:10:48Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2013-10-08T12:10:48Z)
+- Skin test for tuberculosis (Date: 2013-10-08T12:10:48Z)
+- Urine protein test (Date: 2013-10-08T12:10:48Z)
+- Physical examination of mother (Date: 2013-10-08T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2013-11-05T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2013-11-05T12:10:48Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2013-11-05T12:10:48Z)
+- Fetal anatomy study (Date: 2013-12-03T12:10:48Z)
+- Alpha-fetoprotein test (Date: 2013-12-03T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2013-12-03T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2013-12-03T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2013-12-31T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2013-12-31T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2014-01-28T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2014-01-28T12:10:48Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2014-02-25T12:10:48Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2014-02-25T12:10:48Z)
+- Urine screening for glucose (Date: 2014-02-25T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2014-02-25T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2014-02-25T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2014-03-25T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2014-03-25T12:10:48Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2014-04-22T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2014-04-22T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2014-04-22T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2014-05-06T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2014-05-06T12:10:48Z)
+- Evaluation of uterine fundal height (Date: 2014-05-13T12:10:48Z)
+- Auscultation of the fetal heart (Date: 2014-05-13T12:10:48Z)
+- Childbirth (Date: 2014-05-20T12:10:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-06-10T12:10:48Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-10T12:10:48Z)
+- Assessment of anxiety (procedure) (Date: 2014-06-10T12:50:22Z)
+- Screening for domestic abuse (procedure) (Date: 2014-06-10T13:11:02Z)
+- Physical examination following birth (Date: 2014-07-01T12:10:48Z)
+- Depression screening (Date: 2014-07-01T12:10:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-06-13T12:10:48Z)
+- Medication Reconciliation (procedure) (Date: 2017-06-13T12:10:48Z)
+- Screening for domestic abuse (procedure) (Date: 2017-06-13T12:52:42Z)
+- Depression screening (procedure) (Date: 2017-06-13T13:37:40Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-06-13T13:48:49Z)
+- Bilateral tubal ligation (Date: 2017-06-24T12:10:48Z)
+- Throat culture (procedure) (Date: 2018-09-07T07:10:48Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-16T12:10:48Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-16T12:41:49Z)
+- Depression screening (procedure) (Date: 2020-06-16T13:08:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-16T13:22:09Z)
+
+== Recent Encounters (Last 5) ==
+- 2020-06-16T12:10:48Z: General examination of patient (procedure)
+- 2020-01-14T17:10:48Z: Encounter for symptom
+- 2018-09-07T07:10:48Z: Encounter for symptom
+- 2017-06-24T12:10:48Z: Admission to surgical department
+- 2017-06-15T12:10:48Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-04-07T12:10:48Z QOLS: 1.0 {score}
+- 2021-04-07T12:10:48Z QALY: 27.6 a
+- 2021-04-07T12:10:48Z DALY: 0.4 a
+- 2020-06-16T13:46:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2020-06-16T13:08:29Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2020-06-16T12:41:49Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-06-16T12:41:49Z Are you a refugee?: No nan
+- 2020-06-16T12:41:49Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2020-06-16T12:41:49Z What address do you live at?: 331 Corwin Annex nan
+- 2020-06-16T12:41:49Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan

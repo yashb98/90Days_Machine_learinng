@@ -1,0 +1,49 @@
+== PATIENT RECORD: Ricardo560 Stracke611 (ID: 863d30c0-d34e-be6c-6a5b-1c7aa0333ee7) ==
+
+== Demographics ==
+Patient ID: 863d30c0-d34e-be6c-6a5b-1c7aa0333ee7
+Name: Ricardo560 Stracke611
+Gender: M
+Birthdate: 2017-06-19
+Address: 814 Stehr Tunnel
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of ankle
+- Otitis media
+
+== Current Medications ==
+- Ibuprofen 100 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-06-19T17:27:54Z)
+- Medication Reconciliation (procedure) (Date: 2018-05-28T17:27:54Z)
+- Medication Reconciliation (procedure) (Date: 2018-08-27T17:27:54Z)
+- Medication Reconciliation (procedure) (Date: 2019-05-27T17:27:54Z)
+- Medication Reconciliation (procedure) (Date: 2019-11-25T17:27:54Z)
+- Medication Reconciliation (procedure) (Date: 2020-11-23T17:27:54Z)
+- Medication Reconciliation (procedure) (Date: 2021-05-24T17:27:54Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-05-24T17:27:54Z: Well child visit (procedure)
+- 2020-11-23T17:27:54Z: Well child visit (procedure)
+- 2020-05-25T17:27:54Z: Well child visit (procedure)
+- 2019-11-25T17:27:54Z: Well child visit (procedure)
+- 2019-05-27T17:27:54Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-19T17:27:54Z QOLS: 1.0 {score}
+- 2021-06-19T17:27:54Z DALY: 0.0 a
+- 2021-06-19T17:27:54Z QALY: 3.0 a
+- 2021-05-24T17:27:54Z Heart rate: 83.0 /min
+- 2021-05-24T17:27:54Z Body Height: 98.6 cm
+- 2021-05-24T17:27:54Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-05-24T17:27:54Z Body Weight: 15.8 kg
+- 2021-05-24T17:27:54Z Head Occipital-frontal circumference: 48.3 cm
+- 2021-05-24T17:27:54Z Body Mass Index: 16.3 kg/m2
+- 2021-05-24T17:27:54Z Body mass index (BMI) [Percentile] Per age and gender: 69.7 %

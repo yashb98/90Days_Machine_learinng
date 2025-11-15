@@ -1,0 +1,151 @@
+== PATIENT RECORD: Juana825 Duarte203 (ID: 8adb0f0b-979c-f354-4afe-93335d71af3a) ==
+
+== Demographics ==
+Patient ID: 8adb0f0b-979c-f354-4afe-93335d71af3a
+Name: Juana825 Duarte203
+Gender: F
+Birthdate: 1975-03-10
+Address: 677 Gaylord Divide Apt 82
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Full-time employment (finding)
+- Lack of access to transportation (finding)
+- Stress (finding)
+- Transport problems (finding)
+- Sepsis (disorder)
+- Septic shock (disorder)
+- Limited social contact (finding)
+- Miscarriage in first trimester
+- Tubal pregnancy
+- Body mass index 30+ - obesity (finding)
+- Social isolation (finding)
+- Part-time employment (finding)
+- Acute bacterial sinusitis (disorder)
+- Normal pregnancy
+
+== Current Medications ==
+- piperacillin 2000 MG / tazobactam 250 MG Injection
+- 150 ML vancomycin 5 MG/ML Injection
+- 4 ML norepinephrine 1 MG/ML Injection
+- Mirena 52 MG Intrauterine System
+- Errin 28 Day Pack
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Jolivette 28 Day Pack
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-05-28T04:21:46Z)
+- Depression screening (procedure) (Date: 2012-05-28T04:55:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-05-28T05:09:01Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-03-16T04:21:46Z)
+- Screening for domestic abuse (procedure) (Date: 2015-03-16T05:20:40Z)
+- Depression screening (procedure) (Date: 2015-03-16T05:51:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-03-16T06:04:46Z)
+- Replacement of contraceptive intrauterine device (Date: 2016-04-25T04:21:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-03-20T04:21:46Z)
+- Assessment of anxiety (procedure) (Date: 2017-03-20T05:10:19Z)
+- Screening for domestic abuse (procedure) (Date: 2017-03-20T05:36:23Z)
+- Depression screening (procedure) (Date: 2017-03-20T06:08:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-03-20T06:21:19Z)
+- Assessment of substance use (procedure) (Date: 2017-03-20T06:46:42Z)
+- Screening for drug abuse (procedure) (Date: 2017-03-20T06:59:53Z)
+- Removal of intrauterine device (Date: 2018-02-26T04:21:46Z)
+- Standard pregnancy test (Date: 2018-04-23T04:21:46Z)
+- Ultrasound scan for fetal viability (Date: 2018-04-23T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-04-23T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-04-23T04:21:46Z)
+- Blood typing  RH typing (Date: 2018-04-23T04:21:46Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-04-23T04:21:46Z)
+- Hepatitis B Surface Antigen Measurement (Date: 2018-04-23T04:21:46Z)
+- Human immunodeficiency virus antigen test (Date: 2018-04-23T04:21:46Z)
+- Chlamydia antigen test (Date: 2018-04-23T04:21:46Z)
+- Gonorrhea infection test (Date: 2018-04-23T04:21:46Z)
+- Syphilis infection test (Date: 2018-04-23T04:21:46Z)
+- Urine culture (Date: 2018-04-23T04:21:46Z)
+- Cytopathology procedure  preparation of smear  genital source (Date: 2018-04-23T04:21:46Z)
+- Urine screening test for diabetes (Date: 2018-04-23T04:21:46Z)
+- Hepatitis C antibody test (Date: 2018-04-23T04:21:46Z)
+- Rubella screening (Date: 2018-04-23T04:21:46Z)
+- Measurement of Varicella-zoster virus antibody (Date: 2018-04-23T04:21:46Z)
+- Skin test for tuberculosis (Date: 2018-04-23T04:21:46Z)
+- Urine protein test (Date: 2018-04-23T04:21:46Z)
+- Physical examination of mother (Date: 2018-04-23T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-05-21T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-05-21T04:21:46Z)
+- Screening for chromosomal aneuploidy in prenatal amniotic fluid (Date: 2018-05-21T04:21:46Z)
+- Fetal anatomy study (Date: 2018-06-18T04:21:46Z)
+- Alpha-fetoprotein test (Date: 2018-06-18T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-06-18T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-06-18T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-07-16T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-07-16T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-08-13T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-08-13T04:21:46Z)
+- Antenatal RhD antibody screening (Date: 2018-09-10T04:21:46Z)
+- RhD passive immunization (Date: 2018-09-10T04:21:46Z)
+- Hemoglobin / Hematocrit / Platelet count (Date: 2018-09-10T04:21:46Z)
+- Vaccination for diphtheria  pertussis  and tetanus (Date: 2018-09-10T04:21:46Z)
+- Urine screening for glucose (Date: 2018-09-10T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-09-10T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-09-10T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-10-08T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-10-08T04:21:46Z)
+- Streptococcus pneumoniae group B antigen test (Date: 2018-11-05T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-11-05T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-11-05T04:21:46Z)
+- Evaluation of uterine fundal height (Date: 2018-11-19T04:21:46Z)
+- Auscultation of the fetal heart (Date: 2018-11-19T04:21:46Z)
+- Instrumental delivery (Date: 2018-11-26T04:21:46Z)
+- Childbirth (Date: 2018-11-26T04:21:46Z)
+- RhD passive immunization (Date: 2019-01-07T04:21:46Z)
+- Physical examination following birth (Date: 2019-01-07T04:21:46Z)
+- Depression screening (Date: 2019-01-07T04:21:46Z)
+- Intramuscular injection (Date: 2019-01-07T04:21:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-25T04:21:46Z)
+- Medication Reconciliation (procedure) (Date: 2019-03-25T04:21:46Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-25T05:10:55Z)
+- Depression screening (procedure) (Date: 2019-03-25T05:54:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-25T06:07:22Z)
+- Assessment of substance use (procedure) (Date: 2019-03-25T06:31:52Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-03-25T06:43:06Z)
+- Intramuscular injection (Date: 2019-04-15T04:21:46Z)
+- Intramuscular injection (Date: 2019-07-15T04:21:46Z)
+- Intramuscular injection (Date: 2019-10-14T04:21:46Z)
+- Intramuscular injection (Date: 2020-01-13T04:21:46Z)
+- Intramuscular injection (Date: 2020-04-13T04:21:46Z)
+- Intramuscular injection (Date: 2020-07-13T04:21:46Z)
+- Intramuscular injection (Date: 2020-10-12T04:21:46Z)
+- Intramuscular injection (Date: 2021-01-11T04:21:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-29T04:21:46Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-29T04:21:46Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-29T05:09:57Z)
+- Depression screening (procedure) (Date: 2021-03-29T05:27:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-29T05:41:11Z)
+- Intramuscular injection (Date: 2021-04-12T04:21:46Z)
+- Intramuscular injection (Date: 2021-07-12T04:21:46Z)
+- Intramuscular injection (Date: 2021-10-11T04:21:46Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-11T04:21:46Z: Patient encounter procedure
+- 2021-07-12T04:21:46Z: Patient encounter procedure
+- 2021-04-12T04:21:46Z: Patient encounter procedure
+- 2021-03-29T04:21:46Z: General examination of patient (procedure)
+- 2021-01-11T04:21:46Z: Patient encounter procedure
+
+== Recent Observations (Last 10) ==
+- 2021-03-29T06:02:03Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-03-29T05:27:53Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 7.0 {score}
+- 2021-03-29T05:09:57Z What address do you live at?: 677 Gaylord Divide Apt 82 nan
+- 2021-03-29T05:09:57Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-03-29T05:09:57Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-03-29T05:09:57Z What is your housing situation today?: I have housing nan
+- 2021-03-29T05:09:57Z Are you worried about losing your housing?: No nan
+- 2021-03-29T05:09:57Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2021-03-29T05:09:57Z What is your current work situation?: Full-time work nan
+- 2021-03-29T05:09:57Z Have you been discharged from the armed forces of the United States?: No nan

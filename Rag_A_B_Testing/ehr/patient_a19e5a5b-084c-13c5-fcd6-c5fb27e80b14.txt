@@ -1,0 +1,61 @@
+== PATIENT RECORD: Demetra94 Jaskolski867 (ID: a19e5a5b-084c-13c5-fcd6-c5fb27e80b14) ==
+
+== Demographics ==
+Patient ID: a19e5a5b-084c-13c5-fcd6-c5fb27e80b14
+Name: Demetra94 Jaskolski867
+Gender: F
+Birthdate: 2017-02-07
+Address: 317 Feil Dale
+Marital Status: nan
+
+== Allergies ==
+- Latex (substance)
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Cow's milk (substance)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Acute bacterial sinusitis (disorder)
+- Fracture of rib
+- Atopic dermatitis
+- Otitis media
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Amoxicillin 500 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2017-07-18T20:16:13Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-17T20:16:13Z)
+- Chest X-ray (Date: 2017-12-13T20:16:13Z)
+- Bone immobilization (Date: 2017-12-13T20:16:13Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-01-16T20:16:13Z)
+- Allergy screening test (Date: 2018-01-28T18:16:13Z)
+- Medication Reconciliation (procedure) (Date: 2019-07-16T20:16:13Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-14T20:16:13Z)
+- Medication Reconciliation (procedure) (Date: 2021-01-12T20:16:13Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-12T20:16:13Z: Well child visit (procedure)
+- 2020-07-14T20:16:13Z: Well child visit (procedure)
+- 2020-01-14T20:16:13Z: Well child visit (procedure)
+- 2019-12-24T20:16:13Z: Encounter for symptom
+- 2019-07-16T20:16:13Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-02-07T20:16:13Z QOLS: 1.0 {score}
+- 2021-02-07T20:16:13Z DALY: 0.1 a
+- 2021-02-07T20:16:13Z QALY: 2.9 a
+- 2021-01-12T20:16:13Z Heart rate: 86.0 /min
+- 2021-01-12T20:16:13Z Body Height: 101.1 cm
+- 2021-01-12T20:16:13Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-01-12T20:16:13Z Body Weight: 15.2 kg
+- 2021-01-12T20:16:13Z Head Occipital-frontal circumference: 48.9 cm
+- 2021-01-12T20:16:13Z Body Mass Index: 14.9 kg/m2
+- 2021-01-12T20:16:13Z Body mass index (BMI) [Percentile] Per age and gender: 35.3 %

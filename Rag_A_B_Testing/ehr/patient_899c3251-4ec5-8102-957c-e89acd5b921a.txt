@@ -1,0 +1,138 @@
+== PATIENT RECORD: Lakeesha370 Romaguera67 (ID: 899c3251-4ec5-8102-957c-e89acd5b921a) ==
+
+== Demographics ==
+Patient ID: 899c3251-4ec5-8102-957c-e89acd5b921a
+Name: Lakeesha370 Romaguera67
+Gender: F
+Birthdate: 1969-02-02
+Address: 651 Terry Brook
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Chronic sinusitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Appendicitis
+- History of appendectomy
+- Limited social contact (finding)
+- Osteoarthritis of knee
+- Not in labor force (finding)
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Chronic low back pain (finding)
+- Fibromyalgia (disorder)
+- Viral sinusitis (disorder)
+- Body mass index 30+ - obesity (finding)
+- Stroke
+- Sprain of ankle
+
+== Current Medications ==
+- lisinopril 10 MG Oral Tablet
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- ferrous sulfate 325 MG Oral Tablet
+- Mirena 52 MG Intrauterine System
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Acetaminophen 325 MG Oral Tablet [Tylenol]
+- Errin 28 Day Pack
+- Clopidogrel 75 MG Oral Tablet
+- Alteplase 100 MG Injection
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Insertion of intrauterine contraceptive device (Date: 2012-07-10T05:09:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-08-26T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2012-08-26T16:38:20Z)
+- Depression screening (procedure) (Date: 2012-08-26T17:32:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-08-26T17:44:56Z)
+- Assessment of substance use (procedure) (Date: 2012-08-26T18:09:32Z)
+- Screening for drug abuse (procedure) (Date: 2012-08-26T18:21:00Z)
+- Measurement of respiratory function (procedure) (Date: 2013-01-19T17:38:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-02-03T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2013-02-03T16:38:20Z)
+- Depression screening (procedure) (Date: 2013-02-03T17:08:45Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-02-03T17:21:04Z)
+- Assessment of substance use (procedure) (Date: 2013-02-03T17:49:22Z)
+- Screening for drug abuse (procedure) (Date: 2013-02-03T17:59:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-09-01T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2013-09-01T16:38:20Z)
+- Assessment of anxiety (procedure) (Date: 2013-09-01T17:12:11Z)
+- Depression screening (procedure) (Date: 2013-09-01T17:29:51Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-09-01T17:44:45Z)
+- Assessment of substance use (procedure) (Date: 2013-09-01T18:06:53Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-09-01T18:17:43Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-07T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-07T16:38:20Z)
+- Assessment of anxiety (procedure) (Date: 2014-09-07T17:16:08Z)
+- Depression screening (procedure) (Date: 2014-09-07T17:42:34Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-07T17:54:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-09-13T16:38:20Z)
+- Assessment of anxiety (procedure) (Date: 2015-09-13T17:26:48Z)
+- Screening for domestic abuse (procedure) (Date: 2015-09-13T17:46:04Z)
+- Depression screening (procedure) (Date: 2015-09-13T18:28:58Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-09-13T18:40:29Z)
+- Replacement of contraceptive intrauterine device (Date: 2016-08-07T16:38:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-18T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-18T16:38:20Z)
+- Depression screening (procedure) (Date: 2016-09-18T17:12:35Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-09-18T17:27:32Z)
+- Assessment of substance use (procedure) (Date: 2016-09-18T17:49:21Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-09-18T17:59:46Z)
+- Information gathering (procedure) (Date: 2017-08-19T16:38:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-24T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-24T16:38:20Z)
+- Assessment of anxiety (procedure) (Date: 2017-09-24T17:17:43Z)
+- Depression screening (procedure) (Date: 2017-09-24T17:32:54Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-24T17:44:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-30T16:38:20Z)
+- Screening for domestic abuse (procedure) (Date: 2018-09-30T17:30:21Z)
+- Depression screening (procedure) (Date: 2018-09-30T18:02:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-09-30T18:13:04Z)
+- Assessment of substance use (procedure) (Date: 2018-09-30T18:37:59Z)
+- Screening for drug abuse (procedure) (Date: 2018-09-30T18:52:45Z)
+- Removal of intrauterine device (Date: 2019-06-16T16:38:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-10-06T16:38:20Z)
+- Depression screening (procedure) (Date: 2019-10-06T17:12:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-10-06T17:24:29Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-10-06T17:51:06Z)
+- Assessment of substance use (procedure) (Date: 2019-10-06T18:16:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-10-06T18:26:43Z)
+- Echocardiography (procedure) (Date: 2020-07-05T16:38:20Z)
+- Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance (Date: 2020-07-05T16:38:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-10-11T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-11T16:38:20Z)
+- Screening for domestic abuse (procedure) (Date: 2020-10-11T17:09:49Z)
+- Depression screening (procedure) (Date: 2020-10-11T17:38:37Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-10-11T17:51:56Z)
+- Assessment of substance use (procedure) (Date: 2020-10-11T18:12:42Z)
+- Screening for drug abuse (procedure) (Date: 2020-10-11T18:26:55Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-17T16:38:20Z)
+- Medication Reconciliation (procedure) (Date: 2021-10-17T16:38:20Z)
+- Assessment of anxiety (procedure) (Date: 2021-10-17T17:22:51Z)
+- Depression screening (procedure) (Date: 2021-10-17T17:46:38Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-17T17:58:31Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-17T16:38:20Z: General examination of patient (procedure)
+- 2021-04-25T16:38:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-04T16:38:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-12-17T17:42:59Z: Emergency room admission (procedure)
+- 2020-12-16T11:38:20Z: Encounter for symptom
+
+== Recent Observations (Last 10) ==
+- 2021-10-17T18:19:04Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-17T17:46:38Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 4.0 {score}
+- 2021-10-17T17:22:51Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 190484 /a
+- 2021-10-17T17:22:51Z What address do you live at?: 651 Terry Brook nan
+- 2021-10-17T17:22:51Z What language are you most comfortable speaking?: English nan
+- 2021-10-17T17:22:51Z How many family members  including yourself  do you currently live with?: 7.0 {#}
+- 2021-10-17T17:22:51Z What is your housing situation today?: I have housing nan
+- 2021-10-17T17:22:51Z Are you worried about losing your housing?: No nan
+- 2021-10-17T17:22:51Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-10-17T17:22:51Z At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income?: No nan

@@ -1,0 +1,96 @@
+== PATIENT RECORD: Victor265 Carter549 (ID: 85f0a859-d272-8ed8-fea7-ff7a21d81887) ==
+
+== Demographics ==
+Patient ID: 85f0a859-d272-8ed8-fea7-ff7a21d81887
+Name: Victor265 Carter549
+Gender: M
+Birthdate: 1966-09-04
+Address: 851 Heller Avenue Unit 91
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+- Prediabetes
+- Anemia (disorder)
+- Stress (finding)
+- Full-time employment (finding)
+- Social isolation (finding)
+- Laceration of foot
+- Otitis media
+- Victim of intimate partner abuse (finding)
+- Part-time employment (finding)
+- Viral sinusitis (disorder)
+- Polyp of colon
+
+== Current Medications ==
+- Ibuprofen 200 MG Oral Tablet
+- Amoxicillin 250 MG Oral Capsule
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-09-24T02:41:42Z)
+- Assessment of anxiety (procedure) (Date: 2012-09-24T03:20:30Z)
+- Depression screening (procedure) (Date: 2012-09-24T03:49:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-09-24T04:02:56Z)
+- Assessment of substance use (procedure) (Date: 2012-09-24T04:29:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-09-24T04:40:13Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-09-29T02:41:42Z)
+- Suture open wound (Date: 2014-09-22T03:06:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-09-29T02:41:42Z)
+- Screening for domestic abuse (procedure) (Date: 2014-09-29T03:30:13Z)
+- Depression screening (procedure) (Date: 2014-09-29T03:55:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-09-29T04:08:23Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-09-05T02:41:42Z)
+- Colonoscopy (Date: 2016-09-05T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2016-09-05T02:41:42Z)
+- Screening for domestic abuse (procedure) (Date: 2016-09-05T03:23:18Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-09-11T02:41:42Z)
+- Medication Reconciliation (procedure) (Date: 2017-09-11T02:41:42Z)
+- Assessment of anxiety (procedure) (Date: 2017-09-11T03:15:35Z)
+- Depression screening (procedure) (Date: 2017-09-11T03:45:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-09-11T04:00:27Z)
+- Assessment of substance use (procedure) (Date: 2017-09-11T04:28:38Z)
+- Screening for drug abuse (procedure) (Date: 2017-09-11T04:41:22Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-09-17T02:41:42Z)
+- Assessment of anxiety (procedure) (Date: 2018-09-17T03:36:12Z)
+- Screening for domestic abuse (procedure) (Date: 2018-09-17T04:02:47Z)
+- Assessment of substance use (procedure) (Date: 2018-09-17T04:38:27Z)
+- Screening for drug abuse (procedure) (Date: 2018-09-17T04:52:31Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-09-23T02:41:42Z)
+- Assessment of anxiety (procedure) (Date: 2019-09-23T03:26:27Z)
+- Screening for domestic abuse (procedure) (Date: 2019-09-23T03:51:31Z)
+- Depression screening (procedure) (Date: 2019-09-23T04:18:49Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-09-23T04:30:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-09-28T02:41:42Z)
+- Assessment of anxiety (procedure) (Date: 2020-09-28T03:25:18Z)
+- Depression screening (procedure) (Date: 2020-09-28T03:52:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-09-28T04:02:34Z)
+- Colonoscopy (Date: 2021-09-05T03:13:36Z)
+- Screening for occult blood in feces (procedure) (Date: 2021-09-05T03:45:35Z)
+- Rectal polypectomy (Date: 2021-09-05T03:45:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-10-04T02:41:42Z)
+- Depression screening (procedure) (Date: 2021-10-04T03:17:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-10-04T03:29:25Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-11T02:41:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-10-04T02:41:42Z: General examination of patient (procedure)
+- 2021-09-13T02:41:42Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-09-05T03:13:36Z: Encounter for 'check-up'
+- 2020-09-28T02:41:42Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-10-04T03:58:05Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-10-04T03:17:42Z What is your current work situation?: Otherwise unemployed but not seeking work nan
+- 2021-10-04T03:17:42Z How many family members  including yourself  do you currently live with?: 4.0 {#}
+- 2021-10-04T03:17:42Z Are you a refugee?: No nan
+- 2021-10-04T03:17:42Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2021-10-04T03:17:42Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan
+- 2021-10-04T03:17:42Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-10-04T03:17:42Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-10-04T03:17:42Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-10-04T03:17:42Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 106494 /a

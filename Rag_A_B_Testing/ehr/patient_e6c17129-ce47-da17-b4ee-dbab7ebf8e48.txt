@@ -1,0 +1,60 @@
+== PATIENT RECORD: Marvella276 Paucek755 (ID: e6c17129-ce47-da17-b4ee-dbab7ebf8e48) ==
+
+== Demographics ==
+Patient ID: e6c17129-ce47-da17-b4ee-dbab7ebf8e48
+Name: Marvella276 Paucek755
+Gender: F
+Birthdate: 2007-02-21
+Address: 685 Gibson Quay Apt 60
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Sprain of wrist
+- Fracture of ankle
+
+== Current Medications ==
+- Acetaminophen 160 MG Chewable Tablet
+- Ibuprofen 100 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2013-02-06T15:13:30Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-12T15:13:30Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-18T15:13:30Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-24T15:13:30Z)
+- Medication Reconciliation (procedure) (Date: 2017-03-01T15:13:30Z)
+- Ankle X-ray (Date: 2018-01-30T15:13:30Z)
+- Bone immobilization (Date: 2018-01-30T15:13:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-03-07T15:13:30Z)
+- Medication Reconciliation (procedure) (Date: 2018-03-07T15:13:30Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-13T15:13:30Z)
+- Depression screening (procedure) (Date: 2019-03-13T15:39:56Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-03-13T15:50:36Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-18T15:13:30Z)
+- Depression screening (procedure) (Date: 2020-03-18T15:32:13Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-03-18T15:42:48Z)
+- Depression screening (procedure) (Date: 2021-03-24T15:13:30Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-24T15:13:30Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-03-24T15:25:21Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-03-24T15:13:30Z: Well child visit (procedure)
+- 2021-02-20T15:13:30Z: Consultation for treatment
+- 2020-03-18T15:13:30Z: Well child visit (procedure)
+- 2019-03-13T15:13:30Z: Well child visit (procedure)
+- 2018-03-19T15:40:49Z: Encounter for 'check-up'
+
+== Recent Observations (Last 10) ==
+- 2021-03-24T15:50:54Z Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]: 1.0 {score}
+- 2021-03-24T15:13:30Z Systolic Blood Pressure: 124.0 mm[Hg]
+- 2021-03-24T15:13:30Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-03-24T15:13:30Z Body Height: 161.3 cm
+- 2021-03-24T15:13:30Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0 {score}
+- 2021-03-24T15:13:30Z Body Weight: 56.2 kg
+- 2021-03-24T15:13:30Z Body Mass Index: 21.6 kg/m2
+- 2021-03-24T15:13:30Z Body mass index (BMI) [Percentile] Per age and gender: 73.8 %
+- 2021-03-24T15:13:30Z Diastolic Blood Pressure: 81.0 mm[Hg]
+- 2021-03-24T15:13:30Z Heart rate: 74.0 /min

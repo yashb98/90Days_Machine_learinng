@@ -1,0 +1,57 @@
+== PATIENT RECORD: Betsy439 Morissette863 (ID: 916fc065-f5a1-219f-42c2-13066c4e20eb) ==
+
+== Demographics ==
+Patient ID: 916fc065-f5a1-219f-42c2-13066c4e20eb
+Name: Betsy439 Morissette863
+Gender: F
+Birthdate: 2012-01-21
+Address: 351 Ferry Street Suite 24
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute viral pharyngitis (disorder)
+- Acute bronchitis (disorder)
+- Viral sinusitis (disorder)
+- Otitis media
+- Sprain of wrist
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet
+- Amoxicillin 500 MG Oral Tablet
+- Ibuprofen 100 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2012-04-28T11:45:58Z)
+- Throat culture (procedure) (Date: 2012-12-21T02:45:58Z)
+- Measurement of respiratory function (procedure) (Date: 2013-03-18T22:45:58Z)
+- Medication Reconciliation (procedure) (Date: 2013-12-28T11:45:58Z)
+- Medication Reconciliation (procedure) (Date: 2014-06-28T11:45:58Z)
+- Medication Reconciliation (procedure) (Date: 2015-12-26T11:45:58Z)
+- Medication Reconciliation (procedure) (Date: 2019-01-12T11:45:58Z)
+- Sputum examination (procedure) (Date: 2019-05-26T15:56:43Z)
+- Medication Reconciliation (procedure) (Date: 2020-01-18T11:45:58Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-01-23T11:45:58Z: Well child visit (procedure)
+- 2020-01-18T11:45:58Z: Well child visit (procedure)
+- 2019-06-01T11:45:58Z: Encounter for check up (procedure)
+- 2019-05-26T15:56:43Z: Encounter for symptom
+- 2019-01-12T11:45:58Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-01-23T11:45:58Z Heart rate: 80.0 /min
+- 2021-01-23T11:45:58Z Body Height: 144.5 cm
+- 2021-01-23T11:45:58Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0 {score}
+- 2021-01-23T11:45:58Z Body Weight: 30.9 kg
+- 2021-01-23T11:45:58Z Body Mass Index: 14.8 kg/m2
+- 2021-01-23T11:45:58Z Body mass index (BMI) [Percentile] Per age and gender: 19.9 %
+- 2021-01-23T11:45:58Z Diastolic Blood Pressure: 85.0 mm[Hg]
+- 2021-01-23T11:45:58Z Systolic Blood Pressure: 111.0 mm[Hg]
+- 2021-01-23T11:45:58Z Respiratory rate: 13.0 /min
+- 2021-01-23T11:45:58Z Tobacco smoking status NHIS: Never smoker nan

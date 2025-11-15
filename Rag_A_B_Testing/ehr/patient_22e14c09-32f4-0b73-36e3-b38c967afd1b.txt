@@ -1,0 +1,135 @@
+== PATIENT RECORD: Jerica256 Glover433 (ID: 22e14c09-32f4-0b73-36e3-b38c967afd1b) ==
+
+== Demographics ==
+Patient ID: 22e14c09-32f4-0b73-36e3-b38c967afd1b
+Name: Jerica256 Glover433
+Gender: F
+Birthdate: 1945-10-23
+Address: 454 Casper Row
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Rupture of appendix
+- Appendicitis
+- History of appendectomy
+- Received certificate of high school equivalency (finding)
+- Unemployed (finding)
+- Social isolation (finding)
+- Miscarriage in first trimester
+- Chronic pain
+- Chronic intractable migraine without aura
+- Impacted molars
+- Drug overdose
+- Stress (finding)
+- Facial laceration
+- Osteoporosis (disorder)
+- Viral sinusitis (disorder)
+- Malignant neoplasm of breast (disorder)
+- Sprain of ankle
+- Limited social contact (finding)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+- Alendronic acid 10 MG Oral Tablet
+- Cyclophosphamide 1000 MG Injection
+- 5 ML fulvestrant 50 MG/ML Prefilled Syringe
+- palbociclib 100 MG Oral Capsule
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2012-01-25T03:50:52Z)
+- Screening for domestic abuse (procedure) (Date: 2012-01-25T04:27:47Z)
+- Depression screening (procedure) (Date: 2012-01-25T04:56:46Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2012-01-25T05:07:37Z)
+- Colonoscopy (Date: 2012-11-14T06:28:37Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-01-30T03:50:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2013-01-30T04:22:07Z)
+- Depression screening (procedure) (Date: 2013-01-30T04:50:33Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-01-30T05:04:50Z)
+- Suture open wound (Date: 2013-12-27T04:24:29Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-02-05T03:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-05T03:50:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2014-02-05T04:26:33Z)
+- Screening for domestic abuse (procedure) (Date: 2014-02-05T04:50:50Z)
+- Depression screening (procedure) (Date: 2014-02-05T05:33:02Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-02-05T05:43:15Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-11T03:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-11T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2015-02-11T04:44:58Z)
+- Depression screening (procedure) (Date: 2015-02-11T05:03:43Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-02-11T05:16:20Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-17T03:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2016-02-17T03:50:52Z)
+- Bone density scan (procedure) (Date: 2016-02-17T03:50:52Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2016-02-17T04:29:31Z)
+- Depression screening (procedure) (Date: 2016-02-17T04:47:08Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-17T04:57:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-02-22T03:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2017-02-22T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2017-02-22T04:43:41Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2017-02-22T05:10:12Z)
+- Colonoscopy (Date: 2017-11-14T06:55:26Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-02-28T03:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-28T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2018-02-28T04:50:24Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2018-02-28T05:18:38Z)
+- Mammogram - symptomatic (procedure) (Date: 2018-04-28T03:50:52Z)
+- Ultrasonography of bilateral breasts (procedure) (Date: 2018-04-28T04:14:26Z)
+- Biopsy of breast (procedure) (Date: 2018-04-28T04:34:35Z)
+- Human epidermal growth factor receptor 2 gene detection by fluorescence in situ hybridization (procedure) (Date: 2018-04-28T05:32:24Z)
+- Human epidermal growth factor receptor 2 gene detection by immunohistochemistry (procedure) (Date: 2018-04-29T12:32:24Z)
+- Excision of breast tissue (procedure) (Date: 2018-05-10T13:20:24Z)
+- Chemotherapy (procedure) (Date: 2018-05-18T08:32:24Z)
+- Chemotherapy (procedure) (Date: 2018-06-06T11:34:24Z)
+- Chemotherapy (procedure) (Date: 2018-06-28T10:31:24Z)
+- Chemotherapy (procedure) (Date: 2018-07-19T15:00:24Z)
+- Chemotherapy (procedure) (Date: 2018-08-09T15:16:24Z)
+- Chemotherapy (procedure) (Date: 2018-08-29T11:29:24Z)
+- Chemotherapy (procedure) (Date: 2018-09-21T06:11:24Z)
+- Chemotherapy (procedure) (Date: 2018-10-14T04:58:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-03-06T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-03-06T04:41:23Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-03-06T04:58:56Z)
+- Screening for domestic abuse (procedure) (Date: 2019-03-06T05:28:12Z)
+- Depression screening (procedure) (Date: 2019-03-06T05:55:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-03-06T06:09:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-07-24T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2019-07-24T04:30:51Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2019-07-24T04:58:56Z)
+- Depression screening (procedure) (Date: 2019-07-24T05:21:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-07-24T05:32:14Z)
+- Mammography (procedure) (Date: 2019-09-25T18:33:24Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-03-11T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2020-03-11T04:41:21Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2020-03-11T04:57:40Z)
+- Depression screening (procedure) (Date: 2020-03-11T05:27:17Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-03-11T05:38:35Z)
+- Mammography (procedure) (Date: 2020-08-08T18:54:30Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-03-17T03:50:52Z)
+- Medication Reconciliation (procedure) (Date: 2021-03-17T03:50:52Z)
+- Assessment of anxiety (procedure) (Date: 2021-03-17T04:31:31Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2021-03-17T04:55:41Z)
+- Depression screening (procedure) (Date: 2021-03-17T05:20:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-03-17T05:34:07Z)
+- Mammography (procedure) (Date: 2021-06-14T19:12:44Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-10-04T19:33:15Z: Postoperative follow-up visit (procedure)
+- 2021-07-06T03:50:52Z: Encounter for problem (procedure)
+- 2021-06-14T19:12:44Z: Screening surveillance (regime/therapy)
+- 2021-06-14T19:12:44Z: Postoperative follow-up visit (procedure)
+- 2021-06-08T03:50:52Z: Drug rehabilitation and detoxification
+
+== Recent Observations (Last 10) ==
+- 2021-10-24T02:50:52Z QOLS: 0.2 {score}
+- 2021-10-24T02:50:52Z DALY: 38.4 a
+- 2021-10-24T02:50:52Z QALY: 36.6 a
+- 2021-06-14T19:33:15Z Response to cancer treatment: Improving (qualifier value) nan
+- 2021-06-08T03:50:52Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-03-17T05:57:00Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 0.0 {score}
+- 2021-03-17T05:20:07Z Fall risk total [Morse Fall Scale]: 20.0 {#}
+- 2021-03-17T05:20:07Z Fall risk level [Morse Fall Scale]: Low Risk (MFS Score 0 - 24) nan
+- 2021-03-17T04:55:41Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-03-17T04:31:31Z What address do you live at?: 454 Casper Row nan

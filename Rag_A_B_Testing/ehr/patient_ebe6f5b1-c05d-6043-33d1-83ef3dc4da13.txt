@@ -1,0 +1,115 @@
+== PATIENT RECORD: Arron144 Labadie908 (ID: ebe6f5b1-c05d-6043-33d1-83ef3dc4da13) ==
+
+== Demographics ==
+Patient ID: ebe6f5b1-c05d-6043-33d1-83ef3dc4da13
+Name: Arron144 Labadie908
+Gender: M
+Birthdate: 1996-12-24
+Address: 914 Bauch Station Unit 80
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- Wheat (substance)
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Severe anxiety (panic) (finding
+- Only received primary school education (finding)
+- Full-time employment (finding)
+- Part-time employment (finding)
+- Stress (finding)
+- Acute bronchitis (disorder)
+- Limited social contact (finding)
+- Viral sinusitis (disorder)
+- Prediabetes
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Subcutaneous immunotherapy (Date: 2011-12-02T06:48:58Z)
+- Subcutaneous immunotherapy (Date: 2011-12-27T07:27:55Z)
+- Subcutaneous immunotherapy (Date: 2012-01-21T08:26:40Z)
+- Assessment of anxiety (procedure) (Date: 2012-01-31T12:15:56Z)
+- Assessment of substance use (procedure) (Date: 2012-01-31T12:32:43Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-01-31T12:44:14Z)
+- Anticipatory guidance (procedure) (Date: 2012-01-31T13:13:53Z)
+- Subcutaneous immunotherapy (Date: 2012-02-13T08:56:23Z)
+- Subcutaneous immunotherapy (Date: 2012-03-07T09:48:23Z)
+- Subcutaneous immunotherapy (Date: 2012-04-01T10:26:25Z)
+- Subcutaneous immunotherapy (Date: 2012-04-26T11:00:00Z)
+- Subcutaneous immunotherapy (Date: 2012-05-22T11:49:30Z)
+- Subcutaneous immunotherapy (Date: 2012-06-15T12:37:13Z)
+- Subcutaneous immunotherapy (Date: 2012-07-11T13:14:53Z)
+- Subcutaneous immunotherapy (Date: 2012-08-03T13:46:14Z)
+- Subcutaneous immunotherapy (Date: 2012-08-27T14:14:00Z)
+- Subcutaneous immunotherapy (Date: 2012-09-22T14:37:50Z)
+- Subcutaneous immunotherapy (Date: 2012-10-14T15:20:58Z)
+- Subcutaneous immunotherapy (Date: 2012-11-04T15:36:47Z)
+- Subcutaneous immunotherapy (Date: 2012-11-27T15:56:40Z)
+- Subcutaneous immunotherapy (Date: 2012-12-22T16:40:02Z)
+- Subcutaneous immunotherapy (Date: 2013-01-17T17:27:48Z)
+- Assessment of anxiety (procedure) (Date: 2013-02-05T12:15:56Z)
+- Assessment of substance use (procedure) (Date: 2013-02-05T12:32:11Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2013-02-05T12:46:26Z)
+- Anticipatory guidance (procedure) (Date: 2013-02-05T13:09:00Z)
+- Subcutaneous immunotherapy (Date: 2013-02-13T17:45:27Z)
+- Subcutaneous immunotherapy (Date: 2013-03-10T18:40:48Z)
+- Subcutaneous immunotherapy (Date: 2013-04-01T19:29:50Z)
+- Subcutaneous immunotherapy (Date: 2013-04-26T20:02:05Z)
+- Subcutaneous immunotherapy (Date: 2013-05-23T20:47:01Z)
+- Subcutaneous immunotherapy (Date: 2013-06-14T21:44:33Z)
+- Subcutaneous immunotherapy (Date: 2013-07-09T22:26:50Z)
+- Subcutaneous immunotherapy (Date: 2013-08-05T23:08:11Z)
+- Subcutaneous immunotherapy (Date: 2013-08-29T23:24:47Z)
+- Subcutaneous immunotherapy (Date: 2013-09-20T00:06:20Z)
+- Subcutaneous immunotherapy (Date: 2013-10-11T01:00:46Z)
+- Subcutaneous immunotherapy (Date: 2013-11-04T01:27:01Z)
+- Subcutaneous immunotherapy (Date: 2013-11-27T02:10:02Z)
+- Subcutaneous immunotherapy (Date: 2013-12-22T02:36:09Z)
+- Allergy screening test (Date: 2014-01-18T03:01:58Z)
+- Assessment of anxiety (procedure) (Date: 2014-02-11T12:15:56Z)
+- Medication Reconciliation (procedure) (Date: 2014-02-11T12:15:56Z)
+- Depression screening (procedure) (Date: 2014-02-11T12:42:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-02-11T12:55:34Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-02-17T12:15:56Z)
+- Medication Reconciliation (procedure) (Date: 2015-02-17T12:15:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-02-23T12:15:56Z)
+- Assessment of anxiety (procedure) (Date: 2016-02-23T13:09:18Z)
+- Depression screening (procedure) (Date: 2016-02-23T13:24:29Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-02-23T13:35:58Z)
+- Assessment of substance use (procedure) (Date: 2016-02-23T13:56:26Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2016-02-23T14:10:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-05-24T12:15:56Z)
+- Medication Reconciliation (procedure) (Date: 2016-05-24T12:15:56Z)
+- Screening for domestic abuse (procedure) (Date: 2016-05-24T13:13:38Z)
+- Assessment of substance use (procedure) (Date: 2016-05-24T13:54:18Z)
+- Screening for drug abuse (procedure) (Date: 2016-05-24T14:05:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-02-26T12:15:56Z)
+- Screening for domestic abuse (procedure) (Date: 2019-02-26T13:02:03Z)
+- Depression screening (procedure) (Date: 2019-02-26T13:37:09Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-02-26T13:50:25Z)
+- Assessment of substance use (procedure) (Date: 2019-02-26T14:18:27Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2019-02-26T14:31:47Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-07T12:15:56Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-08-17T12:15:56Z: Administration of vaccine to produce active immunity (procedure)
+- 2019-02-26T12:15:56Z: General examination of patient (procedure)
+- 2018-10-04T16:15:56Z: Encounter for symptom
+- 2016-05-24T12:15:56Z: Encounter for check up (procedure)
+
+== Recent Observations (Last 10) ==
+- 2020-12-24T12:15:56Z QOLS: 1.0 {score}
+- 2020-12-24T12:15:56Z DALY: 0.3 a
+- 2020-12-24T12:15:56Z QALY: 22.7 a
+- 2019-12-24T12:15:56Z DALY: 0.3 a
+- 2019-12-24T12:15:56Z QALY: 21.7 a
+- 2019-12-24T12:15:56Z QOLS: 1.0 {score}
+- 2019-02-26T14:54:13Z Total score [AUDIT-C]: 2.0 {score}
+- 2019-02-26T14:18:27Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2019-02-26T13:37:09Z Total score [HARK]: 0.0 {score}
+- 2019-02-26T13:02:03Z Are you a refugee?: No nan

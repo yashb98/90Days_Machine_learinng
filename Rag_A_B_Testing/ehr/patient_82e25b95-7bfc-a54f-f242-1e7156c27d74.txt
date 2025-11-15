@@ -1,0 +1,136 @@
+== PATIENT RECORD: Marlen929 Kulas532 (ID: 82e25b95-7bfc-a54f-f242-1e7156c27d74) ==
+
+== Demographics ==
+Patient ID: 82e25b95-7bfc-a54f-f242-1e7156c27d74
+Name: Marlen929 Kulas532
+Gender: F
+Birthdate: 1973-01-05
+Address: 598 Donnelly Camp Unit 65
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Body mass index 30+ - obesity (finding)
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Transport problems (finding)
+- Lack of access to transportation (finding)
+- Prediabetes
+- Social isolation (finding)
+- Severe anxiety (panic) (finding
+- Misuses drugs (finding)
+- Stress (finding)
+- Chronic neck pain (finding)
+- Acute bronchitis (disorder)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- amLODIPine 2.5 MG Oral Tablet
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+- Etonogestrel 68 MG Drug Implant
+- Jolivette 28 Day Pack
+- Acetaminophen 325 MG Oral Tablet
+- Seasonique 91 Day Pack
+
+== Past Procedures ==
+- Intramuscular injection (Date: 2011-12-03T12:42:58Z)
+- Replacement of contraceptive intrauterine device (Date: 2012-02-03T10:36:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2012-06-29T10:36:21Z)
+- Screening for domestic abuse (procedure) (Date: 2012-06-29T11:27:45Z)
+- Assessment of substance use (procedure) (Date: 2012-06-29T12:05:48Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2012-06-29T12:16:59Z)
+- Insertion of subcutaneous contraceptive (Date: 2012-11-27T13:02:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2013-07-05T10:36:21Z)
+- Screening for domestic abuse (procedure) (Date: 2013-07-05T11:27:45Z)
+- Depression screening (procedure) (Date: 2013-07-05T12:12:25Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2013-07-05T12:22:41Z)
+- Assessment of substance use (procedure) (Date: 2013-07-05T12:46:40Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2013-07-05T12:57:46Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-05T10:36:21Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-08T11:24:52Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-11T12:12:22Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-14T13:03:31Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-17T13:59:24Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-20T14:53:45Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-23T15:46:14Z)
+- Movement therapy (regime/therapy) (Date: 2014-02-26T16:44:09Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-01T17:37:33Z)
+- Movement therapy (regime/therapy) (Date: 2014-03-04T18:27:58Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-07-11T10:36:21Z)
+- Assessment of anxiety (procedure) (Date: 2014-07-11T11:28:23Z)
+- Screening for domestic abuse (procedure) (Date: 2014-07-11T11:44:29Z)
+- Depression screening (procedure) (Date: 2014-07-11T12:28:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-07-11T12:40:25Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-07-11T13:09:39Z)
+- Assessment of substance use (procedure) (Date: 2014-07-11T13:33:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-07-11T13:47:27Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-07-17T10:36:21Z)
+- Assessment of anxiety (procedure) (Date: 2015-07-17T11:28:24Z)
+- Depression screening (procedure) (Date: 2015-07-17T11:48:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-07-17T11:58:42Z)
+- Assessment of substance use (procedure) (Date: 2015-07-17T12:18:47Z)
+- Screening for drug abuse (procedure) (Date: 2015-07-17T12:29:28Z)
+- Measurement of respiratory function (procedure) (Date: 2015-09-26T10:36:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2015-10-02T10:36:21Z)
+- Medication Reconciliation (procedure) (Date: 2015-10-02T10:36:21Z)
+- Depression screening (procedure) (Date: 2015-10-02T11:23:26Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2015-10-02T11:34:41Z)
+- Assessment of health and social care needs (procedure) (Date: 2016-07-22T10:36:21Z)
+- Depression screening (procedure) (Date: 2016-07-22T11:08:30Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2016-07-22T11:23:04Z)
+- Insertion of intrauterine contraceptive device (Date: 2016-11-09T17:33:43Z)
+- Replacement of contraceptive intrauterine device (Date: 2017-02-03T10:36:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-07-28T10:36:21Z)
+- Medication Reconciliation (procedure) (Date: 2017-07-28T10:36:21Z)
+- Assessment of anxiety (procedure) (Date: 2017-07-28T11:30:57Z)
+- Screening for domestic abuse (procedure) (Date: 2017-07-28T11:52:56Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-08-03T10:36:21Z)
+- Assessment of anxiety (procedure) (Date: 2018-08-03T11:20:02Z)
+- Screening for domestic abuse (procedure) (Date: 2018-08-03T11:36:11Z)
+- Depression screening (procedure) (Date: 2018-08-03T12:19:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2018-08-03T12:33:58Z)
+- Assessment of substance use (procedure) (Date: 2018-08-03T12:58:19Z)
+- Screening for drug abuse (procedure) (Date: 2018-08-03T13:10:08Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-08-09T10:36:21Z)
+- Screening for domestic abuse (procedure) (Date: 2019-08-09T11:27:49Z)
+- Assessment of substance use (procedure) (Date: 2019-08-09T11:59:10Z)
+- Screening for drug abuse (procedure) (Date: 2019-08-09T12:13:07Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-08-14T10:36:21Z)
+- Assessment of anxiety (procedure) (Date: 2020-08-14T11:30:22Z)
+- Depression screening (procedure) (Date: 2020-08-14T11:48:04Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-08-14T12:00:40Z)
+- Assessment of substance use (procedure) (Date: 2020-08-14T12:30:24Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2020-08-14T12:40:44Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-08-20T10:36:21Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-20T10:36:21Z)
+- Assessment of anxiety (procedure) (Date: 2021-08-20T11:22:09Z)
+- Depression screening (procedure) (Date: 2021-08-20T11:40:48Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-08-20T11:53:55Z)
+- Assessment of substance use (procedure) (Date: 2021-08-20T12:22:55Z)
+- Screening for drug abuse (procedure) (Date: 2021-08-20T12:36:18Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-20T10:36:21Z: General examination of patient (procedure)
+- 2021-07-02T10:36:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-04T10:36:21Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-08-14T10:36:21Z: General examination of patient (procedure)
+- 2019-10-25T18:43:27Z: Consultation for treatment
+
+== Recent Observations (Last 10) ==
+- 2021-08-20T13:01:04Z Total score [DAST-10]: 2.0 {score}
+- 2021-08-20T12:22:55Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 2.0 {score}
+- 2021-08-20T11:40:48Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 5.0 {score}
+- 2021-08-20T11:22:09Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 5 or more times a week nan
+- 2021-08-20T11:22:09Z What is your current work situation?: Full-time work nan
+- 2021-08-20T11:22:09Z How many family members  including yourself  do you currently live with?: 2.0 {#}
+- 2021-08-20T11:22:09Z What is your housing situation today?: I have housing nan
+- 2021-08-20T11:22:09Z Are you worried about losing your housing?: No nan
+- 2021-08-20T11:22:09Z What address do you live at?: 598 Donnelly Camp Unit 65 nan
+- 2021-08-20T11:22:09Z What is the highest level of school that you have finished?: More than high school nan

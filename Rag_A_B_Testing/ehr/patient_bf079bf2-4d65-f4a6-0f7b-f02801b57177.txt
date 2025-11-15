@@ -1,0 +1,169 @@
+== PATIENT RECORD: Shana231 Ziemann98 (ID: bf079bf2-4d65-f4a6-0f7b-f02801b57177) ==
+
+== Demographics ==
+Patient ID: bf079bf2-4d65-f4a6-0f7b-f02801b57177
+Name: Shana231 Ziemann98
+Gender: F
+Birthdate: 2003-09-09
+Address: 450 Sporer Branch Apt 52
+Marital Status: nan
+
+== Allergies ==
+- Mold (organism)
+- House dust mite (organism)
+- Animal dander (substance)
+- Grass pollen (substance)
+- Tree pollen (substance)
+- Aspirin
+- Eggs (edible) (substance)
+- Tree nut (substance)
+- Peanut (substance)
+
+== Active Conditions / Problem List ==
+- Atopic dermatitis
+- Perennial allergic rhinitis with seasonal variation
+- Acute bronchitis (disorder)
+- Whiplash injury to neck
+- Acute viral pharyngitis (disorder)
+- Hypertension
+- Received higher education (finding)
+- Part-time employment (finding)
+- Social isolation (finding)
+- Stress (finding)
+
+== Current Medications ==
+- Fexofenadine hydrochloride 30 MG Oral Tablet
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution
+- Acetaminophen 160 MG Chewable Tablet
+- Acetaminophen 325 MG Oral Tablet
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+- Levora 0.15/30 28 Day Pack
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Measurement of respiratory function (procedure) (Date: 2012-04-26T06:54:55Z)
+- Measurement of respiratory function (procedure) (Date: 2014-05-05T14:54:55Z)
+- Depression screening (procedure) (Date: 2015-09-29T11:54:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-09-29T12:06:43Z)
+- Allergy screening test (Date: 2016-09-13T11:54:55Z)
+- Depression screening (procedure) (Date: 2016-10-04T11:54:55Z)
+- Medication Reconciliation (procedure) (Date: 2016-10-04T11:54:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-10-04T12:06:01Z)
+- Assessment of substance use (procedure) (Date: 2016-10-04T12:27:21Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-10-04T12:38:15Z)
+- Anticipatory guidance (procedure) (Date: 2016-10-04T13:04:15Z)
+- Subcutaneous immunotherapy (Date: 2016-10-08T12:31:38Z)
+- Throat culture (procedure) (Date: 2016-11-01T09:54:55Z)
+- Subcutaneous immunotherapy (Date: 2016-10-29T13:15:30Z)
+- Depression screening (procedure) (Date: 2016-11-08T11:54:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2016-11-08T12:05:44Z)
+- Assessment of substance use (procedure) (Date: 2016-11-08T12:35:18Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2016-11-08T12:48:40Z)
+- Anticipatory guidance (procedure) (Date: 2016-11-08T13:13:11Z)
+- Subcutaneous immunotherapy (Date: 2016-11-19T14:13:54Z)
+- Subcutaneous immunotherapy (Date: 2016-12-14T14:48:33Z)
+- Subcutaneous immunotherapy (Date: 2017-01-10T15:33:37Z)
+- Subcutaneous immunotherapy (Date: 2017-01-31T16:29:10Z)
+- Subcutaneous immunotherapy (Date: 2017-02-26T16:56:16Z)
+- Subcutaneous immunotherapy (Date: 2017-03-24T17:19:09Z)
+- Subcutaneous immunotherapy (Date: 2017-04-20T18:11:49Z)
+- Subcutaneous immunotherapy (Date: 2017-05-12T18:33:47Z)
+- Subcutaneous immunotherapy (Date: 2017-06-06T18:53:12Z)
+- Subcutaneous immunotherapy (Date: 2017-07-02T19:22:00Z)
+- Subcutaneous immunotherapy (Date: 2017-07-24T20:21:35Z)
+- Subcutaneous immunotherapy (Date: 2017-08-19T20:53:43Z)
+- Subcutaneous immunotherapy (Date: 2017-09-12T21:14:49Z)
+- Assessment of anxiety (procedure) (Date: 2017-10-10T11:54:55Z)
+- Medication Reconciliation (procedure) (Date: 2017-10-10T11:54:55Z)
+- Subcutaneous immunotherapy (Date: 2017-10-08T22:07:43Z)
+- Depression screening (procedure) (Date: 2017-10-10T12:13:40Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2017-10-10T12:24:58Z)
+- Subcutaneous immunotherapy (Date: 2017-10-29T23:07:27Z)
+- Subcutaneous immunotherapy (Date: 2017-11-25T00:05:26Z)
+- Subcutaneous immunotherapy (Date: 2017-12-20T00:52:35Z)
+- Subcutaneous immunotherapy (Date: 2018-01-15T01:08:04Z)
+- Subcutaneous immunotherapy (Date: 2018-02-11T01:51:13Z)
+- Subcutaneous immunotherapy (Date: 2018-03-05T02:16:00Z)
+- Subcutaneous immunotherapy (Date: 2018-03-30T02:46:34Z)
+- Subcutaneous immunotherapy (Date: 2018-04-25T03:40:11Z)
+- Subcutaneous immunotherapy (Date: 2018-05-21T04:17:01Z)
+- Subcutaneous immunotherapy (Date: 2018-06-14T05:13:18Z)
+- Subcutaneous immunotherapy (Date: 2018-07-05T05:32:54Z)
+- Subcutaneous immunotherapy (Date: 2018-08-01T06:31:17Z)
+- Subcutaneous immunotherapy (Date: 2018-08-27T07:04:12Z)
+- Subcutaneous immunotherapy (Date: 2018-09-20T08:00:55Z)
+- Assessment of anxiety (procedure) (Date: 2018-10-16T11:54:55Z)
+- Subcutaneous immunotherapy (Date: 2018-10-13T08:57:00Z)
+- Depression screening (procedure) (Date: 2018-10-16T12:13:28Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2018-10-16T12:28:00Z)
+- Assessment of substance use (procedure) (Date: 2018-10-16T12:49:58Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2018-10-16T13:01:40Z)
+- Anticipatory guidance (procedure) (Date: 2018-10-16T13:13:14Z)
+- Subcutaneous immunotherapy (Date: 2018-11-05T09:46:20Z)
+- Subcutaneous immunotherapy (Date: 2018-12-01T10:43:52Z)
+- Subcutaneous immunotherapy (Date: 2018-12-28T11:39:26Z)
+- Subcutaneous immunotherapy (Date: 2019-01-18T12:11:59Z)
+- Subcutaneous immunotherapy (Date: 2019-02-13T12:31:40Z)
+- Subcutaneous immunotherapy (Date: 2019-03-06T12:48:14Z)
+- Subcutaneous immunotherapy (Date: 2019-03-29T13:04:33Z)
+- Subcutaneous immunotherapy (Date: 2019-04-21T13:39:06Z)
+- Subcutaneous immunotherapy (Date: 2019-05-18T14:05:32Z)
+- Subcutaneous immunotherapy (Date: 2019-06-10T14:22:04Z)
+- Subcutaneous immunotherapy (Date: 2019-07-03T15:10:39Z)
+- Subcutaneous immunotherapy (Date: 2019-07-30T15:52:15Z)
+- Subcutaneous immunotherapy (Date: 2019-08-22T16:37:14Z)
+- Plain chest X-ray (procedure) (Date: 2019-08-31T03:54:55Z)
+- Subcutaneous immunotherapy (Date: 2019-09-17T17:15:33Z)
+- Subcutaneous immunotherapy (Date: 2019-10-11T17:50:56Z)
+- Assessment of anxiety (procedure) (Date: 2019-10-22T11:54:55Z)
+- Depression screening (procedure) (Date: 2019-10-22T12:19:33Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2019-10-22T12:30:57Z)
+- Assessment of substance use (procedure) (Date: 2019-10-22T12:51:11Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2019-10-22T13:05:41Z)
+- Anticipatory guidance (procedure) (Date: 2019-10-22T13:20:00Z)
+- Subcutaneous immunotherapy (Date: 2019-11-04T18:23:23Z)
+- Subcutaneous immunotherapy (Date: 2019-11-30T18:59:49Z)
+- Subcutaneous immunotherapy (Date: 2019-12-22T19:15:31Z)
+- Subcutaneous immunotherapy (Date: 2020-01-18T19:34:18Z)
+- Subcutaneous immunotherapy (Date: 2020-02-13T20:20:53Z)
+- Subcutaneous immunotherapy (Date: 2020-03-06T21:07:03Z)
+- Subcutaneous immunotherapy (Date: 2020-03-31T21:37:20Z)
+- Subcutaneous immunotherapy (Date: 2020-04-21T22:20:39Z)
+- Subcutaneous immunotherapy (Date: 2020-05-16T23:05:46Z)
+- Subcutaneous immunotherapy (Date: 2020-06-08T23:23:11Z)
+- Subcutaneous immunotherapy (Date: 2020-07-02T00:00:06Z)
+- Subcutaneous immunotherapy (Date: 2020-07-23T00:38:27Z)
+- Subcutaneous immunotherapy (Date: 2020-08-13T01:06:28Z)
+- Subcutaneous immunotherapy (Date: 2020-09-07T01:50:21Z)
+- Allergy screening test (Date: 2020-10-03T02:41:52Z)
+- Depression screening (procedure) (Date: 2020-10-27T11:54:55Z)
+- Medication Reconciliation (procedure) (Date: 2020-10-27T11:54:55Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2020-10-27T12:07:53Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-11-02T11:54:55Z)
+- Medication Reconciliation (procedure) (Date: 2021-11-02T11:54:55Z)
+- Screening for domestic abuse (procedure) (Date: 2021-11-02T12:29:11Z)
+- Depression screening (procedure) (Date: 2021-11-02T12:59:16Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-11-02T13:13:00Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2021-11-02T13:33:08Z)
+- Assessment of substance use (procedure) (Date: 2021-11-02T14:00:07Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2021-11-02T14:10:32Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-11-02T11:54:55Z: General examination of patient (procedure)
+- 2021-08-18T11:54:55Z: Consultation for treatment
+- 2020-10-27T11:54:55Z: Well child visit (procedure)
+- 2020-10-03T02:41:52Z: Allergic disorder follow-up assessment
+- 2020-09-07T01:50:21Z: Outpatient procedure
+
+== Recent Observations (Last 10) ==
+- 2021-11-02T14:31:44Z Total score [AUDIT-C]: 1.0 {score}
+- 2021-11-02T14:00:07Z Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]: 12.0 {score}
+- 2021-11-02T13:33:08Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 5.0 {score}
+- 2021-11-02T12:59:16Z Total score [HARK]: 0.0 {score}
+- 2021-11-02T12:29:11Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-11-02T12:29:11Z Are you worried about losing your housing?: No nan
+- 2021-11-02T12:29:11Z What address do you live at?: 450 Sporer Branch Apt 52 nan
+- 2021-11-02T12:29:11Z What is your current work situation?: Part-time or temporary work nan
+- 2021-11-02T12:29:11Z What is your main insurance?: Private insurance nan
+- 2021-11-02T12:29:11Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 86423 /a

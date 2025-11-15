@@ -1,0 +1,47 @@
+== PATIENT RECORD: Foster87 Stokes453 (ID: fee59556-c971-ebeb-3c39-8fda3470501e) ==
+
+== Demographics ==
+Patient ID: fee59556-c971-ebeb-3c39-8fda3470501e
+Name: Foster87 Stokes453
+Gender: M
+Birthdate: 2018-03-02
+Address: 454 Kshlerin Dale Unit 53
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Otitis media
+- Acute bacterial sinusitis (disorder)
+- Chronic sinusitis (disorder)
+- Acute viral pharyngitis (disorder)
+
+== Current Medications ==
+- Amoxicillin 500 MG Oral Tablet
+- Acetaminophen 160 MG Chewable Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2019-08-09T21:10:37Z)
+- Medication Reconciliation (procedure) (Date: 2020-02-07T21:10:37Z)
+- Throat culture (procedure) (Date: 2020-11-20T20:10:37Z)
+- Medication Reconciliation (procedure) (Date: 2021-08-06T21:10:37Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-08-06T21:10:37Z: Well child visit (procedure)
+- 2021-02-05T21:10:37Z: Well child visit (procedure)
+- 2020-11-20T20:10:37Z: Encounter for symptom
+- 2020-08-31T07:10:37Z: Encounter for symptom
+- 2020-08-07T21:10:37Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-08-06T21:10:37Z Body Height: 94.3 cm
+- 2021-08-06T21:10:37Z Body mass index (BMI) [Percentile] Per age and gender: 78.8 %
+- 2021-08-06T21:10:37Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0 {score}
+- 2021-08-06T21:10:37Z Body Weight: 14.9 kg
+- 2021-08-06T21:10:37Z Weight-for-length Per age and sex: 74.7 %
+- 2021-08-06T21:10:37Z Head Occipital-frontal circumference: 47.9 cm
+- 2021-08-06T21:10:37Z Body Mass Index: 16.8 kg/m2
+- 2021-08-06T21:10:37Z Tobacco smoking status NHIS: Never smoker nan
+- 2021-08-06T21:10:37Z Respiratory rate: 12.0 /min
+- 2021-08-06T21:10:37Z Heart rate: 83.0 /min

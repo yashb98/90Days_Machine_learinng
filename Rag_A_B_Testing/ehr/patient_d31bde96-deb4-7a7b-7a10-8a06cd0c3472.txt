@@ -1,0 +1,99 @@
+== PATIENT RECORD: Reyes140 Witting912 (ID: d31bde96-deb4-7a7b-7a10-8a06cd0c3472) ==
+
+== Demographics ==
+Patient ID: d31bde96-deb4-7a7b-7a10-8a06cd0c3472
+Name: Reyes140 Witting912
+Gender: M
+Birthdate: 1999-04-05
+Address: 846 Reichel Fork
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Risk activity involvement (finding)
+- Viral sinusitis (disorder)
+- Injury of tendon of the rotator cuff of shoulder
+- Hypertension
+- Received higher education (finding)
+- Full-time employment (finding)
+- Victim of intimate partner abuse (finding)
+- Acute viral pharyngitis (disorder)
+- Part-time employment (finding)
+- Stress (finding)
+
+== Current Medications ==
+- Hydrochlorothiazide 25 MG Oral Tablet
+- lisinopril 10 MG Oral Tablet
+
+== Past Procedures ==
+- Depression screening (procedure) (Date: 2012-04-30T14:26:35Z)
+- Medication Reconciliation (procedure) (Date: 2012-04-30T14:26:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2012-04-30T14:39:36Z)
+- Assessment of substance use (procedure) (Date: 2012-04-30T15:01:36Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2012-04-30T15:14:40Z)
+- Anticipatory guidance (procedure) (Date: 2012-04-30T15:29:01Z)
+- Depression screening (procedure) (Date: 2013-05-06T14:26:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2013-05-06T14:39:43Z)
+- Depression screening (procedure) (Date: 2014-05-12T14:26:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2014-05-12T14:38:25Z)
+- Assessment of substance use (procedure) (Date: 2014-05-12T15:07:08Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2014-05-12T15:17:56Z)
+- Health risks education (procedure) (Date: 2014-05-12T15:46:28Z)
+- Depression screening (procedure) (Date: 2015-05-18T14:26:35Z)
+- Medication Reconciliation (procedure) (Date: 2015-05-18T14:26:35Z)
+- Depression screening using Patient Health Questionnaire Nine Item score (procedure) (Date: 2015-05-18T14:41:28Z)
+- Assessment of substance use (procedure) (Date: 2015-05-18T15:10:07Z)
+- Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) (Date: 2015-05-18T15:21:02Z)
+- Anticipatory guidance (procedure) (Date: 2015-05-18T15:48:12Z)
+- Assessment of anxiety (procedure) (Date: 2016-05-23T14:26:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-05-29T14:26:35Z)
+- Assessment of anxiety (procedure) (Date: 2017-05-29T15:14:05Z)
+- Depression screening (procedure) (Date: 2017-05-29T15:41:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-05-29T15:54:19Z)
+- Assessment of health and social care needs (procedure) (Date: 2018-06-04T14:26:35Z)
+- Assessment of anxiety (procedure) (Date: 2018-06-04T15:25:56Z)
+- Assessment of substance use (procedure) (Date: 2018-06-04T15:51:01Z)
+- Screening for drug abuse (procedure) (Date: 2018-06-04T16:02:31Z)
+- Throat culture (procedure) (Date: 2019-03-22T16:26:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2019-06-10T14:26:35Z)
+- Medication Reconciliation (procedure) (Date: 2019-06-10T14:26:35Z)
+- Assessment of anxiety (procedure) (Date: 2019-06-10T15:15:03Z)
+- Depression screening (procedure) (Date: 2019-06-10T15:38:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2019-06-10T15:50:56Z)
+- Assessment of substance use (procedure) (Date: 2019-06-10T16:20:22Z)
+- Screening for drug abuse (procedure) (Date: 2019-06-10T16:32:54Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-06-15T14:26:35Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-15T14:26:35Z)
+- Assessment of anxiety (procedure) (Date: 2020-06-15T15:23:09Z)
+- Screening for domestic abuse (procedure) (Date: 2020-06-15T15:45:35Z)
+- Depression screening (procedure) (Date: 2020-06-15T16:10:50Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2020-06-15T16:22:13Z)
+- Assessment of substance use (procedure) (Date: 2020-06-15T16:46:41Z)
+- Screening for drug abuse (procedure) (Date: 2020-06-15T16:59:21Z)
+- Assessment of health and social care needs (procedure) (Date: 2021-06-21T14:26:35Z)
+- Assessment of anxiety (procedure) (Date: 2021-06-21T15:23:37Z)
+- Depression screening (procedure) (Date: 2021-06-21T15:43:41Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2021-06-21T15:55:32Z)
+- Assessment of substance use (procedure) (Date: 2021-06-21T16:19:22Z)
+- Screening for drug abuse (procedure) (Date: 2021-06-21T16:34:01Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-28T14:26:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-06-21T14:26:35Z: General examination of patient (procedure)
+- 2021-05-31T14:26:35Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-06-15T14:26:35Z: General examination of patient (procedure)
+- 2019-06-10T14:26:35Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-21T16:54:50Z Total score [DAST-10]: 1.0 {score}
+- 2021-06-21T16:19:22Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2021-06-21T15:43:41Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2021-06-21T15:23:37Z What is the highest level of school that you have finished?: More than high school nan
+- 2021-06-21T15:23:37Z What is your current work situation?: Full-time work nan
+- 2021-06-21T15:23:37Z What is your main insurance?: Private insurance nan
+- 2021-06-21T15:23:37Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 114961 /a
+- 2021-06-21T15:23:37Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan
+- 2021-06-21T15:23:37Z Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living?: No nan
+- 2021-06-21T15:23:37Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Not at all nan

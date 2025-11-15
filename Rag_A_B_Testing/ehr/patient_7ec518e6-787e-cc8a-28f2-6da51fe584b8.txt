@@ -1,0 +1,127 @@
+== PATIENT RECORD: Scott935 Jakubowski832 (ID: 7ec518e6-787e-cc8a-28f2-6da51fe584b8) ==
+
+== Demographics ==
+Patient ID: 7ec518e6-787e-cc8a-28f2-6da51fe584b8
+Name: Scott935 Jakubowski832
+Gender: M
+Birthdate: 1926-07-19
+Address: 447 Marquardt Village Suite 92
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Body mass index 30+ - obesity (finding)
+- Not in labor force (finding)
+- Atrial Fibrillation
+- Social isolation (finding)
+- Part-time employment (finding)
+- Full-time employment (finding)
+- Stress (finding)
+- Fracture of forearm
+- Victim of intimate partner abuse (finding)
+- Alzheimer's disease (disorder)
+- Osteoporosis (disorder)
+
+== Current Medications ==
+- Warfarin Sodium 5 MG Oral Tablet
+- Digoxin 0.125 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Naproxen sodium 220 MG Oral Tablet
+- Galantamine 4 MG Oral Tablet
+- Memantine hydrochloride 2 MG/ML Oral Solution
+- Alendronic acid 10 MG Oral Tablet
+
+== Past Procedures ==
+- Catheter ablation of tissue of heart (Date: 2001-01-15T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2001-01-15T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 2001-01-15T23:23:38Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2001-01-15T23:45:17Z)
+- Depression screening (procedure) (Date: 2001-01-16T00:05:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-01-16T00:19:34Z)
+- Assessment of substance use (procedure) (Date: 2001-01-16T00:48:34Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2001-01-16T00:59:26Z)
+- Upper arm X-ray (Date: 2001-02-15T02:06:37Z)
+- Bone immobilization (Date: 2001-02-15T02:06:37Z)
+- Bone density scan (procedure) (Date: 2001-02-15T02:34:00Z)
+- Colonoscopy (Date: 2001-07-19T01:30:38Z)
+- Catheter ablation of tissue of heart (Date: 2002-01-21T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-01-21T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2002-01-21T23:07:33Z)
+- Depression screening (procedure) (Date: 2002-01-21T23:25:11Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-01-21T23:37:56Z)
+- Electrical cardioversion (Date: 2003-01-27T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-01-27T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2003-01-27T23:15:20Z)
+- Depression screening (procedure) (Date: 2003-01-27T23:32:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-01-27T23:46:58Z)
+- Electrical cardioversion (Date: 2004-02-02T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-02-02T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2004-02-02T23:25:08Z)
+- Depression screening (procedure) (Date: 2004-02-02T23:48:15Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-02-02T23:59:44Z)
+- Assessment of substance use (procedure) (Date: 2004-02-03T00:19:53Z)
+- Screening for drug abuse (procedure) (Date: 2004-02-03T00:34:07Z)
+- Electrical cardioversion (Date: 2005-02-07T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-02-07T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 2005-02-07T23:31:30Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2005-02-07T23:56:46Z)
+- Depression screening (procedure) (Date: 2005-02-08T00:22:12Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-02-08T00:33:19Z)
+- Electrical cardioversion (Date: 2006-02-13T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-02-13T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 2006-02-13T23:21:22Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2006-02-13T23:44:52Z)
+- Screening for domestic abuse (procedure) (Date: 2006-02-14T00:14:37Z)
+- Depression screening (procedure) (Date: 2006-02-14T00:57:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-02-14T01:09:30Z)
+- Electrical cardioversion (Date: 2007-02-19T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-02-19T22:34:40Z)
+- Bone density scan (procedure) (Date: 2007-02-19T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2007-02-19T23:18:21Z)
+- Screening for domestic abuse (procedure) (Date: 2007-02-19T23:38:11Z)
+- Depression screening (procedure) (Date: 2007-02-20T00:13:44Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-02-20T00:28:43Z)
+- Catheter ablation of tissue of heart (Date: 2008-02-25T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-02-25T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2008-02-25T23:14:32Z)
+- Depression screening (procedure) (Date: 2008-02-25T23:37:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-02-25T23:51:01Z)
+- Electrical cardioversion (Date: 2009-03-02T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-03-02T22:34:40Z)
+- Medication Reconciliation (procedure) (Date: 2009-03-02T22:34:40Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2009-03-02T23:15:55Z)
+- Depression screening (procedure) (Date: 2009-03-02T23:35:01Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-03-02T23:46:19Z)
+- Assessment of substance use (procedure) (Date: 2009-03-03T00:14:47Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2009-03-03T00:26:03Z)
+- Catheter ablation of tissue of heart (Date: 2010-03-08T22:34:40Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-03-08T22:34:40Z)
+- Assessment of anxiety (procedure) (Date: 2010-03-08T23:18:18Z)
+- Assessment using Morse Fall Scale (procedure) (Date: 2010-03-08T23:41:14Z)
+- Screening for domestic abuse (procedure) (Date: 2010-03-09T00:00:50Z)
+- Depression screening (procedure) (Date: 2010-03-09T00:42:36Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2010-03-09T00:57:02Z)
+- Assessment of substance use (procedure) (Date: 2010-03-09T01:23:36Z)
+- Screening for drug abuse (procedure) (Date: 2010-03-09T01:37:33Z)
+
+== Recent Encounters (Last 5) ==
+- 2010-06-14T22:34:40Z: Death Certification
+- 2010-03-08T22:34:40Z: General examination of patient (procedure)
+- 2009-09-13T22:34:40Z: Office Visit
+- 2009-03-02T22:34:40Z: General examination of patient (procedure)
+- 2008-02-25T22:34:40Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2010-06-14T22:34:40Z Cause of Death [US Standard Certificate of Death]: Alzheimer's disease (disorder) nan
+- 2010-03-09T01:59:50Z Total score [DAST-10]: 1.0 {score}
+- 2010-03-09T01:23:36Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2010-03-09T00:42:36Z Total score [HARK]: 0.0 {score}
+- 2010-03-09T00:00:50Z Fall risk level [Morse Fall Scale]: High Risk (MFS Score 50+) nan
+- 2010-03-09T00:00:50Z Fall risk total [Morse Fall Scale]: 123.0 {#}
+- 2010-03-08T23:41:14Z Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]: 3.0 {score}
+- 2010-03-08T23:18:18Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: Less than once a week nan
+- 2010-03-08T23:18:18Z During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits.: 99067 /a
+- 2010-03-08T23:18:18Z In the past year  have you or any family members you live with been unable to get any of the following when it was really needed?: I choose not to answer this question nan

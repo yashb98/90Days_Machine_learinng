@@ -1,0 +1,46 @@
+== PATIENT RECORD: Reid278 Schimmel440 (ID: d042f0b1-7e1f-7adb-224d-991f597dade9) ==
+
+== Demographics ==
+Patient ID: d042f0b1-7e1f-7adb-224d-991f597dade9
+Name: Reid278 Schimmel440
+Gender: M
+Birthdate: 2018-01-03
+Address: 428 Langworth Neck Apt 25
+Marital Status: nan
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Acute bronchitis (disorder)
+
+== Current Medications ==
+- Acetaminophen 325 MG Oral Tablet
+
+== Past Procedures ==
+- Medication Reconciliation (procedure) (Date: 2018-01-03T11:01:28Z)
+- Medication Reconciliation (procedure) (Date: 2018-02-07T11:01:28Z)
+- Medication Reconciliation (procedure) (Date: 2018-06-13T11:01:28Z)
+- Medication Reconciliation (procedure) (Date: 2018-12-12T11:01:28Z)
+- Medication Reconciliation (procedure) (Date: 2020-06-10T11:01:28Z)
+- Measurement of respiratory function (procedure) (Date: 2021-05-19T09:01:28Z)
+- Medication Reconciliation (procedure) (Date: 2021-06-02T11:01:28Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-06-09T11:01:28Z: Well child visit (procedure)
+- 2021-06-02T11:01:28Z: Encounter for check up (procedure)
+- 2021-05-26T11:01:28Z: Urgent care clinic (procedure)
+- 2021-05-19T09:01:28Z: Encounter for symptom
+- 2020-12-09T11:01:28Z: Well child visit (procedure)
+
+== Recent Observations (Last 10) ==
+- 2021-06-09T11:01:28Z Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0 {score}
+- 2021-06-09T11:01:28Z Heart rate: 64.0 /min
+- 2021-06-09T11:01:28Z Body Height: 92.3 cm
+- 2021-06-09T11:01:28Z Body Weight: 11.9 kg
+- 2021-06-09T11:01:28Z Weight-for-length Per age and sex: 2.2 %
+- 2021-06-09T11:01:28Z Head Occipital-frontal circumference: 47.0 cm
+- 2021-06-09T11:01:28Z Body Mass Index: 14.0 kg/m2
+- 2021-06-09T11:01:28Z Diastolic Blood Pressure: 87.0 mm[Hg]
+- 2021-06-09T11:01:28Z Systolic Blood Pressure: 107.0 mm[Hg]
+- 2021-06-09T11:01:28Z Body mass index (BMI) [Percentile] Per age and gender: 3.2 %

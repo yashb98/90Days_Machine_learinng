@@ -1,0 +1,131 @@
+== PATIENT RECORD: Sharilyn202 Schmitt836 (ID: 53b5f4de-38ea-8da9-5474-e59ab7d9c88d) ==
+
+== Demographics ==
+Patient ID: 53b5f4de-38ea-8da9-5474-e59ab7d9c88d
+Name: Sharilyn202 Schmitt836
+Gender: F
+Birthdate: 1945-11-17
+Address: 567 McClure Wynd
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Received higher education (finding)
+- Stress (finding)
+- Part-time employment (finding)
+- Body mass index 30+ - obesity (finding)
+- Miscarriage in first trimester
+- Prediabetes
+- Social isolation (finding)
+- Familial Alzheimer's disease of early onset (disorder)
+- Full-time employment (finding)
+- Reports of violence in the environment (finding)
+- Victim of intimate partner abuse (finding)
+- Viral sinusitis (disorder)
+- Not in labor force (finding)
+- Limited social contact (finding)
+- Acute viral pharyngitis (disorder)
+- Atrial Fibrillation
+- Pneumonia
+
+== Current Medications ==
+- Donepezil hydrochloride 10 MG Oral Tablet
+- Donepezil hydrochloride 23 MG Oral Tablet
+- Warfarin Sodium 5 MG Oral Tablet
+- Verapamil Hydrochloride 40 MG
+- Digoxin 0.125 MG Oral Tablet
+
+== Past Procedures ==
+- Assessment of health and social care needs (procedure) (Date: 2001-12-22T05:20:04Z)
+- Screening for domestic abuse (procedure) (Date: 2001-12-22T05:51:09Z)
+- Depression screening (procedure) (Date: 2001-12-22T06:33:24Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2001-12-22T06:44:28Z)
+- Assessment of substance use (procedure) (Date: 2001-12-22T07:10:15Z)
+- Screening for drug abuse (procedure) (Date: 2001-12-22T07:24:35Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-11-23T05:20:04Z)
+- Depression screening (procedure) (Date: 2002-11-23T06:10:00Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2002-11-23T06:23:53Z)
+- Assessment of substance use (procedure) (Date: 2002-11-23T06:49:23Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2002-11-23T07:00:36Z)
+- Assessment of health and social care needs (procedure) (Date: 2002-12-28T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2002-12-28T05:20:04Z)
+- Assessment of anxiety (procedure) (Date: 2002-12-28T06:11:46Z)
+- Assessment of health and social care needs (procedure) (Date: 2003-11-15T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2003-11-15T05:20:04Z)
+- Assessment of anxiety (procedure) (Date: 2003-11-15T06:17:26Z)
+- Depression screening (procedure) (Date: 2003-11-15T06:41:05Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2003-11-15T06:54:45Z)
+- Assessment of substance use (procedure) (Date: 2003-11-15T07:16:19Z)
+- Screening for drug abuse (procedure) (Date: 2003-11-15T07:28:32Z)
+- Assessment of health and social care needs (procedure) (Date: 2004-01-03T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2004-01-03T05:20:04Z)
+- Screening for domestic abuse (procedure) (Date: 2004-01-03T06:05:52Z)
+- Depression screening (procedure) (Date: 2004-01-03T06:34:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2004-01-03T06:49:02Z)
+- Assessment of substance use (procedure) (Date: 2004-01-03T07:11:04Z)
+- Screening for drug abuse (procedure) (Date: 2004-01-03T07:21:45Z)
+- Assessment of health and social care needs (procedure) (Date: 2005-01-08T05:20:04Z)
+- Depression screening (procedure) (Date: 2005-01-08T06:09:42Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2005-01-08T06:24:35Z)
+- Colonoscopy (Date: 2005-11-17T06:49:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2006-01-14T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2006-01-14T05:20:04Z)
+- Depression screening (procedure) (Date: 2006-01-14T05:58:23Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2006-01-14T06:11:31Z)
+- Assessment of substance use (procedure) (Date: 2006-01-14T06:38:13Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2006-01-14T06:49:59Z)
+- Assessment of health and social care needs (procedure) (Date: 2007-01-20T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2007-01-20T05:20:04Z)
+- Assessment of anxiety (procedure) (Date: 2007-01-20T06:16:33Z)
+- Depression screening (procedure) (Date: 2007-01-20T06:42:32Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2007-01-20T06:54:02Z)
+- Assessment of substance use (procedure) (Date: 2007-01-20T07:23:43Z)
+- Screening for drug abuse (procedure) (Date: 2007-01-20T07:36:03Z)
+- Assessment of health and social care needs (procedure) (Date: 2008-01-26T05:20:04Z)
+- Screening for domestic abuse (procedure) (Date: 2008-01-26T06:13:19Z)
+- Depression screening (procedure) (Date: 2008-01-26T06:56:53Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2008-01-26T07:10:11Z)
+- Assessment of substance use (procedure) (Date: 2008-01-26T07:30:15Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2008-01-26T07:40:39Z)
+- Assessment of health and social care needs (procedure) (Date: 2009-01-31T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2009-01-31T05:20:04Z)
+- Assessment of anxiety (procedure) (Date: 2009-01-31T05:56:31Z)
+- Screening for domestic abuse (procedure) (Date: 2009-01-31T06:25:05Z)
+- Depression screening (procedure) (Date: 2009-01-31T06:57:52Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2009-01-31T07:09:15Z)
+- Assessment of substance use (procedure) (Date: 2009-01-31T07:29:26Z)
+- Screening for drug abuse (procedure) (Date: 2009-01-31T07:39:50Z)
+- Assessment of health and social care needs (procedure) (Date: 2010-02-06T05:20:04Z)
+- Medication Reconciliation (procedure) (Date: 2010-02-06T05:20:04Z)
+- Assessment of anxiety (procedure) (Date: 2010-02-06T06:17:33Z)
+- Screening for domestic abuse (procedure) (Date: 2010-02-06T06:45:20Z)
+- Assessment of substance use (procedure) (Date: 2010-02-06T07:21:00Z)
+- Screening for drug abuse (procedure) (Date: 2010-02-06T07:35:23Z)
+- Colonoscopy (Date: 2010-11-17T07:15:19Z)
+- Catheter ablation of tissue of heart (Date: 2011-02-12T05:20:04Z)
+- Assessment of health and social care needs (procedure) (Date: 2011-02-12T05:20:04Z)
+- Depression screening (procedure) (Date: 2011-02-12T06:17:31Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2011-02-12T06:27:49Z)
+- Assessment of substance use (procedure) (Date: 2011-02-12T06:53:39Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2011-02-12T07:06:04Z)
+
+== Recent Encounters (Last 5) ==
+- 2011-09-10T05:20:04Z: Death Certification
+- 2011-08-28T05:20:04Z: Hospital admission
+- 2011-02-12T05:20:04Z: General examination of patient (procedure)
+- 2010-11-17T07:15:19Z: Encounter for 'check-up'
+- 2010-02-06T05:20:04Z: General examination of patient (procedure)
+
+== Recent Observations (Last 10) ==
+- 2011-11-17T05:20:04Z QOLS: 0.9 {score}
+- 2011-11-17T05:20:04Z DALY: 2.7 a
+- 2011-11-17T05:20:04Z QALY: 62.3 a
+- 2011-09-10T05:20:04Z Cause of Death [US Standard Certificate of Death]: Pneumonia nan
+- 2011-02-12T07:26:54Z Total score [AUDIT-C]: 2.0 {score}
+- 2011-02-12T06:53:39Z Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]: 1.0 {score}
+- 2011-02-12T06:17:31Z What is your current work situation?: Part-time or temporary work nan
+- 2011-02-12T06:17:31Z In the past year  have you been afraid of your partner or ex-partner?: No nan
+- 2011-02-12T06:17:31Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2011-02-12T06:17:31Z Are you a refugee?: No nan

@@ -1,0 +1,75 @@
+== PATIENT RECORD: Lucius907 Abernathy524 (ID: 541cd3b1-d22b-3af8-f9f6-700d891df3ec) ==
+
+== Demographics ==
+Patient ID: 541cd3b1-d22b-3af8-f9f6-700d891df3ec
+Name: Lucius907 Abernathy524
+Gender: M
+Birthdate: 1992-02-07
+Address: 315 Windler Extension Suite 43
+Marital Status: M
+
+== Allergies ==
+None on record.
+
+== Active Conditions / Problem List ==
+- Appendicitis
+- History of appendectomy
+- Received certificate of high school equivalency (finding)
+- Full-time employment (finding)
+- Chronic low back pain (finding)
+- Chronic neck pain (finding)
+- Limited social contact (finding)
+- Stress (finding)
+- Social isolation (finding)
+- Chronic intractable migraine without aura
+- Victim of intimate partner abuse (finding)
+- Whiplash injury to neck
+
+== Current Medications ==
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+- Ibuprofen 200 MG Oral Tablet
+
+== Past Procedures ==
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-05T18:45:20Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-08T19:38:25Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-11T20:32:57Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-14T21:17:51Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-17T22:10:11Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-20T22:40:57Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-23T23:15:47Z)
+- Cognitive and behavioral therapy (regime/therapy) (Date: 2014-02-27T00:01:09Z)
+- Assessment of health and social care needs (procedure) (Date: 2014-04-11T18:45:20Z)
+- Assessment of anxiety (procedure) (Date: 2014-04-11T19:35:26Z)
+- Depression screening (procedure) (Date: 2014-04-11T19:54:21Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2014-04-11T20:06:12Z)
+- Assessment of substance use (procedure) (Date: 2014-04-11T20:31:36Z)
+- Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) (Date: 2014-04-11T20:43:38Z)
+- Assessment of health and social care needs (procedure) (Date: 2017-04-14T18:45:20Z)
+- Medication Reconciliation (procedure) (Date: 2017-04-14T18:45:20Z)
+- Depression screening (procedure) (Date: 2017-04-14T19:40:07Z)
+- Depression screening using Patient Health Questionnaire Two-Item score (procedure) (Date: 2017-04-14T19:55:03Z)
+- Assessment of substance use (procedure) (Date: 2017-04-14T20:20:17Z)
+- Screening for drug abuse (procedure) (Date: 2017-04-14T20:32:57Z)
+- Assessment of health and social care needs (procedure) (Date: 2020-04-17T18:45:20Z)
+- Medication Reconciliation (procedure) (Date: 2020-04-17T18:45:20Z)
+- Assessment of substance use (procedure) (Date: 2020-04-17T19:19:55Z)
+- Screening for drug abuse (procedure) (Date: 2020-04-17T19:33:48Z)
+
+== Recent Encounters (Last 5) ==
+- 2021-09-17T19:11:09Z: Emergency room admission (procedure)
+- 2021-05-14T18:45:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2021-04-23T18:45:20Z: Administration of vaccine to produce active immunity (procedure)
+- 2020-04-17T18:45:20Z: General examination of patient (procedure)
+- 2018-07-07T18:45:20Z: Encounter Inpatient
+
+== Recent Observations (Last 10) ==
+- 2021-02-07T18:45:20Z QOLS: 0.2 {score}
+- 2021-02-07T18:45:20Z DALY: 8.4 a
+- 2021-02-07T18:45:20Z QALY: 19.6 a
+- 2020-04-17T20:01:28Z Total score [DAST-10]: 0.0 {score}
+- 2020-04-17T19:19:55Z Do you feel physically and emotionally safe where you currently live?: Yes nan
+- 2020-04-17T19:19:55Z Are you a refugee?: No nan
+- 2020-04-17T19:19:55Z In the past year  have you been afraid of your partner or ex-partner?: Yes nan
+- 2020-04-17T19:19:55Z In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility?: No nan
+- 2020-04-17T19:19:55Z Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you?: Very much nan
+- 2020-04-17T19:19:55Z How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)?: 3 to 5 times a week nan
