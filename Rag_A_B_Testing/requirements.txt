@@ -5,7 +5,8 @@ requests
 python-dotenv
 pyarrow
 faiss-cpu
-
+ollama
+mistralai
 
 # --- RAG Core Service (rag_core_service.py) ---
 # For data manipulation, context loading, and matrix ops (embeddings)
@@ -14,6 +15,7 @@ numpy
 
 # Google GenAI SDK (For live Gemini 2.5 Pro generation and embedding-001 API calls)
 google-genai 
+google-generativeai
 
 # --- Notes for Deployment ---
 # 1. This list assumes you handle the Mistral-7B inference via an external 
