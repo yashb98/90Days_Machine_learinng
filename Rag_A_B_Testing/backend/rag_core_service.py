@@ -19,6 +19,8 @@ import ollama
 from ollama import Client
 from mistralai import Mistral
 
+from sentence_transformers import CrossEncoder
+
 # --- Configuration and Environment Setup ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 EHR_CACHE_FILE = os.path.join(SCRIPT_DIR, 'ehr_cache.parquet')
@@ -37,6 +39,7 @@ VECTOR_STORE_INDEX = None
 GEMINI_CLIENT = None      # For Model B (Gemini)
 OLLAMA_CLIENT = None      # For Embeddings
 MISTRAL_CLIENT = None     # For Model A (Mistral)
+RERANK_MODEL = None
 
 # ====================================================================
 # ARCHITECTURE STEP 1: EMBEDDING & RETRIEVAL (Ollama/Faiss)
@@ -45,11 +48,10 @@ MISTRAL_CLIENT = None     # For Model A (Mistral)
 
 def init_retrieval_components():
     """
-    Initializes all clients (Gemini, Ollama, Mistral), loads the Parquet cache,
-    and builds the Faiss index.
+    Initializes all clients, loads cache, builds Faiss index,
+    and loads the reranking model.
     """
-    # ... (This function is unchanged) ...
-    global CONTEXT_DATA, VECTOR_STORE_INDEX, GEMINI_CLIENT, OLLAMA_CLIENT, MISTRAL_CLIENT
+    global CONTEXT_DATA, VECTOR_STORE_INDEX, GEMINI_CLIENT, OLLAMA_CLIENT, MISTRAL_CLIENT, RERANK_MODEL
 
     # 1. Load .env file
     load_dotenv()
@@ -87,6 +89,17 @@ def init_retrieval_components():
     else:
         print("RAG Core Warning: MISTRAL_API_KEY not set. Model A (Mistral AI) will be unavailable.", file=sys.stderr)
 
+    # Load reranking Model
+    try:
+        # This is a lightweight but powerful reranker.
+        # It's not a medical-specific one, but it's a great start.
+        RERANK_MODEL = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
+        print("RAG Core: Reranking model (Cross-Encoder) loaded.")
+    except Exception as e:
+        print(
+            f"RAG Core Error: Could not load reranking model. {e}", file=sys.stderr)
+        # We can let the app continue, but reranking will fail
+
     # 5. Load Parquet cache file
     print(f"RAG Core: Attempting to load optimized cache: {EHR_CACHE_FILE}")
     try:
@@ -123,14 +136,22 @@ def init_retrieval_components():
 
 def retrieve_context_with_faiss(query: str, top_k: int = 3) -> str:
     """
-    Executes a live vector search using Ollama Embeddings and the Faiss index.
+    Executes a 2-STAGE (Retrieve + Rerank) vector search.
     """
+    # --- Constants for the 2-stage process ---
+    RETRIEVE_K = 10  # 1. Retrieve 10 candidates from Faiss
+    FINAL_K = top_k  # 2. Rerank and return the top 3
+
     if OLLAMA_CLIENT is None:
         return "Retrieval Failed: Ollama Client not initialized."
     if not isinstance(VECTOR_STORE_INDEX, faiss.Index):
-        return "Retrieval Failed: Faiss index is not built or data not loaded."
+        return "Retrieval Failed: Faiss index is not built."
+    if RERANK_MODEL is None:
+        return "Retrieval Failed: Reranker model not loaded."
 
     try:
+        # === STAGE 1: RETRIEVE (Fast) ===
+
         # 1. Generate Query Embedding
         response = OLLAMA_CLIENT.embed(
             model=OLLAMA_EMBED_MODEL_ID,
@@ -141,35 +162,56 @@ def retrieve_context_with_faiss(query: str, top_k: int = 3) -> str:
         # 2. Prepare vector for Faiss
         query_vector = np.array([query_embedding]).astype('float32')
 
-        # 3. Perform the search
-        distances, indices = VECTOR_STORE_INDEX.search(query_vector, k=top_k)
+        # 3. Perform Faiss Search (Get 10 candidates)
+        distances, indices = VECTOR_STORE_INDEX.search(
+            query_vector, k=RETRIEVE_K)
 
-        # 4. Retrieve the matching documents
+        # 4. Retrieve the matching document content
         retrieved_indices = indices[0]
         matches = CONTEXT_DATA.iloc[retrieved_indices]
 
         if matches.empty:
             return "No relevant context found in vector store."
 
-        # --- ⭐️ NEW: Format as an HTML numbered list ⭐️ ---
-        # This will be rendered nicely in the "Retrieved Context"
-        # section of your frontend.
+        # === STAGE 2: RERANK (Smart) ===
+
+        # 5. Create pairs of [query, document_text] for the reranker
+        pairs = []
+        for _, row in matches.iterrows():
+            pairs.append([query, row['content']])
+
+        # 6. Get relevance scores from the Cross-Encoder
+        # This predict() call is the "smart" part.
+        scores = RERANK_MODEL.predict(pairs)
+
+        # 7. Combine matches with their new scores
+        # We can't just use iloc anymore, so we store the full row
+        scored_matches = list(zip(scores, matches.iterrows()))
+
+        # 8. Sort by the new score (highest score first)
+        scored_matches.sort(key=lambda x: x[0], reverse=True)
+
+        # 9. Get the Top-K (FINAL_K) documents from the *reranked* list
+        final_matches = [row for score,
+                         (index, row) in scored_matches[:FINAL_K]]
+
+        # === Format Output ===
+
+        # 10. Format as the same HTML numbered list as before
         retrieved_chunks = [
             f"<li><b>[Source {row['patient_id']}]:</b> {row['content']}</li>"
-            for _, row in matches.iterrows()
+            for row in final_matches
         ]
 
-        # Wrap all list items in an <ol> (ordered list) tag
         return "<ol>\n" + "\n".join(retrieved_chunks) + "\n</ol>"
 
     except Exception as e:
+        # Add e to the output for better debugging
         return f"Retrieval Failed (Local Error): {e}"
 
 # ====================================================================
 # ARCHITECTURE STEP 2: MODEL INFERENCE (Mistral-7B vs. Gemini Pro)
 # ====================================================================
-
-# --- ⭐️ UPDATED FUNCTION ⭐️ ---
 
 
 def call_mistral_ai_api(context: str, query: str) -> str:
@@ -179,7 +221,7 @@ def call_mistral_ai_api(context: str, query: str) -> str:
     if MISTRAL_CLIENT is None:
         return "ERROR: Mistral AI Client (Mode A) not initialized. Check MISTRAL_API_KEY."
 
-    # --- ⭐️ NEW, SMARTER SYSTEM PROMPT ⭐️ ---
+    # ---  NEW, SMARTER SYSTEM PROMPT  ---
     system_prompt = (
         "You are a helpful medical assistant. Use the following EHR context ONLY to answer the question concisely. "
         "If the user asks for a list of items (like conditions, risks, or findings), you MUST categorize the results and "
@@ -206,7 +248,6 @@ def call_mistral_ai_api(context: str, query: str) -> str:
 # --- END OF UPDATED FUNCTION ---
 
 
-# --- ⭐️ UPDATED FUNCTION ⭐️ ---
 def call_gemini_pro(context: str, query: str) -> str:
     """
     Calls the live Gemini API for generation (Mode B: Reasoning/Synthesis).
@@ -214,7 +255,7 @@ def call_gemini_pro(context: str, query: str) -> str:
     if GEMINI_CLIENT is None:
         return "ERROR: Gemini Client not initialized. Check API Key environment variable."
 
-    # --- ⭐️ NEW, SMARTER SYSTEM PROMPT ⭐️ ---
+    # ---  NEW, SMARTER SYSTEM PROMPT  ---
     system_instruction = (
         "You are a highly capable medical assistant. Use the provided EHR CONTEXT ONLY to answer the question. "
         "Your response must be grounded in the context. "

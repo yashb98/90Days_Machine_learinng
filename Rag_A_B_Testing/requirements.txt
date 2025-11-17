@@ -21,3 +21,10 @@ google-generativeai
 # 1. This list assumes you handle the Mistral-7B inference via an external 
 #    service (like vLLM) called over HTTP.
 # 2. In a production environment, always pin your dependencies to specific versions (e.g., pandas==2.1.0).
+# For the reranking model
+sentence-transformers
+
+# For the clinical entity extraction (evaluation)
+
+scispacy
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_core_sci_sm-0.5.3.tar.gz
