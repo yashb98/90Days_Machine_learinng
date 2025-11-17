@@ -17,7 +17,7 @@ from google.genai import types
 # --- UPDATED: Import Ollama and Mistral AI (New Structure) ---
 import ollama
 from ollama import Client
-from mistralai import Mistral  # <-- CORRECTED IMPORT
+from mistralai import Mistral
 
 # --- Configuration and Environment Setup ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
