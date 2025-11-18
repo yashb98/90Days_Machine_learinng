@@ -1,3 +1,4 @@
+import re  # Ensure 're' is imported at the top
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv  # 1. Utility to load environment variables from .env
@@ -104,11 +105,65 @@ app = Flask(__name__)
 CORS(app)
 
 
+# --- NEW GUARDRAIL FUNCTION  ---
+
+# ---  UPDATED GUARDRAIL FUNCTION (Fixes HTML Artifacts)  ---
+def check_safety_guardrail(generated_text: str, raw_context: str) -> Dict[str, Any]:
+    """
+    Security Layer: Checks if the LLM generated medical concepts 
+    that do not exist in the source text (Hallucination Check).
+    Includes robust cleaning to prevent HTML tags from triggering false positives.
+    """
+    if NLP_MODEL is None:
+        return {"status": "DISABLED", "hallucinated_concepts": []}
+
+    # 1. Aggressive HTML Cleaning
+    # We replace tags with spaces to prevent words from merging (e.g., "DrugA</li><li>DrugB")
+    clean_text = re.sub(r'<[^>]*>', ' ', generated_text)
+
+    # 2. Extract entities using AI (scispaCy)
+    generated_ents = get_entities(clean_text)
+    context_ents = get_entities(raw_context)
+
+    # 3. Find Potential Hallucinations (AI Set Difference)
+    potential_hallucinations = list(generated_ents.difference(context_ents))
+
+    # 4. String Presence Check (The Fallback Fix)
+    confirmed_hallucinations = []
+
+    for entity in potential_hallucinations:
+        # A. Clean the entity itself (Remove any lingering tags/punctuation)
+        # This fixes the "penicillin v</li>" issue
+        clean_entity_str = re.sub(r'<[^>]*>', '', entity).strip()
+
+        # B. Check if this clean string exists in the raw context
+        # We use case-insensitive matching
+        if clean_entity_str and clean_entity_str.lower() not in raw_context.lower():
+            confirmed_hallucinations.append(clean_entity_str)
+
+    # 5. Filter out noise (very short words like 'mg', 'tab')
+    final_hallucinations = [h for h in confirmed_hallucinations if len(h) > 2]
+
+    if final_hallucinations:
+        return {
+            "status": "FLAGGED",
+            "warning": "Potential Hallucination Detected",
+            "message": f"The model mentioned {len(final_hallucinations)} concepts not found in the source records.",
+            "hallucinated_concepts": final_hallucinations
+        }
+    else:
+        return {
+            "status": "SAFE",
+            "message": "No hallucinations detected.",
+            "hallucinated_concepts": []
+        }
+
+
 @app.route('/api/rag_query', methods=['POST'])
 def handle_rag_query():
     """
     API Gateway Endpoint:
-    Receives query, calls RAG, and now also calculates F1 score.
+    Executes RAG, Evaluation (F1), and Safety Guardrails.
     """
     try:
         data = request.get_json()
@@ -120,28 +175,36 @@ def handle_rag_query():
 
         print(f"Flask Server: Received /api/rag_query. Mode: {mode}")
 
-        # Call the RAG Core Service to execute the retrieval and LLM call
+        # 1. Get RAG Response
         response_data = get_rag_response(query, mode)
 
-        # --- NEW: Calculate F1 Score ---
+        # 2. Run Evaluation (F1 Score)
         if NLP_MODEL:
-            # We use the raw query as the key for our ground truth DB
-            eval_metrics = calculate_concept_f1(response_data['answer'], query)
-            # Add the metrics to our JSON response
-            response_data['evaluation_metrics'] = eval_metrics
+            response_data['evaluation_metrics'] = calculate_concept_f1(
+                response_data['answer'], query)
         else:
             response_data['evaluation_metrics'] = {
                 "error": "NLP model not loaded."}
-        # --- End of NEW: Calculate F1 Score ---
+
+        # 3. Run Safety Guardrail
+        # We use the 'raw_context' we extracted in rag_core_service
+        raw_ctx = response_data.get('raw_context', '')
+
+        response_data['safety_guardrail'] = check_safety_guardrail(
+            response_data['answer'],
+            raw_ctx
+        )
+
+        # 4. Cleanup (Don't send massive raw text to frontend)
+        response_data.pop('raw_context', None)
 
         return jsonify(response_data)
 
     except Exception as e:
-        # Critical error logging
         print(f"FATAL API Gateway Error: {e}", file=sys.stderr)
         return jsonify({
-            "error": "Internal Server Error during RAG execution.",
-            "details": str(e),  # <-- UPDATED: Provide specific error details
+            "error": "Internal Server Error",
+            "details": str(e),
             "model_name": "System Error"
         }), 500
 

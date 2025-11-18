@@ -134,80 +134,73 @@ def init_retrieval_components():
             f"RAG Core Error: Failed to build Faiss index. Error: {e}", file=sys.stderr)
 
 
-def retrieve_context_with_faiss(query: str, top_k: int = 3) -> str:
+# ... (Imports and Init functions remain the same) ...
+
+# --- ⭐️ UPDATED FUNCTION: Returns Dict instead of String ⭐️ ---
+def retrieve_context_with_faiss(query: str, top_k: int = 3) -> Dict[str, str]:
     """
-    Executes a 2-STAGE (Retrieve + Rerank) vector search.
+    Executes retrieval + reranking and returns BOTH the HTML display
+    and the raw text for the safety guardrail.
     """
-    # --- Constants for the 2-stage process ---
-    RETRIEVE_K = 10  # 1. Retrieve 10 candidates from Faiss
-    FINAL_K = top_k  # 2. Rerank and return the top 3
+    RETRIEVE_K = 10
+    FINAL_K = top_k
+
+    # Error handling returns empty raw text
+    error_response = {"context_html": "", "raw_context_text": ""}
 
     if OLLAMA_CLIENT is None:
-        return "Retrieval Failed: Ollama Client not initialized."
+        error_response["context_html"] = "Retrieval Failed: Ollama Client not initialized."
+        return error_response
     if not isinstance(VECTOR_STORE_INDEX, faiss.Index):
-        return "Retrieval Failed: Faiss index is not built."
+        error_response["context_html"] = "Retrieval Failed: Faiss index is not built."
+        return error_response
     if RERANK_MODEL is None:
-        return "Retrieval Failed: Reranker model not loaded."
+        error_response["context_html"] = "Retrieval Failed: Reranker model not loaded."
+        return error_response
 
     try:
-        # === STAGE 1: RETRIEVE (Fast) ===
-
-        # 1. Generate Query Embedding
+        # 1. Retrieve (Standard Faiss Logic)
         response = OLLAMA_CLIENT.embed(
-            model=OLLAMA_EMBED_MODEL_ID,
-            input=query
-        )
+            model=OLLAMA_EMBED_MODEL_ID, input=query)
         query_embedding = response['embeddings'][0]
-
-        # 2. Prepare vector for Faiss
         query_vector = np.array([query_embedding]).astype('float32')
-
-        # 3. Perform Faiss Search (Get 10 candidates)
         distances, indices = VECTOR_STORE_INDEX.search(
             query_vector, k=RETRIEVE_K)
 
-        # 4. Retrieve the matching document content
-        retrieved_indices = indices[0]
-        matches = CONTEXT_DATA.iloc[retrieved_indices]
-
+        matches = CONTEXT_DATA.iloc[indices[0]]
         if matches.empty:
-            return "No relevant context found in vector store."
+            error_response["context_html"] = "No relevant context found."
+            return error_response
 
-        # === STAGE 2: RERANK (Smart) ===
-
-        # 5. Create pairs of [query, document_text] for the reranker
-        pairs = []
-        for _, row in matches.iterrows():
-            pairs.append([query, row['content']])
-
-        # 6. Get relevance scores from the Cross-Encoder
-        # This predict() call is the "smart" part.
+        # 2. Rerank (Standard Cross-Encoder Logic)
+        pairs = [[query, row['content']] for _, row in matches.iterrows()]
         scores = RERANK_MODEL.predict(pairs)
-
-        # 7. Combine matches with their new scores
-        # We can't just use iloc anymore, so we store the full row
         scored_matches = list(zip(scores, matches.iterrows()))
-
-        # 8. Sort by the new score (highest score first)
         scored_matches.sort(key=lambda x: x[0], reverse=True)
-
-        # 9. Get the Top-K (FINAL_K) documents from the *reranked* list
         final_matches = [row for score,
                          (index, row) in scored_matches[:FINAL_K]]
 
-        # === Format Output ===
+        # 3. Format Output (THE CHANGE IS HERE)
 
-        # 10. Format as the same HTML numbered list as before
+        # A. Create HTML for Frontend
         retrieved_chunks = [
             f"<li><b>[Source {row['patient_id']}]:</b> {row['content']}</li>"
             for row in final_matches
         ]
+        context_html = "<ol>\n" + "\n".join(retrieved_chunks) + "\n</ol>"
 
-        return "<ol>\n" + "\n".join(retrieved_chunks) + "\n</ol>"
+        # B. Aggregate Raw Text for Guardrail
+        raw_context_text = " ".join([row['content'] for row in final_matches])
+
+        return {
+            "context_html": context_html,
+            "raw_context_text": raw_context_text
+        }
 
     except Exception as e:
-        # Add e to the output for better debugging
-        return f"Retrieval Failed (Local Error): {e}"
+        error_response["context_html"] = f"Retrieval Failed (Local Error): {e}"
+        return error_response
+
 
 # ====================================================================
 # ARCHITECTURE STEP 2: MODEL INFERENCE (Mistral-7B vs. Gemini Pro)
@@ -289,7 +282,6 @@ def call_gemini_pro(context: str, query: str) -> str:
 
 def get_rag_response(query: str, mode: str) -> Dict[str, Any]:
     """Orchestrates the A/B test RAG pipeline."""
-    # ... (This function is unchanged) ...
     start_time = time.time()
 
     if OLLAMA_CLIENT is None or CONTEXT_DATA is None or CONTEXT_DATA.empty:
@@ -312,41 +304,51 @@ def get_rag_response(query: str, mode: str) -> Dict[str, Any]:
                 'latency_ms': f"{(time.time() - start_time) * 1000:.0f} ms"
             }
 
-    # 1. Retrieval Layer (Still local)
-    context = retrieve_context_with_faiss(query, top_k=3)
+    # 1. Retrieval Layer
+    # --- CHANGE 1: Unpack the dictionary returned by the new retrieve function ---
+    retrieval_result = retrieve_context_with_faiss(query, top_k=3)
 
-    if "Retrieval Failed" in context or "ERROR" in context or "Failure" in context:
+    # For the User/Frontend
+    context_html = retrieval_result["context_html"]
+    # For the LLM/Guardrail
+    raw_context = retrieval_result["raw_context_text"]
+
+    # --- CHANGE 2: Check for errors in the HTML string ---
+    if "Retrieval Failed" in context_html or "ERROR" in context_html or "Failure" in context_html:
         return {
             'mode': mode,
             'answer': "RAG System Failure during context retrieval.",
-            'context': context,
+            'context': context_html,
             'model_name': "System Failure",
             'latency_ms': f"{(time.time() - start_time) * 1000:.0f} ms"
         }
 
     # 2. Model Selection & Generation (A/B Test)
+    # --- CHANGE 3: Pass 'raw_context' to the models, NOT the HTML ---
     if mode == 'A':
         if MISTRAL_CLIENT is None:
             answer = "ERROR: Mode A is unavailable. Mistral AI Client not initialized. Check API Key."
             model_name = "System Failure"
         else:
-            answer = call_mistral_ai_api(context, query)
+            answer = call_mistral_ai_api(raw_context, query)
             model_name = f"{MISTRAL_MODEL_ID} (Baseline/Stable - Mistral AI API)"
     else:  # mode == 'B'
         if GEMINI_CLIENT is None:
             answer = "ERROR: Mode B is unavailable. Gemini Client not initialized. Check API Key."
             model_name = "System Failure"
         else:
-            answer = call_gemini_pro(context, query)
+            answer = call_gemini_pro(raw_context, query)
             model_name = f"{GEMINI_MODEL_ID} (Candidate/Reasoning - Live API Call)"
 
     end_time = time.time()
 
     # 3. Structure Output for API Gateway
+    # --- CHANGE 4: Return 'raw_context' so app.py can use it for the Guardrail ---
     return {
         'mode': mode,
         'answer': answer,
-        'context': context,
+        'context': context_html,    # Send HTML to frontend for display
+        'raw_context': raw_context,  # Send Raw Text to app.py for Guardrail check
         'model_name': model_name,
         'latency_ms': f"{(end_time - start_time) * 1000:.0f} ms"
     }
