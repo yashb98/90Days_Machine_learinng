@@ -107,43 +107,50 @@ app = Flask(__name__)
 CORS(app)
 
 
-# --- NEW GUARDRAIL FUNCTION  ---
+# --- GUARDRAIL FUNCTION  ---
 
-# ---  UPDATED GUARDRAIL FUNCTION (Fixes HTML Artifacts)  ---
+
 def check_safety_guardrail(generated_text: str, raw_context: str) -> Dict[str, Any]:
     """
     Security Layer: Checks if the LLM generated medical concepts 
     that do not exist in the source text (Hallucination Check).
-    Includes robust cleaning to prevent HTML tags from triggering false positives.
+    Handles HTML, Markdown, and Case Sensitivity.
     """
     if NLP_MODEL is None:
         return {"status": "DISABLED", "hallucinated_concepts": []}
 
-    # 1. Aggressive HTML Cleaning
-    # We replace tags with spaces to prevent words from merging (e.g., "DrugA</li><li>DrugB")
-    clean_text = re.sub(r'<[^>]*>', ' ', generated_text)
+    # 1. Clean HTML tags (replace with space to avoid word merging)
+    # e.g. "DrugA</li><li>DrugB" -> "DrugA  DrugB"
+    text_no_html = re.sub(r'<[^>]+>', ' ', generated_text)
 
-    # 2. Extract entities using AI (scispaCy)
+    # 2. Clean Markdown symbols (replace with space)
+    # e.g. "**Allergies**Penicillin" -> "  Allergies  Penicillin"
+    clean_text = re.sub(r'[\*\#\-\•]', ' ', text_no_html)
+
+    # 3. Extract entities using AI (scispaCy)
+    # Note: get_entities() already converts everything to .lower()
     generated_ents = get_entities(clean_text)
     context_ents = get_entities(raw_context)
 
-    # 3. Find Potential Hallucinations (AI Set Difference)
+    # 4. Find Potential Hallucinations (AI Set Difference)
     potential_hallucinations = list(generated_ents.difference(context_ents))
 
-    # 4. String Presence Check (The Fallback Fix)
+    # 5. String Presence Check (The Ultimate Fallback)
     confirmed_hallucinations = []
 
+    # We normalize the context once for speed and accuracy
+    # Remove punctuation from context to ensure "Penicillin-V" matches "Penicillin V"
+    normalized_context = re.sub(r'[^\w\s]', ' ', raw_context).lower()
+
     for entity in potential_hallucinations:
-        # A. Clean the entity itself (Remove any lingering tags/punctuation)
-        # This fixes the "penicillin v</li>" issue
-        clean_entity_str = re.sub(r'<[^>]*>', '', entity).strip()
+        # Clean the entity string (remove punctuation, trim spaces)
+        clean_entity_str = re.sub(r'[^\w\s]', ' ', entity).strip().lower()
 
-        # B. Check if this clean string exists in the raw context
-        # We use case-insensitive matching
-        if clean_entity_str and clean_entity_str.lower() not in raw_context.lower():
-            confirmed_hallucinations.append(clean_entity_str)
+        # Check if this clean string exists in the normalized context
+        if clean_entity_str and clean_entity_str not in normalized_context:
+            confirmed_hallucinations.append(entity)
 
-    # 5. Filter out noise (very short words like 'mg', 'tab')
+    # 6. Filter out noise (very short words like 'mg', 'no', 'dr')
     final_hallucinations = [h for h in confirmed_hallucinations if len(h) > 2]
 
     if final_hallucinations:
