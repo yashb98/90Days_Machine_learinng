@@ -198,7 +198,7 @@ def handle_rag_query():
         )
 
         # 4. Cleanup (Don't send massive raw text to frontend)
-        response_data.pop('raw_context', None)
+        # response_data.pop('raw_context', None)
 
         return jsonify(response_data)
 

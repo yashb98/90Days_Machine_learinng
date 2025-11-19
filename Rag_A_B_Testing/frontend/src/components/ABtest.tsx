@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
-import { Minus, ThumbsUp, Loader, Zap, Cpu, CheckCircle } from 'lucide-react';
+import { Minus, ThumbsUp, Loader, Zap, Cpu, CheckCircle, Pencil, Save, X } from 'lucide-react';
 
 // --- Configuration ---
 // NOTE: In a real environment, this should point to the AWS ALB/CloudFront URL of the API Gateway.
 const API_URL = '/api/rag_query'; 
+const SUBMIT_URL = '/api/submit_correction';
 
 // Define the shape of the data returned by the backend
 interface RAGResult {
@@ -12,6 +13,11 @@ interface RAGResult {
   context: string;
   model_name: string;
   latency_ms: string; // Added latency
+  raw_context: string 
+  safety_guardrail?: {
+    status: string;
+    hallucinated_concepts: string[];
+  };
 }
 
 // Define the shape of the feedback object (Phase 5)
@@ -42,6 +48,10 @@ const ABtest: React.FC = () => {
   const [result, setResult] = useState<RAGResult | null>(null);
   const [loading, setLoading] = useState(false);
   const [modal, setModal] = useState<{ title: string; message: string } | null>(null);
+  const [isEditing, setIsEditing] = useState(false);
+  const [editedAnswer, setEditedAnswer] = useState("");
+
+
   
   // --- FIX ---
   // Renamed 'feedbackLog' to '_feedbackLog' to satisfy the TypeScript
@@ -91,7 +101,38 @@ const ABtest: React.FC = () => {
       setLoading(false);
     }
   };
+  
+  const handelSubmitCorrection = async() => {
+    if (!result) return;
+    try{
+      const payload= {
+        query: query,
+        context: result.raw_context,
+        original_answer: result.answer,
+        corrected_answer: editedAnswer,
+        model_name: result.model_name,
+        mode: result.mode,
+      };
 
+      const response = await fetch(SUBMIT_URL, {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(payload),
+      });
+
+      if (response.ok) {
+        showMessage("Success", "Correctoon Saved to Dataset!")
+        setIsEditing(false);
+        setResult({...result, answer: editedAnswer});
+      }
+      else {
+        showMessage("Error", "Failed to save Correction.");
+      }
+    }
+    catch(error){
+      console.error("Error submitting correction: ", error)
+    }
+  };
   const recordFeedback = (isPositive: boolean) => {
     if (!result) return;
     
@@ -163,13 +204,70 @@ const ABtest: React.FC = () => {
           {/* RAG Answer Card */}
           {result && (
             <div className={`border-l-4 ${getCardStyle(result.mode).split(' ')[0]} ${getCardStyle(result.mode).split(' ')[1]} ${getCardStyle(result.mode).split(' ')[2]} p-4 rounded-xl shadow-lg transition duration-300`}>
-                <h3 className={`text-xl font-bold mb-2 flex items-center ${getCardStyle(result.mode).split(' ')[2]}`}>
-                    <CheckCircle className="w-6 h-6 mr-2"/>
-                    RAG Final Answer (<span id="active_mode" className="ml-1 font-mono text-base">{result.model_name}</span>)
-                </h3>
-                {/* Use dangerouslySetInnerHTML to render the structured HTML/Markdown from the backend */}
-                <div id="rag_answer" className="text-gray-700 text-base" dangerouslySetInnerHTML={{ __html: result.answer }} />
                 
+                {/* Header with Edit Toggle */}
+                <div className="flex justify-between items-start mb-2">
+                  <h3 className={`text-xl font-bold flex items-center ${getCardStyle(result.mode).split(' ')[2]}`}>
+                      <CheckCircle className="w-6 h-6 mr-2"/>
+                      RAG Final Answer (<span id="active_mode" className="ml-1 font-mono text-base">{result.model_name}</span>)
+                  </h3>
+                  
+                  {/* Only show Edit button if not currently editing */}
+                  {!isEditing && (
+                    <button 
+                      onClick={() => { 
+                        setIsEditing(true); 
+                        // Pre-fill the editor with the current answer
+                        setEditedAnswer(result.answer); 
+                      }}
+                      className="flex items-center text-xs md:text-sm bg-white border border-gray-300 text-gray-600 px-3 py-1 rounded-lg hover:bg-gray-50 transition shadow-sm"
+                    >
+                      <Pencil className="w-3 h-3 md:w-4 md:h-4 mr-1"/> Edit Answer
+                    </button>
+                  )}
+                </div>
+
+                {/* Conditional Rendering: Edit Mode vs Read Mode */}
+                {isEditing ? (
+                  <div className="mt-2 animate-in fade-in duration-200">
+                    <textarea
+                      value={editedAnswer}
+                      onChange={(e) => setEditedAnswer(e.target.value)}
+                      className="w-full p-3 border border-blue-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-800 font-mono text-sm bg-white shadow-inner"
+                      rows={8}
+                      placeholder="Correct the answer here..."
+                    />
+                    <div className="flex space-x-3 mt-3 justify-end">
+                       <button 
+                        onClick={() => setIsEditing(false)}
+                        className="flex items-center px-4 py-2 text-gray-600 bg-gray-200 rounded-lg hover:bg-gray-300 transition"
+                      >
+                        <X className="w-4 h-4 mr-1"/> Cancel
+                      </button>
+                      <button 
+                        onClick={handelSubmitCorrection}
+                        className="flex items-center px-4 py-2 text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition shadow-md"
+                      >
+                        <Save className="w-4 h-4 mr-1"/> Save to Dataset
+                      </button>
+                    </div>
+                  </div>
+                ) : (
+                  // Normal Read Mode (renders HTML)
+                  <div id="rag_answer" className="text-gray-700 text-base" dangerouslySetInnerHTML={{ __html: result.answer }} />
+                )}
+                
+                {/* Display Guardrail Warning if it exists (From Day 43) */}
+                {result.safety_guardrail?.status === 'FLAGGED' && !isEditing && (
+                   <div className="mt-4 p-3 bg-red-50 border border-red-200 rounded-lg text-red-800 text-sm flex items-start">
+                     <span className="mr-2">⚠️</span>
+                     <div>
+                       <strong>Potential Hallucination Detected:</strong> The model mentioned concepts not found in the source text: 
+                       <span className="font-mono ml-1">{result.safety_guardrail.hallucinated_concepts.join(", ")}</span>
+                     </div>
+                   </div>
+                )}
+
                 {/* Feedback Loop (Phase 5) */}
                 <div className="mt-4 flex items-center space-x-4 text-sm text-gray-500 border-t pt-3 mt-3">
                     <span className="font-medium text-gray-700">Was this response accurate and helpful?</span>
