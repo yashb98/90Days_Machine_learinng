@@ -222,40 +222,55 @@ def handle_rag_query():
 def submit_correction():
     """
     Saves Query, Original Answer, and Corrected Answer in a structured JSON array.
+    Robustly handles file corruption or format mismatches.
     """
     try:
         data = request.get_json()
 
-        # Validation: Ensure we have all the text fields we need
+        # Validation
         required = ['query', 'original_answer', 'corrected_answer']
         if not all(k in data for k in required):
             return jsonify({"error": "Missing required fields"}), 400
 
-        # 1. Create the clean entry
         new_entry = {
             "instruction": data['query'],
-            # <--- Added this field
             "original_model_output": data['original_answer'],
             "corrected_output": data['corrected_answer']
         }
 
-        # 2. Read existing data (if file exists)
         existing_data = []
+
+        # Read existing data
         if os.path.exists(DATASET_FILE):
             try:
                 with open(DATASET_FILE, 'r', encoding='utf-8') as f:
-                    content = f.read()
-                    if content.strip():
-                        existing_data = json.loads(content)
+                    content = f.read().strip()
+                    if content:
+                        loaded_data = json.loads(content)
+
+                        # --- FIX: Ensure it's a list ---
+                        if isinstance(loaded_data, list):
+                            existing_data = loaded_data
+                        elif isinstance(loaded_data, dict):
+                            # If it's a single dict, wrap it in a list
+                            print(
+                                "Warning: Converting dict dataset to list.", file=sys.stderr)
+                            existing_data = [loaded_data]
+                        else:
+                            # Unknown format, start fresh
+                            print(
+                                "Warning: Dataset format unknown. Starting fresh.", file=sys.stderr)
+                            existing_data = []
+
             except json.JSONDecodeError:
                 print(
                     "Warning: Could not decode existing JSON. Starting fresh.", file=sys.stderr)
                 existing_data = []
 
-        # 3. Add new entry to the list
+        # Add new entry
         existing_data.append(new_entry)
 
-        # 4. Write back the entire list with Pretty Printing
+        # Write back
         with open(DATASET_FILE, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, indent=4, ensure_ascii=False)
 
@@ -264,6 +279,7 @@ def submit_correction():
 
     except Exception as e:
         print(f"Error saving correction: {e}", file=sys.stderr)
+        # Return the specific error message to the frontend for easier debugging
         return jsonify({"error": str(e)}), 500
 
 
