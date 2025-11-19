@@ -6,7 +6,9 @@ import os
 import sys  # Added for path correction
 from typing import Dict, Any, Set
 import spacy
-# import medspacy # Not directly used but good to know it's there
+import json
+import time
+
 
 # --- Load Environment Variables from .env File (MUST BE FIRST) ---
 load_dotenv()
@@ -17,7 +19,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 if SCRIPT_DIR not in sys.path:
     sys.path.append(SCRIPT_DIR)
 # --- End Path Setup ---
-
+DATASET_FILE = os.path.join(SCRIPT_DIR, 'fine_tuning_dataset.jsonl')
 # 2. Now import the RAG Core Service.
 try:
     from rag_core_service import get_rag_response
@@ -207,6 +209,46 @@ def handle_rag_query():
             "details": str(e),
             "model_name": "System Error"
         }), 500
+
+
+@app.route('/api/submit_correction', methods=['POST'])
+def submit_correction():
+    """
+    Saves user corrections to a JSONL file for future fine-tuning.
+    """
+    try:
+        data = request.get_json()
+
+        # Validation
+        required_fields = ['query', 'context',
+                           'original_answer', 'corrected_answer']
+        if not all(k in data for k in required_fields):
+            return jsonify({"error": "Missing required fields"}), 400
+
+        # Construct the data entry
+        # We save it in a versatile format that keeps all context
+        entry = {
+            "timestamp": time.time(),
+            "query": data['query'],
+            "retrieved_context": data['context'],  # The raw context text
+            "model_prediction": data['original_answer'],
+            "human_correction": data['corrected_answer'],
+            "metadata": {
+                "model_used": data.get('model_name', 'unknown'),
+                "latency": data.get('latency', 'unknown')
+            }
+        }
+
+        # Append to JSONL file (Thread-safe enough for local dev)
+        with open(DATASET_FILE, 'a', encoding='utf-8') as f:
+            f.write(json.dumps(entry) + '\n')
+
+        print(f" Saved correction for query: {data['query'][:30]}...")
+        return jsonify({"status": "success", "message": "Correction saved successfully"}), 200
+
+    except Exception as e:
+        print(f"Error saving correction: {e}", file=sys.stderr)
+        return jsonify({"error": str(e)}), 500
 
 
 if __name__ == '__main__':
