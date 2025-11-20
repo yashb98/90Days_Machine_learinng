@@ -21,13 +21,13 @@ jobs:
       - name: Build and push Backend
         uses: docker/build-push-action@v5
         with:
-          context: ./backend
+          context: ./Rag_A_B_Testing/backend
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/medical-rag-backend:latest
 
       - name: Build and push Frontend
         uses: docker/build-push-action@v5
         with:
-          context: ./frontend
+          context:  ./Rag_A_B_Testing/frontend
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/medical-rag-frontend:latest

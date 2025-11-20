@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./backend
+        working-directory: ./Rag_A_B_Testing/backend
 
     steps:
     - uses: actions/checkout@v4
@@ -41,7 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./frontend
+        working-directory: ./Rag_A_B_Testing/frontend
 
     steps:
     - uses: actions/checkout@v4
