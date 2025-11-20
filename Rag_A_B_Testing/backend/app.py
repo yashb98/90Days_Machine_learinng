@@ -62,6 +62,23 @@ GROUND_TRUTH_DB = {
 }
 
 
+def redact_pii(text: str) -> str:
+    """
+    Detects and replaces PII (Names, Dates, IDs) with placeholders like <PERSON>, <DATE>.
+    """
+    # 1. Analyze (Find PII)
+    results = analyzer.analyze(text=text, entities=[
+                               "PERSON", "DATE_TIME", "PHONE_NUMBER", "EMAIL_ADDRESS"], language='en')
+
+    # 2. Anonymize (Replace PII)
+    anonymized_result = anonymizer.anonymize(
+        text=text,
+        analyzer_results=results
+    )
+
+    return anonymized_result.text
+
+
 def get_entities(text: str) -> Set[str]:
     """Uses scispaCy to extract all unique medical entities from text."""
     if NLP_MODEL is None:
