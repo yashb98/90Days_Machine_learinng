@@ -62,6 +62,21 @@ GROUND_TRUTH_DB = {
 }
 
 
+def clean_text_artifacts(text: str) -> str:
+    """
+    1. Removes trailing numbers from words (e.g., "Donetta1" -> "Donetta").
+    2. Removes excessive whitespace.
+    """
+    # Regex: Find words that end in digits, keep only the word part
+    # pattern: ([a-zA-Z]+)\d+ -> replace with \1 (the letters only)
+    text_clean = re.sub(r'\b([a-zA-Z]+)\d+\b', r'\1', text)
+
+    # Optional: Clean up extra spaces caused by removals
+    text_clean = re.sub(r'\s+', ' ', text_clean).strip()
+
+    return text_clean
+
+
 def redact_pii(text: str) -> str:
     """
     Detects and replaces PII (Names, Dates, IDs) with placeholders like <PERSON>.
@@ -264,10 +279,20 @@ def submit_correction():
         if not all(k in data for k in required):
             return jsonify({"error": "Missing required fields"}), 400
 
+        # 1. Clean Artifacts (Donetta1 -> Donetta)
+        # We clean the text first so standard AI models can recognize the names
+        q_clean = clean_text_artifacts(data['query'])
+        a_orig_clean = clean_text_artifacts(data['original_answer'])
+        a_corr_clean = clean_text_artifacts(data['corrected_answer'])
+
+        clean_instruction = redact_pii(q_clean)
+        clean_original = redact_pii(a_orig_clean)
+        clean_correction = redact_pii(a_corr_clean)
+
         new_entry = {
-            "instruction": data['query'],
-            "original_model_output": data['original_answer'],
-            "corrected_output": data['corrected_answer']
+            "instruction": clean_instruction,
+            "original_model_output": clean_original,
+            "corrected_output": clean_correction
         }
 
         existing_data = []
