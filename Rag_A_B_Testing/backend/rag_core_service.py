@@ -28,6 +28,7 @@ EHR_CACHE_FILE = os.path.join(SCRIPT_DIR, 'ehr_cache.parquet')
 # --- Generative Models ---
 GEMINI_MODEL_ID = "models/gemini-pro-latest"
 MISTRAL_MODEL_ID = "mistral-tiny"  # Using Mistral 7B via their API
+OLLAMA_BASE_URL = os.environ.get("OLLAMA_BASE_URL", "http://localhost:11434")
 
 # --- Embedding Model (Ollama) ---
 OLLAMA_EMBED_MODEL_ID = "mxbai-embed-large"
@@ -69,12 +70,14 @@ def init_retrieval_components():
 
     # 3. Instantiate Ollama Client (for Embeddings)
     try:
-        OLLAMA_CLIENT = Client()
+        # UPDATE THIS LINE to use the variable
+        OLLAMA_CLIENT = Client(host=OLLAMA_BASE_URL)
+
         OLLAMA_CLIENT.list()  # Test connection
-        print("RAG Core: Ollama Client initialized (for Embeddings).")
+        print(f"RAG Core: Ollama Client initialized at {OLLAMA_BASE_URL}")
     except Exception as e:
-        print("RAG Core ERROR: Failed to connect to Ollama.", file=sys.stderr)
-        print("Ensure Ollama is running. Retrieval will fail.", file=sys.stderr)
+        print(
+            f"RAG Core ERROR: Failed to connect to Ollama at {OLLAMA_BASE_URL}. Error: {e}", file=sys.stderr)
         return
 
     # 4. Instantiate Mistral AI Client (for Model A)
