@@ -1,10 +1,11 @@
-from app import clean_text_artifacts
-import sys
-import os
-import pytest
 
-# Add parent directory to path so we can import app
+import pytest
+import os
+import sys
+
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from app import clean_text_artifacts  # noqa: E402
+# Add parent directory to path so we can import app
 
 
 def test_clean_text_artifacts():
