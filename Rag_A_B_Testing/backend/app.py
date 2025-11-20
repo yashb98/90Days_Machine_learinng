@@ -64,19 +64,29 @@ GROUND_TRUTH_DB = {
 
 def redact_pii(text: str) -> str:
     """
-    Detects and replaces PII (Names, Dates, IDs) with placeholders like <PERSON>, <DATE>.
+    Detects and replaces PII (Names, Dates, IDs) with placeholders like <PERSON>.
+    Uses Microsoft Presidio for industry-standard de-identification.
     """
-    # 1. Analyze (Find PII)
-    results = analyzer.analyze(text=text, entities=[
-                               "PERSON", "DATE_TIME", "PHONE_NUMBER", "EMAIL_ADDRESS"], language='en')
+    try:
+        # 1. Analyze: Find the PII entities
+        # We explicitly look for PERSON, LOCATION, DATE_TIME, etc.
+        results = analyzer.analyze(
+            text=text,
+            entities=["PERSON", "PHONE_NUMBER",
+                      "EMAIL_ADDRESS", "DATE_TIME", "LOCATION"],
+            language='en'
+        )
 
-    # 2. Anonymize (Replace PII)
-    anonymized_result = anonymizer.anonymize(
-        text=text,
-        analyzer_results=results
-    )
+        # 2. Anonymize: Replace them with tags
+        anonymized_result = anonymizer.anonymize(
+            text=text,
+            analyzer_results=results
+        )
 
-    return anonymized_result.text
+        return anonymized_result.text
+    except Exception as e:
+        print(f"PII Redaction Warning: {e}", file=sys.stderr)
+        return text  # Fallback: return original text if scrubber fails
 
 
 def get_entities(text: str) -> Set[str]:
