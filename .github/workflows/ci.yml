@@ -31,6 +31,7 @@ jobs:
         pip install torch --index-url https://download.pytorch.org/whl/cpu
         # 2. Install the rest (ignoring the torch line in requirements.txt if it conflicts)
         pip install -r requirements.txt
+        export PYTHONPATH=$PYTHONPATH:.
         python -m pytest tests/test_security.py
         python -m spacy download en_core_web_lg
 
