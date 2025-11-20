@@ -25,6 +25,8 @@ google-generativeai
 sentence-transformers
 
 # For the clinical entity extraction (evaluation)
+presidio-analyzer 
+presidio-anonymizer
 
 scispacy
 https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_core_sci_sm-0.5.3.tar.gz

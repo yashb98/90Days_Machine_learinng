@@ -8,7 +8,12 @@ from typing import Dict, Any, Set
 import spacy
 import json
 import time
+from presidio_analyzer import AnalyzerEngine
+from presidio_anonymizer import AnonymizerEngine
 
+# Initialize Engines (This loads the general English model)
+analyzer = AnalyzerEngine()
+anonymizer = AnonymizerEngine()
 
 # --- Load Environment Variables from .env File (MUST BE FIRST) ---
 load_dotenv()
