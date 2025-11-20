@@ -32,6 +32,7 @@ jobs:
         # 2. Install the rest (ignoring the torch line in requirements.txt if it conflicts)
         pip install -r requirements.txt
         pip install pytest
+        python -m spacy download en_core_web_lg
 
     - name: Run Unit Tests
       run: |
