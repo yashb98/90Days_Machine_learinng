@@ -1,7 +1,12 @@
 import 'dart:async';
+import 'dart:convert';
+import 'dart:typed_data';
+import 'dart:isolate';
+import 'package:flutter/foundation.dart'; // For compute()
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:permission_handler/permission_handler.dart';
+import 'package:image/image.dart' as img;
 
 late List<CameraDescription> _cameras;
 
@@ -36,8 +41,11 @@ class CameraScreen extends StatefulWidget {
 class _CameraScreenState extends State<CameraScreen> {
   CameraController? controller;
   bool isStreaming = false;
-  int frameCount = 0;
-  String debugStatus = "Initializing..."; // New variable for on-screen logs
+  String debugStatus = "Initializing...";
+  
+  // Throttling Control
+  bool isProcessingFrame = false; 
+  DateTime? lastFrameTime;
 
   @override
   void initState() {
@@ -55,14 +63,16 @@ class _CameraScreenState extends State<CameraScreen> {
   }
 
   void _initCamera() {
-    // Using first camera (usually back)
-    controller = CameraController(_cameras[0], ResolutionPreset.medium, enableAudio: false);
+    controller = CameraController(
+      _cameras[0], 
+      ResolutionPreset.medium, // 480p (640x480) - Good for AI
+      enableAudio: false,
+      imageFormatGroup: ImageFormatGroup.yuv420, // Force consistent format on Android
+    );
 
     controller!.initialize().then((_) {
       if (!mounted) return;
-      setState(() {
-        debugStatus = "Camera Ready. Tap Start.";
-      });
+      setState(() => debugStatus = "Camera Ready. Tap Start.");
     }).catchError((Object e) {
       if (e is CameraException) {
         debugPrint('Camera Error: ${e.description}');
@@ -70,7 +80,6 @@ class _CameraScreenState extends State<CameraScreen> {
     });
   }
 
-  // NEW FUNCTION: Controls the Start/Stop logic
   void _toggleStream() {
     if (controller == null || !controller!.value.isInitialized) return;
 
@@ -82,21 +91,56 @@ class _CameraScreenState extends State<CameraScreen> {
       });
     } else {
       controller!.startImageStream((CameraImage image) {
-        frameCount++;
-        
-        // Show log on screen every 10 frames
-        if (frameCount % 10 == 0) {
-          setState(() {
-            debugStatus = "Frames: $frameCount\nRes: ${image.width}x${image.height}\nFormat: ${image.format.group}";
-          });
-          
-          // Also print to terminal for verification
-          print(" FRAME CAPTURED | Bytes: ${image.planes[0].bytes.length}");
-        }
+        _processFrame(image);
       });
-      setState(() {
-        isStreaming = true;
-      });
+      setState(() => isStreaming = true);
+    }
+  }
+
+  // --- CORE LOGIC: THROTTLING & PROCESSING ---
+  Future<void> _processFrame(CameraImage image) async {
+    // 1. Throttle: Drop frame if we are already busy or it's too soon
+    if (isProcessingFrame) return; 
+    
+    final now = DateTime.now();
+    if (lastFrameTime != null && 
+        now.difference(lastFrameTime!) < const Duration(milliseconds: 1500)) {
+      return; // Skip frame (less than 1.5 seconds passed)
+    }
+
+    // Lock processing
+    isProcessingFrame = true;
+    lastFrameTime = now;
+
+    try {
+      // 2. Isolate: Move heavy work to background thread
+      // We must extract raw bytes here because 'CameraImage' can't be passed to isolates
+      final rawData = {
+        'width': image.width,
+        'height': image.height,
+        'format': image.format.group,
+        'planes': image.planes.map((plane) => {
+          'bytes': plane.bytes,
+          'bytesPerRow': plane.bytesPerRow,
+          'bytesPerPixel': plane.bytesPerPixel,
+        }).toList(),
+      };
+
+      // Run heavy compression & encoding in background
+      final String? base64Result = await compute(convertToBase64Jpeg, rawData);
+
+      if (base64Result != null) {
+        setState(() {
+          // Show the first 50 chars of the string to prove it worked
+          debugStatus = "Sent Frame!\nSize: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\nBase64: ${base64Result.substring(0, 30)}...";
+        });
+        print(" Payload Ready: ${(base64Result.length / 1024).toStringAsFixed(1)} KB");
+      }
+    } catch (e) {
+      print("Error processing frame: $e");
+    } finally {
+      // Unlock processing
+      isProcessingFrame = false;
     }
   }
 
@@ -109,8 +153,7 @@ class _CameraScreenState extends State<CameraScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Aura Vision Test")),
-      // NEW UI STRUCTURE: Column to hold Camera + Controls
+      appBar: AppBar(title: const Text("Aura Throttling Test")),
       body: Column(
         children: [
           Expanded(
@@ -125,13 +168,13 @@ class _CameraScreenState extends State<CameraScreen> {
             child: Column(
               children: [
                 Text(
-                  debugStatus, // Displaying logs here
-                  style: const TextStyle(color: Colors.white, fontSize: 16, fontFamily: 'monospace'),
+                  debugStatus,
+                  style: const TextStyle(color: Colors.white, fontSize: 14, fontFamily: 'monospace'),
                   textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 20),
                 ElevatedButton(
-                  onPressed: _toggleStream, // Hooked up to the toggle function
+                  onPressed: _toggleStream,
                   style: ElevatedButton.styleFrom(
                     backgroundColor: isStreaming ? Colors.red : Colors.green,
                   ),
@@ -143,5 +186,59 @@ class _CameraScreenState extends State<CameraScreen> {
         ],
       ),
     );
+  }
+}
+
+// --- ISOLATE FUNCTION (Runs in Background) ---
+// This must be a top-level function (outside any class)
+Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
+  try {
+    final width = data['width'] as int;
+    final height = data['height'] as int;
+    final format = data['format'] as ImageFormatGroup;
+    final planes = data['planes'] as List;
+
+    img.Image? image;
+
+    // Convert YUV420 (Android) to RGB
+    if (format == ImageFormatGroup.yuv420) {
+      // Note: This is a simplified YUV converter for demo speed.
+      // For production, use the full 'image' package YUV conversion logic.
+      image = img.Image(width: width, height: height);
+      final yPlane = planes[0]['bytes'] as Uint8List;
+      // Just using Y plane (Greyscale) is faster for testing and often sufficient for AI text reading
+      // If you need color, you must merge U and V planes (computationally expensive in Dart)
+      for (var y = 0; y < height; y++) {
+        for (var x = 0; x < width; x++) {
+          final pixel = yPlane[y * width + x];
+          image.setPixelRgb(x, y, pixel, pixel, pixel);
+        }
+      }
+    } 
+    // Convert BGRA8888 (iOS) to RGB
+    else if (format == ImageFormatGroup.bgra8888) {
+      final bytes = planes[0]['bytes'] as Uint8List;
+      image = img.Image.fromBytes(
+        width: width, 
+        height: height, 
+        bytes: bytes.buffer,
+        order: img.ChannelOrder.bgra
+      );
+    }
+
+    if (image == null) return null;
+
+    // 3. Resize to 640x480 (VGA)
+    final resized = img.copyResize(image, width: 640); // Height auto-scales
+
+    // 4. Compress to JPEG (Quality 70)
+    final jpegBytes = img.encodeJpg(resized, quality: 70);
+
+    // 5. Convert to Base64
+    return base64Encode(jpegBytes);
+
+  } catch (e) {
+    print("Isolate Error: $e");
+    return null;
   }
 }
