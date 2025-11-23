@@ -98,23 +98,21 @@ class _CameraScreenState extends State<CameraScreen> {
   }
 
   // --- CORE LOGIC: THROTTLING & PROCESSING ---
-  Future<void> _processFrame(CameraImage image) async {
-    // 1. Throttle: Drop frame if we are already busy or it's too soon
+ Future<void> _processFrame(CameraImage image) async {
     if (isProcessingFrame) return; 
-    
     final now = DateTime.now();
     if (lastFrameTime != null && 
         now.difference(lastFrameTime!) < const Duration(milliseconds: 1500)) {
-      return; // Skip frame (less than 1.5 seconds passed)
+      return; 
     }
 
-    // Lock processing
     isProcessingFrame = true;
     lastFrameTime = now;
 
+    //  START STOPWATCH
+    final stopwatch = Stopwatch()..start();
+
     try {
-      // 2. Isolate: Move heavy work to background thread
-      // We must extract raw bytes here because 'CameraImage' can't be passed to isolates
       final rawData = {
         'width': image.width,
         'height': image.height,
@@ -126,20 +124,27 @@ class _CameraScreenState extends State<CameraScreen> {
         }).toList(),
       };
 
-      // Run heavy compression & encoding in background
       final String? base64Result = await compute(convertToBase64Jpeg, rawData);
+
+      //  STOP STOPWATCH
+      stopwatch.stop();
+      final int processTime = stopwatch.elapsedMilliseconds;
 
       if (base64Result != null) {
         setState(() {
-          // Show the first 50 chars of the string to prove it worked
-          debugStatus = "Sent Frame!\nSize: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\nBase64: ${base64Result.substring(0, 30)}...";
+          // Update UI with Latency Stats
+          debugStatus = "Sent Frame!\n"
+              "Size: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\n"
+              "Latency: ${processTime}ms\n" // <--- NEW METRIC
+              "Base64: ${base64Result.substring(0, 20)}...";
         });
-        print(" Payload Ready: ${(base64Result.length / 1024).toStringAsFixed(1)} KB");
+        
+        // Log it to terminal so you can graph it later
+        print(" Payload Ready: ${(base64Result.length / 1024).toStringAsFixed(1)} KB | Time: ${processTime}ms");
       }
     } catch (e) {
       print("Error processing frame: $e");
     } finally {
-      // Unlock processing
       isProcessingFrame = false;
     }
   }
