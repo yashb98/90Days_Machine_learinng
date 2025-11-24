@@ -5,8 +5,8 @@ import 'package:sound_stream/sound_stream.dart';
 
 class PcmAudioService {
     final PlayerStream _player = PlayerStream();
-    final StreamController<Unit8List> _audioStreamController = StreamController<Unit8List>();
-    StreamSubscription<Unit8List>? _audioSubscription;
+    final StreamController<Uint8List> _audioStreamController = StreamController<Uint8List>();
+    StreamSubscription<Uint8List>? _audioSubscription;
     bool _isInitialized = false;
 
     static const int sampleRate = 24000;
@@ -29,7 +29,7 @@ class PcmAudioService {
         _isInitialized= true;
         print("PCM Audio Engine Initialised at ${sampleRate}Hz");
     } 
-    void feedAudioChunk(Unit8List chunk) {
+    void feedAudioChunk(Uint8List chunk) {
         if(!_isInitialized) {
             print("Warning: Audio player not initialised yet.");
             return;
