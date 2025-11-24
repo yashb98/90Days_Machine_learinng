@@ -63,7 +63,7 @@ class _CameraScreenState extends State<CameraScreen> {
     _initAudio();
   }
 
-  Future<void> _initAudo() async{
+  Future<void> _initAudio() async{
     await _audioService.initialize();
     await _audioService.start(); // Start the engine (it will wait for data)
   }

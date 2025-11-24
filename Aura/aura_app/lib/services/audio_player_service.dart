@@ -17,7 +17,7 @@ class PcmAudioService {
         // 1. Initialise the player via the plugin
         await _player.initialize(
             sampleRate:sampleRate,
-            showNotification:false,
+            
         );
         // 2. Connect oue custom stream controller to player's sink
         // This allows us to "feed" chunks into _audioStreamController later
@@ -35,7 +35,7 @@ class PcmAudioService {
             return;
         }
         // Add the chunk to the stream. The listener above will write it to the hardware.
-        _audioStreamController.add(chunk):
+        _audioStreamController.add(chunk);
     }
 
     // Call this function whenever you recieve a chunk from the AI Websocket
