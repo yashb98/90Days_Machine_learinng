@@ -135,7 +135,7 @@ class _CameraScreenState extends State<CameraScreen> {
           // Update UI with Latency Stats
           debugStatus = "Sent Frame!\n"
               "Size: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\n"
-              "Latency: ${processTime}ms\n" // <--- NEW METRIC
+              "Latency: ${processTime}ms\n" // <--- NEW METRICfl
               "Base64: ${base64Result.substring(0, 20)}...";
         });
         

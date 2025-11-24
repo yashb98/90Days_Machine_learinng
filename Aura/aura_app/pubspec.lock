@@ -381,6 +381,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  sound_stream:
+    dependency: "direct main"
+    description:
+      name: sound_stream
+      sha256: "534abce3531eaba52f04ea4c0808ec60da1b9db8a5f644042f14fa784343b540"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.2"
   source_span:
     dependency: transitive
     description:
