@@ -9,7 +9,7 @@ class PcmAudioService {
     StreamSubscription<Uint8List>? _audioSubscription;
     bool _isInitialized = false;
 
-    static const int sampleRate = 24000;
+    static const int sampleRate = 1600;
 
     Future<void> initialize() async {
         if(_isInitialized) return;

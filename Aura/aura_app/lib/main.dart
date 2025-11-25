@@ -57,7 +57,8 @@ class _CameraScreenState extends State<CameraScreen> {
   WebSocketChannel? _channel;
   //  REPLACE '192.168.1.X' WITH YOUR LAPTOP'S LOCAL IP ADDRESS!
   // Windows: run 'ipconfig', Mac/Linux: run 'ifconfig'
-  final String _socketUrl = 'ws://192.168.0.61.:8080/ws'; 
+  // final String _socketUrl = 'ws://127.0.0.1:8080/ws';
+  final String _socketUrl = 'ws://192.168.0.61:8080/ws';
   bool _isConnected = false;
 
   @override
@@ -72,6 +73,7 @@ class _CameraScreenState extends State<CameraScreen> {
   void _connectWebSocket() {
     try {
       _channel = WebSocketChannel.connect(Uri.parse(_socketUrl));
+      setState(() => _isConnected = true);
       print(" Connecting to Brain at $_socketUrl");
 
       // Listen for Audio from Brain
@@ -133,28 +135,7 @@ class _CameraScreenState extends State<CameraScreen> {
   }
 
     void _testAudioOutput() {
-    if (_isTestingAudio) return;
-    _isTestingAudio = true;
-
-    print("Starting Audio Test (White Noise)....");
-
-    //Simulate recieving 100 chunks of audio (White Noise)
-    Timer.periodic(const Duration(milliseconds: 20), (timer){
-      if (timer.tick > 50) {
-       // Stop after 1 second
-       timer.cancel();
-       _isTestingAudio= false;
-       print("Audio Test Complete.");
-       return;
-      }
-
-      // Generate random bytes (White Noise)
-      //PCM 16-bit = 2 byte per sample.
-      // 24000Hz / 50 ticks = 480 samples per tick * 2 bytes = 960 bytes
-
-      List<int> noise = List.generate(960, (index) => Random().nextInt(256));
-      _audioService.feedAudioChunk(Uint8List.fromList(noise));
-    });
+      print('Audio Test Disabled (Using Real AI Audio now)');
   }
 
   void _toggleStream() {
