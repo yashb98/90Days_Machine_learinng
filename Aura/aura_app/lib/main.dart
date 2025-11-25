@@ -1,3 +1,4 @@
+import 'package:web_socket_channel/web_socket_channel.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
@@ -46,43 +47,79 @@ class _CameraScreenState extends State<CameraScreen> {
   bool isStreaming = false;
   String debugStatus = "Initializing...";
   
-  // Throttling Control
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
 
-// Audio Service Instance
   final PcmAudioService _audioService = PcmAudioService();
   bool _isTestingAudio = false;
 
-
+  // --- NEW: WEBSOCKET VARIABLES ---
+  WebSocketChannel? _channel;
+  //  REPLACE '192.168.1.X' WITH YOUR LAPTOP'S LOCAL IP ADDRESS!
+  // Windows: run 'ipconfig', Mac/Linux: run 'ifconfig'
+  final String _socketUrl = 'ws://192.168.0.61.:8080/ws'; 
+  bool _isConnected = false;
 
   @override
   void initState() {
     super.initState();
     _requestPermissions();
     _initAudio();
+    _connectWebSocket(); 
   }
 
-  Future<void> _initAudio() async{
-    await _audioService.initialize();
-    await _audioService.start(); // Start the engine (it will wait for data)
-  }
+  // --- WEBSOCKET CONNECTION LOGIC ---
+  void _connectWebSocket() {
+    try {
+      _channel = WebSocketChannel.connect(Uri.parse(_socketUrl));
+      print(" Connecting to Brain at $_socketUrl");
 
-  Future<void> _requestPermissions() async {
-    var status = await Permission.camera.request();
-    if (status.isGranted) {
-      _initCamera();
-    } else {
-      setState(() => debugStatus = "Permission Denied");
+      // Listen for Audio from Brain
+      _channel!.stream.listen((message) {
+        // Update UI to show we are connected
+        if (!_isConnected) {
+          setState(() => _isConnected = true);
+        }
+
+        try {
+          final data = jsonDecode(message);
+          // If the backend sends audio, feed it to the player
+          if (data.containsKey('audio')) {
+            final audioBytes = base64Decode(data['audio']);
+            _audioService.feedAudioChunk(audioBytes);
+          }
+        } catch (e) {
+          print("Error parsing server message: $e");
+        }
+      }, onError: (error) {
+        print("WebSocket Error: $error");
+        setState(() => _isConnected = false);
+      }, onDone: () {
+        print("WebSocket Closed");
+        setState(() => _isConnected = false);
+      });
+    } catch (e) {
+      print("Connection Failed: $e");
     }
   }
 
+  Future<void> _initAudio() async {
+    await _audioService.initialize();
+    await _audioService.start(); 
+  }
+
+  Future<void> _requestPermissions() async {
+    await [Permission.camera, Permission.microphone].request();
+    _initCamera();
+  }
+
   void _initCamera() {
+    if (_cameras.isEmpty) return;
     controller = CameraController(
       _cameras[0],
-      ResolutionPreset.medium, //480p (640 x 480) - Good for AI
+      ResolutionPreset.medium, 
       enableAudio: false, 
-      imageFormatGroup: ImageFormatGroup.yuv420, //Force consistent format on Android
+      imageFormatGroup: ImageFormatGroup.yuv420, 
     );
 
     controller!.initialize().then((_) {
@@ -90,11 +127,12 @@ class _CameraScreenState extends State<CameraScreen> {
       setState(() => debugStatus = "Camera Ready. Tap to Start.");
     }).catchError((Object e) {
       if (e is CameraException) {
-        debugPrint('Camera Errror: ${e.description}');
+        debugPrint('Camera Error: ${e.description}');
       }
     });
   }
-  void _testAudioOutput() {
+
+    void _testAudioOutput() {
     if (_isTestingAudio) return;
     _isTestingAudio = true;
 
@@ -119,7 +157,6 @@ class _CameraScreenState extends State<CameraScreen> {
     });
   }
 
-
   void _toggleStream() {
     if (controller == null || !controller!.value.isInitialized) return;
 
@@ -137,8 +174,7 @@ class _CameraScreenState extends State<CameraScreen> {
     }
   }
 
-  // --- CORE LOGIC: THROTTLING & PROCESSING ---
- Future<void> _processFrame(CameraImage image) async {
+  Future<void> _processFrame(CameraImage image) async {
     if (isProcessingFrame) return; 
     final now = DateTime.now();
     if (lastFrameTime != null && 
@@ -149,7 +185,6 @@ class _CameraScreenState extends State<CameraScreen> {
     isProcessingFrame = true;
     lastFrameTime = now;
 
-    //  START STOPWATCH
     final stopwatch = Stopwatch()..start();
 
     try {
@@ -166,21 +201,25 @@ class _CameraScreenState extends State<CameraScreen> {
 
       final String? base64Result = await compute(convertToBase64Jpeg, rawData);
 
-      //  STOP STOPWATCH
       stopwatch.stop();
       final int processTime = stopwatch.elapsedMilliseconds;
 
       if (base64Result != null) {
+        // --- NEW: SEND IMAGE TO BACKEND ---
+        if (_channel != null && _isConnected) {
+            _channel!.sink.add(jsonEncode({
+                "image": base64Result
+            }));
+        }
+        // ----------------------------------
+
         setState(() {
-          // Update UI with Latency Stats
-          debugStatus = "Sent Frame!\n"
+          debugStatus = "Sent to Brain!\n" // Updated text
               "Size: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\n"
-              "Latency: ${processTime}ms\n" // <--- NEW METRICfl
-              "Base64: ${base64Result.substring(0, 20)}...";
+              "Latency: ${processTime}ms\n"
+              "Connected: $_isConnected"; // Show connection status
         });
-        
-        // Log it to terminal so you can graph it later
-        print(" Payload Ready: ${(base64Result.length / 1024).toStringAsFixed(1)} KB | Time: ${processTime}ms");
+        print("Payload Sent | Time: ${processTime}ms");
       }
     } catch (e) {
       print("Error processing frame: $e");
@@ -191,17 +230,16 @@ class _CameraScreenState extends State<CameraScreen> {
 
   @override
   void dispose() {
+    _channel?.sink.close(); // <--- NEW: Close connection
     _audioService.dispose();
     controller?.dispose();
     super.dispose();
   }
 
-
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Aura Vision + Audio ")),
+      appBar: AppBar(title: const Text("Aura Vision + Audio")),
       body: Column(
         children: [
           Expanded(
@@ -221,12 +259,9 @@ class _CameraScreenState extends State<CameraScreen> {
                   textAlign: TextAlign.center,
                 ),
                 const SizedBox(height: 20),
-                // Row to hold BOTH buttons side-by-side
-
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    // Button 1: Vision
                     ElevatedButton(
                       onPressed: _toggleStream,
                       style: ElevatedButton.styleFrom(
@@ -234,17 +269,15 @@ class _CameraScreenState extends State<CameraScreen> {
                       ),
                       child: Text(isStreaming ? "STOP EYES" : "ACTIVATE EYES"),
                     ),
-                    // Button 2: Audio
                     ElevatedButton(
-                      onPressed: _testAudioOutput, 
+                      onPressed: _testAudioOutput, // You can likely remove this button now
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: _isTestingAudio ? Colors.grey : Colors.blue,
+                        backgroundColor: _isConnected ? Colors.blue : Colors.grey,
                       ),
-                      child: const Text("TEST AUDIO"),
+                      child: Text(_isConnected ? "CONNECTED" : "OFFLINE"),
                     ),
                   ],
                 )
-                
               ],
             ),
           ),
