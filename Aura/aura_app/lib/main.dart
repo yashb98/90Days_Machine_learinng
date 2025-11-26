@@ -1,21 +1,25 @@
-import 'package:web_socket_channel/web_socket_channel.dart';
 import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
-import 'dart:math'; // For random noise generation
 import 'dart:isolate';
-import 'package:flutter/foundation.dart'; // For compute()
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:image/image.dart' as img;
+import 'package:web_socket_channel/web_socket_channel.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'services/audio_player_service.dart';
-
+import 'screens/login_screen.dart'; // Make sure you created this file in Step 1!
 
 late List<CameraDescription> _cameras;
 
+// 1. MAIN ENTRY POINT (Must be top-level)
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(); // Initialize Firebase
+  
   try {
     _cameras = await availableCameras();
   } on CameraException catch (e) {
@@ -24,13 +28,24 @@ Future<void> main() async {
   runApp(const MyApp());
 }
 
+// 2. ROOT WIDGET (Handles Auth State)
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: CameraScreen(),
+    return MaterialApp(
+      theme: ThemeData.dark(),
+      // Listens to Auth State: If logged in -> Camera, else -> Login
+      home: StreamBuilder<User?>(
+        stream: FirebaseAuth.instance.authStateChanges(),
+        builder: (context, snapshot) {
+          if (snapshot.hasData) {
+            return const CameraScreen(); 
+          }
+          return const LoginScreen();
+        },
+      ),
     );
   }
 }
@@ -53,12 +68,9 @@ class _CameraScreenState extends State<CameraScreen> {
   final PcmAudioService _audioService = PcmAudioService();
   bool _isTestingAudio = false;
 
-  // --- NEW: WEBSOCKET VARIABLES ---
-  WebSocketChannel? _channel;
-  //  REPLACE '192.168.1.X' WITH YOUR LAPTOP'S LOCAL IP ADDRESS!
-  // Windows: run 'ipconfig', Mac/Linux: run 'ifconfig'
-  // final String _socketUrl = 'ws://127.0.0.1:8080/ws';
+  // REPLACE WITH YOUR LAPTOP IP!
   final String _socketUrl = 'ws://192.168.0.61:8080/ws';
+  WebSocketChannel? _channel;
   bool _isConnected = false;
 
   @override
@@ -66,29 +78,43 @@ class _CameraScreenState extends State<CameraScreen> {
     super.initState();
     _requestPermissions();
     _initAudio();
+    // Connect logic handles the token now
     _connectWebSocket(); 
   }
 
-  // --- WEBSOCKET CONNECTION LOGIC ---
-  void _connectWebSocket() {
+  // --- NEW: SECURE CONNECTION LOGIC ---
+  Future<void> _connectWebSocket() async {
     try {
-      _channel = WebSocketChannel.connect(Uri.parse(_socketUrl));
-      setState(() => _isConnected = true);
-      print(" Connecting to Brain at $_socketUrl");
+      // 1. GET FIREBASE TOKEN
+      final user = FirebaseAuth.instance.currentUser;
+      final token = await user?.getIdToken();
 
-      // Listen for Audio from Brain
+      if (token == null) {
+        print("❌ No Auth Token Found. Cannot connect.");
+        return;
+      }
+
+      // 2. ATTACH TOKEN TO URL
+      final secureUrl = "$_socketUrl?token=$token";
+      print("🔌 Connecting with Token...");
+
+      _channel = WebSocketChannel.connect(Uri.parse(secureUrl));
+      
+      // 3. UPDATE UI IMMEDIATELY
+      setState(() => _isConnected = true);
+
       _channel!.stream.listen((message) {
-        // Update UI to show we are connected
-        if (!_isConnected) {
-          setState(() => _isConnected = true);
-        }
+        if (!_isConnected) setState(() => _isConnected = true);
 
         try {
           final data = jsonDecode(message);
-          // If the backend sends audio, feed it to the player
           if (data.containsKey('audio')) {
             final audioBytes = base64Decode(data['audio']);
-            _audioService.feedAudioChunk(audioBytes);
+            // print("🔊 Phone Received Audio: ${audioBytes.length} bytes");
+            
+            if (_audioService.isInitialized) {
+              _audioService.feedAudioChunk(audioBytes);
+            }
           }
         } catch (e) {
           print("Error parsing server message: $e");
@@ -134,8 +160,8 @@ class _CameraScreenState extends State<CameraScreen> {
     });
   }
 
-    void _testAudioOutput() {
-      print('Audio Test Disabled (Using Real AI Audio now)');
+  void _testAudioOutput() {
+    print('Audio Test Disabled (Using Real AI Audio now)');
   }
 
   void _toggleStream() {
@@ -186,19 +212,17 @@ class _CameraScreenState extends State<CameraScreen> {
       final int processTime = stopwatch.elapsedMilliseconds;
 
       if (base64Result != null) {
-        // --- NEW: SEND IMAGE TO BACKEND ---
         if (_channel != null && _isConnected) {
             _channel!.sink.add(jsonEncode({
                 "image": base64Result
             }));
         }
-        // ----------------------------------
 
         setState(() {
-          debugStatus = "Sent to Brain!\n" // Updated text
+          debugStatus = "Sent to Brain!\n" 
               "Size: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\n"
               "Latency: ${processTime}ms\n"
-              "Connected: $_isConnected"; // Show connection status
+              "Connected: $_isConnected"; 
         });
         print("Payload Sent | Time: ${processTime}ms");
       }
@@ -211,7 +235,7 @@ class _CameraScreenState extends State<CameraScreen> {
 
   @override
   void dispose() {
-    _channel?.sink.close(); // <--- NEW: Close connection
+    _channel?.sink.close();
     _audioService.dispose();
     controller?.dispose();
     super.dispose();
@@ -220,7 +244,18 @@ class _CameraScreenState extends State<CameraScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Aura Vision + Audio")),
+      // UPDATED APP BAR WITH LOGOUT
+      appBar: AppBar(
+        title: const Text("Aura Vision"),
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.logout),
+            onPressed: () async {
+              await FirebaseAuth.instance.signOut();
+            },
+          )
+        ],
+      ),
       body: Column(
         children: [
           Expanded(
@@ -251,7 +286,7 @@ class _CameraScreenState extends State<CameraScreen> {
                       child: Text(isStreaming ? "STOP EYES" : "ACTIVATE EYES"),
                     ),
                     ElevatedButton(
-                      onPressed: _testAudioOutput, // You can likely remove this button now
+                      onPressed: _testAudioOutput, 
                       style: ElevatedButton.styleFrom(
                         backgroundColor: _isConnected ? Colors.blue : Colors.grey,
                       ),
@@ -268,8 +303,6 @@ class _CameraScreenState extends State<CameraScreen> {
   }
 }
 
-// --- ISOLATE FUNCTION (Runs in Background) ---
-// This must be a top-level function (outside any class)
 Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
   try {
     final width = data['width'] as int;
@@ -279,23 +312,16 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
 
     img.Image? image;
 
-    // Convert YUV420 (Android) to RGB
     if (format == ImageFormatGroup.yuv420) {
-      // Note: This is a simplified YUV converter for demo speed.
-      // For production, use the full 'image' package YUV conversion logic.
       image = img.Image(width: width, height: height);
       final yPlane = planes[0]['bytes'] as Uint8List;
-      // Just using Y plane (Greyscale) is faster for testing and often sufficient for AI text reading
-      // If you need color, you must merge U and V planes (computationally expensive in Dart)
       for (var y = 0; y < height; y++) {
         for (var x = 0; x < width; x++) {
           final pixel = yPlane[y * width + x];
           image.setPixelRgb(x, y, pixel, pixel, pixel);
         }
       }
-    } 
-    // Convert BGRA8888 (iOS) to RGB
-    else if (format == ImageFormatGroup.bgra8888) {
+    } else if (format == ImageFormatGroup.bgra8888) {
       final bytes = planes[0]['bytes'] as Uint8List;
       image = img.Image.fromBytes(
         width: width, 
@@ -307,13 +333,8 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
 
     if (image == null) return null;
 
-    // 3. Resize to 640x480 (VGA)
-    final resized = img.copyResize(image, width: 640); // Height auto-scales
-
-    // 4. Compress to JPEG (Quality 60)
+    final resized = img.copyResize(image, width: 640); 
     final jpegBytes = img.encodeJpg(resized, quality: 60);
-
-    // 5. Convert to Base64
     return base64Encode(jpegBytes);
 
   } catch (e) {

@@ -9,7 +9,9 @@ class PcmAudioService {
     StreamSubscription<Uint8List>? _audioSubscription;
     bool _isInitialized = false;
 
-    static const int sampleRate = 1600;
+    bool get isInitialized => _isInitialized;
+
+    static const int sampleRate = 24000;
 
     Future<void> initialize() async {
         if(_isInitialized) return;
@@ -30,11 +32,9 @@ class PcmAudioService {
         print("PCM Audio Engine Initialised at ${sampleRate}Hz");
     } 
     void feedAudioChunk(Uint8List chunk) {
-        if(!_isInitialized) {
-            print("Warning: Audio player not initialised yet.");
-            return;
-        }
+        if(!_isInitialized) return;
         // Add the chunk to the stream. The listener above will write it to the hardware.
+        print("Player eating chunk: ${chunk.length} bytes");
         _audioStreamController.add(chunk);
     }
 
