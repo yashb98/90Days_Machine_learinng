@@ -1,0 +1,10 @@
+.git
+.gitignore
+venv/
+__pycache__/
+
+README.md
+serviceAccountKey.json
+!main.py
+!requirements.txt
+!Dockerfile
