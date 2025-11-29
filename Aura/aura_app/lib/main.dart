@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
-import 'dart:isolate';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
@@ -10,15 +9,14 @@ import 'package:image/image.dart' as img;
 import 'package:web_socket_channel/web_socket_channel.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'services/audio_player_service.dart';
-import 'screens/login_screen.dart'; // Make sure you created this file in Step 1!
+import 'package:flutter_tts/flutter_tts.dart'; 
+import 'screens/login_screen.dart';
 
 late List<CameraDescription> _cameras;
 
-// 1. MAIN ENTRY POINT (Must be top-level)
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(); // Initialize Firebase
+  await Firebase.initializeApp();
   
   try {
     _cameras = await availableCameras();
@@ -28,7 +26,6 @@ Future<void> main() async {
   runApp(const MyApp());
 }
 
-// 2. ROOT WIDGET (Handles Auth State)
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -36,7 +33,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData.dark(),
-      // Listens to Auth State: If logged in -> Camera, else -> Login
       home: StreamBuilder<User?>(
         stream: FirebaseAuth.instance.authStateChanges(),
         builder: (context, snapshot) {
@@ -61,13 +57,14 @@ class _CameraScreenState extends State<CameraScreen> {
   CameraController? controller;
   bool isStreaming = false;
   String debugStatus = "Initializing...";
+  String aiStatus = "IDLE"; // To show "Thinking" vs "Ready"
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
 
-  final PcmAudioService _audioService = PcmAudioService();
-  bool _isTestingAudio = false;
-
+  // --- CHANGED: Use FlutterTts instead of PcmAudioService ---
+  late FlutterTts flutterTts;
+  
   // REPLACE WITH YOUR LAPTOP IP!
   final String _socketUrl = 'ws://192.168.0.61:8080/ws';
   WebSocketChannel? _channel;
@@ -76,46 +73,76 @@ class _CameraScreenState extends State<CameraScreen> {
   @override
   void initState() {
     super.initState();
+    _initTts(); // Initialize TTS
     _requestPermissions();
-    _initAudio();
-    // Connect logic handles the token now
     _connectWebSocket(); 
   }
 
-  // --- NEW: SECURE CONNECTION LOGIC ---
+  // --- NEW: TTS INITIALIZATION ---
+  void _initTts() {
+    flutterTts = FlutterTts();
+    
+    // Configure voice settings
+    flutterTts.setLanguage("en-US");
+    flutterTts.setPitch(1.0);
+    flutterTts.setSpeechRate(0.5); // Normal speed
+    
+    // Handler to check if it's working
+    flutterTts.setStartHandler(() {
+      print("TTS Started playing");
+    });
+    
+    flutterTts.setCompletionHandler(() {
+      print("TTS Finished");
+    });
+    
+    flutterTts.setErrorHandler((msg) {
+      print("TTS Error: $msg");
+    });
+  }
+
   Future<void> _connectWebSocket() async {
     try {
-      // 1. GET FIREBASE TOKEN
       final user = FirebaseAuth.instance.currentUser;
       final token = await user?.getIdToken();
 
       if (token == null) {
-        print("❌ No Auth Token Found. Cannot connect.");
+        print("No Auth Token Found. Cannot connect.");
         return;
       }
 
-      // 2. ATTACH TOKEN TO URL
       final secureUrl = "$_socketUrl?token=$token";
-      print("🔌 Connecting with Token...");
+      print("Connecting with Token...");
 
       _channel = WebSocketChannel.connect(Uri.parse(secureUrl));
-      
-      // 3. UPDATE UI IMMEDIATELY
       setState(() => _isConnected = true);
 
       _channel!.stream.listen((message) {
-        if (!_isConnected) setState(() => _isConnected = true);
-
+        // --- THIS IS THE CRITICAL FIX ---
+        // We now listen for JSON commands, not raw audio bytes
         try {
           final data = jsonDecode(message);
-          if (data.containsKey('audio')) {
-            final audioBytes = base64Decode(data['audio']);
-            // print("🔊 Phone Received Audio: ${audioBytes.length} bytes");
-            
-            if (_audioService.isInitialized) {
-              _audioService.feedAudioChunk(audioBytes);
-            }
+          
+          // 1. HANDLE SPEAK COMMAND
+          if (data['cmd'] == 'speak') {
+             String text = data['text'];
+             print("AI Says: $text");
+             flutterTts.speak(text);
           }
+          
+          // 2. HANDLE INTERRUPT (Barge-In)
+          else if (data['cmd'] == 'interrupt') {
+            print("Interrupted!");
+            flutterTts.stop();
+          }
+          
+          // 3. HANDLE STATUS UPDATES
+          else if (data['cmd'] == 'status') {
+            setState(() {
+              aiStatus = data['state'].toString().toUpperCase();
+            });
+          }
+
         } catch (e) {
           print("Error parsing server message: $e");
         }
@@ -129,11 +156,6 @@ class _CameraScreenState extends State<CameraScreen> {
     } catch (e) {
       print("Connection Failed: $e");
     }
-  }
-
-  Future<void> _initAudio() async {
-    await _audioService.initialize();
-    await _audioService.start(); 
   }
 
   Future<void> _requestPermissions() async {
@@ -152,16 +174,12 @@ class _CameraScreenState extends State<CameraScreen> {
 
     controller!.initialize().then((_) {
       if(!mounted) return;
-      setState(() => debugStatus = "Camera Ready. Tap to Start.");
+      setState(() => debugStatus = "Camera Ready. Tap Activate.");
     }).catchError((Object e) {
       if (e is CameraException) {
         debugPrint('Camera Error: ${e.description}');
       }
     });
-  }
-
-  void _testAudioOutput() {
-    print('Audio Test Disabled (Using Real AI Audio now)');
   }
 
   void _toggleStream() {
@@ -184,6 +202,7 @@ class _CameraScreenState extends State<CameraScreen> {
   Future<void> _processFrame(CameraImage image) async {
     if (isProcessingFrame) return; 
     final now = DateTime.now();
+    // Send frame every 1.5 seconds (Balance between lag and realtime)
     if (lastFrameTime != null && 
         now.difference(lastFrameTime!) < const Duration(milliseconds: 1500)) {
       return; 
@@ -191,8 +210,6 @@ class _CameraScreenState extends State<CameraScreen> {
 
     isProcessingFrame = true;
     lastFrameTime = now;
-
-    final stopwatch = Stopwatch()..start();
 
     try {
       final rawData = {
@@ -208,23 +225,16 @@ class _CameraScreenState extends State<CameraScreen> {
 
       final String? base64Result = await compute(convertToBase64Jpeg, rawData);
 
-      stopwatch.stop();
-      final int processTime = stopwatch.elapsedMilliseconds;
-
-      if (base64Result != null) {
-        if (_channel != null && _isConnected) {
-            _channel!.sink.add(jsonEncode({
-                "image": base64Result
-            }));
-        }
-
+      if (base64Result != null && _channel != null && _isConnected) {
+        // Send image to backend
+        _channel!.sink.add(jsonEncode({
+            "image": base64Result
+        }));
+        
+        // Update UI
         setState(() {
-          debugStatus = "Sent to Brain!\n" 
-              "Size: ${(base64Result.length / 1024).toStringAsFixed(1)} KB\n"
-              "Latency: ${processTime}ms\n"
-              "Connected: $_isConnected"; 
+          debugStatus = "Status: $aiStatus\nConnected: $_isConnected"; 
         });
-        print("Payload Sent | Time: ${processTime}ms");
       }
     } catch (e) {
       print("Error processing frame: $e");
@@ -236,7 +246,7 @@ class _CameraScreenState extends State<CameraScreen> {
   @override
   void dispose() {
     _channel?.sink.close();
-    _audioService.dispose();
+    flutterTts.stop(); // Stop speaking on exit
     controller?.dispose();
     super.dispose();
   }
@@ -244,7 +254,6 @@ class _CameraScreenState extends State<CameraScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // UPDATED APP BAR WITH LOGOUT
       appBar: AppBar(
         title: const Text("Aura Vision"),
         actions: [
@@ -261,7 +270,30 @@ class _CameraScreenState extends State<CameraScreen> {
           Expanded(
             child: controller == null || !controller!.value.isInitialized
                 ? const Center(child: CircularProgressIndicator())
-                : CameraPreview(controller!),
+                : Stack(
+                    children: [
+                      CameraPreview(controller!),
+                      // OVERLAY FOR AI STATUS
+                      Positioned(
+                        top: 20,
+                        right: 20,
+                        child: Container(
+                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                          decoration: BoxDecoration(
+                            color: aiStatus == "THINKING" ? Colors.yellow : Colors.green,
+                            borderRadius: BorderRadius.circular(20),
+                          ),
+                          child: Text(
+                            aiStatus,
+                            style: const TextStyle(
+                              color: Colors.black, 
+                              fontWeight: FontWeight.bold
+                            ),
+                          ),
+                        ),
+                      )
+                    ],
+                  ),
           ),
           Container(
             width: double.infinity,
@@ -286,11 +318,14 @@ class _CameraScreenState extends State<CameraScreen> {
                       child: Text(isStreaming ? "STOP EYES" : "ACTIVATE EYES"),
                     ),
                     ElevatedButton(
-                      onPressed: _testAudioOutput, 
+                      onPressed: () {
+                         // Manual Audio Test
+                         flutterTts.speak("System Online. Audio test complete.");
+                      }, 
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: _isConnected ? Colors.blue : Colors.grey,
+                        backgroundColor: Colors.blue,
                       ),
-                      child: Text(_isConnected ? "CONNECTED" : "OFFLINE"),
+                      child: const Text("TEST AUDIO"),
                     ),
                   ],
                 )
@@ -313,12 +348,23 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
     img.Image? image;
 
     if (format == ImageFormatGroup.yuv420) {
-      image = img.Image(width: width, height: height);
+      // Use Grayscale image container for Y-plane data
+      image = img.Image(width: width, height: height, numChannels: 1); 
+      
       final yPlane = planes[0]['bytes'] as Uint8List;
+      final int bytesPerRow = planes[0]['bytesPerRow'] as int; // <--- VITAL
+
       for (var y = 0; y < height; y++) {
         for (var x = 0; x < width; x++) {
-          final pixel = yPlane[y * width + x];
-          image.setPixelRgb(x, y, pixel, pixel, pixel);
+          // Use bytesPerRow to skip padding bytes
+          final int uvIndex = y * bytesPerRow + x;
+          
+          // Safety check to avoid crashing on edge pixels
+          if (uvIndex < yPlane.length) {
+             final pixel = yPlane[uvIndex];
+             // Set grayscale pixel (r=g=b=pixel)
+             image.setPixelRgb(x, y, pixel, pixel, pixel);
+          }
         }
       }
     } else if (format == ImageFormatGroup.bgra8888) {
@@ -333,8 +379,9 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
 
     if (image == null) return null;
 
+    // Resize to reduce latency (320px is enough for AI)
     final resized = img.copyResize(image, width: 640); 
-    final jpegBytes = img.encodeJpg(resized, quality: 60);
+    final jpegBytes = img.encodeJpg(resized, quality: 120);
     return base64Encode(jpegBytes);
 
   } catch (e) {
