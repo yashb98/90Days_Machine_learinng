@@ -1,22 +1,50 @@
-# 1. Use an official lightweight Python image
 FROM python:3.11-slim
 
-# 2. Set the working directory inside the container
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONPATH=/app
+
 WORKDIR /app
 
-# 3. Copy requirements first (this helps Docker cache dependencies)
-COPY requirements.txt .
+# **CRITICAL FIX** - Install complete OpenCV dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender-dev \
+    libgl1 \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
 
-# 4. Install dependencies
-# --no-cache-dir keeps the image small
+COPY requirements.txt .
+RUN pip install --no-cache-dir --upgrade pip setuptools
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 5. Copy the rest of your application code
 COPY . .
 
-# 6. Expose the port Cloud Run expects
-EXPOSE 8080
+CMD sh -c "uvicorn main:app --host 0.0.0.0 --port ${PORT:-8080}"
 
-# 7. Run the application
-# Ensure 'main:app' matches your file name (main.py) and app instance (app)
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
+
+
+## FOR DOCKER LOCALLY 
+
+# FROM python:3.11-slim
+
+# # Create non-root user
+# RUN groupadd -r appuser && useradd -r -g appuser appuser
+
+# WORKDIR /app
+
+# RUN apt-get update && apt-get install -y --no-install-recommends \
+#     libglib2.0-0 libsm6 libxext6 libxrender-dev libgl1 libgomp1 \
+#     && rm -rf /var/lib/apt/lists/*
+
+# COPY requirements.txt .
+# RUN pip install --no-cache-dir -r requirements.txt
+# COPY . .
+
+# # Fix permissions and switch to non-root
+# RUN chown -R appuser:appuser /app
+# USER appuser
+
+# EXPOSE 8080
+# CMD ["python", "main.py"]

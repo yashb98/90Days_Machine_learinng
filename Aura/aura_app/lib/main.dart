@@ -11,6 +11,9 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_tts/flutter_tts.dart'; 
 import 'screens/login_screen.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
+
+
 
 late List<CameraDescription> _cameras;
 
@@ -66,7 +69,7 @@ class _CameraScreenState extends State<CameraScreen> {
   late FlutterTts flutterTts;
   
   // REPLACE WITH YOUR LAPTOP IP!
-  final String _socketUrl = 'ws://192.168.0.61:8080/ws';
+  final String _socketUrl = 'ws://aura-backend-service-963226949438.europe-west2.run.app/ws';
   WebSocketChannel? _channel;
   bool _isConnected = false;
 
@@ -337,6 +340,7 @@ class _CameraScreenState extends State<CameraScreen> {
     );
   }
 }
+
 
 Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
   try {

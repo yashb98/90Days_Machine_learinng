@@ -6,10 +6,13 @@ import base64
 import json
 import asyncio
 import time
+import io
+import PIL.Image
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from dotenv import load_dotenv
-import PIL.Image
-import io
+import firebase_admin
+from firebase_admin import credentials, auth
+
 
 # --- 1. SETUP ---
 load_dotenv()
