@@ -1,156 +1,189 @@
-import cv2
-import numpy as np
-import google.generativeai as genai
-import os
-import base64
 import json
 import asyncio
-import time
-import io
-import PIL.Image
+import os
+import base64
+import traceback
+import numpy as np
+import cv2
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+from google import genai
 from dotenv import load_dotenv
 import firebase_admin
 from firebase_admin import credentials, auth
 
-
-# --- 1. SETUP ---
+# Load env vars
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
 
-if not API_KEY:
-    print("ERROR: GEMINI_API_KEY not found. Server will start but AI will fail.")
-else:
-    genai.configure(api_key=API_KEY)
-    print("Gemini Configured")
-
 app = FastAPI()
 
-# --- 2. VISION LOGIC (The Eyes) ---
+# --- 1. SAFE FIREBASE INIT ---
+try:
+    if not firebase_admin._apps:
+        key_path = "serviceAccountKey.json"
+        if os.path.exists("/app/serviceAccountKey.json"):
+            key_path = "/app/serviceAccountKey.json"
+
+        if os.path.exists(key_path):
+            cred = credentials.Certificate(key_path)
+            firebase_admin.initialize_app(cred)
+            print(f"✅ Firebase Admin Initialized using {key_path}")
+        else:
+            print("⚠️ WARNING: serviceAccountKey.json not found. Auth checks will fail.")
+except Exception as e:
+    print(f"❌ Firebase Init Error: {e}")
+
+# --- 2. GEMINI CLIENT ---
+client = None
+try:
+    if API_KEY:
+        client = genai.Client(api_key=API_KEY, http_options={
+                              "api_version": "v1alpha"})
+        print("✅ Gemini Client Initialized")
+    else:
+        print("⚠️ WARNING: GEMINI_API_KEY is missing.")
+except Exception as e:
+    print(f"❌ Gemini Client Init Error: {e}")
+
+MODEL = "models/gemini-2.0-flash-exp"
+
+SYS_INSTRUCTION = """
+You are Aura, an advanced navigation guide for a blind user. 
+Analyze the video feed from the user's perspective to identify a safe walking path.
+
+**PRIORITIES (In Order):**
+1. **IMMEDIATE HAZARDS:** Warn instantly about steps, drops, traffic, or head-level obstacles.
+2. **NAVIGATION COMMANDS:** Tell the user where to walk. Use relative directions (e.g., "Walk straight", "Veer slightly right", "Stop").
+3. **OBSTACLE LOCATION:** Mention obstacles relative to the user (e.g., "Pole on your left", "Person approaching from right").
+
+**RULES:**
+- Be imperative and direct.
+- Max 15 words per response.
+- Do NOT describe the scene aesthetically. Focus only on walkability.
+- If the path is clear, say "Path clear, proceed."
+"""
+
+CONFIG = {
+    "response_modalities": ["TEXT"],
+    "system_instruction": SYS_INSTRUCTION,
+}
+
+
+async def verify_token(websocket: WebSocket):
+    if not firebase_admin._apps:
+        return True
+    token = websocket.query_params.get("token")
+    if not token:
+        return False
+    try:
+        auth.verify_id_token(token)
+        return True
+    except:
+        return False
+
+# --- VISION LOGIC (Restored) ---
 
 
 def has_scene_changed(prev_frame, curr_frame, threshold=40):
-    """
-    Returns True if the scene has shifted significantly (The 'Barge-In' trigger).
-    """
+    """Checks if the visual scene has shifted significantly."""
     if prev_frame is None:
         return False
-
-    # Convert to grayscale for speed
-    prev_g = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
-    curr_g = cv2.cvtColor(curr_frame, cv2.COLOR_BGR2GRAY)
-
-    # Calculate difference
-    diff = cv2.absdiff(prev_g, curr_g)
-    score = np.mean(diff)
-
-    return score > threshold
-
-# --- 3. AI LOGIC (The Brain with Resiliency) ---
+    try:
+        prev_g = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
+        curr_g = cv2.cvtColor(curr_frame, cv2.COLOR_BGR2GRAY)
+        diff = cv2.absdiff(prev_g, curr_g)
+        score = np.mean(diff)
+        return score > threshold
+    except Exception as e:
+        print(f"CV2 Error: {e}")
+        return False
 
 
-async def generate_response_safe(image_bytes, max_retries=3):
-    """
-    Calls Gemini with Exponential Backoff for poor connections.
-    """
-    base_delay = 1
-
-    for attempt in range(max_retries):
-        try:
-            # 1. Prepare Image
-            image = PIL.Image.open(io.BytesIO(image_bytes))
-
-            # 2. Call AI (Using synchronous call in async wrapper if needed,
-            # or use the async client if available. For safety, we wrap this.)
-            model = genai.GenerativeModel('gemini-2.0-flash-exp')
-            response = await asyncio.to_thread(
-                model.generate_content,
-                ["Describe this scene strictly for a blind person. Be brief.", image]
-            )
-            return response.text
-
-        except Exception as e:
-            print(f"Attempt {attempt+1} failed: {e}")
-            if attempt < max_retries - 1:
-                await asyncio.sleep(base_delay * (2 ** attempt))
-            else:
-                return "I am having trouble connecting to the brain."
-
-# --- 4. WEBSOCKET SERVER (The Nervous System) ---
+@app.get("/")
+async def health_check():
+    return {"status": "online", "message": "Aura Brain is Listening"}
 
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
     await websocket.accept()
-    print("Mobile Client Connected")
 
+    if not await verify_token(websocket):
+        await websocket.close(code=4001)
+        return
+
+    print("✅ Client Connected")
+
+    if not client:
+        await websocket.close(code=1011)
+        return
+
+    # State for Vision Logic
     prev_frame = None
-    is_processing = False
-
-    # AUTO-SCAN TIMER SETUP
-    last_scan_time = time.time()
-    SCAN_INTERVAL = 5.0  # Seconds between auto-voice descriptions
 
     try:
-        while True:
-            # A. Receive Data (Non-blocking usually, but here we wait for frame)
-            # In a real async loop, we'd use asyncio.wait_for, but for simplicity:
-            data = await websocket.receive_text()
-            payload = json.loads(data)
+        async with client.aio.live.connect(model=MODEL, config=CONFIG) as session:
+            print("🚀 Connected to Gemini Live")
 
-            current_time = time.time()
+            # Wake Word
+            await session.send(input="System Online.", end_of_turn=True)
 
-            # CASE 1: Incoming Video Frame
-            if "image" in payload:
-                # Decode Frame
-                image_data = base64.b64decode(payload["image"])
-                np_arr = np.frombuffer(image_data, np.uint8)
-                frame = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)
+            async def receive_from_gemini():
+                try:
+                    while True:
+                        async for response in session.receive():
+                            if response.text:
+                                text_response = response.text
+                                print(f"🤖 Gemini Says: {text_response}")
 
-                if frame is None:
-                    continue
-                cv2.imwrite("debug_recieved_frame.jpg", frame)
-                # 1. CHECK FOR BARGE-IN (Interruption)
-                if has_scene_changed(prev_frame, frame):
-                    if is_processing:
-                        await websocket.send_json({"cmd": "interrupt"})
-                        print("⚡ INTERRUPT SENT (Scene Changed)")
-                        is_processing = False
+                                payload = {
+                                    "cmd": "speak",
+                                    "text": text_response
+                                }
+                                await websocket.send_text(json.dumps(payload))
+                except Exception:
+                    pass
 
-                prev_frame = frame
+            async def receive_from_mobile():
+                nonlocal prev_frame
+                try:
+                    while True:
+                        data = await websocket.receive_text()
+                        payload = json.loads(data)
 
-                # 2. AUTO-TRIGGER (The Fix!)
-                # If 5 seconds passed AND we aren't already talking
-                if (current_time - last_scan_time > SCAN_INTERVAL) and not is_processing:
-                    print("Auto-Scanning...")
-                    is_processing = True
-                    last_scan_time = current_time  # Reset timer
+                        if "image" in payload:
+                            image_bytes = base64.b64decode(payload["image"])
 
-                    # Notify App: "Thinking"
-                    await websocket.send_json({"cmd": "status", "state": "thinking"})
+                            # --- CV2 PROCESSING ---
+                            try:
+                                # Convert bytes to CV2 Frame
+                                np_arr = np.frombuffer(image_bytes, np.uint8)
+                                frame = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)
 
-                    # Encode and Send to AI
-                    success, encoded_img = cv2.imencode('.jpg', frame)
-                    if success:
-                        # Run AI in thread to not block the websocket loop
-                        response_text = await generate_response_safe(encoded_img.tobytes())
+                                if frame is not None:
+                                    # Check for Barge-In
+                                    if has_scene_changed(prev_frame, frame):
+                                        print("⚡ SCENE CHANGED! Interrupting...")
+                                        await websocket.send_json({"cmd": "interrupt"})
 
-                        # Send Audio Command
-                        await websocket.send_json({
-                            "cmd": "speak",
-                            "text": response_text
-                        })
-                        print(f"Sent: {response_text}")
+                                    prev_frame = frame
+                            except Exception as cv_err:
+                                print(f"CV Error: {cv_err}")
+                            # ----------------------
 
-                    is_processing = False
-                    await websocket.send_json({"cmd": "status", "state": "ready"})
+                            # Send frame to Gemini
+                            await session.send(input={"mime_type": "image/jpeg", "data": image_bytes}, end_of_turn=True)
+                except Exception:
+                    pass
 
-            # CASE 2: Manual Button Press (Still works if you have a button)
-            if "event" in payload and payload["event"] == "scan":
-                # (Logic handled by auto-scan now, but you can keep specific triggers here)
-                pass
+            await asyncio.gather(receive_from_gemini(), receive_from_mobile())
 
     except WebSocketDisconnect:
-        print("Client Disconnected")
+        print("❌ Disconnected")
     except Exception as e:
-        print(f"Server Error: {e}")
+        print(f"🔥 Error: {e}")
+    finally:
+        try:
+            await websocket.close()
+        except:
+            pass

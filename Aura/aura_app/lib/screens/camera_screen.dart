@@ -8,7 +8,7 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:image/image.dart' as img;
 import 'package:web_socket_channel/web_socket_channel.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter_tts/flutter_tts.dart'; 
+import 'package:flutter_tts/flutter_tts.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 
 class CameraScreen extends StatefulWidget {
@@ -22,50 +22,48 @@ class _CameraScreenState extends State<CameraScreen> {
   CameraController? controller;
   bool isStreaming = false;
   String debugStatus = "Initializing...";
-  String aiStatus = "IDLE"; 
+  String aiStatus = "IDLE";
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
 
+  // TTS & Analytics
   late FlutterTts flutterTts;
+  final FirebaseAnalytics _analytics = FirebaseAnalytics.instance;
   
-  // REPLACE WITH YOUR CLOUD RUN URL (wss://...)
+  // WebSocket
   final String _socketUrl = 'wss://aura-backend-service-963226949438.europe-west2.run.app/ws';
   WebSocketChannel? _channel;
   bool _isConnected = false;
 
+  // CAMERA SWITCHING STATE
+  List<CameraDescription> _cameras = [];
+  int _selectedCameraIndex = 0;
+
   @override
   void initState() {
     super.initState();
-    _initTts(); 
+    _initTts();
     _requestPermissions();
     _connectWebSocket(); 
   }
 
   void _initTts() async {
     flutterTts = FlutterTts();
-    
     await flutterTts.setLanguage("en-US");
     await flutterTts.setPitch(1.0);
     await flutterTts.setSpeechRate(0.5);
-    await flutterTts.awaitSpeakCompletion(true); // Wait for speech to finish
+    await flutterTts.awaitSpeakCompletion(true);
 
-    // Android specific audio focus settings
-    // This ensures music pauses when Aura speaks
-    await flutterTts.setIosAudioCategory(IosTextToSpeechAudioCategory.playback,
-        [
-          IosTextToSpeechAudioCategoryOptions.defaultToSpeaker,
-          IosTextToSpeechAudioCategoryOptions.duckOthers
-        ],
-    );
-
-    flutterTts.setStartHandler(() {
-      print("TTS: Started playing");
-    });
+    // Ensure audio plays on media stream (Loud)
+    await flutterTts.setIosAudioCategory(IosTextToSpeechAudioCategory.playback, [
+      IosTextToSpeechAudioCategoryOptions.defaultToSpeaker,
+      IosTextToSpeechAudioCategoryOptions.duckOthers
+    ]);
     
-    flutterTts.setErrorHandler((msg) {
-      print("TTS Error: $msg");
-    });
+    flutterTts.setStartHandler(() => print("TTS Started"));
+    flutterTts.setCompletionHandler(() => print("TTS Finished"));
+    flutterTts.setErrorHandler((msg) => print("TTS Error: $msg"));
   }
 
   Future<void> _connectWebSocket() async {
@@ -87,50 +85,29 @@ class _CameraScreenState extends State<CameraScreen> {
       _channel!.stream.listen((message) {
         if (!_isConnected && mounted) setState(() => _isConnected = true);
 
-        // Debug Log
-        print("📩 RECEIVED: $message");
-
         try {
           final data = jsonDecode(message);
           
-          // 1. HANDLE SPEAK
           if (data['cmd'] == 'speak') {
              String text = data['text'];
-             print("🗣️ AI COMMAND: Speak -> $text");
-             
-             // Update UI to show what it's saying
-             if(mounted) {
-               setState(() {
-                 aiStatus = "SPEAKING";
-                //  debugStatus = "AI: $text";
-               });
-             }
-
-             // Execute Speech
+             print("AI Says: $text");
              _speak(text);
+             if(mounted) setState(() => aiStatus = "SPEAKING");
           }
-          
-          // 2. HANDLE STATUS UPDATES
+          else if (data['cmd'] == 'interrupt') {
+            flutterTts.stop();
+            if(mounted) setState(() => aiStatus = "INTERRUPTED");
+          }
           else if (data['cmd'] == 'status') {
-            String newState = data['state'].toString().toUpperCase();
-            print("🔄 STATUS UPDATE: $newState");
-            
             if(mounted) {
               setState(() {
-                aiStatus = newState;
+                aiStatus = data['state'].toString().toUpperCase();
               });
             }
           }
-          
-          // 3. INTERRUPT
-          else if (data['cmd'] == 'interrupt') {
-             print("🛑 INTERRUPT COMMAND");
-             flutterTts.stop();
-             if(mounted) setState(() => aiStatus = "INTERRUPTED");
-          }
 
         } catch (e) {
-          print("Error parsing message: $e");
+          print("Error parsing server message: $e");
         }
       }, onError: (error) {
         print("WebSocket Error: $error");
@@ -145,7 +122,7 @@ class _CameraScreenState extends State<CameraScreen> {
   }
   
   Future<void> _speak(String text) async {
-    await flutterTts.stop(); // Stop previous speech
+    await flutterTts.stop(); 
     if (text.isNotEmpty) {
       await flutterTts.speak(text);
     }
@@ -153,24 +130,64 @@ class _CameraScreenState extends State<CameraScreen> {
 
   Future<void> _requestPermissions() async {
     await [Permission.camera, Permission.microphone].request();
-    _initCamera();
+    _initCameras();
   }
 
-  Future<void> _initCamera() async {
-    final cameras = await availableCameras();
-    if (cameras.isEmpty) return;
-    
+  // --- NEW: CAMERA SETUP LOGIC ---
+  Future<void> _initCameras() async {
+    try {
+      _cameras = await availableCameras();
+      if (_cameras.isNotEmpty) {
+        _initializeCameraAtIndex(0);
+      }
+    } on CameraException catch (e) {
+      print('Error finding cameras: $e');
+    }
+  }
+
+  Future<void> _initializeCameraAtIndex(int index) async {
+    if (_cameras.isEmpty) return;
+
     controller = CameraController(
-      cameras[0],
-      ResolutionPreset.medium, 
-      enableAudio: false, 
-      imageFormatGroup: ImageFormatGroup.yuv420, 
+      _cameras[index],
+      ResolutionPreset.medium,
+      enableAudio: false,
+      imageFormatGroup: ImageFormatGroup.yuv420,
     );
 
-    await controller!.initialize();
-    if (!mounted) return;
-    setState(() => debugStatus = "Camera Ready. Tap Activate.");
+    try {
+      await controller!.initialize();
+      if (!mounted) return;
+      setState(() {
+        _selectedCameraIndex = index;
+        debugStatus = "Camera Ready. Tap Activate.";
+      });
+    } catch (e) {
+      print("Camera init error: $e");
+    }
   }
+
+  void _switchCamera() async {
+    if (_cameras.length < 2) return;
+
+    int newIndex = (_selectedCameraIndex + 1) % _cameras.length;
+    bool wasStreaming = isStreaming;
+    
+    // Stop stream before switching to prevent resource locks
+    if (isStreaming) {
+      await controller?.stopImageStream();
+      setState(() => isStreaming = false);
+    }
+    
+    await controller?.dispose();
+    await _initializeCameraAtIndex(newIndex);
+
+    // Resume stream if it was running
+    if (wasStreaming) {
+      _toggleStream();
+    }
+  }
+  // -------------------------------
 
   void _toggleStream() {
     if (controller == null || !controller!.value.isInitialized) return;
@@ -196,7 +213,7 @@ class _CameraScreenState extends State<CameraScreen> {
   Future<void> _processFrame(CameraImage image) async {
     if (isProcessingFrame) return; 
     final now = DateTime.now();
-    
+    // Throttle: 1 frame every 1.5 seconds
     if (lastFrameTime != null && 
         now.difference(lastFrameTime!) < const Duration(milliseconds: 1500)) {
       return; 
@@ -212,7 +229,7 @@ class _CameraScreenState extends State<CameraScreen> {
         'format': image.format.group,
         'planes': image.planes.map((plane) => {
           'bytes': plane.bytes,
-          'bytesPerRow': plane.bytesPerRow, 
+          'bytesPerRow': plane.bytesPerRow,
           'bytesPerPixel': plane.bytesPerPixel,
         }).toList(),
       };
@@ -223,6 +240,12 @@ class _CameraScreenState extends State<CameraScreen> {
         _channel!.sink.add(jsonEncode({
             "image": base64Result
         }));
+        
+        if(mounted) {
+          setState(() {
+            // debugStatus = "Analyzing..."; 
+          });
+        }
       }
     } catch (e) {
       print("Error processing frame: $e");
@@ -261,23 +284,14 @@ class _CameraScreenState extends State<CameraScreen> {
                 : Stack(
                     children: [
                       CameraPreview(controller!),
-                      // OVERLAY FOR AI STATUS
                       Positioned(
-                        top: 20,
-                        right: 20,
+                        top: 20, right: 20,
                         child: Container(
-                          padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                          padding: const EdgeInsets.all(8),
                           decoration: BoxDecoration(
-                            color: _getStatusColor(aiStatus),
-                            borderRadius: BorderRadius.circular(20),
+                            color: Colors.black54, borderRadius: BorderRadius.circular(10)
                           ),
-                          child: Text(
-                            aiStatus,
-                            style: const TextStyle(
-                              color: Colors.black, 
-                              fontWeight: FontWeight.bold
-                            ),
-                          ),
+                          child: Text(aiStatus, style: const TextStyle(color: Colors.white)),
                         ),
                       )
                     ],
@@ -298,6 +312,12 @@ class _CameraScreenState extends State<CameraScreen> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
+                    // SWITCH CAMERA BUTTON
+                    IconButton(
+                      icon: const Icon(Icons.switch_camera, color: Colors.white, size: 30),
+                      onPressed: _switchCamera,
+                    ),
+                    
                     ElevatedButton(
                       onPressed: _toggleStream,
                       style: ElevatedButton.styleFrom(
@@ -305,10 +325,12 @@ class _CameraScreenState extends State<CameraScreen> {
                         minimumSize: const Size(150, 50),
                       ),
                       child: Text(
-                        isStreaming ? "STOP EYES" : "ACTIVATE EYES",
+                        isStreaming ? "STOP" : "ACTIVATE",
                         style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                       ),
                     ),
+                    
+                    // STATUS ICON
                     Icon(
                       _isConnected ? Icons.cloud_done : Icons.cloud_off,
                       color: _isConnected ? Colors.blue : Colors.grey,
@@ -323,19 +345,8 @@ class _CameraScreenState extends State<CameraScreen> {
       ),
     );
   }
-
-  Color _getStatusColor(String status) {
-    switch (status) {
-      case "THINKING": return Colors.yellow;
-      case "SPEAKING": return Colors.blue;
-      case "READY": return Colors.green;
-      case "IDLE": return Colors.grey;
-      default: return Colors.white;
-    }
-  }
 }
 
-// --- ISOLATE FUNCTION (Background Thread) ---
 Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
   try {
     final width = data['width'] as int;
@@ -346,9 +357,7 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
     img.Image? image;
 
     if (format == ImageFormatGroup.yuv420) {
-      // Optimized Grayscale Conversion (Y-Plane only)
       image = img.Image(width: width, height: height, numChannels: 1); 
-      
       final yPlane = planes[0]['bytes'] as Uint8List;
       final int bytesPerRow = planes[0]['bytesPerRow'] as int; 
 
@@ -372,14 +381,10 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
     }
 
     if (image == null) return null;
-
-    // Resize to VGA (640x480) for speed
     final resized = img.copyResize(image, width: 640); 
     final jpegBytes = img.encodeJpg(resized, quality: 70); 
     return base64Encode(jpegBytes);
-
   } catch (e) {
-    print("Isolate Error: $e");
     return null;
   }
 }
