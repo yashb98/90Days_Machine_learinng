@@ -72,7 +72,7 @@ class _CameraScreenState extends State<CameraScreen> {
       final token = await user?.getIdToken();
 
       if (token == null) {
-        print("❌ No Auth Token Found.");
+        print("No Auth Token Found. Cannot connect.");
         return;
       }
 
@@ -88,16 +88,44 @@ class _CameraScreenState extends State<CameraScreen> {
         try {
           final data = jsonDecode(message);
           
+          // 1. HANDLE SPEAK COMMAND
           if (data['cmd'] == 'speak') {
              String text = data['text'];
-             print("AI Says: $text");
+             print("AI COMMAND: Speak -> $text");
+
+             // --- FEATURE 9: URGENCY CODING & HAPTICS ---
+             // If the backend tags the message as critical, buzz the phone first
+             if (text.contains("[CRITICAL]")) {
+                print("CRITICAL ALERT RECEIVED: Triggering Haptics");
+                HapticFeedback.heavyImpact(); // Immediate physical feedback
+                
+                // Clean the text so the voice doesn't say the tag
+                text = text.replaceFirst("[CRITICAL]", "Warning! ");
+                
+                // Optional: Update UI to show danger state
+                if(mounted) setState(() => aiStatus = "DANGER");
+             }
+             // ---------------------------------------------
+             
+             // Update UI for normal speech
+             else if(mounted) {
+               setState(() {
+                 aiStatus = "SPEAKING";
+               });
+             }
+
+             // Execute Speech
              _speak(text);
-             if(mounted) setState(() => aiStatus = "SPEAKING");
           }
+          
+          // 2. HANDLE INTERRUPT (Barge-In)
           else if (data['cmd'] == 'interrupt') {
-            flutterTts.stop();
+            print("INTERRUPT COMMAND");
+            flutterTts.stop(); // Stop speaking immediately
             if(mounted) setState(() => aiStatus = "INTERRUPTED");
           }
+          
+          // 3. HANDLE STATUS UPDATES
           else if (data['cmd'] == 'status') {
             if(mounted) {
               setState(() {
