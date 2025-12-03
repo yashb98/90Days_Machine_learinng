@@ -51,48 +51,23 @@ MODEL = "models/gemini-2.0-flash-exp"
 
 # --- AURA SUPER-PERSONA (10-Feature Integrated) ---
 SYS_INSTRUCTION = """
-You are Aura, an advanced, real-time safety and navigation guide for a blind user.
-Your goal is to provide immediate, actionable, and concise audio descriptions.
+You are Aura, a hyper-fast safety guide for a blind user.
+Your ONLY goal is to prevent accidents and guide movement. 
 
-**CORE BEHAVIOR & FORMATTING:**
-- **Brevity is Law:** Max 15 words per response. No filler ("I see," "There is"). Direct commands only.
-- **Clock Face Directions (Feature #1):** ALWAYS use the clock system for location relative to the user (12 o'clock is straight ahead). Example: "Door at 2 o'clock, 5 meters."
-- **Urgency Coding (Feature #9):** If you see an immediate threat, START your response with "[CRITICAL]".
+**STRICT RULES:**
+1. **DIRECTIONS:** Use Clock Face (12=Front, 3=Right, 9=Left). 
+2. **URGENCY:** If you see DANGER (Wall, Stairs, Car), START with "[CRITICAL]".
+3. **NO FILLER:** Do not say "I see" or "There is". Just name the object and location.
 
-**PRIORITY HIERARCHY (Process in Order):**
+**EXAMPLES (Follow these patterns exactly):**
+* Input: (User walking towards wall) -> Output: "[CRITICAL] Stop! Wall directly ahead."
+* Input: (Open hallway) -> Output: "Path clear. Walk straight."
+* Input: (Door on right) -> Output: "Door at 2 o'clock. Veering right."
+* Input: (Stairs appearing) -> Output: "[CRITICAL] Stairs down at 12 o'clock."
+* Input: (Person walking by) -> Output: "Person passing on your left."
 
-1. **[CRITICAL] IMMINENT DANGER:**
-   - Traffic: "Car approaching from 9 o'clock."
-   - Surface Anomalies: "Drop-off ahead.", "Puddle at 12 o'clock.", "Construction hole."
-   - Crosswalks: "Red hand signal. Do not cross." OR "Walk signal active, but check for turning cars."
-
-2. **NAVIGATION & OBSTACLES:**
-   - "Path clear."
-   - "Veer left to avoid pole."
-   - Indoor Landmarks: "Elevator bank at 10 o'clock.", "Reception desk straight ahead."
-
-3. **INTERACTION & READING:**
-   - **Text Filtering:** IGNORE ambient text (ads, logos). READ functional text (exit signs, menus, room numbers).
-   - **Products:** If holding an item, identify it: "Campbell's Tomato Soup." (Ignore nutritional facts unless asked).
-   - **Social Cues:** "Person at 12 o'clock, facing you, smiling." or "Crowd moving away."
-   - **Screens:** "Start button is bottom-right."
-
-4. **ORIENTATION:**
-   - "Bright window at 3 o'clock." (Use light sources to help user orient).
-
-**EXAMPLE RESPONSES:**
-- "[CRITICAL] Stop. Car backing up."
-- "Steps down at 12 o'clock."
-- "Path clear. Walk straight."
-- "Person approaching from 2 o'clock."
+**Now, describe the current live view:**
 """
-
-CONFIG = {
-    "response_modalities": ["TEXT"],
-    "system_instruction": SYS_INSTRUCTION,
-}
-
-# ... (Keep the rest of your code exactly the same) ...
 
 CONFIG = {
     "response_modalities": ["TEXT"],
@@ -138,25 +113,17 @@ async def health_check():
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
     await websocket.accept()
-
     if not await verify_token(websocket):
         await websocket.close(code=4001)
         return
-
-    print("✅ Client Connected")
 
     if not client:
         await websocket.close(code=1011)
         return
 
-    # State for Vision Logic
-    prev_frame = None
-
     try:
         async with client.aio.live.connect(model=MODEL, config=CONFIG) as session:
-            print("🚀 Connected to Gemini Live")
-
-            # Wake Word
+            print("Connected to Gemini Live")
             await session.send(input="System Online.", end_of_turn=True)
 
             async def receive_from_gemini():
@@ -165,44 +132,40 @@ async def websocket_endpoint(websocket: WebSocket):
                         async for response in session.receive():
                             if response.text:
                                 text_response = response.text
-                                print(f"🤖 Gemini Says: {text_response}")
+
+                                # --- FEATURE 4 & 9: PRIORITY TAGGING ---
+                                priority = "normal"
+                                if "[CRITICAL]" in text_response:
+                                    priority = "high"
 
                                 payload = {
                                     "cmd": "speak",
-                                    "text": text_response
+                                    "text": text_response,
+                                    "priority": priority
                                 }
                                 await websocket.send_text(json.dumps(payload))
                 except Exception:
                     pass
 
             async def receive_from_mobile():
-                nonlocal prev_frame
                 try:
                     while True:
                         data = await websocket.receive_text()
                         payload = json.loads(data)
 
+                        # --- FEATURE 5: CONTEXT INJECTION ---
+                        context_msg = ""
+                        if "location" in payload and payload["location"]:
+                            loc = payload["location"]
+                            context_msg = f"User Location: {loc['lat']}, {loc['lng']}."
+
                         if "image" in payload:
                             image_bytes = base64.b64decode(payload["image"])
 
-                            # --- CV2 PROCESSING ---
-                            try:
-                                # Convert bytes to CV2 Frame
-                                np_arr = np.frombuffer(image_bytes, np.uint8)
-                                frame = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)
+                            # Send Context + Image
+                            if context_msg:
+                                await session.send(input=context_msg, end_of_turn=False)
 
-                                if frame is not None:
-                                    # Check for Barge-In
-                                    if has_scene_changed(prev_frame, frame):
-                                        print("⚡ SCENE CHANGED! Interrupting...")
-                                        await websocket.send_json({"cmd": "interrupt"})
-
-                                    prev_frame = frame
-                            except Exception as cv_err:
-                                print(f"CV Error: {cv_err}")
-                            # ----------------------
-
-                            # Send frame to Gemini
                             await session.send(input={"mime_type": "image/jpeg", "data": image_bytes}, end_of_turn=True)
                 except Exception:
                     pass
@@ -210,9 +173,7 @@ async def websocket_endpoint(websocket: WebSocket):
             await asyncio.gather(receive_from_gemini(), receive_from_mobile())
 
     except WebSocketDisconnect:
-        print("❌ Disconnected")
-    except Exception as e:
-        print(f"🔥 Error: {e}")
+        print("Disconnected")
     finally:
         try:
             await websocket.close()

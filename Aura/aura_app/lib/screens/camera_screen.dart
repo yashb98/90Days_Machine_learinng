@@ -10,6 +10,9 @@ import 'package:web_socket_channel/web_socket_channel.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
+import 'package:flutter/services.dart'; // For Haptics
+import 'package:geolocator/geolocator.dart'; // for geolocation
+import '../services/location_service.dart'; // for location service function
 
 class CameraScreen extends StatefulWidget {
   const CameraScreen({super.key});
@@ -36,6 +39,11 @@ class _CameraScreenState extends State<CameraScreen> {
   WebSocketChannel? _channel;
   bool _isConnected = false;
 
+  // Location Variables  
+  final LocationService _locationService = LocationService();
+  Position? _currentPosition;
+  StreamSubscription<Position>? _positionStreamSubscription;
+
   // CAMERA SWITCHING STATE
   List<CameraDescription> _cameras = [];
   int _selectedCameraIndex = 0;
@@ -45,7 +53,8 @@ class _CameraScreenState extends State<CameraScreen> {
     super.initState();
     _initTts();
     _requestPermissions();
-    _connectWebSocket(); 
+    _connectWebSocket();
+    _startLocationUpdates(); // Start the stream 
   }
 
   void _initTts() async {
@@ -97,24 +106,22 @@ class _CameraScreenState extends State<CameraScreen> {
              // If the backend tags the message as critical, buzz the phone first
              if (text.contains("[CRITICAL]")) {
                 print("CRITICAL ALERT RECEIVED: Triggering Haptics");
-                HapticFeedback.heavyImpact(); // Immediate physical feedback
-                
-                // Clean the text so the voice doesn't say the tag
-                text = text.replaceFirst("[CRITICAL]", "Warning! ");
-                
-                // Optional: Update UI to show danger state
+                HapticFeedback.heavyImpact();
+                HapticFeedback.heavyImpact();
+                HapticFeedback.heavyImpact(); // tripple buzz for danger
+    
+                // Visual Alert
                 if(mounted) setState(() => aiStatus = "DANGER");
+
+                // Clean the text so the voice doesn't say the tag
+                text = text.replaceFirst("[CRITICAL]", "Warning! ");          
              }
-             // ---------------------------------------------
-             
              // Update UI for normal speech
              else if(mounted) {
                setState(() {
                  aiStatus = "SPEAKING";
                });
              }
-
-             // Execute Speech
              _speak(text);
           }
           
@@ -198,6 +205,14 @@ class _CameraScreenState extends State<CameraScreen> {
   void _switchCamera() async {
     if (_cameras.length < 2) return;
 
+    // 1. STOP EVERYTHING IMMEDIATELY
+    flutterTts.stop(); // Silence the voice
+    _channel?.sink.close(); // Kill the connection to server (Flushes old buffers)
+    setState(() {
+      isStreaming = false;
+      _isConnected = false; // Show offline icon briefly
+    });
+
     int newIndex = (_selectedCameraIndex + 1) % _cameras.length;
     bool wasStreaming = isStreaming;
     
@@ -209,6 +224,8 @@ class _CameraScreenState extends State<CameraScreen> {
     
     await controller?.dispose();
     await _initializeCameraAtIndex(newIndex);
+
+    await _connectWebSocket();
 
     // Resume stream if it was running
     if (wasStreaming) {
@@ -238,6 +255,55 @@ class _CameraScreenState extends State<CameraScreen> {
     }
   }
 
+  // Starts listening to real-time location changes
+
+  void _startLocationUpdates() async {
+    print("Initializing Location Services...");
+    
+    // 1. Check if Location Service is enabled on the phone
+    bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
+    if (!serviceEnabled) {
+      print("Location services are disabled. Please turn on GPS.");
+      return;
+    }
+
+    // 2. Check & Request Permissions
+    LocationPermission permission = await Geolocator.checkPermission();
+    if (permission == LocationPermission.denied) {
+      permission = await Geolocator.requestPermission();
+      if (permission == LocationPermission.denied) {
+        print("Location permissions are denied.");
+        return;
+      }
+    }
+    
+    if (permission == LocationPermission.deniedForever) {
+      print("Location permissions are permanently denied.");
+      return;
+    }
+
+    print(" Location Permission Granted. Starting Stream...");
+
+    // 3. Start Streaming (High Accuracy)
+    final LocationSettings locationSettings = LocationSettings(
+      accuracy: LocationAccuracy.high,
+      distanceFilter: 10, // Update every 10 meters
+    );
+
+    _positionStreamSubscription = Geolocator.getPositionStream(locationSettings: locationSettings)
+        .listen((Position position) {
+      print("New Location: ${position.latitude}, ${position.longitude}");
+      
+      if (mounted) {
+        setState(() {
+          _currentPosition = position;
+        });
+      }
+    }, onError: (e) {
+      print("Location Stream Error: $e");
+    });
+  }
+
   Future<void> _processFrame(CameraImage image) async {
     if (isProcessingFrame) return; 
     final now = DateTime.now();
@@ -264,14 +330,28 @@ class _CameraScreenState extends State<CameraScreen> {
 
       final String? base64Result = await compute(convertToBase64Jpeg, rawData);
 
-      if (base64Result != null && _channel != null && _isConnected) {
-        _channel!.sink.add(jsonEncode({
-            "image": base64Result
-        }));
+      if (base64Result != null) {
+        if (_channel != null && _isConnected) {
+            // --- FEATURE 5: CONTEXT INJECTION ---
+            // We attach location data to the visual payload
+            Map<String, double>? locationData;
+            if(_currentPosition !=null) {
+                locationData = {
+                    'lat': _currentPosition!.latitude,
+                    'lng': _currentPosition!.longitude
+                };
+            }
+            
+            _channel!.sink.add(jsonEncode({
+                "image": base64Result,
+                "timestamp": DateTime.now().millisecondsSinceEpoch,
+                "location": locationData // Sending real GPS data or null
+            }));
+        }
         
         if(mounted) {
           setState(() {
-            // debugStatus = "Analyzing..."; 
+            debugStatus = "Analyzing... ($aiStatus)"; 
           });
         }
       }
@@ -284,6 +364,7 @@ class _CameraScreenState extends State<CameraScreen> {
 
   @override
   void dispose() {
+    _positionStreamSubscription?.cancel(); //Don't forget to cancel
     _channel?.sink.close();
     flutterTts.stop();
     controller?.dispose();

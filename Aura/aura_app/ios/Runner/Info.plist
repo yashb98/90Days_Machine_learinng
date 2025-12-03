@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Aura needs your location to identify streets and landmarks.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Aura needs camera access to see the world for you.</string>
 	<key>NSMicrophoneUsageDescription</key>
