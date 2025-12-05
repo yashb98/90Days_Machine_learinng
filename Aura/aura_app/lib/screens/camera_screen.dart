@@ -1,6 +1,8 @@
+
 import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
+import 'dart:ui'; // Required for Glassmorphism
 import 'package:flutter/foundation.dart'; // For compute()
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
@@ -11,8 +13,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/services.dart'; // For Haptics
-import 'package:geolocator/geolocator.dart'; // for geolocation
-import '../services/location_service.dart'; // for location service function
+import 'package:geolocator/geolocator.dart'; 
+import '../services/location_service.dart'; 
 
 class CameraScreen extends StatefulWidget {
   const CameraScreen({super.key});
@@ -21,40 +23,69 @@ class CameraScreen extends StatefulWidget {
   State<CameraScreen> createState() => _CameraScreenState();
 }
 
-class _CameraScreenState extends State<CameraScreen> {
+// Added TickerProviderStateMixin for Animations
+class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMixin {
   CameraController? controller;
   bool isStreaming = false;
-  String debugStatus = "Initializing...";
-  String aiStatus = "IDLE";
+  String debugStatus = "System Ready"; // Subtitles
+  String aiStatus = "IDLE"; // Controls colors (IDLE, THINKING, SPEAKING, DANGER)
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
 
-  // TTS & Analytics
+  // Services
   late FlutterTts flutterTts;
   final FirebaseAnalytics _analytics = FirebaseAnalytics.instance;
+  final LocationService _locationService = LocationService();
   
   // WebSocket
-  final String _socketUrl = 'wss://aura-backend-service-963226949438.europe-west2.run.app/ws';
+  final String _socketUrl = 'ws://192.168.0.61:8081/ws';
   WebSocketChannel? _channel;
   bool _isConnected = false;
 
-  // Location Variables  
-  final LocationService _locationService = LocationService();
+  // State
+  List<CameraDescription> _cameras = [];
+  int _selectedCameraIndex = 0;
   Position? _currentPosition;
   StreamSubscription<Position>? _positionStreamSubscription;
 
-  // CAMERA SWITCHING STATE
-  List<CameraDescription> _cameras = [];
-  int _selectedCameraIndex = 0;
+  // Animation Controllers (NEW)
+  late AnimationController _pulseController;
+  late Animation<double> _pulseAnimation;
 
   @override
   void initState() {
     super.initState();
+    
+    // --- ANIMATION SETUP ---
+    _pulseController = AnimationController(
+      vsync: this,
+      duration: const Duration(seconds: 2),
+    )..repeat(reverse: true);
+    
+    _pulseAnimation = Tween<double>(begin: 1.0, end: 1.2).animate(
+      CurvedAnimation(parent: _pulseController, curve: Curves.easeInOut),
+    );
+
     _initTts();
     _requestPermissions();
     _connectWebSocket();
-    _startLocationUpdates(); // Start the stream 
+    _startLocationUpdates();
+  }
+
+  // --- LOGIC SECTION (Your working code) ---
+
+  void _startLocationUpdates() {
+    try {
+      _positionStreamSubscription = _locationService.getPositionStream().listen(
+        (Position position) {
+          if (mounted) setState(() => _currentPosition = position);
+        },
+        onError: (e) => print("Location Error: $e"),
+      );
+    } catch (e) {
+      print("Error starting location stream: $e");
+    }
   }
 
   void _initTts() async {
@@ -63,27 +94,18 @@ class _CameraScreenState extends State<CameraScreen> {
     await flutterTts.setPitch(1.0);
     await flutterTts.setSpeechRate(0.5);
     await flutterTts.awaitSpeakCompletion(true);
-
-    // Ensure audio plays on media stream (Loud)
+    
     await flutterTts.setIosAudioCategory(IosTextToSpeechAudioCategory.playback, [
       IosTextToSpeechAudioCategoryOptions.defaultToSpeaker,
       IosTextToSpeechAudioCategoryOptions.duckOthers
     ]);
-    
-    flutterTts.setStartHandler(() => print("TTS Started"));
-    flutterTts.setCompletionHandler(() => print("TTS Finished"));
-    flutterTts.setErrorHandler((msg) => print("TTS Error: $msg"));
   }
 
   Future<void> _connectWebSocket() async {
     try {
       final user = FirebaseAuth.instance.currentUser;
       final token = await user?.getIdToken();
-
-      if (token == null) {
-        print("No Auth Token Found. Cannot connect.");
-        return;
-      }
+      if (token == null) return;
 
       final secureUri = Uri.parse(_socketUrl).replace(queryParameters: {'token': token});
       print("🔌 Connecting to: $secureUri");
@@ -97,142 +119,89 @@ class _CameraScreenState extends State<CameraScreen> {
         try {
           final data = jsonDecode(message);
           
-          // 1. HANDLE SPEAK COMMAND
           if (data['cmd'] == 'speak') {
              String text = data['text'];
-             print("AI COMMAND: Speak -> $text");
-
-             // --- FEATURE 9: URGENCY CODING & HAPTICS ---
-             // If the backend tags the message as critical, buzz the phone first
+             print("🗣️ AI: $text");
+             
+             // URGENCY HANDLING
              if (text.contains("[CRITICAL]")) {
-                print("CRITICAL ALERT RECEIVED: Triggering Haptics");
+                HapticFeedback.heavyImpact(); 
                 HapticFeedback.heavyImpact();
-                HapticFeedback.heavyImpact();
-                HapticFeedback.heavyImpact(); // tripple buzz for danger
-    
-                // Visual Alert
+                text = text.replaceFirst("[CRITICAL]", "Warning! ");
                 if(mounted) setState(() => aiStatus = "DANGER");
+             } else if(mounted) {
+                setState(() => aiStatus = "SPEAKING");
+             }
 
-                // Clean the text so the voice doesn't say the tag
-                text = text.replaceFirst("[CRITICAL]", "Warning! ");          
-             }
-             // Update UI for normal speech
-             else if(mounted) {
-               setState(() {
-                 aiStatus = "SPEAKING";
-               });
-             }
+             // Update Subtitles
+             if(mounted) setState(() => debugStatus = text);
              _speak(text);
           }
-          
-          // 2. HANDLE INTERRUPT (Barge-In)
           else if (data['cmd'] == 'interrupt') {
-            print("INTERRUPT COMMAND");
-            flutterTts.stop(); // Stop speaking immediately
+            flutterTts.stop();
             if(mounted) setState(() => aiStatus = "INTERRUPTED");
           }
-          
-          // 3. HANDLE STATUS UPDATES
           else if (data['cmd'] == 'status') {
-            if(mounted) {
-              setState(() {
-                aiStatus = data['state'].toString().toUpperCase();
-              });
-            }
+             if(mounted) setState(() => aiStatus = data['state'].toString().toUpperCase());
           }
-
-        } catch (e) {
-          print("Error parsing server message: $e");
-        }
-      }, onError: (error) {
-        print("WebSocket Error: $error");
+        } catch (e) { print(e); }
+      }, onError: (e) {
         if(mounted) setState(() => _isConnected = false);
       }, onDone: () {
-        print("WebSocket Closed");
         if(mounted) setState(() => _isConnected = false);
       });
-    } catch (e) {
-      print("Connection Failed: $e");
-    }
+    } catch (e) { print(e); }
   }
   
   Future<void> _speak(String text) async {
     await flutterTts.stop(); 
-    if (text.isNotEmpty) {
-      await flutterTts.speak(text);
-    }
+    if (text.isNotEmpty) await flutterTts.speak(text);
   }
 
   Future<void> _requestPermissions() async {
-    await [Permission.camera, Permission.microphone].request();
+    await [Permission.camera, Permission.microphone, Permission.locationWhenInUse].request();
     _initCameras();
   }
 
-  // --- NEW: CAMERA SETUP LOGIC ---
   Future<void> _initCameras() async {
     try {
       _cameras = await availableCameras();
-      if (_cameras.isNotEmpty) {
-        _initializeCameraAtIndex(0);
-      }
-    } on CameraException catch (e) {
-      print('Error finding cameras: $e');
-    }
+      if (_cameras.isNotEmpty) _initializeCameraAtIndex(0);
+    } catch (e) { print(e); }
   }
 
   Future<void> _initializeCameraAtIndex(int index) async {
     if (_cameras.isEmpty) return;
-
     controller = CameraController(
       _cameras[index],
       ResolutionPreset.medium,
       enableAudio: false,
       imageFormatGroup: ImageFormatGroup.yuv420,
     );
-
-    try {
-      await controller!.initialize();
-      if (!mounted) return;
-      setState(() {
-        _selectedCameraIndex = index;
-        debugStatus = "Camera Ready. Tap Activate.";
-      });
-    } catch (e) {
-      print("Camera init error: $e");
-    }
+    await controller!.initialize();
+    if (!mounted) return;
+    setState(() => _selectedCameraIndex = index);
   }
 
   void _switchCamera() async {
     if (_cameras.length < 2) return;
-
-    // 1. STOP EVERYTHING IMMEDIATELY
-    flutterTts.stop(); // Silence the voice
-    _channel?.sink.close(); // Kill the connection to server (Flushes old buffers)
-    setState(() {
-      isStreaming = false;
-      _isConnected = false; // Show offline icon briefly
-    });
-
     int newIndex = (_selectedCameraIndex + 1) % _cameras.length;
     bool wasStreaming = isStreaming;
     
-    // Stop stream before switching to prevent resource locks
     if (isStreaming) {
       await controller?.stopImageStream();
       setState(() => isStreaming = false);
     }
-    
     await controller?.dispose();
     await _initializeCameraAtIndex(newIndex);
 
-    await _connectWebSocket();
-
-    // Resume stream if it was running
     if (wasStreaming) {
+      // Reconnect socket to clear buffers on switch
+      _channel?.sink.close();
+      await _connectWebSocket();
       _toggleStream();
     }
   }
-  // -------------------------------
 
   void _toggleStream() {
     if (controller == null || !controller!.value.isInitialized) return;
@@ -241,7 +210,6 @@ class _CameraScreenState extends State<CameraScreen> {
       controller!.stopImageStream();
       setState(() {
         isStreaming = false;
-        debugStatus = "Stream Paused";
         aiStatus = "IDLE";
       });
     } else {
@@ -255,59 +223,9 @@ class _CameraScreenState extends State<CameraScreen> {
     }
   }
 
-  // Starts listening to real-time location changes
-
-  void _startLocationUpdates() async {
-    print("Initializing Location Services...");
-    
-    // 1. Check if Location Service is enabled on the phone
-    bool serviceEnabled = await Geolocator.isLocationServiceEnabled();
-    if (!serviceEnabled) {
-      print("Location services are disabled. Please turn on GPS.");
-      return;
-    }
-
-    // 2. Check & Request Permissions
-    LocationPermission permission = await Geolocator.checkPermission();
-    if (permission == LocationPermission.denied) {
-      permission = await Geolocator.requestPermission();
-      if (permission == LocationPermission.denied) {
-        print("Location permissions are denied.");
-        return;
-      }
-    }
-    
-    if (permission == LocationPermission.deniedForever) {
-      print("Location permissions are permanently denied.");
-      return;
-    }
-
-    print(" Location Permission Granted. Starting Stream...");
-
-    // 3. Start Streaming (High Accuracy)
-    final LocationSettings locationSettings = LocationSettings(
-      accuracy: LocationAccuracy.high,
-      distanceFilter: 10, // Update every 10 meters
-    );
-
-    _positionStreamSubscription = Geolocator.getPositionStream(locationSettings: locationSettings)
-        .listen((Position position) {
-      print("New Location: ${position.latitude}, ${position.longitude}");
-      
-      if (mounted) {
-        setState(() {
-          _currentPosition = position;
-        });
-      }
-    }, onError: (e) {
-      print("Location Stream Error: $e");
-    });
-  }
-
   Future<void> _processFrame(CameraImage image) async {
     if (isProcessingFrame) return; 
     final now = DateTime.now();
-    // Throttle: 1 frame every 1.5 seconds
     if (lastFrameTime != null && 
         now.difference(lastFrameTime!) < const Duration(milliseconds: 1500)) {
       return; 
@@ -323,7 +241,7 @@ class _CameraScreenState extends State<CameraScreen> {
         'format': image.format.group,
         'planes': image.planes.map((plane) => {
           'bytes': plane.bytes,
-          'bytesPerRow': plane.bytesPerRow,
+          'bytesPerRow': plane.bytesPerRow, 
           'bytesPerPixel': plane.bytesPerPixel,
         }).toList(),
       };
@@ -332,121 +250,202 @@ class _CameraScreenState extends State<CameraScreen> {
 
       if (base64Result != null) {
         if (_channel != null && _isConnected) {
-            // --- FEATURE 5: CONTEXT INJECTION ---
-            // We attach location data to the visual payload
             Map<String, double>? locationData;
-            if(_currentPosition !=null) {
-                locationData = {
-                    'lat': _currentPosition!.latitude,
-                    'lng': _currentPosition!.longitude
-                };
+            if (_currentPosition != null) {
+              locationData = {'lat': _currentPosition!.latitude, 'lng': _currentPosition!.longitude};
             }
             
             _channel!.sink.add(jsonEncode({
                 "image": base64Result,
                 "timestamp": DateTime.now().millisecondsSinceEpoch,
-                "location": locationData // Sending real GPS data or null
+                "location": locationData 
             }));
         }
-        
-        if(mounted) {
-          setState(() {
-            debugStatus = "Analyzing... ($aiStatus)"; 
-          });
-        }
       }
-    } catch (e) {
-      print("Error processing frame: $e");
-    } finally {
-      isProcessingFrame = false;
-    }
+    } catch (e) { print(e); } 
+    finally { isProcessingFrame = false; }
   }
 
   @override
   void dispose() {
-    _positionStreamSubscription?.cancel(); //Don't forget to cancel
+    _pulseController.dispose(); // Dispose animation
+    _positionStreamSubscription?.cancel();
     _channel?.sink.close();
     flutterTts.stop();
     controller?.dispose();
     super.dispose();
   }
 
+  // --- UI BUILDER (Senior Frontend Design) ---
   @override
   Widget build(BuildContext context) {
+    Color statusColor = _getStatusColor(aiStatus);
+
     return Scaffold(
-      appBar: AppBar(
-        title: const Text("Aura Vision"),
-        actions: [
-          IconButton(
-            icon: const Icon(Icons.logout),
-            onPressed: () async {
-              await FirebaseAuth.instance.signOut();
-            },
-          )
-        ],
-      ),
-      body: Column(
+      backgroundColor: Colors.black,
+      body: Stack(
+        fit: StackFit.expand,
         children: [
-          Expanded(
-            child: controller == null || !controller!.value.isInitialized
-                ? const Center(child: CircularProgressIndicator())
-                : Stack(
+          // 1. CAMERA FEED 
+          if (controller != null && controller!.value.isInitialized)
+            Container(
+              color: Colors.black, // Background for letterboxing
+              child: Center(
+                child: CameraPreview(controller!),
+              ),
+            )
+          else
+            const Center(child: CircularProgressIndicator(color: Colors.cyanAccent)),
+
+          // 2. SAFETY OVERLAY (Flashes Red on Danger)
+          IgnorePointer(
+            child: AnimatedContainer(
+              duration: const Duration(milliseconds: 300),
+              decoration: BoxDecoration(
+                border: Border.all(
+                  color: aiStatus == "DANGER" ? Colors.red.withOpacity(0.6) : Colors.transparent,
+                  width: 12,
+                ),
+              ),
+            ),
+          ),
+
+          // 3. TOP GLASS BAR (Status & GPS)
+          Positioned(
+            top: 50, left: 20, right: 20,
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(20),
+              child: BackdropFilter(
+                filter: ImageFilter.blur(sigmaX: 10, sigmaY: 10),
+                child: Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+                  color: Colors.black.withOpacity(0.4),
+                  child: Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
-                      CameraPreview(controller!),
-                      Positioned(
-                        top: 20, right: 20,
-                        child: Container(
-                          padding: const EdgeInsets.all(8),
-                          decoration: BoxDecoration(
-                            color: Colors.black54, borderRadius: BorderRadius.circular(10)
+                      Row(
+                        children: [
+                          Icon(
+                            _currentPosition != null ? Icons.location_on : Icons.location_searching,
+                            color: _currentPosition != null ? Colors.greenAccent : Colors.grey,
+                            size: 16,
                           ),
-                          child: Text(aiStatus, style: const TextStyle(color: Colors.white)),
+                          const SizedBox(width: 8),
+                          Text(
+                            _currentPosition != null ? "GPS Active" : "Locating...",
+                            style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.bold),
+                          ),
+                        ],
+                      ),
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                        decoration: BoxDecoration(
+                          color: _isConnected ? Colors.green.withOpacity(0.2) : Colors.red.withOpacity(0.2),
+                          borderRadius: BorderRadius.circular(8),
+                          border: Border.all(color: _isConnected ? Colors.green : Colors.red),
                         ),
-                      )
+                        child: Text(
+                          _isConnected ? "ONLINE" : "OFFLINE",
+                          style: TextStyle(
+                            color: _isConnected ? Colors.greenAccent : Colors.redAccent, 
+                            fontSize: 10, fontWeight: FontWeight.bold
+                          ),
+                        ),
+                      ),
                     ],
                   ),
+                ),
+              ),
+            ),
           ),
-          Container(
-            width: double.infinity,
-            padding: const EdgeInsets.all(20),
-            color: Colors.black87,
+
+          // 4. BOTTOM CONTROL DECK (Glassmorphism)
+          Positioned(
+            bottom: 30, left: 20, right: 20,
             child: Column(
               children: [
-                Text(
-                  debugStatus,
-                  style: const TextStyle(color: Colors.white, fontSize: 14, fontFamily: 'monospace'),
-                  textAlign: TextAlign.center,
+                // AI STATUS ORB (Animated)
+                AnimatedBuilder(
+                  animation: _pulseController,
+                  builder: (context, child) {
+                    return Container(
+                      height: 80, width: 80,
+                      decoration: BoxDecoration(
+                        shape: BoxShape.circle,
+                        color: statusColor.withOpacity(0.1),
+                        border: Border.all(color: statusColor.withOpacity(0.5), width: 2),
+                        boxShadow: [
+                          BoxShadow(
+                            color: statusColor.withOpacity(0.3 * _pulseAnimation.value),
+                            blurRadius: 20 * _pulseAnimation.value,
+                            spreadRadius: 5 * _pulseAnimation.value,
+                          )
+                        ],
+                      ),
+                      child: Icon(
+                        aiStatus == "DANGER" ? Icons.warning : 
+                        aiStatus == "SPEAKING" ? Icons.graphic_eq : 
+                        aiStatus == "WATCHING" ? Icons.remove_red_eye : Icons.circle,
+                        color: statusColor,
+                        size: 32,
+                      ),
+                    );
+                  },
                 ),
+                
                 const SizedBox(height: 20),
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                  children: [
-                    // SWITCH CAMERA BUTTON
-                    IconButton(
-                      icon: const Icon(Icons.switch_camera, color: Colors.white, size: 30),
-                      onPressed: _switchCamera,
+
+                // SUBTITLES (Smooth Transition)
+                AnimatedSwitcher(
+                  duration: const Duration(milliseconds: 300),
+                  child: Container(
+                    key: ValueKey<String>(debugStatus),
+                    padding: const EdgeInsets.all(12),
+                    decoration: BoxDecoration(
+                      color: Colors.black.withOpacity(0.6),
+                      borderRadius: BorderRadius.circular(12),
                     ),
-                    
-                    ElevatedButton(
-                      onPressed: _toggleStream,
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: isStreaming? Colors.red : Colors.green,
-                        minimumSize: const Size(150, 50),
-                      ),
-                      child: Text(
-                        isStreaming ? "STOP" : "ACTIVATE",
-                        style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+                    child: Text(
+                      debugStatus, // Shows what AI is saying
+                      textAlign: TextAlign.center,
+                      style: const TextStyle(color: Colors.white, fontSize: 14),
+                      maxLines: 2,
+                      overflow: TextOverflow.ellipsis,
+                    ),
+                  ),
+                ),
+
+                const SizedBox(height: 20),
+
+                // CONTROLS
+                ClipRRect(
+                  borderRadius: BorderRadius.circular(30),
+                  child: BackdropFilter(
+                    filter: ImageFilter.blur(sigmaX: 10, sigmaY: 10),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+                      color: Colors.white.withOpacity(0.1),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceAround,
+                        children: [
+                          IconButton(
+                            icon: const Icon(Icons.switch_camera_rounded, color: Colors.white),
+                            onPressed: _switchCamera,
+                          ),
+                          FloatingActionButton(
+                            backgroundColor: isStreaming ? Colors.redAccent : Colors.greenAccent,
+                            onPressed: _toggleStream,
+                            child: Icon(isStreaming ? Icons.stop : Icons.play_arrow, color: Colors.black),
+                          ),
+                          IconButton(
+                            icon: const Icon(Icons.volume_up_rounded, color: Colors.white),
+                            onPressed: () => flutterTts.speak("Audio Check"),
+                          ),
+                        ],
                       ),
                     ),
-                    
-                    // STATUS ICON
-                    Icon(
-                      _isConnected ? Icons.cloud_done : Icons.cloud_off,
-                      color: _isConnected ? Colors.blue : Colors.grey,
-                      size: 30,
-                    )
-                  ],
-                )
+                  ),
+                ),
               ],
             ),
           ),
@@ -454,8 +453,20 @@ class _CameraScreenState extends State<CameraScreen> {
       ),
     );
   }
+
+  Color _getStatusColor(String status) {
+    switch (status) {
+      case "DANGER": return Colors.redAccent;
+      case "SPEAKING": return Colors.cyanAccent;
+      case "THINKING": return Colors.amber;
+      case "INTERRUPTED": return Colors.orange;
+      case "WATCHING": return Colors.purpleAccent;
+      default: return Colors.grey;
+    }
+  }
 }
 
+// --- ISOLATE FUNCTION (Unchanged) ---
 Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
   try {
     final width = data['width'] as int;
@@ -491,9 +502,6 @@ Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
 
     if (image == null) return null;
     final resized = img.copyResize(image, width: 640); 
-    final jpegBytes = img.encodeJpg(resized, quality: 70); 
-    return base64Encode(jpegBytes);
-  } catch (e) {
-    return null;
-  }
+    return base64Encode(img.encodeJpg(resized, quality: 70));
+  } catch (e) { return null; }
 }
