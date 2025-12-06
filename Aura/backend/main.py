@@ -50,9 +50,8 @@ MODEL = "models/gemini-2.0-flash-exp"
 SYS_INSTRUCTION = """
 You are Aura, a safety-oriented navigation assistant.
 **RULES:**
-1. **Clock Face:** Use "12 o'clock" (front), "3 o'clock" (right).
-2. **Urgency:** If danger (cars, drops), start with "[CRITICAL]".
-3. **Brevity:** Max 15 words. No filler.
+
+**Obedience:** Follow user voice commands instantly.
 """
 
 CONFIG = {
@@ -97,85 +96,82 @@ async def health_check():
 async def websocket_endpoint(websocket: WebSocket):
     await websocket.accept()
 
-    # 1. Security
+    # ... (Security checks remain the same) ...
     if not await verify_token(websocket):
-        print("⛔ Invalid Token")
         await websocket.close(code=4001)
         return
-
-    print("✅ Client Connected")
-
     if not client:
         await websocket.close(code=1011)
         return
 
-    # 2. Connection Loop
+    print("✅ Client Connected")
+
     try:
         async with client.aio.live.connect(model=MODEL, config=CONFIG) as session:
             print("🚀 Connected to Gemini Live")
 
-            # FIXED: Add a pause (periods/commas) to prevent "ura" clipping
-            await session.send(input="... Aura System Online.", end_of_turn=True)
+            # --- CHANGE 1: THE GREETING ---
+            # We ask a question to invite the user to speak
+            await session.send(input="... Aura Online. I am listening. What should I look for?", end_of_turn=True)
 
-            # --- Task A: Receive from Gemini (Brain -> Phone) ---
             async def receive_from_gemini():
                 try:
-                    while True:
-                        async for response in session.receive():
-                            if response.text:
-                                text_response = response.text
-                                print(f"🤖 Gemini: {text_response}")
-
-                                payload = {
-                                    "cmd": "speak",
-                                    "text": text_response
-                                }
-                                await websocket.send_text(json.dumps(payload))
+                    # Removed redundant 'while True'
+                    async for response in session.receive():
+                        if response.text:
+                            text_response = response.text
+                            print(f"🤖 Gemini: {text_response}")
+                            payload = {"cmd": "speak", "text": text_response}
+                            await websocket.send_text(json.dumps(payload))
                 except Exception as e:
                     print(f"❌ Gemini Receive Error: {e}")
 
-            # --- Task B: Receive from Mobile (Phone -> Brain) ---
             async def receive_from_mobile():
                 prev_frame = None
-                try:
-                    while True:
+                while True:  # Moved 'while' OUTSIDE the try block
+                    try:
                         data = await websocket.receive_text()
                         payload = json.loads(data)
 
+                        # --- 1. HANDLE VOICE COMMANDS ---
+                        if "text" in payload:
+                            user_command = payload["text"]
+                            print(f"🗣️ User Command: {user_command}")
+                            await session.send(input=user_command, end_of_turn=True)
+
+                        # --- 2. HANDLE GPS CONTEXT ---
+                        context_msg = ""
+                        if "location" in payload and payload["location"]:
+                            loc = payload["location"]
+                            context_msg = f"User Location: {loc['lat']}, {loc['lng']}."
+
+                        # --- 3. HANDLE VIDEO LOGIC ---
                         if "image" in payload:
                             image_bytes = base64.b64decode(payload["image"])
+                            # print(f"📸 Received Image: {len(image_bytes)} bytes")
 
-                            # OpenCV Processing (Run in thread to avoid blocking)
+                            if context_msg:
+                                await session.send(input=context_msg, end_of_turn=False)
+
+                            # OpenCV Scene Change Check (Wrapped safely)
                             try:
                                 np_arr = np.frombuffer(image_bytes, np.uint8)
                                 frame = await asyncio.to_thread(cv2.imdecode, np_arr, cv2.IMREAD_COLOR)
-
                                 if frame is not None:
-                                    # Check Scene Change
                                     if await asyncio.to_thread(has_scene_changed, prev_frame, frame):
-                                        print("⚡ Scene Changed -> Interrupting")
                                         await websocket.send_json({"cmd": "interrupt"})
-
                                     prev_frame = frame
-                            except Exception as cv_e:
-                                print(f"⚠️ CV Error: {cv_e}")
+                            except Exception:
+                                pass  # Ignore CV errors, keep streaming
 
-                            # Send to Gemini
                             await session.send(input={"mime_type": "image/jpeg", "data": image_bytes}, end_of_turn=True)
-                except WebSocketDisconnect:
-                    print("📱 Mobile Disconnected")
-                    raise
-                except Exception as e:
-                    print(f"❌ Mobile Receive Error: {e}")
-                    traceback.print_exc()
 
-            await asyncio.gather(receive_from_gemini(), receive_from_mobile())
-
-    except WebSocketDisconnect:
-        print("❌ Disconnected Cleanly")
-    except Exception as e:
-        print(f"🔥 Critical Server Error: {e}")
-        traceback.print_exc()
+                    except WebSocketDisconnect:
+                        print("📱 Mobile Disconnected")
+                        break  # Stop loop only on disconnect
+                    except Exception as e:
+                        print(f"❌ Frame Error: {e}")
+                        continue  # Skip bad frame and continue
     finally:
         try:
             await websocket.close()
