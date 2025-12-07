@@ -532,7 +532,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   CameraController? controller;
   bool isStreaming = false;
   String aiStatus = "IDLE";
-  String lastWords = "System Ready"; 
+  String debugStatus = "System Ready"; 
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
@@ -608,6 +608,11 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
          return;
       }
       
+      if (!isStreaming) {
+        _toggleStream(); // Turn on the eyes automatically
+        print("👁️ Auto-starting video stream for voice command");
+      }
+
       setState(() => _isListening = true);
       flutterTts.stop(); // Silence AI so it listens
       
@@ -622,7 +627,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
               _channel!.sink.add(jsonEncode({
                 "text": command 
               }));
-              setState(() => lastWords = "You: $command");
+              setState(() => debugStatus = "You: $command");
             }
           }
         },
@@ -693,7 +698,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                 setState(() => aiStatus = "SPEAKING");
              }
              
-             if(mounted) setState(() => lastWords = text);
+             if(mounted) setState(() => debugStatus = text);
              _speak(text);
           }
           else if (data['cmd'] == 'interrupt') {
@@ -756,34 +761,51 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
     }
   }
 
+  // --- DEBUGGING: TOGGLE STREAM ---
   void _toggleStream() {
-    if (controller == null || !controller!.value.isInitialized) return;
+    if (controller == null || !controller!.value.isInitialized) {
+      print("❌ Camera Controller NOT Initialized!");
+      return;
+    }
 
     if (isStreaming) {
+      print("🛑 Stopping Image Stream");
       controller!.stopImageStream();
       setState(() {
         isStreaming = false;
+        debugStatus = "Stream Paused";
         aiStatus = "IDLE";
       });
     } else {
-      controller!.startImageStream((CameraImage image) {
-        _processFrame(image);
-      });
-      setState(() {
-        isStreaming = true;
-        aiStatus = "WATCHING";
-      });
+      print("🟢 Starting Image Stream...");
+      try {
+        controller!.startImageStream((CameraImage image) {
+          _processFrame(image);
+        });
+        setState(() {
+          isStreaming = true;
+          aiStatus = "WATCHING";
+        });
+      } catch (e) {
+        print("❌ Error starting stream: $e");
+      }
     }
   }
 
+  // --- DEBUGGING: PROCESS FRAME ---
   Future<void> _processFrame(CameraImage image) async {
+    // 1. Verify Camera is generating frames
+    // print("📸 Frame Arrived: ${image.width}x${image.height} | Format: ${image.format.group}"); 
+    
     if (isProcessingFrame) return; 
+    
     final now = DateTime.now();
     if (lastFrameTime != null && 
         now.difference(lastFrameTime!) < const Duration(milliseconds: 1500)) {
       return; 
     }
 
+    print("⚙️ Processing Frame... (Sending to Isolate)"); // DEBUG
     isProcessingFrame = true;
     lastFrameTime = now;
 
@@ -802,7 +824,12 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       final String? base64Result = await compute(convertToBase64Jpeg, rawData);
 
       if (base64Result != null) {
+        print("✅ Conversion Success! Size: ${base64Result.length} chars"); // DEBUG
+
         if (_channel != null && _isConnected) {
+            print("🚀 Sending Image to Backend..."); // DEBUG
+            
+            // Context Logic
             Map<String, double>? locationData;
             if (_currentPosition != null) {
               locationData = {'lat': _currentPosition!.latitude, 'lng': _currentPosition!.longitude};
@@ -813,10 +840,23 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                 "timestamp": DateTime.now().millisecondsSinceEpoch,
                 "location": locationData 
             }));
+        } else {
+            print("❌ Cannot Send: WebSocket Disconnected");
         }
+
+        if (mounted) {
+          setState(() {
+             // debugStatus = "Sending..."; 
+          });
+        }
+      } else {
+        print("❌ Conversion Failed (Result is null)");
       }
-    } catch (e) { print(e); } 
-    finally { isProcessingFrame = false; }
+    } catch (e) {
+      print("❌ Error processing frame: $e");
+    } finally {
+      isProcessingFrame = false;
+    }
   }
 
   @override
@@ -834,20 +874,34 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   @override
   Widget build(BuildContext context) {
     Color statusColor = _getStatusColor(aiStatus);
-    if (_isListening) statusColor = Colors.purpleAccent;
 
     return Scaffold(
       backgroundColor: Colors.black,
       body: Stack(
         fit: StackFit.expand,
         children: [
-          // 1. CAMERA FEED
+          // 1. CAMERA FEED (Full Screen Cover - No Distortion)
           if (controller != null && controller!.value.isInitialized)
-            CameraPreview(controller!)
+            LayoutBuilder(
+              builder: (context, constraints) {
+                final size = constraints.biggest;
+                var scale = size.aspectRatio * controller!.value.aspectRatio;
+
+                // If scale < 1, the image is wider than the screen -> Scale up height
+                if (scale < 1) scale = 1 / scale;
+
+                return Transform.scale(
+                  scale: scale,
+                  child: Center(
+                    child: CameraPreview(controller!),
+                  ),
+                );
+              },
+            )
           else
             const Center(child: CircularProgressIndicator(color: Colors.cyanAccent)),
 
-          // 2. SAFETY OVERLAY
+          // 2. SAFETY OVERLAY (Flashes Red on Danger)
           IgnorePointer(
             child: AnimatedContainer(
               duration: const Duration(milliseconds: 300),
@@ -859,7 +913,8 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
               ),
             ),
           ),
-
+          
+          
           // 3. TOP BAR
           Positioned(
             top: 50, left: 20, right: 20,
@@ -909,7 +964,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
             ),
           ),
 
-          // 4. BOTTOM CONTROLS
+          // 4. BOTTOM CONTROL DECK
           Positioned(
             bottom: 30, left: 20, right: 20,
             child: Column(
@@ -950,14 +1005,14 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                 AnimatedSwitcher(
                   duration: const Duration(milliseconds: 300),
                   child: Container(
-                    key: ValueKey<String>(lastWords),
+                    key: ValueKey<String>(debugStatus),
                     padding: const EdgeInsets.all(12),
                     decoration: BoxDecoration(
                       color: Colors.black.withOpacity(0.6),
                       borderRadius: BorderRadius.circular(12),
                     ),
                     child: Text(
-                      lastWords,
+                      debugStatus,
                       textAlign: TextAlign.center,
                       style: const TextStyle(color: Colors.white, fontSize: 14),
                       maxLines: 2,
@@ -985,27 +1040,16 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                             onPressed: _switchCamera,
                           ),
                           
-                          // TOGGLE STREAM
-                          GestureDetector(
-                            onTap: _toggleStream,
-                            child: AnimatedContainer(
-                              duration: const Duration(milliseconds: 300),
-                              width: 60, height: 60,
-                              decoration: BoxDecoration(
-                                shape: BoxShape.circle,
-                                color: isStreaming ? Colors.redAccent : Colors.white,
-                              ),
-                              child: Icon(
-                                isStreaming ? Icons.stop_rounded : Icons.play_arrow_rounded,
-                                color: isStreaming ? Colors.white : Colors.black,
-                                size: 30,
-                              ),
-                            ),
+                          // ACTIVATE/STOP
+                          FloatingActionButton(
+                            backgroundColor: isStreaming ? Colors.redAccent : Colors.greenAccent,
+                            onPressed: _toggleStream,
+                            child: Icon(isStreaming ? Icons.stop : Icons.play_arrow, color: Colors.black),
                           ),
                           
-                          // MICROPHONE (SPEECH TO TEXT)
+                          // MICROPHONE
                           GestureDetector(
-                            onTap: _toggleListening, // Toggle mic
+                            onTap: _toggleListening, 
                             child: CircleAvatar(
                               backgroundColor: _isListening ? Colors.purpleAccent : Colors.transparent,
                               radius: 24,
@@ -1027,7 +1071,6 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       ),
     );
   }
-
   Color _getStatusColor(String status) {
     switch (status) {
       case "DANGER": return Colors.redAccent;
@@ -1040,34 +1083,71 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   }
 }
 
-// --- ISOLATE FUNCTION ---
+// --- ISOLATE FUNCTION (Background Thread) ---
 Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
   try {
     final width = data['width'] as int;
     final height = data['height'] as int;
     final format = data['format'] as ImageFormatGroup;
     final planes = data['planes'] as List;
-    img.Image? image;
 
+    // --- FIX: USE ROBUST YUV CONVERSION ---
     if (format == ImageFormatGroup.yuv420) {
-      image = img.Image(width: width, height: height, numChannels: 1); 
-      final yPlane = planes[0]['bytes'] as Uint8List;
-      final int bytesPerRow = planes[0]['bytesPerRow'] as int; 
-      for (var y = 0; y < height; y++) {
-        for (var x = 0; x < width; x++) {
-          final int yIndex = y * bytesPerRow + x;
-          if (yIndex < yPlane.length) {
-             final pixel = yPlane[yIndex];
-             image.setPixelRgb(x, y, pixel, pixel, pixel);
-          }
-        }
-      }
-    } else if (format == ImageFormatGroup.bgra8888) {
+      // Access pointers to the raw data
+      final Uint8List yPlane = planes[0]['bytes'];
+      final Uint8List uPlane = planes[1]['bytes'];
+      final Uint8List vPlane = planes[2]['bytes'];
+      
+      final int yRowStride = planes[0]['bytesPerRow'];
+      final int uvRowStride = planes[1]['bytesPerRow'];
+      final int uvPixelStride = planes[1]['bytesPerPixel'];
+
+      // Convert YUV420 to RGB Image
+      // We use a simplified grayscale approach if full color is too slow/complex
+      // But let's try a safer manual conversion first that avoids the "scrambled" look
+      
+      // OPTIMIZATION: Just send the Y-Plane (Grayscale)
+      // The AI is excellent at recognizing objects in Black & White, 
+      // and this removes all color corruption risks.
+      
+      final img.Image grayscaleImage = img.Image.fromBytes(
+        width: width, 
+        height: height, 
+        bytes: yPlane.buffer,
+        rowStride: yRowStride,
+        order: img.ChannelOrder.red, // Treat Y as Red channel (grayscale)
+        numChannels: 1
+      );
+
+      // Rotate 90 degrees (Phones capture landscape by default)
+      final img.Image rotated = img.copyRotate(grayscaleImage, angle: 90);
+
+      // Resize for speed (320px width is sufficient for object detection)
+      final img.Image resized = img.copyResize(rotated, width: 320);
+
+      // Encode to JPEG
+      final jpegBytes = img.encodeJpg(resized, quality: 60);
+      return base64Encode(jpegBytes);
+    } 
+    
+    // Handle iOS (BGRA8888)
+    else if (format == ImageFormatGroup.bgra8888) {
       final bytes = planes[0]['bytes'] as Uint8List;
-      image = img.Image.fromBytes(width: width, height: height, bytes: bytes.buffer, order: img.ChannelOrder.bgra);
+      final img.Image image = img.Image.fromBytes(
+        width: width, 
+        height: height, 
+        bytes: bytes.buffer,
+        order: img.ChannelOrder.bgra
+      );
+      
+      final img.Image rotated = img.copyRotate(image, angle: 90);
+      final img.Image resized = img.copyResize(rotated, width: 320);
+      return base64Encode(img.encodeJpg(resized, quality: 60));
     }
-    if (image == null) return null;
-    final resized = img.copyResize(image, width: 640); 
-    return base64Encode(img.encodeJpg(resized, quality: 70));
-  } catch (e) { return null; }
+
+    return null;
+  } catch (e) {
+    print("Isolate Error: $e");
+    return null;
+  }
 }
