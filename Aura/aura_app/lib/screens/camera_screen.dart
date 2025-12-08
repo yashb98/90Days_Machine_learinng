@@ -532,7 +532,8 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   CameraController? controller;
   bool isStreaming = false;
   String aiStatus = "IDLE";
-  String debugStatus = "System Ready"; 
+  String debugStatus = "System Ready";
+  String _currentMode = "safety"; 
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
@@ -648,6 +649,23 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       print("Error starting location stream: $e");
     }
   }
+ 
+ // Toggle between safe mode and scenery mode 
+
+  void _toggleMode() {
+    setState(() {
+      // Toggle between modes
+      _currentMode = (_currentMode == "safety") ? "scenery" : "safety";
+      
+      // Reset status text
+      debugStatus = "Switching to ${_currentMode.toUpperCase()}...";
+      aiStatus = "IDLE";
+    });
+
+    // Reconnect to apply the new mode
+    _channel?.sink.close();
+    _connectWebSocket();
+  }
 
   // --- TTS LOGIC ---
   void _initTts() async {
@@ -674,8 +692,10 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       final token = await user?.getIdToken();
       if (token == null) return;
 
-      final secureUri = Uri.parse(_socketUrl).replace(queryParameters: {'token': token});
-      print("🔌 Connecting to: $secureUri");
+      final secureUri = Uri.parse(_socketUrl).replace(queryParameters: {
+        'token': token,
+        'mode': _currentMode 
+      });
 
       _channel = WebSocketChannel.connect(secureUri);
       if(mounted) setState(() => _isConnected = true);
@@ -838,7 +858,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
             _channel!.sink.add(jsonEncode({
                 "image": base64Result,
                 "timestamp": DateTime.now().millisecondsSinceEpoch,
-                "location": locationData 
+                // "location": locationData 
             }));
         } else {
             print("❌ Cannot Send: WebSocket Disconnected");
@@ -1038,6 +1058,15 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                           IconButton(
                             icon: const Icon(Icons.switch_camera_rounded, color: Colors.white),
                             onPressed: _switchCamera,
+                          ),
+                          // MODE TOGGLE BUTTON
+                          IconButton(
+                            icon: Icon(
+                              _currentMode == "safety" ? Icons.shield_outlined : Icons.landscape_rounded,
+                              color: _currentMode == "safety" ? Colors.greenAccent : Colors.purpleAccent,
+                              size: 30,
+                            ),
+                            onPressed: _toggleMode,
                           ),
                           
                           // ACTIVATE/STOP
