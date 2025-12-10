@@ -1,13 +1,11 @@
 import os
 from dotenv import load_dotenv
+import google.generativeai as genai
 
-# Load environment variables from .env file
 load_dotenv()
-
-# --- API KEYS & SETTINGS ---
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-MODEL = "models/gemini-2.0-flash-exp"
-
+# Renamed from GEMINI_MODEL for simpler import
+GEMINI_MODEL = genai.GenerativeModel("gemini-2.0-flash-exp")
 # --- BRAIN MODES (System Instructions) ---
 # This dictionary defines the different personalities of Aura
 PERSONAS = {

@@ -51,7 +51,8 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   
   // --- WEBSOCKET CONFIG ---
   // REPLACE WITH YOUR ACTUAL CLOUD RUN URL
-  final String _socketUrl = 'wss://aura-backend-service-963226949438.europe-west2.run.app/ws';
+  final String _socketUrl = 'ws://192.168.0.61:8080/ws';
+  // final String _socketUrl = 'wss://aura-backend-service-963226949438.europe-west2.run.app/ws';
   WebSocketChannel? _channel;
   bool _isConnected = false;
 
