@@ -4,9 +4,10 @@ import re
 import asyncio
 import base64
 import traceback
-from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+from fastapi import FastAPI, WebSocket, WebSocketDisconnect, UploadFile, File
 from google import genai
 from google.genai import types
+import tempfile
 
 # Local Imports
 import config
@@ -66,6 +67,31 @@ def calculate_motion_score(current_bytes, previous_frame_gray):
     return change_score, gray
 
 
+@app.post("/vision/default")
+async def vision_default(image: UploadFile = File(...)):
+    """
+    Simple default vision endpoint:
+    - accepts a single JPEG/PNG file
+    - returns a one-sentence description
+    """
+    # 1. Read bytes from upload
+    data = await image.read()
+
+    # 2. Wrap as Blob for Gemini Live/GenAI SDK
+    blob = types.Blob(data=data, mime_type=image.content_type or "image/jpeg")
+
+    # 3. Call the model once (no modes)
+    resp = client.models.generate_content(
+        model=config.GEMINI_MODEL,
+        contents=[
+            "Describe exactly what is in this image in one short sentence.",
+            blob,
+        ],
+    )
+
+    return {"description": resp.text}
+
+
 @app.get("/")
 async def health_check():
     return {"status": "online", "message": "Aura Brain is Listening"}
@@ -82,7 +108,8 @@ async def websocket_endpoint(websocket: WebSocket):
         return
 
     # 2. Determine Mode
-    mode = websocket.query_params.get("mode", "safety")
+    # 2. Determine Mode
+    mode = websocket.query_params.get("mode", "default")
     print(f"✅ Client Connected ({mode})")
 
     if not client:
@@ -91,16 +118,20 @@ async def websocket_endpoint(websocket: WebSocket):
         return
 
     # 3. Configure Session using New SDK Types
-    selected_instruction = config.PERSONAS.get(mode, config.PERSONAS["safety"])
-
-    # Configuration object for Live API
-    live_config = types.LiveConnectConfig(
-        # Change to ["AUDIO"] if you want raw audio back
-        response_modalities=["TEXT"],
-        system_instruction=types.Content(
-            parts=[types.Part(text=selected_instruction)]
-        ),
-    )
+    if mode == "default":
+        # No system instruction for default mode
+        live_config = types.LiveConnectConfig(
+            response_modalities=["TEXT"],
+        )
+    else:
+        selected_instruction = config.PERSONAS.get(
+            mode, config.PERSONAS["safety"])
+        live_config = types.LiveConnectConfig(
+            response_modalities=["TEXT"],
+            system_instruction=types.Content(
+                parts=[types.Part(text=selected_instruction)]
+            ),
+        )
 
     try:
         # 4. Connect to Gemini Live
@@ -108,7 +139,11 @@ async def websocket_endpoint(websocket: WebSocket):
             print("🚀 Connected to Gemini Live")
 
             # Send Greeting
-            greeting_text = config.GREETINGS.get(mode, "System Online.")
+            if mode == "default":
+                greeting_text = "Aura online. I will describe what I see as you move."
+            else:
+                greeting_text = config.GREETINGS.get(mode, "System Online.")
+
             await session.send(input=greeting_text, end_of_turn=False)
 
             # --- Task A: Receive from Gemini (AI -> Mobile) ---
@@ -144,16 +179,26 @@ async def websocket_endpoint(websocket: WebSocket):
                                             print(
                                                 f"✅ [Response] Full Sentence: '{clean_text}'")
 
-                                            # Priority Logic
-                                            priority = "normal"
-                                            if mode == "safety" and "[CRITICAL]" in clean_text:
-                                                priority = "high"
+                                            # --- Safety post-filter for hallucinated CRITICAL alerts ---
+                                            allowed_critical_keywords = [
+                                                "car", "vehicle", "stairs", "step", "drop-off",
+                                                "curb", "bicycle", "bike", "person crossing",
+                                            ]
+                                            text_lower = clean_text.lower()
 
-                                            # Send the FULL SENTENCE to mobile
+                                            priority = "normal"
+                                            if mode == "safety" and "[critical]" in text_lower:
+                                                if any(word in text_lower for word in allowed_critical_keywords):
+                                                    priority = "high"
+                                                else:
+                                                    # Downgrade hallucinated danger
+                                                    clean_text = "No clear obstacle visible."
+                                                    priority = "normal"
+
                                             payload = {
                                                 "cmd": "speak",
                                                 "text": clean_text,
-                                                "priority": priority
+                                                "priority": priority,
                                             }
                                             await websocket.send_text(json.dumps(payload))
 
@@ -165,8 +210,12 @@ async def websocket_endpoint(websocket: WebSocket):
                     traceback.print_exc()
 
             # --- Task B: Receive from Mobile (Mobile -> AI) ---
+            # --- Task B: Receive from Mobile (Mobile -> AI) ---
+
             async def receive_from_mobile():
                 import time  # Ensure time is imported
+                last_image_bytes = None
+
                 # create a folder to save images (debugging)
                 if not os.path.exists("debug_frames"):
                     os.makedirs("debug_frames")
@@ -178,13 +227,8 @@ async def websocket_endpoint(websocket: WebSocket):
                 last_trigger_time = 0
 
                 # CONFIGURATION
-                # How much must the scene change to trigger AI? (0-100)
-                # 2.0 = Sensitive (detects hand waving)
-                # 10.0 = Coarse (detects walking/turning)
-                MOTION_THRESHOLD = 15.0
-
-                # Minimum seconds between auto-descriptions (prevents spam)
-                COOLDOWN_SECONDS = 5.0
+                MOTION_THRESHOLD = 5.0  # How much scene change to trigger AI
+                COOLDOWN_SECONDS = 5.0  # Min seconds between auto-descriptions
 
                 while True:
                     try:
@@ -195,12 +239,12 @@ async def websocket_endpoint(websocket: WebSocket):
                         if "image" in payload:
                             frame_id = payload.get("frame_id", "Unknown")
                             image_bytes = base64.b64decode(payload["image"])
+                            last_image_bytes = image_bytes
 
-                            # --- A. ALWAYS SEND TO GEMINI BUFFER (Turn = False) ---
-                            # We always feed the eyes, so when we ask, it knows history.
                             print(
                                 f"🧐 [Backend] Streaming Frame #{frame_id}...")
-                            # Save the first 5 frames to verify quality/rotation
+
+                            # Save first 5 frames for debugging
                             if frames_saved_count < 5:
                                 filename = f"debug_frames/frame_{frame_id}.jpg"
                                 with open(filename, "wb") as f:
@@ -209,21 +253,20 @@ async def websocket_endpoint(websocket: WebSocket):
                                     f"[Debug] Saved {filename} (Check this file!)")
                                 frames_saved_count += 1
 
-                            # send to Gemini Buffer
+                            # --- ALWAYS SEND IMAGE TO GEMINI BUFFER (Turn = False) ---
                             await session.send(
                                 input=types.LiveClientRealtimeInput(
                                     media_chunks=[
                                         types.Blob(
-
                                             data=image_bytes,
-                                            mime_type="image/jpeg"
+                                            mime_type="image/jpeg",
                                         )
                                     ]
                                 ),
-                                end_of_turn=False
+                                end_of_turn=False,
                             )
 
-                            # --- B. CALCULATE MOTION (The Trigger) ---
+                            # --- CALCULATE MOTION (The Trigger) ---
                             motion_score, last_processed_frame_gray = calculate_motion_score(
                                 image_bytes,
                                 last_processed_frame_gray
@@ -232,30 +275,39 @@ async def websocket_endpoint(websocket: WebSocket):
                             current_time = time.time()
                             time_since_last = current_time - last_trigger_time
 
-                            # Log the motion score for debugging
-                            # print(f"📊 Motion Score: {motion_score:.2f}%")
-
-                            # --- C. DECIDE TO TRIGGER AI ---
                             if motion_score > MOTION_THRESHOLD and time_since_last > COOLDOWN_SECONDS:
                                 print(
                                     f"🚀 [Backend] MOTION DETECTED ({motion_score:.1f}%) - Triggering AI")
-
                                 last_trigger_time = current_time
 
-                                # Custom Prompt based on Mode
-                                auto_prompt = "Describe what is in view."
-                                if mode == "safety":
-                                    auto_prompt = (" Describe only clear obstacles or moving objects in this frame. "
-                                                   "If unsure, say 'No clear obstacle visible.'"
-                                                   )
-                                elif mode == "reading":
-                                    auto_prompt = (
-                                        "Read only large, legible printed signs or documents. "
-                                        "Ignore any text shown on screens or UI elements."
+                                if mode == "default":
+                                    await session.send(
+                                        input="Describe what you see.",
+                                        end_of_turn=True,
                                     )
-
-                                # FORCE RESPONSE (End Turn = True)
-                                await session.send(input=auto_prompt, end_of_turn=True)
+                                elif mode == "safety":
+                                    await session.send(
+                                        input=(
+                                            "Look at the current frame only. "
+                                            "Describe only clear obstacles like cars, bikes, stairs, curbs or drop-offs. "
+                                            "If you do not clearly see any, say 'No clear obstacle visible.' "
+                                            "Do not mention people unless you clearly see a whole person."
+                                        ),
+                                        end_of_turn=True,
+                                    )
+                                elif mode == "reading":
+                                    await session.send(
+                                        input=(
+                                            "Read only large, legible printed signs or documents. "
+                                            "Ignore any text shown on screens or UI elements."
+                                        ),
+                                        end_of_turn=True,
+                                    )
+                                else:
+                                    await session.send(
+                                        input="Describe what is in view.",
+                                        end_of_turn=True,
+                                    )
 
                         # 2. VOICE COMMANDS (Manual Override)
                         if "text" in payload:
@@ -263,7 +315,7 @@ async def websocket_endpoint(websocket: WebSocket):
                             print(
                                 f"🗣️ [Command] User Interrupt: {user_command}")
 
-                            # Reset cooldown so we can trigger again immediately after this
+                            # Reset cooldown so we can trigger immediately
                             last_trigger_time = 0
 
                             await session.send(input=user_command, end_of_turn=True)
@@ -275,6 +327,7 @@ async def websocket_endpoint(websocket: WebSocket):
                         print(f"⚠️ Error: {type(e).__name__}: {e}")
                         traceback.print_exc()
                         continue
+
             # Run both tasks concurrently
             await asyncio.gather(receive_from_gemini(), receive_from_mobile())
 

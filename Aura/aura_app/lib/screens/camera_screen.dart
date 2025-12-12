@@ -14,6 +14,7 @@ import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 
+
 // --- CUSTOM IMPORTS ---
 import '../services/audio_player_service.dart';
 import '../services/location_service.dart';
@@ -42,6 +43,19 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
+
+  // --- GEOPOSE FROM ANDROID --- 
+  static const _geoChannel = MethodChannel('aura/geospatial');
+
+  Map<String, dynamic> _geospatialPose = {
+    'lat': 0.0,
+    'lng': 0.0,
+    'alt': 0.0,
+    'heading': 0.0,
+    'hAcc': 0.0,
+    'headingAcc': 0.0,
+    'source': 'NONE',
+  };
 
   // --- LOCATION VARIABLES ---
   final LocationService _locationService = LocationService();
@@ -72,7 +86,10 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance.addObserver(this); 
+    WidgetsBinding.instance.addObserver(this);
+
+    // _setupGeospatialListener();
+    // _startLocationTracking();
     
     // 1. Setup Animations
     _pulseController = AnimationController(
@@ -91,6 +108,36 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
     _connectWebSocket();
   }
 
+  void _setupGeospatialListener() {
+    _geoChannel.setMethodCallHandler((call) async {
+      if (call.method == 'onLocationUpdate') {
+        final args = call.arguments as Map;
+        setState(() {
+          _geospatialPose = {
+            'lat': (args['lat'] as num).toDouble(),
+            'lng': (args['lng'] as num).toDouble(),
+            'alt': (args['altitude'] as num?)?.toDouble() ?? 0.0,
+            'accuracy': (args['accuracy'] as num).toDouble(),
+            'timestamp': args['timestamp'] as int?,
+            'source': 'GPS',
+          };
+        });
+
+        print('📍 Geospatial Update: $_geospatialPose');
+      }
+    });
+  }
+
+  void _startLocationTracking() async {
+    try {
+      await _geoChannel.invokeMethod('startLocationTracking');
+      print('✅ Geospatial tracking started');
+    } catch (e) {
+      print('❌ Error starting geospatial tracking: $e');
+    }
+  }
+
+
   @override
   void dispose() {
     _pulseController.dispose();
@@ -98,7 +145,10 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
     flutterTts.stop();
     _speech.stop();
     WidgetsBinding.instance.removeObserver(this); 
-    controller?.dispose(); 
+    controller?.dispose();
+    try {
+      _geoChannel.invokeMethod('stopLocationTracking');
+    } catch (_) {}
     super.dispose();
   }
 
@@ -336,12 +386,21 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
             if (locationData != null) print("   Loc: $locationData");
             print("-------------------------------------------------------");
 
+            final locationJson = _currentPosition == null
+                ? null
+                : {
+                    "lat": _currentPosition!.latitude,
+                    "lng": _currentPosition!.longitude,
+                  };
+
             _channel!.sink.add(jsonEncode({
-                "image": base64Result,
-                "frame_id": _frameCounter, 
-                "timestamp": DateTime.now().millisecondsSinceEpoch,
-                "location": locationData 
+              "image": base64Result,
+              "frame_id": _frameCounter,
+              "timestamp": DateTime.now().millisecondsSinceEpoch,
+              "location": locationJson,
+              "geospatial": _geospatialPose,
             }));
+
         }
       }
     } catch (e) { print("❌ Frame Error: $e"); } 

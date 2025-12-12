@@ -16,17 +16,15 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
 
-    kotlin {
-        compilerOptions {
-            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
-        }
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_17.toString()
     }
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId = "com.example.aura_app"
         // You can update the following values to match your application needs.
-        // For more information, see: [https://flutter.dev/to/review-gradle-config](https://flutter.dev/to/review-gradle-config).
+        // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
@@ -45,19 +43,7 @@ android {
 flutter {
     source = "../.."
 }
-
 dependencies {
-    // Core Flutter
-    implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
-    
-    // ARCore Geospatial (THIS IS THE KEY ONE)
-    implementation("com.google.ar:core:1.45.0")
-    
-    // Google Play Services Location
+    implementation("com.google.ar:core:1.45.0") // ARCore / Geospatial
     implementation("com.google.android.gms:play-services-location:21.3.0")
-    
-    // Other basics
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 }

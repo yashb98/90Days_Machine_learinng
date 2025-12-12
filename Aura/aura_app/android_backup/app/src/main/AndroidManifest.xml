@@ -1,18 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-<uses-permission android:name="android.permission.INTERNET" />
-<uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+<uses-permission android:name="android.permission.INTERNET"/>
 <uses-permission android:name="android.permission.CAMERA"/>
 <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 <uses-permission android:name="android.permission.VIBRATE"/>
-
     <application
         android:label="aura_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        <uses-library android:name="com.google.ar" android:required="false" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true"

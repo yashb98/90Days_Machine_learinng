@@ -1,6 +1,14 @@
-plugins {
-    id("com.google.gms.google-services") version "4.4.0" apply false
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // This dependency is required for Firebase
+        classpath("com.google.gms:google-services:4.4.1")
+    }
 }
+
 allprojects {
     repositories {
         google()
