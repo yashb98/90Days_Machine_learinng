@@ -27,7 +27,7 @@ android {
         applicationId = "com.example.aura_app"
         // You can update the following values to match your application needs.
         // For more information, see: [https://flutter.dev/to/review-gradle-config](https://flutter.dev/to/review-gradle-config).
-        minSdk = flutter.minSdkVersion
+        minSdk = 24
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
@@ -52,10 +52,14 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
     
     // ARCore Geospatial (THIS IS THE KEY ONE)
-    implementation("com.google.ar:core:1.45.0")
+    implementation("com.google.ar:core:1.46.0") // Check for the latest version
     
-    // Google Play Services Location
+    // Google service location
     implementation("com.google.android.gms:play-services-location:21.3.0")
+
+    implementation("com.google.android.gms:play-services-auth:21.2.0")
+    
+    
     
     // Other basics
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")

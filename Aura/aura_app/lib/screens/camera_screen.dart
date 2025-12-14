@@ -43,6 +43,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
+  bool _isAr = false;
 
   // --- GEOPOSE FROM ANDROID --- 
   static const _geoChannel = MethodChannel('aura/geospatial');
@@ -211,17 +212,61 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   // LOGIC SECTIONS (MODES & WS)
   // ===========================================================================
   
-  void _onModeSelected(String mode) {
-    if (_currentMode != mode) {
-      setState(() {
-        _currentMode = mode;
-        debugStatus = "Switched to ${mode.toUpperCase()}";
-        aiStatus = "IDLE";
-      });
-      // Reconnect to backend with new mode
-      _channel?.sink.close();
-      _channel = null; 
-      _connectWebSocket();
+  void _onModeSelected(String mode) async {
+    if (_currentMode == mode) return;
+
+    setState(() {
+      _currentMode = mode;
+      debugStatus = "Switched to ${mode.toUpperCase()}";
+      aiStatus = "IDLE";
+    });
+
+    // --- LOGIC SWITCH ---
+    if (mode == "navigation") {
+      // 1. STOP FLUTTER CAMERA (Release Hardware)
+      if (isStreaming) {
+        await controller?.stopImageStream();
+        setState(() => isStreaming = false);
+      }
+      await controller?.dispose();
+      controller = null;
+      setState(() => _isArMode = true);
+
+      // 2. START NATIVE AR
+      _startGeospatialSession();
+
+    } else {
+      // SWITCHING BACK TO VISION MODE
+      if (_isArMode) {
+        _stopGeospatialSession();
+        setState(() => _isArMode = false);
+        
+        // 3. RESTART FLUTTER CAMERA
+        await _initCameras(); 
+      }
+    }
+
+    // Reconnect WS (Keep your existing logic)
+    _channel?.sink.close();
+    _channel = null;
+    _connectWebSocket();
+  }
+
+  Future<void> _startGeospatialSession() async {
+    try {
+      // Tell Android to start ARCore
+      await _geoChannel.invokeMethod('startArSession');
+      debugStatus = "AR Navigation Active";
+    } catch (e) {
+      print("❌ Failed to start AR: $e");
+    }
+  }
+
+  Future<void> _stopGeospatialSession() async {
+    try {
+      await _geoChannel.invokeMethod('stopArSession');
+    } catch (e) {
+      print("❌ Failed to stop AR: $e");
     }
   }
 
@@ -522,13 +567,27 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       body: Stack(
         fit: StackFit.expand,
         children: [
-          // 1. CAMERA FEED
-          Transform.scale(
-            scale: scale,
-            child: Center(
-              child: CameraPreview(controller!),
-            ),
-          ),
+          
+          // 1. CAMERA FEED (Conditional)
+          if (_isArMode)
+            // SHOW NATIVE AR VIEW (We will configure this in Android)
+            const AndroidView(
+              viewType: 'aura_ar_view', // This ID must match Kotlin side
+              layoutDirection: TextDirection.ltr,
+              creationParams: {},
+              creationParamsCodec: StandardMessageCodec(),
+            )
+          else if (controller != null && controller!.value.isInitialized)
+            // SHOW FLUTTER CAMERA
+            Transform.scale(
+              scale: scale,
+              child: Center(
+                child: CameraPreview(controller!),
+              ),
+            )
+          else
+            // LOADING STATE
+            const Center(child: CircularProgressIndicator(color: Colors.cyan)),
 
           // 2. SAFETY OVERLAY
           SafetyLayer(aiStatus: aiStatus),
@@ -550,6 +609,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                 aiStatus: aiStatus,
                 isStreaming: isStreaming,
                 isListening: _isListening,
+                _isArMode: _isArMode,
                 pulseAnimation: _pulseAnimation,
                 onSwitchCamera: _switchCamera,
                 onToggleStream: _toggleStream,

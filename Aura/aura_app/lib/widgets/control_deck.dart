@@ -6,6 +6,7 @@ class ControlDeck extends StatelessWidget {
   final String aiStatus;
   final bool isStreaming;
   final bool isListening;
+  final bool isArMode; // <--- NEW PARAMETER
   final Animation<double> pulseAnimation;
   final VoidCallback onSwitchCamera;
   final VoidCallback onToggleStream;
@@ -17,6 +18,7 @@ class ControlDeck extends StatelessWidget {
     required this.aiStatus,
     required this.isStreaming,
     required this.isListening,
+    required this.isArMode, // <--- Add to constructor
     required this.pulseAnimation,
     required this.onSwitchCamera,
     required this.onToggleStream,
@@ -60,7 +62,9 @@ class ControlDeck extends StatelessWidget {
                           ? Icons.graphic_eq
                           : aiStatus == "WATCHING"
                               ? Icons.remove_red_eye
-                              : Icons.circle,
+                              : aiStatus == "NAVIGATING" // New Icon for AR
+                                  ? Icons.navigation_rounded
+                                  : Icons.circle,
               color: statusColor,
               size: 32,
             ),
@@ -90,7 +94,7 @@ class ControlDeck extends StatelessWidget {
 
           const SizedBox(height: 20),
 
-          // 3. HARDWARE CONTROLS (Cleaned up)
+          // 3. HARDWARE CONTROLS
           ClipRRect(
             borderRadius: BorderRadius.circular(30),
             child: BackdropFilter(
@@ -101,13 +105,18 @@ class ControlDeck extends StatelessWidget {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    // Switch Camera
-                    IconButton(
-                      icon: const Icon(Icons.switch_camera_rounded, color: Colors.white, size: 28),
-                      onPressed: onSwitchCamera,
-                    ),
+                    // SWITCH CAMERA (Hidden in AR Mode)
+                    if (!isArMode) 
+                      IconButton(
+                        icon: const Icon(Icons.switch_camera_rounded, color: Colors.white, size: 28),
+                        onPressed: onSwitchCamera,
+                      )
+                    else 
+                      // Placeholder to keep spacing even if button is gone
+                      const SizedBox(width: 48),
 
-                    // Main Action (Activate/Stop)
+                    // MAIN ACTION (Play/Stop)
+                    // In AR Mode, we might want to disable this or change it
                     SizedBox(
                       height: 60, width: 60,
                       child: FloatingActionButton(
@@ -122,7 +131,7 @@ class ControlDeck extends StatelessWidget {
                       ),
                     ),
 
-                    // Microphone
+                    // MICROPHONE
                     GestureDetector(
                       onTap: onToggleMic,
                       child: CircleAvatar(
@@ -152,6 +161,7 @@ class ControlDeck extends StatelessWidget {
       case "THINKING": return Colors.amber;
       case "INTERRUPTED": return Colors.orange;
       case "WATCHING": return Colors.purpleAccent;
+      case "NAVIGATING": return Colors.blueAccent; // New Color
       default: return Colors.grey;
     }
   }
