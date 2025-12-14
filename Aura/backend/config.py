@@ -8,11 +8,11 @@ USE_VERTEX_AI = True
 
 # Vertex AI Settings
 GOOGLE_CLOUD_PROJECT = "aura-backend-project"
-GOOGLE_CLOUD_LOCATION = "europe-west2"  # or europe-west2, etc.
+GOOGLE_CLOUD_LOCATION = "us-central1"  # or europe-west2, etc.
 
 # Keep this for fallback or mixed usage
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL = "gemini-2.0-flash-exp"
+GEMINI_MODEL = "gemini-live-2.5-flash-native-audio"
 
 # --- BRAIN MODES (System Instructions) ---
 PERSONAS = {
