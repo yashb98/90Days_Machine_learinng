@@ -3,10 +3,15 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# API Keys
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+# Toggle this to switch between AI Studio and Vertex AI
+USE_VERTEX_AI = True
 
-# Model Name (Just a string now, not an object)
+# Vertex AI Settings
+GOOGLE_CLOUD_PROJECT = "aura-backend-project"
+GOOGLE_CLOUD_LOCATION = "europe-west2"  # or europe-west2, etc.
+
+# Keep this for fallback or mixed usage
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GEMINI_MODEL = "gemini-2.0-flash-exp"
 
 # --- BRAIN MODES (System Instructions) ---
