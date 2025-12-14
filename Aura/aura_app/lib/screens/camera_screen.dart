@@ -41,9 +41,9 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
   String aiStatus = "IDLE";
   String _currentMode = "safety"; 
   
+  bool _isArMode = false;
   bool isProcessingFrame = false; 
   DateTime? lastFrameTime;
-  bool _isAr = false;
 
   // --- GEOPOSE FROM ANDROID --- 
   static const _geoChannel = MethodChannel('aura/geospatial');
@@ -609,7 +609,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                 aiStatus: aiStatus,
                 isStreaming: isStreaming,
                 isListening: _isListening,
-                _isArMode: _isArMode,
+                isArMode: _isArMode,
                 pulseAnimation: _pulseAnimation,
                 onSwitchCamera: _switchCamera,
                 onToggleStream: _toggleStream,
