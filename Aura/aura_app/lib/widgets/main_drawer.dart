@@ -54,7 +54,12 @@ class MainDrawer extends StatelessWidget {
           _buildDrawerItem(context, Icons.shield_outlined, "Safety Guide", "safety", Colors.greenAccent),
           _buildDrawerItem(context, Icons.menu_book_rounded, "Text Reader", "reading", Colors.blueAccent),
           _buildDrawerItem(context, Icons.landscape_rounded, "Scenery Describer", "scenery", Colors.purpleAccent),
+          
+          // 🔴 NEW: AR NAVIGATION OPTION
+          const Divider(color: Colors.white24, indent: 16, endIndent: 16), // Visual separator
+          _buildDrawerItem(context, Icons.navigation_rounded, "AR Navigation", "navigation", Colors.orangeAccent),
 
+          const Spacer(), // Pushes Logout to the bottom
           const Divider(color: Colors.grey),
           
           // Logout Option
@@ -65,6 +70,7 @@ class MainDrawer extends StatelessWidget {
               await FirebaseAuth.instance.signOut();
             },
           ),
+          const SizedBox(height: 20), // Bottom padding
         ],
       ),
     );

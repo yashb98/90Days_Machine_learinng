@@ -126,12 +126,11 @@ async def websocket_endpoint(websocket: WebSocket):
 
     # 2. Configure Session (Vertex AI & AI Studio use the same config structure)
     if mode == "default":
-        live_config = LiveConnectConfig(response_modalities=["TEXT"])
+        live_config = LiveConnectConfig()
     else:
         selected_instruction = config.PERSONAS.get(
             mode, config.PERSONAS["safety"])
         live_config = LiveConnectConfig(
-            response_modalities=["TEXT"],
             system_instruction=Content(
                 parts=[Part(text=selected_instruction)]),
         )
