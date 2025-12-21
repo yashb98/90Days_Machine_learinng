@@ -5,71 +5,48 @@ import 'package:image/image.dart' as img;
 
 Future<String?> convertToBase64Jpeg(Map<String, dynamic> data) async {
   try {
-    final width = data['width'] as int;
-    final height = data['height'] as int;
-    final format = data['format'] as String;
-    final planes = data['planes'] as List;
+    final width = data['width'];
+    final height = data['height'];
+    final planes = data['planes'];
 
-    img.Image? finalImage;
+    // YUV420 to RGB Conversion (Keeps Colors!)
+    // simplified for performance: only strictly accurate for standard Android Camera2 API
+    final yPlane = planes[0]['bytes'] as Uint8List;
+    final uPlane = planes[1]['bytes'] as Uint8List;
+    final vPlane = planes[2]['bytes'] as Uint8List;
 
-    // --- 1. ANDROID (YUV420) -> FORCE RGB GRAYSCALE ---
-    if (format == 'yuv420') {
-      final Uint8List yBytes = planes[0]['bytes'];
-      final int yRowStride = planes[0]['bytesPerRow'];
-      
-      // FIX: Create a 3-Channel RGB image (Not 1-channel)
-      // This prevents the "Red Tint" interpretation.
-      finalImage = img.Image(width: width, height: height, numChannels: 3);
+    final int yRowStride = planes[0]['bytesPerRow'];
+    final int uvRowStride = planes[1]['bytesPerRow'];
+    final int uvPixelStride = planes[1]['bytesPerPixel'];
 
-      for (int y = 0; y < height; y++) {
-        for (int x = 0; x < width; x++) {
-          final int uvIndex = y * yRowStride + x;
-          
-          if (uvIndex < yBytes.length) {
-            final int brightness = yBytes[uvIndex];
-            
-            // FIX: Set R, G, and B to the SAME value.
-            // When R=G=B, the pixel is perfectly gray.
-            finalImage.setPixelRgb(x, y, brightness, brightness, brightness); 
-          }
-        }
+    img.Image image = img.Image(width: width, height: height);
+
+    for (int y = 0; y < height; y++) {
+      for (int x = 0; x < width; x++) {
+        final int yIndex = y * yRowStride + x;
+        final int uvIndex = (y ~/ 2) * uvRowStride + (x ~/ 2) * uvPixelStride;
+
+        // YUV Indices
+        final int yp = yPlane[yIndex];
+        final int up = uPlane[uvIndex];
+        final int vp = vPlane[uvIndex];
+
+        // Standard YUV conversion formula
+        int r = (yp + (1.370705 * (vp - 128))).round().clamp(0, 255);
+        int g = (yp - (0.337633 * (up - 128)) - (0.698001 * (vp - 128))).round().clamp(0, 255);
+        int b = (yp + (1.732446 * (up - 128))).round().clamp(0, 255);
+
+        image.setPixelRgb(x, y, r, g, b);
       }
-    } 
-    // --- 2. iOS (BGRA8888) ---
-    else if (format == 'bgra8888') {
-      final Uint8List bytes = planes[0]['bytes'];
-      final int bytesPerRow = planes[0]['bytesPerRow'];
-
-      finalImage = img.Image.fromBytes(
-        width: width,
-        height: height,
-        bytes: bytes.buffer,
-        rowStride: bytesPerRow,
-        numChannels: 4,
-        order: img.ChannelOrder.bgra,
-      );
     }
 
-    if (finalImage == null) return null;
+    // Rotate (Portrait) & Resize
+    img.Image oriented = img.copyRotate(image, angle: 90);
+    img.Image resized = img.copyResize(oriented, width: 640); // 640px is plenty for AI
 
-    // --- 3. ROTATION & RESIZING ---
-    // Rotate 90 degrees (Portrait Mode)
-    img.Image oriented = img.copyRotate(finalImage, angle: 90);
-
-    // Resize to 640px (Good balance for AI)
-    img.Image resized = img.copyResize(
-      oriented, 
-      width: 640, 
-      interpolation: img.Interpolation.nearest
-    );
-
-    // --- 4. ENCODE TO JPEG ---
-    final jpegBytes = img.encodeJpg(resized, quality: 70);
-
-    return base64Encode(jpegBytes);
-
+    return base64Encode(img.encodeJpg(resized, quality: 70));
   } catch (e) {
-    print("Image Convert Error: $e");
+    print("Convert Error: $e");
     return null;
   }
 }

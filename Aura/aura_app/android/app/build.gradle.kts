@@ -1,3 +1,15 @@
+import java.util.Properties
+import java.io.FileInputStream
+
+val localProperties = Properties()
+val localPropertiesFile = rootProject.file("local.properties")
+if (localPropertiesFile.exists()) {
+    localProperties.load(FileInputStream(localPropertiesFile))
+}
+
+// Read the key, or default to a dummy value to prevent build errors
+val mapsApiKey = localProperties.getProperty("GOOGLE_MAPS_API_KEY") ?: "MISSING_API_KEY"
+
 plugins {
     id("com.android.application")
     id("kotlin-android")
@@ -31,6 +43,7 @@ android {
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
+        manifestPlaceholders["geoApiKey"] = mapsApiKey
     }
 
     buildTypes {
@@ -52,10 +65,10 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
     
     // ARCore Geospatial (THIS IS THE KEY ONE)
-    implementation("com.google.ar:core:1.46.0") // Check for the latest version
+    implementation("com.google.ar:core:1.41.0") // Check for the latest version
     
     // Google service location
-    implementation("com.google.android.gms:play-services-location:21.3.0")
+    implementation("com.google.android.gms:play-services-location:21.0.1")
 
     implementation("com.google.android.gms:play-services-auth:21.2.0")
     

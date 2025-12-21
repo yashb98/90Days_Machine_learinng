@@ -7,6 +7,11 @@ allprojects {
         mavenCentral()
     }
 }
+// Reads the source
+def mapsApiKey = localProperties.getProperty('GOOGLE_MAPS_API_KEY') 
+
+// Assigns to output
+manifestPlaceholders = [ geoApiKey: mapsApiKey ]
 
 val newBuildDir: Directory =
     rootProject.layout.buildDirectory
