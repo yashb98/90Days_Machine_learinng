@@ -13,6 +13,10 @@ from utils.image_ops import calculate_motion_score
 from services.location_service import LocationService, GeoPose
 from services.memory_service import MemoryService
 
+
+# Tell google cloud where the key is
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "serviceAccountKey.json"
+
 # --- INIT ---
 app = FastAPI()
 security.init_firebase()
