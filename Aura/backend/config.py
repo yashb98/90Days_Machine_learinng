@@ -64,7 +64,9 @@ GOOGLE_CLOUD_LOCATION = "europe-west2-a"
 
 # --- MODEL CONFIG ---
 # Gemini 2.0 Flash is recommended for real-time video/audio
-GEMINI_MODEL = "gemini-2.0-flash-exp"
+# GEMINI_MODEL = "gemini-2.5-flash"
+# GEMINI_MODEL = "gemini-live-2.5-flash-preview-native-audio-09-2025"
+GEMINI_MODEL = "gemini-2.0-flash-live-preview-04-09"
 
 # --- TOGGLES ---
 # Use Cloud Vision API for text reading (often faster/better)

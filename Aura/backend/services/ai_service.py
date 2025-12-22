@@ -2,25 +2,21 @@ from google import genai
 from google.genai import types
 import config
 import traceback
-
-# This Manages the VertexAI connection using the unified genai SDK
+import os
 
 
 class AIService:
     def __init__(self):
         self.client = None
         try:
-            print(
-                f"🌍 Connecting to Vertex AI ({config.GOOGLE_CLOUD_LOCATION})...")
-
-            # Initialize Client for Vertex AI
+            print(f"🌍 Connecting to Vertex AI (us-central1)...")
             self.client = genai.Client(
                 vertexai=True,
                 project=config.GOOGLE_CLOUD_PROJECT,
-                location=config.GOOGLE_CLOUD_LOCATION,
+                location='us-central1',
                 http_options=types.HttpOptions(api_version='v1beta1')
             )
-            print("✅ Vertex AI Service Initialized")
+            print(f"✅ Vertex AI Service Initialized")
         except Exception as e:
             print(f"❌ Vertex AI Init Error: {e}")
             traceback.print_exc()
@@ -30,11 +26,22 @@ class AIService:
         if not self.client:
             raise RuntimeError("Vertex AI Client is not initialized.")
 
-        # Configuration for the Live API
-        # We can add 'tools' here if we want the model to call functions
+        # 2. Configure the Live Session
         live_config = types.LiveConnectConfig(
-            # or ["TEXT"] based on your app needs
-            response_modalities=["AUDIO"]
+            # 👇 CHANGE THIS BACK TO AUDIO
+            response_modalities=["AUDIO"],
+            speech_config=types.SpeechConfig(
+                voice_config=types.VoiceConfig(
+                    prebuilt_voice_config=types.PrebuiltVoiceConfig(
+                        voice_name="Puck"  # Voices: Puck, Charon, Kore, Fenrir, Aoede
+                    )
+                )
+            ),
+            system_instruction=types.Content(
+                parts=[types.Part.from_text(
+                    text="You are Aura, an assistive AI. Keep responses short. Warn of danger immediately."
+                )]
+            )
         )
 
         return self.client.aio.live.connect(
@@ -43,16 +50,33 @@ class AIService:
         )
 
     async def send_setup_prompt(self, session, mode):
-        instruction = config.PERSONAS.get(mode, config.PERSONAS["safety"])
-        prompt = f"SYSTEM: {instruction} Confirm ready."
-        await session.send(input=prompt, end_of_turn=True)
+        """Switches the persona based on the selected mode."""
+        personas = {
+            "safety": "You are a Safety Assistant. Your ONLY job is to identify obstacles, stairs, cars, or hazards. If safe, say 'Path clear'. Keep it under 10 words.",
+            "reading": "You are a Reading Assistant. Read any text visible in the frame exactly as it appears. Do not summarize.",
+            "scenery": "You are a Describer. Describe the scene, colors, and objects in front of you in detail.",
+            "navigation": "You are a Guide. Mention key landmarks and direction."
+        }
+
+        instruction = personas.get(mode, personas["safety"])
+        print(f"🔄 Sending New Instruction: {instruction}")
+
+        # Send the instruction as text
+        await self.send_text(session, f"SYSTEM UPDATE: {instruction}")
 
     async def send_image_frame(self, session, image_bytes):
-        """Sends a video frame to the live session."""
-        await session.send(
-            input=[types.Part.from_bytes(image_bytes, "image/jpeg")],
-            end_of_turn=False
-        )
+        try:
+            # 👇 CHANGE 2: REMOVED THE SQUARE BRACKETS []
+            # The SDK expects a single Part object, not a list
+            await session.send(
+                input={"data": image_bytes, "mime_type": "image/jpeg"},
+                end_of_turn=False
+            )
+        except Exception as e:
+            print(f"Error sending frame: {e}")
 
     async def send_text(self, session, text):
-        await session.send(input=text, end_of_turn=True)
+        try:
+            await session.send(input=text, end_of_turn=True)
+        except Exception as e:
+            print(f"Error sending text: {e}")

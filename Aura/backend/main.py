@@ -30,7 +30,7 @@ memory_service = MemoryService(loc_service)
 
 
 @app.websocket("/ws")
-async def websocket_endpoint(websocket: WebSocket):
+async def websocket_endpoint(websocket: WebSocket, mode: str = "safety"):
     # 1. Auth Check
     is_valid = await security.verify_token(websocket)
     if not is_valid:
@@ -38,7 +38,7 @@ async def websocket_endpoint(websocket: WebSocket):
         return
 
     try:
-        mode = await socket_manager.connect(websocket)
+        await socket_manager.connect(websocket)
 
         # 2. Connect to Vertex AI Live Session
         async with ai_service.connect() as session:

@@ -2,6 +2,7 @@
 # If the user asks to "Read this", we route here instead of the LLM for precision
 
 from google.cloud import vision
+from google.oauth2 import service_account
 import io
 
 
