@@ -251,7 +251,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       if(mounted) setState(() => _isConnected = true);
 
       _channel!.stream.listen(
-        (message) {
+        (message) async {
           if (!_isConnected && mounted) setState(() => _isConnected = true);
 
           // ---------------------------------------------------------
@@ -293,6 +293,7 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
                        }
                    });
                }
+               await flutterTts.speak(text);
 
                // ⚠️ CRITICAL: DO NOT CALL _speak(text) HERE.
                // The audio is already playing via Case A (Binary Stream).
@@ -604,3 +605,4 @@ class _CameraScreenState extends State<CameraScreen> with TickerProviderStateMix
       ),
     );
   }
+}

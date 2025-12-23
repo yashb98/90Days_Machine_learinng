@@ -7,8 +7,7 @@ if (localPropertiesFile.exists()) {
     localProperties.load(FileInputStream(localPropertiesFile))
 }
 
-// Read the key, or default to a dummy value to prevent build errors
-val mapsApiKey = localProperties.getProperty("GOOGLE_MAPS_API_KEY") ?: "MISSING_API_KEY"
+val mapsApiKey = localProperties.getProperty("GOOGLE_MAPS_API_KEY") ?: ""
 
 plugins {
     id("com.android.application")
@@ -44,6 +43,7 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
         manifestPlaceholders["geoApiKey"] = mapsApiKey
+    
     }
 
     buildTypes {

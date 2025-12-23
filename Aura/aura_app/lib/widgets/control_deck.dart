@@ -6,7 +6,7 @@ class ControlDeck extends StatelessWidget {
   final String aiStatus;
   final bool isStreaming;
   final bool isListening;
-  final bool isArMode; // <--- NEW PARAMETER
+  final bool isArMode;
   final Animation<double> pulseAnimation;
   final VoidCallback onSwitchCamera;
   final VoidCallback onToggleStream;
@@ -18,7 +18,7 @@ class ControlDeck extends StatelessWidget {
     required this.aiStatus,
     required this.isStreaming,
     required this.isListening,
-    required this.isArMode, // <--- Add to constructor
+    this.isArMode = false, 
     required this.pulseAnimation,
     required this.onSwitchCamera,
     required this.onToggleStream,
