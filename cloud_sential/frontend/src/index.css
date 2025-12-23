@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Your custom CSS below */
+@theme {
+  --color-terminal-bg: #0f172a;
+  --color-terminal-dark: #020617;
+  --color-neon-blue: #3b82f6;
+  --color-neon-green: #10b981;
+  --color-alert-red: #ef4444;
+  --color-surface: #1e293b;
+  
+  --font-mono: "Fira Code", monospace;
+}

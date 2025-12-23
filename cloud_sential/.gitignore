@@ -1,0 +1,66 @@
+# =========================
+# Global / Environment
+# =========================
+.env
+.env.local
+.env.*.local
+*.env
+
+# =========================
+# OS & System Files
+# =========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# =========================
+# Python (Backend & MCP Server)
+# =========================
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Testing & Coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Logs
+*.log
+
+# =========================
+# Node.js / React (Frontend)
+# =========================
+# Dependencies
+node_modules/
+
+# Production Build Artifacts
+frontend/dist/
+frontend/build/
+
+# Debug Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Vector DB / Data
+# =========================
+# Ignore local vector stores if you switch away from Pinecone
+chroma_db_data/
+# However, DO NOT ignore your PDF policies unless they are confidential
+# !backend/data/acme_security.pdf
