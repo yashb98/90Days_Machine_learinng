@@ -33,7 +33,7 @@ def create_dummy_pdf():
         y -= 20
 
     c.save()
-    print(f"✅ PDF Created successfully at: {file_path}")
+    print(f"PDF Created successfully at: {file_path}")
 
 
 if __name__ == "__main__":

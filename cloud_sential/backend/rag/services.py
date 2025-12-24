@@ -89,7 +89,7 @@ class PineconeService(IVectorStore):
             })
 
         self.index.upsert(vectors=vectors)
-        print(f"✅ Upserted {len(vectors)} chunks to Pinecone.")
+        print(f"Upserted {len(vectors)} chunks to Pinecone.")
 
     def search(self, query_vector: List[float], top_k: int = 3) -> List[Document]:
         results = self.index.query(

@@ -12,7 +12,7 @@ def main():
 
     # 2. Define Query
     query = "What are the rules for Production S3 buckets?"
-    print(f"❓ Query: {query}\n")
+    print(f"Query: {query}\n")
 
     # 3. Search
     try:
@@ -30,7 +30,7 @@ def main():
             print("------------------\n")
 
     except Exception as e:
-        print(f"❌ Error during retrieval: {e}")
+        print(f"Error during retrieval: {e}")
 
 
 if __name__ == "__main__":

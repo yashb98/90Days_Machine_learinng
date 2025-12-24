@@ -5,6 +5,8 @@
 .env.local
 .env.*.local
 *.env
+.env 
+
 
 # =========================
 # OS & System Files
