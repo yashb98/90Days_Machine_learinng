@@ -1,3 +1,5 @@
+# Define what the API expects and returns.
+
 from pydantic import BaseModel
 from typing import List, Optional, Any
 

@@ -1,46 +1,62 @@
 import os
 from dotenv import load_dotenv
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from backend.rag.services import PyPDFLoaderService, GeminiEmbedderService, PineconeService
 
-# Load Env Vars
 load_dotenv()
 
 
-def main():
-    print("Starting Ingestion Pipeline...")
+def ingest_advanced():
+    # 1. Load the Big PDF
+    pdf_path = "/Users/yashbishnoi/Downloads/Dundee university/90Days_Machine_learinng/cloud_sential/backend/data/acme_security_standards_v2.pdf"
 
-    # 1. Initialize Services
-    loader = PyPDFLoaderService()
+    print(f"📄 Loading {pdf_path}...")
+
+    # Initialize your service
+    loader_service = PyPDFLoaderService()
+
+    # CRITICAL: We pass split=False to get full pages.
+    # This allows us to apply the "Sliding Window" logic below.
+    raw_docs = loader_service.load(pdf_path, split=False)
+
+    print(f"   -> Loaded {len(raw_docs)} raw pages.")
+
+    # 2. Sliding Window Splitter (The Advanced Logic)
+    print("✂️ Splitting with Sliding Window (Size=600, Overlap=200)...")
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=600,       # Capture full rules/paragraphs
+        chunk_overlap=200,     # Overlap ensures no context is lost at cut points
+        separators=["\n\n", "\n", " ", ""]
+    )
+
+    chunks = text_splitter.split_documents(raw_docs)
+    print(f"   -> Created {len(chunks)} granular vector chunks.")
+
+    # 3. Embed & Upsert
+    print("Embedding & Indexing...")
     embedder = GeminiEmbedderService()
-    # Use a unique index name
     vector_db = PineconeService(index_name="cloud-sentinel-gemini")
 
-    # 2. Load Data
-    pdf_path = "backend/data/acme_security_standards_v2.pdf"
-    if not os.path.exists(pdf_path):
-        print(
-            f"Error: File not found at {pdf_path}. Run generate_pdf.py first.")
-        return
+    # Batch upsert
+    batch_size = 50
+    for i in range(0, len(chunks), batch_size):
+        batch = chunks[i:i+batch_size]
+        texts = [doc.page_content for doc in batch]
+        metadatas = [{"source": "acme_v3",
+                      "page": doc.metadata.get("page", 0)} for doc in batch]
 
-    print(f"Loading {pdf_path}...")
-    documents = loader.load(pdf_path)
-    print(f"   -> Split into {len(documents)} chunks.")
+        vectors = embedder.embed_documents(texts)
 
-    # 3. Embed Data
-    print("Generating Embeddings via Gemini...")
-    try:
-        texts = [doc.content for doc in documents]
-        embeddings = embedder.embed_documents(texts)
-    except Exception as e:
-        print(f" Error during embedding: {e}")
-        return
+        to_upsert = [
+            (f"chunk_{i+j}", vec, meta)
+            for j, (vec, meta) in enumerate(zip(vectors, metadatas))
+        ]
 
-    # 4. Store Data
-    print("Storing in Pinecone...")
-    vector_db.upsert(documents, embeddings)
+        vector_db.index.upsert(vectors=to_upsert)
+        print(f"   -> Upserted batch {i}-{i+len(batch)}")
 
-    print("✨ Pipeline Complete!")
+    print("Ingestion Complete!")
 
 
 if __name__ == "__main__":
-    main()
+    ingest_advanced()

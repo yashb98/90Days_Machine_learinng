@@ -1,6 +1,7 @@
 import os
 import time
 from typing import List
+import requests
 from .interfaces import IDocumentLoader, IEmbedder, IVectorStore, Document
 
 # Libraries
@@ -8,21 +9,26 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pinecone import Pinecone, ServerlessSpec
 import google.generativeai as genai
+from langchain_core.embeddings import Embeddings
 
-# 1. PDF Loader
 
-
-class PyPDFLoaderService(IDocumentLoader):
-    def load(self, source: str) -> List[Document]:
+class PyPDFLoaderService:
+    # Add 'split' parameter, defaulting to True (Preserves your existing behavior)
+    def load(self, source: str, split: bool = True) -> List[Document]:
         loader = PyPDFLoader(source)
         raw_docs = loader.load()
 
-        # Split text into chunks (500 chars is good for policy rules)
+        if not split:
+            # Return raw pages so the advanced script can handle the windowing
+            return raw_docs
+
+        # Your existing default logic (500 chars)
         splitter = RecursiveCharacterTextSplitter(
-            chunk_size=500, chunk_overlap=50)
+            chunk_size=500, chunk_overlap=50
+        )
         chunks = splitter.split_documents(raw_docs)
 
-        return [Document(c.page_content, c.metadata) for c in chunks]
+        return [Document(page_content=c.page_content, metadata=c.metadata) for c in chunks]
 
 # 2. Gemini Embedder
 
@@ -60,9 +66,9 @@ class GeminiEmbedderService(IEmbedder):
 
 
 class PineconeService(IVectorStore):
-    def __init__(self, index_name: str):
+    def __init__(self, index_name="cloud-sentinel-mistral"):  # New Index Name
         self.pc = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
-        self.index_name = index_name
+        self.index = self.pc.Index(index_name)
 
         # Check if index exists, create if not
         # Dimension 768 is specific to Gemini text-embedding-004
@@ -101,3 +107,36 @@ class PineconeService(IVectorStore):
             Document(match['metadata']['text'], match['metadata'])
             for match in results['matches']
         ]
+
+
+class E5MistralService(Embeddings):
+    def __init__(self):
+        # OPTION A: Hugging Face API (Recommended for Laptops)
+        self.api_url = "https://api-inference.huggingface.co/models/intfloat/e5-mistral-7b-instruct"
+        self.headers = {"Authorization": f"Bearer {os.getenv('HF_API_TOKEN')}"}
+
+    def embed_query(self, text: str) -> list[float]:
+        """
+        Embeds a query. Crucial: E5-Mistral needs an INSTRUCTION for queries.
+        """
+        # We explicitly add the instruction prompt as per documentation
+        prompt = f"Instruct: Retrieve relevant security policy sections for this query\nQuery: {text}"
+        return self._call_api(prompt)
+
+    def embed_documents(self, documents: list[str]) -> list[list[float]]:
+        """
+        Embeds documents. Per docs, NO instruction needed for documents.
+        """
+        return [self._call_api(doc) for doc in documents]
+
+    def _call_api(self, text: str) -> list[float]:
+        try:
+            response = requests.post(
+                self.api_url,
+                headers=self.headers,
+                json={"inputs": text, "options": {"wait_for_model": True}}
+            )
+            return response.json()
+        except Exception as e:
+            print(f"HF API Error: {e}")
+            return []
