@@ -1,11 +1,15 @@
 import { useEffect, useRef } from 'react';
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"; // Router imports
+import { SignedIn, SignedOut } from "@clerk/clerk-react"; // Auth guards
 import { Bot, Cpu } from 'lucide-react';
 import { Sidebar } from './components/layout/Sidebar';
 import { MessageBubble } from './components/chat/MessageBubble';
 import { ChatInput } from './components/chat/ChatInput';
-import { useChat } from '../hooks/useChat'; 
+import { LoginPage } from './components/LoginPage'; // Import your new page
+import { useChat } from '../hooks/useChat';
 
-function App() {
+// 1. Create a specific component for the Protected Layout
+function ProtectedDashboard() {
   const { messages, isLoading, sendMessage } = useChat();
   const bottomRef = useRef<HTMLDivElement>(null);
 
@@ -18,10 +22,8 @@ function App() {
       <Sidebar />
       
       <main className="flex-1 flex flex-col h-screen bg-terminal-bg font-mono relative">
-        {/* Background Grid Effect */}
         <div className="absolute inset-0 bg-[linear-gradient(rgba(18,22,33,0)_1px,transparent_1px),linear-gradient(90deg,rgba(18,22,33,0)_1px,transparent_1px)] bg-[size:40px_40px] opacity-20 pointer-events-none"></div>
 
-        {/* Messages List */}
         <div className="flex-1 overflow-y-auto p-4 md:p-8 space-y-8 z-10 scroll-smooth">
           {messages.length === 0 && (
             <div className="h-full flex flex-col items-center justify-center text-gray-600 opacity-50">
@@ -47,10 +49,44 @@ function App() {
           <div ref={bottomRef} />
         </div>
 
-        {/* Input Area */}
         <ChatInput onSend={sendMessage} isLoading={isLoading} />
       </main>
     </div>
+  );
+}
+
+// 2. Main App Component with Routing
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        {/* Public Route: Login Page */}
+        <Route path="/sign-in" element={
+          <>
+            <SignedIn>
+               {/* If already logged in, go to dashboard */}
+              <Navigate to="/" replace />
+            </SignedIn>
+            <SignedOut>
+              <LoginPage />
+            </SignedOut>
+          </>
+        } />
+
+        {/* Protected Route: Dashboard */}
+        <Route path="/" element={
+          <>
+            <SignedIn>
+              <ProtectedDashboard />
+            </SignedIn>
+            <SignedOut>
+               {/* If not logged in, go to sign-in */}
+              <Navigate to="/sign-in" replace />
+            </SignedOut>
+          </>
+        } />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
