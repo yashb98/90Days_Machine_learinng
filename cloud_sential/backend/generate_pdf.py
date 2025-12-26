@@ -51,9 +51,19 @@ def create_big_pdf():
     ]
 
     # Setup PDF
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(base_dir, "backend", "data",
-                             "acme_global_security_policy_v3.pdf")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Check if we are accidentally inside 'backend'. If so, go up one level.
+    if os.path.basename(current_dir) == "backend":
+        project_root = os.path.dirname(current_dir)
+    else:
+        project_root = current_dir
+
+    # Create the correct path
+    output_dir = os.path.join(project_root, "backend", "data")
+    os.makedirs(output_dir, exist_ok=True)  # Ensure folder exists
+
+    file_path = os.path.join(output_dir, "acme_global_security_policy_v3.pdf")
     doc = SimpleDocTemplate(file_path, pagesize=A4)
     styles = getSampleStyleSheet()
     story = []

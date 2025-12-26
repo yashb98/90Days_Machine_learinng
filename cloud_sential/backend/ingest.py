@@ -8,9 +8,9 @@ load_dotenv()
 
 def ingest_advanced():
     # 1. Load the Big PDF
-    pdf_path = "/Users/yashbishnoi/Downloads/Dundee university/90Days_Machine_learinng/cloud_sential/backend/data/acme_security_standards_v2.pdf"
+    pdf_path = "/Users/yashbishnoi/Downloads/Dundee university/90Days_Machine_learinng/cloud_sential/backend/data/acme_global_security_policy_v3.pdf"
 
-    print(f"📄 Loading {pdf_path}...")
+    print(f"Loading {pdf_path}...")
 
     # Initialize your service
     loader_service = PyPDFLoaderService()
@@ -43,7 +43,11 @@ def ingest_advanced():
         batch = chunks[i:i+batch_size]
         texts = [doc.page_content for doc in batch]
         metadatas = [{"source": "acme_v3",
-                      "page": doc.metadata.get("page", 0)} for doc in batch]
+                      "page": doc.metadata.get("page", 0),
+                      "text": doc.page_content
+
+                      }
+                     for doc in batch]
 
         vectors = embedder.embed_documents(texts)
 
