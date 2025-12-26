@@ -2,12 +2,27 @@ import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
+import { VitePWA } from 'vite-plugin-pwa'
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
-    react(),          // REQUIRED: Handles React/JSX/TSX files
-    tailwindcss(),    // Your new Tailwind v4 plugin
+    react(),
+    tailwindcss(),
+    VitePWA({ 
+      registerType: 'autoUpdate',
+      manifest: {
+        name: 'CloudSentinel',
+        short_name: 'Sentinel',
+        theme_color: '#0f172a',
+        icons: [
+            {
+                src: 'pwa-192x192.png', // You need to add these icons to /public
+                sizes: '192x192',
+                type: 'image/png'
+            }
+        ]
+      }
+    })
   ],
   resolve: {
     alias: {
