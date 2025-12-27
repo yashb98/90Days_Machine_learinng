@@ -24,17 +24,19 @@ def search_security_policy(query: str) -> str:
     print(f"\n🔍 DEBUG: Searching Policy for: '{query}'")
 
     try:
-        # 1. Embed Query
         embedder = GeminiEmbedderService()
         query_vector = embedder.embed_query(query)
-
-        # 2. Search Pinecone
         vector_db = PineconeService()
+
+        # Check if index even has vectors (Handling "Fresh Boot" error)
+        stats = vector_db.index.describe_index_stats()
+        if stats['total_vector_count'] == 0:
+            return "SYSTEM_ALERT: The Knowledge Base is empty. Please upload a policy PDF first."
+
         results = vector_db.search(query_vector, top_k=3)
 
         if not results:
-            print("   ⚠️ Zero results found.")
-            return "No policy found."
+            return "No specific policy details found for this query."
 
         # 3. Format Results (Robust Fix)
         formatted_results = []
