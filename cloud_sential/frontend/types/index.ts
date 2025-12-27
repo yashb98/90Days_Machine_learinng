@@ -8,12 +8,12 @@ export interface Message {
   role: 'user' | 'assistant' | 'system';
   content: string;
   logs?: ToolLog[];
-  timestamp: string;
+  timestamp: Date | string;
 }
 
 export interface Policy {
   id: string;
   name: string;
   status: 'active' | 'inactive';
-  lastUpdated: string;
+  lastUpdated: Date | string;
 }

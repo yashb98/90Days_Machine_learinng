@@ -2,7 +2,7 @@ import os
 import shutil
 from fastapi import FastAPI, UploadFile, File, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from typing import List
+from typing import List, Optional
 from pydantic import BaseModel
 
 # --- 1. RATE LIMITER IMPORTS ---
@@ -43,8 +43,17 @@ class Policy(BaseModel):
     lastUpdated: str
 
 
+class Message(BaseModel):
+    role: str
+    content: str
+
+    class Config:
+        extra = "ignore"
+
+
 class ChatRequest(BaseModel):
     message: str
+    history: List[Message] = []
 
 # --- ENDPOINTS ---
 
@@ -88,7 +97,8 @@ async def chat(request: Request, body: ChatRequest):
     # Note: We added 'request: Request' because slowapi needs it to check the IP
 
     agent = SecurityAgent()
-    response_data = await agent.chat(body.message)
+    # We need to tell the agent about the history
+    response_data = await agent.chat(body.message, body.history)
     return {"response": response_data}
 
 if __name__ == "__main__":

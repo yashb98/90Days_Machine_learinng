@@ -2,7 +2,7 @@ import os
 import traceback
 from dotenv import load_dotenv
 from langchain_core.tools import tool
-from langchain_core.messages import SystemMessage, HumanMessage, ToolMessage
+from langchain_core.messages import SystemMessage, HumanMessage,  ToolMessage, AIMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # MCP Client imports
@@ -61,8 +61,6 @@ def search_security_policy(query: str) -> str:
 
 
 # --- 2. The Agent Class ---
-
-
 class SecurityAgent:
     def __init__(self):
         # Use Gemini Flash (Reliable & Fast)
@@ -72,14 +70,28 @@ class SecurityAgent:
             google_api_key=os.getenv("GOOGLE_API_KEY")
         )
 
-    async def chat(self, user_query: str):
+    # 1. Update signature to accept 'history'
+    async def chat(self, user_query: str, history: list = []):
+
+        # 2. Start with the System Prompt
         messages = [
             SystemMessage(content="""You are CloudSentinel. 
 1. Always search the policy FIRST using 'search_security_policy'.
 2. Then use MCP tools to audit the actual AWS resources.
-3. Compare the actual state vs the policy rules. Report VIOLATIONS strictly."""),
-            HumanMessage(content=user_query)
+3. Compare the actual state vs the policy rules. Report VIOLATIONS strictly.""")
         ]
+
+        # 3. CONVERT & APPEND HISTORY
+        # We loop through the history provided by the frontend and convert it
+        # into the format LangChain understands.
+        for msg in history:
+            if msg.role == "user":
+                messages.append(HumanMessage(content=msg.content))
+            elif msg.role == "assistant" or msg.role == "model":
+                messages.append(AIMessage(content=msg.content))
+
+        # 4. Add the NEW User Query at the end
+        messages.append(HumanMessage(content=user_query))
 
         tool_logs = []
 
@@ -109,11 +121,12 @@ class SecurityAgent:
                                        list_s3_buckets, audit_bucket_security]
                     llm_with_tools = self.llm.bind_tools(langchain_tools)
 
-                    # 1. First Thought (AI decides which tool to use)
+                    # 5. First Thought (AI decides which tool to use)
+                    # We pass the full 'messages' list (System + History + Current Query)
                     ai_msg = await llm_with_tools.ainvoke(messages)
                     messages.append(ai_msg)
 
-                    # 2. Execute Tools (if any)
+                    # 6. Execute Tools (if any)
                     if ai_msg.tool_calls:
                         for tc in ai_msg.tool_calls:
                             # Log for Frontend
@@ -136,10 +149,9 @@ class SecurityAgent:
                             messages.append(ToolMessage(
                                 tool_call_id=tc["id"], content=str(res)))
 
-                        # 3. Final Answer (after seeing tool results)
+                        # 7. Final Answer (after seeing tool results)
                         final = await llm_with_tools.ainvoke(messages)
 
-                        # 👇 RETURN DICT (matches Frontend expectation)
                         return {
                             "response": final.content,
                             "logs": tool_logs

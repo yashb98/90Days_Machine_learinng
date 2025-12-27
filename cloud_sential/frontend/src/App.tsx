@@ -15,8 +15,8 @@ import { MessageBubble } from './components/chat/MessageBubble';
 import { ChatInput } from './components/chat/ChatInput';
 import { LoginPage } from './components/LoginPage'; 
 
-// --- 1. IMPORT THE TYPE (Don't redefine it locally) ---
-import type { Message } from '../types'; // Adjust path if needed, e.g. './types'
+// Types
+import type { Message } from '../types'; 
 
 function ProtectedDashboard() {
   const { user } = useUser();
@@ -24,8 +24,10 @@ function ProtectedDashboard() {
   
   // State
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-  const [activeChatId, setActiveChatId] = useState<string | null>(null);
-  const [messages, setMessages] = useState<Message[]>([]); // Uses the imported type
+  const [activeChatId, setActiveChatId] = useState<string | null>(() => {
+    return localStorage.getItem("lastActiveChat") || null;
+  });
+  const [messages, setMessages] = useState<Message[]>([]); 
   const [isProcessing, setIsProcessing] = useState(false);
 
   // Auto-scroll
@@ -47,19 +49,19 @@ function ProtectedDashboard() {
       const fetchedMessages = snapshot.docs.map((doc) => {
         const data = doc.data();
         
-        // --- 2. VALIDATE THE ROLE ---
-        // Ensure the DB role matches one of the allowed string types
+        // Validate Role
         const role = (data.role === "user" || data.role === "assistant" || data.role === "system") 
           ? data.role 
-          : "assistant"; // Fallback if DB has bad data
+          : "assistant";
 
         return {
           id: doc.id,
           content: data.text || "", 
           role: role, 
+          logs: data.logs || [], // <--- CRITICAL UPDATE: Load logs from DB
           timestamp: data.createdAt?.toDate() || new Date(), 
         };
-      }) as Message[]; // Now this cast is safe
+      }) as Message[];
       
       setMessages(fetchedMessages);
     });
@@ -74,13 +76,26 @@ function ProtectedDashboard() {
     try {
       setIsProcessing(true);
 
+      // 1. Save User Message
       const chatId = await sendMessageToFirestore(user.id, activeChatId, text, "user");
       
-      if (!activeChatId) setActiveChatId(chatId);
+      if (!activeChatId) {
+        setActiveChatId(chatId);
+        localStorage.setItem("lastActiveChat", chatId);
+      }
 
-      const aiResponse = await getAIResponse(text);
+      // 2. GET AI RESPONSE
+      // Returns object: { response: string, logs: any[] }
+      const aiResult = await getAIResponse(text, messages); 
 
-      await sendMessageToFirestore(user.id, chatId, aiResponse, "assistant");
+      // 3. Save AI Message WITH LOGS
+      await sendMessageToFirestore(
+        user.id, 
+        chatId, 
+        aiResult.response, // The text answer
+        "assistant",
+        aiResult.logs  || []    // The tool logs
+      );
 
     } catch (error) {
       console.error("Failed to send", error);
@@ -98,10 +113,12 @@ function ProtectedDashboard() {
         activeChatId={activeChatId}
         onSelectChat={(id) => {
           setActiveChatId(id);
+          localStorage.setItem("lastActiveChat", id);
           setIsSidebarOpen(false);
         }}
         onNewChat={() => {
           setActiveChatId(null);
+          localStorage.removeItem("lastActiveChat");
           setIsSidebarOpen(false);
         }}
       />
@@ -131,7 +148,7 @@ function ProtectedDashboard() {
                 <Loader2 className="w-6 h-6 text-neon-blue animate-spin" />
               </div>
               <div className="flex items-center gap-2 text-neon-blue text-sm animate-pulse pt-2">
-                Processing Data Stream...
+                Running Security Audit...
               </div>
             </div>
           )}
@@ -150,23 +167,15 @@ function App() {
       <Routes>
         <Route path="/sign-in" element={
           <>
-            <SignedIn>
-              <Navigate to="/" replace />
-            </SignedIn>
-            <SignedOut>
-              <LoginPage />
-            </SignedOut>
+            <SignedIn><Navigate to="/" replace /></SignedIn>
+            <SignedOut><LoginPage /></SignedOut>
           </>
         } />
 
         <Route path="/" element={
           <>
-            <SignedIn>
-              <ProtectedDashboard />
-            </SignedIn>
-            <SignedOut>
-              <Navigate to="/sign-in" replace />
-            </SignedOut>
+            <SignedIn><ProtectedDashboard /></SignedIn>
+            <SignedOut><Navigate to="/sign-in" replace /></SignedOut>
           </>
         } />
       </Routes>
