@@ -1,6 +1,6 @@
-import { Bot, User } from 'lucide-react';
+import { Bot, User, AlertTriangle } from 'lucide-react';
 import { motion } from 'framer-motion';
-import type { Message } from '../../../types';
+import type { Message } from '../../../types'; // Ensure you use 'import type'
 import { ToolLog } from '../common/ToolLog';
 
 interface MessageBubbleProps {
@@ -9,6 +9,22 @@ interface MessageBubbleProps {
 
 export function MessageBubble({ message }: MessageBubbleProps) {
   const isUser = message.role === 'user';
+  
+  // --- 🛡️ DEFENSIVE CODING START ---
+  // If 'content' is accidentally an object (the error you are seeing),
+  // we extract the string text from it safely.
+  let safeContent = "";
+  let safeLogs = message.logs;
+
+  if (typeof message.content === 'object' && message.content !== null) {
+    // @ts-ignore - We know it might be the backend response object
+    safeContent = message.content.response || JSON.stringify(message.content);
+    // @ts-ignore
+    if (!safeLogs) safeLogs = message.content.logs;
+  } else {
+    safeContent = String(message.content);
+  }
+  // --- 🛡️ DEFENSIVE CODING END ---
 
   return (
     <motion.div 
@@ -24,17 +40,21 @@ export function MessageBubble({ message }: MessageBubbleProps) {
       )}
 
       <div className={`space-y-3 ${isUser ? 'max-w-2xl' : 'w-full'}`}>
-        {/* Text Content */}
+        
+        {/* Text Content Bubble */}
         <div className={`p-5 rounded-lg border ${
           isUser 
             ? 'bg-neon-blue/10 border-neon-blue/50 text-blue-100 rounded-tr-none' 
             : 'bg-surface border-surface text-gray-200 rounded-tl-none shadow-lg'
         }`}>
-          <p className="leading-relaxed whitespace-pre-wrap text-sm">{message.content}</p>
+          <p className="leading-relaxed whitespace-pre-wrap text-sm">
+            {/* We render the SAFE string here */}
+            {safeContent}
+          </p>
         </div>
 
         {/* Render Tool Logs if they exist */}
-        {message.logs && <ToolLog logs={message.logs} />}
+        {safeLogs && safeLogs.length > 0 && <ToolLog logs={safeLogs} />}
       </div>
 
       {/* User Avatar */}

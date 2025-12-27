@@ -1,13 +1,10 @@
-import { Shield, FileText, Server, X } from 'lucide-react';
+import { useRef, useState } from 'react';
+import { Shield, FileText, Server, X, Loader2, Upload, Plus } from 'lucide-react';
 import { useUser, UserButton } from "@clerk/clerk-react";
-import type { Policy } from '../../../types';
+import { useMutation, useQueryClient } from '@tanstack/react-query'; // Import React Query tools
+import axios from 'axios';
 import { StatusBadge } from '../common/StatusBadge';
-
-const MOCK_POLICIES: Policy[] = [
-  { id: '1', name: 'ACME Storage Policy v3', status: 'active', lastUpdated: '10 min ago' },
-  { id: '2', name: 'IAM Access Control', status: 'active', lastUpdated: '2 hrs ago' },
-  { id: '3', name: 'EC2 Network Boundaries', status: 'inactive', lastUpdated: '1 day ago' },
-];
+import { usePolicies } from '../../../hooks/usePolicies';
 
 interface SidebarProps {
   isOpen: boolean;
@@ -16,92 +13,108 @@ interface SidebarProps {
 
 export function Sidebar({ isOpen, onClose }: SidebarProps) {
   const { user } = useUser();
+  const { data: policies, isLoading: loadingPolicies } = usePolicies();
+  const queryClient = useQueryClient();
+  const fileInputRef = useRef<HTMLInputElement>(null);
+
+  // --- UPLOAD LOGIC ---
+  const uploadMutation = useMutation({
+    mutationFn: async (file: File) => {
+      const formData = new FormData();
+      formData.append('file', file);
+      return axios.post('/api/ingest', formData, {
+        headers: { 'Content-Type': 'multipart/form-data' }
+      });
+    },
+    onSuccess: () => {
+      // Refresh the policy list automatically after upload!
+      queryClient.invalidateQueries({ queryKey: ['policies'] });
+    },
+  });
+
+  const handleFileSelect = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.files && e.target.files[0]) {
+      uploadMutation.mutate(e.target.files[0]);
+    }
+  };
+  // --------------------
 
   return (
     <>
-      {/* 1. Overlay (Darkens the background on mobile when menu is open) */}
-      <div 
-        className={`fixed inset-0 bg-black/80 z-40 transition-opacity duration-300 md:hidden ${
-          isOpen ? "opacity-100" : "opacity-0 pointer-events-none"
-        }`}
-        onClick={onClose}
-      />
+      <div className={`fixed inset-0 bg-black/80 z-40 md:hidden ${isOpen ? "block" : "hidden"}`} onClick={onClose} />
 
-      {/* 2. The Sidebar Panel */}
       <div className={`
-        fixed md:static inset-y-0 left-0 z-50
-        w-72 bg-terminal-dark border-r border-surface 
-        p-5 flex flex-col font-mono text-sm
-        transition-transform duration-300 ease-in-out
+        fixed md:static inset-y-0 left-0 z-50 w-72 bg-terminal-dark border-r border-surface 
+        p-5 flex flex-col font-mono text-sm transition-transform duration-300
         ${isOpen ? "translate-x-0" : "-translate-x-full md:translate-x-0"}
       `}>
-        {/* Header & Close Button */}
-        <div className="flex items-center justify-between mb-10 text-neon-blue">
-          <div className="flex items-center gap-3">
-            <Shield className="w-8 h-8" />
-            <div>
-              <h1 className="text-lg font-bold tracking-wider text-white">CLOUD_SENTINEL</h1>
-              <div className="text-[10px] text-neon-blue/60 uppercase">System v1.0.4</div>
-            </div>
+        {/* Header */}
+        <div className="flex items-center gap-3 mb-8 text-neon-blue">
+          <Shield className="w-8 h-8" />
+          <div>
+            <h1 className="text-lg font-bold text-white">CLOUD_SENTINEL</h1>
+            <div className="text-[10px] text-neon-blue/60 uppercase">System v1.0.5</div>
           </div>
-          {/* Close Button (Mobile Only) */}
-          <button onClick={onClose} className="md:hidden text-gray-400 hover:text-white">
-            <X className="w-6 h-6" />
-          </button>
         </div>
 
-        {/* User Profile (The "Burger Menu" content) */}
+        {/* User Profile */}
         <div className="mb-6 p-3 bg-surface/30 rounded-lg border border-surface flex items-center gap-3">
-          <UserButton 
-            afterSignOutUrl="/sign-in"
-            appearance={{
-              elements: {
-                userButtonAvatarBox: "w-8 h-8 border border-neon-blue/50",
-                userButtonPopoverCard: "bg-terminal-dark border border-gray-700 shadow-xl",
-                userButtonPopoverFooter: "hidden" // Hides the "Secured by Clerk" footer for cleaner look
-              }
-            }}
-          />
+          <UserButton afterSignOutUrl="/sign-in" />
           <div className="flex flex-col overflow-hidden">
-            <span className="text-white text-xs font-bold truncate">
-              {user?.fullName || user?.username || "Operative"}
-            </span>
-            <span className="text-gray-500 text-[10px] truncate">
-              {user?.primaryEmailAddress?.emailAddress}
-            </span>
+            <span className="text-white text-xs font-bold truncate">{user?.fullName || "Operative"}</span>
           </div>
         </div>
 
-        {/* Active Policies */}
-        <div className="flex-1">
-          <h2 className="text-xs font-bold text-gray-500 uppercase tracking-widest mb-4 flex items-center gap-2">
-            <FileText className="w-3 h-3" /> Knowledge Base
-          </h2>
+        {/* --- KNOWLEDGE BASE SECTION --- */}
+        <div className="flex-1 overflow-y-auto">
+          <div className="flex items-center justify-between mb-4">
+             <h2 className="text-xs font-bold text-gray-500 uppercase tracking-widest flex items-center gap-2">
+              <FileText className="w-3 h-3" /> Knowledge Base
+            </h2>
+            
+            {/* HIDDEN INPUT + TRIGGER BUTTON */}
+            <input 
+              type="file" 
+              ref={fileInputRef} 
+              className="hidden" 
+              accept="application/pdf" 
+              onChange={handleFileSelect} 
+            />
+            <button 
+              onClick={() => fileInputRef.current?.click()}
+              disabled={uploadMutation.isPending}
+              className="p-1.5 bg-neon-blue/10 hover:bg-neon-blue/20 text-neon-blue rounded transition-colors disabled:opacity-50"
+              title="Upload New Policy"
+            >
+              {uploadMutation.isPending ? <Loader2 className="w-4 h-4 animate-spin"/> : <Plus className="w-4 h-4" />}
+            </button>
+          </div>
+
           <div className="space-y-2">
-            {MOCK_POLICIES.map(policy => (
-              <div key={policy.id} className="group p-3 rounded bg-surface/50 border border-transparent hover:border-neon-blue/50 hover:bg-surface transition-all cursor-default">
-                <div className="flex items-center justify-between mb-1">
-                  <span className="text-gray-300 font-medium group-hover:text-neon-blue transition-colors">
-                    {policy.name}
-                  </span>
+            {loadingPolicies ? (
+              <div className="text-center py-4"><Loader2 className="w-5 h-5 animate-spin mx-auto text-gray-600"/></div>
+            ) : (
+              policies?.map(policy => (
+                <div key={policy.id} className="group p-3 rounded bg-surface/50 border border-transparent hover:border-neon-blue/50 hover:bg-surface transition-all cursor-default">
+                  <div className="flex items-center justify-between mb-1">
+                    <span className="text-gray-300 font-medium truncate w-48" title={policy.name}>
+                      {policy.name}
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <div className="w-1.5 h-1.5 rounded-full bg-neon-green shadow-[0_0_8px_rgba(16,185,129,0.6)]" />
+                    <span className="text-[10px] text-gray-500 uppercase">{policy.status}</span>
+                  </div>
                 </div>
-                <div className="flex items-center gap-2">
-                  <div className={`w-1.5 h-1.5 rounded-full ${policy.status === 'active' ? 'bg-neon-green shadow-[0_0_8px_rgba(16,185,129,0.6)]' : 'bg-gray-600'}`} />
-                  <span className="text-[10px] text-gray-500 uppercase">{policy.status}</span>
-                </div>
-              </div>
-            ))}
+              ))
+            )}
           </div>
         </div>
 
-        {/* Footer Status */}
-        <div className="pt-6 border-t border-surface">
+        {/* Footer */}
+        <div className="pt-6 border-t border-surface mt-auto">
           <div className="flex items-center justify-between">
             <StatusBadge status="online" label="System Online" />
-            <div className="flex items-center gap-2 text-gray-500 text-xs">
-              <Server className="w-3 h-3" />
-              <span>eu-west-2</span>
-            </div>
           </div>
         </div>
       </div>
