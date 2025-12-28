@@ -93,8 +93,9 @@ export const getAIResponse = async (currentMessage: string, history: ChatMessage
       history: cleanHistory
     }, null, 2));
 
-    // 2. CALL BACKEND
-    const response = await fetch('http://127.0.0.1:8000/chat', { 
+    // 2. CALL BACKEND - Use environment variable or fallback to localhost
+    const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+    const response = await fetch(`${apiUrl}/chat`, { 
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -122,7 +123,7 @@ export const getAIResponse = async (currentMessage: string, history: ChatMessage
     console.error("API Request Failed:", error);
     // Return a safe fallback object on error
     return {
-      response: "Target system unresponsive. Ensure Backend is running on Port 8000.",
+      response: "Target system unresponsive. Ensure Backend is running.",
       logs: [] 
     };
   }

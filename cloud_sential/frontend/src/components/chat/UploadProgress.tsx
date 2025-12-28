@@ -36,8 +36,6 @@ export function UploadProgress({ isUploading, filename }: UploadProgressProps) {
 
   if (!isUploading) return null;
 
-  const StepIcon = STEPS[currentStep].icon;
-
   return (
     <AnimatePresence>
       <motion.div

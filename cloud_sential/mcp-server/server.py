@@ -1,10 +1,19 @@
 from fastmcp import FastMCP
 from tools.aws_audit import list_all_buckets, verify_s3_compliance
+from fastapi import FastAPI
 
 # 1. Initialize FastMCP (It handles FastAPI + SSE automatically)
 mcp = FastMCP("CloudSentinel")
 
-# 2. Register Tools using the decorator
+# 2. Add health endpoint
+
+
+@mcp.tool()
+def health_check() -> str:
+    """Health check endpoint for container orchestration"""
+    return "healthy"
+
+# 3. Register Tools using the decorator
 
 
 @mcp.tool()

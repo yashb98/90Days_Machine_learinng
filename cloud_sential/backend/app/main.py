@@ -25,9 +25,11 @@ app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 # --- CORS MIDDLEWARE ---
+cors_origins = os.getenv(
+    "CORS_ORIGINS", "http://localhost:5173,http://localhost:3000,http://frontend:80").split(",")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -56,6 +58,12 @@ class ChatRequest(BaseModel):
     history: List[Message] = []
 
 # --- ENDPOINTS ---
+
+
+@app.get("/health")
+async def health_check():
+    """Health check endpoint for container orchestration"""
+    return {"status": "healthy", "service": "cloud-sential-backend"}
 
 
 @app.get("/policies", response_model=List[Policy])

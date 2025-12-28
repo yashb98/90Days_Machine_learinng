@@ -96,10 +96,12 @@ class SecurityAgent:
         tool_logs = []
 
         try:
-            print("🔌 Connecting to MCP Server at http://127.0.0.1:8001/sse ...")
+            mcp_server_url = os.getenv(
+                "MCP_SERVER_URL", "http://mcp-server:8001/sse")
+            print(f"🔌 Connecting to MCP Server at {mcp_server_url} ...")
 
             # Connect to the MCP Server
-            async with sse_client("http://127.0.0.1:8001/sse") as (read_stream, write_stream):
+            async with sse_client(mcp_server_url) as (read_stream, write_stream):
                 async with ClientSession(read_stream, write_stream) as session:
                     await session.initialize()
 

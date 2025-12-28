@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect } from 'react';
-import { Shield, FileText, Server, X, Loader2, Upload, Plus, MessageSquare, Trash2 } from 'lucide-react';
+import { Shield, FileText, Loader2, Plus, MessageSquare, Trash2 } from 'lucide-react';
 import { useUser, UserButton } from "@clerk/clerk-react";
 import { useMutation, useQueryClient } from '@tanstack/react-query';
 import axios from 'axios';

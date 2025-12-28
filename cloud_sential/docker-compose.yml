@@ -1,0 +1,116 @@
+services:
+  # Backend Service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cloud_sential_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONPATH=/app
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - PINECONE_INDEX=${PINECONE_INDEX}
+      - CORS_ORIGINS=http://localhost:3000,http://frontend:80
+    volumes:
+      - ./temp_uploads:/app/temp_uploads
+      - ./backend/data:/app/data
+      - backend_logs:/app/logs
+    networks:
+      - cloud_sential_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # MCP Server Service
+  mcp-server:
+    build:
+      context: ./mcp-server
+      dockerfile: Dockerfile
+    container_name: cloud_sential_mcp_server
+    restart: unless-stopped
+    ports:
+      - "8001:8001"
+    environment:
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_REGION=${AWS_REGION:-us-east-1}
+    volumes:
+      - mcp_logs:/app/logs
+    networks:
+      - cloud_sential_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    depends_on:
+      backend:
+        condition: service_healthy
+
+  # Frontend Service
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: cloud_sential_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_MCP_URL=http://localhost:8001
+    networks:
+      - cloud_sential_network
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:80/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    depends_on:
+      backend:
+        condition: service_healthy
+      mcp-server:
+        condition: service_healthy
+
+  # Redis Service (for caching)
+  redis:
+    image: redis:7-alpine
+    container_name: cloud_sential_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    networks:
+      - cloud_sential_network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+# Named volumes for persistent data
+volumes:
+  redis_data:
+    driver: local
+  backend_logs:
+    driver: local
+  mcp_logs:
+    driver: local
+
+# Custom network
+networks:
+  cloud_sential_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

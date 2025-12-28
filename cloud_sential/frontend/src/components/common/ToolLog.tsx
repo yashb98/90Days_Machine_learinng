@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Terminal, ChevronDown, CheckCircle, Server, ShieldAlert } from 'lucide-react';
+import { Terminal, ChevronDown, CheckCircle, Server } from 'lucide-react';
 
 interface ToolCall {
   tool: string;
