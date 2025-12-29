@@ -15,24 +15,162 @@ Cloud Sentinel is a comprehensive, AI-powered cloud security platform that provi
 - **Real-time Security Analysis**: Instant assessment of cloud security posture
 - **Automated Threat Detection**: AI-driven identification of security vulnerabilities
 - **Compliance Monitoring**: Continuous compliance checking against security standards
+- **Tool Execution Logging**: Real-time display of AI tool executions and results
+- **Rate Limiting**: 5 messages per minute to prevent API abuse
+- **Conversation History**: Persistent chat history with conversation threading
 
 ### 📋 Policy Management System
-- **Document Upload & Processing**: Upload security policies via PDF
+- **Document Upload & Processing**: Upload security policies via PDF with drag-and-drop
 - **Policy Analysis**: AI-powered analysis of security documents
+- **Document Processing Pipeline**: 
+  - PDF text extraction using LangChain PyPDFLoader
+  - Intelligent text chunking (1000 chars with 200 overlap)
+  - Batch processing for large documents (50 chunks per batch)
+- **Policy Database**: Automatic policy tracking with metadata
 - **Compliance Tracking**: Monitor compliance status across multiple frameworks
 - **Policy Recommendations**: Automated suggestions for policy improvements
+- **File Cleanup**: Temporary file management with automatic cleanup
 
 ### 🔍 Advanced Security Tools
 - **AWS Security Auditing**: Comprehensive S3 bucket security analysis
+- **S3 Bucket Discovery**: List all S3 buckets in AWS account
+- **Security Compliance Checks**:
+  - Server-Side Encryption (SSE) verification
+  - Bucket versioning status validation
+  - Public access block configuration verification
 - **Infrastructure Scanning**: Automated security assessment of cloud resources
 - **Risk Assessment**: AI-driven risk scoring and prioritization
 - **Security Reports**: Detailed security reports with actionable insights
+- **Violation Reporting**: Automated detection and reporting of security violations
+- **Multi-Region Support**: Works across AWS regions
+
+### 🧠 RAG (Retrieval-Augmented Generation) System
+- **Vector Embeddings**: Google Gemini 2.0 Flash embeddings (768 dimensions)
+- **Semantic Search**: Pinecone vector database for similarity search
+- **Policy Knowledge Base**: AI-powered search through uploaded security policies
+- **Context-Aware Responses**: AI responses grounded in your specific policies
+- **Top-k Retrieval**: Returns top 3 most relevant policy sections
+- **Vector Database Integration**: Cloud-hosted Pinecone for semantic search
+- **Metadata Storage**: Source, page, and content metadata tracking
+
+### 🔐 Authentication & User Management
+- **Clerk Authentication**: Secure user authentication and session management
+- **Protected Routes**: Route-based access control
+- **User Session Persistence**: Login state persistence across sessions
+- **Multi-User Support**: Individual user accounts with separate data
+- **Firebase Integration**: Real-time chat message synchronization
 
 ### 🎯 User Experience
 - **Progressive Web App (PWA)**: Install on any device, works offline
 - **Real-time Updates**: Live security status updates and notifications
 - **Interactive Dashboard**: Intuitive security metrics and visualizations
 - **Mobile-Responsive**: Optimized for desktop, tablet, and mobile devices
+- **Terminal-Style UI**: Cyberpunk-inspired dark theme with neon accents
+- **Animated Components**: Smooth animations with Framer Motion
+- **Custom Scrollbars**: Styled scrollbars matching the terminal theme
+- **Chat Interface**: Real-time messaging with message bubbles
+- **Tool Log Display**: Expandable logs showing AI tool executions
+- **Upload Progress**: Visual feedback for document uploads
+- **Status Badges**: Visual indicators for system status
+
+### 🔧 Backend API Features
+- **Health Monitoring**: `/health` endpoint for container orchestration
+- **Policy Management**: `/policies` endpoint for security policy management
+- **Document Ingestion**: `/ingest` endpoint for PDF processing
+- **AI Chat**: `/chat` endpoint with rate limiting and tool integration
+- **Rate Limiting**: SlowAPI integration for request throttling
+- **CORS Protection**: Configurable cross-origin request handling
+- **Input Validation**: Pydantic models for request validation
+- **Error Handling**: Comprehensive error handling and logging
+- **Defensive Programming**: Null checks and data validation
+
+### 🛠️ MCP (Model Context Protocol) Integration
+- **AWS S3 Tools**: MCP tools for AWS S3 bucket management
+- **Server-Sent Events**: Real-time tool execution via SSE
+- **Tool Execution Logging**: Detailed logging of all tool calls
+- **Error Recovery**: Graceful handling of tool execution failures
+- **List S3 Buckets**: Discover all S3 buckets in the account
+- **Audit Bucket Security**: Comprehensive security compliance checking
+- **Compliance Reporting**: JSON-formatted security audit reports
+
+### 🗄️ Database & Storage Features
+- **Pinecone Vector Database**: Cloud-hosted vector database for semantic search
+- **Firestore Integration**: Real-time chat message synchronization
+- **In-Memory Policy Database**: Fast access to policy metadata
+- **Batch Vector Processing**: Efficient bulk vector insertion
+- **Real-time Sync**: Live updates across clients
+- **User Isolation**: Separate chat histories per user
+- **Timestamp Management**: Automatic timestamp handling
+
+### 🐳 Infrastructure & Deployment
+- **Containerization**: Docker multi-stage builds for optimized images
+- **Non-root Containers**: Security-first container configuration
+- **Resource Limits**: CPU and memory constraints
+- **Health Checks**: Container health monitoring
+- **Microservices Architecture**: 
+  - Backend Service (FastAPI Python application)
+  - MCP Server (Tool execution service)
+  - Frontend Service (React TypeScript application)
+  - Redis Service (Caching and session storage)
+- **Deployment Options**:
+  - Local development with Docker Compose
+  - Production deployment configurations
+  - Google Cloud Run deployment scripts
+  - Kubernetes deployment ready
+  - Horizontal scaling capabilities
+
+### 🔒 Security & Compliance Features
+- **Data Protection**: 
+  - Encryption in transit (HTTPS for all API communications)
+  - Environment variables for secure API key management
+  - Rate limiting for API abuse prevention
+  - Input sanitization for XSS and injection prevention
+- **AWS Security**:
+  - S3 compliance auditing with automated security checks
+  - Encryption verification for server-side encryption
+  - Public access control verification
+  - Versioning enforcement compliance
+- **Authentication Security**:
+  - Enterprise-grade Clerk authentication
+  - Secure session handling
+  - Route protection for sensitive pages
+  - Data separation per user
+
+### 📊 Monitoring & Observability
+- **Health Monitoring**:
+  - Container health checks with Docker health monitoring
+  - Service status with real-time service status monitoring
+  - Error logging with comprehensive error tracking
+  - Performance metrics with resource usage monitoring
+- **Debug Features**:
+  - Tool execution logs with detailed tool call logging
+  - Error tracing with full error stack traces
+  - Debug mode with development debugging capabilities
+  - Log aggregation with centralized logging across services
+
+### 🚀 Performance & Optimization
+- **Optimization Features**:
+  - Batch processing for efficient large document handling
+  - Redis caching for session and data caching
+  - Lazy loading with optimized frontend loading
+  - Code splitting with Vite-based bundle optimization
+- **Scalability**:
+  - Horizontal scaling with multi-instance deployment support
+  - Load balancing with Docker Compose load balancing
+  - Database scaling with cloud-hosted database solutions
+  - CDN ready with static asset optimization
+
+### 🧪 Error Handling & Quality Assurance
+- **Robust Error Handling**:
+  - Defensive programming with comprehensive null checks
+  - Graceful degradation with fallback for service failures
+  - User-friendly errors with clear error messages
+  - Recovery mechanisms with automatic retry and recovery
+- **Code Quality**:
+  - TypeScript type safety throughout frontend
+  - Pydantic models for input validation and serialization
+  - Docker best practices with secure container configurations
+  - Environment management with configuration management
 
 ## 🏗️ Architecture Overview
 
@@ -710,6 +848,15 @@ open http://localhost:3000
 # Monitor logs
 docker-compose logs -f
 ```
+
+## 📋 Complete Feature Documentation
+
+For a detailed breakdown of all features and capabilities, see the comprehensive [FEATURES.md](./FEATURES.md) document, which includes:
+
+- **60+ Individual Features** across all components
+- **Technical Implementation Details** for each feature
+- **Use Cases & Applications** for different user types
+- **Performance & Security Specifications**
 
 **Built with ❤️ for secure cloud infrastructure**
 
