@@ -138,9 +138,15 @@ function ProtectedDashboard() {
             </div>
           )}
 
-          {messages.map((msg) => (
-            <MessageBubble key={msg.id} message={msg} />
-          ))}
+          {(Array.isArray(messages) ? messages : []).map((msg) => {
+            // Defensive checks for each message object
+            if (!msg || typeof msg !== 'object' || !msg.id) {
+              console.warn('Invalid message object found:', msg);
+              return null;
+            }
+            
+            return <MessageBubble key={msg.id} message={msg} />;
+          }).filter(Boolean)}
 
           {isProcessing && (
             <div className="flex gap-4 max-w-4xl">

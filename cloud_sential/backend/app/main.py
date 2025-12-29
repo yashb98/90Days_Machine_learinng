@@ -29,7 +29,7 @@ cors_origins = os.getenv(
     "CORS_ORIGINS", "http://localhost:5173,http://localhost:3000,http://frontend:80").split(",")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=cors_origins,
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -67,14 +67,48 @@ async def health_check():
 
 @app.get("/policies", response_model=List[Policy])
 async def get_policies(user_email: str = "unknown"):
-    if not UPLOADED_FILES_DB:
+    """
+    Safely return policies list with defensive programming
+    Ensures we always return a valid array to prevent frontend .map() errors
+    """
+    try:
+        # Ensure UPLOADED_FILES_DB is always a list and contains valid data
+        if not UPLOADED_FILES_DB:
+            default_policy = {
+                "id": "default",
+                "name": "Default Security Standard (Built-in)",
+                "status": "active",
+                "lastUpdated": "System Boot"
+            }
+            return [default_policy]
+
+        # Validate and clean the database
+        cleaned_policies = []
+        for policy in UPLOADED_FILES_DB:
+            if isinstance(policy, dict) and all(key in policy for key in ["id", "name", "status", "lastUpdated"]):
+                cleaned_policies.append(policy)
+
+        # Always return at least the default policy
+        if not cleaned_policies:
+            default_policy = {
+                "id": "default",
+                "name": "Default Security Standard (Built-in)",
+                "status": "active",
+                "lastUpdated": "System Boot"
+            }
+            cleaned_policies.append(default_policy)
+
+        return cleaned_policies
+
+    except Exception as e:
+        print(f"Error fetching policies: {e}")
+        # Always return a valid array to prevent frontend crashes
         return [{
-            "id": "default",
-            "name": "Default Security Standard (Built-in)",
-            "status": "active",
-            "lastUpdated": "System Boot"
+            "id": "error",
+            "name": "Policy Service Unavailable",
+            "status": "inactive",
+            "lastUpdated": "Error State"
         }]
-    return UPLOADED_FILES_DB
 
 
 @app.post("/ingest")

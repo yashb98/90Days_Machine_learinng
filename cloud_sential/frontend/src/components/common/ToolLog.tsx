@@ -14,7 +14,10 @@ interface ToolLogProps {
 export function ToolLog({ logs }: ToolLogProps) {
   const [isOpen, setIsOpen] = useState(false);
 
-  if (!logs || logs.length === 0) return null;
+  // Defensive programming: Ensure logs is always a valid array
+  const safeLogs = Array.isArray(logs) ? logs : [];
+  
+  if (safeLogs.length === 0) return null;
 
   return (
     <div className="mt-3 border-t border-dashed border-gray-700 pt-2">
@@ -23,7 +26,7 @@ export function ToolLog({ logs }: ToolLogProps) {
         className="flex items-center gap-2 text-xs font-mono text-gray-500 hover:text-neon-blue transition-colors w-full text-left"
       >
         <Terminal className="w-3 h-3" />
-        <span>SYSTEM_AUDIT_TRACE ({logs.length} OPS)</span>
+        <span>SYSTEM_AUDIT_TRACE ({safeLogs.length} OPS)</span>
         <ChevronDown className={`w-3 h-3 transition-transform ${isOpen ? 'rotate-180' : ''}`} />
       </button>
 
@@ -36,7 +39,7 @@ export function ToolLog({ logs }: ToolLogProps) {
             className="overflow-hidden"
           >
             <div className="mt-2 bg-black/40 rounded p-3 font-mono text-xs border border-gray-800">
-              {logs.map((log, idx) => (
+              {safeLogs.map((log, idx) => (
                 <div key={idx} className="mb-3 last:mb-0">
                   <div className="flex items-center gap-2 text-neon-blue mb-1">
                     <CheckCircle className="w-3 h-3" />

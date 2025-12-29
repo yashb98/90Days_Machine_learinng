@@ -130,27 +130,35 @@ export function Sidebar({ isOpen, onClose, activeChatId, onSelectChat, onNewChat
             <div className="space-y-1">
               {loadingChats ? (
                  <div className="text-center py-2 text-gray-600 text-xs">Syncing logs...</div>
-              ) : chatHistory.length === 0 ? (
+              ) : !chatHistory || chatHistory.length === 0 ? (
                  <div className="text-gray-600 text-xs italic px-2">No active logs.</div>
               ) : (
-                chatHistory.map(chat => (
-                  <div 
-                    key={chat.id} 
-                    onClick={() => onSelectChat(chat.id)}
-                    className={`
-                      group flex items-center justify-between p-2 rounded cursor-pointer transition-all
-                      ${activeChatId === chat.id ? "bg-neon-blue/10 border-l-2 border-neon-blue text-white" : "hover:bg-surface/50 text-gray-400 border-l-2 border-transparent"}
-                    `}
-                  >
-                    <span className="truncate text-xs w-40">{chat.title}</span>
-                    <button 
-                      onClick={(e) => handleDeleteChat(e, chat.id)}
-                      className="opacity-0 group-hover:opacity-100 p-1 hover:text-red-400 transition-opacity"
+                (Array.isArray(chatHistory) ? chatHistory : []).map(chat => {
+                  // Defensive checks for each chat object
+                  if (!chat || typeof chat !== 'object' || !chat.id) {
+                    console.warn('Invalid chat object found:', chat);
+                    return null;
+                  }
+                  
+                  return (
+                    <div 
+                      key={chat.id} 
+                      onClick={() => onSelectChat(chat.id)}
+                      className={`
+                        group flex items-center justify-between p-2 rounded cursor-pointer transition-all
+                        ${activeChatId === chat.id ? "bg-neon-blue/10 border-l-2 border-neon-blue text-white" : "hover:bg-surface/50 text-gray-400 border-l-2 border-transparent"}
+                      `}
                     >
-                      <Trash2 className="w-3 h-3" />
-                    </button>
-                  </div>
-                ))
+                      <span className="truncate text-xs w-40">{chat.title || 'Untitled Chat'}</span>
+                      <button 
+                        onClick={(e) => handleDeleteChat(e, chat.id)}
+                        className="opacity-0 group-hover:opacity-100 p-1 hover:text-red-400 transition-opacity"
+                      >
+                        <Trash2 className="w-3 h-3" />
+                      </button>
+                    </div>
+                  );
+                }).filter(Boolean) // Remove any null entries
               )}
             </div>
           </div>
@@ -183,15 +191,25 @@ export function Sidebar({ isOpen, onClose, activeChatId, onSelectChat, onNewChat
             <div className="space-y-2">
               {loadingPolicies ? (
                 <div className="text-center py-4"><Loader2 className="w-4 h-4 animate-spin mx-auto text-gray-600"/></div>
+              ) : !policies || policies.length === 0 ? (
+                <div className="text-gray-600 text-xs italic px-2">No policies available.</div>
               ) : (
-                policies?.map(policy => (
-                  <div key={policy.id} className="p-2 rounded bg-surface/30 border border-surface/50 flex items-center justify-between">
-                    <span className="text-gray-400 text-xs truncate w-40" title={policy.name}>
-                      {policy.name}
-                    </span>
-                    <div className="w-1.5 h-1.5 rounded-full bg-neon-green shadow-[0_0_5px_rgba(16,185,129,0.5)]" />
-                  </div>
-                ))
+                (Array.isArray(policies) ? policies : []).map(policy => {
+                  // Defensive checks for each policy object
+                  if (!policy || typeof policy !== 'object' || !policy.id) {
+                    console.warn('Invalid policy object found:', policy);
+                    return null;
+                  }
+                  
+                  return (
+                    <div key={policy.id} className="p-2 rounded bg-surface/30 border border-surface/50 flex items-center justify-between">
+                      <span className="text-gray-400 text-xs truncate w-40" title={policy.name || 'Unnamed Policy'}>
+                        {policy.name || 'Unnamed Policy'}
+                      </span>
+                      <div className="w-1.5 h-1.5 rounded-full bg-neon-green shadow-[0_0_5px_rgba(16,185,129,0.5)]" />
+                    </div>
+                  );
+                }).filter(Boolean) // Remove any null entries
               )}
             </div>
           </div>
