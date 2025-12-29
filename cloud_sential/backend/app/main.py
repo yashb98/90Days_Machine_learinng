@@ -3,7 +3,7 @@ import shutil
 from fastapi import FastAPI, UploadFile, File, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 # --- 1. RATE LIMITER IMPORTS ---
 from slowapi import Limiter, _rate_limit_exceeded_handler
@@ -49,8 +49,7 @@ class Message(BaseModel):
     role: str
     content: str
 
-    class Config:
-        extra = "ignore"
+    model_config = ConfigDict(extra="ignore")
 
 
 class ChatRequest(BaseModel):

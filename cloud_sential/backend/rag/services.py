@@ -1,6 +1,6 @@
 import os
 import time
-import google.generativeai as genai
+import google.genai as genai
 from typing import List
 from .interfaces import IDocumentLoader, IEmbedder, IVectorStore, Document
 

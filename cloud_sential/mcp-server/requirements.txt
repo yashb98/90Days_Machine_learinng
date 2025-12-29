@@ -1,0 +1,7 @@
+fastmcp
+fastapi
+uvicorn
+boto3
+python-dotenv
+requests
+starlette

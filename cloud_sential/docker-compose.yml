@@ -12,7 +12,7 @@ services:
       - PYTHONPATH=/app
       - GOOGLE_API_KEY=${GOOGLE_API_KEY}
       - PINECONE_API_KEY=${PINECONE_API_KEY}
-      - PINECONE_INDEX=${PINECONE_INDEX}
+      - PINECONE_INDEX=${PINECONE_INDEX_NAME}
       - CORS_ORIGINS=http://localhost:3000,http://frontend:80
     volumes:
       - ./temp_uploads:/app/temp_uploads
