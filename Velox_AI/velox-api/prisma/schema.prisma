@@ -1,0 +1,119 @@
+// prisma/schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Enums for strict typing
+enum Role {
+  ADMIN
+  EDITOR
+  VIEWER
+}
+
+enum ConversationStatus {
+  ACTIVE
+  COMPLETED
+  FAILED
+}
+
+// 1. Organization ( The Tenant )
+model Organization {
+  id             String  @id @default(uuid())
+  name           String
+  slug           String  @unique
+  stripe_id      String? // For billing later
+  credit_balance Int     @default(0) // Stored in cents or tokens
+  api_key_hash   String  @unique // Never store raw API keys
+
+  users  User[]
+  agents Agent[]
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@map("organizations")
+}
+
+// 2. User ( The Member )
+model User {
+  id       String @id @default(uuid())
+  email    String @unique
+  password String // Hashed
+  role     Role   @default(VIEWER)
+
+  org_id String
+  org    Organization @relation(fields: [org_id], references: [id])
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@map("users")
+}
+
+// 3. Agent ( The AI Config )
+model Agent {
+  id            String @id @default(uuid())
+  name          String
+  system_prompt String @db.Text
+  voice_id      String // ElevenLabs or Deepgram Voice ID
+
+  // JSON fields for flexible config
+  tools_enabled Json @default("[]") // e.g. ["check_order", "book_ticket"]
+  llm_config    Json @default("{}") // e.g. { "model": "gemini-1.5", "temperature": 0.7 }
+
+  org_id String
+  org    Organization @relation(fields: [org_id], references: [id])
+
+  conversations Conversation[]
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@map("agents")
+}
+
+// 4. Conversation ( The Call )
+model Conversation {
+  id         String             @id @default(uuid())
+  twilio_sid String             @unique // The external ID from Twilio
+  status     ConversationStatus @default(ACTIVE)
+
+  start_time DateTime  @default(now())
+  end_time   DateTime?
+
+  cost_accrued    Float  @default(0.000) // Precision matters for billing
+  sentiment_score Float? // -1.0 (Bad) to 1.0 (Good)
+
+  agent_id String
+  agent    Agent  @relation(fields: [agent_id], references: [id])
+
+  messages Message[]
+
+  @@index([agent_id])
+  @@index([start_time]) // Critical for "Show me calls from today" dashboards
+  @@map("conversations")
+}
+
+// 5. Message ( The Audit Trail )
+model Message {
+  id      String @id @default(uuid())
+  role    String // user, assistant, system, tool
+  content String @db.Text
+
+  tokens     Int @default(0)
+  latency_ms Int @default(0) // Critical for performance monitoring
+
+  conversation_id String
+  conversation    Conversation @relation(fields: [conversation_id], references: [id])
+
+  created_at DateTime @default(now())
+
+  @@index([conversation_id]) // Critical for fetching chat history quickly
+  @@map("messages")
+}

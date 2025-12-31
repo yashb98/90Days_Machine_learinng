@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  # The Shared Database (Postgres 15 + Vector)
+  db:
+    image: pgvector/pgvector:pg15
+    container_name: velox_db_local
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: devpass
+      POSTGRES_DB: velox_local
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # The Shared Cache
+  redis:
+    image: redis:7-alpine
+    container_name: velox_redis_local
+    ports:
+      - "6379:6379"
+
+volumes:
+  postgres_data:
