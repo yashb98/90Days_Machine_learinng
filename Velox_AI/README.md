@@ -1,0 +1,490 @@
+# Velox AI 🚀
+
+<div align="center">
+
+**Enterprise-Grade AI Voice Agent Platform**
+
+*Build, Deploy, and Manage Intelligent AI Agents for Voice and Chat Applications*
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-5.22-2D3748.svg)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-7-DC382D.svg)](https://redis.io/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4.svg)](https://cloud.google.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg)](https://www.terraform.io/)
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Quick Start](#quick-start)
+- [Configuration](#configuration)
+- [Infrastructure](#infrastructure)
+- [API Reference](#api-reference)
+- [Development](#development)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## 🎯 Overview
+
+Velox is a production-ready AI voice agent platform designed for enterprise applications. It enables organizations to create and manage intelligent AI agents capable of handling voice calls and text-based conversations with advanced capabilities including:
+
+- 🎙️ **Voice Interactions** - Integration with ElevenLabs and Deepgram for natural voice conversations
+- 💬 **Chat Support** - Text-based conversations with persistent context
+- 🛠️ **Tool Integration** - Extensible tool system for agents to perform actions (check orders, book tickets, etc.)
+- 📊 **Analytics Dashboard** - Monitor conversation costs, sentiment, and performance
+- 🔐 **Multi-Tenancy** - Secure organization-level isolation with role-based access control
+
+---
+
+## 🏗️ Architecture
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                           Velox AI Platform                             │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────────────────────┐ │
+│  │   Frontend  │◄──►│  velox-api  │◄──►│      Google Cloud           │ │
+│  │   (React)   │    │  (Node.js)  │    │                             │ │
+│  └─────────────┘    └─────────────┘    │  ┌───────────────────────┐  │ │
+│                                        │  │   Cloud SQL (Postgres) │  │ │
+│  ┌─────────────┐    ┌─────────────┐    │  └───────────────────────┘  │ │
+│  │   Twilio    │◄──►│  velox-api  │    │  ┌───────────────────────┐  │ │
+│  │   (Voice)   │    │  (Node.js)  │    │  │   Redis Cache         │  │ │
+│  └─────────────┘    └─────────────┘    │  └───────────────────────┘  │ │
+│                                        │  ┌───────────────────────┐  │ │
+│  ┌─────────────┐    ┌─────────────┐    │  │   AI Platform         │  │ │
+│  │ ElevenLabs/ │◄──►│  velox-api  │    │  │   (Gemini, etc.)      │  │ │
+│  │  Deepgram   │    │  (Node.js)  │    │  └───────────────────────┘  │ │
+│  └─────────────┘    └─────────────┘    │                             │ │
+│                                        └─────────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### Core Components
+
+1. **velox-api** - TypeScript/Express API server with Prisma ORM
+2. **Infrastructure** - Terraform configurations for Google Cloud Platform
+3. **Database** - PostgreSQL 15 with pgvector for vector storage
+4. **Cache** - Redis 7 for session management and caching
+
+---
+
+## ✨ Features
+
+### Multi-Tenant Architecture
+- **Organizations** - Complete tenant isolation with unique API keys
+- **Users** - Role-based access control (ADMIN, EDITOR, VIEWER)
+- **Credit System** - Track usage and manage billing
+
+### AI Agent Management
+- **Custom System Prompts** - Configure agent personality and behavior
+- **Voice Integration** - Support for ElevenLabs and Deepgram voices
+- **Tool System** - Extensible tools for agent actions
+- **LLM Configuration** - Adjust model parameters (temperature, model selection)
+
+### Conversation Intelligence
+- **Real-time Monitoring** - Track active conversations
+- **Cost Tracking** - Accrue and monitor costs per conversation
+- **Sentiment Analysis** - Automatic sentiment scoring (-1.0 to 1.0)
+- **Audit Trail** - Complete message history with token usage
+
+### Developer Experience
+- **TypeScript** - Full type safety across the codebase
+- **Prisma ORM** - Type-safe database access
+- **Docker Support** - Containerized development environment
+- **Terraform IaC** - Infrastructure as Code for reproducible deployments
+
+---
+
+## 📁 Project Structure
+
+```
+Velox_AI/
+├── README.md                      # This file
+├── docker-compose.yml             # Local development environment
+│
+├── velox-api/                     # Main API application
+│   ├── package.json              # Node.js dependencies
+│   ├── tsconfig.json             # TypeScript configuration
+│   ├── prisma/
+│   │   ├── schema.prisma         # Database schema
+│   │   ├── seed.ts               # Database seeder
+│   │   └── migrations/           # Database migrations
+│   └── src/
+│       ├── server.ts             # Application entry point
+│       ├── app.ts                # Express app configuration
+│       ├── config/               # Configuration files
+│       ├── controllers/          # Request handlers
+│       ├── middleware/           # Custom middleware
+│       └── routes/               # API routes
+│
+└── infrastructure/               # Terraform IaC
+    ├── main.tf                   # Main infrastructure definition
+    ├── variables.tf              # Variable declarations
+    ├── provider.tf               # GCP provider configuration
+    ├── outputs.tf                # Output values
+    └── terraform.tfstate         # Terraform state
+```
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Docker & Docker Compose
+- Node.js 18+
+- Google Cloud CLI (for production deployment)
+- Terraform 1.0+
+
+### Local Development
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-org/velox-ai.git
+   cd velox-ai
+   ```
+
+2. **Start the infrastructure**
+   ```bash
+   docker-compose up -d
+   ```
+
+3. **Set up environment variables**
+   ```bash
+   cp velox-api/.env.example velox-api/.env
+   # Edit .env with your configuration
+   ```
+
+4. **Initialize the database**
+   ```bash
+   cd velox-api
+   npx prisma migrate dev
+   npx prisma db seed
+   ```
+
+5. **Start the API server**
+   ```bash
+   npm run dev
+   ```
+
+6. **Access the application**
+   - API: http://localhost:3000
+   - Database: localhost:5432
+   - Redis: localhost:6379
+
+---
+
+## ⚙️ Configuration
+
+### Environment Variables
+
+Create a `.env` file in the `velox-api` directory:
+
+```env
+# Database
+DATABASE_URL="postgresql://postgres:devpass@localhost:5432/velox_local"
+
+# Redis
+REDIS_URL="redis://localhost:6379"
+
+# Application
+NODE_ENV="development"
+PORT=3000
+
+# API Keys
+ELEVENLABS_API_KEY="your-elevenlabs-key"
+DEEPGRAM_API_KEY="your-deepgram-key"
+TWILIO_ACCOUNT_SID="your-twilio-sid"
+TWILIO_AUTH_TOKEN="your-twilio-token"
+GOOGLE_AI_API_KEY="your-google-ai-key"
+
+# JWT
+JWT_SECRET="your-jwt-secret-key"
+```
+
+### Terraform Variables
+
+Configure `infrastructure/terraform.tfvars`:
+
+```hcl
+project_id = "velox-ai-prod-2025"
+region     = "europe-west2"
+```
+
+---
+
+## ☁️ Infrastructure
+
+### Google Cloud Resources
+
+The infrastructure is provisioned using Terraform and includes:
+
+| Resource | Type | Description |
+|----------|------|-------------|
+| VPC Network | `google_compute_network` | Isolated network for all resources |
+| Cloud SQL | `google_sql_database_instance` | PostgreSQL 15 with private networking |
+| Redis | `google_redis_instance` | Managed Redis cache (5GB) |
+| Service Networking | `google_service_networking_connection` | Private service connectivity |
+
+### Deployment Steps
+
+1. **Initialize Terraform**
+   ```bash
+   cd infrastructure
+   terraform init
+   ```
+
+2. **Plan deployment**
+   ```bash
+   terraform plan -out=tfplan
+   ```
+
+3. **Apply changes**
+   ```bash
+   terraform apply tfplan
+   ```
+
+4. **Retrieve outputs**
+   ```bash
+   terraform output
+   ```
+
+---
+
+## 📚 API Reference
+
+### Authentication
+
+All API requests require authentication via API key:
+
+```http
+Headers:
+  Authorization: Bearer <org_api_key>
+  X-API-Key: <org_api_key>
+```
+
+### Endpoints
+
+#### Organizations
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | `/api/organizations` | Create new organization |
+| GET | `/api/organizations/:id` | Get organization details |
+| PUT | `/api/organizations/:id` | Update organization |
+| DELETE | `/api/organizations/:id` | Delete organization |
+
+#### Users
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | `/api/users` | Create new user |
+| GET | `/api/users` | List organization users |
+| GET | `/api/users/:id` | Get user details |
+| PUT | `/api/users/:id` | Update user |
+| DELETE | `/api/users/:id` | Delete user |
+
+#### Agents
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | `/api/agents` | Create new agent |
+| GET | `/api/agents` | List organization agents |
+| GET | `/api/agents/:id` | Get agent details |
+| PUT | `/api/agents/:id` | Update agent |
+| DELETE | `/api/agents/:id` | Delete agent |
+
+#### Conversations
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/api/conversations` | List conversations |
+| GET | `/api/conversations/:id` | Get conversation details |
+| GET | `/api/conversations/:id/messages` | Get conversation messages |
+| PUT | `/api/conversations/:id` | Update conversation status |
+
+---
+
+## 💻 Development
+
+### Database Schema
+
+The application uses a multi-tenant schema with the following models:
+
+```prisma
+model Organization {
+  id             String  @id @default(uuid())
+  name           String
+  slug           String  @unique
+  stripe_id      String?
+  credit_balance Int     @default(0)
+  api_key_hash   String  @unique
+  
+  users      User[]
+  agents     Agent[]
+  created_at DateTime @default(now())
+}
+
+model User {
+  id       String @id @default(uuid())
+  email    String @unique
+  password String
+  role     Role   @default(VIEWER)
+  org_id   String
+  
+  org Organization @relation(fields: [org_id], references: [id])
+}
+
+model Agent {
+  id            String @id @default(uuid())
+  name          String
+  system_prompt String
+  voice_id      String
+  tools_enabled Json   @default("[]")
+  llm_config    Json   @default("{}")
+  org_id        String
+  
+  org           Organization  @relation(fields: [org_id], references: [id])
+  conversations Conversation[]
+}
+
+model Conversation {
+  id             String             @id @default(uuid())
+  twilio_sid     String             @unique
+  status         ConversationStatus @default(ACTIVE)
+  cost_accrued   Float              @default(0.000)
+  sentiment_score Float?
+  agent_id       String
+  
+  agent    Agent      @relation(fields: [agent_id], references: [id])
+  messages Message[]
+}
+
+model Message {
+  id      String @id @default(uuid())
+  role    String
+  content String
+  tokens  Int    @default(0)
+  latency_ms Int  @default(0)
+  conversation_id String
+  
+  conversation Conversation @relation(fields: [conversation_id], references: [id])
+}
+```
+
+### Running Tests
+
+```bash
+cd velox-api
+npm test
+```
+
+### Database Migrations
+
+```bash
+# Create new migration
+npx prisma migrate dev --name <migration_name>
+
+# Apply migrations in production
+npx prisma migrate deploy
+
+# Reset database (development only)
+npx prisma migrate reset
+```
+
+---
+
+## 🚢 Deployment
+
+### Production Checklist
+
+- [ ] Set `NODE_ENV=production`
+- [ ] Configure production database credentials
+- [ ] Enable SSL/TLS
+- [ ] Set up monitoring and alerting
+- [ ] Configure backup and disaster recovery
+- [ ] Review and apply security hardening
+
+### Docker Production
+
+```bash
+docker-compose -f docker-compose.prod.yml up -d
+```
+
+### Terraform Production
+
+```bash
+cd infrastructure
+terraform workspace new prod
+terraform plan -var="environment=prod"
+terraform apply
+```
+
+---
+
+## 📈 Monitoring
+
+### Key Metrics
+
+- **Conversation Costs** - Track cost_accrued per conversation
+- **Latency** - Monitor latency_ms for performance
+- **Sentiment** - Analyze sentiment_score trends
+- **Token Usage** - Monitor tokens per message
+
+### Health Checks
+
+```bash
+# API health
+curl http://localhost:3000/health
+
+# Database health
+curl http://localhost:3000/health/db
+
+# Redis health
+curl http://localhost:3000/health/redis
+```
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🆘 Support
+
+- 📧 Email: support@velox-ai.com
+- 📖 Documentation: https://docs.velox-ai.com
+- 💬 Discord: https://discord.gg/velox-ai
+
+---
+
+<div align="center">
+
+**Built with ❤️ by the Velox AI Team**
+
+</div>
+
