@@ -1,18 +1,17 @@
 {
   "compilerOptions": {
-    "sourceMap": true,
-    "outDir": "dist",
+    "target": "es2020",
+    "module": "commonjs", 
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "./",
     "strict": true,
-    "lib": ["esnext"],
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    
-    // Crucial settings for ts-node + Prisma
-    "target": "es2018",
-    "module": "commonjs", 
-    "moduleResolution": "node",
-    "types": ["node"]
+    "resolveJsonModule": true
   },
-  "include": ["src/**/*", "prisma/**/*"]
+  "include": ["src/**/*", "prisma/**/*"],
+  "exclude": ["node_modules"]
 }
+

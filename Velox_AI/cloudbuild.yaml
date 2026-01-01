@@ -1,0 +1,49 @@
+steps:
+  # 1. Install Dependencies & Build Typescript (Lint/Test check)
+  - name: 'node:20'
+    entrypoint: 'npm'
+    args: ['install']
+    dir: 'velox-api'
+  
+  - name: 'node:20'
+    entrypoint: 'npm'
+    args: ['run', 'build']
+    dir: 'velox-api'
+
+  # 2. Build the Docker Image
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'build',
+      '-t', 'europe-west2-docker.pkg.dev/$PROJECT_ID/velox-repo/velox-api:$COMMIT_SHA',
+      '-t', 'europe-west2-docker.pkg.dev/$PROJECT_ID/velox-repo/velox-api:latest',
+      '.'
+    ]
+    dir: 'velox-api'
+
+  # 3. Push to Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'europe-west2-docker.pkg.dev/$PROJECT_ID/velox-repo/velox-api:latest']
+
+  # 4. Deploy to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: 'gcloud'
+    args:
+      - 'run'
+      - 'deploy'
+      - 'velox-api-prod'
+      - '--image'
+      - 'europe-west2-docker.pkg.dev/$PROJECT_ID/velox-repo/velox-api:latest'
+      - '--region'
+      - 'europe-west2'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated' # Allow public HTTP (for now, will lock down later)
+      - '--set-env-vars'
+      - 'NODE_ENV=production'
+      # We will map secrets later (DB URL, etc.)
+    
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+images:
+  - 'europe-west2-docker.pkg.dev/$PROJECT_ID/velox-repo/velox-api:latest'
