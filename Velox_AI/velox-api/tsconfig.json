@@ -1,8 +1,9 @@
 {
-  "compilerOptions": {
+"compilerOptions": {
     "target": "es2020",
-    "module": "commonjs", 
-    "moduleResolution": "node",
+    "module": "Node16",
+    "moduleResolution": "node16",
+    "verbatimModuleSyntax": false,
     "outDir": "./dist",
     "rootDir": "./",
     "strict": true,
@@ -14,4 +15,3 @@
   "include": ["src/**/*", "prisma/**/*"],
   "exclude": ["node_modules"]
 }
-

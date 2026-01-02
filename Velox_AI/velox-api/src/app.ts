@@ -3,8 +3,15 @@ import express from "express";
 import cors from "cors";
 import helmet from "helmet";
 import { pinoHttp } from "pino-http";
-import { v4 as uuidv4 } from "uuid";
 import pino from "pino";
+import { rateLimiter } from "./middleware/rateLimiter";
+import type { Redis } from "ioredis";
+
+let uuidv4: () => string;
+
+import("uuid").then((uuid) => {
+  uuidv4 = uuid.v4;
+});
 
 const logger = pino({
   level: process.env.LOG_LEVEL || "info",
@@ -18,6 +25,8 @@ const app = express();
 app.use(helmet());
 app.use(cors());
 app.use(express.json());
+
+app.use(rateLimiter);
 
 // 2. Request ID Middleware (The "Trace")
 app.use((req, res, next) => {
