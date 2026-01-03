@@ -112,29 +112,47 @@ Velox is a production-ready AI voice agent platform designed for enterprise appl
 ```
 Velox_AI/
 ├── README.md                      # This file
-├── docker-compose.yml             # Local development environment
+├── docker-compose.yml             # Local development environment (PostgreSQL + Redis)
+├── cloudbuild.yaml                # Google Cloud Build CI/CD pipeline
 │
-├── velox-api/                     # Main API application
-│   ├── package.json              # Node.js dependencies
-│   ├── tsconfig.json             # TypeScript configuration
-│   ├── prisma/
-│   │   ├── schema.prisma         # Database schema
-│   │   ├── seed.ts               # Database seeder
-│   │   └── migrations/           # Database migrations
-│   └── src/
-│       ├── server.ts             # Application entry point
-│       ├── app.ts                # Express app configuration
-│       ├── config/               # Configuration files
-│       ├── controllers/          # Request handlers
-│       ├── middleware/           # Custom middleware
-│       └── routes/               # API routes
+├── velox-api/                     # Main API application (TypeScript/Express)
+│   ├── package.json               # Node.js dependencies
+│   ├── tsconfig.json              # TypeScript configuration
+│   ├── Dockerfile                 # Multi-stage Docker build
+│   ├── prisma.config.ts           # Prisma configuration
+│   │
+│   ├── prisma/                    # Database layer
+│   │   ├── schema.prisma          # Database schema (Organizations, Users, Agents, Conversations, Messages)
+│   │   ├── seed.ts                # Database seeding script
+│   │   └── migrations/            # Database migrations
+│   │
+│   └── src/                       # Application source code
+│       ├── server.ts              # Application entry point + WebSocket server setup
+│       ├── app.ts                 # Express app configuration (middleware, health checks)
+│       │
+│       ├── config/
+│       │   └── redis.ts           # Redis client configuration
+│       │
+│       ├── middleware/
+│       │   ├── rateLimiter.ts     # Redis-based rate limiting middleware
+│       │   └── twilioAuth.ts      # Twilio webhook signature validation
+│       │
+│       ├── routes/
+│       │   └── voice.ts           # Twilio voice webhook + TwiML response
+│       │
+│       ├── services/
+│       │   └── sessionService.ts  # Redis session state management (CallStage enum)
+│       │
+│       └── websocket/
+│           └── streamHandler.ts   # WebSocket handler for real-time audio streams
 │
-└── infrastructure/               # Terraform IaC
-    ├── main.tf                   # Main infrastructure definition
-    ├── variables.tf              # Variable declarations
-    ├── provider.tf               # GCP provider configuration
-    ├── outputs.tf                # Output values
-    └── terraform.tfstate         # Terraform state
+└── infrastructure/                # Terraform Infrastructure as Code (Google Cloud)
+    ├── .terraform.lock.hcl        # Terraform provider lock file
+    ├── main.tf                    # Main infrastructure definition (VPC, Cloud SQL, Redis)
+    ├── variables.tf               # Variable declarations
+    ├── provider.tf                # GCP provider configuration
+    ├── outputs.tf                 # Output values (database IP, Redis host)
+    └── terraform.tfstate          # Terraform state file
 ```
 
 ---
@@ -473,18 +491,4 @@ curl http://localhost:3000/health/redis
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🆘 Support
-
-- 📧 Email: support@velox-ai.com
-- 📖 Documentation: https://docs.velox-ai.com
-- 💬 Discord: https://discord.gg/velox-ai
-
----
-
-<div align="center">
-
-**Built with ❤️ by the Velox AI Team**
-
-</div>
 
