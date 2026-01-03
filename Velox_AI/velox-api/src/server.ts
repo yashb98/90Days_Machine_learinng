@@ -1,10 +1,28 @@
 // velox-api/src/server.ts
-import { app, logger } from "./app.js";
+import { app, logger } from "./app";
+import {createServer} from "http";
+import {WebSocketServer} from "ws";
+import voiceRoutes from "./routes/voice";
+import {handleAudioStream} from "./websocket/streamHandler";
 
 const PORT = process.env.PORT || 8080; // Cloud Run defaults to 8080
 
-const server = app.listen(PORT, () => {
-  logger.info(`🚀 Server listening on port ${PORT}`);
+
+app.use("/voice", voiceRoutes);
+
+// Create HTTP server
+const server = createServer(app);
+
+// Create WebSocket server
+const wss = new WebSocketServer({ server, path: "/stream/voice" });
+
+wss.on("connection", (ws, req) => {
+  logger.info("New WebSocket connection established");
+  handleAudioStream(ws, req);
+});
+
+server.listen(PORT, () => {
+  logger.info(` Server listening on port ${PORT}`);
 });
 
 // Graceful Shutdown (Handle Cloud Run SIGTERM)
