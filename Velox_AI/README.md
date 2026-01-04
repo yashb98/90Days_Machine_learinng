@@ -120,6 +120,7 @@ Velox_AI/
 │   ├── tsconfig.json              # TypeScript configuration
 │   ├── Dockerfile                 # Multi-stage Docker build
 │   ├── prisma.config.ts           # Prisma configuration
+│   ├── simulate-twilio.js         # Twilio simulation script for local testing
 │   │
 │   ├── prisma/                    # Database layer
 │   │   ├── schema.prisma          # Database schema (Organizations, Users, Agents, Conversations, Messages)
@@ -141,7 +142,8 @@ Velox_AI/
 │       │   └── voice.ts           # Twilio voice webhook + TwiML response
 │       │
 │       ├── services/
-│       │   └── sessionService.ts  # Redis session state management (CallStage enum)
+│       │   ├── sessionService.ts  # Redis session state management (CallStage enum)
+│       │   └── transcriptionService.ts  # Deepgram transcription integration (Nova-2)
 │       │
 │       └── websocket/
 │           └── streamHandler.ts   # WebSocket handler for real-time audio streams
