@@ -1,4 +1,5 @@
 // velox-api/src/server.ts
+import "dotenv/config";
 import { app, logger } from "./app";
 import {createServer} from "http";
 import {WebSocketServer} from "ws";
@@ -14,7 +15,7 @@ app.use("/voice", voiceRoutes);
 const server = createServer(app);
 
 // Create WebSocket server
-const wss = new WebSocketServer({ server, path: "/stream/voice" });
+const wss = new WebSocketServer({ server, path: "/streams/voice" });
 
 wss.on("connection", (ws, req) => {
   logger.info("New WebSocket connection established");

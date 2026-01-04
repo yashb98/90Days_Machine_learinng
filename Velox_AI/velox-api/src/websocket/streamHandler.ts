@@ -1,11 +1,12 @@
 import WebSocket from "ws";
 import { logger } from "../app";
 import { SessionService } from "../services/sessionService";
+import { TranscriptionService } from "../services/transcriptionService"; // <--- Import this
 
 export const handleAudioStream = (ws: WebSocket, req: any) => {
-  logger.info("🔌 New Twilio Stream Connected");
   let streamSid = "";
   let callSid = "";
+  let transcriptionService: TranscriptionService | null = null; // <--- The Ear
 
   ws.on("message", async (message) => {
     try {
@@ -13,7 +14,7 @@ export const handleAudioStream = (ws: WebSocket, req: any) => {
 
       switch (msg.event) {
         case "connected":
-          logger.info("Audio Stream Connected");
+          logger.info("✅ Audio Stream Connected");
           break;
 
         case "start":
@@ -21,26 +22,27 @@ export const handleAudioStream = (ws: WebSocket, req: any) => {
           callSid = msg.start.callSid;
           const agentId = msg.start.customParameters?.agentId || "unknown";
           
-          logger.info(`Call Started: ${callSid} | Stream: ${streamSid}`);
+          logger.info(`📞 Call Started: ${callSid}`);
           
-          // Initialize Redis State from Day 4
+          // 1. Initialize Redis Session
           await SessionService.initSession(callSid, agentId);
+
+          // 2. Initialize Deepgram
+          transcriptionService = new TranscriptionService();
           break;
 
         case "media":
-          // This is the raw audio (base64 encoded u-law)
-          // For now, we just acknowledge we received it.
-          // In Day 6-7, we send this to Deepgram/OpenAI.
-          const payload = msg.media.payload;
-          const chunk = msg.media.chunk;
-          if (parseInt(chunk) % 50 === 0) { 
-             // Log every 50th packet so we don't spam console
-             process.stdout.write("."); 
+          // 3. Pipe Audio to Deepgram
+          if (transcriptionService) {
+            transcriptionService.send(msg.media.payload);
           }
           break;
 
         case "stop":
-          logger.info(`Call Ended: ${callSid}`);
+          logger.info(`🛑 Call Ended: ${callSid}`);
+          if (transcriptionService) {
+            transcriptionService.close();
+          }
           break;
       }
     } catch (err) {
@@ -50,5 +52,8 @@ export const handleAudioStream = (ws: WebSocket, req: any) => {
 
   ws.on("close", () => {
     logger.info("🔌 Stream Disconnected");
+    if (transcriptionService) {
+      transcriptionService.close();
+    }
   });
 };

@@ -28,6 +28,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
+    "@deepgram/sdk": "^4.11.3",
     "@prisma/config": "^7.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
