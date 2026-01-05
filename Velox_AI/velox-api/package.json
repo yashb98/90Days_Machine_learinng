@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@deepgram/sdk": "^4.11.3",
+    "@google/generative-ai": "^0.24.1",
     "@prisma/config": "^7.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",

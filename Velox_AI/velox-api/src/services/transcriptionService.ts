@@ -1,10 +1,14 @@
 import { createClient, LiveClient, LiveTranscriptionEvents } from "@deepgram/sdk";
 import { logger } from "../app";
 
+type TranscriptCallback = (text: string) => void;
+
 export class TranscriptionService {
   private deepgramLive: LiveClient;
+  private onTranscript: TranscriptCallback;
 
-  constructor() {
+ constructor(onTranscript: TranscriptCallback) {
+    this.onTranscript = onTranscript;
     const deepgram = createClient(process.env.DEEPGRAM_API_KEY || "");
     
     // Configure for Speed (Nova-2) and Phone Audio (Mulaw 8000Hz)
@@ -32,6 +36,7 @@ export class TranscriptionService {
       // 'is_final' means the user paused long enough (300ms)
       if (transcript && data.is_final) {
         logger.info(`USER (Final): ${transcript}`);
+        this.onTranscript(transcript);
         // TODO: Send this text to the LLM (Day 7)
       } else if (transcript) {
         // This is interim results (flashy text)
