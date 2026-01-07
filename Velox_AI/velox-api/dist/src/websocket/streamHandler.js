@@ -2,97 +2,36 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.handleAudioStream = void 0;
 const app_1 = require("../app");
-const sessionService_1 = require("../services/sessionService");
-const transcriptionService_1 = require("../services/transcriptionService");
-const llmService_1 = require("../services/llmService");
-const ttsService_1 = require("../services/ttsService"); // <--- 1. Import TTS
+const orchestrator_1 = require("../services/orchestrator"); // The new Manager
 const handleAudioStream = (ws, req) => {
-    let streamSid = "";
-    let callSid = "";
-    // Services
-    let transcriptionService = null;
-    let llmService = null;
-    let ttsService = null;
-    //  Gatekeeper ID: Increments on every new user turn/interruption
-    let currentInteractionId = 0;
-    ws.on("message", async (message) => {
+    // We no longer manage individual services here. 
+    // We just hold one instance of the Orchestrator.
+    let orchestrator = null;
+    ws.on("message", (message) => {
         try {
             const msg = JSON.parse(message.toString());
             switch (msg.event) {
                 case "connected":
-                    app_1.logger.info(" Audio Stream Connected");
+                    app_1.logger.info("Audio Stream Connected");
                     break;
                 case "start":
-                    streamSid = msg.start.streamSid;
-                    callSid = msg.start.callSid;
-                    const agentId = msg.start.customParameters?.agentId || "unknown";
+                    const { callSid, streamSid } = msg.start;
+                    const agentId = msg.start.customParameters?.agentId || "default";
                     app_1.logger.info(`📞 Call Started: ${callSid}`);
-                    await sessionService_1.SessionService.initSession(callSid, agentId);
-                    llmService = new llmService_1.LLMService();
-                    ttsService = new ttsService_1.TtsService();
-                    transcriptionService = new transcriptionService_1.TranscriptionService(
-                    // Callback 1: User Finished Speaking (Transcript Ready)
-                    async (userText) => {
-                        // Start a new turn
-                        currentInteractionId++;
-                        const myId = currentInteractionId; // Lock ID for this turn
-                        if (llmService && ttsService) {
-                            await llmService.generateResponse(userText, async (aiSentence) => {
-                                // ⚡ Race Condition Check 1: Did user interrupt logic?
-                                if (myId !== currentInteractionId)
-                                    return;
-                                app_1.logger.info(`🗣️ SPEAKING: ${aiSentence}`);
-                                const audioBuffer = await ttsService.generateAudio(aiSentence);
-                                // ⚡ Race Condition Check 2: Did user interrupt TTS?
-                                if (myId !== currentInteractionId)
-                                    return;
-                                if (audioBuffer && streamSid) {
-                                    const mediaMessage = {
-                                        event: "media",
-                                        streamSid: streamSid,
-                                        media: { payload: audioBuffer.toString("base64") },
-                                    };
-                                    ws.send(JSON.stringify(mediaMessage));
-                                }
-                            });
-                        }
-                    }, 
-                    // Callback 2: Interruption Detected (Barge-In)
-                    () => {
-                        // 1. Invalidate any pending AI audio
-                        currentInteractionId++;
-                        // 2. Clear Twilio's Audio Buffer immediately
-                        if (streamSid) {
-                            app_1.logger.info(" Interruption! Clearing Twilio Buffer.");
-                            const clearMessage = {
-                                event: "clear",
-                                streamSid: streamSid
-                            };
-                            ws.send(JSON.stringify(clearMessage));
-                        }
-                    });
-                    // --- START TEST CODE ---
-                    setTimeout(() => {
-                        app_1.logger.info("⚡ SIMULATING: User Interruption Triggered!");
-                        // 1. Manually trigger the interruption logic
-                        currentInteractionId++;
-                        if (streamSid) {
-                            app_1.logger.info("🛑 Interruption! Clearing Twilio Buffer.");
-                            const clearMessage = { event: "clear", streamSid: streamSid };
-                            ws.send(JSON.stringify(clearMessage));
-                        }
-                    }, 3000); // Trigger after 3 seconds
-                    // --- END TEST CODE ---
+                    // Initialize the Orchestrator
+                    // This handles Ear, Brain, Mouth, and Interruption logic internally
+                    orchestrator = new orchestrator_1.CallOrchestrator(ws, callSid, streamSid, agentId);
                     break;
                 case "media":
-                    if (transcriptionService) {
-                        transcriptionService.send(msg.media.payload);
+                    // Simply pass the raw audio to the Orchestrator
+                    if (orchestrator) {
+                        orchestrator.handleAudio(msg.media.payload);
                     }
                     break;
                 case "stop":
-                    app_1.logger.info(` Call Ended: ${callSid}`);
-                    if (transcriptionService)
-                        transcriptionService.close();
+                    app_1.logger.info("Call Ended");
+                    if (orchestrator)
+                        orchestrator.cleanup();
                     break;
             }
         }
@@ -101,9 +40,9 @@ const handleAudioStream = (ws, req) => {
         }
     });
     ws.on("close", () => {
-        app_1.logger.info(" Stream Disconnected");
-        if (transcriptionService)
-            transcriptionService.close();
+        app_1.logger.info("🔌 Stream Disconnected");
+        if (orchestrator)
+            orchestrator.cleanup();
     });
 };
 exports.handleAudioStream = handleAudioStream;

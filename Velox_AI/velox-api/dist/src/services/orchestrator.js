@@ -1,0 +1,117 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.CallOrchestrator = void 0;
+const ws_1 = __importDefault(require("ws"));
+const app_1 = require("../app");
+const transcriptionService_1 = require("./transcriptionService");
+const llmService_1 = require("./llmService");
+const ttsService_1 = require("./ttsService");
+const sessionService_1 = require("./sessionService");
+class CallOrchestrator {
+    constructor(ws, callSid, streamSid, agentId) {
+        // Services
+        this.transcriptionService = null;
+        // State
+        this.currentInteractionId = 0;
+        this.isAlive = true;
+        this.ws = ws;
+        this.callSid = callSid;
+        this.streamSid = streamSid;
+        this.agentId = agentId;
+        // Initialize Static Services
+        this.llmService = new llmService_1.LLMService();
+        this.ttsService = new ttsService_1.TtsService();
+        // Initialize Session
+        sessionService_1.SessionService.initSession(this.callSid, this.agentId);
+        this.setupPipeline();
+    }
+    setupPipeline() {
+        this.transcriptionService = new transcriptionService_1.TranscriptionService(
+        // 1. User Finished Speaking
+        async (text) => this.handleUserMessage(text), 
+        // 2. User Interrupted
+        () => this.handleInterruption());
+    }
+    /**
+     * Core Logic Loop: Ear -> Brain -> Mouth
+     */
+    async handleUserMessage(userText) {
+        if (!this.isAlive)
+            return;
+        this.currentInteractionId++;
+        const myId = this.currentInteractionId;
+        try {
+            // 🧠 Brain
+            await this.llmService.generateResponse(userText, async (aiSentence) => {
+                if (myId !== this.currentInteractionId)
+                    return; // Interrupted?
+                // 🗣️ Mouth
+                const audio = await this.ttsService.generateAudio(aiSentence);
+                if (myId !== this.currentInteractionId)
+                    return; // Interrupted?
+                if (audio)
+                    this.sendAudio(audio);
+            });
+        }
+        catch (error) {
+            app_1.logger.error({ error }, "Pipeline Error");
+            this.playFallbackError();
+        }
+    }
+    /**
+     * Handle Barge-In
+     */
+    handleInterruption() {
+        app_1.logger.info(" Interruption detected");
+        this.currentInteractionId++; // Invalidate pending actions
+        this.sendClearMessage();
+    }
+    /**
+     * Error Recovery: The "Safety Net"
+     */
+    async playFallbackError() {
+        app_1.logger.warn(" Triggering Fallback Audio");
+        // In a real app, load a pre-recorded WAV file here.
+        // For now, we try to generate a quick apology.
+        try {
+            const audio = await this.ttsService.generateAudio("I'm having trouble connecting. One moment.");
+            if (audio)
+                this.sendAudio(audio);
+        }
+        catch (e) {
+            app_1.logger.error(" Critical: Even Fallback Failed");
+        }
+    }
+    // --- WebSocket Helpers ---
+    handleAudio(payload) {
+        if (this.transcriptionService) {
+            this.transcriptionService.send(payload);
+        }
+    }
+    sendAudio(audio) {
+        const mediaMessage = {
+            event: "media",
+            streamSid: this.streamSid,
+            media: { payload: audio.toString("base64") },
+        };
+        if (this.ws.readyState === ws_1.default.OPEN) {
+            this.ws.send(JSON.stringify(mediaMessage));
+        }
+    }
+    sendClearMessage() {
+        const clearMessage = { event: "clear", streamSid: this.streamSid };
+        if (this.ws.readyState === ws_1.default.OPEN) {
+            this.ws.send(JSON.stringify(clearMessage));
+        }
+    }
+    cleanup() {
+        this.isAlive = false;
+        if (this.transcriptionService)
+            this.transcriptionService.close();
+        app_1.logger.info(` Orchestrator cleaned up for ${this.callSid}`);
+    }
+}
+exports.CallOrchestrator = CallOrchestrator;
