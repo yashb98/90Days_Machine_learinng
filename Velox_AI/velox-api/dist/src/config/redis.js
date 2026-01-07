@@ -17,9 +17,9 @@ const redisConfig = {
 // The Singleton Instance
 const redis = new ioredis_1.default(redisConfig);
 redis.on("connect", () => {
-    app_1.logger.info("✅ Redis connected successfully");
+    app_1.logger.info("Redis connected successfully");
 });
 redis.on("error", (err) => {
-    app_1.logger.error({ err }, "❌ Redis connection error");
+    app_1.logger.error({ err }, "Redis connection error");
 });
 exports.default = redis;

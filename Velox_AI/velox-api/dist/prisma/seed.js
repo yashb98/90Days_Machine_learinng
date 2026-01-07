@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const client_1 = require("@prisma/client");
 const prisma = new client_1.PrismaClient();
 async function main() {
-    console.log('🌱 Starting seed...');
+    console.log(' Starting seed...');
     // 1. Upsert Organization (Create if not exists, otherwise update)
     const org = await prisma.organization.upsert({
         where: { slug: 'velox-corp' }, // Check if this slug exists
@@ -29,7 +29,7 @@ async function main() {
             llm_config: { model: "gemini-1.5-flash", temp: 0.5 }
         }
     });
-    console.log(`✅ Seeded: Org "${org.name}" | Agent "${agent.name}"`);
+    console.log(` Seeded: Org "${org.name}" | Agent "${agent.name}"`);
 }
 main()
     .then(async () => {

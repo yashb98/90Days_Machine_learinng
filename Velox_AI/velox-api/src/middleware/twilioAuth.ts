@@ -28,7 +28,7 @@ export const validateTwilioWebhook = (req: Request, res: Response, next: NextFun
   if (isValid) {
     next();
   } else {
-    logger.warn(`⛔ Rejected invalid Twilio request from ${req.ip}`);
+    logger.warn(` Rejected invalid Twilio request from ${req.ip}`);
     res.status(403).send("Forbidden");
   }
 };

@@ -2,13 +2,16 @@ import { createClient, LiveClient, LiveTranscriptionEvents } from "@deepgram/sdk
 import { logger } from "../app";
 
 type TranscriptCallback = (text: string) => void;
+type InterruptCallback = () => void;
 
 export class TranscriptionService {
   private deepgramLive: LiveClient;
   private onTranscript: TranscriptCallback;
+  private onInterrupt: InterruptCallback;
 
- constructor(onTranscript: TranscriptCallback) {
+ constructor(onTranscript: TranscriptCallback, onInterrupt: InterruptCallback) {
     this.onTranscript = onTranscript;
+    this.onInterrupt = onInterrupt;
     const deepgram = createClient(process.env.DEEPGRAM_API_KEY || "");
     
     // Configure for Speed (Nova-2) and Phone Audio (Mulaw 8000Hz)
@@ -20,6 +23,7 @@ export class TranscriptionService {
       endpointing: 300,  // Wait 300ms of silence to trigger "Final"
       smart_format: true,
       interim_results: true, // We want to see words AS they are spoken
+      vad_events: true,      // Voice Activity Detection events
     });
 
     this.setupEventListeners();
@@ -32,6 +36,7 @@ export class TranscriptionService {
 
     this.deepgramLive.on(LiveTranscriptionEvents.Transcript, (data) => {
       const transcript = data.channel.alternatives[0].transcript;
+      this.onInterrupt();
       
       // 'is_final' means the user paused long enough (300ms)
       if (transcript && data.is_final) {

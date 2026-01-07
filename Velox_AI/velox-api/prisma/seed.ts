@@ -3,7 +3,7 @@ import { PrismaClient } from '@prisma/client'
 const prisma = new PrismaClient()
 
 async function main() {
-  console.log('🌱 Starting seed...')
+  console.log(' Starting seed...')
 
   // 1. Upsert Organization (Create if not exists, otherwise update)
   const org = await prisma.organization.upsert({
@@ -33,7 +33,7 @@ async function main() {
     }
   })
 
-  console.log(`✅ Seeded: Org "${org.name}" | Agent "${agent.name}"`)
+  console.log(` Seeded: Org "${org.name}" | Agent "${agent.name}"`)
 }
 
 main()
