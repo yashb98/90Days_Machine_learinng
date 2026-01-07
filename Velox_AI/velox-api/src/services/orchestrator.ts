@@ -4,12 +4,14 @@ import { TranscriptionService } from "./transcriptionService";
 import { LLMService } from "./llmService";
 import { TtsService } from "./ttsService";
 import { SessionService } from "./sessionService";
+import { MetricsService } from "./metricsService";
 
 export class CallOrchestrator {
   private ws: WebSocket;
   private callSid: string;
   private streamSid: string;
   private agentId: string;
+  private metrics: MetricsService;
   
   // Services
   private transcriptionService: TranscriptionService | null = null;
@@ -25,6 +27,7 @@ export class CallOrchestrator {
     this.callSid = callSid;
     this.streamSid = streamSid;
     this.agentId = agentId;
+    this.metrics = new MetricsService()
 
     // Initialize Static Services
     this.llmService = new LLMService();
@@ -54,15 +57,28 @@ export class CallOrchestrator {
     this.currentInteractionId++;
     const myId = this.currentInteractionId;
 
-    try {
-      // 🧠 Brain
-      await this.llmService.generateResponse(userText, async (aiSentence) => {
-        if (myId !== this.currentInteractionId) return; // Interrupted?
+    // ⏱️ START TIMER (User stopped speaking)
+    this.metrics.startTurn(myId);
 
-        // 🗣️ Mouth
+    try {
+      // ⏱️ Mark LLM Start
+      this.metrics.mark(myId, "llmStart");
+
+      await this.llmService.generateResponse(userText, async (aiSentence) => {
+        if (myId !== this.currentInteractionId) return;
+
+        // ⏱️ Mark LLM First Token (We got the first sentence)
+        this.metrics.mark(myId, "llmFirstToken");
+        
+        // ⏱️ Mark TTS Start
+        this.metrics.mark(myId, "ttsStart");
+
         const audio = await this.ttsService.generateAudio(aiSentence);
         
-        if (myId !== this.currentInteractionId) return; // Interrupted?
+        // ⏱️ Mark TTS First Byte (We got audio)
+        this.metrics.mark(myId, "ttsFirstByte");
+
+        if (myId !== this.currentInteractionId) return;
 
         if (audio) this.sendAudio(audio);
       });
@@ -71,7 +87,6 @@ export class CallOrchestrator {
       this.playFallbackError();
     }
   }
-
   /**
    * Handle Barge-In
    */

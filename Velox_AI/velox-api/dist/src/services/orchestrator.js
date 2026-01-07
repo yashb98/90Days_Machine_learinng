@@ -10,6 +10,7 @@ const transcriptionService_1 = require("./transcriptionService");
 const llmService_1 = require("./llmService");
 const ttsService_1 = require("./ttsService");
 const sessionService_1 = require("./sessionService");
+const metricsService_1 = require("./metricsService");
 class CallOrchestrator {
     constructor(ws, callSid, streamSid, agentId) {
         // Services
@@ -21,6 +22,7 @@ class CallOrchestrator {
         this.callSid = callSid;
         this.streamSid = streamSid;
         this.agentId = agentId;
+        this.metrics = new metricsService_1.MetricsService();
         // Initialize Static Services
         this.llmService = new llmService_1.LLMService();
         this.ttsService = new ttsService_1.TtsService();
@@ -43,15 +45,23 @@ class CallOrchestrator {
             return;
         this.currentInteractionId++;
         const myId = this.currentInteractionId;
+        // ⏱️ START TIMER (User stopped speaking)
+        this.metrics.startTurn(myId);
         try {
-            // 🧠 Brain
+            // ⏱️ Mark LLM Start
+            this.metrics.mark(myId, "llmStart");
             await this.llmService.generateResponse(userText, async (aiSentence) => {
                 if (myId !== this.currentInteractionId)
-                    return; // Interrupted?
-                // 🗣️ Mouth
+                    return;
+                // ⏱️ Mark LLM First Token (We got the first sentence)
+                this.metrics.mark(myId, "llmFirstToken");
+                // ⏱️ Mark TTS Start
+                this.metrics.mark(myId, "ttsStart");
                 const audio = await this.ttsService.generateAudio(aiSentence);
+                // ⏱️ Mark TTS First Byte (We got audio)
+                this.metrics.mark(myId, "ttsFirstByte");
                 if (myId !== this.currentInteractionId)
-                    return; // Interrupted?
+                    return;
                 if (audio)
                     this.sendAudio(audio);
             });
