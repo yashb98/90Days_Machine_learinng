@@ -15,7 +15,7 @@ app_1.app.use("/voice", voice_1.default);
 // Create HTTP server
 const server = (0, http_1.createServer)(app_1.app);
 // Create WebSocket server
-const wss = new ws_1.WebSocketServer({ server, path: "/streams/voice" });
+const wss = new ws_1.WebSocketServer({ server, path: "/streams" });
 wss.on("connection", (ws, req) => {
     app_1.logger.info("New WebSocket connection established");
     (0, streamHandler_1.handleAudioStream)(ws, req);
