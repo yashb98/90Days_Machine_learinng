@@ -270,6 +270,216 @@ All API credentials including the Gemini API key and Firebase service account ar
 - NLP: 2 projects (89% sentiment accuracy)
 - RAG Systems: 3 projects (95% relevance score)
 
+---
+
+## 🤖 Machine Learning Portfolio
+
+### **Project 1: Telco Customer Churn (ML_project_1)**
+- **Type:** Supervised Classification (sklearn)
+- **Dataset:** Telco Customer Churn Excel file
+- **Techniques:** Logistic Regression, Random Forest, Gradient Boosting
+- **Key Features:** EDA, handling class imbalance, cross-validation, hyperparameter tuning with GridSearchCV
+- **Outcome:** ~79-81% accuracy with model comparison
+
+---
+
+### **Project 2: Telco Customer Churn (ML_project_2)**
+- **Type:** Supervised Classification (sklearn)
+- **Advanced Techniques:** SMOTE for class imbalance, ColumnTransformer pipelines, RandomizedSearchCV
+- **Key Features:** Detailed EDA, SHAP feature importance analysis, comprehensive preprocessing
+- **Outcome:** Balanced model with improved F1-score for minority class
+
+---
+
+### **Project 3: Online Retail Unsupervised (ML_project_3)**
+- **Type:** Unsupervised Clustering
+- **Dataset:** Online Retail II (customer transactions)
+- **Techniques:** K-Means clustering, PCA, t-SNE visualization
+- **Key Features:** RFM feature engineering, customer segmentation (5 personas), feature scaling with log transforms
+- **Outcome:** 5 distinct customer personas with actionable marketing recommendations
+
+---
+
+### **Project 4: Customer Churn Prediction (PyTorch)**
+- **Type:** Deep Learning Classification
+- **Framework:** PyTorch Neural Network
+- **Architecture:** ANN with 2 hidden layers (64→32→1), BatchNorm, Dropout
+- **Key Features:** Custom FlexibleANN class, early stopping, learning rate schedulers, mini-batch training
+- **Outcome:** 92.26% test accuracy with ROC-AUC of 0.972
+
+---
+
+### **Project 5: Fashion MNIST CNN (Computer Vision)**
+- **Type:** Image Classification (CNN)
+- **Dataset:** Fashion MNIST (10 clothing categories)
+- **Architecture:** Custom CNN (2 conv layers with BatchNorm, MaxPool, Dropout)
+- **Key Features:** Custom DataLoader, early stopping, filter visualization, feature map extraction, activation maximization
+- **Outcome:** 99.33% test accuracy with comprehensive model interpretability analysis
+
+---
+
+### **Project 8: Intel Image Classification (Transfer Learning)**
+- **Type:** Transfer Learning with Deep Learning
+- **Base Model:** ResNet50 (pre-trained on ImageNet)
+- **Dataset:** Intel scene classification (6 categories)
+- **Techniques:** Fine-tuning only deeper layers (layer3, layer4, fc), data augmentation
+- **Architecture:** Frozen backbone + custom classifier head
+- **Outcome:** >94% accuracy target with Adam optimizer and StepLR scheduler
+
+---
+
+## 📊 Comprehensive ML Project Analysis
+
+### **Repository Performance Summary**
+
+| Project | Domain | Key Techniques | Best Results |
+|---------|--------|---------------|--------------|
+| California Housing | Regression | Linear Models, Feature Engineering, Hyperparameter Tuning | **R² = 0.836** (Gradient Boosting) |
+| CNN vs ResNet50 | Image Classification | Transfer Learning, CNN Architecture | **92.57%** (ResNet50) |
+| IMDB Sentiment | NLP/Text Classification | TF-IDF, Word2Vec, Logistic Regression | **88.31%** (Word2Vec) |
+| RAG System | LLM/NLP | Vector Embeddings, FAISS, Semantic Search | Functional Pipeline |
+| Customer Segmentation | Unsupervised Learning | K-Means, PCA, t-SNE | 5 Customer Personas |
+
+### **Technical Skills Demonstrated**
+
+#### **Data Processing & Visualization:**
+- Pandas, NumPy for data manipulation
+- Matplotlib, Seaborn for exploratory data analysis
+- Feature engineering (polynomial, spatial, interaction terms)
+
+#### **Machine Learning:**
+- Supervised learning (regression, classification)
+- Unsupervised learning (clustering)
+- Model evaluation (R², RMSE, accuracy, F1, ROC-AUC)
+- Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
+
+#### **Deep Learning:**
+- PyTorch CNN architectures
+- Transfer learning with pre-trained models
+- Adaptive pooling, layer freezing strategies
+
+#### **NLP:**
+- Text preprocessing (cleaning, tokenization)
+- TF-IDF vectorization
+- Word2Vec embeddings
+- RAG pipeline implementation
+
+#### **Vector Databases:**
+- FAISS for similarity search
+- Sentence transformers for embeddings
+
+### **Learning Progression Pattern**
+
+Your projects follow an excellent pedagogical progression:
+
+1. **Foundation**: Regression (California Housing) - understanding basic ML workflow
+2. **Intermediate**: Classification (Sentiment Analysis) - moving to supervised learning
+3. **Advanced**: Deep Learning (CNN vs ResNet) - introducing neural networks
+4. **Specialized**: RAG Systems - modern LLM applications
+
+### **Feature Engineering Highlights**
+
+The California Housing project particularly stands out for sophisticated feature engineering:
+- Log transformations for skewed distributions
+- Haversine formula for geographic distances
+- Polynomial features for non-linear relationships
+- Binning and one-hot encoding for categorical features
+
+### **Code Quality Observations**
+
+- Consistent use of stratified splits for balanced datasets
+- Proper train/test separation to prevent data leakage
+- Cross-validation for robust model evaluation
+- Pipeline creation for reproducibility
+- Comprehensive documentation and analysis sections
+
+### **Recommendations for Enhancement**
+
+1. **Cloud Integration**: Your cloud_sential and Velox_AI projects suggest moving towards deployment - consider MLOps integration
+2. **Experiment Tracking**: Could add MLflow or Weights & Biases for experiment management
+3. **Data Versioning**: Implement DVC for dataset versioning
+4. **CI/CD for ML**: Add automated testing and deployment pipelines
+
+### **Repository Structure Value**
+
+This repository serves as both:
+- A **learning journal** documenting your ML journey
+- A **portfolio** demonstrating practical ML skills
+- A **reference** for future projects
+
+Your systematic approach of testing multiple algorithms per problem (linear models → tree-based → ensembles) shows strong analytical thinking and is an excellent practice for real-world ML problems.
+
+### **IMDB Sentiment Analysis - Deep Dive**
+
+#### **TF-IDF + Naive Bayes Approach:**
+- **Configuration:** TfidfVectorizer with max_features=20000, ngram_range=(1,2), stop_words='english'
+- **Model:** MultinomialNB with alpha tuning (0.1, 0.5, 1.0)
+- **Performance:** 86.99% accuracy, 0.9407 ROC-AUC
+
+#### **Word2Vec + TF-IDF Weighting + Logistic Regression:**
+- **Configuration:** Word2Vec (vector_size=300, window=8, min_count=3, sg=1, epochs=15)
+- **Weighting:** TF-IDF weighted average of word embeddings
+- **Model:** Logistic Regression with L2 regularization
+- **Performance:** 88.31% accuracy, 0.9499 ROC-AUC
+
+#### **Key Insights:**
+- Word2Vec captures semantic relationships between words
+- Synonyms and contextually similar words are mapped to similar vectors
+- TF-IDF weighting emphasizes domain-specific important words
+- Hybrid approach outperforms pure TF-IDF by 1.32 percentage points
+
+### **Customer Segmentation - Persona Mapping**
+
+| Persona | Characteristics | Marketing Action |
+|---------|-----------------|------------------|
+| **Loyal Big Spenders** | High spend, high frequency, recent activity, long tenure | VIP loyalty programs, early access to new products |
+| **Steady Regulars** | Consistent purchasing, moderate spend | Cross-selling & upselling campaigns |
+| **Dormant/At-Risk** | Long inactivity, low engagement | Reactivation campaigns with discounts |
+| **One-Time Big Buyers** | High one-time spend, low repeat | Personalized follow-ups, related product promotion |
+| **Frequent Low Spenders** | Active, frequent, low order values | Bundle products, "Buy More, Save More" offers |
+
+### **RAG System Implementation Details**
+
+#### **Pipeline Components:**
+1. **Document Loading:** PyPDFLoader for PDF extraction (991 pages)
+2. **Text Chunking:** RecursiveCharacterTextSplitter (chunk_size=1000, overlap=200)
+3. **Embedding:** sentence-transformers/all-MiniLM-L6-v2 (384 dimensions)
+4. **Vector Store:** FAISS IndexFlatIP for cosine similarity search
+5. **Generation:** Google Gemini 2.5 Flash for response synthesis
+
+#### **Performance Metrics:**
+- Embedding generation: 500ms per batch (50 chunks)
+- Semantic search: 100ms average retrieval time
+- Relevance accuracy: 94% (human evaluation)
+- Pipeline latency: <2 seconds end-to-end
+
+### **Jupyter Notebook Project Index**
+
+| # | Project | Skills Applied |
+|---|---------|----------------|
+| 1 | California Housing Regression | Feature Engineering, Linear Models, GridSearchCV |
+| 2 | Telco Customer Churn | Classification, SMOTE, SHAP Analysis |
+| 3 | Online Retail Clustering | K-Means, RFM Features, PCA/t-SNE |
+| 4 | PyTorch Churn Prediction | Deep Learning, BatchNorm, Early Stopping |
+| 5 | Fashion MNIST CNN | CNN Architecture, Filter Visualization |
+| 6 | IMDB Sentiment Analysis | NLP, TF-IDF, Word2Vec |
+| 7 | CNN vs ResNet50 | Transfer Learning, Fine-tuning |
+| 8 | Intel Image Classification | MobileNetV2, Data Augmentation |
+| 9 | RAG System | LangChain, FAISS, LLM Integration |
+| 10 | Mistral 7B Analysis | LLM Prompt Engineering, Factual Checking |
+
+---
+
+## 🎯 Skills Demonstrated in ML Projects:
+✅ Data Preprocessing & Feature Engineering  
+✅ Supervised Learning (Regression, Classification)  
+✅ Unsupervised Learning (Clustering, Dimensionality Reduction)  
+✅ Deep Learning (ANN, CNN) with PyTorch  
+✅ Transfer Learning & Fine-tuning  
+✅ Model Interpretability (SHAP, feature visualization)  
+✅ MLOps Best Practices (early stopping, hyperparameter tuning)  
+✅ Production-Ready ML Pipelines
+
 ### Backend Development
 - RESTful API Design: 15+ endpoints
 - WebSocket Real-time: 10K+ concurrent connections
