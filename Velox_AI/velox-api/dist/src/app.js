@@ -11,6 +11,7 @@ const helmet_1 = __importDefault(require("helmet"));
 const pino_http_1 = require("pino-http");
 const pino_1 = __importDefault(require("pino"));
 const rateLimiter_1 = require("./middleware/rateLimiter");
+const documentRoutes_1 = __importDefault(require("./routes/documentRoutes"));
 let uuidv4;
 import("uuid").then((uuid) => {
     uuidv4 = uuid.v4;
@@ -43,3 +44,4 @@ app.use((0, pino_http_1.pinoHttp)({
 app.get("/health", (req, res) => {
     res.status(200).json({ status: "ok", version: process.env.npm_package_version });
 });
+app.use("/api/documents", documentRoutes_1.default);

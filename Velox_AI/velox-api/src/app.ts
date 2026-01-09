@@ -6,6 +6,7 @@ import { pinoHttp } from "pino-http";
 import pino from "pino";
 import { rateLimiter } from "./middleware/rateLimiter";
 import type { Redis } from "ioredis";
+import documentRoutes from "./routes/documentRoutes";
 
 let uuidv4: () => string;
 
@@ -46,6 +47,7 @@ app.get("/health", (req, res) => {
   res.status(200).json({ status: "ok", version: process.env.npm_package_version });
 });
 
+app.use("/api/documents", documentRoutes);
 // Placeholder for Routes (We'll add these later)
 // app.use("/api/v1", routes);
 
