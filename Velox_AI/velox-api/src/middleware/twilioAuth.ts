@@ -1,6 +1,6 @@
 import { Request, Response, NextFunction } from "express";
 import { validateRequest } from "twilio";
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 export const validateTwilioWebhook = (req: Request, res: Response, next: NextFunction) => {
   // Skip validation in local dev if we are just testing with Postman/Curl

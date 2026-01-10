@@ -3,7 +3,7 @@ import multer from "multer";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import { EmbeddingService } from "../services/embeddingService";
 import { pool } from "../db"; // Assuming you have a DB connection exported
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 // pdf-parse is a CommonJS module, need to handle it properly
 // eslint-disable-next-line @typescript-eslint/no-var-requires

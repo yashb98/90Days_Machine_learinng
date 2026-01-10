@@ -8,7 +8,7 @@ const multer_1 = __importDefault(require("multer"));
 const textsplitters_1 = require("@langchain/textsplitters");
 const embeddingService_1 = require("../services/embeddingService");
 const db_1 = require("../db"); // Assuming you have a DB connection exported
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 // pdf-parse is a CommonJS module, need to handle it properly
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const pdfParseModule = require("pdf-parse");
@@ -47,13 +47,13 @@ router.post("/upload", uploadMiddleware, async (req, res) => {
             res.status(400).json({ error: "No file uploaded. Please use field name 'file' in your multipart form data." });
             return;
         }
-        app_1.logger.info(` Processing file: ${req.file.originalname}`);
+        logger_1.logger.info(` Processing file: ${req.file.originalname}`);
         // 1. Parse Text from PDF
         const pdfParser = new PDFParse({ data: req.file.buffer });
         const data = await pdfParser.getText();
         const fullText = data.text;
         if (!fullText || fullText.trim().length === 0) {
-            app_1.logger.warn("PDF appears to be empty or unreadable");
+            logger_1.logger.warn("PDF appears to be empty or unreadable");
             res.status(400).json({ error: "PDF file appears to be empty or unreadable" });
             return;
         }
@@ -63,7 +63,7 @@ router.post("/upload", uploadMiddleware, async (req, res) => {
             chunkOverlap: 50, // Context overlap
         });
         const chunks = await splitter.createDocuments([fullText]);
-        app_1.logger.info(`🔪 Split into ${chunks.length} chunks. Generating embeddings...`);
+        logger_1.logger.info(`🔪 Split into ${chunks.length} chunks. Generating embeddings...`);
         // 3. Generate Embeddings & Insert into DB
         let savedCount = 0;
         let errorCount = 0;
@@ -79,26 +79,26 @@ router.post("/upload", uploadMiddleware, async (req, res) => {
                 }
                 else {
                     errorCount++;
-                    app_1.logger.warn("Failed to generate embedding for a chunk");
+                    logger_1.logger.warn("Failed to generate embedding for a chunk");
                 }
             }
             catch (chunkError) {
                 errorCount++;
-                app_1.logger.error({
+                logger_1.logger.error({
                     error: chunkError?.message || String(chunkError),
                     stack: chunkError?.stack
                 }, "Error processing chunk");
             }
         }
         if (savedCount === 0) {
-            app_1.logger.error("No chunks were successfully saved");
+            logger_1.logger.error("No chunks were successfully saved");
             res.status(500).json({
                 error: "Failed to process document. No chunks were saved.",
                 details: errorCount > 0 ? `${errorCount} chunks failed to process` : undefined
             });
             return;
         }
-        app_1.logger.info(` Successfully indexed ${savedCount} chunks.`);
+        logger_1.logger.info(` Successfully indexed ${savedCount} chunks.`);
         res.json({
             status: "success",
             chunks: savedCount,
@@ -113,7 +113,7 @@ router.post("/upload", uploadMiddleware, async (req, res) => {
             name: error?.name,
             ...(error?.code && { code: error.code })
         };
-        app_1.logger.error({ error: errorDetails }, "Ingestion failed");
+        logger_1.logger.error({ error: errorDetails }, "Ingestion failed");
         res.status(500).json({
             error: "Internal Server Error",
             message: error?.message || "An unexpected error occurred during document processing"

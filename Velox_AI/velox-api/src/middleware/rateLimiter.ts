@@ -1,6 +1,6 @@
 import { Request, Response, NextFunction } from "express";
 import redis from "../config/redis";
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 const MAX_CALLS_PER_MINUTE = 50;
 

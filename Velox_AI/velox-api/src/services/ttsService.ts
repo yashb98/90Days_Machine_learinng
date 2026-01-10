@@ -1,6 +1,6 @@
 import { createClient } from "@deepgram/sdk";
 // import { ReadableStream } from "stream/web"; // Node 18+ specific
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 export class TtsService {
   private deepgram: any;

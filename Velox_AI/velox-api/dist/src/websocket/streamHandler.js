@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.handleAudioStream = void 0;
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 const orchestrator_1 = require("../services/orchestrator"); // The new Manager
 const handleAudioStream = (ws, req) => {
     // We no longer manage individual services here. 
@@ -12,12 +12,12 @@ const handleAudioStream = (ws, req) => {
             const msg = JSON.parse(message.toString());
             switch (msg.event) {
                 case "connected":
-                    app_1.logger.info("Audio Stream Connected");
+                    logger_1.logger.info("Audio Stream Connected");
                     break;
                 case "start":
                     const { callSid, streamSid } = msg.start;
                     const agentId = msg.start.customParameters?.agentId || "default";
-                    app_1.logger.info(`📞 Call Started: ${callSid}`);
+                    logger_1.logger.info(`📞 Call Started: ${callSid}`);
                     // Initialize the Orchestrator
                     // This handles Ear, Brain, Mouth, and Interruption logic internally
                     orchestrator = new orchestrator_1.CallOrchestrator(ws, callSid, streamSid, agentId);
@@ -29,18 +29,18 @@ const handleAudioStream = (ws, req) => {
                     }
                     break;
                 case "stop":
-                    app_1.logger.info("Call Ended");
+                    logger_1.logger.info("Call Ended");
                     if (orchestrator)
                         orchestrator.cleanup();
                     break;
             }
         }
         catch (err) {
-            app_1.logger.error({ err }, "WebSocket Message Error");
+            logger_1.logger.error({ err }, "WebSocket Message Error");
         }
     });
     ws.on("close", () => {
-        app_1.logger.info("🔌 Stream Disconnected");
+        logger_1.logger.info("🔌 Stream Disconnected");
         if (orchestrator)
             orchestrator.cleanup();
     });

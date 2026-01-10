@@ -1,4 +1,4 @@
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 interface InteractionMetrics {
   id: number;

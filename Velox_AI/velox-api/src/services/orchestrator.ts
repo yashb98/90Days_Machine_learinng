@@ -1,10 +1,12 @@
 import WebSocket from "ws";
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 import { TranscriptionService } from "./transcriptionService";
 import { LLMService } from "./llmService";
 import { TtsService } from "./ttsService";
 import { SessionService } from "./sessionService";
 import { MetricsService } from "./metricsService";
+import { RetrievalService } from "./retrievalService";
+
 
 export class CallOrchestrator {
   private ws: WebSocket;
@@ -12,7 +14,7 @@ export class CallOrchestrator {
   private streamSid: string;
   private agentId: string;
   private metrics: MetricsService;
-  
+  private retrievalService: RetrievalService;
   // Services
   private transcriptionService: TranscriptionService | null = null;
   private llmService: LLMService;
@@ -28,7 +30,7 @@ export class CallOrchestrator {
     this.streamSid = streamSid;
     this.agentId = agentId;
     this.metrics = new MetricsService()
-
+    this.retrievalService = new RetrievalService();
     // Initialize Static Services
     this.llmService = new LLMService();
     this.ttsService = new TtsService();
@@ -61,6 +63,16 @@ export class CallOrchestrator {
     this.metrics.startTurn(myId);
 
     try {
+
+      // Search the database for relevant info before asking LLM
+      const context = await this.retrievalService.search(userText);
+
+      if (context) {
+        logger.info(`🔍 Found ${context.length} relevant chunks in the database.`);
+      } else {
+        logger.info("🔍 No relevant chunks found in the database.");
+      }
+
       // ⏱️ Mark LLM Start
       this.metrics.mark(myId, "llmStart");
 

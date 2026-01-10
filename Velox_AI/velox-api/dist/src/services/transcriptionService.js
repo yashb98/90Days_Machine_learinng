@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.TranscriptionService = void 0;
 const sdk_1 = require("@deepgram/sdk");
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 class TranscriptionService {
     constructor(onTranscript, onInterrupt) {
         this.onTranscript = onTranscript;
@@ -23,14 +23,14 @@ class TranscriptionService {
     }
     setupEventListeners() {
         this.deepgramLive.on(sdk_1.LiveTranscriptionEvents.Open, () => {
-            app_1.logger.info("Deepgram Connection Opened");
+            logger_1.logger.info("Deepgram Connection Opened");
         });
         this.deepgramLive.on(sdk_1.LiveTranscriptionEvents.Transcript, (data) => {
             const transcript = data.channel.alternatives[0].transcript;
             this.onInterrupt();
             // 'is_final' means the user paused long enough (300ms)
             if (transcript && data.is_final) {
-                app_1.logger.info(`USER (Final): ${transcript}`);
+                logger_1.logger.info(`USER (Final): ${transcript}`);
                 this.onTranscript(transcript);
                 // TODO: Send this text to the LLM (Day 7)
             }
@@ -40,11 +40,11 @@ class TranscriptionService {
             }
         });
         this.deepgramLive.on(sdk_1.LiveTranscriptionEvents.Error, (err) => {
-            app_1.logger.error({ err }, "Deepgram Error");
+            logger_1.logger.error({ err }, "Deepgram Error");
         });
         // "UtteranceEnd" is the hard VAD signal - Silence detected
         this.deepgramLive.on(sdk_1.LiveTranscriptionEvents.UtteranceEnd, () => {
-            app_1.logger.info("Silence Detected (Turn Finished)");
+            logger_1.logger.info("Silence Detected (Turn Finished)");
         });
     }
     /**
@@ -58,7 +58,7 @@ class TranscriptionService {
         }
     }
     close() {
-        app_1.logger.info("Closing Deepgram Connection");
+        logger_1.logger.info("Closing Deepgram Connection");
         this.deepgramLive.finish();
     }
 }

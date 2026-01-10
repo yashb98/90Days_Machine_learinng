@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.MetricsService = void 0;
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 class MetricsService {
     constructor() {
         this.metrics = new Map();
@@ -41,7 +41,7 @@ class MetricsService {
             // TOTAL Time from Silence -> AI Sound
             total_e2e_latency_ms: m.ttsFirstByte - m.startTime
         };
-        app_1.logger.info(report, "Performance Metrics");
+        logger_1.logger.info(report, "Performance Metrics");
         // Clean up memory
         this.metrics.delete(interactionId);
     }

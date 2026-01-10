@@ -1,6 +1,7 @@
 // velox-api/src/server.ts
 import "dotenv/config";
-import { app, logger } from "./app";
+import { app } from "./app";
+import { logger} from "./utils/logger";
 import {createServer} from "http";
 import {WebSocketServer} from "ws";
 import voiceRoutes from "./routes/voice";

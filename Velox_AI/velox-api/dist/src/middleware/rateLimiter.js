@@ -5,7 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.rateLimiter = void 0;
 const redis_1 = __importDefault(require("../config/redis"));
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 const MAX_CALLS_PER_MINUTE = 50;
 /**
  * Middleware to block Organizations exceeding limits.
@@ -23,7 +23,7 @@ const rateLimiter = async (req, res, next) => {
             await redis_1.default.expire(key, 60);
         }
         if (currentCount > MAX_CALLS_PER_MINUTE) {
-            app_1.logger.warn(`🚫 Rate limit exceeded for Org ${orgId}`);
+            logger_1.logger.warn(`🚫 Rate limit exceeded for Org ${orgId}`);
             res.status(429).json({
                 error: "Too Many Requests",
                 retry_after: await redis_1.default.ttl(key)
@@ -36,7 +36,7 @@ const rateLimiter = async (req, res, next) => {
         next();
     }
     catch (error) {
-        app_1.logger.error({ err: error }, "Rate limiter error");
+        logger_1.logger.error({ err: error }, "Rate limiter error");
         // Fail open: If Redis is down, let the request through rather than blocking everyone
         next();
     }

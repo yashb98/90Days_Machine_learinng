@@ -4,7 +4,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const ioredis_1 = __importDefault(require("ioredis"));
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 const redisConfig = {
     host: process.env.REDIS_HOST || "localhost",
     port: parseInt(process.env.REDIS_PORT || "6379"),
@@ -17,9 +17,9 @@ const redisConfig = {
 // The Singleton Instance
 const redis = new ioredis_1.default(redisConfig);
 redis.on("connect", () => {
-    app_1.logger.info("Redis connected successfully");
+    logger_1.logger.info("Redis connected successfully");
 });
 redis.on("error", (err) => {
-    app_1.logger.error({ err }, "Redis connection error");
+    logger_1.logger.error({ err }, "Redis connection error");
 });
 exports.default = redis;

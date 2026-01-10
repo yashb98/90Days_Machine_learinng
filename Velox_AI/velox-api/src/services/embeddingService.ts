@@ -1,5 +1,5 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 // Use the same environment variable name as llmService for consistency
 const apiKey = process.env.GOOGLE_API_KEY || process.env.GEMINI_API_KEY || "";

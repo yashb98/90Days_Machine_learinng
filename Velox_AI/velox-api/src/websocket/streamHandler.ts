@@ -1,6 +1,7 @@
 import WebSocket from "ws";
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 import { CallOrchestrator } from "../services/orchestrator"; // The new Manager
+import { RetrievalService } from "../services/retrievalService";
 
 export const handleAudioStream = (ws: WebSocket, req: any) => {
   // We no longer manage individual services here. 

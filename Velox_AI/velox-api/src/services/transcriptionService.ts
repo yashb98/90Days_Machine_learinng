@@ -1,5 +1,5 @@
 import { createClient, LiveClient, LiveTranscriptionEvents } from "@deepgram/sdk";
-import { logger } from "../app";
+import { logger } from "../utils/logger";
 
 type TranscriptCallback = (text: string) => void;
 type InterruptCallback = () => void;

@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.TtsService = void 0;
 const sdk_1 = require("@deepgram/sdk");
 // import { ReadableStream } from "stream/web"; // Node 18+ specific
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 class TtsService {
     constructor() {
         this.deepgram = (0, sdk_1.createClient)(process.env.DEEPGRAM_API_KEY || "");
@@ -27,7 +27,7 @@ class TtsService {
             return null;
         }
         catch (error) {
-            app_1.logger.error({ error }, "TTS Generation Error");
+            logger_1.logger.error({ error }, "TTS Generation Error");
             return null;
         }
     }

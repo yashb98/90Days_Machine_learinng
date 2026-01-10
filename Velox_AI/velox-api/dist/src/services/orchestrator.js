@@ -5,12 +5,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.CallOrchestrator = void 0;
 const ws_1 = __importDefault(require("ws"));
-const app_1 = require("../app");
+const logger_1 = require("../utils/logger");
 const transcriptionService_1 = require("./transcriptionService");
 const llmService_1 = require("./llmService");
 const ttsService_1 = require("./ttsService");
 const sessionService_1 = require("./sessionService");
 const metricsService_1 = require("./metricsService");
+const retrievalService_1 = require("./retrievalService");
 class CallOrchestrator {
     constructor(ws, callSid, streamSid, agentId) {
         // Services
@@ -23,6 +24,7 @@ class CallOrchestrator {
         this.streamSid = streamSid;
         this.agentId = agentId;
         this.metrics = new metricsService_1.MetricsService();
+        this.retrievalService = new retrievalService_1.RetrievalService();
         // Initialize Static Services
         this.llmService = new llmService_1.LLMService();
         this.ttsService = new ttsService_1.TtsService();
@@ -48,6 +50,14 @@ class CallOrchestrator {
         // ⏱️ START TIMER (User stopped speaking)
         this.metrics.startTurn(myId);
         try {
+            // Search the database for relevant info before asking LLM
+            const context = await this.retrievalService.search(userText);
+            if (context) {
+                logger_1.logger.info(`🔍 Found ${context.length} relevant chunks in the database.`);
+            }
+            else {
+                logger_1.logger.info("🔍 No relevant chunks found in the database.");
+            }
             // ⏱️ Mark LLM Start
             this.metrics.mark(myId, "llmStart");
             await this.llmService.generateResponse(userText, async (aiSentence) => {
@@ -67,7 +77,7 @@ class CallOrchestrator {
             });
         }
         catch (error) {
-            app_1.logger.error({ error }, "Pipeline Error");
+            logger_1.logger.error({ error }, "Pipeline Error");
             this.playFallbackError();
         }
     }
@@ -75,7 +85,7 @@ class CallOrchestrator {
      * Handle Barge-In
      */
     handleInterruption() {
-        app_1.logger.info(" Interruption detected");
+        logger_1.logger.info(" Interruption detected");
         this.currentInteractionId++; // Invalidate pending actions
         this.sendClearMessage();
     }
@@ -83,7 +93,7 @@ class CallOrchestrator {
      * Error Recovery: The "Safety Net"
      */
     async playFallbackError() {
-        app_1.logger.warn(" Triggering Fallback Audio");
+        logger_1.logger.warn(" Triggering Fallback Audio");
         // In a real app, load a pre-recorded WAV file here.
         // For now, we try to generate a quick apology.
         try {
@@ -92,7 +102,7 @@ class CallOrchestrator {
                 this.sendAudio(audio);
         }
         catch (e) {
-            app_1.logger.error(" Critical: Even Fallback Failed");
+            logger_1.logger.error(" Critical: Even Fallback Failed");
         }
     }
     // --- WebSocket Helpers ---
@@ -121,7 +131,7 @@ class CallOrchestrator {
         this.isAlive = false;
         if (this.transcriptionService)
             this.transcriptionService.close();
-        app_1.logger.info(` Orchestrator cleaned up for ${this.callSid}`);
+        logger_1.logger.info(` Orchestrator cleaned up for ${this.callSid}`);
     }
 }
 exports.CallOrchestrator = CallOrchestrator;
