@@ -1,70 +1,100 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.LLMService = void 0;
-const generative_ai_1 = require("@google/generative-ai");
 const logger_1 = require("../utils/logger");
+const definitions_1 = require("../tools/definitions");
+const registry_1 = require("../tools/registry");
 class LLMService {
     constructor() {
-        this.genAI = new generative_ai_1.GoogleGenerativeAI(process.env.GOOGLE_API_KEY || "");
-        this.model = this.genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
-        // Default Persona (We will make this dynamic later)
+        this.client = null;
+        // ✅ NOW we can use the latest model!
+        this.modelName = "gemini-2.0-flash-exp";
         this.systemPrompt = `
       You are a helpful assistant named Velox.
       Tone: Professional but friendly.
       Constraint: Keep answers concise (under 2 sentences). 
-      Do NOT use emojis. Spoken responses only.
+      If you need to use a tool, do it silently.
     `;
     }
-    /**
-     * Generates a streaming response from Gemini
-     * @param input The user's spoken text
-     * @param onSentence A callback function that triggers whenever a full sentence is ready
-     * @param context (Optional) Retrieved knowledge base content from RAG
-     */
+    // 2. Helper to load the SDK dynamically (Lazy Loading)
+    async getClient() {
+        if (this.client)
+            return this.client;
+        // ⚠️ DYNAMIC IMPORT: This fixes the "require" error
+        const { GoogleGenAI } = await import("@google/genai");
+        this.client = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+        console.log("--------------------------------------------------");
+        console.log("🛠️  LLM Service Initialized (Dynamic Import)");
+        console.log(`🤖  Model: ${this.modelName}`);
+        console.log("--------------------------------------------------");
+        return this.client;
+    }
     async generateResponse(input, onSentence, context = "") {
         try {
-            // 1. Dynamically inject context if available
-            let currentPrompt = this.systemPrompt;
+            // 3. Ensure Client is Loaded before using it
+            const client = await this.getClient();
+            let instructions = this.systemPrompt;
             if (context) {
-                currentPrompt += `
-        \n\n=== RELEVANT KNOWLEDGE BASE ===
-        ${context}
-        ===============================
-        Use the knowledge base above to answer the user's question. 
-        If the answer is not in the context, say "I'm sorry, I don't have that information in my records."
-        `;
+                instructions += `\n\n=== KNOWLEDGE BASE ===\n${context}\n======================`;
             }
-            // 2. Send the request
-            const result = await this.model.generateContentStream({
-                contents: [
-                    { role: "user", parts: [{ text: currentPrompt + "\nUser: " + input }] }
-                ],
+            // 4. Start Chat
+            const chat = client.chats.create({
+                model: this.modelName,
+                config: {
+                    systemInstruction: instructions,
+                    tools: [{ functionDeclarations: definitions_1.tools }],
+                },
             });
-            let buffer = "";
-            for await (const chunk of result.stream) {
-                const text = chunk.text();
-                buffer += text;
-                // Check if we have a complete sentence/phrase
-                const punctuationRegex = /[.?!]+/;
-                const match = buffer.match(punctuationRegex);
-                if (match && match.index !== undefined) {
-                    const splitIndex = match.index + match[0].length;
-                    const sentence = buffer.slice(0, splitIndex).trim();
-                    if (sentence) {
-                        logger_1.logger.info(`🤖 AI (Thinking): ${sentence}`);
-                        onSentence(sentence);
-                    }
-                    buffer = buffer.slice(splitIndex);
+            let response = await chat.send({
+                model: this.modelName,
+                config: { outputModalities: ["TEXT"] },
+                parts: [{ text: input }],
+            });
+            // 5. Tool Loop
+            let functionCalls = response.functionCalls;
+            while (functionCalls && functionCalls.length > 0) {
+                const call = functionCalls[0];
+                const { name, args } = call;
+                logger_1.logger.info(`🤖 AI wants to execute: ${name}(${JSON.stringify(args)})`);
+                // @ts-ignore
+                const functionToCall = registry_1.toolRegistry[name];
+                if (functionToCall) {
+                    const apiResult = await functionToCall(args);
+                    logger_1.logger.info(`✅ Tool Result: ${JSON.stringify(apiResult)}`);
+                    response = await chat.send({
+                        parts: [{
+                                functionResponse: {
+                                    name: name,
+                                    response: apiResult,
+                                },
+                            }],
+                    });
+                    functionCalls = response.functionCalls;
+                }
+                else {
+                    break;
                 }
             }
-            if (buffer.trim()) {
-                logger_1.logger.info(`🤖 AI (Final): ${buffer.trim()}`);
-                onSentence(buffer.trim());
+            const text = response.text;
+            if (text) {
+                this.processBuffer(text, onSentence);
             }
         }
         catch (error) {
             logger_1.logger.error({ error }, "Error generating LLM response");
+            console.error("❌ GEMINI ERROR:", JSON.stringify(error, null, 2));
+            onSentence("I'm having trouble connecting right now.");
         }
+    }
+    processBuffer(text, onSentence) {
+        const sentences = text.match(/[^.?!]+[.?!]+|[^.?!]+$/g) || [text];
+        sentences.forEach((sentence) => {
+            const trimmed = sentence.trim();
+            if (trimmed) {
+                logger_1.logger.info(`🤖 AI (Speaking): ${trimmed}`);
+                onSentence(trimmed);
+            }
+        });
     }
 }
 exports.LLMService = LLMService;

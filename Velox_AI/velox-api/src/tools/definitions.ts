@@ -1,0 +1,34 @@
+// ⚠️ CRITICAL: Use 'import type'. 
+// This tells TypeScript "use this for checking, but DELETE it from the runtime code."
+import {GoogleGenAI, FunctionDeclaration} from '@google/genai';
+
+export const tools: import("@google/genai").FunctionDeclaration[] =  [
+  {
+    name: "check_order_status",
+    description: "Look up the current status of a customer's order using their Order ID.",
+    parametersJsonSchema: {
+      type: "object",
+      properties: {
+        order_id: {
+          type: "string",
+          description: "The order ID (e.g., ORD-12345)",
+        },
+      },
+      required: ["order_id"],
+    },
+  },
+  {
+    name: "check_item_stock",
+    description: "Check if an item is available in the warehouse.",
+    parametersJsonSchema: {
+      type: "object",
+      properties: {
+        item_name: {
+          type: "string",
+          description: "The name of the product",
+        },
+      },
+      required: ["item_name"],
+    },
+  },
+];

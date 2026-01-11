@@ -26,7 +26,7 @@ export class RetrievalService {
       const sql = `
         SELECT content, 1 - (embedding <=> $1) as similarity
         FROM document_chunks
-        WHERE 1 - (embedding <=> $1) > 0.5  -- Threshold: Ignore irrelevant chunks
+        WHERE 1 - (embedding <=> $1) > 0.3  -- Threshold: Ignore irrelevant chunks
         ORDER BY similarity DESC
         LIMIT $2;
       `;

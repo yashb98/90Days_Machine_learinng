@@ -8,13 +8,19 @@ async function test() {
   const retrieval = new RetrievalService();
   const llm = new LLMService();
 
-  const question = "Where did Yash go to university?"; // Ask something from your resume!
+  const question = "Where did Yash go to university?"; 
   console.log(`\n❓ Asking: "${question}"...`);
 
   // 1. Search
   console.log("🔍 Searching database...");
   const context = await retrieval.search(question);
   
+  // --- DEBUGGING: SEE WHAT THE DB FOUND ---
+  console.log("\n📄 --- RETRIEVED CONTEXT (What the AI sees) ---");
+  console.log(context ? context : "⚠️ EMPTY CONTEXT"); 
+  console.log("-----------------------------------------------\n");
+  // ----------------------------------------
+
   if (context) {
     console.log("✅ Context Found!");
   } else {
@@ -23,22 +29,19 @@ async function test() {
 
   // 2. Ask LLM
   console.log("🧠 Generating Answer...");
-// Create a variable to hold the full answer
+  
   let fullAnswer = "";
 
-  // Call the function with the correct arguments
   await llm.generateResponse(
     question, 
     (sentence) => {
-      // This callback runs every time the AI finishes a sentence
-      process.stdout.write(sentence + " "); // Print directly to console
-      fullAnswer += sentence + " ";         // Accumulate full text
+      process.stdout.write(sentence + " "); 
+      fullAnswer += sentence + " ";         
     }, 
     context
   );
 
-  console.log("\n\n Final Answer Captured:", fullAnswer);
-  
+  console.log("\n\n✅ Final Answer Captured:", fullAnswer);
   
   process.exit(0);
 }
