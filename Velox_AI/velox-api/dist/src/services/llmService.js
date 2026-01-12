@@ -7,8 +7,7 @@ const registry_1 = require("../tools/registry");
 class LLMService {
     constructor() {
         this.client = null;
-        // ✅ NOW we can use the latest model!
-        this.modelName = "gemini-2.0-flash-exp";
+        this.modelName = "gemini-2.5-flash";
         this.systemPrompt = `
       You are a helpful assistant named Velox.
       Tone: Professional but friendly.
@@ -16,13 +15,13 @@ class LLMService {
       If you need to use a tool, do it silently.
     `;
     }
-    // 2. Helper to load the SDK dynamically (Lazy Loading)
+    // Helper to load the SDK dynamically (Lazy Loading)
     async getClient() {
         if (this.client)
             return this.client;
-        // ⚠️ DYNAMIC IMPORT: This fixes the "require" error
-        const { GoogleGenAI } = await import("@google/genai");
-        this.client = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+        // DYNAMIC IMPORT: This fixes the "require" error
+        const genai = await import("@google/genai");
+        this.client = new genai.GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "" });
         console.log("--------------------------------------------------");
         console.log("🛠️  LLM Service Initialized (Dynamic Import)");
         console.log(`🤖  Model: ${this.modelName}`);
@@ -31,13 +30,13 @@ class LLMService {
     }
     async generateResponse(input, onSentence, context = "") {
         try {
-            // 3. Ensure Client is Loaded before using it
+            // Ensure Client is Loaded before using it
             const client = await this.getClient();
             let instructions = this.systemPrompt;
             if (context) {
                 instructions += `\n\n=== KNOWLEDGE BASE ===\n${context}\n======================`;
             }
-            // 4. Start Chat
+            // Start Chat using new SDK pattern
             const chat = client.chats.create({
                 model: this.modelName,
                 config: {
@@ -45,23 +44,22 @@ class LLMService {
                     tools: [{ functionDeclarations: definitions_1.tools }],
                 },
             });
-            let response = await chat.send({
-                model: this.modelName,
-                config: { outputModalities: ["TEXT"] },
+            // Use sendMessage instead of send
+            let response = await chat.sendMessage({
                 parts: [{ text: input }],
             });
-            // 5. Tool Loop
+            // Tool Loop
             let functionCalls = response.functionCalls;
             while (functionCalls && functionCalls.length > 0) {
                 const call = functionCalls[0];
                 const { name, args } = call;
-                logger_1.logger.info(`🤖 AI wants to execute: ${name}(${JSON.stringify(args)})`);
+                logger_1.logger.info(`AI wants to execute: ${name}(${JSON.stringify(args)})`);
                 // @ts-ignore
                 const functionToCall = registry_1.toolRegistry[name];
                 if (functionToCall) {
                     const apiResult = await functionToCall(args);
-                    logger_1.logger.info(`✅ Tool Result: ${JSON.stringify(apiResult)}`);
-                    response = await chat.send({
+                    logger_1.logger.info(`Tool Result: ${JSON.stringify(apiResult)}`);
+                    response = await chat.sendMessage({
                         parts: [{
                                 functionResponse: {
                                     name: name,
@@ -82,7 +80,13 @@ class LLMService {
         }
         catch (error) {
             logger_1.logger.error({ error }, "Error generating LLM response");
-            console.error("❌ GEMINI ERROR:", JSON.stringify(error, null, 2));
+            // Detailed error logging for debugging
+            console.error("❌ GEMINI ERROR (Raw):", error);
+            console.error("❌ GEMINI ERROR (Dir):", JSON.stringify(error, Object.getOwnPropertyNames(error), 2));
+            // Check for common issues
+            if (!process.env.GEMINI_API_KEY) {
+                console.error("❌ CRITICAL: GEMINI_API_KEY is missing from environment variables!");
+            }
             onSentence("I'm having trouble connecting right now.");
         }
     }

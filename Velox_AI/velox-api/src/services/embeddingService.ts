@@ -1,14 +1,25 @@
-// 1. Use 'import type' to prevent runtime crash on startup
-import { GoogleGenAI } from "@google/genai";
-
 import { logger } from "../utils/logger";
+
+// Type for the dynamically imported GoogleGenAI
+type GoogleGenAIType = {
+  GoogleGenAI: new (config: { apiKey: string }) => {
+    models: {
+      embedContent: (params: {
+        model: string;
+        contents: Array<{ parts: Array<{ text: string }> }>;
+      }) => Promise<{
+        embeddings?: Array<{ values?: number[] }>;
+      }>;
+    };
+  };
+};
 
 export class EmbeddingService {
   // Store the client instance
-  private client: GoogleGenAI | null = null;
+  private client: InstanceType<GoogleGenAIType["GoogleGenAI"]> | null = null;
 
-  // 2. Helper to load the SDK dynamically (Lazy Loading)
-  private async getClient(): Promise<GoogleGenAI> {
+  // Helper to load the SDK dynamically (Lazy Loading)
+  private async getClient(): Promise<InstanceType<GoogleGenAIType["GoogleGenAI"]>> {
     if (this.client) return this.client;
 
     const apiKey = process.env.GOOGLE_API_KEY || process.env.GEMINI_API_KEY || "";
@@ -17,10 +28,10 @@ export class EmbeddingService {
       throw new Error("Missing API Key");
     }
 
-    // ⚠️ DYNAMIC IMPORT: Fixes the "require" error
-    const { GoogleGenAI } = await import("@google/genai");
+    // DYNAMIC IMPORT: Fixes the "require" error
+    const genai = await import("@google/genai") as GoogleGenAIType;
     
-    this.client = new GoogleGenAI({ apiKey });
+    this.client = new genai.GoogleGenAI({ apiKey });
     return this.client;
   }
 
@@ -31,17 +42,17 @@ export class EmbeddingService {
         return null;
       }
 
-      // 3. Get the dynamically loaded client
+      // Get the dynamically loaded client
       const client = await this.getClient();
 
-      // 4. Use NEW SDK Syntax for embeddings
+      // Use NEW SDK Syntax for embeddings
       const result = await client.models.embedContent({
         model: "text-embedding-004",
         contents: [{ parts: [{ text }] }],
       });
       
-      // The new SDK returns 'embedding.values'
-      const values = result.embedding?.values;
+      // The new SDK returns 'embeddings[0].values'
+      const values = result.embeddings?.[0]?.values;
 
       if (!values || !Array.isArray(values)) {
         logger.error("❌ Invalid embedding response structure");
@@ -56,3 +67,4 @@ export class EmbeddingService {
     }
   }
 }
+

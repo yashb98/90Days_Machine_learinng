@@ -1,8 +1,6 @@
-// ⚠️ CRITICAL: Use 'import type'. 
-// This tells TypeScript "use this for checking, but DELETE it from the runtime code."
-import {GoogleGenAI, FunctionDeclaration} from '@google/genai';
-
-export const tools: import("@google/genai").FunctionDeclaration[] =  [
+// Using 'any' type to avoid ESM/CommonJS import conflicts
+// The actual tool implementations are in the registry
+export const tools: any[] = [
   {
     name: "check_order_status",
     description: "Look up the current status of a customer's order using their Order ID.",
@@ -32,3 +30,4 @@ export const tools: import("@google/genai").FunctionDeclaration[] =  [
     },
   },
 ];
+

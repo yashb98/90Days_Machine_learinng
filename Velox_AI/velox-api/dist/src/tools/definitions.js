@@ -1,6 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.tools = void 0;
+// Using 'any' type to avoid ESM/CommonJS import conflicts
+// The actual tool implementations are in the registry
 exports.tools = [
     {
         name: "check_order_status",

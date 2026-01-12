@@ -1,12 +1,10 @@
-// 1. Use 'import type' so it doesn't crash on startup
-import type { GoogleGenAI } from "@google/genai";
 import { logger } from "../utils/logger";
 import { tools } from "../tools/definitions"; 
 import { toolRegistry } from "../tools/registry";
 
 export class LLMService {
-  private client: GoogleGenAI | null = null;
-  // ✅ NOW we can use the latest model!
+  private client: any = null;
+  // Use the reliable experimental model
   private modelName: string = "gemini-2.0-flash-exp"; 
   private systemPrompt: string;
 
@@ -19,17 +17,17 @@ export class LLMService {
     `;
   }
 
-  // 2. Helper to load the SDK dynamically (Lazy Loading)
-  private async getClient(): Promise<GoogleGenAI> {
+  // Helper to load the SDK dynamically
+  private async getClient(): Promise<any> {
     if (this.client) return this.client;
     
-    // ⚠️ DYNAMIC IMPORT: This fixes the "require" error
+    // Dynamic import
     const { GoogleGenAI } = await import("@google/genai");
     
     this.client = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
     
     console.log("--------------------------------------------------");
-    console.log("🛠️  LLM Service Initialized (Dynamic Import)");
+    console.log("🛠️  LLM Service Initialized (New SDK)");
     console.log(`🤖  Model: ${this.modelName}`);
     console.log("--------------------------------------------------");
     
@@ -42,7 +40,6 @@ export class LLMService {
     context: string = "" 
   ) {
     try {
-      // 3. Ensure Client is Loaded before using it
       const client = await this.getClient();
 
       let instructions = this.systemPrompt;
@@ -50,22 +47,23 @@ export class LLMService {
         instructions += `\n\n=== KNOWLEDGE BASE ===\n${context}\n======================`;
       }
 
-      // 4. Start Chat
-      const chat = client.chats.create({
-        model: this.modelName,
-        config: {
-          systemInstruction: instructions,
-          tools: [{ functionDeclarations: tools }], 
+      // 1. Create Chat
+    let response = await client.models.generateContent({
+      model: this.modelName,
+      contents: [
+        {
+          role: "user",
+          parts: [{ text: input }],
         },
-      });
+      ],
+      config: {
+        systemInstruction: instructions,
+        tools: [{ functionDeclarations: tools }],
+      },
+    });
 
-      let response = await chat.send({
-        model: this.modelName,
-        config: { outputModalities: ["TEXT"] },
-        parts: [{ text: input }],
-      });
 
-      // 5. Tool Loop
+      // 3. Tool Loop
       let functionCalls = response.functionCalls;
 
       while (functionCalls && functionCalls.length > 0) {
@@ -79,22 +77,38 @@ export class LLMService {
 
         if (functionToCall) {
           const apiResult = await functionToCall(args);
-          logger.info(`✅ Tool Result: ${JSON.stringify(apiResult)}`);
+          logger.info(`Tool Result: ${JSON.stringify(apiResult)}`);
 
-          response = await chat.send({
-            parts: [{
-                functionResponse: {
-                  name: name,
-                  response: apiResult,
-                },
-            }],
+          // 4. Send Tool Result Back
+          response = await client.models.generateContent({
+            model: this.modelName,
+            contents: [
+              {
+                role: "tool",
+                parts: [
+                  {
+                    functionResponse: {
+                      name,
+                      response: apiResult,
+                    },
+                  },
+                ],
+              },
+            ],
+            config: {
+              systemInstruction: instructions,
+              tools: [{ functionDeclarations: tools }],
+            },
           });
+          
           functionCalls = response.functionCalls;
         } else {
+          logger.warn(` Tool '${name}' not found.`);
           break;
         }
       }
 
+      // 5. Final Output
       const text = response.text;
       if (text) {
         this.processBuffer(text, onSentence);
@@ -102,12 +116,16 @@ export class LLMService {
 
     } catch (error: any) {
       logger.error({ error }, "Error generating LLM response");
-      console.error("❌ GEMINI ERROR:", JSON.stringify(error, null, 2));
+      
+      console.error("❌ GEMINI ERROR MESSAGE:", error.message);
+      if (error.stack) console.error(error.stack);
+      
       onSentence("I'm having trouble connecting right now.");
     }
   }
 
   private processBuffer(text: string, onSentence: (text: string) => void) {
+    if (!text) return;
     const sentences = text.match(/[^.?!]+[.?!]+|[^.?!]+$/g) || [text];
     sentences.forEach((sentence) => {
       const trimmed = sentence.trim();
