@@ -106,7 +106,7 @@ export class LLMService {
           logger.warn(` Tool '${name}' not found.`);
           break;
         }
-      }
+      };
 
       // 5. Final Output
       const text = response.text;
