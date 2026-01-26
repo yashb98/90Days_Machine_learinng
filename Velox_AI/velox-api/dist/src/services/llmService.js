@@ -4,6 +4,12 @@ exports.LLMService = void 0;
 const logger_1 = require("../utils/logger");
 const definitions_1 = require("../tools/definitions");
 const registry_1 = require("../tools/registry");
+const FILLER_PHRASES = [
+    "One moment, let me check that for you.",
+    "Just a second, looking that up.",
+    "Let me see what I can find.",
+    "Checking on that now.",
+];
 class LLMService {
     constructor() {
         this.client = null;
@@ -15,64 +21,91 @@ class LLMService {
       If you need to use a tool, do it silently.
     `;
     }
-    // Helper to load the SDK dynamically (Lazy Loading)
     async getClient() {
         if (this.client)
             return this.client;
-        // DYNAMIC IMPORT: This fixes the "require" error
-        const genai = await import("@google/genai");
-        this.client = new genai.GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY || "" });
+        const { GoogleGenAI } = await import("@google/genai");
+        this.client = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
         console.log("--------------------------------------------------");
-        console.log("🛠️  LLM Service Initialized (Dynamic Import)");
+        console.log("🛠️  LLM Service Initialized (@google/genai SDK)");
         console.log(`🤖  Model: ${this.modelName}`);
         console.log("--------------------------------------------------");
         return this.client;
     }
     async generateResponse(input, onSentence, context = "") {
         try {
-            // Ensure Client is Loaded before using it
-            const client = await this.getClient();
+            const ai = await this.getClient();
             let instructions = this.systemPrompt;
             if (context) {
                 instructions += `\n\n=== KNOWLEDGE BASE ===\n${context}\n======================`;
             }
-            // Start Chat using new SDK pattern
-            const chat = client.chats.create({
+            // ✅ Convert tools to correct format for @google/genai
+            const formattedTools = definitions_1.tools.map(tool => ({
+                type: 'function',
+                name: tool.name,
+                description: tool.description,
+                parameters: tool.parameters, // Use 'parameters' not 'parametersJsonSchema'
+            }));
+            // ✅ Use models.generateContent (NOT interactions)
+            let response = await ai.models.generateContent({
                 model: this.modelName,
+                contents: input,
                 config: {
                     systemInstruction: instructions,
-                    tools: [{ functionDeclarations: definitions_1.tools }],
+                    tools: formattedTools,
                 },
             });
-            // Use sendMessage instead of send
-            let response = await chat.sendMessage({
-                parts: [{ text: input }],
-            });
-            // Tool Loop
-            let functionCalls = response.functionCalls;
-            while (functionCalls && functionCalls.length > 0) {
-                const call = functionCalls[0];
+            // ✅ Tool Execution Loop
+            while (response.functionCalls && response.functionCalls.length > 0) {
+                const call = response.functionCalls[0];
                 const { name, args } = call;
-                logger_1.logger.info(`AI wants to execute: ${name}(${JSON.stringify(args)})`);
+                logger_1.logger.info(`🤖 AI wants to execute: ${name}(${JSON.stringify(args)})`);
                 // @ts-ignore
                 const functionToCall = registry_1.toolRegistry[name];
                 if (functionToCall) {
+                    // Play Filler Phrase
+                    const randomFiller = FILLER_PHRASES[Math.floor(Math.random() * FILLER_PHRASES.length)];
+                    logger_1.logger.info(`🤖 AI (Filler): ${randomFiller}`);
+                    onSentence(randomFiller);
+                    // Execute Tool
                     const apiResult = await functionToCall(args);
-                    logger_1.logger.info(`Tool Result: ${JSON.stringify(apiResult)}`);
-                    response = await chat.sendMessage({
-                        parts: [{
-                                functionResponse: {
-                                    name: name,
-                                    response: apiResult,
-                                },
-                            }],
+                    logger_1.logger.info(`✅ Tool Result: ${JSON.stringify(apiResult)}`);
+                    // ✅ Send function response back
+                    response = await ai.models.generateContent({
+                        model: this.modelName,
+                        contents: [
+                            {
+                                role: 'user',
+                                parts: [{ text: input }]
+                            },
+                            {
+                                role: 'model',
+                                parts: response.functionCalls.map((fc) => ({
+                                    functionCall: fc
+                                }))
+                            },
+                            {
+                                role: 'function',
+                                parts: [{
+                                        functionResponse: {
+                                            name: name,
+                                            response: apiResult,
+                                        }
+                                    }]
+                            }
+                        ],
+                        config: {
+                            systemInstruction: instructions,
+                            tools: formattedTools,
+                        },
                     });
-                    functionCalls = response.functionCalls;
                 }
                 else {
+                    logger_1.logger.warn(`❌ Tool '${name}' not found.`);
                     break;
                 }
             }
+            // ✅ Extract final text response
             const text = response.text;
             if (text) {
                 this.processBuffer(text, onSentence);
@@ -80,17 +113,15 @@ class LLMService {
         }
         catch (error) {
             logger_1.logger.error({ error }, "Error generating LLM response");
-            // Detailed error logging for debugging
-            console.error("❌ GEMINI ERROR (Raw):", error);
-            console.error("❌ GEMINI ERROR (Dir):", JSON.stringify(error, Object.getOwnPropertyNames(error), 2));
-            // Check for common issues
-            if (!process.env.GEMINI_API_KEY) {
-                console.error("❌ CRITICAL: GEMINI_API_KEY is missing from environment variables!");
-            }
+            console.error("❌ GEMINI ERROR MESSAGE:", error.message);
+            if (error.stack)
+                console.error(error.stack);
             onSentence("I'm having trouble connecting right now.");
         }
     }
     processBuffer(text, onSentence) {
+        if (!text)
+            return;
         const sentences = text.match(/[^.?!]+[.?!]+|[^.?!]+$/g) || [text];
         sentences.forEach((sentence) => {
             const trimmed = sentence.trim();

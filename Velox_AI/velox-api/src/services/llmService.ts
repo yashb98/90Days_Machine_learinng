@@ -2,10 +2,16 @@ import { logger } from "../utils/logger";
 import { tools } from "../tools/definitions"; 
 import { toolRegistry } from "../tools/registry";
 
+const FILLER_PHRASES = [
+  "One moment, let me check that for you.",
+  "Just a second, looking that up.",
+  "Let me see what I can find.",
+  "Checking on that now.",
+];
+
 export class LLMService {
   private client: any = null;
-  // Use the reliable experimental model
-  private modelName: string = "gemini-2.0-flash-exp"; 
+  private modelName: string = "gemini-2.5-flash"; 
   private systemPrompt: string;
 
   constructor() {
@@ -17,17 +23,15 @@ export class LLMService {
     `;
   }
 
-  // Helper to load the SDK dynamically
   private async getClient(): Promise<any> {
     if (this.client) return this.client;
     
-    // Dynamic import
     const { GoogleGenAI } = await import("@google/genai");
     
     this.client = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
     
     console.log("--------------------------------------------------");
-    console.log("🛠️  LLM Service Initialized (New SDK)");
+    console.log("🛠️  LLM Service Initialized (@google/genai SDK)");
     console.log(`🤖  Model: ${this.modelName}`);
     console.log("--------------------------------------------------");
     
@@ -40,34 +44,34 @@ export class LLMService {
     context: string = "" 
   ) {
     try {
-      const client = await this.getClient();
+      const ai = await this.getClient();
 
       let instructions = this.systemPrompt;
       if (context) {
         instructions += `\n\n=== KNOWLEDGE BASE ===\n${context}\n======================`;
       }
 
-      // 1. Create Chat
-    let response = await client.models.generateContent({
-      model: this.modelName,
-      contents: [
-        {
-          role: "user",
-          parts: [{ text: input }],
+      // Convert tools to correct format for @google/genai
+      const formattedTools = tools.map(tool => ({
+        type: 'function' as const,
+        name: tool.name,
+        description: tool.description,
+        parameters: tool.parameters, // Use 'parameters' not 'parametersJsonSchema'
+      }));
+
+      //  Use models.generateContent (NOT interactions)
+      let response = await ai.models.generateContent({
+        model: this.modelName,
+        contents: input,
+        config: {
+          systemInstruction: instructions,
+          tools: formattedTools,
         },
-      ],
-      config: {
-        systemInstruction: instructions,
-        tools: [{ functionDeclarations: tools }],
-      },
-    });
+      });
 
-
-      // 3. Tool Loop
-      let functionCalls = response.functionCalls;
-
-      while (functionCalls && functionCalls.length > 0) {
-        const call = functionCalls[0];
+      //  Tool Execution Loop
+      while (response.functionCalls && response.functionCalls.length > 0) {
+        const call = response.functionCalls[0];
         const { name, args } = call;
 
         logger.info(`🤖 AI wants to execute: ${name}(${JSON.stringify(args)})`);
@@ -76,39 +80,52 @@ export class LLMService {
         const functionToCall = toolRegistry[name];
 
         if (functionToCall) {
+          // Play Filler Phrase
+          const randomFiller = FILLER_PHRASES[Math.floor(Math.random() * FILLER_PHRASES.length)];
+          logger.info(`🤖 AI (Filler): ${randomFiller}`);
+          onSentence(randomFiller);
+
+          // Execute Tool
           const apiResult = await functionToCall(args);
           logger.info(`Tool Result: ${JSON.stringify(apiResult)}`);
 
-          // 4. Send Tool Result Back
-          response = await client.models.generateContent({
+          //  Send function response back
+          response = await ai.models.generateContent({
             model: this.modelName,
             contents: [
               {
-                role: "tool",
-                parts: [
-                  {
-                    functionResponse: {
-                      name,
-                      response: apiResult,
-                    },
-                  },
-                ],
+                role: 'user',
+                parts: [{ text: input }]
               },
+              {
+                role: 'model',
+                parts: response.functionCalls.map((fc: any) => ({
+                  functionCall: fc
+                }))
+              },
+              {
+                role: 'function',
+                parts: [{
+                  functionResponse: {
+                    name: name,
+                    response: apiResult,
+                  }
+                }]
+              }
             ],
             config: {
               systemInstruction: instructions,
-              tools: [{ functionDeclarations: tools }],
+              tools: formattedTools,
             },
           });
-          
-          functionCalls = response.functionCalls;
+
         } else {
-          logger.warn(` Tool '${name}' not found.`);
+          logger.warn(`❌ Tool '${name}' not found.`);
           break;
         }
-      };
+      }
 
-      // 5. Final Output
+      //  Extract final text response
       const text = response.text;
       if (text) {
         this.processBuffer(text, onSentence);
@@ -116,10 +133,8 @@ export class LLMService {
 
     } catch (error: any) {
       logger.error({ error }, "Error generating LLM response");
-      
-      console.error("❌ GEMINI ERROR MESSAGE:", error.message);
+      console.error(" GEMINI ERROR MESSAGE:", error.message);
       if (error.stack) console.error(error.stack);
-      
       onSentence("I'm having trouble connecting right now.");
     }
   }
