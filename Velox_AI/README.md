@@ -90,8 +90,14 @@ Velox is a production-ready AI voice agent platform designed for enterprise appl
 ### AI Agent Management
 - **Custom System Prompts** - Configure agent personality and behavior
 - **Voice Integration** - Support for ElevenLabs and Deepgram voices
-- **Tool System** - Extensible tools for agent actions
+- **Tool System** - Extensible tools for agent actions (check orders, stock lookup)
 - **LLM Configuration** - Adjust model parameters (temperature, model selection)
+
+### Execution Loop: "Thinking... Action... Speaking."
+- **Intent Detection** - Gemini configured with function calling to detect when tools are needed
+- **Tool Execution** - Seamless tool execution with result injection back to Gemini
+- **RAG Integration** - Knowledge base search before LLM response generation
+- **Real-time Pipeline** - Ear → Brain → Mouth flow with WebSocket audio streaming
 
 ### Conversation Intelligence
 - **Real-time Monitoring** - Track active conversations
@@ -451,6 +457,116 @@ terraform workspace new prod
 terraform plan -var="environment=prod"
 terraform apply
 ```
+
+---
+
+## 🎯 Execution Loop: "Thinking... Action... Speaking."
+
+The Velox AI voice agent follows a sophisticated execution loop designed for natural voice conversations. This loop orchestrates the interaction between the user, the AI brain (LLM), and tool execution, ensuring seamless conversation flow.
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                  EXECUTION LOOP: "Thinking... Action... Speaking."       │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  ┌─────────────┐     ┌──────────────────┐     ┌─────────────────────┐  │
+│  │   USER      │────►│      AI BRAIN    │────►│      SPEAKING       │  │
+│  │   SPEAKS    │     │   (Thinking)     │     │    (TTS Output)     │  │
+│  └─────────────┘     └──────────────────┘     └─────────────────────┘  │
+│        │                      │                        ▲                │
+│        │                      │                        │                │
+│        ▼                      ▼                        │                │
+│  ┌─────────────┐     ┌──────────────────┐              │                │
+│  │   SPEECH    │────►│   TOOL ACTION    │──────────────┘                │
+│  │  TO TEXT    │     │   (Database/API) │                              │
+│  └─────────────┘     └──────────────────┘                              │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+### How It Works
+
+#### 1. Intent Detection & Tool Configuration
+
+Gemini is configured with function calling capability. When the user speaks, their audio is transcribed to text and sent to Gemini along with available tool definitions.
+
+```typescript
+// llmService.ts - Tool configuration
+config: {
+  systemInstruction: instructions,
+  tools: [{ functionDeclarations: tools }],
+}
+```
+
+#### 2. Tool Execution Loop
+
+When Gemini detects the need for a tool (e.g., checking order status or stock availability), it returns `functionCalls` instead of text. The system:
+
+1. **Detects tool intent** - `let functionCalls = response.functionCalls`
+2. **Executes the tool** - Calls the appropriate function from the tool registry
+3. **Injects the result** - Feeds the JSON result back to Gemini as `functionResponse`
+4. **Generates final response** - Gemini produces the natural language answer
+
+```typescript
+// Execute tool
+const apiResult = await functionToCall(args);
+
+// Feed result back to Gemini
+response = await client.models.generateContent({
+  model: this.modelName,
+  contents: [{
+    role: "tool",
+    parts: [{
+      functionResponse: {
+        name: toolName,
+        response: apiResult,
+      },
+    }],
+  }],
+});
+
+// Final output
+const finalText = response.text;
+```
+
+#### 3. Text-to-Speech Output
+
+The final response is converted to audio using Deepgram's Aura voice engine and streamed back to the user in mulaw 8000Hz format (Twilio compatible).
+
+### Implemented Features
+
+| Feature | Status | Description |
+|---------|--------|-------------|
+| Tool Configuration | ✅ | Gemini configured with functionDeclarations |
+| Intent Detection | ✅ | functionCalls detection in LLMService |
+| Tool Execution Loop | ✅ | While loop handles sequential tool calls |
+| Result Injection | ✅ | functionResponse sent back to Gemini |
+| TTS Output | ✅ | Deepgram Aura voice at 8000Hz mulaw |
+
+### Available Tools
+
+Agents can invoke these tools during conversation:
+
+- **check_order_status** - Look up the current status of a customer's order using their Order ID
+- **check_item_stock** - Check if an item is available in the warehouse
+
+Each tool is registered in the tool registry and can be extended with additional functionality.
+
+### Processing Flow
+
+```
+User Audio → Deepgram STT → Gemini (with tools) → Tool Execution → Result Injection → Gemini Response → TTS → User
+```
+
+The entire pipeline is managed by the `CallOrchestrator` which handles:
+- WebSocket audio streaming
+- Real-time transcription
+- LLM response generation
+- TTS audio playback
+- Interruption handling (barge-in)
+- Metrics tracking
+
+
 
 ---
 

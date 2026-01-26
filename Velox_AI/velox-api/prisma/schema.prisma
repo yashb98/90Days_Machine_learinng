@@ -31,8 +31,9 @@ model Organization {
   credit_balance Int     @default(0) // Stored in cents or tokens
   api_key_hash   String  @unique // Never store raw API keys
 
-  users  User[]
-  agents Agent[]
+  users          User[]
+  agents         Agent[]
+  knowledgeBases KnowledgeBase[] // NEW: RAG knowledge bases
 
   created_at DateTime @default(now())
   updated_at DateTime @updatedAt
@@ -67,6 +68,10 @@ model Agent {
   tools_enabled Json @default("[]") // e.g. ["check_order", "book_ticket"]
   llm_config    Json @default("{}") // e.g. { "model": "gemini-1.5", "temperature": 0.7 }
 
+  // NEW: Link to knowledge base for RAG
+  kb_id String?
+  kb    KnowledgeBase? @relation(fields: [kb_id], references: [id])
+
   org_id String
   org    Organization @relation(fields: [org_id], references: [id])
 
@@ -75,6 +80,7 @@ model Agent {
   created_at DateTime @default(now())
   updated_at DateTime @updatedAt
 
+  @@index([kb_id])
   @@map("agents")
 }
 
@@ -116,4 +122,57 @@ model Message {
 
   @@index([conversation_id]) // Critical for fetching chat history quickly
   @@map("messages")
+}
+
+// ============================================================================
+// RAG MODELS - Knowledge Base & Hybrid Search
+// ============================================================================
+
+// 6. KnowledgeBase ( The RAG Container )
+model KnowledgeBase {
+  id          String  @id @default(uuid())
+  name        String
+  description String? @db.Text
+
+  // Embedding configuration
+  embedding_model String @default("text-embedding-004") // Google's model
+  chunk_size      Int    @default(512) // Characters per chunk
+  chunk_overlap   Int    @default(50) // Overlap for context continuity
+
+  org_id String
+  org    Organization @relation(fields: [org_id], references: [id], onDelete: Cascade)
+
+  agents Agent[]
+  chunks KnowledgeChunk[]
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@index([org_id])
+  @@map("knowledge_bases")
+}
+
+// 7. KnowledgeChunk ( The RAG Document Fragments )
+model KnowledgeChunk {
+  id      String @id @default(uuid())
+  content String @db.Text
+
+  // Vector embedding for semantic search (1536 dimensions for text-embedding-004)
+  embedding Unsupported("vector(768)")?
+
+  // Full-text search vector for keyword search
+  content_tsv Unsupported("tsvector")?
+
+  // Metadata for filtering and tracing
+  metadata Json @default("{}") // { "source": "faq.pdf", "page": 5, "section": "returns" }
+
+  kb_id String
+  kb    KnowledgeBase @relation(fields: [kb_id], references: [id], onDelete: Cascade)
+
+  created_at DateTime @default(now())
+  updated_at DateTime @updatedAt
+
+  @@index([kb_id])
+  @@index([content_tsv], type: Gin) // Full-text search index
+  @@map("knowledge_chunks")
 }

@@ -39,14 +39,14 @@ class LLMService {
             if (context) {
                 instructions += `\n\n=== KNOWLEDGE BASE ===\n${context}\n======================`;
             }
-            // ✅ Convert tools to correct format for @google/genai
+            // Convert tools to correct format for @google/genai
             const formattedTools = definitions_1.tools.map(tool => ({
                 type: 'function',
                 name: tool.name,
                 description: tool.description,
                 parameters: tool.parameters, // Use 'parameters' not 'parametersJsonSchema'
             }));
-            // ✅ Use models.generateContent (NOT interactions)
+            //  Use models.generateContent (NOT interactions)
             let response = await ai.models.generateContent({
                 model: this.modelName,
                 contents: input,
@@ -55,7 +55,7 @@ class LLMService {
                     tools: formattedTools,
                 },
             });
-            // ✅ Tool Execution Loop
+            //  Tool Execution Loop
             while (response.functionCalls && response.functionCalls.length > 0) {
                 const call = response.functionCalls[0];
                 const { name, args } = call;
@@ -69,8 +69,8 @@ class LLMService {
                     onSentence(randomFiller);
                     // Execute Tool
                     const apiResult = await functionToCall(args);
-                    logger_1.logger.info(`✅ Tool Result: ${JSON.stringify(apiResult)}`);
-                    // ✅ Send function response back
+                    logger_1.logger.info(`Tool Result: ${JSON.stringify(apiResult)}`);
+                    //  Send function response back
                     response = await ai.models.generateContent({
                         model: this.modelName,
                         contents: [
@@ -105,7 +105,7 @@ class LLMService {
                     break;
                 }
             }
-            // ✅ Extract final text response
+            //  Extract final text response
             const text = response.text;
             if (text) {
                 this.processBuffer(text, onSentence);
@@ -113,7 +113,7 @@ class LLMService {
         }
         catch (error) {
             logger_1.logger.error({ error }, "Error generating LLM response");
-            console.error("❌ GEMINI ERROR MESSAGE:", error.message);
+            console.error(" GEMINI ERROR MESSAGE:", error.message);
             if (error.stack)
                 console.error(error.stack);
             onSentence("I'm having trouble connecting right now.");
