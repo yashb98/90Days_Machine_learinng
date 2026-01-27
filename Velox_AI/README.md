@@ -48,16 +48,7 @@ Velox is a production-ready AI voice agent platform designed for enterprise appl
 - 📊 **Analytics Dashboard** - Monitor conversation costs, sentiment, and performance
 - 🔐 **Multi-Tenancy** - Secure organization-level isolation with role-based access control
 - 🎨 **Visual Flow Builder** - Intuitive drag-and-drop interface for designing AI agent conversation flows
-feat: add flow node components and UI elements
 
-- Implemented ConditionNode, EndNode, HandoffNode, PromptNode, StartNode, and ToolNode components for flow management.
-- Created a centralized node index for easy imports.
-- Developed reusable UI components including Badge, Button, Card, Input, Label, Select, and Textarea.
-- Established API utility for handling requests with token management.
-- Designed AgentFlowBuilder page for editing agent flows with loading and save functionality.
-- Defined flow types for better type safety and structure.
-- Configured TypeScript and Vite for the project setup.
-- Added global CSS styles and theme variables for consistent design.
 ---
 
 ## 🏗️ Architecture
