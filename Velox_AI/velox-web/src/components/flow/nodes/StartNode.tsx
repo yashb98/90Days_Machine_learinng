@@ -28,3 +28,4 @@ export const StartNode = memo(({ data }: NodeProps) => {
 })
 
 StartNode.displayName = 'StartNode'
+

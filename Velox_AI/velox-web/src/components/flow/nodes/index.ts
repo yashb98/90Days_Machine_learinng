@@ -1,6 +1,6 @@
 // src/components/flow/nodes/index.ts
 
-import { StartNode } from './StarNode'
+import { StartNode } from './StartNode'
 import { PromptNode } from './PromptNode'
 import { ToolNode } from './ToolNode'
 import { HandoffNode } from './HandoffNode'
