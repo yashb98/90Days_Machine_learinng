@@ -7,6 +7,9 @@
 *Build, Deploy, and Manage Intelligent AI Agents for Voice and Chat Applications*
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue.svg)](https://www.typescriptlang.org/)
+[![React 19](https://img.shields.io/badge/React-19-61DAFB.svg)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-7-646CFF.svg)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC.svg)](https://tailwindcss.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-5.22-2D3748.svg)](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-7-DC382D.svg)](https://redis.io/)
@@ -22,6 +25,7 @@
 - [Overview](#overview)
 - [Architecture](#architecture)
 - [Features](#features)
+- [Velox Web Frontend](#velox-web-frontend)
 - [Project Structure](#project-structure)
 - [Quick Start](#quick-start)
 - [Configuration](#configuration)
@@ -43,7 +47,17 @@ Velox is a production-ready AI voice agent platform designed for enterprise appl
 - 🛠️ **Tool Integration** - Extensible tool system for agents to perform actions (check orders, book tickets, etc.)
 - 📊 **Analytics Dashboard** - Monitor conversation costs, sentiment, and performance
 - 🔐 **Multi-Tenancy** - Secure organization-level isolation with role-based access control
+- 🎨 **Visual Flow Builder** - Intuitive drag-and-drop interface for designing AI agent conversation flows
+feat: add flow node components and UI elements
 
+- Implemented ConditionNode, EndNode, HandoffNode, PromptNode, StartNode, and ToolNode components for flow management.
+- Created a centralized node index for easy imports.
+- Developed reusable UI components including Badge, Button, Card, Input, Label, Select, and Textarea.
+- Established API utility for handling requests with token management.
+- Designed AgentFlowBuilder page for editing agent flows with loading and save functionality.
+- Defined flow types for better type safety and structure.
+- Configured TypeScript and Vite for the project setup.
+- Added global CSS styles and theme variables for consistent design.
 ---
 
 ## 🏗️ Architecture
