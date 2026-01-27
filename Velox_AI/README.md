@@ -1,4 +1,3 @@
-# Velox AI 🚀
 
 <div align="center">
 
@@ -51,9 +50,207 @@ Velox is a production-ready AI voice agent platform designed for enterprise appl
 
 ---
 
-## 🏗️ Architecture
+## 🎨 Velox Web Frontend
+
+The Velox Web Frontend is a modern React 19 application built with Vite and TypeScript, featuring a visual flow builder for designing AI agent conversation flows.
+
+### Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React 19 | UI framework |
+| Vite 7 | Build tool and dev server |
+| TypeScript 5.9 | Type safety |
+| Tailwind CSS 4 | Styling |
+| @xyflow/react | Flow-based diagram library |
+| React Router 7 | Client-side routing |
+| TanStack Query | Data fetching and caching |
+| Zustand | State management |
+| Axios | HTTP client |
+| Sonner | Toast notifications |
+| Radix UI | Accessible UI primitives |
+
+### Key Features
+
+#### Visual Flow Builder
+The flow builder provides a drag-and-drop interface for designing AI agent conversation flows with the following node types:
+
+| Node Type | Description | Properties |
+|-----------|-------------|------------|
+| **Start Node** (Green) | Entry point of the conversation | Label, Greeting message |
+| **Prompt Node** (Blue) | LLM prompt configuration | Label, System prompt, Temperature, Max tokens |
+| **Tool Node** (Orange) | Tool/action execution | Label, Tool name, Tool config (JSON) |
+| **Handoff Node** (Purple) | Transfer to human agent | Label, Target (phone/agent ID), Reason |
+| **Condition Node** (Yellow) | Branching logic | Label, Condition expression, True/False labels |
+| **End Node** (Red) | Conversation termination | Label, Farewell message |
+
+#### UI Components
+A comprehensive set of reusable UI components built with Radix UI and Tailwind CSS:
+
+- **Button** - Multiple variants (default, outline, secondary, ghost)
+- **Card** - Content containers with header, content, and title
+- **Input** - Text input fields
+- **Textarea** - Multi-line text input
+- **Label** - Form labels with Radix UI integration
+- **Select** - Dropdown select with search capability
+- **Badge** - Status indicators and labels
+
+### Project Structure
 
 ```
+velox-web/
+├── src/
+│   ├── components/
+│   │   ├── flow/                  # Flow builder components
+│   │   │   ├── FlowEditor.tsx     # Main flow editor with React Flow
+│   │   │   ├── FlowToolbar.tsx    # Toolbar for adding nodes
+│   │   │   ├── NodePropertiesPanel.tsx  # Properties panel for selected node
+│   │   │   └── nodes/             # Custom node components
+│   │   │       ├── index.ts       # Node exports
+
+│   │   │       ├── PromptNode.tsx # Prompt node (blue)
+│   │   │       ├── ToolNode.tsx   # Tool node (orange)
+│   │   │       ├── HandoffNode.tsx # Handoff node (purple)
+│   │   │       ├── ConditionNode.tsx # Condition node (yellow)
+│   │   │       └── EndNode.tsx    # End node (red)
+│   │   │
+│   │   └── ui/                    # Reusable UI components
+│   │       ├── button.tsx
+│   │       ├── card.tsx
+│   │       ├── input.tsx
+│   │       ├── textarea.tsx
+│   │       ├── label.tsx
+│   │       ├── select.tsx
+│   │       └── badge.tsx
+│   │
+│   ├── pages/                     # Page components
+│   │   └── AgentFlowBuilder.tsx   # Agent flow builder page
+│   │
+│   ├── types/                     # TypeScript types
+│   │   └── flow.ts                # Flow-related type definitions
+│   │
+│   ├── lib/                       # Utilities
+│   │   ├── api.ts                 # Axios API client
+│   │   └── utils.ts               # Utility functions
+│   │
+│   ├── App.tsx                    # Main app component
+│   ├── main.tsx                   # Entry point
+│   └── index.css                  # Global styles
+│
+├── package.json
+├── tsconfig.json
+├── tsconfig.app.json
+├── tsconfig.node.json
+├── vite.config.ts
+└── tailwind.config.js
+```
+
+### Flow Data Structure
+
+```typescript
+interface AgentFlow {
+  nodes: Array<{
+    id: string
+    type: string
+    position: { x: number; y: number }
+    data: Record<string, unknown>
+  }>
+```
+    id: string
+    source: string
+    target: string
+    label?: string
+  }>
+}
+
+interface StartNodeData {
+  label: string
+  greeting?: string
+}
+
+interface PromptNodeData {
+  label: string
+  systemPrompt: string
+  temperature?: number
+  maxTokens?: number
+}
+
+interface ToolNodeData {
+  label: string
+  toolName: string
+  toolConfig: Record<string, unknown>
+}
+
+interface HandoffNodeData {
+  label: string
+  target: string
+  reason?: string
+}
+
+interface ConditionNodeData {
+  label: string
+  condition: string
+  trueLabel?: string
+  falseLabel?: string
+}
+
+interface EndNodeData {
+  label: string
+  farewell?: string
+}
+```
+
+### Getting Started
+
+```bash
+# Navigate to velox-web directory
+cd velox-web
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+### Environment Variables
+
+```env
+VITE_API_URL=http://localhost:3000
+```
+
+### API Integration
+
+The frontend uses an Axios-based API client with:
+
+- **Request interceptor** - Automatically adds JWT token from localStorage
+- **Response interceptor** - Handles 401 errors by redirecting to login
+- **Configurable base URL** - Via `VITE_API_URL` environment variable
+
+### Dependencies
+
+```json
+{
+  "@xyflow/react": "^12.10.0",
+  "@radix-ui/react-*": "^1.1.0",
+  "@tanstack/react-query": "^5.90.0",
+  "react-router-dom": "^7.13.0",
+  "zustand": "^5.0.10",
+  "axios": "^1.13.0",
+  "sonner": "^2.0.0",
+  "lucide-react": "^0.563.0"
+}
+```
+
+---
+
+## 🏗️ Architecture
 ┌─────────────────────────────────────────────────────────────────────────┐
 │                           Velox AI Platform                             │
 ├─────────────────────────────────────────────────────────────────────────┤
