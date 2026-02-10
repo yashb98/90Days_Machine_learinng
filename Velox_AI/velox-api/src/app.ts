@@ -6,6 +6,8 @@ import { rateLimiter } from "./middleware/rateLimiter";
 // 1. IMPORT THE LOGGER FROM UTILS (Fixes Circular Dependency)
 import { logger } from "./utils/logger"; 
 import documentRoutes from "./routes/documentRoutes";
+import playgroundRoutes from './routes/playground';
+import billingRoutes from './routes/billing';
 
 // UUID Setup (Keep your existing logic)
 let uuidv4: () => string;
@@ -43,5 +45,7 @@ app.get("/health", (req, res) => {
 
 // 6. Routes
 app.use("/api/documents", documentRoutes);
+app.use('/api/playground', playgroundRoutes);
+app.use('/api/billing', billingRoutes);
 
 export { app };

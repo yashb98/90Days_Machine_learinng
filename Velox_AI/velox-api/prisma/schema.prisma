@@ -24,16 +24,23 @@ enum ConversationStatus {
 
 // 1. Organization ( The Tenant )
 model Organization {
-  id             String  @id @default(uuid())
-  name           String
-  slug           String  @unique
-  stripe_id      String? // For billing later
-  credit_balance Int     @default(0) // Stored in cents or tokens
-  api_key_hash   String  @unique // Never store raw API keys
+  id   String @id @default(uuid())
+  name String
+  slug String @unique
+
+  // Billing
+  stripe_customer_id     String?
+  stripe_subscription_id String?
+  current_plan           String? // STARTER, PRO, ENTERPRISE
+  credit_balance         Int     @default(0) // Minutes available
+  billing_email          String?
+
+  api_key_hash String @unique
 
   users          User[]
   agents         Agent[]
-  knowledgeBases KnowledgeBase[] // NEW: RAG knowledge bases
+  transactions   Transaction[]
+  knowledgeBases KnowledgeBase[]
 
   created_at DateTime @default(now())
   updated_at DateTime @updatedAt
@@ -59,16 +66,15 @@ model User {
 
 // 3. Agent ( The AI Config )
 model Agent {
-  id            String @id @default(uuid())
+  id            String  @id @default(uuid())
   name          String
-  system_prompt String @db.Text
-  voice_id      String // ElevenLabs or Deepgram Voice ID
+  system_prompt String  @db.Text
+  voice_id      String
+  phone_number  String? // NEW: Twilio phone number for this agent
 
-  // JSON fields for flexible config
-  tools_enabled Json @default("[]") // e.g. ["check_order", "book_ticket"]
-  llm_config    Json @default("{}") // e.g. { "model": "gemini-1.5", "temperature": 0.7 }
+  tools_enabled Json @default("[]")
+  llm_config    Json @default("{}")
 
-  // NEW: Link to knowledge base for RAG
   kb_id String?
   kb    KnowledgeBase? @relation(fields: [kb_id], references: [id])
 
@@ -81,6 +87,7 @@ model Agent {
   updated_at DateTime @updatedAt
 
   @@index([kb_id])
+  @@index([phone_number]) // NEW: Index for quick lookup
   @@map("agents")
 }
 
@@ -175,4 +182,24 @@ model KnowledgeChunk {
   @@index([kb_id])
   @@index([content_tsv], type: Gin) // Full-text search index
   @@map("knowledge_chunks")
+}
+
+// 8. Transaction ( The Billing Ledger )
+model Transaction {
+  id     String       @id @default(uuid())
+  org_id String
+  org    Organization @relation(fields: [org_id], references: [id])
+
+  type          String // CREDIT, DEBIT
+  amount        Int // Minutes
+  description   String
+  balance_after Int
+
+  conversation_id String?
+
+  created_at DateTime @default(now())
+
+  @@index([org_id])
+  @@index([created_at])
+  @@map("transactions")
 }

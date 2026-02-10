@@ -12,6 +12,7 @@ const rateLimiter_1 = require("./middleware/rateLimiter");
 // 1. IMPORT THE LOGGER FROM UTILS (Fixes Circular Dependency)
 const logger_1 = require("./utils/logger");
 const documentRoutes_1 = __importDefault(require("./routes/documentRoutes"));
+const playground_1 = __importDefault(require("./routes/playground"));
 // UUID Setup (Keep your existing logic)
 let uuidv4;
 import("uuid").then((uuid) => {
@@ -42,3 +43,4 @@ app.get("/health", (req, res) => {
 });
 // 6. Routes
 app.use("/api/documents", documentRoutes_1.default);
+app.use('/api/playground', playground_1.default);
